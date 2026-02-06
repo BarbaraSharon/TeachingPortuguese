@@ -1,6 +1,8 @@
 
 
-@import url(fontawesome-all.min.css);
+
+
+@import url(all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic|Roboto+Slab:400,700");
 /*
 	Editorial by HTML5 UP
@@ -2295,3 +2297,64 @@ button,
   color: rgb(245, 106, 106) !important;
 }
 
+
+
+/* Font Awesome 7.x icon fix for features section */
+
+/* Smaller, balanced Font Awesome icons for features section */
+.features article span > i {
+  display: block;
+  color: #f56a6a;
+  font-size: 2rem;
+  height: 3.5em;
+  line-height: 3.5em;
+  margin: 0 1.2em 0 0;
+  text-align: center;
+  width: 3.5em;
+  position: relative;
+}
+.features article span > i::after {
+  content: '';
+  display: block;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 2.5em;
+  height: 2.5em;
+  margin: -1.25em 0 0 -1.25em;
+  border: solid 2px rgba(210, 215, 217, 0.75);
+  border-radius: 0.25rem;
+  transform: rotate(45deg);
+  z-index: -1;
+}
+@media screen and (max-width: 980px) {
+  .features article span > i {
+    height: 2.5em;
+    line-height: 2.5em;
+    width: 2.5em;
+    font-size: 1.5rem;
+  }
+  .features article span > i::after {
+    width: 1.7em;
+    height: 1.7em;
+    margin: -0.85em 0 0 -0.85em;
+  }
+}
+@media screen and (max-width: 480px) {
+  .features article span > i {
+    height: 2em;
+    line-height: 2em;
+    margin: 0 0 1em 0;
+    width: 2em;
+    font-size: 1.1rem;
+  }
+  .features article span > i::after {
+    width: 1.2em;
+    height: 1.2em;
+    margin: -0.6em 0 0 -0.6em;
+  }
+}
+
+
+/* Make all Font Awesome icons use the theme color */
+i.fab, i.fas, i.far, i.fa-solid, i.fa-regular, i.fa-brands, i.fa { color: #f56a6a !important; }
