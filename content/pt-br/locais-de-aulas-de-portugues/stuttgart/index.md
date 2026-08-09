@@ -1,7 +1,7 @@
 ---
 translationKey: location-stuttgart
 title: "Aulas online de português brasileiro em Stuttgart"
-description: Aprenda português brasileiro em Stuttgart com Barbara Sharon.
+description: "Aulas online de português brasileiro para quem está em Stuttgart, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

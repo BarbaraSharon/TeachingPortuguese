@@ -1,7 +1,7 @@
 ---
 translationKey: location-parkside
 title: "Clases online de portugués brasileño en Parkside"
-description: Aprende portugués brasileño en Parkside, Gold Coast, con Barbara Sharon. Clases particulares y grupales para todos los niveles. Hay clases en línea.
+description: "Clases online de portugués brasileño para quienes están en Parkside, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

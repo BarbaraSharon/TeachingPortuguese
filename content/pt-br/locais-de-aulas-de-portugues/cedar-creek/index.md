@@ -1,7 +1,7 @@
 ---
 translationKey: location-cedar-creek
 title: "Aulas online de português brasileiro em Cedar Creek"
-description: Aprenda português brasileiro em Cedar Creek com aulas presenciais e online.
+description: "Aulas online de português brasileiro para quem está em Cedar Creek, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

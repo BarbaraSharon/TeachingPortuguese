@@ -1,7 +1,7 @@
 ---
 translationKey: aulas-de-portugues
 title: "Clases de portugués: opciones y formatos"
-description: Aprende portugués brasileño en línea desde cualquier lugar del mundo o presencialmente en Gold Coast.
+description: "Explora clases de portugués brasileño para distintos niveles y objetivos, online en todo el mundo y privadas o grupales en Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: services

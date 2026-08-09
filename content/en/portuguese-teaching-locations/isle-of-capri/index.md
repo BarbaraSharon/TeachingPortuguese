@@ -1,8 +1,7 @@
 ---
 translationKey: location-isle-of-capri
 title: "Online Brazilian Portuguese Lessons in Isle of Capri"
-description: Discover Portuguese lessons in Isle of Capri. Learn Brazilian Portuguese online and in-person with expert tutor
-  Barbara Sharon
+description: "Online Brazilian Portuguese lessons for learners in Isle of Capri, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

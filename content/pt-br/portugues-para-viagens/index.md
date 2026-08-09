@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-viagens
 title: "Português para viagens: fale com confiança"
-description: Aprenda frases essenciais em português para viajar ao Brasil e a Portugal. Cursos práticos para turistas, viajantes e pessoas em férias.
+description: "Prepare-se para viajar com português brasileiro prático para cumprimentar, pedir comida, se orientar e se comunicar em situações do dia a dia."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

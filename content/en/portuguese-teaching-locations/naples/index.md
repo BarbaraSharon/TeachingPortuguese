@@ -1,7 +1,7 @@
 ---
 translationKey: location-naples
 title: "Online Brazilian Portuguese Lessons in Naples"
-description: "Learn Brazilian Portuguese in Naples, Gold Coast."
+description: "Online Brazilian Portuguese lessons for learners in Naples, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

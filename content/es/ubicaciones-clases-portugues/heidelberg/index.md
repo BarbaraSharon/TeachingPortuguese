@@ -1,7 +1,7 @@
 ---
 translationKey: location-heidelberg
 title: "Clases online de portugués brasileño en Heidelberg"
-description: Aprende portugués en Heidelberg con clases particulares y grupales expertas en línea.
+description: "Clases online de portugués brasileño para quienes están en Heidelberg, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,8 +1,7 @@
 ---
 translationKey: location-florence
 title: "Online Brazilian Portuguese Lessons in Florence"
-description: Discover the best Brazilian Portuguese lessons in Florence. Learn with online private and group classes from
-  Barbara Sharon, a Brazilian Portuguese teacher
+description: "Online Brazilian Portuguese lessons for learners in Florence, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-calgary
 title: "Aulas online de português brasileiro em Calgary"
-description: Descubra a melhor professora de português em Calgary.
+description: "Aulas online de português brasileiro para quem está em Calgary, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

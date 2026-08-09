@@ -1,8 +1,7 @@
 ---
 translationKey: location-heidelberg
 title: "Online Brazilian Portuguese Lessons in Heidelberg"
-description: Learn Portuguese in Heidelberg with expert online private and group lessons. Book your free trial lesson with
-  Barbara Sharon, a certified Portuguese tutor
+description: "Online Brazilian Portuguese lessons for learners in Heidelberg, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

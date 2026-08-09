@@ -1,7 +1,7 @@
 ---
 translationKey: location-nuremberg
 title: "Clases online de portugués brasileño en Núremberg"
-description: Aprende portugués brasileño y europeo en Núremberg con clases expertas en línea.
+description: "Clases online de portugués brasileño para quienes están en Núremberg, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

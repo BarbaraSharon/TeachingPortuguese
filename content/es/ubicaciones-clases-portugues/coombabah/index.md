@@ -1,7 +1,7 @@
 ---
 translationKey: location-coombabah
 title: "Clases online de portugués brasileño en Coombabah"
-description: Descubre excelentes clases de portugués en Coombabah con Barbara Sharon. Clases presenciales y en línea para todos los niveles. ¡Empieza hoy!
+description: "Clases online de portugués brasileño para quienes están en Coombabah, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -2,7 +2,7 @@
 translationKey: location-pages
 type: portuguese-teaching-locations
 title: "Locais e formatos das aulas de português"
-description: Encontre aulas de português brasileiro presenciais e online com Barbara Sharon, com resultados comprovados de melhoria rápida.
+description: "Explore locais e formatos de aulas de português brasileiro, com ensino online para alunos no mundo todo e opções presenciais na Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

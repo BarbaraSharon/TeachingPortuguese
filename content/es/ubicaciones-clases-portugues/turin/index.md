@@ -1,7 +1,7 @@
 ---
 translationKey: location-turin
 title: "Clases online de portugués brasileño en Turin"
-description: 'Aprende portugués brasileño en Turin con clases expertas en línea.'
+description: "Clases online de portugués brasileño para quienes están en Turin, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

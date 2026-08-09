@@ -1,7 +1,7 @@
 ---
 translationKey: location-cork
 title: "Aulas online de português brasileiro em Cork"
-description: Descubra excelentes aulas de português brasileiro em Cork, com aulas online particulares e em grupo.
+description: "Aulas online de português brasileiro para quem está em Cork, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

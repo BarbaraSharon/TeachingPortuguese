@@ -1,7 +1,7 @@
 ---
 translationKey: location-abbotsford
 title: "Aulas online de português brasileiro em Abbotsford"
-description: Descubra a melhor tutora de português em Abbotsford.
+description: "Aulas online de português brasileiro para quem está em Abbotsford, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

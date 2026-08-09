@@ -1,7 +1,7 @@
 ---
 translationKey: aulas-particulares-portugues-gold-coast
 title: "Clases particulares de portugués en Gold Coast"
-description: Aprende portugués brasileño con tutoría particular en línea en todo el mundo o presencialmente en Gold Coast.
+description: "Elige clases particulares de portugués brasileño online en todo el mundo o en Gold Coast, con apoyo centrado en tu nivel, intereses y objetivos."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

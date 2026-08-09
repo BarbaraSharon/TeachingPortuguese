@@ -1,7 +1,7 @@
 ---
 translationKey: location-moncton
 title: "Aulas online de português brasileiro em Moncton"
-description: Descubra a melhor tutora de português em Moncton. Agende sua aula experimental gratuita com Barbara Sharon para aulas online. Aprenda português hoje!
+description: "Aulas online de português brasileiro para quem está em Moncton, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

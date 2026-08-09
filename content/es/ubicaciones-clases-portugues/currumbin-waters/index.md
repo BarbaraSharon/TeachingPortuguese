@@ -1,7 +1,7 @@
 ---
 translationKey: location-currumbin-waters
 title: "Clases online de portugués brasileño en Currumbin Waters"
-description: Descubre clases expertas de portugués brasileño en Currumbin Waters.
+description: "Clases online de portugués brasileño para quienes están en Currumbin Waters, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,7 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Eindhoven"
-description: Conheça as melhores aulas de português em Eindhoven com Barbara Sharon. Aulas online particulares e em grupo, para
-  alunos do nível iniciante ao avançado.
+description: "Aulas online de português brasileiro para quem está em Eindhoven, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-eindhoven

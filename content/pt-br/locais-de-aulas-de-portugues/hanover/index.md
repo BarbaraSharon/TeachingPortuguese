@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Hanover"
-description: "Descubra as melhores aulas de português online em Hanover com a professora nativa Barbara Sharon."
+description: "Aulas online de português brasileiro para quem está em Hanover, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-hanover

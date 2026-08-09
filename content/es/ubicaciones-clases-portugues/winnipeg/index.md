@@ -1,7 +1,7 @@
 ---
 translationKey: location-winnipeg
 title: "Clases online de portugués brasileño en Winnipeg"
-description: Descubre a la mejor profesora de portugués en Winnipeg.
+description: "Clases online de portugués brasileño para quienes están en Winnipeg, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

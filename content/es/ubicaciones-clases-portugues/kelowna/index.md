@@ -1,7 +1,7 @@
 ---
 translationKey: location-kelowna
 title: "Clases online de portugués brasileño en Kelowna"
-description: Descubre la mejor tutora de portugués en Kelowna.
+description: "Clases online de portugués brasileño para quienes están en Kelowna, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

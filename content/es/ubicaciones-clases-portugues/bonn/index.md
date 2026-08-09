@@ -1,7 +1,7 @@
 ---
 translationKey: location-bonn
 title: "Clases online de portugués brasileño en Bonn"
-description: Aprende portugués brasileño en Bonn con clases particulares y grupales en línea de Barbara Sharon. Empieza hoy con una clase de prueba gratuita.
+description: "Clases online de portugués brasileño para quienes están en Bonn, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

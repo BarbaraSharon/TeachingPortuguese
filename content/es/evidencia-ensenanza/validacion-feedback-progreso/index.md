@@ -3,7 +3,7 @@ title: "Seguimiento y feedback en clases de portugués"
 url: /es/evidencia-ensenanza/validacion-feedback-progreso/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Cómo se estructuran feedback, revisión y visibilidad de progreso para verificación y confianza.
+description: "Conoce cómo las clases de portugués brasileño usan feedback, hábitos de revisión y puntos de progreso visibles para orientar el aprendizaje continuo."
 robots: noindex, follow
 ---
 

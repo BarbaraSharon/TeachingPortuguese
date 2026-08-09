@@ -3,8 +3,8 @@ lastmod: '2026-08-05'
 video_publication_date: '2024-01-15T00:00:00+00:00'
 translationKey: home
 title: "Learn Brazilian Portuguese with Barbara Sharon"
-summary: "Learn Brazilian Portuguese with Barbara Sharon - expert tutoring, teaching and language courses on the Gold Coast."
-description: "Learn Brazilian Portuguese with Barbara Sharon - expert tutoring, teaching and language courses on the Gold Coast."
+summary: "Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online worldwide, with in-person options on the Gold Coast."
+description: "Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online worldwide, with in-person options on the Gold Coast."
 type: landing
 aliases:
 - /

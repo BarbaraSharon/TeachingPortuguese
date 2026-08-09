@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Yellowknife"
-description: Tutora de português em Yellowknife. Aula experimental gratuita com Barbara Sharon para aulas de português online, particulares e em grupo. Aprenda hoje!
+description: "Aulas online de português brasileiro para quem está em Yellowknife, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-yellowknife

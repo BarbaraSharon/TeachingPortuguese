@@ -1,7 +1,7 @@
 ---
 translationKey: location-augsburg
 title: "Clases online de portugués brasileño en Augsburgo"
-description: Aprende portugués brasileño con clases particulares y grupales en línea. Reserva una clase de prueba gratuita con Barbara Sharon, tutora brasileña nativa.
+description: "Clases online de portugués brasileño para quienes están en Augsburgo, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

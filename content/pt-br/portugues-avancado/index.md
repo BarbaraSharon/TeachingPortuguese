@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-avancado
 title: "Aulas de português avançado para progredir"
-description: Aperfeiçoe sua fluência em português brasileiro com aulas avançadas de conversação, pronúncia, gramática e nuances culturais.
+description: "Aperfeiçoe o português brasileiro avançado com conversação, pronúncia, gramática, vocabulário e nuances culturais adaptados aos seus objetivos."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

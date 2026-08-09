@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-avancado
 title: "Clases de portugués avanzado para progresar"
-description: Perfecciona tu portugués brasileño con clases avanzadas de conversación, pronunciación, gramática y matices culturales.
+description: "Perfecciona tu portugués brasileño avanzado con conversación, pronunciación, gramática, vocabulario y matices culturales adaptados a tus objetivos."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

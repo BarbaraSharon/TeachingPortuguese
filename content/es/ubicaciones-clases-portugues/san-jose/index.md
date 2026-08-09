@@ -1,7 +1,7 @@
 ---
 translationKey: location-san-jose
 title: "Clases online de portugués brasileño en San José"
-description: Descubre clases expertas particulares y grupales de portugués brasileño en línea en San José con Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en San José, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

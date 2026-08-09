@@ -1,7 +1,7 @@
 ---
 translationKey: location-hanover
 title: "Clases online de portugués brasileño en Hanover"
-description: Descubre excelentes clases de portugués en línea en Hanover con la profesora nativa Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en Hanover, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

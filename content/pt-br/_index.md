@@ -2,8 +2,8 @@
 lastmod: '2026-08-05'
 translationKey: home
 title: "Aprenda português com Barbara Sharon"
-summary: "Aprenda português brasileiro com Barbara Sharon - aulas particulares, ensino e cursos de idiomas na Gold Coast."
-description: "Aprenda português brasileiro com Barbara Sharon - aulas particulares, ensino e cursos de idiomas na Gold Coast."
+summary: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."
+description: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."
 type: landing
 image:
   filename: pages/home/home-brazilian-portuguese-lessons.png

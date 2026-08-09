@@ -1,7 +1,7 @@
 ---
 translationKey: ensino-de-portugues-gold-coast
 title: "In-Person Portuguese Lessons on the Gold Coast"
-description: Learn Brazilian Portuguese with private or group lessons online worldwide or in person on the Gold Coast.
+description: "Learn Brazilian Portuguese in private or group lessons, with in-person teaching on the Gold Coast and online options for learners elsewhere in the world."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

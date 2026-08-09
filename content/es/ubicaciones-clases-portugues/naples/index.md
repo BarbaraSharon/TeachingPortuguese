@@ -1,7 +1,7 @@
 ---
 translationKey: location-naples
 title: "Clases online de portugués brasileño en Naples"
-description: Aprende portugués brasileño en Naples, Gold Coast.
+description: "Clases online de portugués brasileño para quienes están en Naples, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

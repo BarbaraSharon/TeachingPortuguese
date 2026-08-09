@@ -1,7 +1,7 @@
 ---
 translationKey: location-ikaluit
 title: "Online Brazilian Portuguese Lessons in Ikaluit"
-description: "Discover the best Portuguese tutor in Ikaluit."
+description: "Online Brazilian Portuguese lessons for learners in Ikaluit, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

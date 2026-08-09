@@ -1,7 +1,7 @@
 ---
 translationKey: location-adelaide
 title: "Clases online de portugués brasileño en Adelaida"
-description: Reserva clases de portugués en Adelaida con Barbara Sharon y disfruta de una metodología orientada a mejorar rápidamente.
+description: "Clases online de portugués brasileño para quienes están en Adelaida, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,8 +1,7 @@
 ---
 translationKey: location-carrara
 title: "Online Brazilian Portuguese Lessons in Carrara"
-description: Learn Portuguese in Carrara with expert in-person and online lessons. Book a free trial lesson with Barbara Sharon,
-  a certified Portuguese tutor
+description: "Online Brazilian Portuguese lessons for learners in Carrara, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

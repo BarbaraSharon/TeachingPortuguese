@@ -1,7 +1,7 @@
 ---
 translationKey: location-richmond
 title: "Online Brazilian Portuguese Lessons in Richmond"
-description: "Discover the best Portuguese tutor in Richmond."
+description: "Online Brazilian Portuguese lessons for learners in Richmond, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

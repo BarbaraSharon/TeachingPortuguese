@@ -1,7 +1,7 @@
 ---
 translationKey: location-bologna
 title: "Clases online de portugués brasileño en Bolonia"
-description: Descubre excelentes clases de portugués en Bolonia con Barbara Sharon. Clases particulares y grupales en línea para principiantes y estudiantes avanzados.
+description: "Clases online de portugués brasileño para quienes están en Bolonia, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

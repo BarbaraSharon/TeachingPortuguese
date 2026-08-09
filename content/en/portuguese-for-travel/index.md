@@ -1,8 +1,7 @@
 ---
 translationKey: portugues-para-viagens
 title: "Brazilian Portuguese for Travel Confidence"
-description: Learn essential Portuguese phrases for travel to Brazil and Portugal. Practical courses designed for tourists,
-  travelers, and vacationers.
+description: "Prepare for travel with Brazilian Portuguese phrases for greetings, food, directions, and everyday interactions in Brazil or elsewhere."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

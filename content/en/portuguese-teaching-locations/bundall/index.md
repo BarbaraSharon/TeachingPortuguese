@@ -1,7 +1,7 @@
 ---
 translationKey: location-bundall
 title: "Online Brazilian Portuguese Lessons in Bundall"
-description: "Discover the best Portuguese tutor in Bundall."
+description: "Online Brazilian Portuguese lessons for learners in Bundall, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

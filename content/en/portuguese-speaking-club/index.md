@@ -1,7 +1,7 @@
 ---
 translationKey: clube-de-conversacao
 title: "Brazilian Portuguese Conversation Club"
-description: Build fluency and confidence through supportive Portuguese conversation practice with Barbara Sharon.
+description: "Practise Brazilian Portuguese conversation with Barbara Sharon in a supportive club format that encourages speaking, listening, and everyday communication."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

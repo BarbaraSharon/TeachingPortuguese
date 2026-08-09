@@ -1,7 +1,7 @@
 ---
 translationKey: location-barcelona
 title: "Online Brazilian Portuguese Lessons in Barcelona"
-description: Learn Brazilian Portuguese online from Barcelona with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Barcelona, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

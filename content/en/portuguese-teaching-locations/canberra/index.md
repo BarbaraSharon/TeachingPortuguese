@@ -1,7 +1,7 @@
 ---
 translationKey: location-canberra
 title: "Online Brazilian Portuguese Lessons in Canberra"
-description: Book Portuguese lessons in Canberra with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Canberra, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

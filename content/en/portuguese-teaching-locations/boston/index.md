@@ -1,7 +1,7 @@
 ---
 translationKey: location-boston
 title: "Online Brazilian Portuguese Lessons in Boston"
-description: Book Portuguese lessons in Boston with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Boston, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

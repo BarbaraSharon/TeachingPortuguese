@@ -1,7 +1,7 @@
 ---
 translationKey: aprenda-portugues
 title: "Rutas para aprender portugués con Barbara Sharon"
-description: Aprende portugués con Barbara Sharon, tutora experta en Gold Coast, con clases particulares y grupales. Clases de portugués en línea.
+description: "Explora rutas para aprender portugués brasileño con Barbara Sharon, desde bases iniciales hasta viajes, negocios, conversación y cultura."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

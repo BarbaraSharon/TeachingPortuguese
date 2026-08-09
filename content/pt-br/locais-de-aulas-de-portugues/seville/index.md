@@ -1,7 +1,7 @@
 ---
 translationKey: location-seville
 title: "Aulas online de português brasileiro em Sevilha"
-description: Aprenda português brasileiro online a partir de Sevilha com Barbara Sharon.
+description: "Aulas online de português brasileiro para quem está em Sevilha, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

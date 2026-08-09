@@ -1,7 +1,7 @@
 ---
 translationKey: location-guanaba
 title: "Clases online de portugués brasileño en Guanaba"
-description: Aprende portugués brasileño en Guanaba con clases particulares en línea y presenciales.
+description: "Clases online de portugués brasileño para quienes están en Guanaba, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

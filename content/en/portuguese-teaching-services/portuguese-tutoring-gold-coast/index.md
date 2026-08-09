@@ -1,7 +1,7 @@
 ---
 translationKey: aulas-particulares-portugues-gold-coast
 title: "Private Portuguese Lessons on the Gold Coast"
-description: Learn Brazilian Portuguese with private tutoring online worldwide or in person on the Gold Coast.
+description: "Choose private Brazilian Portuguese lessons online worldwide or on the Gold Coast, with focused support for your level, interests, and learning goals."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

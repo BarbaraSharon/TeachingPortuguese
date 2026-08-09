@@ -1,7 +1,7 @@
 ---
 translationKey: location-foxwell
 title: "Clases online de portugués brasileño en Foxwell"
-description: Descubre tutorías de portugués especializadas en Foxwell, Australia. Recibe clases personalizadas en Surfers Paradise o en línea con Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en Foxwell, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

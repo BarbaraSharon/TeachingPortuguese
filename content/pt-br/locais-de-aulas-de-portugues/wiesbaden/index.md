@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Wiesbaden"
-description: Aprenda português brasileiro em Wiesbaden com Barbara Sharon. Aulas online para todos os níveis, conectando você à crescente comunidade brasileira.
+description: "Aulas online de português brasileiro para quem está em Wiesbaden, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-wiesbaden

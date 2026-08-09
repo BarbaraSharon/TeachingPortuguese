@@ -1,7 +1,7 @@
 ---
 translationKey: location-cedar-creek
 title: "Online Brazilian Portuguese Lessons in Cedar Creek"
-description: "Learn Brazilian Portuguese in Cedar Creek with in-person and online lessons."
+description: "Online Brazilian Portuguese lessons for learners in Cedar Creek, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

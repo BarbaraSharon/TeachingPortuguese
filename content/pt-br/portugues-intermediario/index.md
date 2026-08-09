@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-intermediario
 title: "Aulas de português intermediário para avançar"
-description: Vá além do básico com aulas de português brasileiro de nível intermediário voltadas para conversação, vocabulário, gramática, pronúncia e fluência.
+description: "Vá além do básico com aulas de português brasileiro intermediário para conversação, pronúncia, vocabulário, gramática e comunicação cotidiana."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

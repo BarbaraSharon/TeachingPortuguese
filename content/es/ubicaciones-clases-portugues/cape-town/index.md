@@ -1,7 +1,7 @@
 ---
 translationKey: location-cape-town
 title: "Clases online de portugués brasileño en Cape Town"
-description: Reserva clases de portugués en Cape Town con Barbara Sharon y mejora rápidamente con resultados comprobados.
+description: "Clases online de portugués brasileño para quienes están en Cape Town, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

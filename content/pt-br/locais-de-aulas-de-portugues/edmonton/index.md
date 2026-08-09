@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Edmonton"
-description: "Encontre a melhor professora de português em Edmonton."
+description: "Aulas online de português brasileiro para quem está em Edmonton, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-edmonton

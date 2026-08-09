@@ -1,7 +1,7 @@
 ---
 translationKey: may-2025
 title: "Cheers to Portuguese: May 2025 Newsletter"
-description: "Cheers to Portuguese é a newsletter de Barbara Sharon sobre encontros de conversação, português brasileiro e comunidade."
+description: "Read the first Cheers to Portuguese newsletter, sharing a community conversation meetup, upcoming events, and Brazilian culture."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:
@@ -9,7 +9,7 @@ aliases:
 robots: index, follow, max-image-preview:large
 toc: true
 type: newsletter
-summary: "The first Cheers to Portuguese issue celebrates a community conversation meetup, upcoming events and a taste of Brazilian culture."
+summary: "Read the first Cheers to Portuguese newsletter, sharing a community conversation meetup, upcoming events, and Brazilian culture."
 card_title: "Cheers to Portuguese - May 2025"
 featured_image: "/media/pages/newsletter/photos/community-group.jpg"
 ---

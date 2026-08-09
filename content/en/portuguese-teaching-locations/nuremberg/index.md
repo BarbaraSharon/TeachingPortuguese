@@ -1,8 +1,7 @@
 ---
 translationKey: location-nuremberg
 title: "Online Brazilian Portuguese Lessons in Nuremberg"
-description: Learn Brazilian & European Portuguese in Nuremberg with expert online lessons. Private and group classes for
-  all levels. Start your journey today!
+description: "Online Brazilian Portuguese lessons for learners in Nuremberg, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

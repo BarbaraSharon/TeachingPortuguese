@@ -1,7 +1,7 @@
 ---
 translationKey: location-nerang
 title: "Online Brazilian Portuguese Lessons in Nerang"
-description: Book Portuguese lessons in Nerang with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Nerang, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

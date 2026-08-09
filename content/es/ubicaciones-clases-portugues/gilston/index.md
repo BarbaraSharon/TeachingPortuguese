@@ -1,7 +1,7 @@
 ---
 translationKey: location-gilston
 title: "Clases online de portugués brasileño en Gilston"
-description: Descubre tutorías expertas de portugués en Gilston.
+description: "Clases online de portugués brasileño para quienes están en Gilston, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

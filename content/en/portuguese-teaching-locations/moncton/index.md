@@ -1,8 +1,7 @@
 ---
 translationKey: location-moncton
 title: "Online Brazilian Portuguese Lessons in Moncton"
-description: Discover the best Portuguese tutor in Moncton. Book your free trial with Barbara Sharon for online lessons. Learn
-  Portuguese today!
+description: "Online Brazilian Portuguese lessons for learners in Moncton, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

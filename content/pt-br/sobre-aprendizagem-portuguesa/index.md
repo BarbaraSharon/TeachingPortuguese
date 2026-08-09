@@ -1,7 +1,7 @@
 ---
 translationKey: sobre-aprendizagem-portuguesa
 title: "Conheça Barbara Sharon, professora de português"
-description: Sobre Barbara Sharon - tutora e professora experiente de português, com cursos de idiomas na Gold Coast. Aprenda português com uma professora qualificada.
+description: "Conheça Barbara Sharon e sua abordagem para ensinar português brasileiro, com opções de aula para alunos online ou na Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

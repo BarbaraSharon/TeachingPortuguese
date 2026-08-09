@@ -1,7 +1,7 @@
 ---
 translationKey: location-bordeaux
 title: "Aulas online de português brasileiro em Bordeaux"
-description: Descubra aulas online de português brasileiro em Bordeaux. Aprenda com Barbara Sharon - aulas particulares e em grupo adaptadas ao seu nível.
+description: "Aulas online de português brasileiro para quem está em Bordeaux, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

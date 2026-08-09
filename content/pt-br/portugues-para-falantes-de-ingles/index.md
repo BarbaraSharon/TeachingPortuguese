@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-falantes-de-ingles
 title: "Português para falantes de inglês: aulas claras"
-description: Aprenda português brasileiro com uma professora que fala inglês. Aulas criadas para falantes de inglês, cobrindo pronúncia, gramática e nuances culturais.
+description: "Aprenda português brasileiro como falante de inglês com apoio para pronúncia, comparações gramaticais, vocabulário útil e contexto cultural."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

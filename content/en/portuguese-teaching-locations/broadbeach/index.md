@@ -1,7 +1,7 @@
 ---
 translationKey: location-broadbeach
 title: "Online Brazilian Portuguese Lessons in Broadbeach"
-description: Book Portuguese lessons in Broadbeach with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Broadbeach, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

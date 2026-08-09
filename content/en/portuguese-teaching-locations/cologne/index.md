@@ -1,7 +1,7 @@
 ---
 translationKey: location-cologne
 title: "Online Brazilian Portuguese Lessons in Cologne"
-description: "Discover top-quality Portuguese lessons in Cologne with Barbara Sharon."
+description: "Online Brazilian Portuguese lessons for learners in Cologne, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

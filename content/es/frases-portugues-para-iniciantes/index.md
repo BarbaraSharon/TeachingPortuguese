@@ -1,7 +1,7 @@
 ---
 translationKey: frases-para-iniciantes
 title: "Frases de portugués brasileño para principiantes"
-description: Aprende frases de portugués brasileño para principiantes, viajes y conversaciones cotidianas, con pronunciación sencilla.
+description: "Aprende frases útiles de portugués brasileño para conversaciones iniciales, viajes, saludos y situaciones cotidianas, con una pronunciación accesible."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

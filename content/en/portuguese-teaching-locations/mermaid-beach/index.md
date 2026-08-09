@@ -1,7 +1,7 @@
 ---
 translationKey: location-mermaid-beach
 title: "Online Brazilian Portuguese Lessons in Mermaid Beach"
-description: Book Portuguese lessons in Mermaid Beach with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Mermaid Beach, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,8 +1,7 @@
 ---
 translationKey: location-cork
 title: "Online Brazilian Portuguese Lessons in Cork"
-description: Discover top Brazilian Portuguese lessons in Cork with online private and group classes. Book a free trial lesson
-  with expert tutor Barbara Sharon
+description: "Online Brazilian Portuguese lessons for learners in Cork, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

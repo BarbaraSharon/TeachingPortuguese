@@ -1,7 +1,7 @@
 ---
 translationKey: faq-aprendizagem-portuguesa
 title: "Preguntas sobre las clases de portugués"
-description: Respuestas prácticas sobre clases, métodos, pronunciación y progreso al aprender portugués brasileño con Barbara Sharon.
+description: "Encuentra respuestas claras sobre clases de portugués brasileño, métodos de estudio, pronunciación, formatos y objetivos de aprendizaje con Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

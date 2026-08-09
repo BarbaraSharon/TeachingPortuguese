@@ -1,7 +1,7 @@
 ---
 translationKey: location-the-hague
 title: "Online Brazilian Portuguese Lessons in The Hague"
-description: Learn Brazilian Portuguese in The Hague with expert online lessons. Private & group classes by Barbara Sharon
+description: "Online Brazilian Portuguese lessons for learners in The Hague, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-burleigh-waters
 title: "Aulas online de português brasileiro em Burleigh Waters"
-description: Descubra aulas especializadas de português brasileiro em Burleigh Waters.
+description: "Aulas online de português brasileiro para quem está em Burleigh Waters, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

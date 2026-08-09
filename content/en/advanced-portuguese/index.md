@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-avancado
 title: "Advanced Brazilian Portuguese Lessons"
-description: Refine Brazilian Portuguese fluency with advanced lessons focused on natural conversation, pronunciation, complex grammar, vocabulary, and cultural nuance.
+description: "Refine advanced Brazilian Portuguese through conversation, pronunciation, grammar, vocabulary, and cultural nuance in lessons shaped around your goals."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

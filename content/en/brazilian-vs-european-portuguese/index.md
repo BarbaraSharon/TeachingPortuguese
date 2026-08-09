@@ -1,8 +1,7 @@
 ---
 translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Brazilian vs European Portuguese Explained"
-description: Confused about Brazilian vs European Portuguese? Learn key differences and which variant is right for your goals
-  with expert guidance from Barbara Sharon.
+description: "Compare Brazilian and European Portuguese through clear differences in pronunciation, vocabulary, grammar, and everyday cultural context for new learners."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

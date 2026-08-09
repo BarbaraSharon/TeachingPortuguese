@@ -1,8 +1,7 @@
 ---
 translationKey: frases-para-iniciantes
 title: "Brazilian Portuguese Phrases for Beginners"
-description: Most important beginner Brazilian Portuguese phrases for travel and everyday conversations, with simple pronunciation
-  to help you communicate from day one.
+description: "Learn useful Brazilian Portuguese phrases for beginner conversations, travel, greetings, and everyday situations, with approachable pronunciation guidance."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

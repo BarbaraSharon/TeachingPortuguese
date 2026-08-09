@@ -3,7 +3,7 @@ title: "Notas para pasar de inicial a conversación"
 url: /es/evidencia-ensenanza/notas-conversacion-principiantes/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Notas anónimas sobre la progresión de principiantes hacia el uso práctico de la conversación.
+description: "Revisa notas de enseñanza anonimizadas sobre el paso del portugués brasileño inicial a la conversación práctica y el uso cotidiano del idioma."
 robots: noindex, follow
 ---
 

@@ -1,7 +1,7 @@
 ---
 translationKey: location-the-hague
 title: "Clases online de portugués brasileño en The Hague"
-description: Aprende portugués brasileño en The Hague con clases expertas en línea. Clases particulares y grupales con Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en The Hague, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

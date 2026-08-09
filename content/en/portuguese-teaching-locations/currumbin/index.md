@@ -1,7 +1,7 @@
 ---
 translationKey: location-currumbin
 title: "Online Brazilian Portuguese Lessons in Currumbin"
-description: Book Portuguese lessons in Currumbin with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Currumbin, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

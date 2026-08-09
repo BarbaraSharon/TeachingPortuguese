@@ -3,7 +3,7 @@ title: "Resumen del método de enseñanza de portugués"
 url: /es/evidencia-ensenanza/resumen-metodologia/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Enfoque de enseñanza centrado en la comunicación con hitos de progreso medibles en clases particulares y grupales.
+description: "Explora el enfoque comunicativo de Barbara Sharon para enseñar portugués brasileño, con estructura de clase, práctica, feedback y puntos de progreso."
 robots: noindex, follow
 ---
 

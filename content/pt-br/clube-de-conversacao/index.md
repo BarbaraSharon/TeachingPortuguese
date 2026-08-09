@@ -1,7 +1,7 @@
 ---
 translationKey: clube-de-conversacao
 title: "Clube de conversação em português brasileiro"
-description: Desenvolva fluência e confiança com a prática de conversação em português, em um ambiente acolhedor, com Barbara Sharon.
+description: "Pratique conversação em português brasileiro com Barbara Sharon em um clube acolhedor que incentiva a fala, a escuta e a comunicação natural."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

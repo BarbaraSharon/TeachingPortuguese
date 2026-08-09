@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-negocios
 title: "Português para negócios: aulas práticas"
-description: Impulsione sua carreira com treinamento profissional de português para negócios.
+description: "Desenvolva português brasileiro para o trabalho com linguagem prática para reuniões, apresentações e comunicação profissional internacional."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

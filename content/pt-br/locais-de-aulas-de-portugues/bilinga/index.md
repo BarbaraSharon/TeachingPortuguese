@@ -1,7 +1,7 @@
 ---
 translationKey: location-bilinga
 title: "Aulas online de português brasileiro em Bilinga"
-description: Aprenda português brasileiro em Bilinga com aulas especializadas. Agende hoje sua aula experimental gratuita com Barbara Sharon!
+description: "Aulas online de português brasileiro para quem está em Bilinga, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

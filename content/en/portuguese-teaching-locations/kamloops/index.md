@@ -1,7 +1,7 @@
 ---
 translationKey: location-kamloops
 title: "Online Brazilian Portuguese Lessons in Kamloops"
-description: "Discover the best Portuguese tutor in Kamloops."
+description: "Online Brazilian Portuguese lessons for learners in Kamloops, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-prince-george
 title: "Clases online de portugués brasileño en Prince"
-description: Descubre una excelente tutora de portugués en Prince-George.
+description: "Clases online de portugués brasileño para quienes están en Prince George, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

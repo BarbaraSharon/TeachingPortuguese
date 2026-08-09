@@ -1,7 +1,7 @@
 ---
 translationKey: location-san-francisco
 title: "Online Brazilian Portuguese Lessons in San Francisco"
-description: Book Portuguese lessons in San Francisco with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in San Francisco, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

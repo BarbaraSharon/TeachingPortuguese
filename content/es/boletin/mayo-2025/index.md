@@ -1,7 +1,7 @@
 ---
 translationKey: may-2025
 title: "Cheers to Portuguese: boletín de mayo 2025"
-description: "Cheers to Portuguese es el boletín de Barbara Sharon sobre encuentros de conversación, portugués brasileño y comunidad."
+description: "Lee el primer boletín Cheers to Portuguese, con un encuentro de conversación, próximos eventos y una introducción a la cultura brasileña."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:
@@ -9,7 +9,7 @@ aliases:
 robots: index, follow, max-image-preview:large
 toc: true
 type: newsletter
-summary: "La primera edición de Cheers to Portuguese celebra un encuentro de conversación, próximos eventos y una muestra de la cultura brasileña."
+summary: "Lee el primer boletín Cheers to Portuguese, con un encuentro de conversación, próximos eventos y una introducción a la cultura brasileña."
 card_title: "Cheers to Portuguese - Mayo de 2025"
 featured_image: "/media/pages/newsletter/photos/community-group.jpg"
 ---

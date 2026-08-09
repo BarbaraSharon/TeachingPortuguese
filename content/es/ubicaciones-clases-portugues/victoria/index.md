@@ -1,7 +1,7 @@
 ---
 translationKey: location-victoria
 title: "Clases online de portugués brasileño en Victoria"
-description: Descubre la mejor tutora de portugués en Victoria.
+description: "Clases online de portugués brasileño para quienes están en Victoria, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

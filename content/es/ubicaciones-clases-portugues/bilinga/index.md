@@ -1,7 +1,7 @@
 ---
 translationKey: location-bilinga
 title: "Clases online de portugués brasileño en Bilinga"
-description: Aprende portugués brasileño en Bilinga con clases expertas. ¡Reserva hoy una clase de prueba gratuita con Barbara Sharon!
+description: "Clases online de portugués brasileño para quienes están en Bilinga, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

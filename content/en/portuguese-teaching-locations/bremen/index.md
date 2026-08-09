@@ -1,7 +1,7 @@
 ---
 translationKey: location-bremen
 title: "Online Brazilian Portuguese Lessons in Bremen"
-description: "Discover the best online Portuguese lessons in Bremen with Barbara Sharon."
+description: "Online Brazilian Portuguese lessons for learners in Bremen, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

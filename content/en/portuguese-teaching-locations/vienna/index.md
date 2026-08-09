@@ -1,8 +1,7 @@
 ---
 translationKey: location-vienna
 title: "Online Brazilian Portuguese Lessons in Vienna"
-description: Master Brazilian Portuguese in Vienna with expert lessons by Barbara Sharon. Online classes for all levels. Join
-  the vibrant Brazilian community
+description: "Online Brazilian Portuguese lessons for learners in Vienna, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

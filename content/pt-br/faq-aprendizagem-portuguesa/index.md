@@ -1,7 +1,7 @@
 ---
 translationKey: faq-aprendizagem-portuguesa
 title: "Dúvidas sobre aulas de português brasileiro"
-description: Encontre respostas para dúvidas comuns sobre aprender português com Barbara Sharon, professora qualificada na Gold Coast.
+description: "Encontre respostas claras sobre aulas de português brasileiro, métodos de estudo, pronúncia, formatos e objetivos de aprendizagem com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

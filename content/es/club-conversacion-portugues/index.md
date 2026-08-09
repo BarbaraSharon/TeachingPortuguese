@@ -1,7 +1,7 @@
 ---
 translationKey: clube-de-conversacao
 title: "Club de conversación en portugués brasileño"
-description: Desarrolla fluidez y confianza mediante la práctica de conversación en portugués con Barbara Sharon, en un entorno acogedor y de apoyo.
+description: "Practica conversación en portugués brasileño con Barbara Sharon en un club de apoyo que anima a hablar, escuchar y comunicarse con naturalidad."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

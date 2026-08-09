@@ -1,7 +1,7 @@
 ---
 translationKey: location-jacobs-well
 title: "Clases online de portugués brasileño en Jacobs Well"
-description: Aprende portugués brasileño en Jacobs Well con Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en Jacobs Well, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

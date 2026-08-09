@@ -1,7 +1,7 @@
 ---
 translationKey: location-glasgow
 title: "Clases online de portugués brasileño en Glasgow"
-description: Descubre las mejores clases de portugués en Glasgow con Barbara Sharon. Clases particulares y grupales en línea, para todos los niveles. ¡Empieza hoy!
+description: "Clases online de portugués brasileño para quienes están en Glasgow, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

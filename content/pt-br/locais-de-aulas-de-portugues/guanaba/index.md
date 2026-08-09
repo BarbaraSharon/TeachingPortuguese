@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Guanaba"
-description: "Aprenda português brasileiro em Guanaba com aulas particulares online e presenciais."
+description: "Aulas online de português brasileiro para quem está em Guanaba, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-guanaba

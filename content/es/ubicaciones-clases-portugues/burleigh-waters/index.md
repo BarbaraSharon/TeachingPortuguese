@@ -1,7 +1,7 @@
 ---
 translationKey: location-burleigh-waters
 title: "Clases online de portugués brasileño en Burleigh Waters"
-description: 'Descubre clases expertas de portugués brasileño en Burleigh Waters. Aprende con Barbara Sharon: clases particulares y en línea. ¡Comienza hoy!'
+description: "Clases online de portugués brasileño para quienes están en Burleigh Waters, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

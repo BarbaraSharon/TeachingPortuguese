@@ -1,8 +1,7 @@
 ---
 translationKey: location-porto
 title: "Online Brazilian Portuguese Lessons in Porto"
-description: Master Brazilian Portuguese in Porto, Portugal with expert online lessons. Private and group classes tailored
-  to your level
+description: "Online Brazilian Portuguese lessons for learners in Porto, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

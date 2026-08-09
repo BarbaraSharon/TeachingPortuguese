@@ -1,7 +1,7 @@
 ---
 translationKey: location-clagiraba
 title: "Aulas online de português brasileiro em Clagiraba"
-description: Descubra aulas especializadas de português em Clagiraba.
+description: "Aulas online de português brasileiro para quem está em Clagiraba, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

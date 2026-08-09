@@ -1,7 +1,7 @@
 ---
 translationKey: location-kamloops
 title: "Clases online de portugués brasileño en Kamloops"
-description: Descubre a la mejor profesora de portugués en Kamloops.
+description: "Clases online de portugués brasileño para quienes están en Kamloops, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

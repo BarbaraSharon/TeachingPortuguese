@@ -1,7 +1,7 @@
 ---
 translationKey: location-bonogin
 title: "Aulas online de português brasileiro em Bonogin"
-description: Aprenda português brasileiro em Bonogin com aulas particulares e online.
+description: "Aulas online de português brasileiro para quem está em Bonogin, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-brisbane
 title: "Clases online de portugués brasileño en Brisbane"
-description: Clases de portugués brasileño en línea para estudiantes de Brisbane con Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en Brisbane, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

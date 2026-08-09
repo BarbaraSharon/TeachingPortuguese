@@ -6,8 +6,9 @@
   "description": "Landing page starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "build": "hugo --minify && npm run titles:check && npm run pagefind && npm run redirects && npm run redirects:check",
+    "build": "hugo --minify && npm run titles:check && npm run descriptions:check && npm run pagefind && npm run redirects && npm run redirects:check",
     "titles:check": "node scripts/check-seo-titles.mjs",
+    "descriptions:check": "node scripts/check-seo-descriptions.mjs",
     "pagefind": "pagefind --site public",
     "redirects": "node scripts/generate-legacy-redirects.mjs",
     "redirects:check": "node scripts/generate-legacy-redirects.mjs --check"

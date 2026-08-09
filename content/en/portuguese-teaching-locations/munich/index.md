@@ -1,7 +1,7 @@
 ---
 translationKey: location-munich
 title: "Online Brazilian Portuguese Lessons in Munich"
-description: Book Portuguese lessons in Munich with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Munich, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

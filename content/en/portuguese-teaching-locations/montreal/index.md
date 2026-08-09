@@ -1,8 +1,7 @@
 ---
 translationKey: location-montreal
 title: "Online Brazilian Portuguese Lessons in Montreal"
-description: Learn Brazilian Portuguese in Montreal with expert online lessons. Private and group classes for all levels.
-  Connect with the Brazilian-speaking community
+description: "Online Brazilian Portuguese lessons for learners in Montreal, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -3,7 +3,7 @@ title: "In-Person Portuguese Lessons on Gold Coast"
 url: /en/teaching-evidence/in-person-gold-coast-evidence/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Anonymized notes for evidence-backed in-person Brazilian Portuguese lessons on the Gold Coast.
+description: "Review anonymised notes on in-person Brazilian Portuguese lessons on the Gold Coast, including class format, practice, and teaching preparation."
 robots: noindex, follow
 ---
 

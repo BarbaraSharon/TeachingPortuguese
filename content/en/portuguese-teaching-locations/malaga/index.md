@@ -1,8 +1,7 @@
 ---
 translationKey: location-malaga
 title: "Online Brazilian Portuguese Lessons in Malaga"
-description: Discover the best Portuguese lessons in Malaga. Learn online with Barbara Sharon, a qualified tutor connecting
-  learners with Lusophone culture.
+description: "Online Brazilian Portuguese lessons for learners in Malaga, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

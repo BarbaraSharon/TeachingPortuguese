@@ -1,8 +1,7 @@
 ---
 translationKey: location-rotterdam
 title: "Online Brazilian Portuguese Lessons in Rotterdam"
-description: Learn Brazilian Portuguese in Rotterdam with Barbara Sharon. Private and group online lessons for all levels.
-  World-wide access
+description: "Online Brazilian Portuguese lessons for learners in Rotterdam, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

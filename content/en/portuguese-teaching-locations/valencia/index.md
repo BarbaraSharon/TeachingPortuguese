@@ -1,8 +1,7 @@
 ---
 translationKey: location-valencia
 title: "Online Brazilian Portuguese Lessons in Valencia"
-description: Discover top-quality online Portuguese lessons in Valencia with Barbara Sharon. Learn Portuguese with a native
-  tutor for beginners to advanced students.
+description: "Online Brazilian Portuguese lessons for learners in Valencia, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

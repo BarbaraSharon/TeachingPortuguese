@@ -1,8 +1,7 @@
 ---
 translationKey: location-mannheim
 title: "Online Brazilian Portuguese Lessons in Mannheim"
-description: Learn Brazilian Portuguese in Mannheim with Barbara Sharon. Online private & group lessons for all levels. Connect
-  with the vibrant Brazilian community
+description: "Online Brazilian Portuguese lessons for learners in Mannheim, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

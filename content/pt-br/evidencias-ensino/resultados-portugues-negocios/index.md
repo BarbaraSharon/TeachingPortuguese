@@ -3,7 +3,7 @@ title: "Resultados em português para negócios"
 url: /pt-br/evidencias-ensino/resultados-portugues-negocios/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Notas orientadas a evidência para resultados em português de negócios e contextos profissionais.
+description: "Leia notas anônimas sobre aprendizagem de português brasileiro em contextos profissionais, comunicação no trabalho, prática e objetivos dos alunos."
 robots: noindex, follow
 ---
 

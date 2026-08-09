@@ -1,7 +1,7 @@
 ---
 translationKey: location-robina
 title: "Online Brazilian Portuguese Lessons in Robina"
-description: Book Portuguese lessons in Robina with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Robina, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

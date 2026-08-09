@@ -1,7 +1,7 @@
 ---
 translationKey: location-munich
 title: "Aulas online de português brasileiro em Munique"
-description: Agende aulas de português em Munique com Barbara Sharon e tenha resultados comprovados de rápida evolução.
+description: "Aulas online de português brasileiro para quem está em Munique, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

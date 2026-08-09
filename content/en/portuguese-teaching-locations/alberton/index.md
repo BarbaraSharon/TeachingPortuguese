@@ -1,8 +1,7 @@
 ---
 translationKey: location-alberton
 title: "Online Brazilian Portuguese Lessons in Alberton"
-description: Discover the best Portuguese tutor in Alberton. Learn Brazilian Portuguese with online and group lessons from
-  Barbara Sharon, a certified teacher
+description: "Online Brazilian Portuguese lessons for learners in Alberton, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

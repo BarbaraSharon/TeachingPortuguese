@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Varsity Lakes"
-description: Reserve aulas de português em Varsity Lakes com Barbara Sharon e tenha resultados comprovados de melhoria rápida.
+description: "Aulas online de português brasileiro para quem está em Varsity Lakes, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-varsity-lakes

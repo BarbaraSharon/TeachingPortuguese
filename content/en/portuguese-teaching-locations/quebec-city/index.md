@@ -1,7 +1,7 @@
 ---
 translationKey: location-quebec-city
 title: "Online Brazilian Portuguese Lessons in Quebec"
-description: "Discover the best Portuguese tutor in Quebec-City."
+description: "Online Brazilian Portuguese lessons for learners in Quebec City, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

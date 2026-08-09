@@ -1,7 +1,7 @@
 ---
 translationKey: location-birmingham
 title: "Clases online de portugués brasileño en Birmingham"
-description: 'Descubre excelentes clases de portugués brasileño en Birmingham. Aprende en línea con Barbara Sharon: clases particulares y grupales. ¡Empieza hoy!'
+description: "Clases online de portugués brasileño para quienes están en Birmingham, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

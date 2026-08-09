@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Hope Island"
-description: Agende aulas de português em Hope Island com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
+description: "Aulas online de português brasileiro para quem está em Hope Island, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-hope-island

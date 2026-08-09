@@ -1,8 +1,7 @@
 ---
 translationKey: location-leipzig
 title: "Online Brazilian Portuguese Lessons in Leipzig"
-description: Learn Portuguese in Leipzig with expert teacher Barbara Sharon. Online lessons for all levels. Connect with the
-  Brazilian community in Germany
+description: "Online Brazilian Portuguese lessons for learners in Leipzig, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

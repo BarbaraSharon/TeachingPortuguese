@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-lisboa
 title: "Portugués para viajar a Lisboa: frases útiles"
-description: Aprende frases de portugués europeo para tu viaje a Lisboa.
+description: "Prepárate para Lisboa con frases útiles de portugués europeo, orientación de pronunciación y contexto cultural para situaciones cotidianas de viaje."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

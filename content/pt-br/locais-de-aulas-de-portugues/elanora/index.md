@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Elanora"
-description: Agende aulas de português em Elanora com Barbara Sharon e obtenha resultados comprovados de rápida evolução.
+description: "Aulas online de português brasileiro para quem está em Elanora, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-elanora

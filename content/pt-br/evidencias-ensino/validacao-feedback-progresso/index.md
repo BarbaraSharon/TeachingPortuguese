@@ -3,7 +3,7 @@ title: "Feedback e progresso nas aulas de português"
 url: /pt-br/evidencias-ensino/validacao-feedback-progresso/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Como o feedback, revisão e visibilidade de progresso são organizados para confiança e validação.
+description: "Entenda como as aulas de português brasileiro usam feedback, hábitos de revisão e pontos visíveis de progresso para orientar a aprendizagem contínua."
 robots: noindex, follow
 ---
 

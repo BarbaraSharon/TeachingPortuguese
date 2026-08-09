@@ -3,7 +3,7 @@ title: "Evidência do método de aulas online"
 url: /pt-br/evidencias-ensino/evidencia-aulas-online/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Notas anônimas sobre evidência de entrega de aulas de português online, preparação e retenção.
+description: "Revise notas anônimas sobre aulas online de português brasileiro, com preparação, condução da aula, prática e apoio entre as sessões."
 robots: noindex, follow
 ---
 

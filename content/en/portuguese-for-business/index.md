@@ -1,8 +1,7 @@
 ---
 translationKey: portugues-para-negocios
 title: "Brazilian Portuguese for Business Learners"
-description: Advance your career with professional Portuguese training for business. Corporate communication and negotiation
-  skills in Brazilian Portuguese.
+description: "Develop Brazilian Portuguese for professional settings with practical language for meetings, presentations, and workplace communication."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

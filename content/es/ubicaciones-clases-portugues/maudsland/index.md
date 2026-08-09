@@ -1,7 +1,7 @@
 ---
 translationKey: location-maudsland
 title: "Clases online de portugués brasileño en Maudsland"
-description: Reserva clases de portugués brasileño en Maudsland con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
+description: "Clases online de portugués brasileño para quienes están en Maudsland, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

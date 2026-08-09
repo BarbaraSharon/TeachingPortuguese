@@ -1,8 +1,7 @@
 ---
 translationKey: location-kingston
 title: "Online Brazilian Portuguese Lessons in Kingston"
-description: Discover the best Portuguese tutor in Kingston. Book your free trial lesson with Barbara Sharon for online private
-  and group lessons. Learn Portuguese.
+description: "Online Brazilian Portuguese lessons for learners in Kingston, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

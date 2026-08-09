@@ -1,8 +1,7 @@
 ---
 translationKey: location-salzburg
 title: "Online Brazilian Portuguese Lessons in Salzburg"
-description: Master Portuguese in Salzburg with online lessons. Learn from Barbara Sharon, a certified tutor offering private
-  & group classes for all levels
+description: "Online Brazilian Portuguese lessons for learners in Salzburg, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

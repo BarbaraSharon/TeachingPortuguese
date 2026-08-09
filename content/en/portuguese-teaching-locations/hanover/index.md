@@ -1,7 +1,7 @@
 ---
 translationKey: location-hanover
 title: "Online Brazilian Portuguese Lessons in Hanover"
-description: "Discover the best online Portuguese lessons in Hanover with native tutor Barbara Sharon."
+description: "Online Brazilian Portuguese lessons for learners in Hanover, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

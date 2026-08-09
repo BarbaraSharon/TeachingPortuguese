@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Toronto"
-description: Reserve aulas de português em Toronto com Barbara Sharon e tenha resultados comprovados de melhoria rápida.
+description: "Aulas online de português brasileiro para quem está em Toronto, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-toronto

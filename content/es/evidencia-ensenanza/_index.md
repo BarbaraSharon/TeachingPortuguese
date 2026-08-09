@@ -1,7 +1,7 @@
 ---
 title: "Método y evidencias de enseñanza de portugués"
 url: /es/evidencia-ensenanza/
-description: Páginas preparadas para evidencia sobre metodología, resultados y validación para señales de confianza y citación por IA.
+description: "Lee notas de referencia sobre el enfoque de Barbara Sharon para enseñar portugués brasileño, las clases, el progreso y las prácticas de feedback."
 date: '2026-08-09'
 lastmod: '2026-08-09'
 robots: noindex, follow

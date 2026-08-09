@@ -3,7 +3,7 @@ title: "Evidência de aulas presenciais na Gold Coast"
 url: /pt-br/evidencias-ensino/evidencia-presencial-gold-coast/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Notas de evidência anonimizadas para aulas presenciais de português na Gold Coast.
+description: "Revise notas anônimas sobre aulas presenciais de português brasileiro na Gold Coast, incluindo formato, prática e preparação para o ensino."
 robots: noindex, follow
 ---
 

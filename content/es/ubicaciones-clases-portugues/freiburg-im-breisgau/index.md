@@ -1,7 +1,7 @@
 ---
 translationKey: location-freiburg-im-breisgau
 title: "Clases online de portugués en Friburgo de Brisgovia"
-description: Aprende portugués en Friburgo de Brisgovia con clases particulares y grupales expertas en línea.
+description: "Clases online de portugués brasileño para quienes están en Friburgo de Brisgovia, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

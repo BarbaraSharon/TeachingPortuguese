@@ -1,7 +1,7 @@
 ---
 translationKey: location-canberra
 title: "Clases online de portugués brasileño en Canberra"
-description: Reserva clases de portugués en Canberra con Barbara Sharon y mejora rápidamente con resultados comprobados.
+description: "Clases online de portugués brasileño para quienes están en Canberra, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

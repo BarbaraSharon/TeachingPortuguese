@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-criancas
 title: "Clases de portugués para niños en grupo"
-description: Clases grupales presenciales de portugués brasileño para niños en Gold Coast, con conversación y actividades adaptadas a su edad.
+description: "Los niños de Gold Coast pueden aprender portugués brasileño en clases grupales presenciales, con conversación y actividades adecuadas para su edad."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

@@ -1,7 +1,7 @@
 ---
 translationKey: como-aprender-portugues
 title: "Como aprender português brasileiro com clareza"
-description: Aprenda português brasileiro de forma eficaz com estratégias comprovadas.
+description: "Descubra uma forma prática de aprender português brasileiro com conversação, escuta, vocabulário, gramática e contexto cultural que cabe na rotina."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

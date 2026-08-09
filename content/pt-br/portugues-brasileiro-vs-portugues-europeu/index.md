@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Português brasileiro e europeu: diferenças"
-description: Tem dúvidas sobre português brasileiro e português europeu?
+description: "Compare português brasileiro e europeu com diferenças claras de pronúncia, vocabulário, gramática e contexto cultural do dia a dia."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

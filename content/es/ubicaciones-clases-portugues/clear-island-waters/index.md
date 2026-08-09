@@ -1,7 +1,7 @@
 ---
 translationKey: location-clear-island-waters
 title: "Clases online de portugués en Clear Island Waters"
-description: Descubre las mejores clases de portugués en Clear Island Waters.
+description: "Clases online de portugués brasileño para quienes están en Clear Island Waters, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

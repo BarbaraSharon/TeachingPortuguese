@@ -1,7 +1,7 @@
 ---
 translationKey: location-moncton
 title: "Clases online de portugués brasileño en Moncton"
-description: Descubre una excelente tutora de portugués en Moncton.
+description: "Clases online de portugués brasileño para quienes están en Moncton, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

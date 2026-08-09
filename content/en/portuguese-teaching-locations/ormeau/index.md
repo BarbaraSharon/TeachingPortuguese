@@ -1,8 +1,7 @@
 ---
 translationKey: location-ormeau
 title: "Online Brazilian Portuguese Lessons in Ormeau"
-description: Learn Brazilian Portuguese in Ormeau, Gold Coast. Private and group lessons for all levels with native Brazilian
-  teachers. Online classes available
+description: "Online Brazilian Portuguese lessons for learners in Ormeau, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,8 +1,7 @@
 ---
 translationKey: location-arundel
 title: "Online Brazilian Portuguese Lessons in Arundel"
-description: Discover the best Portuguese lessons in Arundel, QLD. Learn Brazilian Portuguese with Barbara Sharon - private
-  and online classes for all levels
+description: "Online Brazilian Portuguese lessons for learners in Arundel, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

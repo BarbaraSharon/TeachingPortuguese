@@ -1,7 +1,7 @@
 ---
 translationKey: location-isle-of-capri
 title: "Clases online de portugués brasileño en Isle of Capri"
-description: Descubre las clases de portugués en Isle of Capri. Aprende portugués brasileño en línea y presencialmente con la profesora experta Barbara Sharon.
+description: "Clases online de portugués brasileño para quienes están en Isle of Capri, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-negocios
 title: "Portugués para negocios: clases prácticas"
-description: Desarrolla portugués brasileño para reuniones, presentaciones, negociación y comunicación profesional internacional.
+description: "Desarrolla portugués brasileño para el trabajo con lenguaje práctico para reuniones, presentaciones y comunicación profesional internacional."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

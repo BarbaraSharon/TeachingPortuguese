@@ -1,7 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Leeds"
-description: Descubra as melhores aulas de português em Leeds. Aprenda português brasileiro e europeu com Barbara Sharon -
-  aulas online para todos os níveis.
+description: "Aulas online de português brasileiro para quem está em Leeds, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-leeds

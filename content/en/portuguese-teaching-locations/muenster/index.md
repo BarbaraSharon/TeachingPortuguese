@@ -1,8 +1,7 @@
 ---
 translationKey: location-muenster
 title: "Online Brazilian Portuguese Lessons in M\\xFCnster"
-description: "Discover the best Brazilian Portuguese lessons in M\xFCnster. Private and group classes for all levels, with\
-  \ a focus on Brazilian Portuguese"
+description: "Online Brazilian Portuguese lessons for learners in Münster, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

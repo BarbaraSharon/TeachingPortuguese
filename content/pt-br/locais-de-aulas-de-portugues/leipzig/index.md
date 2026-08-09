@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Leipzig"
-description: "Aprenda português em Leipzig com a professora especializada Barbara Sharon."
+description: "Aulas online de português brasileiro para quem está em Leipzig, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-leipzig

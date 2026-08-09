@@ -1,7 +1,7 @@
 ---
 translationKey: location-coomera
 title: "Aulas online de português brasileiro em Coomera"
-description: Agende aulas de português em Coomera com Barbara Sharon e tenha resultados comprovados de evolução rápida.
+description: "Aulas online de português brasileiro para quem está em Coomera, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

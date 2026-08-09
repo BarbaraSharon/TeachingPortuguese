@@ -1,7 +1,7 @@
 ---
 translationKey: location-hope-island
 title: "Online Brazilian Portuguese Lessons in Hope Island"
-description: Book Portuguese lessons in Hope Island with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Hope Island, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

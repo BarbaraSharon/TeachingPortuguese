@@ -1,6 +1,6 @@
 ---
 title: "Sobre Barbara Sharon, professora de português"
-description: "Conheça Barbara Sharon, fundadora e tutora por trás do Barbarasharon."
+description: "Leia o perfil de Barbara Sharon e conheça a perspectiva de ensino por trás dos recursos, das aulas e da orientação cultural para aprender português."
 translationKey: authors
 date: 2026-08-06
 lastmod: 2026-08-06

@@ -1,7 +1,7 @@
 ---
 translationKey: location-cedar-creek
 title: "Clases online de portugués brasileño en Cedar Creek"
-description: Aprende portugués brasileño en Cedar Creek con clases presenciales y en línea.
+description: "Clases online de portugués brasileño para quienes están en Cedar Creek, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

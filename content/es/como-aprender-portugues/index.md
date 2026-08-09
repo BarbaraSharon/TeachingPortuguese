@@ -1,7 +1,7 @@
 ---
 translationKey: como-aprender-portugues
 title: "Cómo aprender portugués brasileño con claridad"
-description: Descubre una forma clara y práctica de aprender portugués brasileño con clases en línea, conversación, gramática y cultura.
+description: "Descubre una forma práctica de aprender portugués brasileño con conversación, escucha, vocabulario, gramática y cultura en tu rutina."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

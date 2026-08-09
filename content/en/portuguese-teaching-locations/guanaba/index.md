@@ -1,7 +1,7 @@
 ---
 translationKey: location-guanaba
 title: "Online Brazilian Portuguese Lessons in Guanaba"
-description: "Learn Brazilian Portuguese in Guanaba with online and in-person private lessons."
+description: "Online Brazilian Portuguese lessons for learners in Guanaba, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

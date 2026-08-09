@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Washington, D.C"
-description: Aprenda português brasileiro em Washington, D.C. com Barbara Sharon. Aulas online para todos os níveis. Conecte-se à crescente comunidade brasileira.
+description: "Aulas online de português brasileiro para quem está em Washington, D.C, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-washington-dc

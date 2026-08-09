@@ -1,7 +1,7 @@
 ---
 translationKey: location-helensvale
 title: "Clases online de portugués brasileño en Helensvale"
-description: Reserva clases de portugués en Helensvale con Barbara Sharon y mejora rápidamente con resultados comprobados.
+description: "Clases online de portugués brasileño para quienes están en Helensvale, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

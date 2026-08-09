@@ -3,7 +3,7 @@ title: "Online Portuguese Lesson Teaching Approach"
 url: /en/teaching-evidence/online-lesson-evidence/
 date: '2026-08-09'
 lastmod: '2026-08-09'
-description: Anonymized evidence notes for online Brazilian Portuguese lesson delivery, preparation, and retention workflows.
+description: "Review anonymised notes on online Brazilian Portuguese lessons, including preparation, lesson delivery, practice, and learner support between sessions."
 robots: noindex, follow
 ---
 

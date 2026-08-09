@@ -2,8 +2,8 @@
 lastmod: '2026-08-05'
 translationKey: home
 title: "Aprende portugués con Barbara Sharon"
-summary: "Aprende portugués brasileño con Barbara Sharon: clases particulares, enseñanza y cursos de idiomas en Gold Coast."
-description: "Aprende portugués brasileño con Barbara Sharon: clases particulares, enseñanza y cursos de idiomas en Gold Coast."
+summary: "Aprende portugués brasileño con Barbara Sharon en clases particulares y grupales online en todo el mundo, y presenciales en Gold Coast."
+description: "Aprende portugués brasileño con Barbara Sharon en clases particulares y grupales online en todo el mundo, y presenciales en Gold Coast."
 type: landing
 image:
   filename: pages/home/home-brazilian-portuguese-lessons.png

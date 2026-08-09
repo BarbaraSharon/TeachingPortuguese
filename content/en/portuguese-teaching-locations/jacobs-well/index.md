@@ -1,7 +1,7 @@
 ---
 translationKey: location-jacobs-well
 title: "Online Brazilian Portuguese Lessons in Jacobs Well"
-description: "Learn Brazilian Portuguese in Jacobs Well with Barbara Sharon."
+description: "Online Brazilian Portuguese lessons for learners in Jacobs Well, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

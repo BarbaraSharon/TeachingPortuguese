@@ -1,7 +1,7 @@
 ---
 translationKey: location-stockholm
 title: "Online Brazilian Portuguese Lessons in Stockholm"
-description: Book Portuguese lessons in Stockholm with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Stockholm, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

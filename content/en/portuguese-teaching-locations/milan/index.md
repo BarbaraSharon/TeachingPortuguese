@@ -1,7 +1,7 @@
 ---
 translationKey: location-milan
 title: "Online Brazilian Portuguese Lessons in Milan"
-description: Book Portuguese lessons in Milan with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Milan, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-bilinga
 title: "Online Brazilian Portuguese Lessons in Bilinga"
-description: Learn Brazilian Portuguese in Bilinga with expert lessons. Book your free trial lesson with Barbara Sharon today!
+description: "Online Brazilian Portuguese lessons for learners in Bilinga, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

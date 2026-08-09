@@ -1,7 +1,7 @@
 ---
 translationKey: location-abbotsford
 title: "Clases online de portugués brasileño en Abbotsford"
-description: Descubre una excelente profesora de portugués en Abbotsford.
+description: "Clases online de portugués brasileño para quienes están en Abbotsford, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

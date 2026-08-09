@@ -1,7 +1,7 @@
 ---
 translationKey: location-ormeau
 title: "Clases online de portugués brasileño en Ormeau"
-description: Aprende portugués brasileño en Ormeau, Gold Coast.
+description: "Clases online de portugués brasileño para quienes están en Ormeau, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

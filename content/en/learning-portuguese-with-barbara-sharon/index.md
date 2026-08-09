@@ -1,7 +1,7 @@
 ---
 translationKey: aprenda-portugues
 title: "Brazilian Portuguese Learning Paths with Barbara"
-description: Learn Portuguese with Barbara Sharon expert Portuguese tutor on the Gold Coast offering private & group lessons. Online Portuguese classes
+description: "Explore Brazilian Portuguese learning paths with Barbara Sharon, from beginner foundations to travel, business, conversation, and cultural study."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

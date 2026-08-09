@@ -1,7 +1,7 @@
 ---
 translationKey: location-geneva
 title: "Clases online de portugués brasileño en Ginebra"
-description: Reserva clases de portugués en Ginebra con Barbara Sharon y consigue resultados de mejora rápida comprobados.
+description: "Clases online de portugués brasileño para quienes están en Ginebra, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,7 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Lower Beechmont"
-description: Descubra aulas especializadas de português brasileiro em Lower Beechmont com Barbara Sharon. Aulas online e presenciais
-  para todos os níveis.
+description: "Aulas online de português brasileiro para quem está em Lower Beechmont, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-lower-beechmont

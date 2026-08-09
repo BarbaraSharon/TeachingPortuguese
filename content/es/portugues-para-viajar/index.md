@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-viagens
 title: "Portugués para viajar: habla con confianza"
-description: Aprende portugués brasileño práctico para viajar, saludar, pedir comida, orientarte y desenvolverte con confianza.
+description: "Prepárate para viajar con portugués brasileño práctico para saludar, pedir comida, orientarte y comunicarte en situaciones cotidianas."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

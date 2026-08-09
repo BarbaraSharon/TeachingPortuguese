@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Maudsland"
-description: "Descubra as melhores aulas de português em Maudsland, Gold Coast."
+description: "Aulas online de português brasileiro para quem está em Maudsland, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-maudsland

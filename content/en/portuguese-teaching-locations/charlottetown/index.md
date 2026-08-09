@@ -1,7 +1,7 @@
 ---
 translationKey: location-charlottetown
 title: "Online Brazilian Portuguese Lessons in Charlottetown"
-description: "Discover the best Portuguese tutor in Charlottetown."
+description: "Online Brazilian Portuguese lessons for learners in Charlottetown, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

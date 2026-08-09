@@ -1,7 +1,7 @@
 ---
 title: "About Barbara Sharon, Portuguese Teacher"
 robots: noindex, follow
-description: "Meet Barbara Sharon, founder and tutor behind Barbarasharon."
+description: "Read Barbara Sharon’s profile and discover the teaching perspective behind Portuguese learning resources, lessons, and cultural guidance for students."
 translationKey: authors
 date: 2026-08-06
 lastmod: 2026-08-06

@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-iniciantes
 title: "Aulas de português para quem inicia"
-description: Comece a aprender português brasileiro com conversação prática, pronúncia, vocabulário, gramática e orientação cultural em aulas particulares ou em grupo.
+description: "Comece português brasileiro com conversação prática, pronúncia, vocabulário, gramática e contexto cultural em aulas particulares ou em grupo."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

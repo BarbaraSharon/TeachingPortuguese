@@ -1,7 +1,7 @@
 ---
 translationKey: location-alberton
 title: "Aulas online de português brasileiro em Alberton"
-description: Descubra a melhor tutora de português em Alberton. Aprenda português brasileiro com aulas online e em grupo de Barbara Sharon, professora certificada.
+description: "Aulas online de português brasileiro para quem está em Alberton, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-intermediario
 title: "Intermediate Brazilian Portuguese Lessons"
-description: Move beyond the basics with intermediate Brazilian Portuguese lessons focused on conversation, vocabulary, grammar, pronunciation, and fluency.
+description: "Build on the basics with intermediate Brazilian Portuguese lessons for conversation, pronunciation, vocabulary, grammar, and everyday communication."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: landing

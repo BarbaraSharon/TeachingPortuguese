@@ -1,7 +1,7 @@
 ---
 translationKey: portugues-para-lisboa
 title: "Portuguese for Lisbon Travel: Essential Phrases"
-description: "Learn European Portuguese phrases for your trip to Lisbon."
+description: "Prepare for Lisbon with useful European Portuguese phrases, pronunciation guidance, and cultural context for everyday travel situations in Portugal."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

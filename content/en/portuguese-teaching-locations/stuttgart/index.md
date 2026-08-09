@@ -1,8 +1,7 @@
 ---
 translationKey: location-stuttgart
 title: "Online Brazilian Portuguese Lessons in Stuttgart"
-description: Learn Brazilian Portuguese in Stuttgart with Barbara Sharon. Online private & group lessons for all levels. Connect
-  with the Brazilian community
+description: "Online Brazilian Portuguese lessons for learners in Stuttgart, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

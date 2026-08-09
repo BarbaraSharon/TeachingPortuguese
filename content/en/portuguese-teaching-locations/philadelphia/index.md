@@ -1,8 +1,7 @@
 ---
 translationKey: location-philadelphia
 title: "Online Brazilian Portuguese Lessons in Philadelphia"
-description: Learn Brazilian Portuguese in Philadelphia with expert tutor Barbara Sharon. Online private & group lessons for
-  all levels
+description: "Online Brazilian Portuguese lessons for learners in Philadelphia, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

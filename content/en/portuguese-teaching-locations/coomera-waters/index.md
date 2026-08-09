@@ -1,7 +1,7 @@
 ---
 translationKey: location-coomera-waters
 title: "Online Brazilian Portuguese Lessons in Coomera Waters"
-description: Book Portuguese lessons in Coomera Waters with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Coomera Waters, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-philadelphia
 title: "Clases online de portugués brasileño en Filadelfia"
-description: Aprende portugués brasileño en Filadelfia con la profesora experta Barbara Sharon. Clases particulares y grupales en línea para todos los niveles.
+description: "Clases online de portugués brasileño para quienes están en Filadelfia, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

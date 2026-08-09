@@ -1,7 +1,7 @@
 ---
 translationKey: location-regina
 title: "Clases online de portugués brasileño en Regina"
-description: Descubre una excelente tutora de portugués en Regina.
+description: "Clases online de portugués brasileño para quienes están en Regina, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

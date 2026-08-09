@@ -2,7 +2,7 @@
 translationKey: location-pages
 type: portuguese-teaching-locations
 title: "Portuguese Lesson Locations and Formats"
-description: Find in-person and online Brazilian Portuguese lessons with Barbara Sharon.
+description: "Browse Brazilian Portuguese lesson locations and formats, including online teaching for learners worldwide and in-person options on the Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

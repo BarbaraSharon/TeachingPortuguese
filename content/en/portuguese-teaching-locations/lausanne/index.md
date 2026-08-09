@@ -1,7 +1,7 @@
 ---
 translationKey: location-lausanne
 title: "Online Brazilian Portuguese Lessons in Lausanne"
-description: Learn Brazilian Portuguese online from Lausanne with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Lausanne, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

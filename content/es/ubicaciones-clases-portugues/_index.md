@@ -1,7 +1,7 @@
 ---
 translationKey: location-pages
 title: "Ubicaciones y formatos de clases de portugués"
-description: Descubre clases particulares y grupales de portugués brasileño con Barbara Sharon, disponibles en línea para estudiantes de todo el mundo.
+description: "Explora ubicaciones y formatos de clases de portugués brasileño, online para estudiantes de todo el mundo y presenciales en Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 type: portuguese-teaching-locations

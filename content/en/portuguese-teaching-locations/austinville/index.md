@@ -1,8 +1,7 @@
 ---
 translationKey: location-austinville
 title: "Online Brazilian Portuguese Lessons in Austinville"
-description: Discover the best Brazilian Portuguese lessons in Austinville. Learn with Barbara Sharon a expert tutor offering
-  private & online classes for all levels
+description: "Online Brazilian Portuguese lessons for learners in Austinville, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

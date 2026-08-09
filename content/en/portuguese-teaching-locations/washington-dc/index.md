@@ -1,8 +1,7 @@
 ---
 translationKey: location-washington-dc
 title: "Online Brazilian Portuguese Lessons in Washington DC"
-description: Learn Brazilian Portuguese in Washington DC with Barbara Sharon. Online classes for all levels. Connect with
-  the growing Brazilian community
+description: "Online Brazilian Portuguese lessons for learners in Washington DC, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

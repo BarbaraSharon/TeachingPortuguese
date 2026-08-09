@@ -1,7 +1,7 @@
 ---
 translationKey: location-austinville
 title: "Clases online de portugués brasileño en Austinville"
-description: Descubre clases de portugués brasileño en Austinville con Barbara Sharon, profesora experta en clases particulares y en línea.
+description: "Clases online de portugués brasileño para quienes están en Austinville, con Barbara Sharon, en formato particular o grupal y práctica oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 image:

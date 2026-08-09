@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Florença"
-description: "Conheça as melhores aulas de português brasileiro em Florença."
+description: "Aulas online de português brasileiro para quem está em Florença, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-florence

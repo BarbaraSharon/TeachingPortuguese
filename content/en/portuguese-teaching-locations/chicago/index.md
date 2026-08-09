@@ -1,7 +1,7 @@
 ---
 translationKey: location-chicago
 title: "Online Brazilian Portuguese Lessons in Chicago"
-description: Book Portuguese lessons in Chicago with Barbara Sharon.
+description: "Online Brazilian Portuguese lessons for learners in Chicago, with Barbara Sharon, in private or group formats for conversation practice."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: "Aulas online de português brasileiro em Gaven"
-description: "Conheça as melhores aulas de português em Gaven com Barbara Sharon."
+description: "Aulas online de português brasileiro para quem está em Gaven, com Barbara Sharon, em formato particular ou em grupo e prática oral."
 date: '2026-08-05'
 lastmod: '2026-08-05'
 translationKey: location-gaven
