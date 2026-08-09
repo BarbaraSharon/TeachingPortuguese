@@ -1,0 +1,107 @@
+hugoblox:
+  schema: '2.0'
+  identity:
+    name: Learn Portuguese with Barbara Sharon
+    organization: Barbara Sharon Portuguese Tutoring
+    type: local_business
+    spoken_languages: [Portuguese, English, Italian, Spanish, French]
+    teaching_languages: [pt-BR, en, es, it, fr]
+    tagline: Brazilian Portuguese lessons online and on the Gold Coast
+    description: Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online worldwide or on the Gold Coast.
+    social:
+      links:
+      - icon: brands/youtube
+        url: https://www.youtube.com/@PortugueseWithBarbaraSharon
+        label: YouTube
+      - icon: brands/instagram
+        url: https://www.instagram.com/portuguesewithbarbarasharon?igsh=MXVsaWJvOGdiZngxZw%3D%3D&utm_source=website
+        label: Instagram
+      - icon: brands/tiktok
+        url: https://www.tiktok.com/@bahteachmeportuguese
+        label: TikTok
+      - icon: brands/facebook
+        url: https://www.facebook.com/barbara.sharon1
+        label: Facebook
+  brand:
+    title: Learn Portuguese
+    subtitle: with Barbara Sharon
+  theme:
+    mode: system
+    pack: default
+    colors:
+      primary: emerald
+      secondary: amber
+      neutral: stone
+    surfaces:
+      header:
+        background: ''
+        foreground: ''
+      footer:
+        background: ''
+        foreground: ''
+  typography:
+    pack: system
+  layout:
+    radius: md
+    spacing: comfortable
+    avatar_shape: circle
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    show_logo: true
+    show_title: false
+    align: center
+    search: true
+    theme_toggle: true
+    language_switcher: true
+    cta:
+      enable: true
+      text: Contact Barbara
+      url: /contact-portuguese-teacher/
+  footer:
+    style: columns
+    language_switcher: true
+  copyright:
+    notice: "\xA9 {year} Barbara Sharon Portuguese Tutoring. All rights reserved."
+  seo:
+    title: Brazilian Portuguese Tutor | Online & Private Lessons
+    location:
+      address:
+        city: Gold Coast
+        region: QLD
+        country: AU
+      phone: +61 493 837 828
+    ai:
+      allow:
+      - /
+      disallow: []
+      note: Public information about Barbara Sharon's Portuguese tutoring services,
+        course options, locations, and contact details.
+      contact: info@barbarasharon.com.au
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: true
+  search:
+    enable: true
+    suggestions:
+    - Portuguese for travel
+    - Online Portuguese lessons
+    - Portuguese tutor Gold Coast
+    - Brazilian Portuguese
+    quick_actions: []
+  analytics:
+    google:
+      measurement_id: G-14XS8YCMKC
+    clarity:
+      project_id: vlnqq5bmxc
+  privacy:
+    anonymize_analytics: true
+  locale:
+    date_format: Jan 2, 2006
+    time_format: 3:04 PM
+    address_format: en-au

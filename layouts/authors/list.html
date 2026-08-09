@@ -1,0 +1,56 @@
+{{ define "main" }}
+{{ $subtitle := "" }}
+{{ if eq .Lang "pt-br" }}
+  {{ $subtitle = "Professora e tutora de português" }}
+{{ else if eq .Lang "es" }}
+  {{ $subtitle = "Tutora de portugués" }}
+{{ else }}
+  {{ $subtitle = "Brazilian Portuguese tutor" }}
+{{ end }}
+
+<main class="mx-auto max-w-5xl px-6 py-10 sm:px-8 lg:px-12">
+  {{ $authorImage := "" }}
+  {{ $authorImageAlt := "" }}
+  {{ with .Params.image }}
+    {{ $authorImage = resources.Get (printf "media/%s" .filename) }}
+    {{ $authorImageAlt = .alt_text | default "" }}
+  {{ end }}
+
+  <header class="mx-auto max-w-4xl border-l-4 border-primary-500 pl-6 sm:pl-8">
+    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">
+      {{ $subtitle }}
+    </p>
+    <h1 class="max-w-3xl text-4xl font-semibold tracking-tight text-slate-900 dark:text-white sm:text-5xl">
+      {{ .Title }}
+    </h1>
+    <div class="mt-7 grid gap-8 lg:grid-cols-[1fr_420px] lg:items-center">
+      <div class="max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300 prose dark:prose-invert">
+        {{ .Content }}
+      </div>
+      {{ with $authorImage }}
+        {{ $responsive := partial "functions/process_responsive_image" (dict
+            "image" .
+            "mode" "fill"
+            "aspect_ratio" "1:1"
+            "anchor" "smart"
+            "sizes" (slice 340 520 680)
+        ) }}
+        <img
+          class="h-auto w-full max-w-[420px] rounded-3xl shadow-xl object-cover lg:justify-self-end"
+          src="{{ $responsive.fallback.RelPermalink }}"
+          srcset="{{ $responsive.srcset }}"
+          sizes="(min-width:1024px) 420px, 100vw"
+          alt="{{ $authorImageAlt }}"
+          width="420"
+          height="420"
+          loading="lazy"
+        />
+      {{ end }}
+    </div>
+  </header>
+
+  <section class="mt-12 border-t border-slate-200 pt-10 dark:border-slate-700">
+    {{ partial "page_author.html" . }}
+  </section>
+</main>
+{{ end }}

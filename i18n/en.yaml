@@ -1,0 +1,143 @@
+- id: open_menu
+  translation: Open menu
+
+- id: site_title
+  translation: Brazilian Portuguese Tutor | Online & Private Lessons
+
+- id: site_description
+  translation: Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online worldwide or on the Gold Coast.
+
+- id: brand_title
+  translation: Learn Portuguese
+
+- id: brand_subtitle
+  translation: with Barbara Sharon
+
+- id: site_tagline
+  translation: Brazilian Portuguese lessons online and on the Gold Coast
+
+- id: copyright_notice
+  translation: "© {year} Barbara Sharon Portuguese Tutoring. All rights reserved."
+
+- id: close_menu
+  translation: Close menu
+
+- id: toggle_search
+  translation: Toggle search
+
+- id: footer
+  translation: Footer
+
+- id: theme_selector
+  translation: Display preferences
+
+- id: languages
+  translation: Languages
+
+- id: block_contact_title
+  translation: Contact
+
+- id: block_contact_visit_title
+  translation: Visit Us
+
+- id: block_contact_connect_title
+  translation: Connect
+
+- id: block_contact_office_hours
+  translation: Office Hours
+
+- id: block_contact_view_on_map
+  translation: View on Map
+
+- id: block_contact_follow_me
+  translation: Find me on
+
+- id: block_contact_prospective_title
+  translation: Prospective Students
+
+- id: block_contact_form_title
+  translation: Send us a Message
+
+- id: block_contact_form_name
+  translation: Name
+
+- id: block_contact_form_email
+  translation: Email
+
+- id: block_contact_form_subject
+  translation: Subject
+
+- id: block_contact_form_message
+  translation: Message
+
+- id: block_contact_form_submit
+  translation: Send Message
+
+- id: btn_copy
+  translation: Copy
+- id: btn_copied
+  translation: Copied
+- id: questions
+  translation: Questions
+- id: faq
+  translation: FAQ
+- id: docs
+  translation: Docs
+- id: page_not_found
+  translation: Page not found
+- id: 404_recommendations
+  translation: "Here are some pages you may find helpful:"
+- id: user_profile_latest
+  translation: Latest
+- id: published_with
+  translation: "Published with {hugoblox}"
+- id: poweredby_button
+  translation: Powered by
+- id: minute_read
+  translation: min read
+- id: read_more
+  translation: Read more
+- id: last_updated
+  translation: Last updated
+- id: feedback_widget_question
+  translation: Was this page helpful?
+- id: authors
+  translation: Authors
+- id: next
+  translation: Next
+- id: previous
+  translation: Previous
+- id: backlinks
+  translation: Backlinks
+- id: analytics_choices
+  translation: Analytics choices
+- id: analytics_choose_cookies
+  translation: Choose analytics cookies
+- id: analytics_consent_explanation
+  translation: We use Google Analytics and Microsoft Clarity to understand how the site is used and improve it. You can accept or reject these optional tools.
+- id: analytics_privacy_policy
+  translation: Read the Privacy Policy
+- id: analytics_reject
+  translation: Reject analytics
+- id: analytics_accept
+  translation: Accept analytics
+- id: analytics_manage_preferences
+  translation: Analytics preferences
+- id: toggle_navigation
+  translation: Toggle navigation
+- id: show_menu_pages
+  translation: Show %s pages
+- id: contents
+  translation: Contents
+- id: newsletter_issues
+  translation: Newsletter issues
+- id: newsletter_latest_issue
+  translation: Latest issue
+- id: newsletter_read_issue
+  translation: Read this issue
+- id: close_larger_photo
+  translation: Close larger photo
+- id: open_feature
+  translation: Open %s
+- id: yes
+  translation: Yes

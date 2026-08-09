@@ -1,0 +1,8 @@
+{{/* Emit the original source files required by generated legacy-image redirects. */}}
+{{ range hugo.Data.shared_images.images }}
+  {{ with resources.Get (path.Join "media" .) }}
+    {{ $published := .RelPermalink }}
+  {{ else }}
+    {{ errorf "publish_shared_images: could not resolve assets/media/%s" . }}
+  {{ end }}
+{{ end }}

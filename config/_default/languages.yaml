@@ -1,0 +1,454 @@
+en:
+  locale: en-au
+  label: English
+  title: Learn Portuguese with Barbara Sharon
+  contentDir: content/en
+  weight: 1
+  params:
+    hugoblox:
+      identity:
+        name: Learn Portuguese with Barbara Sharon
+        tagline: Brazilian Portuguese lessons online and on the Gold Coast
+      brand:
+        title: Learn Portuguese
+        subtitle: with Barbara Sharon
+      header:
+        cta:
+          text: Contact Barbara
+          url: /contact-portuguese-teacher/
+  menus:
+    main:
+    - name: Home
+      url: /
+      weight: 10
+    - name: Lessons
+      url: /portuguese-teaching-services/
+      weight: 20
+    - name: Online lessons
+      parent: Lessons
+      url: /portuguese-teaching-services/online-portuguese-lessons/
+      weight: 20
+    - name: Private lessons
+      parent: Lessons
+      url: /portuguese-teaching-services/portuguese-tutoring-gold-coast/
+      weight: 30
+    - name: Group classes
+      parent: Lessons
+      url: /portuguese-teaching-services/portuguese-school-gold-coast/
+      weight: 40
+    - name: Learn Portuguese
+      url: /learning-portuguese-with-barbara-sharon/
+      weight: 30
+    - name: Beginner
+      parent: Learn Portuguese
+      url: /beginner-portuguese/
+      weight: 10
+    - name: Intermediate
+      parent: Learn Portuguese
+      url: /intermediate-portuguese/
+      weight: 20
+    - name: Advanced
+      parent: Learn Portuguese
+      url: /advanced-portuguese/
+      weight: 30
+    - name: For Travel
+      parent: Learn Portuguese
+      url: /portuguese-for-travel/
+      weight: 40
+    - name: For Business
+      parent: Learn Portuguese
+      url: /portuguese-for-business/
+      weight: 50
+    - name: For Children
+      parent: Learn Portuguese
+      url: /portuguese-for-children/
+      weight: 60
+    - name: Resources
+      weight: 40
+    - name: How to learn Portuguese
+      parent: Resources
+      url: /howto-learn-portuguese/
+      weight: 10
+    - name: Beginner phrases
+      parent: Resources
+      url: /portuguese-beginner-phrases/
+      weight: 20
+    - name: Speaking Club
+      parent: Resources
+      url: /portuguese-speaking-club/
+      weight: 30
+    - name: Brazilian vs European Portuguese
+      parent: Resources
+      url: /brazilian-vs-european-portuguese/
+      weight: 40
+    - name: Newsletter
+      parent: Resources
+      url: /newsletter/
+      weight: 50
+    - name: Locations
+      parent: Lessons
+      url: /portuguese-teaching-locations/
+      weight: 50
+    - name: FAQ
+      parent: Resources
+      url: /faq-learning-portuguese/
+      weight: 60
+    - name: About
+      url: /about-learning-portuguese/
+      weight: 70
+    - name: Contact
+      url: /contact-portuguese-teacher/
+      weight: 80
+    footer:
+    - name: Learn Portuguese
+      weight: 10
+    - parent: Learn Portuguese
+      name: Services
+      url: /portuguese-teaching-services/
+      weight: 10
+    - parent: Learn Portuguese
+      name: Travel Portuguese
+      url: /portuguese-for-travel/
+      weight: 20
+    - parent: Learn Portuguese
+      name: Business Portuguese
+      url: /portuguese-for-business/
+      weight: 30
+    - parent: Learn Portuguese
+      name: Speaking Club
+      url: /portuguese-speaking-club/
+      weight: 40
+    - name: Resources
+      weight: 20
+    - parent: Resources
+      name: FAQ
+      url: /faq-learning-portuguese/
+      weight: 10
+    - parent: Resources
+      name: How to Learn Portuguese
+      url: /howto-learn-portuguese/
+      weight: 20
+    - parent: Resources
+      name: Beginner Phrases
+      url: /portuguese-beginner-phrases/
+      weight: 30
+    - parent: Resources
+      name: Newsletter
+      url: /newsletter/
+      weight: 40
+    - name: Barbara
+      weight: 30
+    - parent: Barbara
+      name: About
+      url: /about-learning-portuguese/
+      weight: 10
+    - parent: Barbara
+      name: Locations
+      url: /portuguese-teaching-locations/
+      weight: 20
+    - parent: Barbara
+      name: Contact
+      url: /contact-portuguese-teacher/
+      weight: 30
+    - parent: Barbara
+      name: Privacy Policy
+      url: /privacy/
+      weight: 40
+pt-br:
+  locale: pt-BR
+  label: Português (Brasil)
+  title: Aprenda português brasileiro com Barbara Sharon
+  contentDir: content/pt-br
+  weight: 2
+  disabled: false
+  params:
+    hugoblox:
+      identity:
+        name: Aprenda português brasileiro com Barbara Sharon
+        tagline: Aulas de português brasileiro online e na Gold Coast
+      brand:
+        title: Aprenda português
+        subtitle: com Barbara Sharon
+      header:
+        cta:
+          text: Fale com a Barbara
+          url: /pt-br/contato-professora-portugues/
+  menus:
+    main:
+    - name: Início
+      url: /pt-br/
+      weight: 10
+    - name: Aulas
+      url: /pt-br/aulas-de-portugues/
+      weight: 20
+    - name: Aulas online
+      parent: Aulas
+      url: /pt-br/aulas-de-portugues/aulas-online/
+      weight: 20
+    - name: Aulas particulares
+      parent: Aulas
+      url: /pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/
+      weight: 30
+    - name: Aulas em grupo
+      parent: Aulas
+      url: /pt-br/aulas-de-portugues/escola-de-portugues-gold-coast/
+      weight: 40
+    - name: Aprenda português
+      url: /pt-br/aprenda-portugues/
+      weight: 30
+    - name: Iniciante
+      parent: Aprenda português
+      url: /pt-br/portugues-para-iniciantes/
+      weight: 10
+    - name: Intermediário
+      parent: Aprenda português
+      url: /pt-br/portugues-intermediario/
+      weight: 20
+    - name: Avançado
+      parent: Aprenda português
+      url: /pt-br/portugues-avancado/
+      weight: 30
+    - name: Português para viagens
+      parent: Aprenda português
+      url: /pt-br/portugues-para-viagens/
+      weight: 40
+    - name: Português para negócios
+      parent: Aprenda português
+      url: /pt-br/portugues-para-negocios/
+      weight: 50
+    - name: Português para crianças
+      parent: Aprenda português
+      url: /pt-br/portugues-para-criancas/
+      weight: 60
+    - name: Recursos
+      weight: 40
+    - name: Como aprender português
+      parent: Recursos
+      url: /pt-br/como-aprender-portugues/
+      weight: 10
+    - name: Frases para iniciantes
+      parent: Recursos
+      url: /pt-br/frases-para-iniciantes/
+      weight: 20
+    - name: Clube de conversação
+      parent: Recursos
+      url: /pt-br/clube-de-conversacao/
+      weight: 30
+    - name: Português brasileiro e europeu
+      parent: Recursos
+      url: /pt-br/portugues-brasileiro-vs-portugues-europeu/
+      weight: 40
+    - name: Newsletter
+      parent: Recursos
+      url: /pt-br/newsletter/
+      weight: 50
+    - name: Locais
+      parent: Aulas
+      url: /pt-br/locais-de-aulas-de-portugues/
+      weight: 50
+    - name: Perguntas frequentes
+      parent: Recursos
+      url: /pt-br/faq-aprendizagem-portuguesa/
+      weight: 60
+    - name: Sobre
+      url: /pt-br/sobre-aprendizagem-portuguesa/
+      weight: 70
+    - name: Contato
+      url: /pt-br/contato-professora-portugues/
+      weight: 80
+    footer:
+    - name: Aprenda português
+      weight: 10
+    - parent: Aprenda português
+      name: Serviços
+      url: /pt-br/aulas-de-portugues/
+      weight: 10
+    - parent: Aprenda português
+      name: Português para viagem
+      url: /pt-br/portugues-para-viagens/
+      weight: 20
+    - parent: Aprenda português
+      name: Português para negócios
+      url: /pt-br/portugues-para-negocios/
+      weight: 30
+    - parent: Aprenda português
+      name: Clube de conversação
+      url: /pt-br/clube-de-conversacao/
+      weight: 40
+    - name: Recursos
+      weight: 20
+    - parent: Recursos
+      name: Perguntas frequentes
+      url: /pt-br/faq-aprendizagem-portuguesa/
+      weight: 10
+    - parent: Recursos
+      name: Como aprender português
+      url: /pt-br/como-aprender-portugues/
+      weight: 20
+    - parent: Recursos
+      name: Frases para iniciantes
+      url: /pt-br/frases-para-iniciantes/
+      weight: 30
+    - name: Barbara
+      weight: 30
+    - parent: Barbara
+      name: Sobre
+      url: /pt-br/sobre-aprendizagem-portuguesa/
+      weight: 10
+    - parent: Barbara
+      name: Locais
+      url: /pt-br/locais-de-aulas-de-portugues/
+      weight: 20
+    - parent: Barbara
+      name: Contato
+      url: /pt-br/contato-professora-portugues/
+      weight: 30
+es:
+  locale: es
+  label: Español
+  title: Aprende portugués con Barbara Sharon
+  contentDir: content/es
+  weight: 3
+  disabled: false
+  params:
+    hugoblox:
+      identity:
+        name: Aprende portugués con Barbara Sharon
+        tagline: Clases de portugués brasileño en línea y en Gold Coast
+      brand:
+        title: Aprende portugués
+        subtitle: con Barbara Sharon
+      header:
+        cta:
+          text: Contacta a Barbara
+          url: /es/contacto-profesora-portugues/
+  menus:
+    main:
+    - name: Inicio
+      url: /es/
+      weight: 10
+    - name: Servicios
+      url: /es/servicios-clases-portugues/
+      weight: 20
+    - name: Clases en línea
+      parent: Servicios
+      url: /es/servicios-clases-portugues/clases-portugues-online/
+      weight: 10
+    - name: Clases particulares
+      parent: Servicios
+      url: /es/servicios-clases-portugues/clases-particulares-portugues-gold-coast/
+      weight: 20
+    - name: Clases grupales
+      parent: Servicios
+      url: /es/servicios-clases-portugues/escuela-portugues-gold-coast/
+      weight: 30
+    - name: Aprender portugués
+      url: /es/aprender-portugues-con-barbara-sharon/
+      weight: 30
+    - name: Principiantes
+      parent: Aprender portugués
+      url: /es/portugues-para-iniciantes/
+      weight: 10
+    - name: Intermedio
+      parent: Aprender portugués
+      url: /es/portugues-intermedio/
+      weight: 20
+    - name: Avanzado
+      parent: Aprender portugués
+      url: /es/portugues-avanzado/
+      weight: 30
+    - name: Para niños
+      parent: Aprender portugués
+      url: /es/portugues-para-ninos/
+      weight: 60
+    - name: Viajes
+      parent: Aprender portugués
+      url: /es/portugues-para-viajar/
+      weight: 40
+    - name: Negocios
+      parent: Aprender portugués
+      url: /es/portugues-para-negocios/
+      weight: 50
+    - name: Recursos
+      weight: 40
+    - name: Cómo aprender portugués
+      parent: Recursos
+      url: /es/como-aprender-portugues/
+      weight: 10
+    - name: Frases para principiantes
+      parent: Recursos
+      url: /es/frases-portugues-para-iniciantes/
+      weight: 20
+    - name: Club de conversación
+      parent: Recursos
+      url: /es/club-conversacion-portugues/
+      weight: 30
+    - name: Portugués brasileño y europeo
+      parent: Recursos
+      url: /es/portugues-brasileno-vs-europeo/
+      weight: 40
+    - name: Ubicaciones
+      parent: Servicios
+      url: /es/ubicaciones-clases-portugues/
+      weight: 40
+    - name: Preguntas frecuentes
+      parent: Recursos
+      url: /es/preguntas-frecuentes-aprender-portugues/
+      weight: 50
+    - name: Acerca de
+      url: /es/sobre-aprender-portugues/
+      weight: 70
+    - name: Contacto
+      url: /es/contacto-profesora-portugues/
+      weight: 80
+    footer:
+    - name: Aprende portugués
+      weight: 10
+    - parent: Aprende portugués
+      name: Servicios
+      url: /es/servicios-clases-portugues/
+      weight: 10
+    - parent: Aprende portugués
+      name: Portugués para viajar
+      url: /es/portugues-para-viajar/
+      weight: 20
+    - parent: Aprende portugués
+      name: Portugués para negocios
+      url: /es/portugues-para-negocios/
+      weight: 30
+    - parent: Aprende portugués
+      name: Club de conversación
+      url: /es/club-conversacion-portugues/
+      weight: 40
+    - name: Recursos
+      weight: 20
+    - parent: Recursos
+      name: Preguntas frecuentes
+      url: /es/preguntas-frecuentes-aprender-portugues/
+      weight: 10
+    - parent: Recursos
+      name: Cómo aprender portugués
+      url: /es/como-aprender-portugues/
+      weight: 20
+    - parent: Recursos
+      name: Frases para principiantes
+      url: /es/frases-portugues-para-iniciantes/
+      weight: 30
+    - name: Barbara
+      weight: 30
+    - parent: Barbara
+      name: Acerca de
+      url: /es/sobre-aprender-portugues/
+      weight: 10
+    - parent: Barbara
+      name: Ubicaciones
+      url: /es/ubicaciones-clases-portugues/
+      weight: 20
+    - parent: Barbara
+      name: Contacto
+      url: /es/contacto-profesora-portugues/
+      weight: 30
+    - parent: Barbara
+      name: Privacidad
+      url: /es/privacidad/
+      weight: 40

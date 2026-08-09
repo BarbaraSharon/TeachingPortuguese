@@ -1,0 +1,49 @@
+{{/* Site-level TOC override: keep long service pages scannable. */}}
+{{- $toc := true -}}
+{{- if isset .Params "toc" -}}
+  {{- $toc = .Params.toc -}}
+{{- end -}}
+{{- $headings := .Fragments.Headings -}}
+{{- $included_toc_titles := .Params.toc_include -}}
+{{- $heading_count := 0 -}}
+{{- range $headings -}}
+  {{- $heading_count = add $heading_count (len .Headings) -}}
+{{- end -}}
+{{- if $included_toc_titles -}}
+  {{- $heading_count = 0 -}}
+  {{- range $headings -}}
+    {{- range .Headings -}}
+      {{- if and .Title (in $included_toc_titles (.Title | plainify | htmlUnescape)) -}}
+        {{- $heading_count = add $heading_count 1 -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $show_all_toc_entries := .Params.toc_show_all -}}
+{{- $show_toc := and $toc (or $show_all_toc_entries (le $heading_count 12)) -}}
+
+<nav class="hb-toc order-last hidden w-64 shrink-0 print:hidden px-4{{ if $show_toc }} xl:block{{ end }}" aria-label="{{ i18n "contents" }}">
+  {{ partial "functions/get_hook" (dict "hook" "toc-start" "context" .) }}
+  {{- if $show_toc }}
+  <div class="hb-scrollbar sticky top-16 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] overflow-y-auto rounded-xl border border-gray-200/80 bg-white/60 px-4 py-5 pr-3 text-sm dark:border-neutral-700 dark:bg-neutral-900/40">
+    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.14em] text-gray-500 dark:text-gray-400">Contents</p>
+    <ul class="space-y-1.5">
+      {{- range $headings -}}
+        {{- range .Headings -}}
+          {{- $title := .Title | plainify | htmlUnescape -}}
+          {{- if and .Title (or (not $included_toc_titles) (in $included_toc_titles $title)) }}
+            <li>
+              <a class="block rounded-md px-2 py-1.5 leading-snug text-gray-600 transition-colors hover:bg-primary-50 hover:text-primary-800 dark:text-gray-300 dark:hover:bg-primary-900/30 dark:hover:text-primary-200" href="#{{ anchorize .ID }}">
+                {{- $title -}}
+              </a>
+            </li>
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    </ul>
+
+    {{ partial "components/backlinks" . }}
+    {{ partial "functions/get_hook" (dict "hook" "toc-end" "context" .) }}
+  </div>
+  {{- end -}}
+</nav>

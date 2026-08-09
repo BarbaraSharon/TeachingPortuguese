@@ -1,0 +1,83 @@
+<script>
+  (() => {
+    const section = document.getElementById("section-testimonials");
+    if (!section) return;
+
+    const largeImageFromThumb = (src) => {
+      const match = String(src).match(/testimonial-([a-z-]+)_hu/i);
+      return match ? `/images/references/${match[1]}.jpg` : src;
+    };
+
+    const viewer = document.createElement("div");
+    viewer.className = "testimonial-photo-viewer";
+    viewer.setAttribute("role", "dialog");
+    viewer.setAttribute("aria-modal", "true");
+    viewer.setAttribute("aria-label", "Larger testimonial photo");
+    viewer.setAttribute("aria-hidden", "true");
+    viewer.innerHTML = `
+      <div class="testimonial-photo-viewer__dialog">
+        <button class="testimonial-photo-viewer__close" type="button" aria-label="{{ i18n "close_larger_photo" }}">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <img class="testimonial-photo-viewer__image" alt="Larger testimonial photo" />
+      </div>
+    `;
+    document.body.appendChild(viewer);
+
+    const viewerImage = viewer.querySelector(".testimonial-photo-viewer__image");
+    const closeButton = viewer.querySelector(".testimonial-photo-viewer__close");
+    let lastTrigger = null;
+
+    const closeViewer = () => {
+      viewer.classList.remove("is-open");
+      viewer.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("testimonial-photo-viewer-open");
+      viewerImage.removeAttribute("src");
+      if (lastTrigger) lastTrigger.focus();
+    };
+
+    const openViewer = (button) => {
+      const img = button.querySelector("img");
+      if (!img) return;
+
+      lastTrigger = button;
+      viewerImage.src = largeImageFromThumb(img.currentSrc || img.src);
+      viewerImage.alt = img.alt ? `Larger photo of ${img.alt}` : "Larger testimonial photo";
+      viewer.classList.add("is-open");
+      viewer.setAttribute("aria-hidden", "false");
+      document.body.classList.add("testimonial-photo-viewer-open");
+      closeButton.focus();
+    };
+
+    const preparePhotos = () => {
+      section.querySelectorAll(".testimonials-block-container img:not([data-testimonial-photo-ready])").forEach((img) => {
+        img.dataset.testimonialPhotoReady = "true";
+
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "testimonial-photo-button";
+        button.setAttribute("aria-label", img.alt ? `Show larger photo of ${img.alt}` : "Show larger testimonial photo");
+
+        img.parentNode.insertBefore(button, img);
+        button.appendChild(img);
+        button.addEventListener("click", () => openViewer(button));
+      });
+    };
+
+    closeButton.addEventListener("click", closeViewer);
+    viewer.addEventListener("click", (event) => {
+      if (event.target === viewer) closeViewer();
+    });
+    document.addEventListener("keydown", (event) => {
+      if (!viewer.classList.contains("is-open")) return;
+      if (event.key === "Escape") closeViewer();
+      if (event.key === "Tab") {
+        event.preventDefault();
+        closeButton.focus();
+      }
+    });
+
+    preparePhotos();
+    new MutationObserver(preparePhotos).observe(section, {childList: true, subtree: true});
+  })();
+</script>

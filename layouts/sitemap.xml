@@ -1,0 +1,52 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  {{/* Include public pages and preserve the source homepage video sitemap record. */}}
+  {{- $pages := where .Data.Pages "Permalink" "!=" "" }}
+  {{- $pages = where $pages "Params.private" "ne" true }}
+  {{- $pages = where $pages "Kind" "ne" "taxonomy" }}
+  {{- $pages = where $pages "Kind" "ne" "term" }}
+  {{- $pages = where $pages "Section" "ne" "authors" }}
+  {{- range $pages }}
+  {{- $robots := lower (.Params.robots | default "") }}
+  {{- if and (not .Params.sitemap.disable) (not (hasPrefix $robots "noindex")) (not (strings.Contains .RelPermalink "/page/")) }}
+  {{- $lastmod := .Date }}
+  {{- if not .Lastmod.IsZero }}{{- $lastmod = .Lastmod }}{{ end }}
+  {{- if $lastmod.IsZero }}{{- $lastmod = now.UTC }}{{ end }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <lastmod>{{ safeHTML ( $lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- with .Sitemap.ChangeFreq }}<changefreq>{{ . }}</changefreq>{{ end }}
+    {{- if ge .Sitemap.Priority 0.0 }}<priority>{{ .Sitemap.Priority }}</priority>{{ end }}
+    {{- if .IsTranslated -}}
+    {{ $xDefault := .Permalink }}
+    {{ range where .AllTranslations "Language.Lang" "en" }}
+    {{ $xDefault = .Permalink }}
+    {{ end }}
+    {{- range .Translations -}}
+    <xhtml:link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+    {{- end -}}
+    <xhtml:link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ $xDefault }}" />
+    {{- end }}
+    {{- if and .IsHome (eq .Language.Lang "en") }}
+      {{- $video_publication_date := time.AsTime .Params.video_publication_date }}
+      {{- if $video_publication_date.IsZero }}{{- $video_publication_date = .Date }}{{ end }}
+      {{- if and $video_publication_date.IsZero (not .Lastmod.IsZero) }}{{- $video_publication_date = .Lastmod }}{{ end }}
+      {{- if $video_publication_date.IsZero }}{{- $video_publication_date = now.UTC }}{{ end }}
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/k1hjuwqYAP0/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Portuguese Beginner 1</video:title>
+      <video:description>Barbara Sharon starts teaching Portuguese for beginners right away. Watch and learn the basics with a native teacher!</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=k1hjuwqYAP0</video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/k1hjuwqYAP0</video:player_loc>
+      <video:duration>600</video:duration>
+      <video:publication_date>{{ safeHTML ( $video_publication_date.Format "2006-01-02T15:04:05-07:00" ) }}</video:publication_date>
+      <video:uploader>Barbara Sharon Portuguese Tutoring &amp; Language Courses</video:uploader>
+    </video:video>
+    {{- end }}
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>

@@ -1,0 +1,27 @@
+{{/*
+  Site-level analytics consent gate. Google Analytics and Microsoft Clarity are
+  optional and must not load until the visitor has made an affirmative choice.
+*/}}
+{{ $ga := site.Params.hugoblox.analytics.google.measurement_id | default "" }}
+{{ $clarity := site.Params.hugoblox.analytics.clarity.project_id | default "" }}
+{{ $privacyPaths := dict "en" "/privacy/" "es" "/privacidad/" "pt-br" "/privacidade/" }}
+{{ $privacyURL := (index $privacyPaths site.Language.Lang | default "/privacy/") | relLangURL }}
+{{ if hugo.IsProduction | and (or $ga $clarity) }}
+  {{ $script := resources.Get "js/analytics-consent.js" | fingerprint }}
+  <script
+    src="{{ $script.RelPermalink }}"
+    integrity="{{ $script.Data.Integrity }}"
+    crossorigin="anonymous"
+    defer
+    data-ga-id="{{ $ga }}"
+    data-clarity-id="{{ $clarity }}"
+    data-privacy-url="{{ $privacyURL }}"
+    data-label-choices="{{ i18n "analytics_choices" }}"
+    data-label-heading="{{ i18n "analytics_choose_cookies" }}"
+    data-label-explanation="{{ i18n "analytics_consent_explanation" }}"
+    data-label-privacy="{{ i18n "analytics_privacy_policy" }}"
+    data-label-accept="{{ i18n "analytics_accept" }}"
+    data-label-reject="{{ i18n "analytics_reject" }}"
+    data-label-manage="{{ i18n "analytics_manage_preferences" }}"
+  ></script>
+{{ end }}

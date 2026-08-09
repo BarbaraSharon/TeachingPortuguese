@@ -1,0 +1,12 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $loading := .Get "loading" | default "lazy" -}}
+{{- $image := resources.Get (path.Join "media" $src) -}}
+{{- if not $image -}}
+  {{- errorf "shared-image: could not resolve assets/media/%s" $src -}}
+{{- end -}}
+{{- $rendered := $image -}}
+{{- if and (reflect.IsImageResourceProcessable $image) (ne $image.MediaType.SubType "gif") -}}
+  {{- $rendered = $image.Fit "1200x1200 webp" -}}
+{{- end -}}
+<img src="{{ $rendered.RelPermalink }}" alt="{{ $alt }}" loading="{{ $loading }}" decoding="async" width="{{ $rendered.Width }}" height="{{ $rendered.Height }}">

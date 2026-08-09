@@ -1,0 +1,58 @@
+title: Learn Portuguese with Barbara Sharon
+baseURL: https://barbarasharon.com.au/
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+hasCJKLanguage: false
+removePathAccents: true
+cascade:
+- target:
+    path: /**
+    kind: page
+  show_breadcrumb: true
+  # These are page-sharing actions, not Barbara's social profiles. Keep them off
+  # on business and contact pages; profile links remain in the site footer and
+  # on the contact page via the central identity configuration.
+  share: false
+  reading_time: false
+  # Keep dates in front matter for future newsletter/news entries, but do not
+  # display a creation date in the header of regular site pages.
+  show_date: false
+outputs:
+  home:
+  - HTML
+  - RSS
+  - headers
+  - redirects
+  - backlinks
+  section:
+  - HTML
+  - RSS
+build:
+  writeStats: true
+enableGitInfo: false
+summaryLength: 30
+disableKinds:
+- taxonomy
+- term
+pagination:
+  pagerSize: 9999
+enableEmoji: true
+enableRobotsTXT: true
+disableAliases: true
+imaging:
+  resampleFilter: lanczos
+  quality: 90
+  anchor: smart
+  hint: picture
+timeout: 600000
+taxonomies:
+  tag: tags
+  category: categories
+markup:
+  _merge: deep
+  highlight:
+    lineNos: false
+security:
+  _merge: deep
+sitemap:
+  _merge: deep

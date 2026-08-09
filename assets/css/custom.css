@@ -1,0 +1,1062 @@
+@media (min-width: 768px) {
+  #section-features .features-block-container .grid.grid-flow-dense {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  #section-features .features-block-container .md\:col-span-2 {
+    grid-column: span 1 / span 1 !important;
+  }
+}
+
+/* Adjacent HugoBlox sections each carry their own vertical padding. Keep the
+   spacing after the preceding section, but avoid doubling it at every section
+   boundary-especially when a split hero stacks on smaller screens. */
+.hbb-section + .hbb-section {
+  padding-top: 0 !important;
+}
+
+/* The split hero also has its own responsive py-24/py-32/py-40 classes. Once
+   the columns stack below the large breakpoint, that inner padding makes the
+   first content feel detached from the header. Let the section spacing alone
+   control the mobile hero rhythm. */
+@media (max-width: 1023px) {
+  .hbb-section {
+    padding-bottom: 0 !important;
+  }
+
+  .hbb-section .preact-block > div[class*="py-"] {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important;
+  }
+
+  #section-hero {
+    padding-top: 2.5rem !important;
+    padding-bottom: 2.5rem !important;
+  }
+
+  #section-hero .mx-auto.max-w-7xl {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
+
+/* Light mode: warm ivory and botanical green add a Brazilian touch without
+   turning the page into a literal flag palette. */
+:root {
+  --hb-color-background: #fcfbf7;
+  --hb-color-foreground: #1f2d26;
+  --hb-color-header-bg: #fffdf8;
+  --hb-color-header-fg: #14532d;
+  --hb-color-footer-bg: #f1f6ef;
+  --hb-color-footer-fg: #365044;
+}
+
+/* Newsletter: preserve the colourful print edition while exposing all copy as
+   real HTML for search engines, screen readers, and small screens. */
+.newsletter-page {
+  padding: 2rem 1.25rem 4rem;
+}
+
+.newsletter-page__back {
+  max-width: 72rem;
+  margin: 0 auto 1.25rem;
+  font-size: .95rem;
+  font-weight: 700;
+}
+
+.newsletter-page__back a {
+  color: inherit;
+  text-decoration-thickness: .12em;
+  text-underline-offset: .2em;
+}
+
+.newsletter-archive {
+  padding: clamp(2.5rem, 6vw, 5rem) 1.25rem clamp(4rem, 8vw, 7rem);
+  background: linear-gradient(155deg, #fffdf7 0%, #f2f7ee 100%);
+}
+
+.newsletter-archive__inner {
+  max-width: 72rem;
+  margin: 0 auto;
+}
+
+.newsletter-archive-intro {
+  max-width: 48rem;
+  margin-bottom: clamp(2.5rem, 6vw, 4.5rem);
+}
+
+.newsletter-archive-intro__eyebrow,
+.newsletter-archive-card__label,
+.newsletter-archive-card__date {
+  margin: 0;
+  color: #276749;
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.newsletter-archive-intro h1 {
+  margin: .5rem 0 1rem;
+  color: #173b2b;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: clamp(2.8rem, 7vw, 5.5rem);
+  line-height: .98;
+}
+
+.newsletter-archive-intro > p:last-child {
+  max-width: 39rem;
+  margin: 0;
+  color: #365044;
+  font-size: clamp(1.05rem, 2vw, 1.25rem);
+  line-height: 1.7;
+}
+
+.newsletter-archive__list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+  gap: 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.newsletter-archive-card--latest {
+  grid-column: 1 / -1;
+}
+
+.newsletter-archive-card__link {
+  display: grid;
+  height: 100%;
+  overflow: hidden;
+  color: #173b2b;
+  text-decoration: none;
+  background: #fff;
+  border: 1px solid rgb(23 59 43 / 12%);
+  border-radius: 1.25rem;
+  box-shadow: 0 .8rem 2.5rem rgb(23 59 43 / 8%);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.newsletter-archive-card--latest .newsletter-archive-card__link {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+}
+
+.newsletter-archive-card__link:hover,
+.newsletter-archive-card__link:focus-visible {
+  transform: translateY(-.25rem);
+  box-shadow: 0 1.25rem 3rem rgb(23 59 43 / 16%);
+}
+
+.newsletter-archive-card__link:focus-visible {
+  outline: 3px solid #f8b84e;
+  outline-offset: 3px;
+}
+
+.newsletter-archive-card__image {
+  width: 100%;
+  height: 15rem;
+  object-fit: cover;
+}
+
+.newsletter-archive-card--latest .newsletter-archive-card__image {
+  height: 100%;
+  min-height: 21rem;
+}
+
+.newsletter-archive-card__body {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: clamp(1.4rem, 4vw, 2.5rem);
+}
+
+.newsletter-archive-card__label { margin-bottom: 1rem; color: #a2466b; }
+.newsletter-archive-card__date { margin-bottom: .7rem; }
+.newsletter-archive-card__body h2 { margin: 0 0 .85rem; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.6rem, 3vw, 2.45rem); line-height: 1.12; }
+.newsletter-archive-card__body > p:not(.newsletter-archive-card__label):not(.newsletter-archive-card__date) { margin: 0; color: #4b5c53; line-height: 1.65; }
+.newsletter-archive-card__cta { margin-top: 1.5rem; color: #173b2b; font-weight: 800; }
+
+.newsletter-edition {
+  max-width: 72rem;
+  margin: 0 auto;
+  color: #171717;
+}
+
+.newsletter-edition__header {
+  padding: clamp(2rem, 5vw, 4rem) clamp(1.25rem, 4vw, 3rem);
+  text-align: center;
+  background: #f8b84e;
+}
+
+.newsletter-edition__header h1,
+.newsletter-edition h2,
+.newsletter-edition h3 { font-family: Georgia, 'Times New Roman', serif; }
+
+.newsletter-edition__header h1 { margin: .35rem 0 1rem; font-size: clamp(2.25rem, 6vw, 4.6rem); }
+.newsletter-edition__eyebrow { margin: 0; font-style: italic; letter-spacing: .03em; }
+.newsletter-edition__intro { max-width: 42rem; margin: 0 auto; font-size: 1.12rem; }
+.newsletter-contact-strip { display: flex; flex-wrap: wrap; justify-content: space-around; gap: .75rem 1.5rem; padding: .85rem 1.25rem; background: #a9c9f0; font-weight: 700; text-align: center; }
+.newsletter-contact-strip a { color: inherit; text-decoration: underline; }
+.newsletter-edition > section { margin-top: 3rem; }
+.newsletter-columns { display: grid; grid-template-columns: minmax(0, .8fr) minmax(0, 1.6fr); gap: 2rem; align-items: start; }
+.newsletter-columns--story { grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); }
+.newsletter-card { padding: clamp(1.25rem, 3vw, 2.25rem); }
+.newsletter-card h2, .newsletter-card h3 { margin-top: 0; }
+.newsletter-card--pink { background: #f38bbb; }
+.newsletter-card--green { margin-top: 1.5rem; background: #b1dfad; }
+.newsletter-card--blue { background: #a9c9f0; }
+.newsletter-photo { margin: 0 0 1.5rem; }
+.newsletter-photo img, .newsletter-original img { display: block; width: 100%; height: auto; }
+.newsletter-photo--wide { max-width: none; }
+.newsletter-photo-row { display: flex; gap: .8rem; margin: 1.25rem 0; }
+.newsletter-photo-row img { display: block; width: 100%; height: auto; object-fit: cover; }
+.newsletter-photo-row--small img { width: calc(50% - .4rem); aspect-ratio: 1 / 1.55; }
+.newsletter-photo-row--trio img { flex: 1; aspect-ratio: .58; }
+.newsletter-photo-row--gallery { margin-top: 2rem; }
+.newsletter-photo-row--gallery img { flex: 1; aspect-ratio: 1.55; }
+.newsletter-event { display: flex; align-items: center; gap: 1rem; margin: 1.5rem 0 1rem; padding: .75rem 1.25rem; border-radius: 5rem; background: #f38bbb; }
+.newsletter-event__date { flex: 0 0 7rem; margin: 0; padding: .75rem; border-radius: 50%; background: #b1dfad; font-family: Georgia, serif; font-weight: 700; text-align: center; text-transform: uppercase; }
+.newsletter-event__date strong { font-size: 1.55rem; }
+.newsletter-event h3 { margin: 0; font-size: clamp(1.4rem, 3vw, 2rem); }
+.newsletter-note, .newsletter-join { padding: 1.5rem; background: #f8b84e; }
+.newsletter-join { display: flex; align-items: center; gap: 2rem; margin-bottom: 3rem; }
+.newsletter-join > div { flex: 1; text-align: center; }
+.newsletter-qr { width: min(14rem, 34%); height: auto; }
+.newsletter-button { display: inline-block; padding: .8rem 1.2rem; border-radius: 999px; background: #171717; color: #fff; font-weight: 700; text-decoration: none; }
+.newsletter-original { margin: 2rem 0 1rem; }
+.newsletter-original summary { cursor: pointer; font-weight: 700; }
+.newsletter-original figure { margin: 1.5rem auto; max-width: 44rem; }
+.newsletter-original figcaption { padding-top: .5rem; font-style: italic; }
+@media (max-width: 767px) {
+  .newsletter-page { padding: 1.25rem 0 3rem; }
+  .newsletter-page__back { padding: 0 1.25rem; }
+  .newsletter-archive-card--latest .newsletter-archive-card__link { grid-template-columns: 1fr; }
+  .newsletter-archive-card--latest .newsletter-archive-card__image { min-height: 0; height: 15rem; }
+  .newsletter-columns, .newsletter-columns--story { grid-template-columns: 1fr; }
+  .newsletter-edition > section { margin-top: 2rem; }
+  .newsletter-event__date { flex-basis: 5.5rem; }
+  .newsletter-join { display: block; }
+  .newsletter-qr { display: block; width: min(14rem, 80%); margin: 0 auto 1.5rem; }
+}
+
+/* Each issue is a small, readable journal inside the site-not a dark-mode
+   inversion of a PDF. Its paper palette keeps the photographs and the
+   Portuguese text clear whichever site preference a reader has selected. */
+.newsletter-page {
+  --newsletter-ink: #173b2b;
+  --newsletter-muted: #496156;
+  --newsletter-paper: #fffdf8;
+  --newsletter-wash: #f3eee5;
+  --newsletter-sun: #f3ba50;
+  --newsletter-rose: #f7ded9;
+  --newsletter-sage: #dceee5;
+  --newsletter-sky: #dceaf2;
+  padding: clamp(1.5rem, 4vw, 3.5rem) 1.25rem clamp(4rem, 8vw, 7rem);
+  color: var(--newsletter-ink);
+  background:
+    radial-gradient(circle at 94% 8%, rgb(243 186 80 / 20%) 0 8rem, transparent 8.1rem),
+    var(--newsletter-wash);
+}
+
+.newsletter-page__back {
+  margin-bottom: clamp(1.25rem, 3vw, 2rem);
+  color: var(--newsletter-ink);
+}
+
+.newsletter-page__back a {
+  display: inline-flex;
+  gap: .45rem;
+  align-items: center;
+  padding-bottom: .2rem;
+  text-decoration-color: rgb(23 59 43 / 45%);
+}
+
+.newsletter-page .newsletter-edition {
+  overflow: hidden;
+  color: var(--newsletter-ink);
+  background: var(--newsletter-paper);
+  border-radius: 1.5rem;
+  box-shadow: 0 1.5rem 4rem rgb(23 59 43 / 12%);
+}
+
+.newsletter-page .newsletter-edition__header {
+  position: relative;
+  isolation: isolate;
+  padding: clamp(3rem, 8vw, 6.5rem) clamp(1.5rem, 6vw, 5.5rem) clamp(2.5rem, 5vw, 4rem);
+  overflow: hidden;
+  text-align: left;
+  background: linear-gradient(120deg, #f6cc76 0%, var(--newsletter-sun) 68%, #edab3f 100%);
+}
+
+.newsletter-page .newsletter-edition__header::after {
+  position: absolute;
+  z-index: -1;
+  top: clamp(-6rem, -2vw, -2rem);
+  right: clamp(-5rem, 5vw, 5rem);
+  width: clamp(12rem, 28vw, 22rem);
+  aspect-ratio: 1;
+  content: '';
+  background: rgb(255 253 248 / 34%);
+  border: 1px solid rgb(23 59 43 / 14%);
+  border-radius: 50%;
+}
+
+.newsletter-page .newsletter-edition__header h1,
+.newsletter-page .newsletter-edition h2,
+.newsletter-page .newsletter-edition h3 {
+  color: var(--newsletter-ink);
+}
+
+.newsletter-page .newsletter-edition__header h1 {
+  max-width: 14ch;
+  margin: .6rem 0 1.1rem;
+  font-size: clamp(3rem, 8vw, 6.6rem);
+  line-height: .9;
+  letter-spacing: -.055em;
+}
+
+.newsletter-page .newsletter-edition__eyebrow {
+  color: #355a47;
+  font-size: .85rem;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: .11em;
+  text-transform: uppercase;
+}
+
+.newsletter-page .newsletter-edition__intro {
+  max-width: 37rem;
+  margin: 0;
+  color: #294838;
+  font-size: clamp(1.05rem, 2vw, 1.32rem);
+  line-height: 1.65;
+}
+
+.newsletter-page .newsletter-contact-strip {
+  justify-content: flex-start;
+  gap: .4rem clamp(1.25rem, 4vw, 3rem);
+  padding: 1rem clamp(1.5rem, 6vw, 5.5rem);
+  color: #fdfbf6;
+  background: var(--newsletter-ink);
+  font-size: .9rem;
+  font-weight: 650;
+}
+
+.newsletter-page .newsletter-contact-strip a {
+  color: inherit;
+  text-decoration-color: rgb(253 251 246 / 45%);
+  text-underline-offset: .18em;
+}
+
+.newsletter-page .newsletter-edition > section {
+  margin: 0;
+  padding: clamp(2rem, 5vw, 4.5rem) clamp(1.5rem, 6vw, 5.5rem);
+}
+
+.newsletter-page .newsletter-edition > section + section {
+  border-top: 1px solid rgb(23 59 43 / 12%);
+}
+
+.newsletter-page .newsletter-columns {
+  grid-template-columns: minmax(15rem, .8fr) minmax(0, 1.35fr);
+  gap: clamp(1.5rem, 4vw, 4rem);
+}
+
+.newsletter-page .newsletter-columns--story {
+  grid-template-columns: minmax(0, .95fr) minmax(15rem, 1.05fr);
+}
+
+.newsletter-page .newsletter-card {
+  padding: clamp(1.5rem, 3vw, 2.5rem);
+  border: 1px solid rgb(23 59 43 / 10%);
+  border-radius: .9rem;
+  box-shadow: .35rem .35rem 0 rgb(23 59 43 / 11%);
+}
+
+.newsletter-page .newsletter-card--pink { background: var(--newsletter-rose); }
+.newsletter-page .newsletter-card--green { margin-top: 1.75rem; background: var(--newsletter-sage); }
+.newsletter-page .newsletter-card--blue { background: var(--newsletter-sky); }
+
+.newsletter-page .newsletter-card h2,
+.newsletter-page .newsletter-card h3,
+.newsletter-page h2,
+.newsletter-page h3 {
+  letter-spacing: -.02em;
+}
+
+.newsletter-page h2 { font-size: clamp(1.7rem, 3vw, 2.6rem); line-height: 1.08; }
+.newsletter-page h3 { font-size: clamp(1.2rem, 2vw, 1.55rem); line-height: 1.2; }
+.newsletter-page p,
+.newsletter-page li { color: var(--newsletter-muted); line-height: 1.7; }
+.newsletter-page strong { color: var(--newsletter-ink); }
+
+.newsletter-page .newsletter-photo {
+  overflow: hidden;
+  background: var(--newsletter-ink);
+  border-radius: .85rem;
+  box-shadow: 0 .75rem 1.8rem rgb(23 59 43 / 15%);
+}
+
+.newsletter-page .newsletter-photo img {
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.newsletter-page .newsletter-photo--wide img { aspect-ratio: 16 / 7; }
+
+.newsletter-page .newsletter-photo-row {
+  gap: 1rem;
+}
+
+.newsletter-page .newsletter-photo-row img {
+  border-radius: .65rem;
+  box-shadow: 0 .5rem 1.2rem rgb(23 59 43 / 12%);
+}
+
+.newsletter-page .newsletter-photo-row--small img {
+  width: min(100%, 20rem);
+  aspect-ratio: 4 / 3;
+}
+
+.newsletter-page .newsletter-photo-row--trio img {
+  aspect-ratio: 4 / 5;
+}
+
+.newsletter-page .newsletter-photo-row--gallery img {
+  min-width: 0;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+/* The closing photographs are one shared memory, so keep the full set in a
+   compact, equal-weight gallery instead of allowing a large source image to
+   push the other two off screen. */
+.newsletter-page .newsletter-photo-row--gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: stretch;
+}
+
+.newsletter-page .newsletter-event {
+  gap: 1.15rem;
+  padding: .8rem 1.15rem .8rem .8rem;
+  background: #f6d38d;
+  border: 1px solid rgb(23 59 43 / 12%);
+  border-radius: .8rem;
+}
+
+.newsletter-page .newsletter-event__date {
+  flex-basis: 5.6rem;
+  color: #fdfbf6;
+  background: var(--newsletter-ink);
+  border-radius: .55rem;
+  line-height: 1.15;
+}
+
+.newsletter-page .newsletter-event__date strong { color: inherit; }
+
+.newsletter-page .newsletter-note {
+  margin-top: 1.75rem;
+  padding: 1.5rem;
+  color: #fdfbf6;
+  background: var(--newsletter-ink);
+  border-radius: .85rem;
+}
+
+.newsletter-page .newsletter-note p,
+.newsletter-page .newsletter-note strong,
+.newsletter-page .newsletter-note a { color: inherit; }
+
+.newsletter-page .newsletter-join {
+  display: block;
+  margin: 0;
+  text-align: center;
+  background: linear-gradient(135deg, #e7f2eb 0%, #d2e6dc 100%);
+}
+
+.newsletter-page .newsletter-join > div { max-width: 42rem; margin: 0 auto; }
+
+.newsletter-page .newsletter-join h2 { font-size: clamp(2.25rem, 5vw, 4rem); }
+
+.newsletter-page .newsletter-button {
+  padding: .9rem 1.35rem;
+  color: #fdfbf6;
+  background: var(--newsletter-ink);
+  box-shadow: 0 .45rem 0 #e2a63d;
+  transition: transform 150ms ease, box-shadow 150ms ease;
+}
+
+.newsletter-page .newsletter-button:hover,
+.newsletter-page .newsletter-button:focus-visible {
+  color: #fdfbf6;
+  transform: translateY(.15rem);
+  box-shadow: 0 .3rem 0 #e2a63d;
+}
+
+@media (max-width: 767px) {
+  .newsletter-page { padding-inline: 0; }
+  .newsletter-page__back { padding-inline: 1.25rem; }
+  .newsletter-page .newsletter-edition { border-radius: 0; }
+  .newsletter-page .newsletter-edition__header { padding-top: 3.5rem; }
+  .newsletter-page .newsletter-edition__header h1 { font-size: clamp(3rem, 16vw, 4.75rem); }
+  .newsletter-page .newsletter-columns,
+  .newsletter-page .newsletter-columns--story { grid-template-columns: 1fr; }
+  .newsletter-page .newsletter-photo--wide img { aspect-ratio: 4 / 3; }
+  .newsletter-page .newsletter-photo-row--trio img { aspect-ratio: 1 / 1.25; }
+  .newsletter-page .newsletter-photo-row--gallery { gap: .55rem; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .newsletter-page .newsletter-button { transition: none; }
+}
+
+/* Dark mode keeps the newsletter's sunlit editorial character, but changes
+   the paper and cards too-rather than leaving a light sheet inside a dark site. */
+.dark .newsletter-page {
+  --newsletter-ink: #f4f1e8;
+  --newsletter-muted: #c7d6cd;
+  --newsletter-paper: #16382a;
+  --newsletter-wash: #0b2118;
+  --newsletter-sun: #c98d2d;
+  --newsletter-rose: #3f2d3a;
+  --newsletter-sage: #234434;
+  --newsletter-sky: #243f4a;
+  background:
+    radial-gradient(circle at 94% 8%, rgb(201 141 45 / 20%) 0 8rem, transparent 8.1rem),
+    var(--newsletter-wash);
+}
+
+.dark .newsletter-page .newsletter-edition {
+  box-shadow: 0 1.5rem 4rem rgb(0 0 0 / 28%);
+}
+
+.dark .newsletter-page .newsletter-edition__header {
+  background: linear-gradient(120deg, #9b641c 0%, var(--newsletter-sun) 68%, #a86e20 100%);
+}
+
+.dark .newsletter-page .newsletter-edition__header::after {
+  background: rgb(255 242 211 / 18%);
+  border-color: rgb(255 242 211 / 24%);
+}
+
+.dark .newsletter-page .newsletter-edition__eyebrow { color: #fff0c9; }
+.dark .newsletter-page .newsletter-edition__intro { color: #fff4d9; }
+
+.dark .newsletter-page .newsletter-contact-strip {
+  color: #f4f1e8;
+  background: #0c251a;
+}
+
+.dark .newsletter-page .newsletter-edition > section + section {
+  border-color: rgb(244 241 232 / 14%);
+}
+
+.dark .newsletter-page .newsletter-card {
+  border-color: rgb(244 241 232 / 14%);
+  box-shadow: .35rem .35rem 0 rgb(0 0 0 / 22%);
+}
+
+.dark .newsletter-page .newsletter-page p,
+.dark .newsletter-page p,
+.dark .newsletter-page li { color: var(--newsletter-muted); }
+
+.dark .newsletter-page .newsletter-photo,
+.dark .newsletter-page .newsletter-photo-row img {
+  box-shadow: 0 .75rem 1.8rem rgb(0 0 0 / 28%);
+}
+
+.dark .newsletter-page .newsletter-event {
+  color: #fff4d9;
+  background: #8f5d1b;
+  border-color: rgb(255 244 217 / 18%);
+}
+
+.dark .newsletter-page .newsletter-event h3,
+.dark .newsletter-page .newsletter-event p { color: inherit; }
+
+.dark .newsletter-page .newsletter-event__date,
+.dark .newsletter-page .newsletter-note { background: #0c251a; }
+
+.dark .newsletter-page .newsletter-join {
+  background: linear-gradient(135deg, #224635 0%, #183427 100%);
+}
+
+.dark .newsletter-page .newsletter-button {
+  color: #16382a;
+  background: #efc56b;
+  box-shadow: 0 .45rem 0 #905e19;
+}
+
+.dark .newsletter-page .newsletter-button:hover,
+.dark .newsletter-page .newsletter-button:focus-visible {
+  color: #16382a;
+  box-shadow: 0 .3rem 0 #905e19;
+}
+
+/* Business page imagery turns the long course overview into a visual learning
+   journey without introducing a second layout system for ordinary articles. */
+.business-page-image {
+  max-width: 52rem;
+  margin: 2.5rem auto 3rem;
+  text-align: center;
+}
+
+.business-page-image img {
+  width: 100%;
+  border-radius: 1rem;
+  box-shadow: 0 1.25rem 2.5rem rgb(31 45 38 / 12%);
+}
+
+.business-page-image figcaption {
+  margin: 0.85rem auto 0;
+  max-width: 42rem;
+  color: var(--hb-color-foreground);
+  font-size: 0.95rem;
+  font-style: italic;
+  line-height: 1.5;
+  opacity: 0.78;
+}
+
+.business-page-image-hero {
+  max-width: 64rem;
+  margin-top: 2rem;
+}
+
+/* Ordinary articles already provide their own content height and bottom
+   spacing. HugoBlox's full-viewport article minimum otherwise leaves a large
+   empty band before the footer on short pages such as Contact. Let the footer
+   track absorb any remaining viewport height so its background still reaches
+   the bottom of the screen without pushing its contents away from the page. */
+body.page-wrapper:has(article main .prose) {
+  grid-template-rows: auto auto minmax(0, 1fr);
+}
+
+body.page-wrapper:has(article main .prose) .page-body article {
+  min-height: 0 !important;
+}
+
+body.page-wrapper:has(article main .prose) .page-footer > footer {
+  margin-top: 0 !important;
+}
+
+/* Use one generous, centered reading area for standard pages. HugoBlox renders
+   articles, section indexes, and taxonomy listings with different default
+   wrappers; the 65ch listing cap and the article's contents rail otherwise
+   make Travel, Business, and Locations look noticeably narrower than Services.
+   Landing sections retain their own layouts. */
+:root {
+  /* 72rem of reading measure, 15rem for the contents rail, and 3rem of
+     horizontal breathing room. This keeps the text column at the same width
+     whether a page shows a desktop contents rail or not. */
+  --site-content-max-width: 96rem;
+  --site-reading-max-width: 72rem;
+}
+
+/* Keep the content grid fixed when moving between short and long subpages. */
+html {
+  scrollbar-gutter: stable;
+}
+
+/* Dropdown parents have real destination pages. Their links navigate while
+   the adjacent buttons only expand the child lists, keeping hover, keyboard,
+   and touch behaviour predictable. */
+.nav-dropdown-trigger {
+  display: flex;
+  align-items: center;
+}
+
+.mobile-nav-toggle {
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+}
+
+.nav-dropdown-trigger .nav-link {
+  flex: 1 1 auto;
+}
+
+.nav-dropdown-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.75rem;
+  min-height: 2.75rem;
+  color: var(--hb-color-header-fg);
+  border-radius: 0.375rem;
+  margin-right: 0.2rem;
+}
+
+.nav-dropdown-toggle:hover,
+.nav-dropdown-toggle:focus-visible {
+  color: var(--color-primary-700);
+  outline: none;
+}
+
+.nav-dropdown-toggle:focus-visible {
+  box-shadow: 0 0 0 3px var(--color-primary-500);
+}
+
+.nav-dropdown.active .nav-dropdown-toggle svg {
+  transform: rotate(180deg);
+}
+
+@media (min-width: 1024px) {
+  /* The inherited utility spacing is inconsistent across plain links and
+     dropdown parents. Give every top-level item the same measured gap. */
+  #nav-menu > .nav-item + .nav-item {
+    margin-left: 2rem !important;
+  }
+
+  /* Use the same outer rhythm for plain links and dropdown parents. The
+     dropdown chevron owns the leading space for its label, so the default
+     HugoBlox link padding must not make those items wider than plain links. */
+  #nav-menu > .nav-item > .nav-link,
+  #nav-menu > .nav-item > .nav-dropdown-trigger .nav-link {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .nav-dropdown-trigger .nav-link {
+    flex: 0 1 auto;
+  }
+
+  .nav-dropdown-toggle {
+    min-width: 1rem;
+    min-height: auto;
+    margin-left: 0;
+    margin-right: 0.15rem;
+  }
+
+  .nav-dropdown:focus-within > .nav-dropdown-list {
+    visibility: visible;
+    opacity: 1;
+  }
+}
+
+@media (min-width: 1024px) {
+  body:has(.page-body article main.prose, .page-body article main .prose) .page-body > .max-w-screen-xl {
+    max-width: var(--site-content-max-width);
+  }
+
+  body:has(.page-body article main.prose, .page-body article main .prose) .page-body article main {
+    /* The breadcrumb and page title are direct children of main, while the
+       body sits inside .prose. Cap the wrapper to the reading measure plus
+       its desktop (md:px-12) padding so both stay the same width. */
+    max-width: calc(var(--site-reading-max-width) + 6rem);
+    margin-inline: auto;
+  }
+
+  body:has(.page-body article main.prose, .page-body article main .prose) .page-body article main > .prose {
+    max-width: var(--site-reading-max-width);
+    margin-inline: auto;
+  }
+
+  .page-body > .max-w-prose:has(> article.prose) {
+    width: 100%;
+    max-width: var(--site-reading-max-width);
+    padding-inline: 1.5rem;
+  }
+
+  .page-body > .max-w-prose:has(> article.prose) > article.prose,
+  .page-body > .max-w-prose:has(> article.prose) .container.max-w-\[65ch\] {
+    max-width: none;
+  }
+}
+
+/* Keep the long-page contents panel useful without competing with the article. */
+@media (min-width: 1024px) {
+  /* Ordinary content pages should not reserve an empty left sidebar column. */
+  .hb-sidebar-container:has(> div.h-0),
+  body:has(article main.prose, article main .prose) .hb-sidebar-container {
+    display: none !important;
+  }
+
+  .hb-toc {
+    width: 15rem;
+  }
+
+  .hb-toc > .hb-scrollbar {
+    scrollbar-width: thin;
+  }
+}
+
+/* Above the XL breakpoint, preserve the contents-rail footprint on articles
+   that do not have enough headings to show one. Without this placeholder,
+   those pages centre their text while long articles shift left to make room
+   for the rail, making otherwise identical subpages appear different widths. */
+@media (min-width: 1280px) {
+  body:has(article main.prose, article main .prose) .hb-toc.hidden:not(.xl\:block) {
+    display: block !important;
+    visibility: hidden;
+    pointer-events: none;
+  }
+}
+
+/* Keep mobile navigation focused on page/site links instead of repeating a
+   long heading list already available in the article. */
+.hb-sidebar-mobile-toc {
+  display: none !important;
+}
+
+/* Keep dark mode grounded in the Brazilian-inspired palette instead of HugoBlox's
+   default slate/navy surfaces. */
+.dark {
+  --hb-color-background: #10231b;
+  --hb-color-foreground: #f4f1e8;
+  --hb-color-header-bg: #10231b;
+  --hb-color-header-fg: #f4f1e8;
+  --hb-color-footer-bg: #0b1712;
+  --hb-color-footer-fg: #e7e4db;
+}
+
+@media (min-width: 1024px) {
+  #section-features .features-block-container .lg\:grid-cols-3 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+
+  #section-features .features-block-container .lg\:row-span-2 {
+    grid-row: span 1 / span 1 !important;
+  }
+
+  #section-features .features-block-container .grid > div:first-child > div {
+    padding: 1.5rem !important;
+  }
+
+  #section-features .features-block-container .grid > div:first-child > div > div:first-child {
+    width: 3rem !important;
+    height: 3rem !important;
+  }
+
+  #section-features .features-block-container .grid > div:first-child h3 {
+    font-size: 1.25rem !important;
+    line-height: 1.75rem !important;
+  }
+
+  #section-features .features-block-container .grid > div:first-child p {
+    font-size: 1rem !important;
+    line-height: 1.5rem !important;
+  }
+}
+
+#section-testimonials .testimonial-photo-button {
+  appearance: none;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+  padding: 0;
+  border: 0;
+  border-radius: 9999px;
+  background: transparent;
+  cursor: zoom-in;
+  outline: none;
+}
+
+#section-testimonials .testimonial-photo-button img {
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    filter 180ms ease;
+}
+
+#section-testimonials .testimonial-photo-button::after {
+  content: "";
+  position: absolute;
+  inset: -3px;
+  border-radius: inherit;
+  border: 2px solid transparent;
+  transition: border-color 180ms ease;
+}
+
+#section-testimonials .testimonial-photo-button:hover img,
+#section-testimonials .testimonial-photo-button:focus-visible img {
+  transform: translateY(-1px) scale(1.08);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.18);
+  filter: saturate(1.04);
+}
+
+#section-testimonials .testimonial-photo-button:focus-visible::after {
+  border-color: #059669;
+}
+
+.testimonial-photo-viewer {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background: rgba(8, 28, 19, 0.72);
+  backdrop-filter: blur(8px);
+}
+
+.testimonial-photo-viewer.is-open {
+  display: flex;
+}
+
+.testimonial-photo-viewer__dialog {
+  position: relative;
+  width: min(78vw, 24rem);
+  max-height: min(78vh, 32rem);
+  animation: testimonial-photo-enter 180ms ease-out both;
+}
+
+.testimonial-photo-viewer__image {
+  display: block;
+  width: 100%;
+  max-height: min(78vh, 32rem);
+  object-fit: cover;
+  border-radius: 1.25rem;
+  box-shadow: 0 28px 80px rgba(15, 23, 42, 0.38);
+  background: #fff;
+}
+
+.testimonial-photo-viewer__close {
+  appearance: none;
+  position: absolute;
+  top: -0.75rem;
+  right: -0.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border: 0;
+  border-radius: 9999px;
+  background: #fff;
+  color: #111827;
+  box-shadow: 0 12px 30px rgba(15, 23, 42, 0.28);
+  cursor: pointer;
+}
+
+.testimonial-photo-viewer__close:focus-visible {
+  outline: 3px solid #059669;
+  outline-offset: 2px;
+}
+
+body.testimonial-photo-viewer-open {
+  overflow: hidden;
+}
+
+@keyframes testimonial-photo-enter {
+  from {
+    opacity: 0;
+    transform: translateY(0.35rem) scale(0.96);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #section-testimonials .testimonial-photo-button img,
+  #section-testimonials .testimonial-photo-button::after,
+  .testimonial-photo-viewer__dialog {
+    animation: none;
+    transition: none;
+  }
+
+  #section-testimonials .testimonial-photo-button:hover img,
+  #section-testimonials .testimonial-photo-button:focus-visible img {
+    transform: none;
+  }
+}
+
+/* Keep the comparison grid fixed while making each lesson row a clear link. */
+#lesson-options table tbody tr.service-comparison-row {
+  cursor: pointer;
+  transition: background-color 160ms ease;
+}
+
+#lesson-options table {
+  table-layout: fixed;
+}
+
+#lesson-options col.service-comparison-feature-column {
+  width: 28%;
+}
+
+#lesson-options col.service-comparison-option-column {
+  width: 18%;
+}
+
+#lesson-options table tbody tr.service-comparison-row:hover > *,
+#lesson-options table tbody tr.service-comparison-row:focus-within > * {
+  background-color: rgb(236 253 245 / 0.72);
+}
+
+#lesson-options table tbody tr.service-comparison-row:focus-visible {
+  outline: 3px solid #059669;
+  outline-offset: -3px;
+}
+
+#lesson-options table tbody tr.service-comparison-row a {
+  text-decoration: none;
+}
+
+#lesson-options table tbody tr.service-comparison-row:hover a,
+#lesson-options table tbody tr.service-comparison-row:focus-within a {
+  color: #047857;
+}
+
+.dark #lesson-options table tbody tr.service-comparison-row:hover > *,
+.dark #lesson-options table tbody tr.service-comparison-row:focus-within > * {
+  background-color: rgb(6 78 59 / 0.28);
+}
+
+.dark #lesson-options table tbody tr.service-comparison-row:hover a,
+.dark #lesson-options table tbody tr.service-comparison-row:focus-within a {
+  color: #34d399;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #lesson-options table tbody tr.service-comparison-row {
+    transition: none;
+  }
+}
+
+/* A compact contact sheet keeps the Speaking Club's community photos
+   supportive of the page rather than letting a single image dominate it. */
+.speaking-club-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+  max-width: 48rem;
+  margin: 1.5rem auto 2.25rem;
+}
+
+.speaking-club-gallery__item {
+  min-width: 0;
+  margin: 0;
+}
+
+.speaking-club-gallery__item img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 0.65rem;
+  box-shadow: 0 0.45rem 1.1rem rgb(23 59 43 / 14%);
+}
+
+.speaking-club-gallery--two {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  max-width: 42rem;
+}
+
+.speaking-club-gallery--two .speaking-club-gallery__item img {
+  aspect-ratio: 4 / 3;
+}
+
+@media (max-width: 640px) {
+  .speaking-club-gallery {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.6rem;
+  }
+}
+
+.dark .speaking-club-gallery__item img {
+  box-shadow: 0 0.45rem 1.1rem rgb(0 0 0 / 28%);
+}

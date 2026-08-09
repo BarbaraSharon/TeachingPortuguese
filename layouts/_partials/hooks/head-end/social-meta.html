@@ -1,0 +1,17 @@
+{{/* Preserve the source page's Twitter card fields without claiming an X profile. */}}
+{{ $title := .Title }}
+{{ with .Params.seo.title }}
+  {{ $title = replace . "{brand}" (site.Title | default "Learn Portuguese with Barbara Sharon") }}
+{{ else }}
+  {{ if ne .Title site.Title }}
+    {{ $title = printf "%s | %s" .Title site.Title }}
+  {{ end }}
+{{ end }}
+{{ $description := partial "functions/get_summary" . | plainify }}
+{{ if not $description }}
+  {{ $description = site.Params.hugoblox.identity.description | plainify }}
+{{ end }}
+<meta name="twitter:url" content="{{ .Permalink }}" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta name="twitter:description" content="{{ $description }}" />
+{{ with (or .Params.image.alt .Params.image.alt_text) }}<meta name="twitter:image:alt" content="{{ . }}" />{{ end }}

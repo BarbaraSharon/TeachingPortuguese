@@ -1,0 +1,5 @@
+{{- $destination := .Destination -}}
+{{- if hasPrefix $destination "pages/" -}}
+  {{- $destination = printf "/media/%s" $destination -}}
+{{- end -}}
+<img src="{{ $destination | safeURL }}" alt="{{ .Text }}"{{ with .Title }} title="{{ . }}"{{ end }}>

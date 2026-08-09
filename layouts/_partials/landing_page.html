@@ -1,0 +1,25 @@
+{{/*
+  Preact blocks hydrate after the initial HTML response. Emit the first hero
+  title as a visible progressive-enhancement fallback so crawlers and
+  no-JavaScript visitors receive the page's semantic H1. Hydrated hero titles
+  are visual text, preventing a second H1 from being added to the document.
+*/}}
+{{- $sections := partial "hbx/sections.html" . -}}
+{{- $heroTitle := "" -}}
+{{- range $sections -}}
+  {{- if and (not $heroTitle) (eq (lower (.block | default "")) "hero") .content.title -}}
+    {{- $heroTitle = .content.title -}}
+  {{- end -}}
+{{- end -}}
+{{- if $heroTitle -}}
+  <h1
+    class="mx-auto max-w-2xl px-6 py-24 text-center text-4xl font-bold tracking-tight text-gray-900 dark:text-gray-100 sm:py-32 sm:text-6xl lg:py-40"
+    data-static-hero-title>{{ $heroTitle | markdownify }}</h1>
+{{- end -}}
+
+{{ range $index, $block := $sections }}
+  {{/* Do not show sections intended only for the demo site. */}}
+  {{ if or (not $block.demo) ($block.demo | and (eq (os.Getenv "HUGO_BLOX_DEMO") "true")) }}
+    {{ partial "functions/parse_block_v3" (dict "page" $ "block" $block) }}
+  {{ end }}
+{{ end }}

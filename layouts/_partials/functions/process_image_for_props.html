@@ -1,0 +1,47 @@
+{{/*
+  Project override of HugoBlox's image props helper.
+
+  HugoBlox's responsive helper only generates variants at 600px and above for
+  this call site. A valid image narrower than 600px therefore has no generated
+  fallback. Keep the original resource as the fallback in that case.
+*/}}
+{{ $result := dict }}
+{{ $path := .path | default "" }}
+
+{{ if $path }}
+  {{ $sizes := .sizes | default (slice 600 900 1200 1800) }}
+  {{ $resolved := partial "functions/resolve_image_resource" (dict "path" $path "Page" .Page) }}
+
+  {{ with $resolved.resource }}
+    {{ $canProcess := and (reflect.IsImageResourceProcessable .) (ne .MediaType.SubType "gif") }}
+    {{ if not $canProcess }}
+      {{ $result = dict "src" .RelPermalink }}
+    {{ else }}
+      {{ $image := . }}
+      {{ $responsive := partial "functions/process_responsive_image.html" (dict
+          "image" $image
+          "mode" "fit"
+          "sizes" $sizes
+      ) }}
+      {{ with $responsive.fallback }}
+        {{ $result = dict
+            "src" .RelPermalink
+            "srcset" $responsive.srcset
+            "width" .Width
+            "height" .Height
+        }}
+      {{ else }}
+        {{ $result = dict
+            "src" $image.RelPermalink
+            "width" $image.Width
+            "height" $image.Height
+        }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $resolved.fallback_url }}
+    {{ $result = dict "src" . }}
+  {{ end }}
+{{ end }}
+
+{{ return $result }}

@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ $locations := .Pages.ByTitle }}
+{{ $locationCount := len $locations }}
+{{ $regions := slice
+  (dict "en" "Gold Coast - In-person lessons" "pt" "Gold Coast - aulas presenciais" "slugs" (slice "advancetown" "alberton" "arundel" "ashmore" "austinville" "benowa" "biggera-waters" "bilinga" "bonogin" "broadbeach" "broadbeach-waters" "bundall" "burleigh-heads" "burleigh-waters" "carrara" "cedar-creek" "clagiraba" "clear-island-waters" "coolangatta" "coombabah" "coomera" "coomera-waters" "currumbin" "currumbin-valley" "currumbin-waters" "elanora" "ernest" "forest-hill" "foxwell" "gaven" "gilston" "gold-coast" "helensvale" "highland-park" "hollywell" "hope-island" "isle-of-capri" "jacobs-well" "kingscliff" "kingsholme" "labrador" "lower-beechmont" "maudsland" "mermaid-beach" "mermaid-waters" "merrimac" "mudgeeraba" "surfers-paradise"))
+  (dict "en" "Australia & New Zealand" "pt" "Austrália e Nova Zelândia" "slugs" (slice "adelaide" "auckland" "brisbane" "canberra" "guanaba" "melbourne" "nerang" "ormeau" "oxenford" "palm-beach" "parkside" "perth" "pimpama" "reedy-creek" "robina" "southport" "sydney" "tweed-heads" "upper-coomera" "varsity-lakes"))
+  (dict "en" "Asia" "pt" "Ásia" "slugs" (slice "abu-dhabi" "bangalore" "dubai" "mumbai" "osaka" "seoul" "singapore" "tel-aviv" "tokyo"))
+  (dict "en" "Europe" "pt" "Europa" "slugs" (slice "amsterdam" "augsburg" "barcelona" "basel" "berlin" "birmingham" "bologna" "bonn" "bordeaux" "bremen" "bristol" "brussels" "cologne" "copenhagen" "cork" "dresden" "dublin" "duesseldorf" "edinburgh" "eindhoven" "florence" "frankfurt-am-main" "freiburg-im-breisgau" "geneva" "glasgow" "gothenburg" "hamburg" "hanover" "heidelberg" "karlsruhe" "lausanne" "leeds" "leipzig" "lisbon" "london" "lyon" "madrid" "malaga" "manchester" "mannheim" "milan" "muenster" "munich" "naples" "nice" "nuremberg" "oslo" "paris" "porto" "rome" "rotterdam" "salzburg" "seville" "stockholm" "stuttgart" "the-hague" "toulouse" "turin" "utrecht" "valencia" "vienna" "wiesbaden" "zurich"))
+  (dict "en" "North America" "pt" "América do Norte" "slugs" (slice "abbotsford" "atlanta" "austin" "boston" "burnaby" "calgary" "charlottetown" "chicago" "chilliwack" "denver" "edmonton" "fredericton" "halifax" "hamilton" "houston" "ikaluit" "kamloops" "kelowna" "kingston" "los-angeles" "miami" "moncton" "montreal" "nanaimo" "new-york" "niagara-falls" "orlando" "ottawa" "philadelphia" "prince-george" "quebec-city" "regina" "richmond" "saint-john" "san-diego" "san-francisco" "san-jose" "saskatoon" "seattle" "surrey" "toronto" "vancouver" "vernon" "victoria" "washington-dc" "whitehorse" "winnipeg" "yellowknife"))
+  (dict "en" "South America" "pt" "América do Sul" "slugs" (slice "rio-de-janeiro"))
+  (dict "en" "Africa" "pt" "África" "slugs" (slice "cape-town" "johannesburg"))
+}}
+
+<main class="mx-auto max-w-screen-2xl px-5 py-10 sm:px-8 lg:px-12 lg:py-16">
+  <header class="mx-auto max-w-4xl border-l-4 border-primary-500 pl-6 sm:pl-8">
+    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">
+      {{ if eq .Lang "pt-br" }}Aulas presenciais e online{{ else }}In-person and online lessons{{ end }}
+    </p>
+    <h1 class="max-w-3xl text-4xl font-semibold tracking-tight text-slate-900 dark:text-white sm:text-5xl">{{ .Title }}</h1>
+    <div class="mt-7 max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300">
+      {{ .Content }}
+    </div>
+  </header>
+
+  <nav class="mx-auto mt-10 max-w-4xl" aria-label="{{ if eq .Lang "pt-br" }}Navegar por região{{ else }}Browse by region{{ end }}">
+    <p class="mb-3 text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">
+      {{ if eq .Lang "pt-br" }}Ir para uma região{{ else }}Jump to a region{{ end }}
+    </p>
+    <ol class="max-w-3xl border-t border-slate-200 text-sm dark:border-slate-700" role="list">
+      {{ range $region := $regions }}
+        <li class="border-b border-slate-200 dark:border-slate-700">
+          <a class="block py-3 font-medium text-slate-700 transition-colors hover:text-primary-700 focus:outline-none focus-visible:text-primary-700 dark:text-slate-200 dark:hover:text-primary-300 dark:focus-visible:text-primary-300" href="#region-{{ $region.en | urlize }}">
+            {{ if eq $.Lang "pt-br" }}{{ $region.pt }}{{ else }}{{ $region.en }}{{ end }}
+          </a>
+        </li>
+      {{ end }}
+    </ol>
+  </nav>
+
+  <section class="mt-14 border-t border-slate-200 pt-8 dark:border-slate-700 sm:mt-20 sm:pt-10" aria-labelledby="location-directory-heading">
+    <div class="mb-8 flex flex-col justify-between gap-4 sm:flex-row sm:items-end">
+      <div>
+        <p class="text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">
+          {{ if eq .Lang "pt-br" }}Encontre sua cidade{{ else }}Find your city{{ end }}
+        </p>
+        <h2 id="location-directory-heading" class="mt-2 text-3xl font-semibold tracking-tight text-slate-900 dark:text-white">
+          {{ if eq .Lang "pt-br" }}Locais de aulas{{ else }}Tutoring locations{{ end }}
+        </h2>
+      </div>
+      <p class="text-sm text-slate-500 dark:text-slate-400">
+        {{ $locationCount }} {{ if eq .Lang "pt-br" }}locais disponíveis{{ else }}locations available{{ end }}
+      </p>
+    </div>
+
+    {{ range $region := $regions }}
+      {{ $regionLocations := where $locations "File.ContentBaseName" "in" $region.slugs }}
+      <section class="scroll-mt-28 border-t border-slate-200 py-10 first:border-t-0 first:pt-0 dark:border-slate-700" aria-labelledby="region-{{ $region.en | urlize }}">
+        <div class="mb-5 flex items-baseline gap-3">
+          <h3 id="region-{{ $region.en | urlize }}" class="text-2xl font-semibold tracking-tight text-slate-900 dark:text-white">
+            {{ if eq $.Lang "pt-br" }}{{ $region.pt }}{{ else }}{{ $region.en }}{{ end }}
+          </h3>
+          <span class="text-sm text-slate-500 dark:text-slate-400">{{ len $regionLocations }}</span>
+        </div>
+        <div class="grid grid-cols-2 gap-4 sm:gap-5 md:grid-cols-3 xl:grid-cols-4">
+          {{ range $index, $location := $regionLocations }}
+            {{ partial "location-directory-card.html" (dict "item" $location "index" $index) }}
+          {{ end }}
+        </div>
+      </section>
+    {{ end }}
+  </section>
+</main>
+{{ end }}

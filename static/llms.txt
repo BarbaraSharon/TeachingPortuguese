@@ -1,0 +1,26 @@
+# Learn Portuguese with Barbara Sharon
+
+> First-party website for Barbara Sharon, a Brazilian Portuguese teacher based on the Gold Coast, Queensland, Australia. Online lessons are available worldwide; genuine in-person services are restricted to verified Gold Coast delivery areas.
+
+Canonical website: https://barbarasharon.com.au/
+
+Barbara teaches Brazilian Portuguese through private lessons, group classes, speaking practice, travel Portuguese, business Portuguese, and level-based learning. The website is the source of truth for current availability, lesson formats, and contact details.
+
+## Key pages
+
+- [Home](https://barbarasharon.com.au/en/): Overview of Barbara Sharon’s Brazilian Portuguese lessons, formats, and service area.
+- [About Barbara](https://barbarasharon.com.au/en/about-learning-portuguese/): Barbara’s teaching background, languages, and methodology as stated on the site.
+- [Contact](https://barbarasharon.com.au/en/contact-portuguese-teacher/): Contact route for discussing level, goals, format, and availability.
+- [All lesson services](https://barbarasharon.com.au/en/portuguese-teaching-services/): Online worldwide and in-person Gold Coast lesson options.
+- [Online Portuguese lessons](https://barbarasharon.com.au/en/portuguese-teaching-services/online-portuguese-lessons/): Private and group Brazilian Portuguese lessons online worldwide.
+- [Private Gold Coast tutoring](https://barbarasharon.com.au/en/portuguese-teaching-services/portuguese-tutoring-gold-coast/): In-person private lesson information for verified Gold Coast delivery areas.
+- [Gold Coast group classes](https://barbarasharon.com.au/en/portuguese-teaching-services/portuguese-school-gold-coast/): In-person group-class information for the Gold Coast.
+- [Portuguese speaking club](https://barbarasharon.com.au/en/portuguese-speaking-club/): Conversation-focused speaking practice.
+- [How to learn Portuguese](https://barbarasharon.com.au/en/howto-learn-portuguese/): Practical guidance for building Portuguese learning habits.
+- [Beginner Portuguese phrases](https://barbarasharon.com.au/en/portuguese-beginner-phrases/): Useful beginner Brazilian Portuguese phrases and pronunciation guidance.
+- [Brazilian vs European Portuguese](https://barbarasharon.com.au/en/brazilian-vs-european-portuguese/): Comparison to help learners choose a language variant.
+- [Portuguese for travel](https://barbarasharon.com.au/en/portuguese-for-travel/): Travel-focused Portuguese learning resources and lessons.
+- [Portuguese for business](https://barbarasharon.com.au/en/portuguese-for-business/): Business-focused Brazilian Portuguese learning resources and lessons.
+- [Portuguese FAQ](https://barbarasharon.com.au/en/faq-learning-portuguese/): Questions and answers about learning Portuguese and Barbara’s lessons.
+- [Learning Portuguese hub](https://barbarasharon.com.au/en/learning-portuguese-with-barbara-sharon/): Curated links to learning paths and resources.
+- [Privacy policy](https://barbarasharon.com.au/en/privacy/): Site privacy, contact, and analytics information.

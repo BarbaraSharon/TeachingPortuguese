@@ -1,0 +1,54 @@
+{{/*
+  Hugo does not associate translated taxonomy terms or paginated list pages
+  through translationKey. Add alternates only for route families that have a
+  verified equivalent in the other language.
+*/}}
+{{ $path := .RelPermalink }}
+{{ $alternatePath := "" }}
+{{ $alternateLang := "" }}
+{{/* Taxonomy archives can paginate differently across languages. Linking them
+     across languages creates non-reciprocal hreflang pairs. */}}
+{{ $isTaxonomyArchive := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+{{/* The locations directory intentionally has no archive pagination. Avoid
+     accessing .Paginator here because Hugo creates paginated pages on access. */}}
+{{ $isPaginatedSection := and (eq .Kind "section") (ne .Type "portuguese-teaching-locations") (strings.Contains .RelPermalink "/page/") }}
+
+{{ if eq .Lang "en" }}
+  {{ if or (eq $path "/en/tags/") (eq $path "/en/authors/") (eq $path "/en/categories/") }}
+    {{ $alternatePath = replace $path "/en/" "/pt-br/" }}
+    {{ $alternateLang = "pt-BR" }}
+  {{ else if hasPrefix $path "/en/portuguese-teaching-locations/" }}
+    {{ $alternatePath = replace $path "/en/portuguese-teaching-locations/" "/pt-br/locais-de-aulas-de-portugues/" }}
+    {{ $alternateLang = "pt-BR" }}
+  {{ else if hasPrefix $path "/en/categories/portuguese-teaching-locations/" }}
+    {{ $alternatePath = replace $path "/en/categories/portuguese-teaching-locations/" "/pt-br/categories/locais-de-aulas-de-portugues/" }}
+    {{ $alternateLang = "pt-BR" }}
+  {{ else if hasPrefix $path "/en/categories/portuguese-teaching-services/" }}
+    {{ $alternatePath = replace $path "/en/categories/portuguese-teaching-services/" "/pt-br/categories/servicos-de-ensino-de-portugues/" }}
+    {{ $alternateLang = "pt-BR" }}
+  {{ else if hasPrefix $path "/en/categories/portuguese-learning-paths/" }}
+    {{ $alternatePath = replace $path "/en/categories/portuguese-learning-paths/" "/pt-br/categories/caminhos-de-aprendizagem-de-portugues/" }}
+    {{ $alternateLang = "pt-BR" }}
+  {{ end }}
+{{ else if eq .Lang "pt-br" }}
+  {{ if or (eq $path "/pt-br/tags/") (eq $path "/pt-br/authors/") (eq $path "/pt-br/categories/") }}
+    {{ $alternatePath = replace $path "/pt-br/" "/en/" }}
+    {{ $alternateLang = "en-AU" }}
+  {{ else if hasPrefix $path "/pt-br/locais-de-aulas-de-portugues/" }}
+    {{ $alternatePath = replace $path "/pt-br/locais-de-aulas-de-portugues/" "/en/portuguese-teaching-locations/" }}
+    {{ $alternateLang = "en-AU" }}
+  {{ else if hasPrefix $path "/pt-br/categories/locais-de-aulas-de-portugues/" }}
+    {{ $alternatePath = replace $path "/pt-br/categories/locais-de-aulas-de-portugues/" "/en/categories/portuguese-teaching-locations/" }}
+    {{ $alternateLang = "en-AU" }}
+  {{ else if hasPrefix $path "/pt-br/categories/servicos-de-ensino-de-portugues/" }}
+    {{ $alternatePath = replace $path "/pt-br/categories/servicos-de-ensino-de-portugues/" "/en/categories/portuguese-teaching-services/" }}
+    {{ $alternateLang = "en-AU" }}
+  {{ else if hasPrefix $path "/pt-br/categories/caminhos-de-aprendizagem-de-portugues/" }}
+    {{ $alternatePath = replace $path "/pt-br/categories/caminhos-de-aprendizagem-de-portugues/" "/en/categories/portuguese-learning-paths/" }}
+    {{ $alternateLang = "en-AU" }}
+  {{ end }}
+{{ end }}
+
+{{ if and (not $isTaxonomyArchive) (not $isPaginatedSection) }}{{ with $alternatePath }}
+  <link rel="alternate" hreflang="{{ $alternateLang }}" href="{{ site.BaseURL | replaceRE "/$" "" }}{{ . }}" />
+{{ end }}{{ end }}

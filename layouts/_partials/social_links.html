@@ -1,0 +1,31 @@
+{{ if .Params.profiles }}
+<div class="flex flex-wrap text-neutral-500 dark:text-neutral-300">
+  {{ $language := site.Language.Lang }}
+  {{ with .page }}{{ $language = .Lang }}{{ end }}
+  {{ range $links := .Params.profiles }}
+    {{ $link := .url }}
+    {{/* Keep the reusable English profile link, but localize its prompt on translated pages. */}}
+    {{ if eq $link "https://wa.me/61493837828?text=Hi%20Barbara,%0D%0AI%27m%20interested%20in%20learning%20Portuguese.%0D%0A" }}
+      {{ if eq $language "es" }}
+        {{ $link = "https://wa.me/61493837828?text=Hola%20Barbara,%0D%0AMe%20interesa%20aprender%20portugu%C3%A9s.%0D%0A" }}
+      {{ else if eq $language "pt-br" }}
+        {{ $link = "https://wa.me/61493837828?text=Oi%20Barbara,%0D%0ATenho%20interesse%20em%20aprender%20portugu%C3%AAs.%0D%0A" }}
+      {{ end }}
+    {{ end }}
+    {{ $scheme := (urls.Parse $link).Scheme }}
+    {{ $target := "" }}
+    {{ if not $scheme }}
+      {{ $link = $link | relLangURL }}
+    {{ else if in (slice "http" "https") $scheme }}
+      {{ $target = "target=\"_blank\" rel=\"noopener\" rel=\"me noopener noreferrer\"" }}
+    {{ end }}
+    <a
+      class="pr-4 transition-transform hover:scale-125 hover:text-primary-700 dark:hover:text-primary-400"
+      style="will-change:transform;"
+      href="{{ $link | safeURL }}"
+      {{ $target | safeHTMLAttr }}
+      aria-label="{{ .icon | title }}"
+    >{{ partial "functions/get_icon" (dict "name" .icon "attributes" "style=\"height: 1em;\"") }}</a>
+  {{ end }}
+</div>
+{{ end }}

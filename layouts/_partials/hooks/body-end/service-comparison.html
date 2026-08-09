@@ -1,0 +1,29 @@
+{{/* Make each lesson row behave like a link without making columns selectable. */}}
+<script>
+  (() => {
+    const section = document.getElementById("lesson-options");
+    if (!section) return;
+
+    const prepareComparison = () => {
+      const table = section.querySelector("table");
+      if (!table || table.dataset.serviceComparisonReady === "true") return;
+      table.dataset.serviceComparisonReady = "true";
+
+      const linkedRows = Array.from(table.tBodies?.[0]?.rows || []).filter((row) => row.dataset.rowUrl);
+      linkedRows.forEach((row) => {
+        row.addEventListener("click", (event) => {
+          if (event.target.closest("a, button")) return;
+          window.location.href = row.dataset.rowUrl;
+        });
+        row.addEventListener("keydown", (event) => {
+          if (event.key !== "Enter" && event.key !== " ") return;
+          event.preventDefault();
+          window.location.href = row.dataset.rowUrl;
+        });
+      });
+    };
+
+    prepareComparison();
+    new MutationObserver(prepareComparison).observe(section, {childList: true, subtree: true});
+  })();
+</script>

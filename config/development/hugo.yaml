@@ -1,0 +1,3 @@
+# Keep local development redirects and absolute URLs on the local server.
+# Production uses the canonical baseURL from config/_default/hugo.yaml.
+baseURL: http://localhost:1313/

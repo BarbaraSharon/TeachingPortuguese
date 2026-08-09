@@ -1,0 +1,59 @@
+{{ define "main" }}
+{{ $sections := .Params.sections }}
+{{ $hero := index $sections 0 }}
+{{ $comparison := index $sections 1 }}
+{{ $formats := index $sections 2 }}
+{{ $goals := index $sections 3 }}
+{{ $faq := index $sections 4 }}
+{{ $cta := index $sections 5 }}
+
+<section class="bg-gray-50 dark:bg-gray-950">
+  <div class="mx-auto grid max-w-7xl gap-12 px-6 py-16 lg:grid-cols-2 lg:items-center lg:py-24">
+    <div>
+      <p class="mb-4 text-sm font-semibold uppercase tracking-[0.18em] text-primary-600 dark:text-primary-400">{{ $hero.content.eyebrow }}</p>
+      <h1 class="text-4xl font-bold tracking-tight text-gray-950 dark:text-white sm:text-5xl">{{ $hero.content.title }}</h1>
+      <p class="mt-6 max-w-2xl text-lg leading-8 text-gray-700 dark:text-gray-300">{{ $hero.content.text }}</p>
+      <div class="mt-8 flex flex-wrap gap-4">
+        <a class="rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white shadow-sm transition hover:bg-primary-700" href="{{ $hero.content.primary_action.url }}">{{ $hero.content.primary_action.text }}</a>
+        <a class="rounded-lg border border-gray-300 px-5 py-3 font-semibold text-gray-900 transition hover:bg-white dark:border-gray-700 dark:text-white dark:hover:bg-gray-900" href="{{ $hero.content.secondary_action.url }}">{{ $hero.content.secondary_action.text }}</a>
+      </div>
+    </div>
+    {{ with resources.Get "media/services/teaching-portuguese-online.png" }}
+      <img class="aspect-square w-full rounded-3xl object-cover shadow-xl" src="{{ .RelPermalink }}" alt="{{ $hero.content.media.alt }}" width="{{ .Width }}" height="{{ .Height }}">
+    {{ end }}
+  </div>
+</section>
+
+<section id="{{ $comparison.id }}" class="bg-white py-16 dark:bg-gray-900 lg:py-24">
+  <div class="mx-auto max-w-7xl px-6">
+    <p class="text-sm font-semibold uppercase tracking-[0.18em] text-primary-600 dark:text-primary-400">{{ $comparison.content.subtitle }}</p>
+    <h2 class="mt-3 text-3xl font-bold tracking-tight text-gray-950 dark:text-white">{{ $comparison.content.title }}</h2>
+      <p class="mt-4 max-w-3xl text-lg text-gray-700 dark:text-gray-300">{{ $comparison.content.text }}</p>
+    <div class="mt-10 overflow-x-auto rounded-2xl border border-gray-200 dark:border-gray-700">
+      <table class="w-full min-w-[680px] text-left text-sm">
+        <colgroup><col class="service-comparison-feature-column">{{ range $comparison.content.competitors }}<col class="service-comparison-option-column">{{ end }}</colgroup>
+        <thead class="bg-gray-100 text-gray-900 dark:bg-gray-800 dark:text-white"><tr><th class="p-5 font-semibold">Lesson option</th>{{ range $comparison.content.competitors }}<th class="p-5 font-semibold">{{ .name }}<span class="mt-1 block text-xs font-normal text-gray-600 dark:text-gray-300">{{ .tagline }}</span></th>{{ end }}</tr></thead>
+        <tbody class="divide-y divide-gray-200 dark:divide-gray-700">{{ range $comparison.content.rows }}{{ $row := . }}<tr{{ with $row.url }} data-row-url="{{ . }}" tabindex="0" role="link" aria-label="{{ printf (i18n "open_feature") $row.feature }}"{{ end }} class="service-comparison-row text-gray-700 dark:text-gray-300"><th class="p-5 font-medium text-gray-950 dark:text-white">{{ with $row.url }}<a href="{{ . }}" class="block font-medium text-gray-950 dark:text-white">{{ $row.feature }}</a>{{ else }}{{ $row.feature }}{{ end }}</th>{{ range $row.values }}<td class="p-5">{{ if eq . true }}{{ i18n "yes" }}{{ else if eq . false }}-{{ else }}{{ . }}{{ end }}</td>{{ end }}</tr>{{ end }}</tbody>
+      </table>
+    </div>
+    <a class="mt-8 inline-flex rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white transition hover:bg-primary-700" href="{{ $comparison.content.cta.url }}">{{ $comparison.content.cta.text }}</a>
+  </div>
+</section>
+
+<section id="{{ $formats.id }}" class="bg-gray-50 py-16 dark:bg-gray-950 lg:py-24">
+  <div class="mx-auto max-w-7xl px-6"><div class="grid gap-8 lg:grid-cols-3">
+    {{ range $formats.content.items }}
+      <article class="overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-gray-200 dark:bg-gray-900 dark:ring-gray-800">
+        {{ $format := . }}{{ $image := resources.Get (printf "media/%s" .image) }}{{ with $image }}<img class="h-56 w-full object-cover" src="{{ .RelPermalink }}" alt="{{ $format.title }} - Brazilian Portuguese lesson with Barbara Sharon" width="{{ .Width }}" height="{{ .Height }}">{{ end }}
+        <div class="p-7"><h2 class="text-xl font-bold text-gray-950 dark:text-white">{{ .title }}</h2><p class="mt-3 leading-7 text-gray-700 dark:text-gray-300">{{ .text }}</p><ul class="mt-5 space-y-2 text-sm text-gray-700 dark:text-gray-300">{{ range .features }}<li>✓ {{ . }}</li>{{ end }}</ul><a class="mt-6 inline-flex font-semibold text-primary-700 hover:text-primary-800 dark:text-primary-400" href="{{ .button.url }}">{{ .button.text }} →</a></div>
+      </article>
+    {{ end }}
+  </div></div>
+</section>
+
+<section id="{{ $goals.id }}" class="bg-white py-16 dark:bg-gray-900 lg:py-24"><div class="mx-auto max-w-7xl px-6"><p class="text-sm font-semibold uppercase tracking-[0.18em] text-primary-600 dark:text-primary-400">{{ $goals.content.subtitle }}</p><h2 class="mt-3 text-3xl font-bold text-gray-950 dark:text-white">{{ $goals.content.title }}</h2><p class="mt-4 max-w-3xl text-lg text-gray-700 dark:text-gray-300">{{ $goals.content.text }}</p><div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">{{ range $goals.content.items }}<article class="rounded-xl border border-gray-200 p-6 dark:border-gray-700"><h3 class="font-bold text-gray-950 dark:text-white">{{ .name }}</h3><p class="mt-2 text-gray-700 dark:text-gray-300">{{ .description }}</p></article>{{ end }}</div></div></section>
+
+<section id="{{ $faq.id }}" class="bg-gray-50 py-16 dark:bg-gray-950 lg:py-24"><div class="mx-auto max-w-4xl px-6"><p class="text-sm font-semibold uppercase tracking-[0.18em] text-primary-600 dark:text-primary-400">{{ $faq.content.subtitle }}</p><h2 class="mt-3 text-3xl font-bold text-gray-950 dark:text-white">{{ $faq.content.title }}</h2><div class="mt-8 divide-y divide-gray-200 rounded-2xl bg-white px-6 dark:divide-gray-700 dark:bg-gray-900">{{ range $faq.content.items }}<details class="py-5"><summary class="cursor-pointer font-semibold text-gray-950 dark:text-white">{{ .question }}</summary><p class="mt-3 leading-7 text-gray-700 dark:text-gray-300">{{ .answer }}</p></details>{{ end }}</div><a class="mt-8 inline-flex rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white transition hover:bg-primary-700" href="{{ $faq.content.button.url }}">{{ $faq.content.button.text }}</a></div></section>
+
+<section class="bg-primary-700 py-16 text-white lg:py-20"><div class="mx-auto max-w-4xl px-6 text-center"><h2 class="text-3xl font-bold">{{ $cta.content.title }}</h2><p class="mx-auto mt-4 max-w-2xl text-lg text-white/85">{{ $cta.content.text }}</p><a class="mt-8 inline-flex rounded-lg bg-white px-5 py-3 font-semibold text-primary-800 transition hover:bg-gray-100" href="{{ $cta.content.button.url }}">{{ $cta.content.button.text }}</a></div></section>
+{{ end }}

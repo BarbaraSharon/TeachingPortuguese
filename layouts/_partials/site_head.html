@@ -1,0 +1,329 @@
+{{ $scr := .Scratch }}
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="generator" content="Hugo Blox Kit {{ hugo.Data.hugoblox.version }}" />
+
+  {{/* EXTENSIBILITY HOOK: HEAD-START */}}
+  {{ partial "functions/get_hook" (dict "hook" "head-start" "context" .) }}
+
+  {{ $isPaginatedFirstPage := strings.HasSuffix .RelPermalink "/page/1/" }}
+  {{ if .Params.private }}
+    <meta name="robots" content="noindex" />
+  {{ else if $isPaginatedFirstPage }}
+    <meta name="robots" content="noindex,follow" />
+  {{ else if or (eq .Kind "404") (strings.Contains .RelPermalink "/404.html") }}
+    <meta name="robots" content="noindex, nofollow" />
+  {{ else if .Params.robots }}
+    <meta name="robots" content="{{ .Params.robots }}" />
+  {{- end -}}
+
+{{/* Attempt to load superuser/person from data. */}}
+{{ $superuser_name := "" }}
+{{ $superuser_slug := "" }}
+{{ $superuser_role := "" }}
+
+{{/* Prefer is_owner flag, fallback to slug 'me' */}}
+{{ $authors := partialCached "functions/get_authors_data" . site.Language.Lang }}
+{{ range $slug, $data := $authors }}
+  {{ if and (not $superuser_slug) ($data.is_owner) }}
+    {{ $superuser_slug = $slug }}
+  {{ end }}
+{{ end }}
+{{ if and (eq $superuser_slug "") (index $authors "me") }}
+  {{ $superuser_slug = "me" }}
+{{ end }}
+
+{{ if $superuser_slug }}
+  {{ $profile := partial "functions/get_author_profile" (dict "slug" $superuser_slug) }}
+  {{ $superuser_name = $profile.title }}
+  {{ $superuser_role = $profile.role }}
+{{ end }}
+
+{{ $scr.Set "superuser_slug" $superuser_slug }}{{/* Set superuser globally for author rendering. */}}
+
+{{ with $superuser_name }}<meta name="author" content="{{ . }}" />{{ end }}
+
+  {{/* Generate page description. */}}
+  {{ $desc := "" }}
+  {{ $desc = partial "functions/get_summary" . }}
+  {{ if not $desc }}
+    {{ $desc = i18n "site_description" | default site.Params.hugoblox.identity.description }}
+  {{ end }}
+  {{ if not $desc }}
+    {{ $desc = $superuser_role }}
+  {{ end }}
+  <meta name="description" content="{{ $desc | plainify }}" />
+
+  {{/* Taxonomy archives can paginate differently across languages. They have
+       no reliable page-for-page equivalent, so omit hreflang rather than emit
+       a non-reciprocal pairing. */}}
+  {{ $isTaxonomyArchive := or (eq .Kind "taxonomy") (eq .Kind "term") }}
+  {{/* The locations directory intentionally has no archive pagination. Avoid
+       accessing .Paginator here because Hugo creates paginated pages on access. */}}
+  {{ $isPaginatedSection := and (eq .Kind "section") (ne .Type "portuguese-teaching-locations") (strings.Contains .RelPermalink "/page/") }}
+  {{ if and (not $isTaxonomyArchive) (not $isPaginatedSection) }}
+    {{ $xDefault := .Permalink }}
+    {{ range where .AllTranslations "Language.Lang" "en" }}
+      {{ $xDefault = .Permalink }}
+    {{ end }}
+    {{ range .Translations }}
+      {{/* Use the configured locale for every member of the group. .Lang is
+           Hugo's internal language key (for example, `en` or `pt-br`) and
+           can differ from the locale used by the self-reference (`en-au` or
+           `pt-BR`). A consistent set is required for reciprocal hreflang. */}}
+      <link rel="alternate" hreflang="{{ .Language.Locale | default .Lang }}" href="{{ .Permalink }}" />
+    {{ end }}
+    <link rel="alternate" hreflang="{{ site.Language.Locale | default "en-us" }}" href="{{ .Permalink }}" />
+    <link rel="alternate" hreflang="x-default" href="{{ $xDefault }}" />
+    {{ if not .Translations }}
+      {{ partial "hreflang-taxonomy-pagination.html" . }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Hugo Blox Theme Engine Initialization */}}
+  {{/* Uses get_theme_config helper for backward-compatible config resolution */}}
+  {{ $theme_config := partialCached "functions/get_theme_config" . "theme_config" }}
+  {{ partial "functions/theme_generator.html" $theme_config }}
+
+  {{/* Demo Theme Pack Styles (if enabled) */}}
+  {{ if site.Params.hugoblox.header.theme_picker }}
+    {{ partial "functions/demo_theme_styles.html" (dict "typography" $theme_config.typography "layout" $theme_config.layout) }}
+  {{ end }}
+
+  {{/* Tailwind CSS v4 Processing */}}
+  {{/* Use templates.Defer to process CSS after all content is analyzed */}}
+  {{ with (templates.Defer (dict "key" "tailwind-css")) }}
+    {{ partial "css.html" . }}
+  {{ end }}
+
+  {{ if fileExists "assets/css/custom.css" }}
+    {{ $styles := resources.Get "css/custom.css" | minify | fingerprint "sha256" }}
+    <link href="{{ $styles.RelPermalink }}" rel="stylesheet" />
+  {{ end }}
+
+  {{/* Externalized init scripts for CSP-friendly head */}}
+  {{- $hb_head := resources.Get "js/hb-head.js" | js.Build | resources.Minify -}}
+  {{- if hugo.IsProduction -}}
+    {{- $hb_head = $hb_head | fingerprint "sha256" -}}
+  {{- end -}}
+  <script src="{{ $hb_head.RelPermalink }}"{{ if hugo.IsProduction }} integrity="{{ $hb_head.Data.Integrity }}" crossorigin="anonymous"{{ end }}></script>
+
+  {{/* Analytics & Verification */}}
+  {{/* !CACHED! All analytics and verification code is at site level */}}
+  {{ partialCached "blox-analytics/index" . site.Language.Lang }}
+
+  {{/* RSS Feed */}}
+  {{ $branding := partialCached "functions/get_branding" . site.Language.Lang }}
+  {{ $localized_site_title := i18n "site_title" | default $branding.site_title }}
+  {{ with .OutputFormats.Get "RSS" }}
+    <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ $localized_site_title }}" />
+  {{ end }}
+
+  {{/* Progressive Web App (PWA) Icon - SVG preferred */}}
+  {{ $icon := partial "functions/get_site_icon" 32 }}
+  {{ with $icon.resource }}
+    <link rel="icon" type="{{ $icon.type }}" href="{{ .RelPermalink }}" />
+  {{ end }}
+  {{/* Apple Touch Icon - requires PNG */}}
+  {{ $icon_apple := partial "functions/get_site_icon" 180 }}
+  {{ if not $icon_apple.is_svg }}
+    {{ with $icon_apple.resource }}
+      <link rel="apple-touch-icon" type="image/png" href="{{ .RelPermalink }}" />
+    {{ end }}
+  {{ else }}
+    {{/* SVG icon - need PNG fallback for Apple */}}
+    {{ $icon_png := resources.Get "media/icon.png" }}
+    {{ with $icon_png }}
+      {{ $apple_icon := .Fill "180x180 Center" }}
+      <link rel="apple-touch-icon" type="image/png" href="{{ $apple_icon.RelPermalink }}" />
+    {{ end }}
+  {{ end }}
+
+  {{ $canonical := .Permalink }}
+  {{ if $isPaginatedFirstPage }}
+    {{ $canonical = strings.TrimSuffix .Permalink "/page/1/" }}
+  {{ end }}
+  <link rel="canonical" href="{{ $canonical }}" />
+
+  {{/* Remember explicit language choices and optionally switch first-time
+       visitors from the safe English fallback to PT-BR or Spanish. */}}
+  <script src="{{ "js/language-preference.js" | relURL }}" defer></script>
+
+{{/* Get page image for social metadata. */}}
+{{ partialCached "publish_shared_images.html" . "shared-image-source-publication" }}
+  {{ $barbara_image := resources.GetMatch (path.Join "media" "barbara-sharon.*") }}
+  {{ $featured_image := partial "functions/get_featured_image" . }}
+{{ $avatar_image := (.Resources.ByType "image").GetMatch "avatar*" }}
+  {{ $has_logo := fileExists "assets/media/logo.png" | or (fileExists "assets/media/logo.svg") }}
+  {{ $og_image := "" }}
+  {{ $twitter_card := "summary_large_image" }}
+  {{ $og_image_width := 0 }}
+  {{ $og_image_height := 0 }}
+{{ if and (eq .Kind "term") (eq .Data.Singular "author") }}
+  {{/* Try data-driven avatar for author term pages */}}
+  {{ $termSlug := .Data.Term | urlize }}
+  {{ $profile := partial "functions/get_author_profile" (dict "slug" $termSlug) }}
+  {{ with $profile.avatar }}
+    {{ $term_og_image := .Fill "540x540 Center" }}
+    {{ $og_image = $term_og_image.Permalink }}
+    {{ $og_image_width = $term_og_image.Width }}
+    {{ $og_image_height = $term_og_image.Height }}
+    {{ $twitter_card = "summary" }}
+  {{ end }}
+{{ else if (and (eq .Kind "term") $avatar_image) }}
+  {{ $term_og_image := $avatar_image.Fill "540x540 Center" }}
+  {{ $og_image = $term_og_image.Permalink }}
+  {{ $og_image_width = $term_og_image.Width }}
+  {{ $og_image_height = $term_og_image.Height }}
+  {{ $twitter_card = "summary" }}
+{{ else if $featured_image }}
+  {{ $og_image = $featured_image.Permalink }}
+  {{ $og_image_width = $featured_image.Width }}
+  {{ $og_image_height = $featured_image.Height }}
+  {{ else if $barbara_image }}
+    {{ $og_image = $barbara_image.Permalink }}
+    {{ $og_image_width = $barbara_image.Width }}
+    {{ $og_image_height = $barbara_image.Height }}
+  {{ else if $has_logo }}
+    {{/* !CACHED! Can safely cache this site logo variant */}}
+    {{ $logo_data := partialCached "functions/get_logo" (dict "constraint" "fit" "size" 300) "logo_og" }}
+    {{ with $logo_data.resource }}
+      {{ $og_image = .Permalink }}
+      {{ $og_image_width = .Width }}
+      {{ $og_image_height = .Height }}
+    {{ end }}
+    {{ $twitter_card = "summary" }}
+  {{ else }}
+    {{ $icon_og := partial "functions/get_site_icon" 512 }}
+    {{ with $icon_og.resource }}
+      {{ $og_image = .Permalink }}
+      {{ $og_image_width = .Width }}
+      {{ $og_image_height = .Height }}
+    {{ end }}
+    {{ $twitter_card = "summary" }}
+  {{ end }}
+  {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}
+
+  {{/* Keep the descriptive site-wide SEO title for the homepage only.
+       Inner pages use their focused front-matter title without a repeated suffix,
+       preventing search-result truncation while retaining page-specific intent. */}}
+  {{ $title := .Title | default $localized_site_title }}
+  {{ if .IsHome }}
+    {{ $title = $localized_site_title }}
+  {{ else }}
+    {{ $seo_title := .Params.seo.title | default "" | strings.TrimSpace }}
+    {{ if ne $seo_title "" }}
+      {{ $title = replace $seo_title "{brand}" $localized_site_title }}
+    {{ end }}
+  {{ end }}
+  {{ $title = $title | plainify | htmlUnescape | strings.TrimSpace | default $localized_site_title }}
+  <meta name="twitter:card" content="{{ $twitter_card }}" />
+  {{ with site.Params.hugoblox.identity.social.twitter }}
+    <meta property="twitter:site" content="@{{ . }}" />
+    <meta property="twitter:creator" content="@{{ . }}" />
+  {{ end }}
+  <meta property="og:site_name" content="{{ $localized_site_title }}" />
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+  <meta property="og:url" content="{{ $canonical }}" />
+  <meta property="og:title" content="{{ $title }}" />
+  <meta property="og:description" content="{{ $desc }}" />
+  {{- with $og_image -}}
+    <meta property="og:image" content="{{ . }}" />
+    <meta property="twitter:image" content="{{ . }}" />
+  {{- end -}}
+  {{- if gt $og_image_width 0 -}}
+    <meta property="og:image:width" content="{{ $og_image_width }}" />
+  {{- end -}}
+  {{- if gt $og_image_height 0 -}}
+    <meta property="og:image:height" content="{{ $og_image_height }}" />
+  {{- end -}}
+  <meta property="og:locale" content="{{ site.Language.Locale | default "en-us" }}" />
+  {{ if .IsPage }}
+    {{ if not .PublishDate.IsZero }}
+      <meta
+        property="article:published_time"
+        content="{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"
+      />
+    {{ else if not .Date.IsZero }}
+      <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}" />
+    {{ end }}
+    {{ if not .Lastmod.IsZero }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}">{{ end }}
+  {{ else }}
+    {{ if not .Date.IsZero }}
+      <meta property="og:updated_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}" />
+    {{ end }}
+  {{ end }}
+
+  {{ partial "jsonld/main" (dict "page" . "summary" $desc) }}
+
+  <title>{{$title}}</title>
+
+  {{/* Typography: font loading, font families, and sizes */}}
+  {{ partial "functions/typography.html" $theme_config }}
+  {{/* Layout tokens: radius and spacing */}}
+  {{ partial "functions/layout_tokens.html" $theme_config }}
+
+  {{ if .Params.design.background.image.filename }}
+    {{/* See Hugo note on linking assets in styles: https://github.com/gohugoio/hugoThemes#common-permalink-issues */}}
+    {{ $bg_img := resources.Get (printf "media/%s" .Params.design.background.image.filename) }}
+    {{ if $bg_img }}
+      {{ if reflect.IsImageResourceProcessable $bg_img }}
+        {{ $bg_img = $bg_img.Fit "1920x1920 webp" }}
+      {{ end }}
+      <style>
+        #page-bg {
+         background-image: url('{{$bg_img.Permalink}}');
+         background-position: center;
+         background-size: cover;
+        }
+      </style>
+      {{ else }}
+        {{ errorf "Couldn't find page background `%s` in the `assets/media/` folder - please add it." .Params.design.background.image.filename }}
+      {{ end }}
+  {{ end }}
+
+  {{/* Init prior to auto-chunking/bundling scripts due to Hugo concurrency issues */}}
+  {{/* !CACHED! Initialized once at site level and then cached for each page */}}
+  {{- partialCached "init.html" . "hb_init_once" -}}
+
+  {{ $js_license := printf "/*! Hugo Blox Kit Tailwind UI v%s | https://hugoblox.com/ */\n" hugo.Data.hugoblox.version }}
+  {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
+  {{ $js_license := $js_license | printf "%s/*! License: https://github.com/HugoBlox/kit/blob/main/LICENSE.md */\n" }}
+  {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
+  {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
+  {{ $js_params := dict "hugoEnvironment" hugo.Environment "i18n" $i18n }}
+  {{ $js_hugoblox := resources.Get "js/hb-code-copy.js" | js.Build (dict "targetPath" (printf "js/hugoblox-core-%s.js" .Lang ) "params" $js_params) }}
+  {{ $js_hugoblox := $js_hugoblox | resources.Minify }}
+  {{- $js_theme := resources.Get "js/hb-theme.js" | resources.Minify -}}
+  {{- $js_lang := resources.Get "js/hb-i18n.js" | resources.Minify -}}
+  {{- $js_nav := resources.Get "js/hb-nav.js" | resources.Minify -}}
+  {{- $js_sidebar := resources.Get "js/hb-sidebar.js" | resources.Minify -}}
+  {{- $js_notifier := resources.Get "js/hb-notifier.js" | js.Build (dict "targetPath" (printf "js/hb-notifier-%s.js" .Lang ) "params" $js_params) | resources.Minify -}}
+  {{- $js_clipboard := resources.Get "js/hb-clipboard.js" | js.Build (dict "targetPath" (printf "js/hb-clipboard-%s.js" .Lang ) "params" $js_params) | resources.Minify -}}
+  {{- $js_citation := resources.Get "js/hb-citation.js" | js.Build (dict "targetPath" (printf "js/hb-citation-%s.js" .Lang ) "params" $js_params) | resources.Minify -}}
+  
+  {{/* Start with the core scripts */}}
+  {{ $js_bundle_contents := slice $js_bundle_head $js_hugoblox $js_theme $js_lang $js_nav $js_sidebar $js_notifier $js_clipboard $js_citation }}
+
+  {{/* Discover and include block-specific JavaScript */}}
+  {{- with partial "functions/get-block-scripts.html" . -}}
+    {{ $js_bundle_contents = $js_bundle_contents | append . }}
+  {{- end -}}
+  
+  {{ $js_bundle := $js_bundle_contents | resources.Concat (printf "js/hugo-blox-%s.min.js" .Lang) }}
+  {{- if hugo.IsProduction -}}
+    {{ $js_bundle = $js_bundle | fingerprint "sha256" }}
+  {{- end -}}
+  <script
+    defer
+    src="{{ $js_bundle.RelPermalink }}"
+    integrity="{{ $js_bundle.Data.Integrity }}"
+  ></script>
+
+  {{/* Load Third-Party Libraries */}}
+  {{ partial "libraries.html" . }}
+
+  {{/* EXTENSIBILITY HOOK: HEAD-END */}}
+  {{ partial "functions/get_hook" (dict "hook" "head-end" "context" .) }}
+</head>

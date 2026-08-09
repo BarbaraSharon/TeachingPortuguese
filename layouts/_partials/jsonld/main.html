@@ -1,0 +1,7 @@
+{{- $page := .page | default . -}}
+{{- with $page }}
+  {{/* `migration-schema` is already emitted through HugoBlox's head-end hook.
+       Keep this fallback entry point limited to Service data so the stable
+       Organization and Person nodes are never rendered twice. */}}
+  {{- partial "hooks/head-end/service-schema.html" . -}}
+{{- end -}}

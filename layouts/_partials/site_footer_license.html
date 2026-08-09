@@ -1,0 +1,7 @@
+{{/* Localized site copyright notice. */}}
+{{ $page_copyright := .Params.copyright | default dict }}
+{{ $notice := $page_copyright.notice | default (i18n "copyright_notice") }}
+{{ with $notice }}
+  {{ $processed := replace . "{year}" now.Year }}
+  {{ $processed | markdownify }}
+{{ end }}

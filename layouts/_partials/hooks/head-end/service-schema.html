@@ -1,0 +1,23 @@
+{{- with .Params.service -}}
+  {{- $service := dict
+    "@context" "https://schema.org"
+    "@type" "Service"
+    "name" .service_type
+    "serviceType" .service_type
+    "description" (partial "functions/get_summary" $)
+    "provider" (dict "@id" (printf "%s#organization" site.Home.Permalink) "@type" "Organization" "name" "Barbara Sharon Portuguese Tutoring")
+    "areaServed" (dict "@type" "Place" "name" .delivery)
+    "audience" (dict "@type" "Audience" "audienceType" .audience)
+  -}}
+  {{- if in .delivery "Online" -}}
+    {{- $service = merge $service (dict "offers" (slice
+      (dict "@type" "Offer" "name" "Online private Brazilian Portuguese lessons" "category" "Language lessons")
+      (dict "@type" "Offer" "name" "Online group Brazilian Portuguese classes" "category" "Language classes")
+    )) -}}
+  {{- else -}}
+    {{- $service = merge $service (dict "offers" (slice
+      (dict "@type" "Offer" "name" "In-person Brazilian Portuguese lessons" "category" "Language lessons")
+    )) -}}
+  {{- end -}}
+  <script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
+{{- end -}}

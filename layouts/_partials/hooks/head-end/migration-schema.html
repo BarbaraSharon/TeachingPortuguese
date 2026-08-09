@@ -1,0 +1,127 @@
+  {{- $schema := .Params.migration_schema | default dict -}}
+  {{- $page := $ -}}
+  {{- $siteURL := replaceRE "/$" "" (printf "%s" site.BaseURL) -}}
+  {{- $now := now.UTC -}}
+  {{- $published := $page.Date }}
+  {{- with $page.Params.date }}
+    {{- $parsed := time.AsTime . }}
+    {{- if not $parsed.IsZero }}{{- $published = $parsed }}{{- end }}
+  {{- end }}
+  {{- $modified := $page.Lastmod }}
+  {{- with $page.Params.lastmod }}
+    {{- $parsed := time.AsTime . }}
+    {{- if not $parsed.IsZero }}{{- $modified = $parsed }}{{- end }}
+  {{- end }}
+  {{- if $published.IsZero -}}
+    {{- if not $modified.IsZero -}}
+      {{- $published = $modified -}}
+    {{- else -}}
+      {{- $published = $now -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $modified.IsZero }}{{- $modified = $published -}}{{- end }}
+  {{- $graph := slice -}}
+  {{- $orgID := printf "%s#organization" $siteURL -}}
+  {{- $personID := printf "%s#person" $siteURL -}}
+  {{- $sameAs := slice -}}
+  {{- range site.Params.hugoblox.identity.social.links -}}
+    {{- if hasPrefix .url "http" -}}
+      {{- $sameAs = $sameAs | append .url -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $orgAddress := dict "@type" "PostalAddress" "addressLocality" "Gold Coast" "addressRegion" "QLD" "addressCountry" "AU" -}}
+  {{- $organization := dict
+    "@id" $orgID
+    "@type" (slice "Organization" "ProfessionalService" "EducationalOrganization")
+    "name" (site.Params.hugoblox.identity.organization | default "Barbara Sharon Portuguese Tutoring")
+    "url" $siteURL
+    "description" site.Params.hugoblox.identity.description
+    "email" site.Params.hugoblox.seo.ai.contact
+    "telephone" site.Params.hugoblox.seo.location.phone
+    "address" $orgAddress
+    "areaServed" (dict "@type" "Place" "name" "Gold Coast, Queensland, Australia")
+    "sameAs" $sameAs
+  -}}
+  {{- $person := dict
+    "@id" $personID
+    "@type" "Person"
+    "name" "Barbara Sharon"
+    "jobTitle" "Brazilian Portuguese Teacher"
+    "worksFor" (dict "@id" $orgID)
+    "knowsLanguage" (site.Params.hugoblox.identity.spoken_languages | default (slice "Portuguese" "English" "Italian" "Spanish" "French"))
+    "sameAs" $sameAs
+  -}}
+  {{/* Organization and Person identity are site-wide graph nodes. Page front matter
+       only controls page-specific Course, Article, and FAQ nodes below. */}}
+  {{- $graph = $graph | append $organization $person -}}
+
+  {{- if eq $schema.type "Course" -}}
+    {{- $course := dict
+      "@id" (printf "%s#course" $page.Permalink)
+      "@type" "Course"
+      "name" $schema.name
+      "description" $schema.description
+      "provider" (dict "@id" $orgID)
+      "author" (dict "@id" $personID)
+    -}}
+    {{- with $schema.audience -}}
+      {{- $course = merge $course (dict "audience" (dict "@type" "EducationalAudience" "description" .)) -}}
+    {{- end -}}
+    {{- with $schema.prerequisites -}}
+      {{- $course = merge $course (dict "coursePrerequisites" .) -}}
+    {{- end -}}
+    {{- with $schema.educational_credential -}}
+      {{- $course = merge $course (dict "educationalCredentialEarned" .) -}}
+    {{- end -}}
+    {{- with $schema.in_language -}}
+      {{- $course = merge $course (dict "inLanguage" .) -}}
+    {{- end -}}
+    {{- with $schema.category -}}
+      {{- $course = merge $course (dict "category" .) -}}
+    {{- end -}}
+    {{- $graph = $graph | append $course -}}
+  {{- else if eq $schema.type "Article" -}}
+    {{- $article := dict
+      "@id" (printf "%s#article" $page.Permalink)
+      "@type" "Article"
+      "headline" $schema.headline
+      "description" $schema.description
+      "datePublished" ($published.Format "2006-01-02T15:04:05Z07:00")
+      "dateModified" ($modified.Format "2006-01-02T15:04:05Z07:00")
+      "mainEntityOfPage" (dict "@id" $page.Permalink)
+      "author" (dict "@id" $personID)
+      "publisher" (dict "@id" $orgID)
+    -}}
+    {{- $graph = $graph | append $article -}}
+  {{- end -}}
+
+  {{- $faqItems := $schema.faq -}}
+  {{- if not $faqItems -}}
+    {{- range $section := $page.Params.sections -}}
+      {{- if eq $section.block "faq" -}}
+        {{- $faqItems = $section.content.items -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- with $faqItems -}}
+    {{- $questions := slice -}}
+    {{- range . -}}
+      {{- $questions = $questions | append (dict
+        "@type" "Question"
+        "name" .question
+        "acceptedAnswer" (dict "@type" "Answer" "text" .answer)
+      ) -}}
+    {{- end -}}
+    {{- $faq := dict
+      "@id" (printf "%s#faq" $page.Permalink)
+      "@type" "FAQPage"
+      "mainEntity" $questions
+    -}}
+    {{- $graph = $graph | append $faq -}}
+  {{- end -}}
+
+  {{- if gt (len $graph) 0 -}}
+    {{- $structuredData := dict "@context" "https://schema.org" "@graph" $graph -}}
+    <script type="application/ld+json">{{ $structuredData | jsonify | safeJS }}</script>
+  {{- end -}}

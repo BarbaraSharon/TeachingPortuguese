@@ -1,0 +1,56 @@
+- id: open_menu
+  translation: Abrir menu
+
+- id: close_menu
+  translation: Fechar menu
+
+- id: toggle_search
+  translation: Alternar pesquisa
+
+- id: footer
+  translation: Rodapé
+
+- id: theme_selector
+  translation: Preferências de exibição
+
+- id: languages
+  translation: Idiomas
+
+- id: block_contact_title
+  translation: Contato
+
+- id: block_contact_visit_title
+  translation: Visite-nos
+
+- id: block_contact_connect_title
+  translation: Entre em contato
+
+- id: block_contact_office_hours
+  translation: Horário de atendimento
+
+- id: block_contact_view_on_map
+  translation: Ver no mapa
+
+- id: block_contact_follow_me
+  translation: Encontre-me em
+
+- id: block_contact_prospective_title
+  translation: Futuros alunos
+
+- id: block_contact_form_title
+  translation: Envie uma mensagem
+
+- id: block_contact_form_name
+  translation: Nome
+
+- id: block_contact_form_email
+  translation: E-mail
+
+- id: block_contact_form_subject
+  translation: Assunto
+
+- id: block_contact_form_message
+  translation: Mensagem
+
+- id: block_contact_form_submit
+  translation: Enviar mensagem

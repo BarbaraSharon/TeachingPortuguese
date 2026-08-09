@@ -1,0 +1,10 @@
+{{- $src := .Get "src" -}}
+{{- if hasPrefix $src "pages/" -}}
+  {{- $src = printf "/media/%s" $src -}}
+{{- end -}}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+  <img src="{{ $src }}"{{ with .Get "alt" }} alt="{{ . }}"{{ end }}{{ with .Get "loading" }} loading="{{ . }}"{{ end }}>
+  {{- with .Get "caption" }}
+    <figcaption>{{ . | markdownify }}</figcaption>
+  {{- end }}
+</figure>

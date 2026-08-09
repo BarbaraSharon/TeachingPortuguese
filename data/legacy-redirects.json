@@ -1,0 +1,843 @@
+{
+  "sourceCommit": "e9e299c227f057babaac4a3c33fea457cd63efe9",
+  "expectedSourceUrlCount": 209,
+  "generatedAt": "2026-08-01",
+  "redirects": [
+    {
+      "from": "/about-learning-portuguese/",
+      "to": "/en/about-learning-portuguese/"
+    },
+    {
+      "from": "/angliport/",
+      "to": "/en/angliport/"
+    },
+    {
+      "from": "/brazilian-vs-european-portuguese/",
+      "to": "/en/brazilian-vs-european-portuguese/"
+    },
+    {
+      "from": "/contact-portuguese-teacher/",
+      "to": "/en/contact-portuguese-teacher/"
+    },
+    {
+      "from": "/faq-learning-portuguese/",
+      "to": "/en/faq-learning-portuguese/"
+    },
+    {
+      "from": "/howto-learn-portuguese/",
+      "to": "/en/howto-learn-portuguese/"
+    },
+    {
+      "from": "/learning-portuguese-with-barbara-sharon/",
+      "to": "/en/learning-portuguese-with-barbara-sharon/"
+    },
+    {
+      "from": "/portuguese-beginner-phrases/",
+      "to": "/en/portuguese-beginner-phrases/"
+    },
+    {
+      "from": "/portuguese-for-business/",
+      "to": "/en/portuguese-for-business/"
+    },
+    {
+      "from": "/portuguese-for-english-speakers/",
+      "to": "/en/portuguese-for-english-speakers/"
+    },
+    {
+      "from": "/portuguese-for-lisbon-travel/",
+      "to": "/en/portuguese-for-lisbon-travel/"
+    },
+    {
+      "from": "/portuguese-for-travel/",
+      "to": "/en/portuguese-for-travel/"
+    },
+    {
+      "from": "/portuguese-speaking-club/",
+      "to": "/en/portuguese-speaking-club/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/",
+      "to": "/en/portuguese-teaching-locations/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/abbotsford/",
+      "to": "/en/portuguese-teaching-locations/abbotsford/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/abu-dhabi/",
+      "to": "/en/portuguese-teaching-locations/abu-dhabi/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/adelaide/",
+      "to": "/en/portuguese-teaching-locations/adelaide/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/advancetown/",
+      "to": "/en/portuguese-teaching-locations/advancetown/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/alberton/",
+      "to": "/en/portuguese-teaching-locations/alberton/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/amsterdam/",
+      "to": "/en/portuguese-teaching-locations/amsterdam/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/arundel/",
+      "to": "/en/portuguese-teaching-locations/arundel/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/ashmore/",
+      "to": "/en/portuguese-teaching-locations/ashmore/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/atlanta/",
+      "to": "/en/portuguese-teaching-locations/atlanta/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/auckland/",
+      "to": "/en/portuguese-teaching-locations/auckland/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/augsburg/",
+      "to": "/en/portuguese-teaching-locations/augsburg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/austin/",
+      "to": "/en/portuguese-teaching-locations/austin/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/austinville/",
+      "to": "/en/portuguese-teaching-locations/austinville/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bangalore/",
+      "to": "/en/portuguese-teaching-locations/bangalore/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/barcelona/",
+      "to": "/en/portuguese-teaching-locations/barcelona/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/basel/",
+      "to": "/en/portuguese-teaching-locations/basel/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/benowa/",
+      "to": "/en/portuguese-teaching-locations/benowa/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/berlin/",
+      "to": "/en/portuguese-teaching-locations/berlin/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/biggera-waters/",
+      "to": "/en/portuguese-teaching-locations/biggera-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bilinga/",
+      "to": "/en/portuguese-teaching-locations/bilinga/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/birmingham/",
+      "to": "/en/portuguese-teaching-locations/birmingham/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bologna/",
+      "to": "/en/portuguese-teaching-locations/bologna/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bonn/",
+      "to": "/en/portuguese-teaching-locations/bonn/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bonogin/",
+      "to": "/en/portuguese-teaching-locations/bonogin/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bordeaux/",
+      "to": "/en/portuguese-teaching-locations/bordeaux/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/boston/",
+      "to": "/en/portuguese-teaching-locations/boston/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bremen/",
+      "to": "/en/portuguese-teaching-locations/bremen/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/brisbane/",
+      "to": "/en/portuguese-teaching-locations/brisbane/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bristol/",
+      "to": "/en/portuguese-teaching-locations/bristol/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/broadbeach-waters/",
+      "to": "/en/portuguese-teaching-locations/broadbeach-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/broadbeach/",
+      "to": "/en/portuguese-teaching-locations/broadbeach/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/brussels/",
+      "to": "/en/portuguese-teaching-locations/brussels/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/bundall/",
+      "to": "/en/portuguese-teaching-locations/bundall/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/burleigh-heads/",
+      "to": "/en/portuguese-teaching-locations/burleigh-heads/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/burleigh-waters/",
+      "to": "/en/portuguese-teaching-locations/burleigh-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/burnaby/",
+      "to": "/en/portuguese-teaching-locations/burnaby/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/calgary/",
+      "to": "/en/portuguese-teaching-locations/calgary/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/canberra/",
+      "to": "/en/portuguese-teaching-locations/canberra/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/cape-town/",
+      "to": "/en/portuguese-teaching-locations/cape-town/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/carrara/",
+      "to": "/en/portuguese-teaching-locations/carrara/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/cedar-creek/",
+      "to": "/en/portuguese-teaching-locations/cedar-creek/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/charlottetown/",
+      "to": "/en/portuguese-teaching-locations/charlottetown/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/chicago/",
+      "to": "/en/portuguese-teaching-locations/chicago/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/chilliwack/",
+      "to": "/en/portuguese-teaching-locations/chilliwack/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/clagiraba/",
+      "to": "/en/portuguese-teaching-locations/clagiraba/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/clear-island-waters/",
+      "to": "/en/portuguese-teaching-locations/clear-island-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/cologne/",
+      "to": "/en/portuguese-teaching-locations/cologne/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/coolangatta/",
+      "to": "/en/portuguese-teaching-locations/coolangatta/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/coombabah/",
+      "to": "/en/portuguese-teaching-locations/coombabah/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/coomera-waters/",
+      "to": "/en/portuguese-teaching-locations/coomera-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/coomera/",
+      "to": "/en/portuguese-teaching-locations/coomera/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/copenhagen/",
+      "to": "/en/portuguese-teaching-locations/copenhagen/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/cork/",
+      "to": "/en/portuguese-teaching-locations/cork/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/currumbin-valley/",
+      "to": "/en/portuguese-teaching-locations/currumbin-valley/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/currumbin-waters/",
+      "to": "/en/portuguese-teaching-locations/currumbin-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/currumbin/",
+      "to": "/en/portuguese-teaching-locations/currumbin/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/denver/",
+      "to": "/en/portuguese-teaching-locations/denver/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/dresden/",
+      "to": "/en/portuguese-teaching-locations/dresden/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/dubai/",
+      "to": "/en/portuguese-teaching-locations/dubai/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/dublin/",
+      "to": "/en/portuguese-teaching-locations/dublin/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/duesseldorf/",
+      "to": "/en/portuguese-teaching-locations/duesseldorf/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/edinburgh/",
+      "to": "/en/portuguese-teaching-locations/edinburgh/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/edmonton/",
+      "to": "/en/portuguese-teaching-locations/edmonton/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/eindhoven/",
+      "to": "/en/portuguese-teaching-locations/eindhoven/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/elanora/",
+      "to": "/en/portuguese-teaching-locations/elanora/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/ernest/",
+      "to": "/en/portuguese-teaching-locations/ernest/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/florence/",
+      "to": "/en/portuguese-teaching-locations/florence/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/forest-hill/",
+      "to": "/en/portuguese-teaching-locations/forest-hill/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/foxwell/",
+      "to": "/en/portuguese-teaching-locations/foxwell/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/frankfurt-am-main/",
+      "to": "/en/portuguese-teaching-locations/frankfurt-am-main/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/fredericton/",
+      "to": "/en/portuguese-teaching-locations/fredericton/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/freiburg-im-breisgau/",
+      "to": "/en/portuguese-teaching-locations/freiburg-im-breisgau/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/gaven/",
+      "to": "/en/portuguese-teaching-locations/gaven/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/geneva/",
+      "to": "/en/portuguese-teaching-locations/geneva/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/gilston/",
+      "to": "/en/portuguese-teaching-locations/gilston/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/glasgow/",
+      "to": "/en/portuguese-teaching-locations/glasgow/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/gold-coast/",
+      "to": "/en/portuguese-teaching-locations/gold-coast/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/gothenburg/",
+      "to": "/en/portuguese-teaching-locations/gothenburg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/guanaba/",
+      "to": "/en/portuguese-teaching-locations/guanaba/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/halifax/",
+      "to": "/en/portuguese-teaching-locations/halifax/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/hamburg/",
+      "to": "/en/portuguese-teaching-locations/hamburg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/hamilton/",
+      "to": "/en/portuguese-teaching-locations/hamilton/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/hanover/",
+      "to": "/en/portuguese-teaching-locations/hanover/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/heidelberg/",
+      "to": "/en/portuguese-teaching-locations/heidelberg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/helensvale/",
+      "to": "/en/portuguese-teaching-locations/helensvale/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/highland-park/",
+      "to": "/en/portuguese-teaching-locations/highland-park/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/hollywell/",
+      "to": "/en/portuguese-teaching-locations/hollywell/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/hope-island/",
+      "to": "/en/portuguese-teaching-locations/hope-island/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/houston/",
+      "to": "/en/portuguese-teaching-locations/houston/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/ikaluit/",
+      "to": "/en/portuguese-teaching-locations/ikaluit/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/isle-of-capri/",
+      "to": "/en/portuguese-teaching-locations/isle-of-capri/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/jacobs-well/",
+      "to": "/en/portuguese-teaching-locations/jacobs-well/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/johannesburg/",
+      "to": "/en/portuguese-teaching-locations/johannesburg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/kamloops/",
+      "to": "/en/portuguese-teaching-locations/kamloops/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/karlsruhe/",
+      "to": "/en/portuguese-teaching-locations/karlsruhe/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/kelowna/",
+      "to": "/en/portuguese-teaching-locations/kelowna/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/kingscliff/",
+      "to": "/en/portuguese-teaching-locations/kingscliff/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/kingsholme/",
+      "to": "/en/portuguese-teaching-locations/kingsholme/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/kingston/",
+      "to": "/en/portuguese-teaching-locations/kingston/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/labrador/",
+      "to": "/en/portuguese-teaching-locations/labrador/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/lausanne/",
+      "to": "/en/portuguese-teaching-locations/lausanne/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/leeds/",
+      "to": "/en/portuguese-teaching-locations/leeds/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/leipzig/",
+      "to": "/en/portuguese-teaching-locations/leipzig/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/lisbon/",
+      "to": "/en/portuguese-teaching-locations/lisbon/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/london/",
+      "to": "/en/portuguese-teaching-locations/london/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/los-angeles/",
+      "to": "/en/portuguese-teaching-locations/los-angeles/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/lower-beechmont/",
+      "to": "/en/portuguese-teaching-locations/lower-beechmont/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/lyon/",
+      "to": "/en/portuguese-teaching-locations/lyon/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/madrid/",
+      "to": "/en/portuguese-teaching-locations/madrid/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/malaga/",
+      "to": "/en/portuguese-teaching-locations/malaga/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/manchester/",
+      "to": "/en/portuguese-teaching-locations/manchester/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/mannheim/",
+      "to": "/en/portuguese-teaching-locations/mannheim/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/maudsland/",
+      "to": "/en/portuguese-teaching-locations/maudsland/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/melbourne/",
+      "to": "/en/portuguese-teaching-locations/melbourne/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/mermaid-beach/",
+      "to": "/en/portuguese-teaching-locations/mermaid-beach/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/mermaid-waters/",
+      "to": "/en/portuguese-teaching-locations/mermaid-waters/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/merrimac/",
+      "to": "/en/portuguese-teaching-locations/merrimac/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/miami/",
+      "to": "/en/portuguese-teaching-locations/miami/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/milan/",
+      "to": "/en/portuguese-teaching-locations/milan/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/moncton/",
+      "to": "/en/portuguese-teaching-locations/moncton/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/montreal/",
+      "to": "/en/portuguese-teaching-locations/montreal/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/mudgeeraba/",
+      "to": "/en/portuguese-teaching-locations/mudgeeraba/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/muenster/",
+      "to": "/en/portuguese-teaching-locations/muenster/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/mumbai/",
+      "to": "/en/portuguese-teaching-locations/mumbai/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/munich/",
+      "to": "/en/portuguese-teaching-locations/munich/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/nanaimo/",
+      "to": "/en/portuguese-teaching-locations/nanaimo/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/naples/",
+      "to": "/en/portuguese-teaching-locations/naples/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/nerang/",
+      "to": "/en/portuguese-teaching-locations/nerang/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/new-york/",
+      "to": "/en/portuguese-teaching-locations/new-york/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/niagara-falls/",
+      "to": "/en/portuguese-teaching-locations/niagara-falls/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/nice/",
+      "to": "/en/portuguese-teaching-locations/nice/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/nuremberg/",
+      "to": "/en/portuguese-teaching-locations/nuremberg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/orlando/",
+      "to": "/en/portuguese-teaching-locations/orlando/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/ormeau/",
+      "to": "/en/portuguese-teaching-locations/ormeau/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/osaka/",
+      "to": "/en/portuguese-teaching-locations/osaka/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/oslo/",
+      "to": "/en/portuguese-teaching-locations/oslo/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/ottawa/",
+      "to": "/en/portuguese-teaching-locations/ottawa/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/oxenford/",
+      "to": "/en/portuguese-teaching-locations/oxenford/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/palm-beach/",
+      "to": "/en/portuguese-teaching-locations/palm-beach/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/paris/",
+      "to": "/en/portuguese-teaching-locations/paris/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/parkside/",
+      "to": "/en/portuguese-teaching-locations/parkside/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/perth/",
+      "to": "/en/portuguese-teaching-locations/perth/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/philadelphia/",
+      "to": "/en/portuguese-teaching-locations/philadelphia/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/pimpama/",
+      "to": "/en/portuguese-teaching-locations/pimpama/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/porto/",
+      "to": "/en/portuguese-teaching-locations/porto/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/prince-george/",
+      "to": "/en/portuguese-teaching-locations/prince-george/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/quebec-city/",
+      "to": "/en/portuguese-teaching-locations/quebec-city/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/reedy-creek/",
+      "to": "/en/portuguese-teaching-locations/reedy-creek/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/regina/",
+      "to": "/en/portuguese-teaching-locations/regina/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/richmond/",
+      "to": "/en/portuguese-teaching-locations/richmond/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/rio-de-janeiro/",
+      "to": "/en/portuguese-teaching-locations/rio-de-janeiro/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/robina/",
+      "to": "/en/portuguese-teaching-locations/robina/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/rome/",
+      "to": "/en/portuguese-teaching-locations/rome/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/rotterdam/",
+      "to": "/en/portuguese-teaching-locations/rotterdam/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/saint-john/",
+      "to": "/en/portuguese-teaching-locations/saint-john/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/salzburg/",
+      "to": "/en/portuguese-teaching-locations/salzburg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/san-diego/",
+      "to": "/en/portuguese-teaching-locations/san-diego/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/san-francisco/",
+      "to": "/en/portuguese-teaching-locations/san-francisco/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/san-jose/",
+      "to": "/en/portuguese-teaching-locations/san-jose/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/saskatoon/",
+      "to": "/en/portuguese-teaching-locations/saskatoon/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/seattle/",
+      "to": "/en/portuguese-teaching-locations/seattle/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/seoul/",
+      "to": "/en/portuguese-teaching-locations/seoul/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/seville/",
+      "to": "/en/portuguese-teaching-locations/seville/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/singapore/",
+      "to": "/en/portuguese-teaching-locations/singapore/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/southport/",
+      "to": "/en/portuguese-teaching-locations/southport/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/stockholm/",
+      "to": "/en/portuguese-teaching-locations/stockholm/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/stuttgart/",
+      "to": "/en/portuguese-teaching-locations/stuttgart/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/surfers-paradise/",
+      "to": "/en/portuguese-teaching-locations/surfers-paradise/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/surrey/",
+      "to": "/en/portuguese-teaching-locations/surrey/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/sydney/",
+      "to": "/en/portuguese-teaching-locations/sydney/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/tel-aviv/",
+      "to": "/en/portuguese-teaching-locations/tel-aviv/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/the-hague/",
+      "to": "/en/portuguese-teaching-locations/the-hague/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/tokyo/",
+      "to": "/en/portuguese-teaching-locations/tokyo/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/toronto/",
+      "to": "/en/portuguese-teaching-locations/toronto/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/toulouse/",
+      "to": "/en/portuguese-teaching-locations/toulouse/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/turin/",
+      "to": "/en/portuguese-teaching-locations/turin/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/tweed-heads/",
+      "to": "/en/portuguese-teaching-locations/tweed-heads/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/upper-coomera/",
+      "to": "/en/portuguese-teaching-locations/upper-coomera/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/utrecht/",
+      "to": "/en/portuguese-teaching-locations/utrecht/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/valencia/",
+      "to": "/en/portuguese-teaching-locations/valencia/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/vancouver/",
+      "to": "/en/portuguese-teaching-locations/vancouver/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/varsity-lakes/",
+      "to": "/en/portuguese-teaching-locations/varsity-lakes/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/vernon/",
+      "to": "/en/portuguese-teaching-locations/vernon/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/victoria/",
+      "to": "/en/portuguese-teaching-locations/victoria/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/vienna/",
+      "to": "/en/portuguese-teaching-locations/vienna/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/washington-dc/",
+      "to": "/en/portuguese-teaching-locations/washington-dc/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/whitehorse/",
+      "to": "/en/portuguese-teaching-locations/whitehorse/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/wiesbaden/",
+      "to": "/en/portuguese-teaching-locations/wiesbaden/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/winnipeg/",
+      "to": "/en/portuguese-teaching-locations/winnipeg/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/yellowknife/",
+      "to": "/en/portuguese-teaching-locations/yellowknife/"
+    },
+    {
+      "from": "/portuguese-teaching-locations/zurich/",
+      "to": "/en/portuguese-teaching-locations/zurich/"
+    },
+    {
+      "from": "/portuguese-teaching-services/",
+      "to": "/en/portuguese-teaching-services/"
+    },
+    {
+      "from": "/portuguese-teaching-services/portuguese-school-gold-coast/",
+      "to": "/en/portuguese-teaching-services/portuguese-school-gold-coast/"
+    },
+    {
+      "from": "/portuguese-teaching-services/portuguese-tutoring-gold-coast/",
+      "to": "/en/portuguese-teaching-services/portuguese-tutoring-gold-coast/"
+    },
+    {
+      "from": "/portuguese-teaching-services/teaching-portuguese-gold-coast/",
+      "to": "/en/portuguese-teaching-services/teaching-portuguese-gold-coast/"
+    }
+  ]
+}

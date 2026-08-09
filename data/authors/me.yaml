@@ -1,0 +1,38 @@
+schema: hugoblox/author/v1
+slug: barbara-sharon
+is_owner: true
+name:
+  display: Barbara Sharon
+  given: Barbara
+  family: Sharon
+role: Brazilian Portuguese Teacher
+bio: Qualified Brazilian Portuguese teacher offering private and group lessons online
+  worldwide and in-person on the Gold Coast.
+links:
+- icon: at-symbol
+  url: mailto:info@barbarasharon.com.au
+  label: Email Barbara
+- icon: brands/whatsapp
+  url: https://wa.me/61493837828?text=Hi%20Barbara,%0D%0AI'm%20interested%20in%20learning%20Portuguese.%0D%0A
+  label: Chat with Barbara on WhatsApp
+- icon: brands/youtube
+  url: https://www.youtube.com/@PortugueseWithBarbaraSharon
+- icon: brands/instagram
+  url: https://www.instagram.com/portuguesewithbarbarasharon?igsh=MXVsaWJvOGdiZngxZw%3D%3D&utm_source=website
+- icon: brands/tiktok
+  url: https://www.tiktok.com/@bahteachmeportuguese
+- icon: brands/facebook
+  url: https://www.facebook.com/barbara.sharon1
+languages:
+- name: Portuguese
+  level: 5
+  label: Native
+- name: English
+  level: 5
+  label: Fluent
+- name: Italian
+  level: 4
+  label: Fluent
+- name: Spanish
+  level: 4
+  label: Fluent

@@ -1,0 +1,31 @@
+{{ define "main" }}
+<main class="newsletter-archive" id="main-content">
+  <div class="newsletter-archive__inner">
+    {{ .Content }}
+
+    {{ $issues := .RegularPages.ByDate.Reverse }}
+    {{ if gt (len $issues) 0 }}
+      <ol class="newsletter-archive__list" aria-label="{{ i18n "newsletter_issues" }}">
+        {{ range $index, $issue := $issues }}
+          <li class="newsletter-archive-card{{ if eq $index 0 }} newsletter-archive-card--latest{{ end }}">
+            <a class="newsletter-archive-card__link" href="{{ .RelPermalink }}">
+              {{ with .Params.featured_image }}
+                <img class="newsletter-archive-card__image" src="{{ . | relURL }}" alt="{{ $issue.Params.card_title | default $issue.Title }}" loading="lazy">
+              {{ end }}
+              <div class="newsletter-archive-card__body">
+                {{ if eq $index 0 }}<p class="newsletter-archive-card__label">{{ i18n "newsletter_latest_issue" }}</p>{{ end }}
+                <p class="newsletter-archive-card__date">{{ .Date | time.Format ":date_long" }}</p>
+                <h2>{{ .Params.card_title | default .Title }}</h2>
+                {{ with .Params.summary }}<p>{{ . }}</p>{{ else }}<p>{{ .Summary | plainify | truncate 180 }}</p>{{ end }}
+                <span class="newsletter-archive-card__cta">{{ i18n "newsletter_read_issue" }} <span aria-hidden="true">→</span></span>
+              </div>
+            </a>
+          </li>
+        {{ end }}
+      </ol>
+    {{ else }}
+      <p class="newsletter-archive__empty">The first issue is on its way.</p>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

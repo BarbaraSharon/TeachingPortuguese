@@ -1,0 +1,27 @@
+{{ $item := .item }}
+{{ $resource := partial "functions/get_featured_image.html" $item }}
+{{ $name := $item.File.ContentBaseName | humanize | title }}
+
+<article class="group relative overflow-hidden rounded-xl bg-slate-900 shadow-sm ring-1 ring-slate-900/10 transition duration-300 hover:-translate-y-1 hover:shadow-xl focus-within:ring-2 focus-within:ring-primary-500 dark:ring-white/10">
+  <a href="{{ $item.RelPermalink }}" class="absolute inset-0 z-10" aria-label="{{ $name }}"></a>
+  <div class="aspect-[4/3] overflow-hidden bg-slate-200 dark:bg-slate-800">
+    {{ with $resource }}
+      {{ $canProcess := and (reflect.IsImageResourceProcessable .) (ne .MediaType.SubType "gif") }}
+      {{ if $canProcess }}
+        {{ $image := .Fill "640x480 Center" }}
+        <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" loading="lazy" decoding="async" alt="{{ $item.Params.image.alt_text | default $name }}">
+      {{ else }}
+        <img class="h-full w-full object-cover transition duration-500 group-hover:scale-105" src="{{ .RelPermalink }}" loading="lazy" decoding="async" alt="{{ $item.Params.image.alt_text | default $name }}">
+      {{ end }}
+    {{ else }}
+      <div class="h-full w-full bg-gradient-to-br from-primary-500 to-slate-800"></div>
+    {{ end }}
+  </div>
+  <div class="absolute inset-x-0 bottom-0 bg-gradient-to-t from-slate-950 via-slate-950/70 to-transparent px-4 pb-4 pt-12 sm:px-5 sm:pb-5">
+    <h3 class="text-base font-semibold leading-tight text-white sm:text-lg">{{ $name }}</h3>
+    <span class="mt-2 inline-flex items-center gap-1 text-xs font-medium text-white/85 opacity-0 transition group-hover:opacity-100 group-focus-within:opacity-100">
+      {{ if eq $item.Lang "pt-br" }}Ver aulas{{ else }}View lessons{{ end }}
+      <span aria-hidden="true">→</span>
+    </span>
+  </div>
+</article>

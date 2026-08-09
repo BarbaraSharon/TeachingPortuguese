@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{{ site.Language.Locale | default site.Language.Lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex, follow">
+    <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+    <title>Redirecting to Barbara Sharon</title>
+  </head>
+  <body>
+    <h1>Redirecting to Barbara Sharon</h1>
+    <p><a href="{{ .Permalink }}">Continue to the current page.</a></p>
+    <script>window.location.replace({{ .Permalink | jsonify | safeJS }});</script>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+{{/* Site-level featured YouTube lesson block. All visible copy comes from localized page content. */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $content := $block.content | default dict }}
+{{ $title := $content.title | default "" }}
+{{ $text := $content.text | default "" }}
+{{ $video_id := $content.video_id | default "" }}
+{{ $playlist_id := $content.playlist_id | default "" }}
+{{ $player_title := $content.player_title | default $title }}
+{{ $autoplay := $content.autoplay | default false }}
+
+{{ if $video_id }}
+  {{ $embed_url := printf "https://www.youtube-nocookie.com/embed/%s" $video_id }}
+  {{ $embed_params := slice }}
+  {{ with $playlist_id }}
+    {{ $embed_params = $embed_params | append (printf "list=%s" .) }}
+  {{ end }}
+  {{ if $autoplay }}
+    {{ $embed_params = $embed_params | append "autoplay=1" "mute=1" "playsinline=1" }}
+  {{ end }}
+  {{ if $embed_params }}
+    {{ $embed_url = printf "%s?%s" $embed_url (delimit $embed_params "&") }}
+  {{ end }}
+
+  <div class="mx-auto w-full max-w-5xl px-6">
+    <header class="mx-auto mb-8 max-w-3xl text-center">
+      {{ with $title }}
+        <h2 class="text-3xl font-bold text-gray-900 dark:text-white sm:text-4xl">{{ . | markdownify }}</h2>
+      {{ end }}
+      {{ with $text }}
+        <p class="mt-4 text-lg text-gray-600 dark:text-gray-300">{{ . | markdownify }}</p>
+      {{ end }}
+    </header>
+
+    <div class="aspect-video w-full overflow-hidden rounded-lg bg-black shadow-lg">
+      <iframe
+        class="h-full w-full"
+        src="{{ $embed_url | safeURL }}"
+        title="{{ $player_title }}"
+        loading="lazy"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+
+  {{ with $content.schema }}
+    {{ $video_url := printf "https://www.youtube.com/watch?v=%s" $video_id }}
+    {{ $schema := dict
+      "@context" "https://schema.org"
+      "@type" "VideoObject"
+      "@id" (printf "%s#video-beginner-1" $page.Permalink)
+      "name" (.name | default $player_title)
+      "description" (.description | default $text)
+      "uploadDate" .upload_date
+      "duration" .duration
+      "thumbnailUrl" (printf "https://img.youtube.com/vi/%s/maxresdefault.jpg" $video_id)
+      "contentUrl" $video_url
+      "url" $video_url
+      "embedUrl" (printf "https://www.youtube-nocookie.com/embed/%s" $video_id)
+    }}
+    <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,67 @@
+[build]
+  command = """
+    set -e
+    echo "=== Starting Blog build process ==="
+    echo "Node version: $(node --version)"
+    echo "npm version: $(npm --version)"
+    echo "Hugo version: $(hugo version)"
+    echo "Go version: $(go version || echo 'Go not available')"
+    
+    echo "=== Installing dependencies ==="
+    npm ci
+    
+    echo "=== Running Hugo build ==="
+    hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
+
+    echo "=== Generating language-selection root ==="
+    node scripts/generate-legacy-redirects.mjs
+    node scripts/generate-legacy-redirects.mjs --check
+
+    echo "=== Running Pagefind indexing ==="
+    npm run pagefind
+    
+    echo "=== Build completed successfully ==="
+  """
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.164.0"
+  GO_VERSION = "1.21.5"
+  NODE_VERSION = "22"
+  HUGO_ENABLEGITINFO = "true"
+  HUGO_LOG_I18N_WARNINGS = "true"
+  HUGO_LOG_WARNINGS = "true"
+  FORCE_COLOR = "1"
+  PNPM_LOG_LEVEL = "debug"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview]
+  command = """
+    set -e
+    echo "=== Deploy Preview Build ==="
+    echo "Deploy URL: $DEPLOY_PRIME_URL"
+    npm ci
+    hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
+    node scripts/generate-legacy-redirects.mjs
+    node scripts/generate-legacy-redirects.mjs --check
+    npm run pagefind
+  """
+
+[context.branch-deploy]
+  command = """
+    set -e
+    echo "=== Branch Deploy Build ==="
+    echo "Deploy URL: $DEPLOY_PRIME_URL"
+    npm ci
+    hugo --gc --minify -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
+    node scripts/generate-legacy-redirects.mjs
+    node scripts/generate-legacy-redirects.mjs --check
+    npm run pagefind
+  """
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"
+  [plugins.inputs]
+    debug = true

@@ -1,0 +1,32 @@
+<script>
+  // Pagefind loads asynchronously. Queue searches until the modal has finished
+  // importing and initializing the generated index.
+  (() => {
+    const originalSearchModal = window.searchModal;
+    if (typeof originalSearchModal !== "function") return;
+
+    window.searchModal = function () {
+      const state = originalSearchModal();
+      const originalInit = state.init;
+      const originalSearch = state.search;
+
+      state.pagefindReady = null;
+      state.init = async function () {
+        this.pagefindReady = originalInit.call(this);
+        await this.pagefindReady;
+      };
+      state.search = async function () {
+        if (this.pagefindReady) await this.pagefindReady;
+        if (!this.pagefind) {
+          this.loading = false;
+          this.hasSearched = true;
+          console.error("Search is unavailable because the Pagefind index could not be loaded.");
+          return;
+        }
+        return originalSearch.call(this);
+      };
+
+      return state;
+    };
+  })();
+</script>

@@ -1,0 +1,87 @@
+{{ $branding := partialCached "functions/get_branding" . site.Language.Lang }}
+{{ $logo := resources.Get "media/logo.svg" }}
+{{ $localized_site_title := i18n "site_title" | default $branding.site_title }}
+{{ $brand_title := i18n "brand_title" | default $branding.name }}
+{{ $brand_subtitle := i18n "brand_subtitle" | default "" }}
+{{ $site_tagline := i18n "site_tagline" | default site.Params.hugoblox.identity.tagline }}
+{{- $show_logo := site.Params.hugoblox.footer.show_logo | default true -}}
+{{- $show_tagline := site.Params.hugoblox.footer.show_tagline | default true -}}
+{{- $page := . -}}
+<footer aria-labelledby="footer-heading">
+  <span id="footer-heading" class="sr-only">{{ i18n "footer" }}</span>
+
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12 lg:px-16">
+    <div class="xl:grid xl:grid-cols-3 xl:gap-8 xl:items-start">
+      <div class="xl:col-span-1">
+        <a class="footer-brand inline-flex items-center gap-3" href="{{ site.Home.RelPermalink }}" title="{{ $localized_site_title }}">
+          {{ if and $show_logo $logo }}
+            <span class="footer-brand-mark h-10 w-10 shrink-0 text-primary-600 dark:text-primary-200" aria-hidden="true">
+              {{ $logo.Content | safeHTML }}
+            </span>
+          {{ end }}
+          <span class="leading-tight">
+            <span class="block text-base font-semibold text-primary-600 dark:text-primary-200">{{ $brand_title }}</span>
+            {{ with $brand_subtitle }}
+            <span class="block text-xs font-medium text-gray-500 dark:text-gray-300">{{ . }}</span>
+            {{ end }}
+          </span>
+        </a>
+        {{ if $show_tagline }}
+        <p class="mt-3 max-w-xs text-sm text-gray-500 dark:text-gray-300">{{ $site_tagline }}</p>
+        {{ end }}
+        {{- $show_social := site.Params.hugoblox.footer.show_social | default true -}}
+        {{ if $show_social }}
+        {{- $footer_links := site.Params.hugoblox.identity.social.links | default slice -}}
+        {{- with hugo.Data.authors.me.links -}}
+          {{- $footer_links = . -}}
+        {{- end -}}
+        {{ with $footer_links }}
+        <div class="mt-4 text-xl">
+          {{ partial "social_links" (dict "Params" (dict "profiles" .) "page" $page) }}
+        </div>
+        {{ end }}
+        {{ end }}
+      </div>
+      <div class="mt-12 grid grid-cols-1 gap-8 xl:col-span-2 xl:mt-0 md:grid-cols-{{ len .Site.Menus.footer }}">
+
+          {{ $menu := .Site.Menus.footer }}
+          {{ range $index, $menuItem := $menu }}
+          <div>
+            <h3 class="text-sm font-bold tracking-wider text-primary-500 uppercase dark:text-primary-300">{{ $menuItem.Name }}</h3>
+            <ul role="list" class="mt-4 space-y-2">
+              {{ range $childIndex, $childMenuItem := $menuItem.Children }}
+              {{ $url := .URL | relLangURL }}
+              <li>
+                <a href="{{ $url }}"
+                class="text-base font-normal text-gray-500 hover:text-primary-600 dark:text-gray-300 dark:hover:text-primary-300"
+                   {{ if findRE `^http` .URL }}
+                   target="_blank" rel="noopener"
+                   {{ end }}
+                   >
+                  {{ $childMenuItem.Name }}
+                </a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+  <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12 lg:px-16">
+    <div class="flex flex-wrap items-baseline">
+      <span class="mt-2 text-sm font-light text-gray-500 dark:text-gray-300">
+        {{ partial "site_footer_license" . }}
+      </span>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .footer-brand-mark svg {
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    color: currentColor;
+  }
+</style>
