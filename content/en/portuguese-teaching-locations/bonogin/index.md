@@ -1,6 +1,6 @@
 ---
 translationKey: location-bonogin
-title: Learn Brazilian Portuguese in Bonogin | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Bonogin"
 description: Learn Brazilian Portuguese in Bonogin with private and online lessons. Book a free trial lesson with Barbara
   Sharon, a certified Brazilian Portuguese tutor
 date: '2026-08-05'

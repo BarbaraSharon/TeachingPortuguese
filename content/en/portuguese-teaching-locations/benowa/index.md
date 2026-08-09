@@ -1,6 +1,6 @@
 ---
 translationKey: location-benowa
-title: Learn Brazilian Portuguese in Benowa | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Benowa"
 description: Book Portuguese lessons in Benowa with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

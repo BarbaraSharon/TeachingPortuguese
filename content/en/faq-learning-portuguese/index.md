@@ -1,6 +1,6 @@
 ---
 translationKey: faq-aprendizagem-portuguesa
-title: Portuguese FAQ | Portuguese Tutoring & Language Courses
+title: "Brazilian Portuguese Lessons: FAQs Answered"
 description: Find answers to common questions about learning Portuguese with Barbara Sharon, a qualified teacher on the Gold
   Coast.
 date: '2026-08-05'

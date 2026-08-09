@@ -1,6 +1,6 @@
 ---
 translationKey: location-muenster
-title: Aprenda português brasileiro em Münster | Aulas online
+title: "Aulas online de português brasileiro em Münster"
 description: Descubra as melhores aulas de português brasileiro em Münster. Aulas particulares e em grupo para todos os níveis, com foco no português brasileiro.
 date: '2026-08-05'
 lastmod: '2026-08-05'

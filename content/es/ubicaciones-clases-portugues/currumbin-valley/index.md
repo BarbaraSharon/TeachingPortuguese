@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin-valley
-title: Aprende portugués en Currumbin Valley | Clases en línea y presenciales
+title: "Clases online de portugués brasileño en Currumbin Valley"
 description: Aprende portugués brasileño en Currumbin Valley con Barbara Sharon. Clases particulares y en línea para principiantes y avanzados. Reserva hoy una prueba.
 date: '2026-08-05'
 lastmod: '2026-08-05'

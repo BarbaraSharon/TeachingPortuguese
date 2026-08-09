@@ -1,6 +1,6 @@
 ---
 translationKey: location-orlando
-title: Aprenda português brasileiro em Orlando | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Orlando"
 description: Descubra as melhores aulas de português brasileiro em Orlando.
 date: '2026-08-05'
 lastmod: '2026-08-05'

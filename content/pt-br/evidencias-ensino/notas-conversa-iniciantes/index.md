@@ -1,5 +1,5 @@
 ---
-title: Notas de conversa para iniciantes
+title: "Notas da conversação para iniciantes"
 url: /pt-br/evidencias-ensino/notas-conversa-iniciantes/
 date: '2026-08-09'
 lastmod: '2026-08-09'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-kamloops
-title: Aprende portugués brasileño en Kamloops | Clases en línea
+title: "Clases online de portugués brasileño en Kamloops"
 description: Descubre a la mejor profesora de portugués en Kamloops.
 date: '2026-08-05'
 lastmod: '2026-08-05'

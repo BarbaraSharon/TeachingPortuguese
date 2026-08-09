@@ -1,6 +1,6 @@
 ---
 translationKey: angliport
-title: Aprenda português com Barbara Sharon - Aulas particulares e em grupo
+title: "AngliPort agora é Aprenda português com Barbara"
 description: Saiba por que a AngliPort agora se chama Aprenda português com Barbara Sharon e conheça os serviços atualizados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

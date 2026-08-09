@@ -1,7 +1,6 @@
 ---
 translationKey: location-richmond
-title: Learn Brazilian Portuguese in Richmond | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Richmond"
 description: "Discover the best Portuguese tutor in Richmond."
 date: '2026-08-05'
 lastmod: '2026-08-05'

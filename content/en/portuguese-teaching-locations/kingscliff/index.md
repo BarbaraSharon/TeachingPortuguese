@@ -1,6 +1,6 @@
 ---
 translationKey: location-kingscliff
-title: Learn Brazilian Portuguese in Kingscliff with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Kingscliff"
 description: Learn Brazilian Portuguese in Kingscliff with Barbara Sharon. Online & in-person lessons for all levels. Start
   your journey to fluency today!
 date: '2026-08-05'

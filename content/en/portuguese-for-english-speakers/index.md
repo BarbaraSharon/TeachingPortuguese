@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-falantes-de-ingles
-title: Portuguese for English Speakers - Learn Brazilian Portuguese Easily
+title: "Brazilian Portuguese for English Speakers"
 description: Learn Brazilian Portuguese from an English-speaking teacher. Lessons designed for English speakers covering pronunciation,
   grammar, and cultural nuances.
 date: '2026-08-05'

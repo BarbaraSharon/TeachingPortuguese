@@ -1,6 +1,6 @@
 ---
 translationKey: location-burleigh-waters
-title: Aprenda português em Burleigh Waters | Aulas particulares e online
+title: "Aulas online de português brasileiro em Burleigh Waters"
 description: Descubra aulas especializadas de português brasileiro em Burleigh Waters.
 date: '2026-08-05'
 lastmod: '2026-08-05'

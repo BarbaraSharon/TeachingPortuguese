@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Kingston | Aulas online
- aulas online particulares e em grupo. Aprenda português.
+title: "Aulas online de português brasileiro em Kingston"
 description: "Encontre a melhor professora de português em Kingston."
 date: '2026-08-05'
 lastmod: '2026-08-05'

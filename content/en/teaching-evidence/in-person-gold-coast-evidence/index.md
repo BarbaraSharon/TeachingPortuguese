@@ -1,5 +1,5 @@
 ---
-title: In-Person Gold Coast Evidence
+title: "In-Person Portuguese Lessons on Gold Coast"
 url: /en/teaching-evidence/in-person-gold-coast-evidence/
 date: '2026-08-09'
 lastmod: '2026-08-09'

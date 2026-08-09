@@ -1,6 +1,6 @@
 ---
 translationKey: location-philadelphia
-title: Aprenda português brasileiro em Philadelphia | Barbara Sharon
+title: "Aulas online de português brasileiro em Philadelphia"
 description: Aprenda português brasileiro em Philadelphia com a professora especializada Barbara Sharon. Aulas online particulares e em grupo para todos os níveis.
 date: '2026-08-05'
 lastmod: '2026-08-05'

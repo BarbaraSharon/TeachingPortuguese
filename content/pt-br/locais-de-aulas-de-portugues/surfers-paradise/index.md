@@ -1,6 +1,6 @@
 ---
 translationKey: location-surfers-paradise
-title: Aulas de português em Surfers Paradise | Barbara Sharon
+title: "Aulas online de português brasileiro em Surfers Paradise"
 description: Agende aulas de português em Surfers Paradise com Barbara Sharon e obtenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-regina
-title: Aprenda português brasileiro em Regina | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Regina"
 description: Descubra a melhor professora particular de português em Regina.
 date: '2026-08-05'
 lastmod: '2026-08-05'

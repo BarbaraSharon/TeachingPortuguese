@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-iniciantes
-title: Aulas de Português para Iniciantes | Barbara Sharon
+title: "Aulas de português para quem inicia"
 description: Comece a aprender português brasileiro com conversação prática, pronúncia, vocabulário, gramática e orientação cultural em aulas particulares ou em grupo.
 date: '2026-08-05'
 lastmod: '2026-08-05'

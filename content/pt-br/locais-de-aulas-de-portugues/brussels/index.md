@@ -1,6 +1,6 @@
 ---
 translationKey: location-brussels
-title: Aprenda português em Bruxelas | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Bruxelas"
 description: Aprenda português brasileiro em Bruxelas com aulas online particulares e em grupo. Agende uma aula experimental gratuita com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

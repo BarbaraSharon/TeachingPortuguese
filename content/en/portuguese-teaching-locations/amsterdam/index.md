@@ -1,6 +1,6 @@
 ---
 translationKey: location-amsterdam
-title: Learn Portuguese in Amsterdam | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Amsterdam"
 description: Book Portuguese lessons in Amsterdam with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-dublin
-title: Learn Portuguese in Dublin | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Dublin"
 description: Book Portuguese lessons in Dublin with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

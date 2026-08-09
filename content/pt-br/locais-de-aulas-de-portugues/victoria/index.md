@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Victoria | Aulas online
+title: "Aulas online de português brasileiro em Victoria"
 description: Descubra a melhor tutora de português em Victoria.
 date: '2026-08-05'
 lastmod: '2026-08-05'

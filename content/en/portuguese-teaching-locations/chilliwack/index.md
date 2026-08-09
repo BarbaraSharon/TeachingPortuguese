@@ -1,7 +1,6 @@
 ---
 translationKey: location-chilliwack
-title: Learn Brazilian Portuguese in Chilliwack | Online Lessons
- private and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Chilliwack"
 description: "Discover the best Portuguese tutor in Chilliwack."
 date: '2026-08-05'
 lastmod: '2026-08-05'

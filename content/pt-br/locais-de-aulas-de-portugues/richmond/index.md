@@ -1,6 +1,6 @@
 ---
 translationKey: location-richmond
-title: Aprenda português brasileiro em Richmond | Aulas online
+title: "Aulas online de português brasileiro em Richmond"
 description: Descubra a melhor professora particular de português em Richmond.
 date: '2026-08-05'
 lastmod: '2026-08-05'

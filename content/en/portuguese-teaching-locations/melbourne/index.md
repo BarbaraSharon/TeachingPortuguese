@@ -1,6 +1,6 @@
 ---
 translationKey: location-melbourne
-title: Learn Brazilian Portuguese in Melbourne | Online Classes
+title: "Online Brazilian Portuguese Lessons in Melbourne"
 description: Book Portuguese lessons in Melbourne with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

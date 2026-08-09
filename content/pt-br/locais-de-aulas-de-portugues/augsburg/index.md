@@ -1,6 +1,6 @@
 ---
 translationKey: location-augsburg
-title: Aprenda português brasileiro em Augsburg | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Augsburg"
 description: Aprenda português brasileiro com aulas online particulares e em grupo. Agende uma aula experimental gratuita com Barbara Sharon, tutora brasileira nativa.
 date: '2026-08-05'
 lastmod: '2026-08-05'

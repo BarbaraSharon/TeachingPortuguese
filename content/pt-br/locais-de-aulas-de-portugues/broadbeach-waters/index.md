@@ -1,6 +1,6 @@
 ---
 translationKey: location-broadbeach-waters
-title: Aprenda português com Barbara Sharon | Aulas presenciais e online
+title: "Aulas online de português brasileiro em Broadbeach Waters"
 description: Agende aulas de português em Broadbeach Waters com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

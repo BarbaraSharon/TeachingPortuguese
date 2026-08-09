@@ -1,6 +1,6 @@
 ---
 translationKey: location-vienna
-title: Aprende portugués en Viena | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Viena"
 description: Domina el portugués brasileño en Viena con clases expertas de Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

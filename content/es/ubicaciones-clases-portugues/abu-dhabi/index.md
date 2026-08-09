@@ -1,6 +1,6 @@
 ---
 translationKey: location-abu-dhabi
-title: Aprende portugués brasileño en Abu Dabi | Clases en línea
+title: "Clases online de portugués brasileño en Abu Dabi"
 description: Reserva clases de portugués en Abu Dabi con Barbara Sharon y disfruta de una metodología orientada a mejorar rápidamente.
 date: '2026-08-05'
 lastmod: '2026-08-05'

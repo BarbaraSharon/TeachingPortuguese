@@ -1,6 +1,6 @@
 ---
 translationKey: location-turin
-title: Aprende portugués brasileño en Turin | Clases en línea
+title: "Clases online de portugués brasileño en Turin"
 description: 'Aprende portugués brasileño en Turin con clases expertas en línea.'
 date: '2026-08-05'
 lastmod: '2026-08-05'

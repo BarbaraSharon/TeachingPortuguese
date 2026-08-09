@@ -1,6 +1,6 @@
 ---
 translationKey: location-gold-coast
-title: Aprende portugués brasileño en Gold Coast | Clases en línea
+title: "Clases online de portugués brasileño en Gold Coast"
 description: Reserva clases de portugués brasileño en Gold Coast con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

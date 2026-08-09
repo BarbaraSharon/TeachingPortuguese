@@ -1,6 +1,6 @@
 ---
 translationKey: location-hamilton
-title: Aprende portugués brasileño en Hamilton | Clases en línea
+title: "Clases online de portugués brasileño en Hamilton"
 description: Descubre una excelente tutora de portugués en Hamilton.
 date: '2026-08-05'
 lastmod: '2026-08-05'

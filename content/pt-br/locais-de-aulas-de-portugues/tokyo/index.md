@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Tóquio | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Tóquio"
 description: Reserve aulas de português em Tóquio com Barbara Sharon e tenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

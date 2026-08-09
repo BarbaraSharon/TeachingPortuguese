@@ -1,6 +1,6 @@
 ---
 translationKey: location-zurich
-title: Aprende portugués brasileño en Zúrich | Clases en línea
+title: "Clases online de portugués brasileño en Zúrich"
 description: Reserva clases de portugués en Zúrich con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

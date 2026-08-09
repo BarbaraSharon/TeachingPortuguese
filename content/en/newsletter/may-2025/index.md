@@ -1,6 +1,6 @@
 ---
 translationKey: may-2025
-title: "Cheers to Portuguese: Newsletter de maio de 2025 | Barbara Sharon"
+title: "Cheers to Portuguese: May 2025 Newsletter"
 description: "Cheers to Portuguese é a newsletter de Barbara Sharon sobre encontros de conversação, português brasileiro e comunidade."
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,7 +1,6 @@
 ---
 translationKey: location-winnipeg
-title: Learn Brazilian Portuguese in Winnipeg | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Winnipeg"
 description: "Discover the best Portuguese tutor in Winnipeg."
 date: '2026-08-05'
 lastmod: '2026-08-05'

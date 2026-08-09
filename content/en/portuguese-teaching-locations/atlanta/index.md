@@ -1,6 +1,6 @@
 ---
 translationKey: location-atlanta
-title: Learn Portuguese in Atlanta | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Atlanta"
 description: Book Portuguese lessons in Atlanta with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-palm-beach
-title: Learn Brazilian Portuguese in Palm Beach | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Palm Beach"
 description: Book Portuguese lessons in Palm Beach with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

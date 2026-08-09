@@ -1,6 +1,6 @@
 ---
 translationKey: location-melbourne
-title: Aprende portugués brasileño en Melbourne | Clases en línea
+title: "Clases online de portugués brasileño en Melbourne"
 description: Reserva clases de portugués en Melbourne con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

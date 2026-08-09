@@ -1,6 +1,6 @@
 ---
 translationKey: location-nerang
-title: Learn Brazilian Portuguese in Nerang | Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in Nerang"
 description: Book Portuguese lessons in Nerang with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

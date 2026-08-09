@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Lyon | Barbara Sharon
+title: "Aulas online de português brasileiro em Lyon"
 description: Aprenda português brasileiro em Lyon com Barbara Sharon. Aulas online particulares e em grupo para todos os níveis.
   Conecte-se com a comunidade brasileira.
 date: '2026-08-05'

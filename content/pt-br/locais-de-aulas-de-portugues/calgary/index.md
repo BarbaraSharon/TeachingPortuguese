@@ -1,6 +1,6 @@
 ---
 translationKey: location-calgary
-title: Aprenda português brasileiro em Calgary | Aulas online
+title: "Aulas online de português brasileiro em Calgary"
 description: Descubra a melhor professora de português em Calgary.
 date: '2026-08-05'
 lastmod: '2026-08-05'

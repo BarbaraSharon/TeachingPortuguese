@@ -1,6 +1,6 @@
 ---
 translationKey: location-coomera
-title: Learn Portuguese in Coomera | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Coomera"
 description: Book Portuguese lessons in Coomera with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

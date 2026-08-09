@@ -1,6 +1,6 @@
 ---
 translationKey: ensino-de-portugues-gold-coast
-title: Face-to-Face Portuguese Lessons Gold Coast | Barbara Sharon
+title: "In-Person Portuguese Lessons on the Gold Coast"
 description: Learn Brazilian Portuguese with private or group lessons online worldwide or in person on the Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

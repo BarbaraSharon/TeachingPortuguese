@@ -1,5 +1,5 @@
 ---
-title: "About the Author"
+title: "About Barbara Sharon, Portuguese Teacher"
 robots: noindex, follow
 description: "Meet Barbara Sharon, founder and tutor behind Barbarasharon."
 translationKey: authors

@@ -1,6 +1,6 @@
 ---
 translationKey: location-austin
-title: Aprenda português brasileiro em Austin | Aulas online
+title: "Aulas online de português brasileiro em Austin"
 description: Agende aulas de português em Austin com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

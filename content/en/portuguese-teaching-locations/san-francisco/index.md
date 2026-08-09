@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-francisco
-title: Learn Portuguese in San Francisco | Online Lessons
+title: "Online Brazilian Portuguese Lessons in San Francisco"
 description: Book Portuguese lessons in San Francisco with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

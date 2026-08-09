@@ -1,6 +1,6 @@
 ---
 translationKey: location-carrara
-title: Aprenda português brasileiro em Carrara | Aulas presenciais e online
+title: "Aulas online de português brasileiro em Carrara"
 description: Aprenda português em Carrara com aulas presenciais e online especializadas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: como-aprender-portugues
-title: Como aprender português brasileiro | Melhor professora online na Austrália
+title: "Como aprender português brasileiro com clareza"
 description: Aprenda português brasileiro de forma eficaz com estratégias comprovadas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: aprenda-portugues
-title: Aprenda português com Barbara Sharon | Cursos de idiomas na Gold Coast
+title: "Caminhos para aprender português com Barbara Sharon"
 description: Aprenda português com a professora especialista Barbara Sharon, na Gold Coast, com aulas particulares e em grupo.
 date: '2026-08-05'
 lastmod: '2026-08-05'

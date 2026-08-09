@@ -1,6 +1,6 @@
 ---
 translationKey: location-austin
-title: Aprende portugués brasileño en Austin | Clases en línea
+title: "Clases online de portugués brasileño en Austin"
 description: Reserva clases de portugués brasileño en Austin con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

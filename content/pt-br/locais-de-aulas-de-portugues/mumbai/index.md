@@ -1,6 +1,6 @@
 ---
 translationKey: location-mumbai
-title: Aprenda português brasileiro em Mumbai | Aulas online
+title: "Aulas online de português brasileiro em Mumbai"
 description: Agende aulas de português em Mumbai com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

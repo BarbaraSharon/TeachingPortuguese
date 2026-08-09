@@ -1,7 +1,6 @@
 ---
 translationKey: location-naples
-title: Learn Brazilian Portuguese in Naples | Online Private Tutor
- learners with a focus on cultural immersion and real-life communication.
+title: "Online Brazilian Portuguese Lessons in Naples"
 description: "Learn Brazilian Portuguese in Naples, Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'

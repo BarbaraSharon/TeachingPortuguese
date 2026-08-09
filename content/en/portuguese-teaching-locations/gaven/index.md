@@ -1,6 +1,6 @@
 ---
 translationKey: location-gaven
-title: Learn Brazilian Portuguese in Gaven | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Gaven"
 description: Discover the best Portuguese lessons in Gaven with Barbara Sharon. In-person and online private & group classes
   for all levels. Start your journey today!
 date: '2026-08-05'

@@ -1,6 +1,5 @@
 ---
-title: Aprenda português em Freiburg im Breisgau | Aulas particulares e em grupo
- Agende uma aula experimental gratuita com Barbara Sharon, professora nativa de português.
+title: "Aulas online de português em Freiburg im Breisgau"
 description: "Aprenda português em Freiburg im Breisgau com aulas online particulares e em grupo ministradas por uma especialista."
 date: '2026-08-05'
 lastmod: '2026-08-05'

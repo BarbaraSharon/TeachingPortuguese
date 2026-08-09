@@ -1,6 +1,6 @@
 ---
 translationKey: location-madrid
-title: Aprende portugués brasileño en Madrid | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Madrid"
 description: Reserva clases de portugués en Madrid con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

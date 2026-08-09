@@ -1,6 +1,6 @@
 ---
 translationKey: location-hope-island
-title: Learn Brazilian Portuguese in Hope Island | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Hope Island"
 description: Book Portuguese lessons in Hope Island with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

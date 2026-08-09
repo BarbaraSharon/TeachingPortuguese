@@ -1,7 +1,6 @@
 ---
 translationKey: location-turin
-title: Learn Brazilian Portuguese in Turin | Online Lessons
- Sharon - flexible classes for all levels
+title: "Online Brazilian Portuguese Lessons in Turin"
 description: "Learn Brazilian Portuguese in Turin with expert online lessons."
 date: '2026-08-05'
 lastmod: '2026-08-05'

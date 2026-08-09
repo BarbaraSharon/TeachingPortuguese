@@ -1,6 +1,6 @@
 ---
 translationKey: location-palm-beach
-title: Aprenda português brasileiro em Palm Beach | Barbara Sharon
+title: "Aulas online de português brasileiro em Palm Beach"
 description: Agende aulas de português em Palm Beach com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

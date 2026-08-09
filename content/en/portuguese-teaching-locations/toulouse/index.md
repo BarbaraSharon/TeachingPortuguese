@@ -1,6 +1,6 @@
 ---
 translationKey: location-toulouse
-title: Learn Brazilian Portuguese Online with Barbara Sharon in Toulouse
+title: "Online Brazilian Portuguese Lessons in Toulouse"
 description: Learn Brazilian Portuguese online with expert lessons by Barbara Sharon in Toulouse. Private & group classes
   for all levels. World-wide access
 date: '2026-08-05'

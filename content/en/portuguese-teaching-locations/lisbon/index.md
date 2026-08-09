@@ -1,6 +1,6 @@
 ---
 translationKey: location-lisbon
-title: Learn Brazilian Portuguese in Lisbon with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Lisbon"
 description: Book Portuguese lessons in Lisbon with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

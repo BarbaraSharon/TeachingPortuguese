@@ -1,6 +1,6 @@
 ---
 translationKey: location-guanaba
-title: Aprende portugués brasileño en Guanaba | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Guanaba"
 description: Aprende portugués brasileño en Guanaba con clases particulares en línea y presenciales.
 date: '2026-08-05'
 lastmod: '2026-08-05'

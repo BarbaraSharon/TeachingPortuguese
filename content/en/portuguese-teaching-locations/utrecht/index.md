@@ -1,6 +1,6 @@
 ---
 translationKey: location-utrecht
-title: Learn Portuguese in Utrecht | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Utrecht"
 description: Learn Brazilian Portuguese in Utrecht, Netherlands. Online private and group lessons with Barbara Sharon for
   all levels
 date: '2026-08-05'

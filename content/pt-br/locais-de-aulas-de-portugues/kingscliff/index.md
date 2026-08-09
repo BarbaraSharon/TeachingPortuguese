@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Kingscliff com Barbara Sharon
+title: "Aulas online de português brasileiro em Kingscliff"
 description: Aprenda português brasileiro em Kingscliff com Barbara Sharon. Aulas online e presenciais para todos os níveis. Comece
   hoje sua jornada rumo à fluência!
 date: '2026-08-05'

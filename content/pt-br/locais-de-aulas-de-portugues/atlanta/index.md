@@ -1,6 +1,6 @@
 ---
 translationKey: location-atlanta
-title: Aprenda português em Atlanta | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Atlanta"
 description: Agende aulas de português em Atlanta com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

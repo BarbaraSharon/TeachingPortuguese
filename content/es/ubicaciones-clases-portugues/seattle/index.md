@@ -1,6 +1,6 @@
 ---
 translationKey: location-seattle
-title: Aprende portugués brasileño en Seattle | Clases en línea
+title: "Clases online de portugués brasileño en Seattle"
 description: Reserva clases de portugués en Seattle con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

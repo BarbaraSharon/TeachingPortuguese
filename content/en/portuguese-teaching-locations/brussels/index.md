@@ -1,6 +1,6 @@
 ---
 translationKey: location-brussels
-title: Learn Portuguese in Brussels | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Brussels"
 description: Learn Brazilian Portuguese in Brussels with online private & group lessons. Book a free trial lesson with Barbara
   Sharon
 date: '2026-08-05'

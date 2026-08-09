@@ -1,6 +1,6 @@
 ---
 translationKey: location-muenster
-title: Aprende portugués brasileño en Münster | Clases en línea
+title: "Clases online de portugués brasileño en Münster"
 description: Descubre las mejores clases de portugués brasileño en Münster. Clases particulares y grupales para todos los niveles, centradas en portugués brasileño.
 date: '2026-08-05'
 lastmod: '2026-08-05'

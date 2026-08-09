@@ -1,6 +1,6 @@
 ---
 translationKey: location-winnipeg
-title: Aprende portugués brasileño en Winnipeg | Clases en línea
+title: "Clases online de portugués brasileño en Winnipeg"
 description: Descubre a la mejor profesora de portugués en Winnipeg.
 date: '2026-08-05'
 lastmod: '2026-08-05'

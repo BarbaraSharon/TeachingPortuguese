@@ -1,6 +1,6 @@
 ---
 translationKey: location-seoul
-title: Aprende portugués brasileño en Seúl | Clases en línea
+title: "Clases online de portugués brasileño en Seúl"
 description: Reserva clases de portugués brasileño en Seúl con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

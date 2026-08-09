@@ -1,6 +1,6 @@
 ---
 translationKey: location-coolangatta
-title: Learn Brazilian Portuguese in Coolangatta | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Coolangatta"
 description: Learn Brazilian Portuguese in Coolangatta with private and online lessons. Book a free trial lesson with Barbara
   Sharon, a native Brazilian tutor
 date: '2026-08-05'

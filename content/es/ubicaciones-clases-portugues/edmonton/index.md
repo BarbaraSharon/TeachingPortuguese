@@ -1,6 +1,6 @@
 ---
 translationKey: location-edmonton
-title: Aprende portugués brasileño en Edmonton | Clases en línea
+title: "Clases online de portugués brasileño en Edmonton"
 description: Descubre una excelente tutora de portugués en Edmonton.
 date: '2026-08-05'
 lastmod: '2026-08-05'

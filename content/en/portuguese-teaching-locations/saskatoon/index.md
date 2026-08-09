@@ -1,6 +1,6 @@
 ---
 translationKey: location-saskatoon
-title: Learn Brazilian Portuguese in Saskatoon | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Saskatoon"
 description: Discover the best Portuguese tutor in Saskatoon. Book your free trial lesson with Barbara Sharon for online lessons.
   Learn Portuguese today!
 date: '2026-08-05'

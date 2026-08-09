@@ -1,6 +1,6 @@
 ---
 translationKey: location-vancouver
-title: Learn Brazilian Portuguese in Vancouver | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Vancouver"
 description: Book Portuguese lessons in Vancouver with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

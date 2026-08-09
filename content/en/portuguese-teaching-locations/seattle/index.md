@@ -1,6 +1,6 @@
 ---
 translationKey: location-seattle
-title: Learn Brazilian Portuguese in Seattle | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Seattle"
 description: Book Portuguese lessons in Seattle with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

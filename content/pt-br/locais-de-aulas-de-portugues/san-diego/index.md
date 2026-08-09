@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-diego
-title: Aprenda português brasileiro em San Diego | Barbara Sharon
+title: "Aulas online de português brasileiro em San Diego"
 description: Aprenda português brasileiro em San Diego com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

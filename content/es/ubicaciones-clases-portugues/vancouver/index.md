@@ -1,6 +1,6 @@
 ---
 translationKey: location-vancouver
-title: Aprende portugués brasileño en Vancouver | Barbara Sharon
+title: "Clases online de portugués brasileño en Vancouver"
 description: Reserva clases de portugués en Vancouver con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

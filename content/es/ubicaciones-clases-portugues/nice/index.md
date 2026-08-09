@@ -1,6 +1,6 @@
 ---
 translationKey: location-nice
-title: Aprende portugués brasileño en Niza | Clases en línea
+title: "Clases online de portugués brasileño en Niza"
 description: Descubre las mejores clases de portugués en Niza.
 date: '2026-08-05'
 lastmod: '2026-08-05'

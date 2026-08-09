@@ -1,5 +1,5 @@
 ---
-title: Aprenda português com Barbara Sharon
+title: "Aprenda português com Barbara Sharon"
 type: language-home
 url: /pt-br/
 translationKey: language-home

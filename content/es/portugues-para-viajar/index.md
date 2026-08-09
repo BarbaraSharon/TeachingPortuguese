@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-viagens
-title: Portugués para viajar | Curso práctico con Barbara Sharon
+title: "Portugués para viajar: habla con confianza"
 description: Aprende portugués brasileño práctico para viajar, saludar, pedir comida, orientarte y desenvolverte con confianza.
 date: '2026-08-05'
 lastmod: '2026-08-05'

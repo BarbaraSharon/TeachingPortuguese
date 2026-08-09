@@ -1,6 +1,6 @@
 ---
 translationKey: location-nanaimo
-title: Aprende portugués brasileño en Nanaimo | Clases en línea
+title: "Clases online de portugués brasileño en Nanaimo"
 description: Descubre una excelente tutora de portugués en Nanaimo.
 date: '2026-08-05'
 lastmod: '2026-08-05'

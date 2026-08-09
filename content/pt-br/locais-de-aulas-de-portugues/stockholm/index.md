@@ -1,6 +1,6 @@
 ---
 translationKey: location-stockholm
-title: Aprenda português em Estocolmo | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Estocolmo"
 description: Agende aulas de português em Estocolmo com Barbara Sharon e obtenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

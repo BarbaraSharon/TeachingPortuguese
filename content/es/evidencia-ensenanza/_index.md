@@ -1,5 +1,5 @@
 ---
-title: Evidencias y resultados de enseñanza
+title: "Método y evidencias de enseñanza de portugués"
 url: /es/evidencia-ensenanza/
 description: Páginas preparadas para evidencia sobre metodología, resultados y validación para señales de confianza y citación por IA.
 date: '2026-08-09'

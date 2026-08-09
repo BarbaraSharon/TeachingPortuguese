@@ -1,6 +1,6 @@
 ---
 translationKey: location-cape-town
-title: Aprenda português em Cidade do Cabo | Aulas particulares e em grupo online
+title: "Aulas online de português brasileiro em Cidade do Cabo"
 description: Agende aulas de português em Cidade do Cabo com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

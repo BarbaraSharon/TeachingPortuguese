@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Florença | Aulas online
- Barbara Sharon, professora de português brasileiro.
+title: "Aulas online de português brasileiro em Florença"
 description: "Conheça as melhores aulas de português brasileiro em Florença."
 date: '2026-08-05'
 lastmod: '2026-08-05'

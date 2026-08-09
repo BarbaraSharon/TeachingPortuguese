@@ -1,6 +1,6 @@
 ---
 translationKey: location-naples
-title: Aprende portugués brasileño en Naples | Tutora particular en línea
+title: "Clases online de portugués brasileño en Naples"
 description: Aprende portugués brasileño en Naples, Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

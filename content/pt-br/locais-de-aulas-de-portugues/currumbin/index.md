@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin
-title: Aprenda português brasileiro em Currumbin | Aulas presenciais e online
+title: "Aulas online de português brasileiro em Currumbin"
 description: Agende aulas de português em Currumbin com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

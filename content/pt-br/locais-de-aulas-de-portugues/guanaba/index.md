@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Guanaba | Aulas online particulares e em grupo
- com Barbara Sharon, especialista em português brasileiro.
+title: "Aulas online de português brasileiro em Guanaba"
 description: "Aprenda português brasileiro em Guanaba com aulas particulares online e presenciais."
 date: '2026-08-05'
 lastmod: '2026-08-05'

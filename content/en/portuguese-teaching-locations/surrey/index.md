@@ -1,6 +1,6 @@
 ---
 translationKey: location-surrey
-title: Learn Brazilian Portuguese in Surrey | Private & Group Online Lessons
+title: "Online Brazilian Portuguese Lessons in Surrey"
 description: Discover the best Portuguese tutor in Surrey. Book your free trial lesson with Barbara Sharon for online private
   and group lessons. Learn Portuguese today!
 date: '2026-08-05'

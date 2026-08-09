@@ -1,6 +1,6 @@
 ---
 translationKey: location-moncton
-title: Aprende portugués brasileño en Moncton | Clases en línea
+title: "Clases online de portugués brasileño en Moncton"
 description: Descubre una excelente tutora de portugués en Moncton.
 date: '2026-08-05'
 lastmod: '2026-08-05'

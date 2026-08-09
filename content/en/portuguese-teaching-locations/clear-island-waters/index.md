@@ -1,6 +1,6 @@
 ---
 translationKey: location-clear-island-waters
-title: Learn Portuguese in Clear Island Waters | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Clear Island Waters"
 description: Discover the best Portuguese lessons in Clear Island Waters. Book your free trial with Barbara Sharon, a native
   Portuguese tutor. In-person & online.
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-de-portugues
-title: Clases de portugués en línea y en Gold Coast | Barbara Sharon
+title: "Clases de portugués: opciones y formatos"
 description: Aprende portugués brasileño en línea desde cualquier lugar del mundo o presencialmente en Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

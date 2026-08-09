@@ -1,6 +1,6 @@
 ---
 translationKey: location-los-angeles
-title: Aprende portugués brasileño en Los Ángeles | Barbara Sharon
+title: "Clases online de portugués brasileño en Los Ángeles"
 description: Reserva clases de portugués en Los Ángeles con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

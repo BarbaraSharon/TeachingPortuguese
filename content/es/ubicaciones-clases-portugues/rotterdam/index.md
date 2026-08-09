@@ -1,6 +1,6 @@
 ---
 translationKey: location-rotterdam
-title: Aprende portugués en Róterdam | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Róterdam"
 description: Aprende portugués brasileño en Róterdam con Barbara Sharon. Clases particulares y grupales en línea para todos los niveles. Acceso mundial.
 date: '2026-08-05'
 lastmod: '2026-08-05'

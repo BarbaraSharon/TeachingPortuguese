@@ -1,6 +1,6 @@
 ---
 translationKey: location-upper-coomera
-title: Learn Portuguese with Barbara Sharon - Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Upper Coomera"
 description: Book Portuguese lessons in Upper Coomera with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

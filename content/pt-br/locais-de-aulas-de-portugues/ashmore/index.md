@@ -1,6 +1,6 @@
 ---
 translationKey: location-ashmore
-title: Aprenda português brasileiro em Ashmore | Barbara Sharon
+title: "Aulas online de português brasileiro em Ashmore"
 description: Aulas de português brasileiro para alunos em Ashmore, na Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

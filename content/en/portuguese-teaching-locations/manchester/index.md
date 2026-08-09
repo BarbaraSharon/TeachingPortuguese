@@ -1,6 +1,6 @@
 ---
 translationKey: location-manchester
-title: Learn Portuguese in Manchester | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Manchester"
 description: Book Portuguese lessons in Manchester with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

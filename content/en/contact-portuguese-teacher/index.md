@@ -1,6 +1,6 @@
 ---
 translationKey: contato-professora-portugues
-title: Contact Barbara Sharon - Brazilian Portuguese Teacher
+title: "Contact Barbara Sharon for Portuguese Lessons"
 description: Contact Barbara Sharon for Portuguese tutoring, teaching & language courses inquiries.
 date: '2026-08-05'
 lastmod: '2026-08-05'

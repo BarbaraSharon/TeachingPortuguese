@@ -1,6 +1,6 @@
 ---
 translationKey: location-tweed-heads
-title: Learn Portuguese in Tweed Heads | Private Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Tweed Heads"
 description: Discover top-quality Portuguese lessons in Tweed Heads. Learn Portuguese with Barbara Sharon, a certified tutor
   offering online and in-person classes.
 date: '2026-08-05'

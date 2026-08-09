@@ -1,7 +1,6 @@
 ---
 translationKey: location-quebec-city
-title: Learn Brazilian Portuguese in Quebec-City | Online Lessons
- private and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Quebec"
 description: "Discover the best Portuguese tutor in Quebec-City."
 date: '2026-08-05'
 lastmod: '2026-08-05'

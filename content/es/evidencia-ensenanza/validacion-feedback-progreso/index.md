@@ -1,5 +1,5 @@
 ---
-title: Validación de feedback y progreso
+title: "Seguimiento y feedback en clases de portugués"
 url: /es/evidencia-ensenanza/validacion-feedback-progreso/
 date: '2026-08-09'
 lastmod: '2026-08-09'

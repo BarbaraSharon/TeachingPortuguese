@@ -1,6 +1,6 @@
 ---
 translationKey: location-houston
-title: Aprende portugués brasileño en Houston | Clases en línea
+title: "Clases online de portugués brasileño en Houston"
 description: Reserva clases de portugués en Houston con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

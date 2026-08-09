@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-particulares-portugues-gold-coast
-title: Aulas Particulares Presenciais de Português na Gold Coast | Barbara Sharon
+title: "Aulas particulares de português na Gold Coast"
 description: Aprenda português brasileiro com aulas particulares online para todo o mundo ou presenciais na Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

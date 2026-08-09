@@ -1,6 +1,6 @@
 ---
 translationKey: location-maudsland
-title: Learn Brazilian Portuguese in Maudsland | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Maudsland"
 description: Discover the best Portuguese lessons in Maudsland, Gold Coast. Private and group classes for all levels. Learn
   Portuguese with a qualified tutor
 date: '2026-08-05'

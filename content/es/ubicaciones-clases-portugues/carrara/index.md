@@ -1,6 +1,6 @@
 ---
 translationKey: location-carrara
-title: Aprende portugués brasileño en Carrara | Clases presenciales y en línea
+title: "Clases online de portugués brasileño en Carrara"
 description: Aprende portugués en Carrara con clases expertas presenciales y en línea. Reserva una clase de prueba gratuita con Barbara Sharon, tutora certificada.
 date: '2026-08-05'
 lastmod: '2026-08-05'

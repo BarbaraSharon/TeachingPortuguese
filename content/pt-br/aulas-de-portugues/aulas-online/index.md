@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-online
-title: Aulas de Português Online para Todo o Mundo | Particulares e em Grupo
+title: "Aulas online de português brasileiro"
 description: Aprenda português brasileiro online, em aulas particulares ou em grupo para todos os níveis, incluindo negócios e viagens.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-abu-dhabi
-title: Learn Brazilian Portuguese in Abu Dhabi | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Abu Dhabi"
 description: Book Portuguese lessons in Abu Dhabi with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

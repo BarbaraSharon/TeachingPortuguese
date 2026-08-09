@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Madri | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Madri"
 description: Agende aulas de português em Madri com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

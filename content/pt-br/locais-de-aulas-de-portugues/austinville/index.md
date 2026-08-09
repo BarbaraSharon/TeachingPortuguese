@@ -1,6 +1,6 @@
 ---
 translationKey: location-austinville
-title: Aprenda português brasileiro em Austinville | Aulas particulares e online
+title: "Aulas online de português brasileiro em Austinville"
 description: Descubra as melhores aulas de português brasileiro em Austinville.
 date: '2026-08-05'
 lastmod: '2026-08-05'

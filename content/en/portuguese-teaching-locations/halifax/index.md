@@ -1,7 +1,6 @@
 ---
 translationKey: location-halifax
-title: Learn Brazilian Portuguese in Halifax | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Halifax"
 description: "Discover the best Portuguese tutor in Halifax."
 date: '2026-08-05'
 lastmod: '2026-08-05'

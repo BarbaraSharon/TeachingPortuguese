@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-iniciantes
-title: Clases de portugués para principiantes | Barbara Sharon
+title: "Clases de portugués para principiantes"
 description: Aprende portugués brasileño con conversación práctica, pronunciación, vocabulario y gramática en clases particulares o grupales.
 date: '2026-08-05'
 lastmod: '2026-08-05'

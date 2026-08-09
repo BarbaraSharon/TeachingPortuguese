@@ -1,6 +1,6 @@
 ---
 translationKey: location-yellowknife
-title: Learn Brazilian Portuguese in Yellowknife | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Yellowknife"
 description: Portuguese tutor in Yellowknife. Free trial lesson with Barbara Sharon for online private and group Portuguese
   lessons. Learn today!
 date: '2026-08-05'

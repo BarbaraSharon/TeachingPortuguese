@@ -1,6 +1,6 @@
 ---
 translationKey: location-miami
-title: Aprende portugués brasileño en línea con Barbara Sharon | Miami
+title: "Clases online de portugués brasileño en Miami"
 description: Reserva clases de portugués en Miami con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

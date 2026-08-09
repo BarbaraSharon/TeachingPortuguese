@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Gaven | Aulas online particulares e em grupo
- para todos os níveis. Comece hoje sua jornada!
+title: "Aulas online de português brasileiro em Gaven"
 description: "Conheça as melhores aulas de português em Gaven com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

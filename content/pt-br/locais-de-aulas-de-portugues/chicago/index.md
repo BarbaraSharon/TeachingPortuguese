@@ -1,6 +1,6 @@
 ---
 translationKey: location-chicago
-title: Aprenda português brasileiro em Chicago | Aulas online
+title: "Aulas online de português brasileiro em Chicago"
 description: Agende aulas de português em Chicago com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

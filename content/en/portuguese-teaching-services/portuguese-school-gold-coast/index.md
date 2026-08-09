@@ -1,6 +1,6 @@
 ---
 translationKey: escola-de-portugues-gold-coast
-title: In-Person Group Portuguese Classes Gold Coast | Barbara Sharon
+title: "Group Portuguese Classes on the Gold Coast"
 description: Join Brazilian Portuguese group classes on the Gold Coast for beginner to advanced learners.
 date: '2026-08-05'
 lastmod: '2026-08-05'

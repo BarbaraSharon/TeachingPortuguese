@@ -1,6 +1,6 @@
 ---
 translationKey: location-ernest
-title: Aprende portugués en Ernest, Australia | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Ernest"
 description: Descubre las mejores clases de portugués en Ernest, Australia.
 date: '2026-08-05'
 lastmod: '2026-08-05'

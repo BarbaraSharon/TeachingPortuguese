@@ -1,7 +1,6 @@
 ---
 translationKey: location-clagiraba
-title: Learn Brazilian Portuguese in Clagiraba | Private & Online Lessons
- in-person and online classes for all levels
+title: "Online Brazilian Portuguese Lessons in Clagiraba"
 description: "Discover expert Portuguese lessons in Clagiraba."
 date: '2026-08-05'
 lastmod: '2026-08-05'

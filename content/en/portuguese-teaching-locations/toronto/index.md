@@ -1,6 +1,6 @@
 ---
 translationKey: location-toronto
-title: Learn Portuguese in Toronto | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Toronto"
 description: Book Portuguese lessons in Toronto with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-calgary
-title: Aprende portugués brasileño en Calgary | Clases en línea
+title: "Clases online de portugués brasileño en Calgary"
 description: Descubre una excelente tutora de portugués en Calgary.
 date: '2026-08-05'
 lastmod: '2026-08-05'

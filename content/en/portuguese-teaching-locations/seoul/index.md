@@ -1,6 +1,6 @@
 ---
 translationKey: location-seoul
-title: Learn Portuguese in Seoul | Online Classes with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Seoul"
 description: Book Portuguese lessons in Seoul with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

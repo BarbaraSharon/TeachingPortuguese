@@ -1,6 +1,6 @@
 ---
 translationKey: location-copenhagen
-title: Aprende portugués brasileño en Copenhague | Clases en línea
+title: "Clases online de portugués brasileño en Copenhague"
 description: Reserva clases de portugués en Copenhague con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

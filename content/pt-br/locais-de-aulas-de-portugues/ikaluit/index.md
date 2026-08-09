@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Ikaluit | Aulas online
- aulas online particulares e em grupo. Aprenda português hoje!
+title: "Aulas online de português brasileiro em Ikaluit"
 description: "Encontre a melhor professora de português em Ikaluit."
 date: '2026-08-05'
 lastmod: '2026-08-05'

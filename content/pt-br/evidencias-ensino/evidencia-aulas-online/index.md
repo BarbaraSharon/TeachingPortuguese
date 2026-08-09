@@ -1,5 +1,5 @@
 ---
-title: Evidência de aulas online
+title: "Evidência do método de aulas online"
 url: /pt-br/evidencias-ensino/evidencia-aulas-online/
 date: '2026-08-09'
 lastmod: '2026-08-09'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-parkside
-title: Learn Brazilian Portuguese in Parkside | Private & Online Classes
+title: "Online Brazilian Portuguese Lessons in Parkside"
 description: Learn Brazilian Portuguese in Parkside, Gold Coast with Barbara Sharon. Private and group lessons for all levels.
   Online classes available
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-leipzig
-title: Aprende portugués en Leipzig | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Leipzig"
 description: Aprende portugués en Leipzig con la profesora experta Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

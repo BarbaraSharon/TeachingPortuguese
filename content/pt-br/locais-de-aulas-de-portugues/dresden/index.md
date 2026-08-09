@@ -1,6 +1,6 @@
 ---
 translationKey: location-dresden
-title: Aprenda português brasileiro em Dresden | Aulas online
+title: "Aulas online de português brasileiro em Dresden"
 description: Descubra as melhores aulas de português em Dresden com Barbara Sharon. Aulas online particulares e em grupo para todos os níveis. Comece sua jornada hoje!
 date: '2026-08-05'
 lastmod: '2026-08-05'

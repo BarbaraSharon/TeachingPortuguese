@@ -1,6 +1,6 @@
 ---
 translationKey: location-burnaby
-title: Aprenda português brasileiro em Burnaby | Aulas online
+title: "Aulas online de português brasileiro em Burnaby"
 description: Descubra a melhor professora de português em Burnaby.
 date: '2026-08-05'
 lastmod: '2026-08-05'

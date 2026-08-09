@@ -1,6 +1,6 @@
 ---
 translationKey: location-boston
-title: Aprende portugués brasileño en Boston | Clases en línea
+title: "Clases online de portugués brasileño en Boston"
 description: Reserva clases de portugués en Boston con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

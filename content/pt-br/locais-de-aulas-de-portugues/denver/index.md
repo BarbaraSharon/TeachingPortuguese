@@ -1,6 +1,6 @@
 ---
 translationKey: location-denver
-title: Aprenda português brasileiro em Denver | Aulas online
+title: "Aulas online de português brasileiro em Denver"
 description: Agende aulas de português em Denver com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

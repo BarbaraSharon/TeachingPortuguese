@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Forest Hill | Aulas online particulares e em grupo
- particulares e em grupo, online ou presenciais.
+title: "Aulas online de português brasileiro em Forest Hill"
 description: "Conheça aulas especializadas de português em Forest Hill."
 date: '2026-08-05'
 lastmod: '2026-08-05'

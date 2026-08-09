@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Gotemburgo | Aulas de português brasileiro
+title: "Aulas online de português brasileiro em Gotemburgo"
 description: Conheça aulas de português muito bem avaliadas em Gotemburgo com Barbara Sharon. Aprenda português online com aulas
   particulares e em grupo personalizadas.
 date: '2026-08-05'

@@ -1,7 +1,6 @@
 ---
 translationKey: location-hanover
-title: Learn Brazilian Portuguese in Hanover | Online Lessons
- for all levels. Start your journey today!
+title: "Online Brazilian Portuguese Lessons in Hanover"
 description: "Discover the best online Portuguese lessons in Hanover with native tutor Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

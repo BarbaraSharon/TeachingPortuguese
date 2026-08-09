@@ -1,6 +1,6 @@
 ---
 translationKey: location-elanora
-title: Aprende portugués brasileño en Elanora | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Elanora"
 description: Reserva clases de portugués en Elanora con Barbara Sharon y consigue resultados comprobados de mejora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

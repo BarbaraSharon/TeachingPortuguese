@@ -1,6 +1,6 @@
 ---
 translationKey: location-madrid
-title: Learn Brazilian Portuguese in Madrid | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Madrid"
 description: Book Portuguese lessons in Madrid with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

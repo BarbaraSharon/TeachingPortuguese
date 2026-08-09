@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-avancado
-title: Clases de portugués avanzado | Barbara Sharon
+title: "Clases de portugués avanzado para progresar"
 description: Perfecciona tu portugués brasileño con clases avanzadas de conversación, pronunciación, gramática y matices culturales.
 date: '2026-08-05'
 lastmod: '2026-08-05'

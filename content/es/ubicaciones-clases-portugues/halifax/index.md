@@ -1,6 +1,6 @@
 ---
 translationKey: location-halifax
-title: Aprende portugués brasileño en Halifax | Clases en línea
+title: "Clases online de portugués brasileño en Halifax"
 description: Descubre una excelente tutora de portugués en Halifax.
 date: '2026-08-05'
 lastmod: '2026-08-05'

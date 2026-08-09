@@ -1,6 +1,6 @@
 ---
 translationKey: location-chilliwack
-title: Aprenda português brasileiro em Chilliwack | Aulas online
+title: "Aulas online de português brasileiro em Chilliwack"
 description: Descubra a melhor professora de português em Chilliwack.
 date: '2026-08-05'
 lastmod: '2026-08-05'

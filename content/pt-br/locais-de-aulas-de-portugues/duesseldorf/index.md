@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Duesseldorf | Aulas online particulares e em grupo
- gratuita com Barbara Sharon, especialista em português brasileiro.
+title: "Aulas online de português brasileiro em Duesseldorf"
 description: "Aprenda português brasileiro em Duesseldorf com aulas online particulares e em grupo."
 date: '2026-08-05'
 lastmod: '2026-08-05'

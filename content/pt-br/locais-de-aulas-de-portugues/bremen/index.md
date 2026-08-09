@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Bremen | Aulas online particulares e em grupo
- de aulas particulares e em grupo, adaptadas aos seus objetivos.
+title: "Aulas online de português brasileiro em Bremen"
 description: "Conheça as melhores aulas de português online em Bremen com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

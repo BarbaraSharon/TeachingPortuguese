@@ -1,7 +1,6 @@
 ---
 translationKey: location-burnaby
-title: Learn Brazilian Portuguese in Burnaby | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Burnaby"
 description: "Discover the best Portuguese tutor in Burnaby."
 date: '2026-08-05'
 lastmod: '2026-08-05'

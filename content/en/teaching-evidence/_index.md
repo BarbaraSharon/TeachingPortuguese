@@ -1,5 +1,5 @@
 ---
-title: Teaching Evidence and Outcomes
+title: "Portuguese Teaching Approach and Evidence"
 url: /en/teaching-evidence/
 description: Reference pages explaining teaching methodology, learner progress, and validation notes.
 date: '2026-08-09'

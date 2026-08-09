@@ -1,6 +1,6 @@
 ---
 translationKey: location-amsterdam
-title: Aprende portugués en Ámsterdam | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Ámsterdam"
 description: Reserva clases de portugués en Ámsterdam con Barbara Sharon y disfruta de una metodología orientada a mejorar rápidamente.
 date: '2026-08-05'
 lastmod: '2026-08-05'

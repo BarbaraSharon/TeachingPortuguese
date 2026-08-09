@@ -1,6 +1,6 @@
 ---
 translationKey: location-duesseldorf
-title: Aprende portugués en Düsseldorf | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Düsseldorf"
 description: Aprende portugués brasileño en Düsseldorf con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

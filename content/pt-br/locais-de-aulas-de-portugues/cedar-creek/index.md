@@ -1,6 +1,6 @@
 ---
 translationKey: location-cedar-creek
-title: Aprenda português brasileiro em Cedar Creek | Aulas particulares e online
+title: "Aulas online de português brasileiro em Cedar Creek"
 description: Aprenda português brasileiro em Cedar Creek com aulas presenciais e online.
 date: '2026-08-05'
 lastmod: '2026-08-05'

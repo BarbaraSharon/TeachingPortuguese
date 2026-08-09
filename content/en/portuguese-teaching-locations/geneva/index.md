@@ -1,6 +1,6 @@
 ---
 translationKey: location-geneva
-title: Learn Brazilian Portuguese in Geneva | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Geneva"
 description: Book Portuguese lessons in Geneva with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

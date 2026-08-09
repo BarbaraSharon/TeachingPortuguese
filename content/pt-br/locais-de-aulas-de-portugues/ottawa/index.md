@@ -1,6 +1,6 @@
 ---
 translationKey: location-ottawa
-title: Aprenda português brasileiro em Ottawa | Aulas particulares e em grupo online
+title: "Aulas online de português brasileiro em Ottawa"
 description: Descubra a melhor tutora de português em Ottawa.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-new-york
-title: Aprende portugués brasileño en Nueva York | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Nueva York"
 description: Reserva clases de portugués en Nueva York con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,7 +1,6 @@
 ---
 translationKey: location-freiburg-im-breisgau
-title: Learn Portuguese in Freiburg im Breisgau | Private & Group Lessons
- with Barbara Sharon, a native Portuguese tutor
+title: "Online Portuguese Lessons in Freiburg im Breisgau"
 description: "Learn Portuguese in Freiburg im Breisgau with expert online private and group lessons."
 date: '2026-08-05'
 lastmod: '2026-08-05'

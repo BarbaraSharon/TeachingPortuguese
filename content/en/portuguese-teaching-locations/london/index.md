@@ -1,6 +1,6 @@
 ---
 translationKey: location-london
-title: Learn Brazilian Portuguese in London | Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in London"
 description: Book Portuguese lessons in London with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

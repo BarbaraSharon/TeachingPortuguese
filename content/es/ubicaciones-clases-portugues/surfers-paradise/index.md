@@ -1,6 +1,6 @@
 ---
 translationKey: location-surfers-paradise
-title: Clases de portugués en Surfers Paradise | Barbara Sharon
+title: "Clases online de portugués brasileño en Surfers Paradise"
 description: Reserva clases de portugués en Surfers Paradise con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

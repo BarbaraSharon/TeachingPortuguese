@@ -1,6 +1,6 @@
 ---
 translationKey: location-oxenford
-title: Learn Brazilian Portuguese in Oxenford | Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in Oxenford"
 description: Book Portuguese lessons in Oxenford with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

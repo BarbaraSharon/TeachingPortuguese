@@ -1,6 +1,6 @@
 ---
 translationKey: location-orlando
-title: Learn Brazilian Portuguese in Orlando | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Orlando"
 description: Discover the best Brazilian Portuguese lessons in Orlando. Private and group classes for beginners to advanced
   learners with native speaker Barbara Sharon
 date: '2026-08-05'

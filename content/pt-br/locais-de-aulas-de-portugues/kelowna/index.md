@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Kelowna | Aulas online
- aulas online particulares e em grupo. Aprenda português hoje!
+title: "Aulas online de português brasileiro em Kelowna"
 description: "Encontre a melhor professora de português em Kelowna."
 date: '2026-08-05'
 lastmod: '2026-08-05'

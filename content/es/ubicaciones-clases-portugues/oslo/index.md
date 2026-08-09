@@ -1,6 +1,6 @@
 ---
 translationKey: location-oslo
-title: Aprende portugués brasileño en Oslo | Clases en línea
+title: "Clases online de portugués brasileño en Oslo"
 description: Reserva clases de portugués brasileño en Oslo con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

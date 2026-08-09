@@ -1,6 +1,6 @@
 ---
 translationKey: location-hope-island
-title: Aprende portugués brasileño en Hope Island | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Hope Island"
 description: Reserva clases de portugués en Hope Island con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

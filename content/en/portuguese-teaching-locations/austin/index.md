@@ -1,6 +1,6 @@
 ---
 translationKey: location-austin
-title: Learn Brazilian Portuguese in Austin | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Austin"
 description: Book Portuguese lessons in Austin with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

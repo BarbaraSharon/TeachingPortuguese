@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Zurique | Aulas online
+title: "Aulas online de português brasileiro em Zurique"
 description: Reserve aulas de português em Zurique com Barbara Sharon e tenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-dublin
-title: Aprenda português em Dublin | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Dublin"
 description: Agende aulas de português em Dublin com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

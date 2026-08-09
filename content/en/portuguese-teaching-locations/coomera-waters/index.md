@@ -1,6 +1,6 @@
 ---
 translationKey: location-coomera-waters
-title: Learn Portuguese in Coomera Waters | In-person & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Coomera Waters"
 description: Book Portuguese lessons in Coomera Waters with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

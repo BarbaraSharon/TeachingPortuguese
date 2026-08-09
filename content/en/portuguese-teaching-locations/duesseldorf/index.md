@@ -1,7 +1,6 @@
 ---
 translationKey: location-duesseldorf
-title: Learn Portuguese in Duesseldorf | Online Private & Group Lessons
- Barbara Sharon, a Brazilian Portuguese specialist
+title: "Online Brazilian Portuguese Lessons in Duesseldorf"
 description: "Learn Brazilian Portuguese in Duesseldorf with online private and group lessons."
 date: '2026-08-05'
 lastmod: '2026-08-05'

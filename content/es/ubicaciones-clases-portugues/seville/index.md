@@ -1,6 +1,6 @@
 ---
 translationKey: location-seville
-title: Clases de portugués en línea en Seville | Barbara Sharon
+title: "Clases online de portugués brasileño en Sevilla"
 description: Aprende portugués brasileño en línea desde Seville con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

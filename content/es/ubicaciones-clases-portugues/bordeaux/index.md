@@ -1,6 +1,6 @@
 ---
 translationKey: location-bordeaux
-title: Clases de portugués en línea en Bordeaux | Barbara Sharon
+title: "Clases online de portugués brasileño en Burdeos"
 description: 'Descubre clases de portugués brasileño en línea en Bordeaux. Aprende con Barbara Sharon: clases particulares y grupales adaptadas a tu nivel.'
 date: '2026-08-05'
 lastmod: '2026-08-05'

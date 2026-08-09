@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Valência | Tutora particular online
+title: "Aulas online de português brasileiro em Valência"
 description: Descubra aulas de português online de alta qualidade em Valência com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

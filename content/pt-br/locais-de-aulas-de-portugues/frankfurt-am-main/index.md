@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Frankfurt am Main | Aulas online
- com Barbara Sharon, especialista em português.
+title: "Aulas online de português brasileiro em Frankfurt am Main"
 description: "Aprenda português em Frankfurt am Main com aulas online particulares e em grupo."
 date: '2026-08-05'
 lastmod: '2026-08-05'

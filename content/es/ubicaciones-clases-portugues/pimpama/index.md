@@ -1,6 +1,6 @@
 ---
 translationKey: location-pimpama
-title: Clases de portugués brasileño en Pimpama | Aprende con Barbara Sharon
+title: "Clases online de portugués brasileño en Pimpama"
 description: Reserva clases de portugués en Pimpama con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

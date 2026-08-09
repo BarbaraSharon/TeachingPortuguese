@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-de-portugues
-title: Portuguese Lessons Online and on the Gold Coast | Barbara Sharon
+title: "Brazilian Portuguese Lessons: Course Options"
 description: Learn Brazilian Portuguese online worldwide or in person on the Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

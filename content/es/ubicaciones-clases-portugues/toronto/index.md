@@ -1,6 +1,6 @@
 ---
 translationKey: location-toronto
-title: Aprende portugués en Toronto | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Toronto"
 description: Reserva clases de portugués en Toronto con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: escola-de-portugues-gold-coast
-title: Clases grupales presenciales de portugués en Gold Coast | Barbara Sharon
+title: "Clases grupales de portugués en Gold Coast"
 description: Únete a las clases grupales de portugués brasileño en Gold Coast para estudiantes principiantes y avanzados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

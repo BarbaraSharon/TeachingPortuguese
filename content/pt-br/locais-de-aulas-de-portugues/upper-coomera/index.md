@@ -1,5 +1,5 @@
 ---
-title: Aprenda português com Barbara Sharon - aulas particulares e online
+title: "Aulas online de português brasileiro em Upper Coomera"
 description: Reserve aulas de português em Upper Coomera com Barbara Sharon e tenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-glasgow
-title: Learn Brazilian Portuguese in Glasgow | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Glasgow"
 description: Discover the best Portuguese lessons in Glasgow with Barbara Sharon. Expert online private and group classes
   for all levels. Start your journey today!
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-copenhagen
-title: Learn Brazilian Portuguese in Copenhagen | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Copenhagen"
 description: Book Portuguese lessons in Copenhagen with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

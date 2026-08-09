@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Haia | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Haia"
 description: Aprenda português brasileiro em Haia com aulas online especializadas. Aulas particulares e em grupo com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-gothenburg
-title: Learn Portuguese in Gothenburg | Brazilian Portuguese Classes
+title: "Online Brazilian Portuguese Lessons in Gothenburg"
 description: Discover top-rated Portuguese lessons in Gothenburg with Barbara Sharon. Learn Portuguese online with personalized
   private and group classes.
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-gilston
-title: Learn Portuguese in Gilston | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Gilston"
 description: Discover expert Portuguese tutoring in Gilston. Book your free trial lesson today with Barbara Sharon, a specialist
   offering private and online lessons
 date: '2026-08-05'

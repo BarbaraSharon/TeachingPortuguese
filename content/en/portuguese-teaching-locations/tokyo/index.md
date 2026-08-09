@@ -1,6 +1,6 @@
 ---
 translationKey: location-tokyo
-title: Learn Portuguese in Tokyo | Online Classes with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Tokyo"
 description: Book Portuguese lessons in Tokyo with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

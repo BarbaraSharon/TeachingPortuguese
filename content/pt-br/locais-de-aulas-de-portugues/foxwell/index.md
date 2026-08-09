@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Foxwell | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Foxwell"
 description: Conheça aulas especializadas de português em Foxwell, Austrália. Tenha aulas personalizadas em Surfers Paradise ou online
   com Barbara Sharon.
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-frankfurt-am-main
-title: Learn Brazilian Portuguese in Frankfurt am Main | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Frankfurt am Main"
 description: Learn Portuguese in Frankfurt am Main with online private and group lessons. Book a free trial lesson with Barbara
   Sharon, a Portuguese specialist
 date: '2026-08-05'

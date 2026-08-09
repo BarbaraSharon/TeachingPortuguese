@@ -1,6 +1,6 @@
 ---
 translationKey: location-berlin
-title: Aprende portugués brasileño en Berlín | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Berlín"
 description: Reserva clases de portugués en Berlín con Barbara Sharon y disfruta de una metodología orientada a mejorar rápidamente.
 date: '2026-08-05'
 lastmod: '2026-08-05'

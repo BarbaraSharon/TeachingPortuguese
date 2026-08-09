@@ -1,6 +1,6 @@
 ---
 translationKey: location-oslo
-title: Aprenda português em Oslo | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Oslo"
 description: Agende aulas de português em Oslo com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

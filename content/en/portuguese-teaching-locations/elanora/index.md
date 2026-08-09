@@ -1,6 +1,6 @@
 ---
 translationKey: location-elanora
-title: Learn Brazilian Portuguese in Elanora | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Elanora"
 description: Book Portuguese lessons in Elanora with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-saint-john
-title: Aprenda português brasileiro em Saint-John | Aulas online
+title: "Aulas online de português brasileiro em Saint"
 description: Agende aulas de português online com Barbara Sharon em Saint-John.
 date: '2026-08-05'
 lastmod: '2026-08-05'

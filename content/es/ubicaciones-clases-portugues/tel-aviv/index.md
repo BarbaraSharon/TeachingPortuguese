@@ -1,6 +1,6 @@
 ---
 translationKey: location-tel-aviv
-title: Aprende portugués en Tel Aviv | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Tel Aviv"
 description: Reserva clases de portugués en Tel Aviv con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

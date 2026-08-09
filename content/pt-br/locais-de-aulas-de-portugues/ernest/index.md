@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Ernest | Aulas online particulares e em grupo
- que oferece aulas particulares e em grupo, online e presenciais.
+title: "Aulas online de português brasileiro em Ernest"
 description: "Conheça as melhores aulas de português em Ernest, Austrália."
 date: '2026-08-05'
 lastmod: '2026-08-05'

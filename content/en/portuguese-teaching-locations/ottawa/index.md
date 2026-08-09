@@ -1,6 +1,6 @@
 ---
 translationKey: location-ottawa
-title: Learn Brazilian Portuguese in Ottawa | Private & Group Online Lessons
+title: "Online Brazilian Portuguese Lessons in Ottawa"
 description: Discover the best Portuguese tutor in Ottawa. Book your free trial lesson with Barbara Sharon for online private
   and group lessons. Learn Portuguese today!
 date: '2026-08-05'

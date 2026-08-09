@@ -1,6 +1,6 @@
 ---
 translationKey: location-denver
-title: Learn Brazilian Portuguese in Denver | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Denver"
 description: Book Portuguese lessons in Denver with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-brussels
-title: Aprende portugués en Bruselas | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Bruselas"
 description: Aprende portugués brasileño en Bruselas con clases particulares y grupales en línea. Reserva una clase de prueba gratuita con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

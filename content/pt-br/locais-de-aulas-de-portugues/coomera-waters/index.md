@@ -1,6 +1,6 @@
 ---
 translationKey: location-coomera-waters
-title: Aprenda português em Coomera Waters | Aulas presenciais e online
+title: "Aulas online de português brasileiro em Coomera Waters"
 description: Agende aulas de português em Coomera Waters com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

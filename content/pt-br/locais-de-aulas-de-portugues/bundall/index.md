@@ -1,6 +1,6 @@
 ---
 translationKey: location-bundall
-title: Aprenda português brasileiro em Bundall | Aulas particulares e online
+title: "Aulas online de português brasileiro em Bundall"
 description: Descubra a melhor professora de português em Bundall.
 date: '2026-08-05'
 lastmod: '2026-08-05'

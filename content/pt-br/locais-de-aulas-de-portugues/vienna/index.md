@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Viena | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Viena"
 description: Domine o português brasileiro em Viena com aulas especializadas de Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

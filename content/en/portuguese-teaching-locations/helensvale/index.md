@@ -1,6 +1,6 @@
 ---
 translationKey: location-helensvale
-title: Learn Brazilian Portuguese in Helensvale | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Helensvale"
 description: Book Portuguese lessons in Helensvale with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

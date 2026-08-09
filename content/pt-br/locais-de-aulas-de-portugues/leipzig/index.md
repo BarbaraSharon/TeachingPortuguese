@@ -1,6 +1,5 @@
 ---
-title: Aprenda português em Leipzig | Aulas particulares e em grupo
- com a comunidade brasileira na Alemanha.
+title: "Aulas online de português brasileiro em Leipzig"
 description: "Aprenda português em Leipzig com a professora especializada Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

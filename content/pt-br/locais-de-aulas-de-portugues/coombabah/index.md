@@ -1,6 +1,6 @@
 ---
 translationKey: location-coombabah
-title: Aprenda português brasileiro em Coombabah | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Coombabah"
 description: Descubra as melhores aulas de português em Coombabah com Barbara Sharon. Aulas presenciais e online para todos os níveis. Comece sua jornada hoje!
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,5 +1,5 @@
 ---
-title: Aulas de português em Kingsholme | Aprenda português brasileiro
+title: "Aulas online de português brasileiro em Kingsholme"
 description: Agende aulas de português em Kingsholme com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-abbotsford
-title: Aprenda português brasileiro em Abbotsford | Aulas online
+title: "Aulas online de português brasileiro em Abbotsford"
 description: Descubra a melhor tutora de português em Abbotsford.
 date: '2026-08-05'
 lastmod: '2026-08-05'

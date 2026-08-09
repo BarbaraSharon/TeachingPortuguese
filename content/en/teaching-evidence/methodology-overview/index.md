@@ -1,5 +1,5 @@
 ---
-title: Methodology Overview
+title: "Barbara Sharon’s Portuguese Teaching Method"
 url: /en/teaching-evidence/methodology-overview/
 date: '2026-08-09'
 lastmod: '2026-08-09'

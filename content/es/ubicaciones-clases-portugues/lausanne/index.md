@@ -1,6 +1,6 @@
 ---
 translationKey: location-lausanne
-title: Aprende portugués brasileño | Clases en línea
+title: "Clases online de portugués brasileño en Lausana"
 description: Aprende portugués brasileño en línea desde Lausanne con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

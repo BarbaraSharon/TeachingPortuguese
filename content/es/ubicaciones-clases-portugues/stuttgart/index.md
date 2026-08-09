@@ -1,6 +1,6 @@
 ---
 translationKey: location-stuttgart
-title: Aprende portugués brasileño en Stuttgart | Clases en línea
+title: "Clases online de portugués brasileño en Stuttgart"
 description: Aprende portugués brasileño en Stuttgart con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

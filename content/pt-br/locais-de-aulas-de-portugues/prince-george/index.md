@@ -1,6 +1,6 @@
 ---
 translationKey: location-prince-george
-title: Aprenda português brasileiro em Prince-George | Aulas online
+title: "Aulas online de português brasileiro em Prince"
 description: Descubra a melhor professora particular de português em Prince-George.
 date: '2026-08-05'
 lastmod: '2026-08-05'

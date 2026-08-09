@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-viagens
-title: Portuguese for Travel | Quick Learn Portuguese Course
+title: "Brazilian Portuguese for Travel Confidence"
 description: Learn essential Portuguese phrases for travel to Brazil and Portugal. Practical courses designed for tourists,
   travelers, and vacationers.
 date: '2026-08-05'

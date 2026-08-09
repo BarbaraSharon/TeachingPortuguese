@@ -1,6 +1,6 @@
 ---
 translationKey: location-dubai
-title: Learn Portuguese in Dubai | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Dubai"
 description: Learn Brazilian Portuguese in Dubai with online private and group lessons. Book a free trial lesson with Barbara
   Sharon, a Brazilian Portuguese specialist
 date: '2026-08-05'

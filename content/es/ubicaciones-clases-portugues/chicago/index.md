@@ -1,6 +1,6 @@
 ---
 translationKey: location-chicago
-title: Aprende portugués brasileño en Chicago | Clases en línea
+title: "Clases online de portugués brasileño en Chicago"
 description: Reserva clases de portugués en Chicago con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

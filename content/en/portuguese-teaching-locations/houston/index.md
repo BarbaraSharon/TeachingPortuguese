@@ -1,6 +1,6 @@
 ---
 translationKey: location-houston
-title: Learn Brazilian Portuguese in Houston | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Houston"
 description: Book Portuguese lessons in Houston with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

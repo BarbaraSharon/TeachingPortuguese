@@ -1,6 +1,6 @@
 ---
 translationKey: location-nice
-title: Aprenda português brasileiro em Nice | Aulas online
+title: "Aulas online de português brasileiro em Nice"
 description: Descubra as melhores aulas de português em Nice.
 date: '2026-08-05'
 lastmod: '2026-08-05'

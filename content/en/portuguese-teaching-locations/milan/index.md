@@ -1,6 +1,6 @@
 ---
 translationKey: location-milan
-title: Learn Portuguese in Milan | Online Classes with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Milan"
 description: Book Portuguese lessons in Milan with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-porto
-title: Learn Brazilian Portuguese in Porto | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Porto"
 description: Master Brazilian Portuguese in Porto, Portugal with expert online lessons. Private and group classes tailored
   to your level
 date: '2026-08-05'

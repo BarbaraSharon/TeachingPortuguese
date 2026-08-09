@@ -1,7 +1,6 @@
 ---
 translationKey: location-niagara-falls
-title: Learn Brazilian Portuguese in Niagara-Falls | Online Lessons
- private and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Niagara"
 description: "Discover the best Portuguese tutor in Niagara-Falls."
 date: '2026-08-05'
 lastmod: '2026-08-05'

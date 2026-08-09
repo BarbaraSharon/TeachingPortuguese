@@ -1,7 +1,6 @@
 ---
 translationKey: location-hamilton
-title: Learn Brazilian Portuguese in Hamilton | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Hamilton"
 description: "Discover the best Portuguese tutor in Hamilton."
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-foxwell
-title: Learn Brazilian Portuguese in Foxwell | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Foxwell"
 description: Discover expert Portuguese tutoring in Foxwell, Australia. Get personalized lessons in Surfers Paradise or online
   with Barbara Sharon.
 date: '2026-08-05'

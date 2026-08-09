@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro online com Barbara Sharon em Toulouse
+title: "Aulas online de português brasileiro em Toulouse"
 description: Aprenda português brasileiro online com aulas especializadas de Barbara Sharon em Toulouse.
 date: '2026-08-05'
 lastmod: '2026-08-05'

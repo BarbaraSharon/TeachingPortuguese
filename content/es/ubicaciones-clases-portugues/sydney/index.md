@@ -1,6 +1,6 @@
 ---
 translationKey: location-sydney
-title: Aprende portugués en Sídney | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Sídney"
 description: Reserva clases de portugués en Sídney con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

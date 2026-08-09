@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Gilston | Aulas online particulares e em grupo
- especialista que oferece aulas particulares e online.
+title: "Aulas online de português brasileiro em Gilston"
 description: "Conheça aulas especializadas de português em Gilston."
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-de-portugues
-title: Aulas de Português Online e na Gold Coast | Barbara Sharon
+title: "Aulas de português: formatos e opções"
 description: Aprenda português brasileiro online para todo o mundo ou presencialmente na Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

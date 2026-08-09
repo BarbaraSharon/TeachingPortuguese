@@ -1,6 +1,6 @@
 ---
 translationKey: location-burleigh-heads
-title: Aprenda português em Burleigh Heads | Aulas presenciais e online
+title: "Aulas online de português brasileiro em Burleigh Heads"
 description: Agende aulas de português em Burleigh Heads com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

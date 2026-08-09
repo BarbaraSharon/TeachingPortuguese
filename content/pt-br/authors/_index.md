@@ -1,5 +1,5 @@
 ---
-title: "Sobre a autora"
+title: "Sobre Barbara Sharon, professora de português"
 description: "Conheça Barbara Sharon, fundadora e tutora por trás do Barbarasharon."
 translationKey: authors
 date: 2026-08-06

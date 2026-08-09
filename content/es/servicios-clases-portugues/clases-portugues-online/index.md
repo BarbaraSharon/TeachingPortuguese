@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-online
-title: Clases de portugués en línea en todo el mundo | Particulares y grupales
+title: "Clases de portugués brasileño online"
 description: Aprende portugués brasileño en línea con clases particulares o grupales para todos los niveles, negocios y viajes.
 date: '2026-08-05'
 lastmod: '2026-08-05'

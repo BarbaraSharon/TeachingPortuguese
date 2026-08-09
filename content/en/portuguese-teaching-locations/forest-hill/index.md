@@ -1,6 +1,6 @@
 ---
 translationKey: location-forest-hill
-title: Learn Brazilian Portuguese in Forest Hill | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Forest Hill"
 description: Discover expert Portuguese tutoring in Forest Hill. Learn Brazilian Portuguese with Barbara Sharon - private
   & group lessons, online or in-person
 date: '2026-08-05'

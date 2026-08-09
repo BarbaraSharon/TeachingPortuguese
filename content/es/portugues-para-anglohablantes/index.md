@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-falantes-de-ingles
-title: Portugués para angloparlantes | Aprende portugués brasileño fácilmente
+title: "Portugués para anglohablantes: clases claras"
 description: Aprende portugués brasileño con una profesora que habla inglés. Clases para angloparlantes sobre pronunciación, gramática y matices culturales.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-fredericton
-title: Aprende portugués brasileño en Fredericton | Clases en línea
+title: "Clases online de portugués brasileño en Fredericton"
 description: Descubre una excelente tutora de portugués en Fredericton.
 date: '2026-08-05'
 lastmod: '2026-08-05'

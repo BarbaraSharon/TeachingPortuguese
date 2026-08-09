@@ -1,5 +1,5 @@
 ---
-title: Resumen de metodología
+title: "Resumen del método de enseñanza de portugués"
 url: /es/evidencia-ensenanza/resumen-metodologia/
 date: '2026-08-09'
 lastmod: '2026-08-09'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-singapore
-title: Learn Brazilian Portuguese in Singapore | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Singapore"
 description: Book Portuguese lessons in Singapore with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

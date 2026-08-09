@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin
-title: Aprende portugués brasileño en Currumbin | Clases presenciales y en línea
+title: "Clases online de portugués brasileño en Currumbin"
 description: Reserva clases de portugués en Currumbin con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

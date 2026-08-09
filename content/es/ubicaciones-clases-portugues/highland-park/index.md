@@ -1,6 +1,6 @@
 ---
 translationKey: location-highland-park
-title: Clases de portugués en Highland Park | Barbara Sharon
+title: "Clases online de portugués brasileño en Highland Park"
 description: Reserva clases de portugués en Highland Park con Barbara Sharon y consigue resultados comprobados de mejora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

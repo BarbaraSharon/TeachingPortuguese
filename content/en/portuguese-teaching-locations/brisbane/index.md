@@ -1,6 +1,6 @@
 ---
 translationKey: location-brisbane
-title: Learn Portuguese in Brisbane | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Brisbane"
 description: Online Brazilian Portuguese lessons for learners in Brisbane with Barbara Sharon. In-person lessons are restricted to verified Gold Coast delivery areas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

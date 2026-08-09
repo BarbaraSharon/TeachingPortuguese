@@ -1,6 +1,6 @@
 ---
 translationKey: faq-aprendizagem-portuguesa
-title: Perguntas frequentes sobre português | Tutoria e cursos de idioma
+title: "Dúvidas sobre aulas de português brasileiro"
 description: Encontre respostas para dúvidas comuns sobre aprender português com Barbara Sharon, professora qualificada na Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

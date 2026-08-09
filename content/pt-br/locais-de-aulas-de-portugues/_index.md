@@ -1,7 +1,7 @@
 ---
 translationKey: location-pages
 type: portuguese-teaching-locations
-title: Aprenda português brasileiro com Barbara Sharon | Locais de aulas
+title: "Locais e formatos das aulas de português"
 description: Encontre aulas de português brasileiro presenciais e online com Barbara Sharon, com resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

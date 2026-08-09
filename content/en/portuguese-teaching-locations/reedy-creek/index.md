@@ -1,6 +1,6 @@
 ---
 translationKey: location-reedy-creek
-title: Learn Brazilian Portuguese in Reedy Creek | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Reedy Creek"
 description: Book Portuguese lessons in Reedy Creek with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

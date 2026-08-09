@@ -1,6 +1,6 @@
 ---
 translationKey: location-kingsholme
-title: Portuguese Lessons Kingsholme | Learn Brazilian Portuguese
+title: "Online Brazilian Portuguese Lessons in Kingsholme"
 description: Book Portuguese lessons in Kingsholme with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

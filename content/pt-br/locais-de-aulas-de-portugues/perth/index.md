@@ -1,6 +1,6 @@
 ---
 translationKey: location-perth
-title: Aprenda português brasileiro em Perth | Aulas particulares e online
+title: "Aulas online de português brasileiro em Perth"
 description: Agende aulas de português em Perth com Barbara Sharon e obtenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

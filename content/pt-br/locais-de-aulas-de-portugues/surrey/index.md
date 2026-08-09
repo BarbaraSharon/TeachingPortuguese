@@ -1,6 +1,6 @@
 ---
 translationKey: location-surrey
-title: Aprenda português brasileiro em Surrey | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Surrey"
 description: Descubra a melhor professora particular de português em Surrey.
 date: '2026-08-05'
 lastmod: '2026-08-05'

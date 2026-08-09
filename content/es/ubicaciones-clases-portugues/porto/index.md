@@ -1,6 +1,6 @@
 ---
 translationKey: location-porto
-title: Aprende portugués brasileño en Oporto | Clases en línea
+title: "Clases online de portugués brasileño en Oporto"
 description: Domina el portugués brasileño en Oporto, Portugal, con clases expertas en línea. Clases particulares y grupales adaptadas a tu nivel.
 date: '2026-08-05'
 lastmod: '2026-08-05'

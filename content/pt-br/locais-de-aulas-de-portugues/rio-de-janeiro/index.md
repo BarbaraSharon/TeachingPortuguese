@@ -1,6 +1,6 @@
 ---
 translationKey: location-rio-de-janeiro
-title: Aprenda português brasileiro no Rio de Janeiro | Aulas online
+title: "Aulas online de português brasileiro em Rio de Janeiro"
 description: Agende aulas de português no Rio de Janeiro com Barbara Sharon e obtenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Turim | Aulas online
+title: "Aulas online de português brasileiro em Turim"
 description: Aprenda português brasileiro em Turim com aulas online especializadas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

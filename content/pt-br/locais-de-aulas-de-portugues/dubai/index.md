@@ -1,6 +1,6 @@
 ---
 translationKey: location-dubai
-title: Aprenda português em Dubai | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Dubai"
 description: Aprenda português brasileiro em Dubai com aulas online particulares e em grupo.
 date: '2026-08-05'
 lastmod: '2026-08-05'

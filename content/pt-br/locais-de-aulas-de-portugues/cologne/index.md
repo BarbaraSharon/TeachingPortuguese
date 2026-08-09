@@ -1,6 +1,6 @@
 ---
 translationKey: location-cologne
-title: Aprenda português brasileiro em Colônia | Aulas online
+title: "Aulas online de português brasileiro em Colônia"
 description: Descubra aulas de português de alta qualidade em Colônia com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

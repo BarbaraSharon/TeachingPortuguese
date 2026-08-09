@@ -1,6 +1,6 @@
 ---
 translationKey: location-edinburgh
-title: Learn Brazilian Portuguese in Edinburgh | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Edinburgh"
 description: Book Portuguese lessons in Edinburgh with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

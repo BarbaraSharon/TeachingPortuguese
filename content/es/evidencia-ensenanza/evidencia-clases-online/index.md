@@ -1,5 +1,5 @@
 ---
-title: Evidencia de clases online
+title: "Evidencia del enfoque de clases online"
 url: /es/evidencia-ensenanza/evidencia-clases-online/
 date: '2026-08-09'
 lastmod: '2026-08-09'

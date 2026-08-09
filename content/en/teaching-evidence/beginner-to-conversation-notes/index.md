@@ -1,5 +1,5 @@
 ---
-title: Beginner-to-Conversation Notes
+title: "From Beginner to Conversation: Teaching Notes"
 url: /en/teaching-evidence/beginner-to-conversation-notes/
 date: '2026-08-09'
 lastmod: '2026-08-09'

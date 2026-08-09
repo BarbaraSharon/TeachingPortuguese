@@ -1,6 +1,6 @@
 ---
 translationKey: location-johannesburg
-title: Learn Portuguese in Johannesburg | Online Tutor Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Johannesburg"
 description: Book Portuguese lessons in Johannesburg with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

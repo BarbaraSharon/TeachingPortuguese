@@ -1,6 +1,6 @@
 ---
 translationKey: aprenda-portugues
-title: Aprende portugués con Barbara Sharon | Cursos de idiomas en Gold Coast
+title: "Rutas para aprender portugués con Barbara Sharon"
 description: Aprende portugués con Barbara Sharon, tutora experta en Gold Coast, con clases particulares y grupales. Clases de portugués en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

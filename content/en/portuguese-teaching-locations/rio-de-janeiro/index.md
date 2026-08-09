@@ -1,6 +1,6 @@
 ---
 translationKey: location-rio-de-janeiro
-title: Learn Brazilian Portuguese in Rio de Janeiro | Online Classes
+title: "Online Brazilian Portuguese Lessons in Rio de Janeiro"
 description: Book Portuguese lessons in Rio De Janeiro with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

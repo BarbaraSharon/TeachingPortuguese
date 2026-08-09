@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin-valley
-title: Learn Portuguese in Currumbin Valley | Online & In-Person Lessons
+title: "Online Brazilian Portuguese Lessons in Currumbin Valley"
 description: Learn Brazilian Portuguese in Currumbin Valley with Barbara Sharon. Private and online lessons for beginners
   to advanced learners. Book a free trial today!
 date: '2026-08-05'

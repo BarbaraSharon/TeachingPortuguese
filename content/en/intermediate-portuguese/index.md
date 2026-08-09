@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-intermediario
-title: Intermediate Portuguese Lessons | Barbara Sharon
+title: "Intermediate Brazilian Portuguese Lessons"
 description: Move beyond the basics with intermediate Brazilian Portuguese lessons focused on conversation, vocabulary, grammar, pronunciation, and fluency.
 date: '2026-08-05'
 lastmod: '2026-08-05'

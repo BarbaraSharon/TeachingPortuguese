@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Karlsruhe | Aulas particulares e em grupo
- com opções práticas de conversação, viagem e negócios. Aulas online para todos os níveis.
+title: "Aulas online de português brasileiro em Karlsruhe"
 description: "Aprenda português brasileiro online em Karlsruhe com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

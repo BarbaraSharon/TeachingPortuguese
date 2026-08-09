@@ -1,6 +1,6 @@
 ---
 translationKey: location-regina
-title: Learn Brazilian Portuguese in Regina | Private & Group Online Lessons
+title: "Online Brazilian Portuguese Lessons in Regina"
 description: Discover the best Portuguese tutor in Regina. Book your free trial lesson with Barbara Sharon for online private
   and group lessons. Learn Portuguese today!
 date: '2026-08-05'

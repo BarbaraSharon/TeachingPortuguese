@@ -1,6 +1,6 @@
 ---
 translationKey: location-benowa
-title: Aprenda português brasileiro em Benowa | Aulas particulares e online
+title: "Aulas online de português brasileiro em Benowa"
 description: Agende aulas de português em Benowa com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

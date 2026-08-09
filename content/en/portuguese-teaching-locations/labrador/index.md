@@ -1,6 +1,6 @@
 ---
 translationKey: location-labrador
-title: Learn Brazilian Portuguese in Labrador | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Labrador"
 description: Book Portuguese lessons in Labrador with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

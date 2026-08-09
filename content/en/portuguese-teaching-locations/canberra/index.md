@@ -1,6 +1,6 @@
 ---
 translationKey: location-canberra
-title: Learn Portuguese in Canberra | Native Brazilian Tutor
+title: "Online Brazilian Portuguese Lessons in Canberra"
 description: Book Portuguese lessons in Canberra with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

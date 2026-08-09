@@ -1,6 +1,6 @@
 ---
 translationKey: location-nuremberg
-title: Aprenda português em Nuremberg | Aulas de português brasileiro e europeu
+title: "Aulas online de português brasileiro em Nuremberg"
 description: Aprenda português brasileiro e europeu em Nuremberg com aulas online especializadas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

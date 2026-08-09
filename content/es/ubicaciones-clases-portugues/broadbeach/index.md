@@ -1,6 +1,6 @@
 ---
 translationKey: location-broadbeach
-title: Aprende portugués brasileño en Broadbeach | Clases presenciales y en línea
+title: "Clases online de portugués brasileño en Broadbeach"
 description: Reserva clases de portugués en Broadbeach con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

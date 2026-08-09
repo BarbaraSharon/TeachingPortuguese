@@ -1,6 +1,6 @@
 ---
 translationKey: location-advancetown
-title: Aprenda português brasileiro em Advancetown | Aulas particulares e online
+title: "Aulas online de português brasileiro em Advancetown"
 description: Agende aulas de português em Advancetown com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

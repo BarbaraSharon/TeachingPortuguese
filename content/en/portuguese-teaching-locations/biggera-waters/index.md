@@ -1,6 +1,6 @@
 ---
 translationKey: location-biggera-waters
-title: Learn Portuguese in Biggera Waters | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Biggera Waters"
 description: Discover expert Portuguese lessons in Biggera Waters. Learn Brazilian Portuguese with Barbara Sharon - in-person
   or online. Book a free trial today!
 date: '2026-08-05'

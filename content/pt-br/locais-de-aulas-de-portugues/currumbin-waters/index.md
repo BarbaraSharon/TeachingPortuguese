@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin-waters
-title: Aprenda português em Currumbin Waters | Aulas particulares e online
+title: "Aulas online de português brasileiro em Currumbin Waters"
 description: Descubra aulas especializadas de português brasileiro em Currumbin Waters.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-merrimac
-title: Aprenda português brasileiro em Merrimac | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Merrimac"
 description: Agende aulas de português em Merrimac com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

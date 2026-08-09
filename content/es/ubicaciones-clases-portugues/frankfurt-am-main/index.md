@@ -1,6 +1,6 @@
 ---
 translationKey: location-frankfurt-am-main
-title: Aprende portugués brasileño en Fráncfort del Meno | Clases en línea
+title: "Clases online de portugués brasileño en Fráncfort del Meno"
 description: Aprende portugués en Fráncfort del Meno con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

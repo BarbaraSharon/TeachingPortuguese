@@ -1,6 +1,6 @@
 ---
 translationKey: location-bangalore
-title: Aprenda português em Bangalore | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Bangalore"
 description: Agende aulas de português em Bangalore com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-new-york
-title: Aprenda português brasileiro em Nova York | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Nova York"
 description: Agende aulas de português em Nova York com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

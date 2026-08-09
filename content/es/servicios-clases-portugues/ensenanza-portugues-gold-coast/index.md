@@ -1,6 +1,6 @@
 ---
 translationKey: ensino-de-portugues-gold-coast
-title: Clases presenciales de portugués en Gold Coast | Barbara Sharon
+title: "Clases presenciales de portugués en Gold Coast"
 description: Aprende portugués brasileño con clases particulares o grupales en línea en todo el mundo o presenciales en Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

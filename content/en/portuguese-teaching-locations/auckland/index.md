@@ -1,6 +1,6 @@
 ---
 translationKey: location-auckland
-title: Learn Portuguese in Auckland | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Auckland"
 description: Discover top-rated Portuguese lessons in Auckland with Barbara Sharon. Learn Brazilian Portuguese online through
   private & group lessons
 date: '2026-08-05'

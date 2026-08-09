@@ -1,6 +1,6 @@
 ---
 translationKey: location-munich
-title: Learn Brazilian Portuguese in Munich | Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in Munich"
 description: Book Portuguese lessons in Munich with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

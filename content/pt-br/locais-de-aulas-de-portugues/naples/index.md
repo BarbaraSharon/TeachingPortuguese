@@ -1,6 +1,6 @@
 ---
 translationKey: location-naples
-title: Aprenda português brasileiro em Naples | Tutora particular online
+title: "Aulas online de português brasileiro em Naples"
 description: Aprenda português brasileiro em Naples, Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

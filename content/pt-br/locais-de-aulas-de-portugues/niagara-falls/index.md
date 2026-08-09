@@ -1,6 +1,6 @@
 ---
 translationKey: location-niagara-falls
-title: Aprenda português brasileiro em Niagara Falls | Aulas online
+title: "Aulas online de português brasileiro em Niagara Falls"
 description: Descubra a melhor tutora de português em Niagara Falls.
 date: '2026-08-05'
 lastmod: '2026-08-05'

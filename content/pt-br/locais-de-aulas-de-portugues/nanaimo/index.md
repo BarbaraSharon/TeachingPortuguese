@@ -1,6 +1,6 @@
 ---
 translationKey: location-nanaimo
-title: Aprenda português brasileiro em Nanaimo | Aulas online
+title: "Aulas online de português brasileiro em Nanaimo"
 description: Descubra a melhor tutora de português em Nanaimo.
 date: '2026-08-05'
 lastmod: '2026-08-05'

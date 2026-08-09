@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Lisboa com Barbara Sharon
+title: "Aulas online de português brasileiro em Lisboa"
 description: Agende aulas de português em Lisboa com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

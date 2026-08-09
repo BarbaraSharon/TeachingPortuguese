@@ -1,6 +1,6 @@
 ---
 translationKey: location-nice
-title: Learn Brazilian Portuguese in Nice | Online Classes
+title: "Online Brazilian Portuguese Lessons in Nice"
 description: Discover the best Portuguese lessons in Nice. Private and group classes for all levels. Learn Brazilian Portuguese
   with native speaker Barbara Sharon
 date: '2026-08-05'

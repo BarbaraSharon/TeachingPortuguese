@@ -1,6 +1,6 @@
 ---
 translationKey: location-surfers-paradise
-title: Portuguese Lessons in Surfers Paradise | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Surfers Paradise"
 description: Book Portuguese lessons in Surfers Paradise with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-clear-island-waters
-title: Aprenda português em Clear Island Waters | Aulas particulares e online
+title: "Aulas online de português em Clear Island Waters"
 description: Descubra as melhores aulas de português em Clear Island Waters.
 date: '2026-08-05'
 lastmod: '2026-08-05'

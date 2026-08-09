@@ -1,6 +1,6 @@
 ---
 translationKey: location-gold-coast
-title: Learn Brazilian Portuguese in Gold Coast | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Gold Coast"
 description: Book Portuguese lessons in Gold Coast with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-jose
-title: Aprenda português brasileiro em San Jose | Barbara Sharon
+title: "Aulas online de português brasileiro em San Jose"
 description: Descubra aulas online especializadas de português brasileiro, particulares e em grupo, em San Jose com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

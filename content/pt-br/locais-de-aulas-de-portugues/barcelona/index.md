@@ -1,6 +1,6 @@
 ---
 translationKey: location-barcelona
-title: Aprenda português brasileiro em Barcelona | Aulas online
+title: "Aulas online de português brasileiro em Barcelona"
 description: Aprenda português brasileiro online em Barcelona com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

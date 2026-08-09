@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Houston | Aulas online
+title: "Aulas online de português brasileiro em Houston"
 description: Agende aulas de português em Houston com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

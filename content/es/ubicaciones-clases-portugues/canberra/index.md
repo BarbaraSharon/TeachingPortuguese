@@ -1,6 +1,6 @@
 ---
 translationKey: location-canberra
-title: Aprende portugués en Canberra | Tutora brasileña nativa
+title: "Clases online de portugués brasileño en Canberra"
 description: Reserva clases de portugués en Canberra con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

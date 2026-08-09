@@ -1,6 +1,6 @@
 ---
 translationKey: ensino-de-portugues-gold-coast
-title: Aulas presenciais de português na Gold Coast | Barbara Sharon
+title: "Aulas presenciais de português na Gold Coast"
 description: Aprenda português brasileiro com aulas particulares ou em grupo, online no mundo todo ou presenciais na Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

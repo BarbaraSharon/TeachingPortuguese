@@ -1,6 +1,6 @@
 ---
 translationKey: location-cologne
-title: Aprende portugués brasileño en Colonia | Clases en línea
+title: "Clases online de portugués brasileño en Colonia"
 description: Descubre clases de portugués de máxima calidad en Colonia con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

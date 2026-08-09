@@ -1,6 +1,6 @@
 ---
 translationKey: location-bologna
-title: Aprenda português brasileiro em Bolonha | Aulas online
+title: "Aulas online de português brasileiro em Bolonha"
 description: Descubra as melhores aulas de português em Bolonha com Barbara Sharon. Aulas online particulares e em grupo, para alunos iniciantes a avançados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

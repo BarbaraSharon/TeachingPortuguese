@@ -1,6 +1,6 @@
 ---
 translationKey: angliport
-title: Learn Portuguese with Barbara Sharon - Private & Group Lessons
+title: "AngliPort Rebrand: Learn Portuguese with Barbara"
 description: This page explains the rebranding of AngliPort to Learn Portuguese with Barbara Sharon, including updated website
   and service details.
 date: '2026-08-05'

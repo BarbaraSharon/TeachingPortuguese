@@ -1,6 +1,6 @@
 ---
 translationKey: location-kingsholme
-title: Clases de portugués en Kingsholme | Aprende portugués brasileño
+title: "Clases online de portugués brasileño en Kingsholme"
 description: Reserva clases de portugués en Kingsholme con Barbara Sharon y consigue resultados comprobados de mejora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

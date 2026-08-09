@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Utrecht | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Utrecht"
 description: Aprenda português brasileiro em Utrecht, nos Países Baixos. Aulas online particulares e em grupo com Barbara Sharon para todos os níveis.
 date: '2026-08-05'
 lastmod: '2026-08-05'

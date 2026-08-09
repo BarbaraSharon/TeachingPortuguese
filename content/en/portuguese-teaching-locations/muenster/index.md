@@ -1,6 +1,6 @@
 ---
 translationKey: location-muenster
-title: "Learn Brazilian Portuguese in M\xFCnster | Online Classes"
+title: "Online Brazilian Portuguese Lessons in M\\xFCnster"
 description: "Discover the best Brazilian Portuguese lessons in M\xFCnster. Private and group classes for all levels, with\
   \ a focus on Brazilian Portuguese"
 date: '2026-08-05'

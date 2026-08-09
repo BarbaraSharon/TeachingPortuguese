@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-francisco
-title: Aprende portugués en San Francisco | Clases en línea
+title: "Clases online de portugués brasileño en San Francisco"
 description: Reserva clases de portugués en San Francisco con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

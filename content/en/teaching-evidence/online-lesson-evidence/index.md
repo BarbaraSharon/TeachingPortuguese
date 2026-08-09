@@ -1,5 +1,5 @@
 ---
-title: Online Lesson Evidence
+title: "Online Portuguese Lesson Teaching Approach"
 url: /en/teaching-evidence/online-lesson-evidence/
 date: '2026-08-09'
 lastmod: '2026-08-09'

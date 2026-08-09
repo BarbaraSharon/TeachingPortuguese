@@ -1,6 +1,6 @@
 ---
 translationKey: frases-para-iniciantes
-title: Brazilian Portuguese Beginner Phrases | How Are You in Portuguese
+title: "Brazilian Portuguese Phrases for Beginners"
 description: Most important beginner Brazilian Portuguese phrases for travel and everyday conversations, with simple pronunciation
   to help you communicate from day one.
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: escola-de-portugues-gold-coast
-title: Aulas Presenciais de Português em Grupo na Gold Coast | Barbara Sharon
+title: "Aulas de português em grupo na Gold Coast"
 description: Participe de aulas em grupo de português brasileiro na Gold Coast, para alunos iniciantes a avançados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

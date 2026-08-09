@@ -1,6 +1,6 @@
 ---
 translationKey: location-stockholm
-title: Aprende portugués en Estocolmo | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Estocolmo"
 description: Reserva clases de portugués en Estocolmo con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

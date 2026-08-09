@@ -1,6 +1,6 @@
 ---
 translationKey: location-oslo
-title: Learn Portuguese in Oslo | Online Classes with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Oslo"
 description: Book Portuguese lessons in Oslo with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

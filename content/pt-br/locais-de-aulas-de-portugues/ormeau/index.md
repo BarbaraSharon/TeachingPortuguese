@@ -1,6 +1,6 @@
 ---
 translationKey: location-ormeau
-title: Aprenda português brasileiro em Ormeau | Aulas particulares e online
+title: "Aulas online de português brasileiro em Ormeau"
 description: Aprenda português brasileiro em Ormeau, Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

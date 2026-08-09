@@ -1,6 +1,6 @@
 ---
 translationKey: frases-para-iniciantes
-title: Frases de portugués brasileño para principiantes | Cómo decir «¿cómo estás?» en portugués
+title: "Frases de portugués brasileño para principiantes"
 description: Aprende frases de portugués brasileño para principiantes, viajes y conversaciones cotidianas, con pronunciación sencilla.
 date: '2026-08-05'
 lastmod: '2026-08-05'

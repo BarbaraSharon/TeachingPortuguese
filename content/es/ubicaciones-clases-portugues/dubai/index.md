@@ -1,6 +1,6 @@
 ---
 translationKey: location-dubai
-title: Aprende portugués en Dubái | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Dubái"
 description: Aprende portugués brasileño en Dubái con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-saskatoon
-title: Aprenda português brasileiro em Saskatoon | Aulas online
+title: "Aulas online de português brasileiro em Saskatoon"
 description: Descubra a melhor professora particular de português em Saskatoon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

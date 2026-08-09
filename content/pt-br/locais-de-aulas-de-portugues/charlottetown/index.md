@@ -1,6 +1,6 @@
 ---
 translationKey: location-charlottetown
-title: Aprenda português brasileiro em Charlottetown | Aulas online
+title: "Aulas online de português brasileiro em Charlottetown"
 description: Descubra a melhor professora de português em Charlottetown.
 date: '2026-08-05'
 lastmod: '2026-08-05'

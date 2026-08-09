@@ -1,6 +1,6 @@
 ---
 translationKey: location-brisbane
-title: Aprende portugués en Brisbane | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Brisbane"
 description: Clases de portugués brasileño en línea para estudiantes de Brisbane con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

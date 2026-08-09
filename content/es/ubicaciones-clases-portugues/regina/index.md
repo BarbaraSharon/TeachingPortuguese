@@ -1,6 +1,6 @@
 ---
 translationKey: location-regina
-title: Aprende portugués brasileño en Regina | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Regina"
 description: Descubre una excelente tutora de portugués en Regina.
 date: '2026-08-05'
 lastmod: '2026-08-05'

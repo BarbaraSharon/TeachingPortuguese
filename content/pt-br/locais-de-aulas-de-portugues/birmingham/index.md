@@ -1,6 +1,6 @@
 ---
 translationKey: location-birmingham
-title: Aprenda português em Birmingham | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Birmingham"
 description: Descubra excelentes aulas de português brasileiro em Birmingham.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-coolangatta
-title: Aprenda português brasileiro em Coolangatta | Aulas particulares e online
+title: "Aulas online de português brasileiro em Coolangatta"
 description: Aprenda português brasileiro em Coolangatta com aulas particulares e online.
 date: '2026-08-05'
 lastmod: '2026-08-05'

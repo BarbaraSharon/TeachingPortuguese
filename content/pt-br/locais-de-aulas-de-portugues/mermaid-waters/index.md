@@ -1,6 +1,6 @@
 ---
 translationKey: location-mermaid-waters
-title: 'Aprenda português em Mermaid Waters: aulas particulares e online'
+title: "Aulas online de português brasileiro em Mermaid Waters"
 description: Agende aulas de português em Mermaid Waters com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

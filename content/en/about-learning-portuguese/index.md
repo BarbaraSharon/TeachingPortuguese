@@ -1,6 +1,6 @@
 ---
 translationKey: sobre-aprendizagem-portuguesa
-title: About Learn Portuguese With Barbara Sharon | Portuguese Tutoring
+title: "Meet Barbara Sharon, Portuguese Teacher"
 description: About Barbara Sharon - experienced Portuguese tutor, teacher & language courses based on the Gold Coast. Learn
   Portuguese with a qualified teacher
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-parkside
-title: Aprenda português brasileiro em Parkside | Aulas particulares e online
+title: "Aulas online de português brasileiro em Parkside"
 description: Aprenda português brasileiro em Parkside, Gold Coast com Barbara Sharon. Aulas particulares e em grupo para todos os níveis. Aulas online disponíveis.
 date: '2026-08-05'
 lastmod: '2026-08-05'

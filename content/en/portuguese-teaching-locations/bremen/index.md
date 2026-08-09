@@ -1,7 +1,6 @@
 ---
 translationKey: location-bremen
-title: Learn Brazilian Portuguese in Bremen | Online Private & Group Lessons
- private and group classes tailored to your goals
+title: "Online Brazilian Portuguese Lessons in Bremen"
 description: "Discover the best online Portuguese lessons in Bremen with Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

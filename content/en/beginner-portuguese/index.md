@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-para-iniciantes
-title: Beginner Portuguese Lessons | Barbara Sharon
+title: "Beginner Brazilian Portuguese Lessons"
 description: Start Brazilian Portuguese with practical conversation, pronunciation, vocabulary, grammar, and cultural guidance in private or group lessons.
 date: '2026-08-05'
 lastmod: '2026-08-05'

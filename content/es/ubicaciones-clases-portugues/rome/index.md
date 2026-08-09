@@ -1,6 +1,6 @@
 ---
 translationKey: location-rome
-title: Aprende portugués brasileño en Roma | Clases en línea
+title: "Clases online de portugués brasileño en Roma"
 description: Reserva clases de portugués en Roma con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

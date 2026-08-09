@@ -1,6 +1,6 @@
 ---
 translationKey: location-paris
-title: Learn Brazilian Portuguese in Paris | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Paris"
 description: Book Portuguese lessons in Paris with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

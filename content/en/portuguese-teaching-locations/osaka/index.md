@@ -1,6 +1,6 @@
 ---
 translationKey: location-osaka
-title: Learn Portuguese in Osaka | Online Classes with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Osaka"
 description: Book Portuguese lessons in Osaka with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

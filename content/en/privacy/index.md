@@ -1,6 +1,6 @@
 ---
 translationKey: privacidade
-title: Privacy Policy
+title: "Barbara Sharon Portuguese Lessons Privacy Policy"
 description: Privacy information for Barbara Sharon Portuguese tutoring, including website analytics, contact methods, online lessons, and EU/EEA visitors.
 date: '2026-08-05'
 lastmod: '2026-08-05'

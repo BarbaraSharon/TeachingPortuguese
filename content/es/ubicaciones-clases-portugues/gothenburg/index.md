@@ -1,6 +1,6 @@
 ---
 translationKey: location-gothenburg
-title: Aprende portugués en Gotemburgo | Clases de portugués brasileño
+title: "Clases online de portugués brasileño en Gotemburgo"
 description: Descubre excelentes clases de portugués en Gotemburgo con Barbara Sharon. Aprende portugués en línea con clases particulares y grupales personalizadas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

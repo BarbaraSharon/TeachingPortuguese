@@ -1,6 +1,6 @@
 ---
 translationKey: location-benowa
-title: Aprende portugués brasileño en Benowa | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Benowa"
 description: Reserva clases de portugués en Benowa con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

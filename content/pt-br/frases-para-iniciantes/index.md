@@ -1,6 +1,6 @@
 ---
 translationKey: frases-para-iniciantes
-title: Frases de português brasileiro para iniciantes | Como dizer “como vai?” em português
+title: "Frases de português brasileiro para iniciantes"
 description: Aprenda frases de português brasileiro para iniciantes, viagens e conversas do dia a dia, com pronúncia simples.
 date: '2026-08-05'
 lastmod: '2026-08-05'

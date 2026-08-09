@@ -1,7 +1,6 @@
 ---
 translationKey: location-cedar-creek
-title: Learn Brazilian Portuguese in Cedar Creek | Private & Online Lessons
- Sharon, a Brazilian Portuguese specialist
+title: "Online Brazilian Portuguese Lessons in Cedar Creek"
 description: "Learn Brazilian Portuguese in Cedar Creek with in-person and online lessons."
 date: '2026-08-05'
 lastmod: '2026-08-05'

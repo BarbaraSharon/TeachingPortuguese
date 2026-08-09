@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Heidelberg com Barbara Sharon
- gratuita com Barbara Sharon, professora certificada de português.
+title: "Aulas online de português brasileiro em Heidelberg"
 description: "Aprenda português em Heidelberg com aulas online especializadas, particulares e em grupo."
 date: '2026-08-05'
 lastmod: '2026-08-05'

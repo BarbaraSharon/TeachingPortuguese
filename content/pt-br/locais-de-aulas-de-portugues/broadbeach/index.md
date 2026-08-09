@@ -1,6 +1,6 @@
 ---
 translationKey: location-broadbeach
-title: Aprenda português brasileiro em Broadbeach | Aulas presenciais e online
+title: "Aulas online de português brasileiro em Broadbeach"
 description: Agende aulas de português em Broadbeach com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

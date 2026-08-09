@@ -1,6 +1,6 @@
 ---
 translationKey: location-chilliwack
-title: Aprende portugués brasileño en Chilliwack | Clases en línea
+title: "Clases online de portugués brasileño en Chilliwack"
 description: Descubre una excelente tutora de portugués en Chilliwack.
 date: '2026-08-05'
 lastmod: '2026-08-05'

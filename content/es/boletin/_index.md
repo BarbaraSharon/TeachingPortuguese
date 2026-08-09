@@ -1,6 +1,6 @@
 ---
 translationKey: newsletter
-title: Boletín de Barbara Sharon
+title: "Boletín de portugués y comunidad brasileña"
 description: Noticias, consejos y recursos para aprender portugués brasileño.
 date: '2026-08-05'
 lastmod: '2026-08-05'

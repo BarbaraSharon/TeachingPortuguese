@@ -1,6 +1,6 @@
 ---
 translationKey: location-stuttgart
-title: Learn Brazilian Portuguese in Stuttgart | Online Classes
+title: "Online Brazilian Portuguese Lessons in Stuttgart"
 description: Learn Brazilian Portuguese in Stuttgart with Barbara Sharon. Online private & group lessons for all levels. Connect
   with the Brazilian community
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-mannheim
-title: Aprende portugués en Mannheim | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Mannheim"
 description: Aprende portugués brasileño en Mannheim con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Maudsland | Aulas particulares e online
- Aprenda português com uma professora qualificada.
+title: "Aulas online de português brasileiro em Maudsland"
 description: "Descubra as melhores aulas de português em Maudsland, Gold Coast."
 date: '2026-08-05'
 lastmod: '2026-08-05'

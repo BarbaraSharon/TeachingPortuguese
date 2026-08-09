@@ -1,6 +1,6 @@
 ---
 translationKey: location-hollywell
-title: Learn Brazilian Portuguese in Hollywell | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Hollywell"
 description: Book Portuguese lessons in Hollywell with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

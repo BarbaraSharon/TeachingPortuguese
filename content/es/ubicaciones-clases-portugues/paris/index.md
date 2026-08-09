@@ -1,6 +1,6 @@
 ---
 translationKey: location-paris
-title: Aprende portugués brasileño en París | Clases en línea
+title: "Clases online de portugués brasileño en París"
 description: Reserva clases de portugués en París con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

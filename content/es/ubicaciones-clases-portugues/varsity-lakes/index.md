@@ -1,6 +1,6 @@
 ---
 translationKey: location-varsity-lakes
-title: Aprende portugués brasileño en Varsity Lakes | Clases en línea
+title: "Clases online de portugués brasileño en Varsity Lakes"
 description: Reserva clases de portugués brasileño en Varsity Lakes con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

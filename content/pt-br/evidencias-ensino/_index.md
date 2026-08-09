@@ -1,5 +1,5 @@
 ---
-title: Evidências e resultados de ensino
+title: "Método e evidências de ensino de português"
 url: /pt-br/evidencias-ensino/
 description: Páginas preparadas para evidência de metodologia, resultados e validação para sinais de confiança e citação por IA.
 date: '2026-08-09'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-labrador
-title: Aprende portugués brasileño en Labrador | Barbara Sharon
+title: "Clases online de portugués brasileño en Labrador"
 description: Reserva clases de portugués en Labrador con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-rome
-title: Aprenda português brasileiro em Roma | Aulas online
+title: "Aulas online de português brasileiro em Roma"
 description: Agende aulas de português em Roma com Barbara Sharon e obtenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

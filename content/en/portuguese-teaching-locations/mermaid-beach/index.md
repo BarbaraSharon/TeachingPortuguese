@@ -1,6 +1,6 @@
 ---
 translationKey: location-mermaid-beach
-title: Learn Brazilian Portuguese in Mermaid Beach | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Mermaid Beach"
 description: Book Portuguese lessons in Mermaid Beach with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

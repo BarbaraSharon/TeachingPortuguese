@@ -1,6 +1,6 @@
 ---
 translationKey: location-abu-dhabi
-title: Aprenda português brasileiro em Abu Dhabi | Aulas online
+title: "Aulas online de português brasileiro em Abu Dhabi"
 description: Agende aulas de português em Abu Dhabi com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

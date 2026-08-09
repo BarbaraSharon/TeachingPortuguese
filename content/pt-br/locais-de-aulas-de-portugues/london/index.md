@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Londres | Aulas particulares e em grupo
+title: "Aulas online de português brasileiro em Londres"
 description: Agende aulas de português em Londres com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

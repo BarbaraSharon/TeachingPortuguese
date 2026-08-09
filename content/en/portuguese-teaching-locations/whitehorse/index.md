@@ -1,7 +1,6 @@
 ---
 translationKey: location-whitehorse
-title: Learn Brazilian Portuguese in Whitehorse | Online Lessons
- private and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Whitehorse"
 description: "Discover the best Portuguese tutor in Whitehorse."
 date: '2026-08-05'
 lastmod: '2026-08-05'

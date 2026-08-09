@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-intermediario
-title: Clases de portugués intermedio | Barbara Sharon
+title: "Clases de portugués intermedio para avanzar"
 description: Ve más allá de lo básico con clases de portugués brasileño intermedio centradas en conversación, vocabulario, gramática, pronunciación y fluidez.
 date: '2026-08-05'
 lastmod: '2026-08-05'

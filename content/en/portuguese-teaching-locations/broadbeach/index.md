@@ -1,6 +1,6 @@
 ---
 translationKey: location-broadbeach
-title: Learn Brazilian Portuguese in Broadbeach | In-person & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Broadbeach"
 description: Book Portuguese lessons in Broadbeach with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

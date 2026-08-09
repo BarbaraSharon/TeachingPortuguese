@@ -1,6 +1,6 @@
 ---
 translationKey: location-saint-john
-title: Learn Brazilian Portuguese in Saint-John | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Saint"
 description: Book online Portuguese lessons with Barbara Sharon in Saint-John. Private & group classes for all levels. Free
   trial lesson available!
 date: '2026-08-05'

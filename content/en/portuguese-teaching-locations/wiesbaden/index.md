@@ -1,6 +1,6 @@
 ---
 translationKey: location-wiesbaden
-title: Learn Portuguese in Wiesbaden | Online Classes with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Wiesbaden"
 description: Learn Brazilian Portuguese in Wiesbaden with Barbara Sharon. Online classes for all levels, connecting you with
   the growing Brazilian community
 date: '2026-08-05'

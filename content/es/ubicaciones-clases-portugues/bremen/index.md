@@ -1,6 +1,6 @@
 ---
 translationKey: location-bremen
-title: Aprende portugués brasileño en Bremen | Clases en línea
+title: "Clases online de portugués brasileño en Bremen"
 description: Reserva clases de portugués brasileño en Bremen con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

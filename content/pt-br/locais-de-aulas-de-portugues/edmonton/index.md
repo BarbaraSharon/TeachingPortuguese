@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Edmonton | Aulas online particulares e em grupo
- aulas online particulares e em grupo. Aprenda português hoje!
+title: "Aulas online de português brasileiro em Edmonton"
 description: "Encontre a melhor professora de português em Edmonton."
 date: '2026-08-05'
 lastmod: '2026-08-05'

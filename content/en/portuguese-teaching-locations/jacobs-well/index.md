@@ -1,7 +1,6 @@
 ---
 translationKey: location-jacobs-well
-title: Learn Brazilian Portuguese in Jacobs Well | Online Lessons
- to advanced learners. Start your journey today!
+title: "Online Brazilian Portuguese Lessons in Jacobs Well"
 description: "Learn Brazilian Portuguese in Jacobs Well with Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-seville
-title: Online Portuguese Lessons in Seville | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Seville"
 description: Learn Brazilian Portuguese online from Seville with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

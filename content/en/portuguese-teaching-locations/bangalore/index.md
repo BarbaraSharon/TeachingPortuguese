@@ -1,6 +1,6 @@
 ---
 translationKey: location-bangalore
-title: Learn Portuguese in Bangalore | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Bangalore"
 description: Book Portuguese lessons in Bangalore with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

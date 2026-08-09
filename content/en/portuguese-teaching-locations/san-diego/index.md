@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-diego
-title: Learn Brazilian Portuguese in San Diego | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in San Diego"
 description: Learn Brazilian Portuguese in San Diego with Barbara Sharon. Online private & group classes. Master conversational
   Portuguese with expert tutor
 date: '2026-08-05'

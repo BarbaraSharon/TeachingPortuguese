@@ -1,6 +1,6 @@
 ---
 translationKey: location-porto
-title: Aprenda português brasileiro no Porto | Aulas online
+title: "Aulas online de português brasileiro em Porto"
 description: Domine o português brasileiro no Porto, Portugal, com aulas online especializadas. Aulas particulares e em grupo adaptadas ao seu nível.
 date: '2026-08-05'
 lastmod: '2026-08-05'

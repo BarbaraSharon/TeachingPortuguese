@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Vernon | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Vernon"
 description: Descubra a melhor tutora de português em Vernon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

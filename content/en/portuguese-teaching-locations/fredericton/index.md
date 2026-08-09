@@ -1,7 +1,6 @@
 ---
 translationKey: location-fredericton
-title: Learn Brazilian Portuguese in Fredericton | Online Lessons
- private and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Fredericton"
 description: "Discover the best Portuguese tutor in Fredericton."
 date: '2026-08-05'
 lastmod: '2026-08-05'

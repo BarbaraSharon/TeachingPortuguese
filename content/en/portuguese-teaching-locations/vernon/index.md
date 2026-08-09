@@ -1,6 +1,6 @@
 ---
 translationKey: location-vernon
-title: Learn Brazilian Portuguese in Vernon | Private & Group Online Lessons
+title: "Online Brazilian Portuguese Lessons in Vernon"
 description: Discover the best Portuguese tutor in Vernon. Book your free trial lesson with Barbara Sharon for online private
   and group lessons. Learn Portuguese today!
 date: '2026-08-05'

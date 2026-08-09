@@ -1,6 +1,6 @@
 ---
 translationKey: location-zurich
-title: Learn Brazilian Portuguese in Zurich | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Zurich"
 description: Book Portuguese lessons in Zurich with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

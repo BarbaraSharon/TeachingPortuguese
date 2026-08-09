@@ -1,6 +1,6 @@
 ---
 translationKey: location-salzburg
-title: Aprenda português em Salzburgo | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Salzburgo"
 description: Domine o português em Salzburgo com aulas online.
 date: '2026-08-05'
 lastmod: '2026-08-05'

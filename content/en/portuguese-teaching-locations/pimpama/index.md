@@ -1,6 +1,6 @@
 ---
 translationKey: location-pimpama
-title: Brazilian Portuguese Lessons in Pimpama | Learn with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Pimpama"
 description: Book Portuguese lessons in Pimpama with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

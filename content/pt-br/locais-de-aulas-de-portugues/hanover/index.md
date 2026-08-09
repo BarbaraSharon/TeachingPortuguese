@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Hanover | Aulas online
- e em grupo para todos os níveis. Comece sua jornada hoje!
+title: "Aulas online de português brasileiro em Hanover"
 description: "Descubra as melhores aulas de português online em Hanover com a professora nativa Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

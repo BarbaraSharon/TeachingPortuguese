@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-jose
-title: Learn Brazilian Portuguese in San Jose | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in San Jose"
 description: Discover expert online private and group Brazilian Portuguese lessons in San Jose from Barbara Sharon. Learn
   conversational skills & cultural context
 date: '2026-08-05'

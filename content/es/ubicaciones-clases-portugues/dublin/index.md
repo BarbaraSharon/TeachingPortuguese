@@ -1,6 +1,6 @@
 ---
 translationKey: location-dublin
-title: Aprende portugués en Dublín | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Dublín"
 description: Reserva clases de portugués en Dublín con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

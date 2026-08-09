@@ -1,6 +1,6 @@
 ---
 translationKey: newsletter
-title: "Cheers to Portuguese | Arquivo da newsletter"
+title: "Newsletter de português e cultura brasileira"
 description: "Explore o arquivo da newsletter Cheers to Portuguese: português brasileiro, cultura, conversação e comunidade com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

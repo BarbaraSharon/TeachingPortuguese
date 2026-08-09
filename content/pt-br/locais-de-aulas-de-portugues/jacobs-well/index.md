@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Jacobs Well | Aulas online
- a alunos avançados. Comece sua jornada hoje!
+title: "Aulas online de português brasileiro em Jacobs Well"
 description: "Aprenda português brasileiro em Jacobs Well com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

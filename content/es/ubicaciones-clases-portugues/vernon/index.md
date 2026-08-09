@@ -1,6 +1,6 @@
 ---
 translationKey: location-vernon
-title: Aprende portugués brasileño en Vernon | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Vernon"
 description: Descubre una excelente tutora de portugués en Vernon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

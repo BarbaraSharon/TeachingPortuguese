@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin-waters
-title: Aprende portugués en Currumbin Waters | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Currumbin Waters"
 description: Descubre clases expertas de portugués brasileño en Currumbin Waters.
 date: '2026-08-05'
 lastmod: '2026-08-05'

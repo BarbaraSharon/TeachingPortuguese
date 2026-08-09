@@ -1,7 +1,6 @@
 ---
 translationKey: location-ikaluit
-title: Learn Brazilian Portuguese in Ikaluit | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Ikaluit"
 description: "Discover the best Portuguese tutor in Ikaluit."
 date: '2026-08-05'
 lastmod: '2026-08-05'

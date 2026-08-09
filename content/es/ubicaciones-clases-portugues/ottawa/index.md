@@ -1,6 +1,6 @@
 ---
 translationKey: location-ottawa
-title: Aprende portugués brasileño en Ottawa | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Ottawa"
 description: Descubre una excelente tutora de portugués en Ottawa.
 date: '2026-08-05'
 lastmod: '2026-08-05'

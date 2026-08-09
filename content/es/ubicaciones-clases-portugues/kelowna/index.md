@@ -1,6 +1,6 @@
 ---
 translationKey: location-kelowna
-title: Aprende portugués brasileño en Kelowna | Clases en línea
+title: "Clases online de portugués brasileño en Kelowna"
 description: Descubre la mejor tutora de portugués en Kelowna.
 date: '2026-08-05'
 lastmod: '2026-08-05'

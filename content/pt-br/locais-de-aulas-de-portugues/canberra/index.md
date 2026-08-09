@@ -1,6 +1,6 @@
 ---
 translationKey: location-canberra
-title: Aprenda português em Canberra | Professora brasileira nativa
+title: "Aulas online de português brasileiro em Canberra"
 description: Agende aulas de português em Canberra com Barbara Sharon e tenha resultados comprovados de evolução rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

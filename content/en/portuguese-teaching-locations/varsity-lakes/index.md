@@ -1,6 +1,6 @@
 ---
 translationKey: location-varsity-lakes
-title: Learn Brazilian Portuguese in Varsity Lakes | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Varsity Lakes"
 description: Book Portuguese lessons in Varsity Lakes with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

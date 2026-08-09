@@ -1,6 +1,6 @@
 ---
 translationKey: location-yellowknife
-title: Aprende portugués brasileño en Yellowknife | Clases en línea
+title: "Clases online de portugués brasileño en Yellowknife"
 description: Tutora de portugués en Yellowknife. Clase de prueba gratuita con Barbara Sharon para clases particulares y grupales de portugués en línea. ¡Aprende hoy!
 date: '2026-08-05'
 lastmod: '2026-08-05'

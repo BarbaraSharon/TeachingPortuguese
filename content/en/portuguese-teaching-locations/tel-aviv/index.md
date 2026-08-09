@@ -1,6 +1,6 @@
 ---
 translationKey: location-tel-aviv
-title: Learn Portuguese in Tel Aviv | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Tel Aviv"
 description: Book Portuguese lessons in Tel Aviv with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

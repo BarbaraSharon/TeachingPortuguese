@@ -1,6 +1,6 @@
 ---
 translationKey: location-berlin
-title: Learn Brazilian Portuguese in Berlin | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Berlin"
 description: Book Portuguese lessons in Berlin with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

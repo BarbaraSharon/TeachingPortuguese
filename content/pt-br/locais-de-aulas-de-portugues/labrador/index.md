@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Labrador | Barbara Sharon
+title: "Aulas online de português brasileiro em Labrador"
 description: Agende aulas de português em Labrador com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-bristol
-title: Aprende portugués en Bristol | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Bristol"
 description: Reserva clases de portugués en Bristol con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

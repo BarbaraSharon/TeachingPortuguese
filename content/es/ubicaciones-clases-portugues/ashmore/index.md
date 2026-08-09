@@ -1,6 +1,6 @@
 ---
 translationKey: location-ashmore
-title: Clases de portugués brasileño para estudiantes de Ashmore | Barbara Sharon
+title: "Clases online de portugués brasileño en Ashmore"
 description: Clases de portugués brasileño para estudiantes de Ashmore, en Gold Coast.
 date: '2026-08-05'
 lastmod: '2026-08-05'

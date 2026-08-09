@@ -1,6 +1,6 @@
 ---
 translationKey: location-mumbai
-title: Learn Brazilian Portuguese in Mumbai | Online Classes
+title: "Online Brazilian Portuguese Lessons in Mumbai"
 description: Book Portuguese lessons in Mumbai with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

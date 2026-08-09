@@ -1,7 +1,7 @@
 ---
 lastmod: '2026-08-05'
 translationKey: home
-title: Aprenda português com Barbara Sharon
+title: "Aprenda português com Barbara Sharon"
 summary: "Aprenda português brasileiro com Barbara Sharon - aulas particulares, ensino e cursos de idiomas na Gold Coast."
 description: "Aprenda português brasileiro com Barbara Sharon - aulas particulares, ensino e cursos de idiomas na Gold Coast."
 type: landing

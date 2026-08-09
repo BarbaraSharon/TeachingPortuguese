@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Brisbane | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Brisbane"
 description: Aulas online de português brasileiro para alunos em Brisbane com Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

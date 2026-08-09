@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Winnipeg | Aulas online
+title: "Aulas online de português brasileiro em Winnipeg"
 description: Descubra a melhor tutora de português em Winnipeg.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-broadbeach-waters
-title: Learn Portuguese with Barbara Sharon | In-person & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Broadbeach Waters"
 description: Book Portuguese lessons in Broadbeach Waters with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

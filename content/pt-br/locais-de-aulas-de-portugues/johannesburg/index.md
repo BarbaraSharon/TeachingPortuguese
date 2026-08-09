@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Johannesburg | Tutora online Barbara Sharon
+title: "Aulas online de português brasileiro em Johannesburg"
 description: Agende aulas de português em Johannesburg com Barbara Sharon e obtenha resultados comprovados de progresso rápido.
 date: '2026-08-05'
 lastmod: '2026-08-05'

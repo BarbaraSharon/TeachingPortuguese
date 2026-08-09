@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Edinburgh | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Edinburgh"
 description: Agende aulas de português em Edinburgh com Barbara Sharon e obtenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

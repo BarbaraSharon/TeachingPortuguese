@@ -1,6 +1,6 @@
 ---
 translationKey: location-montreal
-title: Aprenda português brasileiro em Montreal | Aulas e tutoria online
+title: "Aulas online de português brasileiro em Montreal"
 description: Aprenda português brasileiro em Montreal com aulas online especializadas.
 date: '2026-08-05'
 lastmod: '2026-08-05'

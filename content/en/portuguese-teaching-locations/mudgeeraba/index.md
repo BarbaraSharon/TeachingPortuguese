@@ -1,6 +1,6 @@
 ---
 translationKey: location-mudgeeraba
-title: Learn Brazilian Portuguese in Mudgeeraba | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Mudgeeraba"
 description: Book Portuguese lessons in Mudgeeraba with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-forest-hill
-title: Aprende portugués brasileño en Forest Hill | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Forest Hill"
 description: 'Descubre tutoría experta de portugués en Forest Hill.'
 date: '2026-08-05'
 lastmod: '2026-08-05'

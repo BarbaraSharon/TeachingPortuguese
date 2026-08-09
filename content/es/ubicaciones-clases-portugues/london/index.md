@@ -1,6 +1,6 @@
 ---
 translationKey: location-london
-title: Aprende portugués brasileño en Londres | Clases particulares y grupales
+title: "Clases online de portugués brasileño en Londres"
 description: Reserva clases de portugués en Londres con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

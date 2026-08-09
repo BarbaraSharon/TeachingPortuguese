@@ -1,6 +1,6 @@
 ---
 translationKey: location-eindhoven
-title: Learn Brazilian Portuguese in Eindhoven | Online Classes
+title: "Online Brazilian Portuguese Lessons in Eindhoven"
 description: Discover the best Portuguese lessons in Eindhoven with Barbara Sharon. Online private and group classes for beginners
   to advanced learners
 date: '2026-08-05'

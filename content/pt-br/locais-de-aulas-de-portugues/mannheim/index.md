@@ -1,6 +1,5 @@
 ---
-title: Aprenda português em Mannheim | Aulas online com Barbara Sharon
- Conecte-se com a vibrante comunidade brasileira.
+title: "Aulas online de português brasileiro em Mannheim"
 description: "Aprenda português brasileiro em Mannheim com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

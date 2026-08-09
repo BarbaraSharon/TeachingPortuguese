@@ -1,6 +1,6 @@
 ---
 translationKey: location-biggera-waters
-title: Aprenda português em Biggera Waters | Aulas particulares e online
+title: "Aulas online de português brasileiro em Biggera Waters"
 description: Descubra aulas especializadas de português em Biggera Waters.
 date: '2026-08-05'
 lastmod: '2026-08-05'

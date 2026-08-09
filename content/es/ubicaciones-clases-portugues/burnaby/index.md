@@ -1,6 +1,6 @@
 ---
 translationKey: location-burnaby
-title: Aprende portugués brasileño en Burnaby | Clases en línea
+title: "Clases online de portugués brasileño en Burnaby"
 description: Descubre a la mejor profesora de portugués en Burnaby.
 date: '2026-08-05'
 lastmod: '2026-08-05'

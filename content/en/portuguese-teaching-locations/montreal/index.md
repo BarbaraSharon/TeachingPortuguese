@@ -1,6 +1,6 @@
 ---
 translationKey: location-montreal
-title: Learn Brazilian Portuguese in Montreal | Online Lessons & Tutoring
+title: "Online Brazilian Portuguese Lessons in Montreal"
 description: Learn Brazilian Portuguese in Montreal with expert online lessons. Private and group classes for all levels.
   Connect with the Brazilian-speaking community
 date: '2026-08-05'

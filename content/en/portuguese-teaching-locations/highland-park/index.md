@@ -1,6 +1,6 @@
 ---
 translationKey: location-highland-park
-title: Portuguese Lessons in Highland Park | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Highland Park"
 description: Book Portuguese lessons in Highland Park with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

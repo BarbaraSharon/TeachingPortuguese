@@ -1,6 +1,6 @@
 ---
 translationKey: location-nuremberg
-title: Learn Portuguese in Nuremberg | Brazilian & European Lessons
+title: "Online Brazilian Portuguese Lessons in Nuremberg"
 description: Learn Brazilian & European Portuguese in Nuremberg with expert online lessons. Private and group classes for
   all levels. Start your journey today!
 date: '2026-08-05'

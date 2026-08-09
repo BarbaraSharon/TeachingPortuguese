@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Glasgow | Aulas online particulares e em grupo
- por uma especialista, para todos os níveis. Comece hoje sua jornada!
+title: "Aulas online de português brasileiro em Glasgow"
 description: "Conheça as melhores aulas de português em Glasgow com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

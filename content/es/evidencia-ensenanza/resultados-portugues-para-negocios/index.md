@@ -1,5 +1,5 @@
 ---
-title: Resultados de portugués para negocios
+title: "Resultados de aprendizaje en portugués de negocios"
 url: /es/evidencia-ensenanza/resultados-portugues-para-negocios/
 date: '2026-08-09'
 lastmod: '2026-08-09'

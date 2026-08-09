@@ -1,6 +1,6 @@
 ---
 translationKey: location-kingscliff
-title: Aprende portugués brasileño en Kingscliff con Barbara Sharon
+title: "Clases online de portugués brasileño en Kingscliff"
 description: Aprende portugués brasileño en Kingscliff con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

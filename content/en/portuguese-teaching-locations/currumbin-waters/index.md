@@ -1,7 +1,6 @@
 ---
 translationKey: location-currumbin-waters
-title: Learn Portuguese in Currumbin Waters | Private & Online Lessons
- a certified tutor specializing in online and in-person classes
+title: "Online Brazilian Portuguese Lessons in Currumbin Waters"
 description: "Discover expert Brazilian Portuguese lessons in Currumbin Waters."
 date: '2026-08-05'
 lastmod: '2026-08-05'

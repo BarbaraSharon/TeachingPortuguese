@@ -1,6 +1,6 @@
 ---
 translationKey: location-quebec-city
-title: Aprende portugués brasileño en Quebec-City | Clases en línea
+title: "Clases online de portugués brasileño en Quebec"
 description: Descubre una excelente tutora de portugués en Quebec-City.
 date: '2026-08-05'
 lastmod: '2026-08-05'

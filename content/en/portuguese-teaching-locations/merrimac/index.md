@@ -1,6 +1,6 @@
 ---
 translationKey: location-merrimac
-title: Learn Brazilian Portuguese in Merrimac | Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in Merrimac"
 description: Book Portuguese lessons in Merrimac with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

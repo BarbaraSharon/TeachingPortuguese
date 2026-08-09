@@ -1,6 +1,6 @@
 ---
 translationKey: location-adelaide
-title: Learn Brazilian Portuguese in Adelaide | Online & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Adelaide"
 description: Book Portuguese lessons in Adelaide with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

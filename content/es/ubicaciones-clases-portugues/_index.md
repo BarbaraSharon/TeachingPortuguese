@@ -1,6 +1,6 @@
 ---
 translationKey: location-pages
-title: Aprende portugués brasileño con Barbara Sharon | Ubicaciones y clases
+title: "Ubicaciones y formatos de clases de portugués"
 description: Descubre clases particulares y grupales de portugués brasileño con Barbara Sharon, disponibles en línea para estudiantes de todo el mundo.
 date: '2026-08-05'
 lastmod: '2026-08-05'

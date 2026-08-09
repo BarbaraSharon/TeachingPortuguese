@@ -1,6 +1,6 @@
 ---
 translationKey: location-burleigh-waters
-title: Learn Portuguese in Burleigh Waters | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Burleigh Waters"
 description: Discover expert Brazilian Portuguese lessons in Burleigh Waters. Learn with Barbara Sharon - private & online
   classes. Start your journey today!
 date: '2026-08-05'

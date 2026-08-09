@@ -1,6 +1,6 @@
 ---
 translationKey: location-cape-town
-title: Learn Portuguese in Cape Town | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Cape Town"
 description: Book Portuguese lessons in Cape Town with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

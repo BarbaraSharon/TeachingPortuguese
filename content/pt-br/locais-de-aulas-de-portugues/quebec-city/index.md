@@ -1,6 +1,6 @@
 ---
 translationKey: location-quebec-city
-title: Aprenda português brasileiro em Quebec-City | Aulas online
+title: "Aulas online de português brasileiro em Quebec"
 description: Descubra a melhor professora particular de português em Quebec-City.
 date: '2026-08-05'
 lastmod: '2026-08-05'

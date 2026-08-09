@@ -1,6 +1,6 @@
 ---
 translationKey: location-san-diego
-title: Aprende portugués brasileño en San Diego | Barbara Sharon
+title: "Clases online de portugués brasileño en San Diego"
 description: Aprende portugués brasileño en San Diego con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

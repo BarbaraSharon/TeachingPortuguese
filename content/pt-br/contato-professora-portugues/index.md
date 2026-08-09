@@ -1,6 +1,6 @@
 ---
 translationKey: contato-professora-portugues
-title: Fale com Barbara Sharon - Professora de Português Brasileiro
+title: "Fale com Barbara Sharon sobre aulas de português"
 description: Fale com Barbara Sharon sobre aulas particulares, ensino e cursos de português.
 date: '2026-08-05'
 lastmod: '2026-08-05'

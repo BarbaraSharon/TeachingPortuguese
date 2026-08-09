@@ -1,6 +1,6 @@
 ---
 translationKey: location-coolangatta
-title: Aprende portugués brasileño en Coolangatta | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Coolangatta"
 description: Aprende portugués brasileño en Coolangatta con clases particulares y en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

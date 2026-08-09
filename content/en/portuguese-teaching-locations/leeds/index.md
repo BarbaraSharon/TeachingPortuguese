@@ -1,6 +1,6 @@
 ---
 translationKey: location-leeds
-title: Learn Brazilian Portuguese in Leeds | Online Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in Leeds"
 description: Discover the best Portuguese lessons in Leeds. Learn Brazilian and European Portuguese with Barbara Sharon -
   online classes for all levels
 date: '2026-08-05'

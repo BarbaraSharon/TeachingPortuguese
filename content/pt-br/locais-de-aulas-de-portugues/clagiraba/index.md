@@ -1,6 +1,6 @@
 ---
 translationKey: location-clagiraba
-title: Aprenda português brasileiro em Clagiraba | Aulas particulares e online
+title: "Aulas online de português brasileiro em Clagiraba"
 description: Descubra aulas especializadas de português em Clagiraba.
 date: '2026-08-05'
 lastmod: '2026-08-05'

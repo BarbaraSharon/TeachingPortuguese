@@ -1,6 +1,6 @@
 ---
 translationKey: location-coombabah
-title: Learn Brazilian Portuguese in Coombabah | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Coombabah"
 description: Discover the best Portuguese lessons in Coombabah with Barbara Sharon. In-person and online classes for all levels.
   Start your journey today!
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-washington-dc
-title: Aprende portugués brasileño en Washington DC | Clases en línea
+title: "Clases online de portugués brasileño en Washington DC"
 description: Aprende portugués brasileño en Washington DC con Barbara Sharon. Clases en línea para todos los niveles. Conecta con la creciente comunidad brasileña.
 date: '2026-08-05'
 lastmod: '2026-08-05'

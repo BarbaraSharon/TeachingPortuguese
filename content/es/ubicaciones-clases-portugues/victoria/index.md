@@ -1,6 +1,6 @@
 ---
 translationKey: location-victoria
-title: Aprende portugués brasileño en Victoria | Clases en línea
+title: "Clases online de portugués brasileño en Victoria"
 description: Descubre la mejor tutora de portugués en Victoria.
 date: '2026-08-05'
 lastmod: '2026-08-05'

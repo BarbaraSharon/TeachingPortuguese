@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Málaga | Aulas online
+title: "Aulas online de português brasileiro em Málaga"
 description: Descubra as melhores aulas de português em Málaga. Aprenda online com Barbara Sharon, uma professora qualificada que
   conecta estudantes à cultura lusófona.
 date: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-prince-george
-title: Aprende portugués brasileño en Prince-George | Clases en línea
+title: "Clases online de portugués brasileño en Prince"
 description: Descubre una excelente tutora de portugués en Prince-George.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-basel
-title: Aprenda português em Basel | Aulas online com Barbara Sharon
+title: "Aulas online de português brasileiro em Basel"
 description: Descubra as melhores aulas de português em Basel.
 date: '2026-08-05'
 lastmod: '2026-08-05'

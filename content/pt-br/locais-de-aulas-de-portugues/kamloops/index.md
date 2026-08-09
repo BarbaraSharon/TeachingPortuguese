@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Kamloops | Aulas online
- aulas online particulares e em grupo. Aprenda português hoje!
+title: "Aulas online de português brasileiro em Kamloops"
 description: "Encontre a melhor professora de português em Kamloops."
 date: '2026-08-05'
 lastmod: '2026-08-05'

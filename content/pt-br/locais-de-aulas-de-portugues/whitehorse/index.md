@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Whitehorse | Aulas online
+title: "Aulas online de português brasileiro em Whitehorse"
 description: Descubra a melhor tutora de português em Whitehorse.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,7 +1,6 @@
 ---
 translationKey: location-bundall
-title: Learn Brazilian Portuguese in Bundall | Private & Online Lessons
- specialist offering private & online lessons
+title: "Online Brazilian Portuguese Lessons in Bundall"
 description: "Discover the best Portuguese tutor in Bundall."
 date: '2026-08-05'
 lastmod: '2026-08-05'

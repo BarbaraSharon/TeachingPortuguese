@@ -1,6 +1,6 @@
 ---
 translationKey: location-rio-de-janeiro
-title: Aprende portugués brasileño en Río de Janeiro | Clases en línea
+title: "Clases online de portugués brasileño en Río de Janeiro"
 description: Reserva clases de portugués en Río de Janeiro con Barbara Sharon y consigue resultados comprobados de mejora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

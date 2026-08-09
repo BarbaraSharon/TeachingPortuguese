@@ -1,7 +1,6 @@
 ---
 translationKey: location-guanaba
-title: Learn Brazilian Portuguese in Guanaba | Private & Group Lessons
- Barbara Sharon, a Brazilian Portuguese specialist
+title: "Online Brazilian Portuguese Lessons in Guanaba"
 description: "Learn Brazilian Portuguese in Guanaba with online and in-person private lessons."
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,7 +1,6 @@
 ---
 translationKey: location-nanaimo
-title: Learn Brazilian Portuguese in Nanaimo | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Nanaimo"
 description: "Discover the best Portuguese tutor in Nanaimo."
 date: '2026-08-05'
 lastmod: '2026-08-05'

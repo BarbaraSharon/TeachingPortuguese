@@ -1,6 +1,6 @@
 ---
 translationKey: location-cedar-creek
-title: Aprende portugués brasileño en Cedar Creek | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Cedar Creek"
 description: Aprende portugués brasileño en Cedar Creek con clases presenciales y en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

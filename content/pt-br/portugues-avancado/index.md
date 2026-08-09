@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-avancado
-title: Aulas de Português Avançado | Barbara Sharon
+title: "Aulas de português avançado para progredir"
 description: Aperfeiçoe sua fluência em português brasileiro com aulas avançadas de conversação, pronúncia, gramática e nuances culturais.
 date: '2026-08-05'
 lastmod: '2026-08-05'

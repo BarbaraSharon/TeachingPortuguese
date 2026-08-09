@@ -1,6 +1,6 @@
 ---
 translationKey: location-kingston
-title: Aprende portugués brasileño en Kingston | Clases en línea
+title: "Clases online de portugués brasileño en Kingston"
 description: Descubre una excelente tutora de portugués en Kingston.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,7 +1,6 @@
 ---
 translationKey: location-kelowna
-title: Learn Brazilian Portuguese in Kelowna | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Kelowna"
 description: "Discover the best Portuguese tutor in Kelowna."
 date: '2026-08-05'
 lastmod: '2026-08-05'

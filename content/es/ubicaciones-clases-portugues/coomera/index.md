@@ -1,6 +1,6 @@
 ---
 translationKey: location-coomera
-title: Aprende portugués en Coomera | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Coomera"
 description: Reserva clases de portugués en Coomera con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

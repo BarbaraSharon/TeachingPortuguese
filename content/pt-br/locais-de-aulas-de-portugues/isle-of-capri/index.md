@@ -1,5 +1,5 @@
 ---
-title: 'Aprenda português em Isle of Capri: aulas online e presenciais'
+title: "Aulas online de português brasileiro em Isle of Capri"
 description: Conheça aulas de português em Isle of Capri. Aprenda português brasileiro online e presencialmente com a professora
   especializada Barbara Sharon.
 date: '2026-08-05'

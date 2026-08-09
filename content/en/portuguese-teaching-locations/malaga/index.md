@@ -1,6 +1,6 @@
 ---
 translationKey: location-malaga
-title: Learn Brazilian Portuguese in Malaga | Online Classes
+title: "Online Brazilian Portuguese Lessons in Malaga"
 description: Discover the best Portuguese lessons in Malaga. Learn online with Barbara Sharon, a qualified tutor connecting
   learners with Lusophone culture.
 date: '2026-08-05'

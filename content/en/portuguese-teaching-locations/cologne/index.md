@@ -1,7 +1,6 @@
 ---
 translationKey: location-cologne
-title: Learn Brazilian Portuguese in Cologne | Online Lessons
- instruction and flexible private/group classes
+title: "Online Brazilian Portuguese Lessons in Cologne"
 description: "Discover top-quality Portuguese lessons in Cologne with Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

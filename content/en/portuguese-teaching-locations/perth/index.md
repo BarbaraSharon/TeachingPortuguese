@@ -1,6 +1,6 @@
 ---
 translationKey: location-perth
-title: Learn Brazilian Portuguese in Perth | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Perth"
 description: Book Portuguese lessons in Perth with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-perth
-title: Aprende portugués brasileño en Perth | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Perth"
 description: Reserva clases de portugués en Perth con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-niagara-falls
-title: Aprende portugués brasileño en Niagara-Falls | Clases en línea
+title: "Clases online de portugués brasileño en Niagara"
 description: Descubre una excelente tutora de portugués en Niagara-Falls.
 date: '2026-08-05'
 lastmod: '2026-08-05'

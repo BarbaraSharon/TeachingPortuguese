@@ -1,5 +1,5 @@
 ---
-title: Evidencia presencial en Gold Coast
+title: "Evidencia de clases presenciales en Gold Coast"
 url: /es/evidencia-ensenanza/evidencia-presencial-gold-coast/
 date: '2026-08-09'
 lastmod: '2026-08-09'

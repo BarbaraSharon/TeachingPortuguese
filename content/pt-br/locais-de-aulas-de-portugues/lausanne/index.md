@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro | Aulas online
- com opções práticas de conversação, viagem e negócios. A comunidade global de língua portuguesa.
+title: "Aulas online de português brasileiro em Lausanne"
 description: "Aprenda português brasileiro online em Lausanne com Barbara Sharon."
 date: '2026-08-05'
 lastmod: '2026-08-05'

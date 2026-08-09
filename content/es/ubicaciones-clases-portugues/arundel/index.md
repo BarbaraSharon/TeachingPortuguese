@@ -1,6 +1,6 @@
 ---
 translationKey: location-arundel
-title: Aprende portugués en Arundel, Queensland | Clases particulares y en línea
+title: "Clases online de portugués brasileño en Arundel"
 description: Descubre excelentes clases de portugués en Arundel, Queensland.
 date: '2026-08-05'
 lastmod: '2026-08-05'

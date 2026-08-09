@@ -1,6 +1,6 @@
 ---
 translationKey: location-ikaluit
-title: Aprende portugués brasileño en Ikaluit | Clases en línea
+title: "Clases online de portugués brasileño en Ikaluit"
 description: Descubre una excelente tutora de portugués en Ikaluit.
 date: '2026-08-05'
 lastmod: '2026-08-05'

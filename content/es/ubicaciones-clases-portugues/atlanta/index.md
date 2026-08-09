@@ -1,6 +1,6 @@
 ---
 translationKey: location-atlanta
-title: Aprende portugués en Atlanta | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Atlanta"
 description: Reserva clases de portugués en Atlanta con Barbara Sharon y disfruta de una metodología orientada a mejorar rápidamente.
 date: '2026-08-05'
 lastmod: '2026-08-05'

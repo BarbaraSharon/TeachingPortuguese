@@ -1,6 +1,6 @@
 ---
 translationKey: location-utrecht
-title: Aprende portugués en Utrecht | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Utrecht"
 description: Aprende portugués brasileño en Utrecht, Países Bajos. Clases particulares y grupales en línea con Barbara Sharon para todos los niveles.
 date: '2026-08-05'
 lastmod: '2026-08-05'

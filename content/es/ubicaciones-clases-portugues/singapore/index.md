@@ -1,6 +1,6 @@
 ---
 translationKey: location-singapore
-title: Aprende portugués brasileño en Singapur | Clases en línea
+title: "Clases online de portugués brasileño en Singapur"
 description: Reserva clases de portugués en Singapur con Barbara Sharon y mejora rápidamente con resultados comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

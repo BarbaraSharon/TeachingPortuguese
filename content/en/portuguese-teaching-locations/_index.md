@@ -1,7 +1,7 @@
 ---
 translationKey: location-pages
 type: portuguese-teaching-locations
-title: Learn Brazilian Portuguese with Barbara Sharon | Tutoring Locations
+title: "Portuguese Lesson Locations and Formats"
 description: Find in-person and online Brazilian Portuguese lessons with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

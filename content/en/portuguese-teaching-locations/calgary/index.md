@@ -1,7 +1,6 @@
 ---
 translationKey: location-calgary
-title: Learn Brazilian Portuguese in Calgary | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Calgary"
 description: "Discover the best Portuguese tutor in Calgary."
 date: '2026-08-05'
 lastmod: '2026-08-05'

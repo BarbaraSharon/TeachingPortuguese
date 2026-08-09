@@ -1,6 +1,6 @@
 ---
 translationKey: location-adelaide
-title: Aprenda português brasileiro em Adelaide | Aulas online e em grupo
+title: "Aulas online de português brasileiro em Adelaide"
 description: Agende aulas de português em Adelaide com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

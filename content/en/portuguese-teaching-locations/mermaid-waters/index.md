@@ -1,6 +1,6 @@
 ---
 translationKey: location-mermaid-waters
-title: 'Learn Portuguese in Mermaid Waters: Private & Online Classes'
+title: "Online Brazilian Portuguese Lessons in Mermaid Waters"
 description: Book Portuguese lessons in Mermaid Waters with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

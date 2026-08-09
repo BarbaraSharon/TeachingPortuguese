@@ -1,6 +1,6 @@
 ---
 translationKey: location-singapore
-title: Aprenda português brasileiro em Singapura | Aulas online
+title: "Aulas online de português brasileiro em Singapura"
 description: Agende aulas de português em Singapura com Barbara Sharon e obtenha resultados comprovados de melhoria rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

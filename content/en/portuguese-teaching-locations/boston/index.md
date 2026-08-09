@@ -1,6 +1,6 @@
 ---
 translationKey: location-boston
-title: Learn Brazilian Portuguese in Boston | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Boston"
 description: Book Portuguese lessons in Boston with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

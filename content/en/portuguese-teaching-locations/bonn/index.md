@@ -1,6 +1,6 @@
 ---
 translationKey: location-bonn
-title: Learn Portuguese in Bonn | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Bonn"
 description: Learn Brazilian Portuguese in Bonn with online private & group lessons from Barbara Sharon. Start your journey
   today with a free trial lesson
 date: '2026-08-05'

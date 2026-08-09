@@ -1,6 +1,6 @@
 ---
 translationKey: location-dresden
-title: Aprende portugués brasileño en Dresde | Clases en línea
+title: "Clases online de portugués brasileño en Dresde"
 description: Descubre las mejores clases de portugués en Dresde con Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

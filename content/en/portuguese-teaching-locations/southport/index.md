@@ -1,6 +1,6 @@
 ---
 translationKey: location-southport
-title: Learn Brazilian Portuguese in Southport | Private & Group Classes
+title: "Online Brazilian Portuguese Lessons in Southport"
 description: Book Portuguese lessons in Southport with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

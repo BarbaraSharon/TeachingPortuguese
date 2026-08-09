@@ -1,6 +1,6 @@
 ---
 translationKey: location-salzburg
-title: Aprende portugués en Salzburgo | Clases en línea con Barbara Sharon
+title: "Clases online de portugués brasileño en Salzburgo"
 description: Domina el portugués en Salzburgo con clases en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,12 +1,15 @@
-{{/* Preserve the source page's Twitter card fields without claiming an X profile. */}}
-{{ $title := .Title }}
-{{ with .Params.seo.title }}
-  {{ $title = replace . "{brand}" (site.Title | default "Learn Portuguese with Barbara Sharon") }}
+{{/* Keep Twitter titles aligned with the rendered document and Open Graph titles. */}}
+{{ $branding := partialCached "functions/get_branding" . site.Language.Lang }}
+{{ $localized_site_title := i18n "site_title" | default $branding.site_title }}
+{{ $title := .Title | default $localized_site_title }}
+{{ if .IsHome }}
+  {{ $title = $localized_site_title }}
 {{ else }}
-  {{ if ne .Title site.Title }}
-    {{ $title = printf "%s | %s" .Title site.Title }}
+  {{ with .Params.seo.title }}
+    {{ $title = replace . "{brand}" $localized_site_title }}
   {{ end }}
 {{ end }}
+{{ $title = $title | plainify | htmlUnescape | strings.TrimSpace | default $localized_site_title }}
 {{ $description := partial "functions/get_summary" . | plainify }}
 {{ if not $description }}
   {{ $description = site.Params.hugoblox.identity.description | plainify }}

@@ -1,7 +1,6 @@
 ---
 translationKey: location-basel
-title: Learn Portuguese in Basel | Online Lessons with Barbara Sharon
- tutor, native speaker, and certified instructor
+title: "Online Brazilian Portuguese Lessons in Basel"
 description: "Discover the best Portuguese lessons in Basel."
 date: '2026-08-05'
 lastmod: '2026-08-05'

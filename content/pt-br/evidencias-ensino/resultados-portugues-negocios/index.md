@@ -1,5 +1,5 @@
 ---
-title: Resultados de português para negócios
+title: "Resultados em português para negócios"
 url: /pt-br/evidencias-ensino/resultados-portugues-negocios/
 date: '2026-08-09'
 lastmod: '2026-08-09'

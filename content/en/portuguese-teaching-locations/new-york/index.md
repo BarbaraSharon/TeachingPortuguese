@@ -1,6 +1,6 @@
 ---
 translationKey: location-new-york
-title: Learn Brazilian Portuguese in New York | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in New York"
 description: Book Portuguese lessons in New York with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

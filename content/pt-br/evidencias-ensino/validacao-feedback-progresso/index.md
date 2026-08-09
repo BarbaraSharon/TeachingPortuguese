@@ -1,5 +1,5 @@
 ---
-title: Validação de feedback e progresso
+title: "Feedback e progresso nas aulas de português"
 url: /pt-br/evidencias-ensino/validacao-feedback-progresso/
 date: '2026-08-09'
 lastmod: '2026-08-09'

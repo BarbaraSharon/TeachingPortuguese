@@ -1,5 +1,5 @@
 ---
-title: Notas de conversación para principiantes
+title: "Notas para pasar de inicial a conversación"
 url: /es/evidencia-ensenanza/notas-conversacion-principiantes/
 date: '2026-08-09'
 lastmod: '2026-08-09'

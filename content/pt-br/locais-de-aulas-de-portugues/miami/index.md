@@ -1,6 +1,6 @@
 ---
 translationKey: location-miami
-title: Aprenda português brasileiro online com Barbara Sharon | Miami
+title: "Aulas online de português brasileiro em Miami"
 description: Agende aulas de português em Miami com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

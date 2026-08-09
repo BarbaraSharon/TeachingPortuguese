@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Halifax | Aulas online particulares e em grupo
- aulas online particulares e em grupo. Aprenda português hoje!
+title: "Aulas online de português brasileiro em Halifax"
 description: "Encontre a melhor professora de português em Halifax."
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-currumbin
-title: Learn Brazilian Portuguese in Currumbin | In-person & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Currumbin"
 description: Book Portuguese lessons in Currumbin with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

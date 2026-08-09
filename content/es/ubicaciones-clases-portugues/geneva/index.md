@@ -1,6 +1,6 @@
 ---
 translationKey: location-geneva
-title: Aprende portugués brasileño en Ginebra | Clases particulares y grupales en línea
+title: "Clases online de portugués brasileño en Ginebra"
 description: Reserva clases de portugués en Ginebra con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-leeds
-title: Aprende portugués brasileño en Leeds | Clases en línea
+title: "Clases online de portugués brasileño en Leeds"
 description: Reserva clases de portugués brasileño en Leeds con Barbara Sharon y mejora tu comunicación con clases particulares y grupales en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

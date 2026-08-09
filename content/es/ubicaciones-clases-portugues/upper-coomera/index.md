@@ -1,6 +1,6 @@
 ---
 translationKey: location-upper-coomera
-title: 'Aprende portugués con Barbara Sharon: clases particulares y en línea'
+title: "Clases online de portugués en Upper Coomera"
 description: Reserva clases de portugués en Upper Coomera con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

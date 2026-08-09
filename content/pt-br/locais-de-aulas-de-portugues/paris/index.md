@@ -1,6 +1,6 @@
 ---
 translationKey: location-paris
-title: Aprenda português brasileiro em Paris | Aulas online
+title: "Aulas online de português brasileiro em Paris"
 description: Agende aulas de português em Paris com Barbara Sharon e tenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

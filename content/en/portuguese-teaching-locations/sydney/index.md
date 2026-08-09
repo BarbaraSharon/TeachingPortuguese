@@ -1,6 +1,6 @@
 ---
 translationKey: location-sydney
-title: Learn Portuguese in Sydney | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Sydney"
 description: Book Portuguese lessons in Sydney with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

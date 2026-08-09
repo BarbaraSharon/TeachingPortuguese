@@ -1,6 +1,6 @@
 ---
 translationKey: location-bristol
-title: Learn Portuguese in Bristol | Online Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Bristol"
 description: Book Portuguese lessons in Bristol with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

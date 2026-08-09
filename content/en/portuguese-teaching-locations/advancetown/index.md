@@ -1,6 +1,6 @@
 ---
 translationKey: location-advancetown
-title: Learn Brazilian Portuguese in Advancetown | Private & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Advancetown"
 description: Book Portuguese lessons in Advancetown with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

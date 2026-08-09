@@ -1,6 +1,6 @@
 ---
 translationKey: location-florence
-title: Aprende portugués brasileño en Florencia | Clases en línea
+title: "Clases online de portugués brasileño en Florencia"
 description: Descubre las mejores clases de portugués brasileño en Florencia.
 date: '2026-08-05'
 lastmod: '2026-08-05'

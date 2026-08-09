@@ -1,6 +1,6 @@
 ---
 translationKey: location-lyon
-title: Aprende portugués brasileño en Lyon | Barbara Sharon
+title: "Clases online de portugués brasileño en Lyon"
 description: Aprende portugués brasileño en Lyon con Barbara Sharon. Clases particulares y grupales en línea para todos los niveles. Conecta con la comunidad brasileña.
 date: '2026-08-05'
 lastmod: '2026-08-05'

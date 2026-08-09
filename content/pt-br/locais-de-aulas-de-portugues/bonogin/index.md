@@ -1,6 +1,6 @@
 ---
 translationKey: location-bonogin
-title: Aprenda português brasileiro em Bonogin | Aulas particulares e online
+title: "Aulas online de português brasileiro em Bonogin"
 description: Aprenda português brasileiro em Bonogin com aulas particulares e online.
 date: '2026-08-05'
 lastmod: '2026-08-05'

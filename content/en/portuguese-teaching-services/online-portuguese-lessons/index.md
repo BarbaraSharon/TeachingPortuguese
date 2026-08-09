@@ -1,6 +1,6 @@
 ---
 translationKey: aulas-online
-title: Online Portuguese Lessons Worldwide | Private and Group
+title: "Online Brazilian Portuguese Lessons Worldwide"
 description: Learn Brazilian Portuguese online worldwide with private or group lessons for beginner to advanced learners, including business and travel Portuguese.
 date: '2026-08-05'
 lastmod: '2026-08-05'

@@ -1,6 +1,6 @@
 ---
 translationKey: location-lower-beechmont
-title: Learn Brazilian Portuguese in Lower Beechmont | Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Lower Beechmont"
 description: Discover expert Brazilian Portuguese lessons in Lower Beechmont with Barbara Sharon. Online & in-person classes
   for all levels
 date: '2026-08-05'

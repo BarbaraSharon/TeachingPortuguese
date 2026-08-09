@@ -1,6 +1,6 @@
 ---
 translationKey: location-johannesburg
-title: Aprende portugués en Johannesburgo | Tutora en línea Barbara Sharon
+title: "Clases online de portugués brasileño en Johannesburgo"
 description: Reserva clases de portugués en Johannesburgo con Barbara Sharon y consigue resultados de mejora rápida comprobados.
 date: '2026-08-05'
 lastmod: '2026-08-05'

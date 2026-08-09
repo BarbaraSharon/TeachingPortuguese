@@ -1,5 +1,5 @@
 ---
-title: Aprenda português brasileiro em Hamburgo | Aulas online
+title: "Aulas online de português brasileiro em Hamburgo"
 description: Agende aulas de português em Hamburgo com Barbara Sharon e obtenha resultados comprovados de rápida evolução.
 date: '2026-08-05'
 lastmod: '2026-08-05'

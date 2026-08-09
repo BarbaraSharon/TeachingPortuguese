@@ -1,6 +1,6 @@
 ---
 translationKey: location-burleigh-heads
-title: Learn Portuguese in Burleigh Heads | In-person & Online Lessons
+title: "Online Brazilian Portuguese Lessons in Burleigh Heads"
 description: Book Portuguese lessons in Burleigh Heads with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

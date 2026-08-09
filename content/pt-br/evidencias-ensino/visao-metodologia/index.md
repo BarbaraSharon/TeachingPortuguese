@@ -1,5 +1,5 @@
 ---
-title: Visão da metodologia
+title: "Visão do método de ensino de português"
 url: /pt-br/evidencias-ensino/visao-metodologia/
 date: '2026-08-09'
 lastmod: '2026-08-09'

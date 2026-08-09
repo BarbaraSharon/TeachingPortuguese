@@ -1,6 +1,6 @@
 ---
 translationKey: location-hamburg
-title: Learn Brazilian Portuguese in Hamburg | Online Lessons
+title: "Online Brazilian Portuguese Lessons in Hamburg"
 description: Book Portuguese lessons in Hamburg with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

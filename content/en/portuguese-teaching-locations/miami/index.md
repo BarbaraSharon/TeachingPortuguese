@@ -1,6 +1,6 @@
 ---
 translationKey: location-miami
-title: Learn Brazilian Portuguese Online with Barbara Sharon | Miami
+title: "Online Brazilian Portuguese Lessons in Miami"
 description: Book Portuguese lessons in Miami with Barbara Sharon.
 date: '2026-08-05'
 lastmod: '2026-08-05'

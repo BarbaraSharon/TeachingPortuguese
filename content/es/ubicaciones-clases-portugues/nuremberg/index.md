@@ -1,6 +1,6 @@
 ---
 translationKey: location-nuremberg
-title: Aprende portugués en Núremberg | Clases de portugués brasileño y europeo
+title: "Clases online de portugués brasileño en Núremberg"
 description: Aprende portugués brasileño y europeo en Núremberg con clases expertas en línea.
 date: '2026-08-05'
 lastmod: '2026-08-05'

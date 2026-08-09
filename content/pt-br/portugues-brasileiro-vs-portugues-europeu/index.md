@@ -1,6 +1,6 @@
 ---
 translationKey: portugues-brasileiro-vs-portugues-europeu
-title: Português brasileiro vs. português europeu | Qual você deve aprender?
+title: "Português brasileiro e europeu: diferenças"
 description: Tem dúvidas sobre português brasileiro e português europeu?
 date: '2026-08-05'
 lastmod: '2026-08-05'

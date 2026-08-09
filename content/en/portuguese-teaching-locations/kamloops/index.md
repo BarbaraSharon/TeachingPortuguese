@@ -1,7 +1,6 @@
 ---
 translationKey: location-kamloops
-title: Learn Brazilian Portuguese in Kamloops | Online Lessons
- and group lessons. Learn Portuguese today!
+title: "Online Brazilian Portuguese Lessons in Kamloops"
 description: "Discover the best Portuguese tutor in Kamloops."
 date: '2026-08-05'
 lastmod: '2026-08-05'

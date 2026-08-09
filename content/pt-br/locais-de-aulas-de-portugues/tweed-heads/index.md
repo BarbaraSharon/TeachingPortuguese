@@ -1,5 +1,5 @@
 ---
-title: Aprenda português em Tweed Heads | Aulas particulares com Barbara Sharon
+title: "Aulas online de português brasileiro em Tweed Heads"
 description: Descubra aulas de português de alta qualidade em Tweed Heads.
 date: '2026-08-05'
 lastmod: '2026-08-05'

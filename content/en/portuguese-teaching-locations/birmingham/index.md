@@ -1,6 +1,6 @@
 ---
 translationKey: location-birmingham
-title: Learn Portuguese in Birmingham | Online Lessons with Barbara Sharon
+title: "Online Brazilian Portuguese Lessons in Birmingham"
 description: Discover top Brazilian Portuguese lessons in Birmingham. Learn online with Barbara Sharon - private and group
   classes. Start your journey today!
 date: '2026-08-05'

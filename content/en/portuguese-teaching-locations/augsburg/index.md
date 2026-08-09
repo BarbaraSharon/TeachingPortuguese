@@ -1,6 +1,6 @@
 ---
 translationKey: location-augsburg
-title: Learn Brazilian Portuguese in Augsburg | Private & Group Lessons
+title: "Online Brazilian Portuguese Lessons in Augsburg"
 description: Learn Brazilian Portuguese with online private & group lessons. Book free trial with Barbara Sharon, native Brazilian
   tutor
 date: '2026-08-05'

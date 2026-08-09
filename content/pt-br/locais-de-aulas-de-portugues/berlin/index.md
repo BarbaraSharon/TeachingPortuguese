@@ -1,6 +1,6 @@
 ---
 translationKey: location-berlin
-title: Aprenda português brasileiro em Berlim | Aulas online particulares e em grupo
+title: "Aulas online de português brasileiro em Berlim"
 description: Agende aulas de português em Berlim com Barbara Sharon, com resultados comprovados de melhora rápida.
 date: '2026-08-05'
 lastmod: '2026-08-05'

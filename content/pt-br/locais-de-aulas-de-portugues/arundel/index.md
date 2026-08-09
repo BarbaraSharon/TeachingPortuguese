@@ -1,6 +1,5 @@
 ---
-title: Aprenda português brasileiro em Arundel | Aulas online particulares e em grupo
- particulares e online, para todos os níveis.
+title: "Aulas online de português brasileiro em Arundel"
 description: "Conheça as melhores aulas de português em Arundel, QLD."
 date: '2026-08-05'
 lastmod: '2026-08-05'
