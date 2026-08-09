@@ -2,8 +2,8 @@
 translationKey: escola-de-portugues-gold-coast
 title: "Clases grupales de portugués en Gold Coast"
 description: "Participa en clases grupales de portugués brasileño en Gold Coast, con conversación, práctica guiada y aprendizaje estructurado para distintos niveles."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/portuguese-teaching-services/portuguese-school-gold-coast/portuguese-school-gold-coast-brazilian-portuguese-lessons.png

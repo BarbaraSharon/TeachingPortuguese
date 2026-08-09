@@ -1,8 +1,8 @@
 ---
 title: "Visão do método de ensino de português"
 url: /pt-br/evidencias-ensino/visao-metodologia/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Explore a abordagem comunicativa de Barbara Sharon para ensinar português brasileiro, com estrutura de aula, prática, feedback e pontos de progresso."
 robots: noindex, follow
 ---

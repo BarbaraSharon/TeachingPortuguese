@@ -2,8 +2,8 @@
 translationKey: location-chilliwack
 title: "Clases online de portugués brasileño en Chilliwack"
 description: "Clases online de portugués brasileño para quienes están en Chilliwack, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/chilliwack/chilliwack-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Chilliwack | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon

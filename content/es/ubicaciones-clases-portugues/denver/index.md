@@ -2,8 +2,8 @@
 translationKey: location-denver
 title: "Clases online de portugués brasileño en Denver"
 description: "Clases online de portugués brasileño para quienes están en Denver, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/denver/denver-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño

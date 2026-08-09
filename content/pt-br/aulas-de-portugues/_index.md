@@ -2,8 +2,8 @@
 translationKey: aulas-de-portugues
 title: "Aulas de português: formatos e opções"
 description: "Explore aulas de português brasileiro para diferentes níveis e objetivos, online no mundo todo e particulares ou em grupo na Gold Coast."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: services
 image:
   filename: pages/portuguese-teaching-services/portuguese-teaching-services-brazilian-portuguese-lessons.png

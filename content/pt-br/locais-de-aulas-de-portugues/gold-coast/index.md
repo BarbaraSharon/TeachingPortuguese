@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Gold Coast"
 description: "Aulas online de português brasileiro para quem está em Gold Coast, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-gold-coast
 image:
   filename: pages/portuguese-teaching-locations/gold-coast/gold-coast-brazilian-portuguese-lesson.png

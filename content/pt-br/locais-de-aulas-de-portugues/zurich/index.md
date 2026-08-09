@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Zurique"
 description: "Aulas online de português brasileiro para quem está em Zurique, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-zurich
 image:
   filename: pages/portuguese-teaching-locations/zurich/zurich-location-portuguese-lesson.png

@@ -2,8 +2,8 @@
 translationKey: location-bonogin
 title: "Clases online de portugués brasileño en Bonogin"
 description: "Clases online de portugués brasileño para quienes están en Bonogin, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/bonogin/bonogin-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Bonogin | Clases particulares y en línea - clases de portugués brasileño con Barbara Sharon

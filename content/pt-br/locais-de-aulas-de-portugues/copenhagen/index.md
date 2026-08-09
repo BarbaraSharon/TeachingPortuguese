@@ -2,8 +2,8 @@
 translationKey: location-copenhagen
 title: "Aulas online de português brasileiro em Copenhague"
 description: "Aulas online de português brasileiro para quem está em Copenhague, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/copenhagen/copenhagen-online-pronunciation-microphone.png
   alt_text: Aprenda português brasileiro em Copenhague | Aulas online - aulas de português brasileiro com Barbara Sharon

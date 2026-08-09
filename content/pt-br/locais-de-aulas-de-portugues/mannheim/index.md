@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Mannheim"
 description: "Aulas online de português brasileiro para quem está em Mannheim, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-mannheim
 image:
   filename: pages/portuguese-teaching-locations/mannheim/mannheim-brazilian-portuguese-tutor.png

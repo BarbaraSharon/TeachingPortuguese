@@ -2,8 +2,8 @@
 translationKey: location-forest-hill
 title: "Clases online de portugués brasileño en Forest Hill"
 description: "Clases online de portugués brasileño para quienes están en Forest Hill, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/forest-hill/forest-hill-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Forest Hill | Clases particulares y en línea de portugués brasileño con Barbara Sharon

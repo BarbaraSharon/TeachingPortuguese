@@ -2,8 +2,8 @@
 translationKey: location-burleigh-heads
 title: "Clases online de portugués brasileño en Burleigh Heads"
 description: "Clases online de portugués brasileño para quienes están en Burleigh Heads, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/burleigh-heads/burleigh-heads-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Burleigh Heads | Clases particulares y grupales en línea con Barbara Sharon

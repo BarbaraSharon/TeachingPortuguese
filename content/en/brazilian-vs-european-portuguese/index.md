@@ -2,8 +2,8 @@
 translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Brazilian vs European Portuguese Explained"
 description: "Compare Brazilian and European Portuguese through clear differences in pronunciation, vocabulary, grammar, and everyday cultural context for new learners."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /brazilian-vs-european-portuguese/
 image:

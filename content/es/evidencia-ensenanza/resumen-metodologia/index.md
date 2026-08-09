@@ -1,8 +1,8 @@
 ---
 title: "Resumen del método de enseñanza de portugués"
 url: /es/evidencia-ensenanza/resumen-metodologia/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Explora el enfoque comunicativo de Barbara Sharon para enseñar portugués brasileño, con estructura de clase, práctica, feedback y puntos de progreso."
 robots: noindex, follow
 ---

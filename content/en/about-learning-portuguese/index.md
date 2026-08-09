@@ -2,8 +2,8 @@
 translationKey: sobre-aprendizagem-portuguesa
 title: "Meet Barbara Sharon, Portuguese Teacher"
 description: "Meet Barbara Sharon and explore her Brazilian Portuguese teaching background, lesson approach, and options for learners online or on the Gold Coast."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /about-learning-portuguese/
 image:

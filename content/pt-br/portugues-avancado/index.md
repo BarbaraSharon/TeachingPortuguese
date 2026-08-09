@@ -2,8 +2,8 @@
 translationKey: portugues-avancado
 title: "Aulas de português avançado para progredir"
 description: "Aperfeiçoe o português brasileiro avançado com conversação, pronúncia, gramática, vocabulário e nuances culturais adaptados aos seus objetivos."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png

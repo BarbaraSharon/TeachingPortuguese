@@ -2,8 +2,8 @@
 translationKey: location-coomera
 title: "Clases online de portugués brasileño en Coomera"
 description: "Clases online de portugués brasileño para quienes están en Coomera, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/coomera/coomera-online-brazilian-portuguese.png
   alt_text: Aprende portugués en Coomera | Clases particulares y en línea de portugués brasileño con Barbara Sharon

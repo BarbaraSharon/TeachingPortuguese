@@ -2,8 +2,8 @@
 translationKey: location-currumbin-waters
 title: "Aulas online de português brasileiro em Currumbin Waters"
 description: "Aulas online de português brasileiro para quem está em Currumbin Waters, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/currumbin-waters/currumbin-waters-location-portuguese-lesson.png
   alt_text: Aprenda português em Currumbin Waters | Aulas particulares e online - aulas de português brasileiro com Barbara Sharon

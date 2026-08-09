@@ -1,8 +1,8 @@
 ---
 title: "Notas da conversação para iniciantes"
 url: /pt-br/evidencias-ensino/notas-conversa-iniciantes/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Revise notas de ensino anônimas sobre o caminho do português brasileiro iniciante à conversação prática e ao uso cotidiano do idioma."
 robots: noindex, follow
 ---

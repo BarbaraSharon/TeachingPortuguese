@@ -2,8 +2,8 @@
 translationKey: angliport
 title: "AngliPort Rebrand: Learn Portuguese with Barbara"
 description: "Understand the AngliPort rebrand to Learn Portuguese with Barbara Sharon, including the updated name, website, and continuing Portuguese lesson services."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /angliport/
 image:

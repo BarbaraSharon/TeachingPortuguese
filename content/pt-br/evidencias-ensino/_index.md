@@ -2,8 +2,8 @@
 title: "Método e evidências de ensino de português"
 url: /pt-br/evidencias-ensino/
 description: "Leia notas de referência sobre a abordagem de Barbara Sharon para ensinar português brasileiro, aulas, progresso dos alunos e práticas de feedback."
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 robots: noindex, follow
 ---
 

@@ -2,8 +2,8 @@
 translationKey: location-coomera-waters
 title: "Aulas online de português brasileiro em Coomera Waters"
 description: "Aulas online de português brasileiro para quem está em Coomera Waters, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/coomera-waters/coomera-waters-online-speaking-club.png
   alt_text: Aprenda português em Coomera Waters | Aulas presenciais e online - aulas de português brasileiro com Barbara Sharon

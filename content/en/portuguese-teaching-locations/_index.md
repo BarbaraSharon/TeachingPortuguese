@@ -3,8 +3,8 @@ translationKey: location-pages
 type: portuguese-teaching-locations
 title: "Portuguese Lesson Locations and Formats"
 description: "Browse Brazilian Portuguese lesson locations and formats, including online teaching for learners worldwide and in-person options on the Gold Coast."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/
 image:

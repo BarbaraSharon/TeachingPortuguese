@@ -2,8 +2,8 @@
 translationKey: aulas-online
 title: "Aulas online de português brasileiro"
 description: "Estude português brasileiro online de qualquer lugar, em aulas particulares ou em grupo para vários níveis, negócios ou viagens."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png

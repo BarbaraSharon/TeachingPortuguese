@@ -2,8 +2,8 @@
 translationKey: portugues-para-viagens
 title: "Português para viagens: fale com confiança"
 description: "Prepare-se para viajar com português brasileiro prático para cumprimentar, pedir comida, se orientar e se comunicar em situações do dia a dia."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-for-travel/portuguese-for-travel-brazilian-portuguese-lessons.jpg
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

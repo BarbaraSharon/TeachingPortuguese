@@ -2,8 +2,8 @@
 translationKey: contato-professora-portugues
 title: "Fale com Barbara Sharon sobre aulas de português"
 description: "Fale com Barbara Sharon sobre seus objetivos no português brasileiro e escolha aulas particulares, em grupo, online ou na Gold Coast."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/contact-portuguese-teacher/contact-portuguese-teacher-brazilian-portuguese-lessons.png

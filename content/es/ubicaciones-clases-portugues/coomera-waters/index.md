@@ -2,8 +2,8 @@
 translationKey: location-coomera-waters
 title: "Clases online de portugués brasileño en Coomera Waters"
 description: "Clases online de portugués brasileño para quienes están en Coomera Waters, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/coomera-waters/coomera-waters-online-speaking-club.png
   alt_text: Aprende portugués en Coomera Waters | Clases presenciales y en línea de portugués brasileño con Barbara Sharon

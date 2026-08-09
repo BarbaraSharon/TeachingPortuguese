@@ -2,8 +2,8 @@
 translationKey: portugues-para-criancas
 title: "Aulas de português para crianças em grupo"
 description: "Crianças na Gold Coast podem aprender português brasileiro em aulas presenciais de grupo, com conversação e atividades adequadas à idade."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/portuguese-for-children/portuguese-for-children-brazilian-portuguese-lessons.png

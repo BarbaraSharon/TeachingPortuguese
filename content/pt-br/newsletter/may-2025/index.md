@@ -2,8 +2,8 @@
 translationKey: may-2025
 title: "Cheers to Portuguese: newsletter de maio 2025"
 description: "Leia a primeira newsletter Cheers to Portuguese, com um encontro de conversação, próximos eventos e uma introdução à cultura brasileira."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 robots: index, follow, max-image-preview:large
 toc: true
 type: newsletter

@@ -1,5 +1,5 @@
 ---
-lastmod: '2026-08-05'
+lastmod: 2026-08-10
 translationKey: home
 title: "Aprenda português com Barbara Sharon"
 summary: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."
@@ -53,7 +53,7 @@ sections:
     schema:
       name: Português para iniciantes 1 - Barbara Sharon
       description: Aula de português para iniciantes que aborda vocabulário essencial do português brasileiro e fundamentos de gramática. Aprenda com a professora qualificada Barbara Sharon, utilizando uma metodologia comprovada para melhorar rapidamente as habilidades de conversação em português.
-      upload_date: '2024-01-15'
+      upload_date: 2024-01-15
       duration: PT45M
   design:
     spacing:

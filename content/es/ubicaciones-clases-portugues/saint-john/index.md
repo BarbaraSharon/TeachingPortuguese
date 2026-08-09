@@ -2,8 +2,8 @@
 translationKey: location-saint-john
 title: "Clases online de portugués brasileño en Saint John"
 description: "Clases online de portugués brasileño para quienes están en Saint John, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/saint-john/saint-john-online-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Saint John | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon

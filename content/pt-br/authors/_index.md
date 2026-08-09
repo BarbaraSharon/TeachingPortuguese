@@ -3,7 +3,7 @@ title: "Sobre Barbara Sharon, professora de português"
 description: "Leia o perfil de Barbara Sharon e conheça a perspectiva de ensino por trás dos recursos, das aulas e da orientação cultural para aprender português."
 translationKey: authors
 date: 2026-08-06
-lastmod: 2026-08-06
+lastmod: 2026-08-10
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg

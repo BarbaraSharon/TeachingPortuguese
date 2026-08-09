@@ -2,8 +2,8 @@
 translationKey: location-manchester
 title: "Clases online de portugués brasileño en Manchester"
 description: "Clases online de portugués brasileño para quienes están en Manchester, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/manchester/manchester-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Manchester | Clases particulares y grupales en línea con Barbara Sharon

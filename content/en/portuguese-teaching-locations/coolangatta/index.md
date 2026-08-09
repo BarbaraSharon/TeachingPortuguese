@@ -2,8 +2,8 @@
 translationKey: location-coolangatta
 title: "Online Brazilian Portuguese Lessons in Coolangatta"
 description: "Online Brazilian Portuguese lessons for learners in Coolangatta, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/coolangatta/
 image:

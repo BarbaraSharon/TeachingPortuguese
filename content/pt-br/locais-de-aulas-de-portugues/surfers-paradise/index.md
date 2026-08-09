@@ -2,8 +2,8 @@
 translationKey: location-surfers-paradise
 title: "Aulas online de português brasileiro em Surfers Paradise"
 description: "Aulas online de português brasileiro para quem está em Surfers Paradise, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/surfers-paradise/surfers-paradise-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

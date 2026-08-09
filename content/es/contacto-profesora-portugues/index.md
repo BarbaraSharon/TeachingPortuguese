@@ -2,8 +2,8 @@
 translationKey: contato-professora-portugues
 title: "Contacta con Barbara Sharon para aprender portugués"
 description: "Contacta con Barbara Sharon para hablar de tus objetivos de portugués brasileño y elegir clases particulares, grupales, online o en Gold Coast."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/contact-portuguese-teacher/contact-portuguese-teacher-brazilian-portuguese-lessons.png

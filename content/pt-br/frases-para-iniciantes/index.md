@@ -2,8 +2,8 @@
 translationKey: frases-para-iniciantes
 title: "Frases de português brasileiro para iniciantes"
 description: "Aprenda frases úteis de português brasileiro para conversas iniciais, viagens, cumprimentos e situações do dia a dia, com pronúncia acessível."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-beginner-phrases/portuguese-beginner-phrases-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

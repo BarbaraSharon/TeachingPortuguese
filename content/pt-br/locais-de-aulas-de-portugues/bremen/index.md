@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Bremen"
 description: "Aulas online de português brasileiro para quem está em Bremen, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-bremen
 image:
   filename: pages/portuguese-teaching-locations/bremen/bremen-brazilian-portuguese-lesson.png

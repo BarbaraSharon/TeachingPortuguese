@@ -2,8 +2,8 @@
 translationKey: location-auckland
 title: "Clases online de portugués brasileño en Auckland"
 description: "Clases online de portugués brasileño para quienes están en Auckland, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/auckland/auckland-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Auckland | Clases particulares y grupales en línea con Barbara Sharon

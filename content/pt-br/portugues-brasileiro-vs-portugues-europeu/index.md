@@ -2,8 +2,8 @@
 translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Português brasileiro e europeu: diferenças"
 description: "Compare português brasileiro e europeu com diferenças claras de pronúncia, vocabulário, gramática e contexto cultural do dia a dia."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/brazilian-vs-european-portuguese/brazilian-vs-european-portuguese-brazilian-portuguese-lessons.jpg
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Frankfurt am Main"
 description: "Aulas online de português brasileiro para quem está em Frankfurt am Main, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-frankfurt-am-main
 image:
   filename: pages/portuguese-teaching-locations/frankfurt-am-main/frankfurt-am-main-brazilian-portuguese-lesson.png

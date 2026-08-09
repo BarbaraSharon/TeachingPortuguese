@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Highland Park"
 description: "Aulas online de português brasileiro para quem está em Highland Park, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-highland-park
 image:
   filename: pages/portuguese-teaching-locations/highland-park/highland-park-portuguese-lesson.png

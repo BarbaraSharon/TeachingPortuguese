@@ -1,8 +1,8 @@
 ---
 title: "Evidencia del enfoque de clases online"
 url: /es/evidencia-ensenanza/evidencia-clases-online/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Revisa notas anonimizadas sobre clases online de portugués brasileño, con preparación, desarrollo de la clase, práctica y apoyo entre sesiones."
 robots: noindex, follow
 ---

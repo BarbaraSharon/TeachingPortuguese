@@ -2,8 +2,8 @@
 translationKey: location-florence
 title: "Clases online de portugués brasileño en Florencia"
 description: "Clases online de portugués brasileño para quienes están en Florencia, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/florence/florence-location-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Florencia | Clases en línea de portugués brasileño con Barbara Sharon

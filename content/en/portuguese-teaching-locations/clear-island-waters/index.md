@@ -2,8 +2,8 @@
 translationKey: location-clear-island-waters
 title: "Online Brazilian Portuguese Lessons in Clear Island Waters"
 description: "Online Brazilian Portuguese lessons for learners in Clear Island Waters, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/clear-island-waters/
 image:

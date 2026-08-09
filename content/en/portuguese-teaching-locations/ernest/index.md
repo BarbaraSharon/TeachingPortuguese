@@ -2,8 +2,8 @@
 translationKey: location-ernest
 title: "Online Brazilian Portuguese Lessons in Ernest"
 description: "Online Brazilian Portuguese lessons for learners in Ernest, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/ernest/
 image:

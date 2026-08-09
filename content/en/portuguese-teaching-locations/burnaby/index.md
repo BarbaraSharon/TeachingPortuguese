@@ -2,8 +2,8 @@
 translationKey: location-burnaby
 title: "Online Brazilian Portuguese Lessons in Burnaby"
 description: "Online Brazilian Portuguese lessons for learners in Burnaby, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/burnaby/
 image:

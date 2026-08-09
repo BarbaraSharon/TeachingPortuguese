@@ -2,8 +2,8 @@
 translationKey: privacidade
 title: "Barbara Sharon Portuguese Lessons Privacy Policy"
 description: "Read Barbara Sharon’s privacy policy for Portuguese lessons, website analytics, contact methods, online teaching, and EU or EEA visitors."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /privacy/
 robots: index, follow

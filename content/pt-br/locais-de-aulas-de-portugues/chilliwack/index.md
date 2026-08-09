@@ -2,8 +2,8 @@
 translationKey: location-chilliwack
 title: "Aulas online de português brasileiro em Chilliwack"
 description: "Aulas online de português brasileiro para quem está em Chilliwack, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/chilliwack/chilliwack-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Chilliwack | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon

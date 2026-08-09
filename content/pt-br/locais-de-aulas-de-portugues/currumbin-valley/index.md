@@ -2,8 +2,8 @@
 translationKey: location-currumbin-valley
 title: "Aulas online de português brasileiro em Currumbin Valley"
 description: "Aulas online de português brasileiro para quem está em Currumbin Valley, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/currumbin-valley/currumbin-valley-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Currumbin Valley | Aulas online e presenciais - aulas de português brasileiro com Barbara Sharon

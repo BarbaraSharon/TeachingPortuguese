@@ -2,8 +2,8 @@
 translationKey: location-vernon
 title: "Clases online de portugués brasileño en Vernon"
 description: "Clases online de portugués brasileño para quienes están en Vernon, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/vernon/barbara-vernon.png
   alt_text: Aprende portugués brasileño en Vernon | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon

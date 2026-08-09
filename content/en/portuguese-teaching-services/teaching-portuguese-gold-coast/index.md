@@ -2,8 +2,8 @@
 translationKey: ensino-de-portugues-gold-coast
 title: "In-Person Portuguese Lessons on the Gold Coast"
 description: "Learn Brazilian Portuguese in private or group lessons, with in-person teaching on the Gold Coast and online options for learners elsewhere in the world."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 aliases:
 - /portuguese-teaching-services/teaching-portuguese-gold-coast/

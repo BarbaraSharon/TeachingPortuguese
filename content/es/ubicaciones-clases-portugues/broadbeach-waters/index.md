@@ -2,8 +2,8 @@
 translationKey: location-broadbeach-waters
 title: "Clases online de portugués en Broadbeach Waters"
 description: "Clases online de portugués brasileño para quienes están en Broadbeach Waters, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/broadbeach-waters/broadbeach-waters-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués con Barbara Sharon | Clases presenciales y en línea - clases de portugués brasileño con Barbara Sharon

@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Isle of Capri"
 description: "Aulas online de português brasileiro para quem está em Isle of Capri, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-isle-of-capri
 image:
   filename: pages/portuguese-teaching-locations/isle-of-capri/isle-of-capri-brazilian-portuguese-tutor.png

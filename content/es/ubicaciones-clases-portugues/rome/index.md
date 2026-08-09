@@ -2,8 +2,8 @@
 translationKey: location-rome
 title: "Clases online de portugués brasileño en Roma"
 description: "Clases online de portugués brasileño para quienes están en Roma, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/rome/rome-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño

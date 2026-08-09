@@ -1,8 +1,8 @@
 ---
 title: "Aulas online de português brasileiro em Valência"
 description: "Aulas online de português brasileiro para quem está em Valência, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 translationKey: location-valencia
 image:
   filename: pages/portuguese-teaching-locations/valencia/valencia-brazilian-portuguese-tutor.png

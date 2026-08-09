@@ -2,8 +2,8 @@
 translationKey: aprenda-portugues
 title: "Caminhos para aprender português com Barbara Sharon"
 description: "Explore caminhos para aprender português brasileiro com Barbara Sharon, das bases iniciais a viagens, negócios, conversação e cultura."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/learning-portuguese-with-barbara-sharon/learning-portuguese-with-barbara-sharon-brazilian-portuguese-lessons.png

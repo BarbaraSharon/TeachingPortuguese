@@ -2,8 +2,8 @@
 translationKey: aprenda-portugues
 title: "Brazilian Portuguese Learning Paths with Barbara"
 description: "Explore Brazilian Portuguese learning paths with Barbara Sharon, from beginner foundations to travel, business, conversation, and cultural study."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 aliases:
 - /learning-portuguese-with-barbara-sharon/

@@ -1,8 +1,8 @@
 ---
 title: "Online Portuguese Lesson Teaching Approach"
 url: /en/teaching-evidence/online-lesson-evidence/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Review anonymised notes on online Brazilian Portuguese lessons, including preparation, lesson delivery, practice, and learner support between sessions."
 robots: noindex, follow
 ---

@@ -2,8 +2,8 @@
 translationKey: ensino-de-portugues-gold-coast
 title: "Aulas presenciais de português na Gold Coast"
 description: "Aprenda português brasileiro em aulas particulares ou em grupo, com ensino presencial na Gold Coast e opções online para alunos de outros lugares."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/portuguese-teaching-services/teaching-portuguese-gold-coast/teaching-portuguese-gold-coast-brazilian-portuguese-lessons.png

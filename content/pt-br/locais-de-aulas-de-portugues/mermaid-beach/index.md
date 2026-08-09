@@ -2,8 +2,8 @@
 translationKey: location-mermaid-beach
 title: "Aulas online de português brasileiro em Mermaid Beach"
 description: "Aulas online de português brasileiro para quem está em Mermaid Beach, com Barbara Sharon, em formato particular ou em grupo e prática oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/mermaid-beach/mermaid-beach-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

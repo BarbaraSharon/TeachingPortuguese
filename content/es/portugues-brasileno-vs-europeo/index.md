@@ -2,8 +2,8 @@
 translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Portugués brasileño y europeo: diferencias"
 description: "Compara el portugués brasileño y europeo con diferencias claras de pronunciación, vocabulario, gramática y contexto cultural cotidiano."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /es/portugues-brasileño-vs-europeo/
 image:

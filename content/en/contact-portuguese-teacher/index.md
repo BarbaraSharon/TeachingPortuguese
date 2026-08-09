@@ -2,8 +2,8 @@
 translationKey: contato-professora-portugues
 title: "Contact Barbara Sharon for Portuguese Lessons"
 description: "Contact Barbara Sharon to discuss Brazilian Portuguese lessons, share your goals, and choose a private, group, online, or Gold Coast format."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 aliases:
 - /contact-portuguese-teacher/

@@ -2,8 +2,8 @@
 translationKey: location-palm-beach
 title: "Clases online de portugués brasileño en Palm Beach"
 description: "Clases online de portugués brasileño para quienes están en Palm Beach, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/palm-beach/palm-beach-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Palm Beach | Clases particulares y grupales en línea con Barbara Sharon

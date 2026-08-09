@@ -2,8 +2,8 @@
 translationKey: location-houston
 title: "Online Brazilian Portuguese Lessons in Houston"
 description: "Online Brazilian Portuguese lessons for learners in Houston, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/houston/
 image:

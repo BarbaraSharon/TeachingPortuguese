@@ -2,8 +2,8 @@
 translationKey: portugues-para-criancas
 title: "Brazilian Portuguese Lessons for Children"
 description: "Gold Coast children learn Brazilian Portuguese in age-appropriate group lessons using conversation and engaging activities for participation."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/portuguese-for-children/portuguese-for-children-brazilian-portuguese-lessons.png

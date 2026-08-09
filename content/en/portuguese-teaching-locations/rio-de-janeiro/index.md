@@ -2,8 +2,8 @@
 translationKey: location-rio-de-janeiro
 title: "Online Brazilian Portuguese Lessons in Rio de Janeiro"
 description: "Online Brazilian Portuguese lessons for learners in Rio de Janeiro, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/rio-de-janeiro/
 image:

@@ -2,8 +2,8 @@
 translationKey: location-seoul
 title: "Online Brazilian Portuguese Lessons in Seoul"
 description: "Online Brazilian Portuguese lessons for learners in Seoul, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/seoul/
 image:

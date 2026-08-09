@@ -1,5 +1,5 @@
 ---
-lastmod: '2026-08-05'
+lastmod: 2026-08-10
 translationKey: home
 title: "Aprende portugués con Barbara Sharon"
 summary: "Aprende portugués brasileño con Barbara Sharon en clases particulares y grupales online en todo el mundo, y presenciales en Gold Coast."
@@ -51,7 +51,7 @@ sections:
     schema:
       name: Portugués para principiantes 1 - Barbara Sharon
       description: Clase de portugués para principiantes sobre vocabulario esencial del portugués brasileño y fundamentos gramaticales. Aprende con Barbara Sharon, profesora cualificada, mediante una metodología eficaz para mejorar rápidamente tus habilidades de conversación en portugués.
-      upload_date: '2024-01-15'
+      upload_date: 2024-01-15
       duration: PT45M
   design:
     spacing:

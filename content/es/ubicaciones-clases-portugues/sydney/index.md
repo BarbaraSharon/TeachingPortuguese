@@ -2,8 +2,8 @@
 translationKey: location-sydney
 title: "Clases online de portugués brasileño en Sídney"
 description: "Clases online de portugués brasileño para quienes están en Sídney, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/sydney/sydney-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño

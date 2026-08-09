@@ -2,8 +2,8 @@
 translationKey: location-surrey
 title: "Online Brazilian Portuguese Lessons in Surrey"
 description: "Online Brazilian Portuguese lessons for learners in Surrey, with Barbara Sharon, in private or group formats for conversation practice."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/surrey/
 image:

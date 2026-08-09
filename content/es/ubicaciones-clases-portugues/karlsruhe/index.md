@@ -2,8 +2,8 @@
 translationKey: location-karlsruhe
 title: "Clases online de portugués brasileño en Karlsruhe"
 description: "Clases online de portugués brasileño para quienes están en Karlsruhe, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/karlsruhe/karlsruhe-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Karlsruhe | Clases particulares y grupales de portugués brasileño con Barbara Sharon

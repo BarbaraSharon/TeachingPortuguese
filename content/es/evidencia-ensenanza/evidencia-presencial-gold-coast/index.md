@@ -1,8 +1,8 @@
 ---
 title: "Evidencia de clases presenciales en Gold Coast"
 url: /es/evidencia-ensenanza/evidencia-presencial-gold-coast/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Revisa notas anonimizadas sobre clases presenciales de portugués brasileño en Gold Coast, incluidos formato, práctica y preparación docente."
 robots: noindex, follow
 ---

@@ -2,8 +2,8 @@
 translationKey: portugues-para-falantes-de-ingles
 title: "Português para falantes de inglês: aulas claras"
 description: "Aprenda português brasileiro como falante de inglês com apoio para pronúncia, comparações gramaticais, vocabulário útil e contexto cultural."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-for-english-speakers/portuguese-for-english-speakers-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

@@ -1,6 +1,6 @@
 ---
-lastmod: '2026-08-05'
-video_publication_date: '2024-01-15T00:00:00+00:00'
+lastmod: 2026-08-10
+video_publication_date: 2024-01-15T00:00:00+00:00
 translationKey: home
 title: "Learn Brazilian Portuguese with Barbara Sharon"
 summary: "Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online worldwide, with in-person options on the Gold Coast."
@@ -57,7 +57,7 @@ sections:
     schema:
       name: Portuguese Beginner 1 - Barbara Sharon
       description: Beginner Portuguese lesson covering essential Brazilian Portuguese vocabulary and grammar fundamentals. Learn with Barbara Sharon through a structured approach to Portuguese conversation skills.
-      upload_date: '2024-01-15'
+      upload_date: 2024-01-15
       duration: PT45M
   design:
     spacing:

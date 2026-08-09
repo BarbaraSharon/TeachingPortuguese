@@ -2,8 +2,8 @@
 translationKey: como-aprender-portugues
 title: "How to Learn Brazilian Portuguese Effectively"
 description: "Explore practical Brazilian Portuguese study through conversation, listening, vocabulary, grammar, and cultural context that fits your routine."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 aliases:
 - /howto-learn-portuguese/
 image:

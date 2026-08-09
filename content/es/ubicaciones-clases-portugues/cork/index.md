@@ -2,8 +2,8 @@
 translationKey: location-cork
 title: "Clases online de portugués brasileño en Cork"
 description: "Clases online de portugués brasileño para quienes están en Cork, con Barbara Sharon, en formato particular o grupal y práctica oral."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/cork/cork-online-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Cork | Clases en línea con Barbara Sharon

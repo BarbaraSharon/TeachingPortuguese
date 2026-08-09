@@ -2,8 +2,8 @@
 translationKey: portugues-intermediario
 title: "Aulas de português intermediário para avançar"
 description: "Vá além do básico com aulas de português brasileiro intermediário para conversação, pronúncia, vocabulário, gramática e comunicação cotidiana."
-date: '2026-08-05'
-lastmod: '2026-08-05'
+date: 2026-08-05
+lastmod: 2026-08-10
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png

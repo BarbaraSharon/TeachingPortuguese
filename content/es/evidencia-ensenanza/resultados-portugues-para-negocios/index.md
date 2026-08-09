@@ -1,8 +1,8 @@
 ---
 title: "Resultados de aprendizaje en portugués de negocios"
 url: /es/evidencia-ensenanza/resultados-portugues-para-negocios/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Lee notas anonimizadas sobre aprendizaje de portugués brasileño en contextos profesionales, comunicación de trabajo, práctica y objetivos del alumnado."
 robots: noindex, follow
 ---

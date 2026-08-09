@@ -1,8 +1,8 @@
 ---
 title: "Portuguese Progress and Feedback Approach"
 url: /en/teaching-evidence/feedback-and-progress-validation/
-date: '2026-08-09'
-lastmod: '2026-08-09'
+date: 2026-08-09
+lastmod: 2026-08-10
 description: "Understand how Brazilian Portuguese lessons use feedback, review habits, and visible progress checkpoints to support ongoing learning conversations."
 robots: noindex, follow
 ---
