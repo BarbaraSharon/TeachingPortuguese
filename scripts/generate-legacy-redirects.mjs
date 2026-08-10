@@ -70,40 +70,24 @@ function renderRedirect(destination) {
 `;
 }
 
-function renderRootRedirect() {
-  return `<!doctype html>
-<html lang="en-AU">
-  <head>
-    <meta charset="utf-8">
-    <meta name="robots" content="noindex, follow">
-    <meta name="description" content="Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online or on the Gold Coast.">
-    <meta http-equiv="refresh" content="0; url=/en/">
-    <link rel="canonical" href="${SITE_ORIGIN}/en/">
-    <meta property="og:site_name" content="Learn Portuguese with Barbara Sharon">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="${SITE_ORIGIN}/en/">
-    <meta property="og:title" content="Learn Portuguese with Barbara Sharon">
-    <meta property="og:description" content="Learn Brazilian Portuguese with Barbara Sharon through private and group lessons online or on the Gold Coast.">
-    <meta property="og:image" content="${SITE_ORIGIN}/media/barbara-sharon.jpg">
-    <title>Learn Portuguese with Barbara Sharon</title>
-  </head>
-  <body>
-    <p><a href="/en/">Learn Portuguese with Barbara Sharon</a></p>
-    <script>window.location.replace('/en/');</script>
-  </body>
-</html>
-`;
-}
+// Hugo copies the language-neutral selector from static/index.html. Legacy
+// redirect generation must never replace that root page after the build.
+const rootSelectorSourceFile = resolve(projectRoot, 'static', 'index.html');
+const rootSelectorOutputFile = resolve(outputRoot, 'index.html');
+const [rootSelectorSourceHtml, rootSelectorOutputHtml] = await Promise.all([
+  readFile(rootSelectorSourceFile, 'utf8'),
+  readFile(rootSelectorOutputFile, 'utf8'),
+]);
 
-const rootRedirectFile = resolve(outputRoot, 'index.html');
-const rootRedirectHtml = renderRootRedirect();
 if (checkOnly) {
-  const actualRootHtml = await readFile(rootRedirectFile, 'utf8');
-  if (actualRootHtml !== rootRedirectHtml) {
-    throw new Error('Root language redirect is stale or incomplete.');
+  if (rootSelectorOutputHtml !== rootSelectorSourceHtml) {
+    throw new Error('Root language selector was not copied to the generated site.');
   }
 } else {
-  await writeFile(rootRedirectFile, rootRedirectHtml, 'utf8');
+  // Hugo owns the root output when every language uses a subdirectory. Copy
+  // the neutral selector last so it deliberately replaces Hugo's default
+  // root redirect in the deployable artifact.
+  await writeFile(rootSelectorOutputFile, rootSelectorSourceHtml, 'utf8');
 }
 
 for (const redirect of manifest.redirects) {

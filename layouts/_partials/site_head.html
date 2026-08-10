@@ -64,8 +64,14 @@
   {{ $isPaginatedSection := and (eq .Kind "section") (ne .Type "portuguese-teaching-locations") (strings.Contains .RelPermalink "/page/") }}
   {{ if and (not $isTaxonomyArchive) (not $isPaginatedSection) }}
     {{ $xDefault := .Permalink }}
-    {{ range where .AllTranslations "Language.Lang" "en" }}
-      {{ $xDefault = .Permalink }}
+    {{ if .IsHome }}
+      {{/* The language-neutral selector is the homepage fallback. Individual
+           translated pages retain their English equivalent as x-default. */}}
+      {{ $xDefault = site.BaseURL }}
+    {{ else }}
+      {{ range where .AllTranslations "Language.Lang" "en" }}
+        {{ $xDefault = .Permalink }}
+      {{ end }}
     {{ end }}
     {{ range .Translations }}
       {{/* Use the configured locale for every member of the group. .Lang is

@@ -59,13 +59,6 @@
     return '';
   }
 
-  function languageFromPath(pathname) {
-    if (pathname === '/pt-br' || pathname.startsWith('/pt-br/')) return 'pt-br';
-    if (pathname === '/en' || pathname.startsWith('/en/')) return 'en';
-    if (pathname === '/es' || pathname.startsWith('/es/')) return 'es';
-    return '';
-  }
-
   function languageFromBrowser() {
     const languages = Array.isArray(navigator.languages) && navigator.languages.length
       ? navigator.languages
@@ -77,38 +70,32 @@
       if (/^en(?:-|$)/i.test(language || '')) return 'en';
     }
 
-    // English is the deliberate fallback for every other or unavailable language.
-    return 'en';
+    return '';
   }
 
-  // A language-switcher click is an explicit preference. Capture it before
-  // navigation so the choice persists when the visitor returns to "/".
+  function navigateToLanguage(language) {
+    const path = languagePaths[language];
+    if (!path) return;
+
+    window.location.replace(`${path}${window.location.search || ''}${window.location.hash || ''}`);
+  }
+
+  // A language-switcher or selector click is an explicit preference. Capture
+  // it before navigation so that the visitor's choice persists on return.
   document.addEventListener('click', (event) => {
     if (!event.target || typeof event.target.closest !== 'function') return;
 
     const link = event.target.closest('a[data-language-preference]');
     if (!link) return;
 
-    const language = link.dataset.languagePreference;
-    if (language) setLanguagePreference(language);
+    setLanguagePreference(link.dataset.languagePreference);
   }, true);
 
-  // The root page always falls back to /en/ without JavaScript. Automatic
-  // detection runs only after that safe fallback reaches the English homepage.
-  // Direct visits to any other page or language are always respected.
-  const isEnglishHomepage = window.location.pathname === '/en/' || window.location.pathname === '/en';
-  const savedLanguage = getLanguagePreference();
+  // Only the language-neutral root performs automatic routing. Direct links
+  // to a language or page are always respected and browser detection is never
+  // persisted as if it were an explicit visitor choice.
+  if (window.location.pathname !== '/') return;
 
-  if (!isEnglishHomepage) {
-    const currentLanguage = languageFromPath(window.location.pathname);
-    if (!savedLanguage && currentLanguage) setLanguagePreference(currentLanguage);
-    return;
-  }
-
-  const language = languagePaths[savedLanguage] ? savedLanguage : languageFromBrowser();
-  setLanguagePreference(language);
-
-  if (language !== 'en') {
-    window.location.replace(languagePaths[language]);
-  }
+  const language = getLanguagePreference() || languageFromBrowser();
+  if (language) navigateToLanguage(language);
 })();
