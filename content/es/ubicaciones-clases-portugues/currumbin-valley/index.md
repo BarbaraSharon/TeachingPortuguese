@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Currumbin Valley con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Currumbin Valley forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Currumbin Valley es una zona tranquila y pintoresca del interior de Gold Coast, rodeada de exuberante selva tropical y belleza natural. Conocida por su estilo de vida sereno y su cercanía a Surfers Paradise, ofrece un entorno ideal para el aprendizaje concentrado. Con una población aproximada de 2.084 residentes, esta encantadora localidad proporciona un espacio apacible para aprender portugués con la atención personalizada de Barbara Sharon. El alumnado de Currumbin Valley puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Currumbin Valley: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Currumbin Valley: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

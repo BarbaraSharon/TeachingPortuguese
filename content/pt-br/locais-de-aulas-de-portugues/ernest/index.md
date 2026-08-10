@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Ernest com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Ernest faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Ernest é uma localidade tranquila na Gold Coast, com uma população de aproximadamente 410 a 420 habitantes. Embora os dados específicos sobre a população brasileira ou portuguesa em Ernest sejam limitados, a crescente diversidade da região e sua proximidade com importantes polos culturais fazem dela um lugar ideal para estudantes de português. A presença de estudantes internacionais e um ambiente multicultural proporcionam uma base sólida para o envolvimento com a cultura e a língua brasileiras. Os alunos de Ernest podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Ernest: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ernest: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

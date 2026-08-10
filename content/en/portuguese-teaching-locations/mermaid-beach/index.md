@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Mermaid Beach with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Mermaid Beach is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+local_context: "Mermaid Beach is a vibrant coastal suburb on the Gold Coast, known for its laid-back lifestyle, pristine beaches, and diverse community. With a population of 7,329 residents and a significant foreign-born population of 33.9%, the area fosters an international environment that's perfect for language learning. The growing Brazilian community in Mermaid Beach makes it an ideal place to explore the rich culture and language of Brazil. Learners in Mermaid Beach can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
 scheduling: "Scheduling from Mermaid Beach: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Mermaid Beach: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Kingsholme com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Kingsholme faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Kingsholme, situado no norte da Gold Coast, é uma tranquila comunidade rural conhecida por suas propriedades espaçosas e clima de vizinhança unida. Com uma população de cerca de 782 residentes, essa região oferece um ambiente pacífico, no qual aprender idiomas se torna uma experiência pessoal e culturalmente recompensadora. A região tem uma população diversa, com 26,6% de pessoas nascidas no exterior, enriquecendo o tecido cultural que apoia a educação linguística. Os alunos de Kingsholme podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Kingsholme: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kingsholme: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

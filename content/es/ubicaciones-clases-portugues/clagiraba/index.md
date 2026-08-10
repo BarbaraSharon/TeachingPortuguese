@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Clagiraba con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clagiraba forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Clagiraba es una tranquila localidad rural situada en el pintoresco interior de Gold Coast, reconocida por su belleza natural y ambiente sereno. Con una población de alrededor de 651 residentes, ofrece un marco ideal para estudiantes de idiomas que buscan una atmósfera calmada y concentrada. La vegetación y arroyos de los alrededores brindan un telón de fondo tranquilo para el estudio, mientras que su cercanía a Surfers Paradise hace que las clases presenciales de portugués sean convenientes. El alumnado de Clagiraba puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Clagiraba: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Clagiraba: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Alberton with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Alberton is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+local_context: "Alberton, nestled on the Gold Coast in Queensland, offers a serene and culturally rich environment for learning Brazilian Portuguese. With a population of just 297 people as per the 2021 census, it’s a peaceful place to start your journey into the vibrant world of Portuguese. Despite its size, Alberton is home to a growing multicultural community, with events like Madeira Fest at Casa Da Madeira bringing Portuguese traditions and celebrations to life. Learners in Alberton can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
 scheduling: "Scheduling from Alberton: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Alberton: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Arundel com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Arundel faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Arundel, situado na vibrante Gold Coast, em Queensland, é um local ideal para aprender português. Com uma população de 11.171 habitantes, segundo o censo de 2021, essa comunidade suburbana tranquila oferece um ambiente diverso e acolhedor, perfeito para estudantes de idiomas. O caráter multicultural da região - onde 9,7% dos residentes nasceram no exterior - cria ricas oportunidades para intercâmbio cultural e prática do idioma. Os alunos de Arundel podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Arundel: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Arundel: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

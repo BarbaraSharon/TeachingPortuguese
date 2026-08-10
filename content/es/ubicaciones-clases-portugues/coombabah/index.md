@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coombabah con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coombabah forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Coombabah, un vibrante suburbio del norte de Gold Coast, alberga a más de 10.298 residentes y cuenta con una comunidad diversa donde el 38,4 % de la población nació en el extranjero. Esta zona familiar, conocida por sus parques, humedales y atracciones culturales, ofrece un entorno ideal para aprender idiomas. Tanto si te interesa portugués brasileño como explorar el rico mundo lusófono, Coombabah brinda oportunidades únicas para relacionarte con la cultura y la comunidad. El alumnado de Coombabah puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Coombabah: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coombabah: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Maudsland com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Maudsland faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Maudsland é um tranquilo subúrbio semirrural localizado no interior da Gold Coast, conhecido por suas propriedades espaçosas e atmosfera acolhedora para famílias. Com uma população de 8.073 habitantes no censo de 2021, a região tem uma comunidade diversa, com 35,1% dos residentes nascidos no exterior. Esse caráter internacional faz dela um lugar ideal para estudantes de português se conectarem a diferentes culturas e idiomas. Os alunos de Maudsland podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Maudsland: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Maudsland: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

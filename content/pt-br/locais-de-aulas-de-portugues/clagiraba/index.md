@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Clagiraba com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Clagiraba faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Clagiraba é uma tranquila localidade rural situada no pitoresco interior da Gold Coast, conhecida por sua beleza natural e ambiente sereno. Com uma população de cerca de 651 residentes, oferece um cenário ideal para estudantes de idiomas que buscam uma atmosfera calma e focada. A mata nativa e os córregos ao redor proporcionam um pano de fundo sereno para o estudo, enquanto sua proximidade de Surfers Paradise torna convenientes as aulas presenciais de português. Os alunos de Clagiraba podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Clagiraba: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Clagiraba: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

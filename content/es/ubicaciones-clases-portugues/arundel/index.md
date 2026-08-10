@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Arundel con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Arundel forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Arundel, situado en la animada Gold Coast de Queensland, es un lugar ideal para aprender portugués. Con 11.171 habitantes según el censo de 2021, esta comunidad suburbana tranquila ofrece un entorno diverso y acogedor para los estudiantes de idiomas. Su carácter multicultural -el 9,7 % de sus residentes nació en el extranjero- crea buenas oportunidades para el intercambio cultural y la práctica lingüística. El alumnado de Arundel puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Arundel: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Arundel: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

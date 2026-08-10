@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Mudgeeraba con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Mudgeeraba forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Mudgeeraba es un suburbio frondoso y familiar situado en el interior de Gold Coast. Conocida por su vibrante comunidad multicultural y cercanía a Robina y Varsity Lakes, esta zona se ha convertido en un lugar ideal para que estudiantes de idiomas conecten con familias brasileñas y lusófonas locales. Tanto si buscas clases de portugués en Mudgeeraba, una tutora de portugués brasileño o experiencias inmersivas, Barbara Sharon ofrece soluciones de aprendizaje adaptadas a tus necesidades. El alumnado de Mudgeeraba puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Mudgeeraba: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Mudgeeraba: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

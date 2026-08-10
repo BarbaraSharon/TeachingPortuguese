@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Broadbeach Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Broadbeach Waters is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+local_context: "Broadbeach Waters is a vibrant and family-friendly suburb on the Gold Coast, known for its scenic canals, lush parks, and easy access to shopping and dining. With a diverse community of residents from various cultural backgrounds, it offers an ideal setting for language learning. The relaxed suburban atmosphere allows you to focus on your Portuguese studies while enjoying the local lifestyle. Learners in Broadbeach Waters can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
 scheduling: "Scheduling from Broadbeach Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Broadbeach Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Surfers Paradise com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Surfers Paradise faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Surfers Paradise, um vibrante subúrbio da Gold Coast com uma população de 47.249 residentes (estimativas de dezembro de 2022), é o lugar perfeito para aprender português. A comunidade diversificada da região inclui 1.050 residentes nascidos no Brasil, oferecendo oportunidades reais para praticar e mergulhar no idioma. Com mais de 40% dos residentes nascidos no exterior, Surfers Paradise cria um ambiente inclusivo para quem aprende idiomas. Os alunos de Surfers Paradise podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Surfers Paradise: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Surfers Paradise: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

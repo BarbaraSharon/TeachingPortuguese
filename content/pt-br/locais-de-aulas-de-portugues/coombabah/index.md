@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Coombabah com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Coombabah faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Coombabah, um vibrante subúrbio no norte da Gold Coast, abriga mais de 10.298 residentes e tem uma comunidade diversa, com 38,4% da população nascida no exterior. Esta região familiar, conhecida por seus parques, áreas úmidas e atrações culturais, proporciona um ambiente ideal para estudantes de idiomas. Quer você tenha interesse em português brasileiro ou esteja explorando o rico mundo de língua portuguesa, Coombabah oferece oportunidades únicas para se envolver com a cultura e a comunidade. Os alunos de Coombabah podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Coombabah: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Coombabah: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

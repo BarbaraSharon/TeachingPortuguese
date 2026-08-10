@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Labrador with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Labrador is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+local_context: "Labrador is a vibrant suburb of the Gold Coast, located in Queensland, Australia. With a population of approximately 26,650 as of 2021, Labrador offers a unique environment for language learners. According to recent data, there are 1,215 Portuguese-born residents and 165 Portuguese language speakers in the area, highlighting a growing cultural connection. Barbara Sharon provides Portuguese lessons in Labrador tailored for all ages and backgrounds, whether you want to connect with family, travel, or expand your business opportunities. Learners in Labrador can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
 scheduling: "Scheduling from Labrador: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Labrador: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Currumbin é um subúrbio sereno no sul da Gold Coast, conhecido por suas paisagens naturais deslumbrantes, praias intocadas e santuário de vida selvagem. Com uma população de aproximadamente 3.278 residentes, oferece um ambiente tranquilo, ideal para o estudo focado de idiomas. De acordo com o Censo de 2016, cerca de 0,4% da população de Currumbin falava português em casa - aproximadamente 170 pessoas. A região atrai muitos residentes apaixonados por aprender novos idiomas, incluindo o português. Os alunos de Currumbin podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Currumbin: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

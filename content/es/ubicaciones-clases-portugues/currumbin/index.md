@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Currumbin con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Currumbin forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Currumbin es un suburbio sereno en el sur de Gold Coast, conocido por sus impresionantes paisajes naturales, playas vírgenes y santuario de fauna silvestre. Con una población aproximada de 3.278 habitantes, ofrece un entorno tranquilo ideal para estudiar un idioma con concentración. Según el censo de 2016, cerca del 0,4 % de la población de Currumbin hablaba portugués en casa: unas 170 personas. La zona atrae a muchas personas interesadas en aprender idiomas nuevos, incluido el portugués. El alumnado de Currumbin puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Currumbin: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Currumbin: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

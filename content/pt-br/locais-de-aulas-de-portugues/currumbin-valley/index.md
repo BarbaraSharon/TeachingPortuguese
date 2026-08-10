@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin Valley com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin Valley faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Currumbin Valley é uma área tranquila e cênica localizada no interior da Gold Coast, cercada por florestas tropicais exuberantes e beleza natural. Conhecida por seu estilo de vida sereno e proximidade de Surfers Paradise, é um ambiente ideal para o estudo focado. Com uma população de aproximadamente 2.084 residentes, esta charmosa localidade oferece aos alunos um espaço tranquilo para aprender português com a atenção personalizada de Barbara Sharon. Os alunos de Currumbin Valley podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Currumbin Valley: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin Valley: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

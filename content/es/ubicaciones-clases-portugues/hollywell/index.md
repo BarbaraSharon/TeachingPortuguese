@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Hollywell con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Hollywell forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Hollywell es un tranquilo suburbio costero del norte de Gold Coast, reconocido por su estilo de vida relajado y sus animadas marinas. Con una población aproximada de 2.930 residentes según el censo de 2021, esta zona ofrece un entorno ideal para quienes buscan aprender en un lugar apacible y culturalmente enriquecedor. En Hollywell puedes aprovechar clases presenciales de portugués en Surfers Paradise, así como clases de portugués en línea flexibles y accesibles desde cualquier lugar. El alumnado de Hollywell puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Hollywell: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Hollywell: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

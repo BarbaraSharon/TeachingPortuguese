@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Gaven with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Gaven is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+local_context: "Gaven is a quiet, residential suburb on the northern Gold Coast, known for its peaceful environment and easy access to major roads. With a population of approximately 1,638 residents, it offers an ideal setting for focused learning. While specific data about Portuguese or Brazilian speakers in Gaven may be limited, the surrounding Gold Coast region benefits from growing cultural diversity. The presence of vibrant Brazilian communities in nearby areas such as Brisbane makes Gaven an excellent place to connect with Brazilian culture and language. Learners in Gaven can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
 scheduling: "Scheduling from Gaven: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Gaven: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

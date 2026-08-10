@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Highland Park con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Highland Park forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+local_context: "Highland Park es un suburbio dinámico y familiar de la Gold Coast, con 6.576 habitantes. Con una comunidad diversa -el 33,7 % de sus residentes nació en el extranjero-, existe un interés creciente por aprender portugués. Tanto si eres principiante como si quieres mejorar tus habilidades de conversación, Barbara Sharon ofrece clases de portugués adaptadas en Surfers Paradise para estudiantes de Highland Park. Hay opciones presenciales y en línea que se ajustan a tu horario. El alumnado de Highland Park puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
 scheduling: "Horarios para Highland Park: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Highland Park: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

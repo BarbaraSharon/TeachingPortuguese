@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Bilinga com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Bilinga faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+local_context: "Bilinga, um tranquilo subúrbio à beira-mar na Gold Coast, em Queensland, oferece um ambiente ideal para uma aprendizagem de idiomas concentrada. Com sua atmosfera residencial serena e proximidade de Surfers Paradise, é perfeito para alunos que buscam um local calmo, mas acessível, para estudar português. Seja você iniciante ou queira aperfeiçoar suas habilidades de conversação, Bilinga oferece uma combinação singular de tranquilidade costeira e vivacidade cultural. Os alunos de Bilinga podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
 scheduling: "Horários para Bilinga: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bilinga: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
