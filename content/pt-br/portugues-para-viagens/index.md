@@ -14,7 +14,6 @@ migration_schema:
   type: Course
   name: Curso de português para viagens
   description: Curso intensivo, rápido e prático de língua portuguesa, criado especialmente para viajantes que visitam o Brasil, Portugal ou outros destinos de língua portuguesa. Aprenda frases essenciais para situações comuns de viagem, incluindo cumprimentos, pedidos de comida, perguntas sobre direções e frases de emergência.
-  educational_credential: Certificado de conclusão
   audience: Viajantes, turistas e pessoas em férias que planejam visitar países de língua portuguesa
   prerequisites: Nenhum - adequado para iniciantes absolutos
   in_language: [en, pt-BR]

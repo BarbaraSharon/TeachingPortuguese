@@ -10,14 +10,10 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Rutas de aprendizaje del portugués
-migration_schema:
-  type: Course
-  name: Club de conversación en portugués
-  description: Únete al Club de conversación en portugués para practicar en un entorno amable y acogedor. Desarrolla fluidez y confianza con Barbara Sharon.
-  educational_credential: Certificado de participación
-  audience: Estudiantes de portugués de nivel intermedio y avanzado que quieren practicar conversación y mejorar su fluidez
-  prerequisites: Se recomienda un nivel intermedio de portugués
-  in_language: [es, pt-BR]
+service:
+  service_type: Club de conversación en portugués brasileño
+  delivery: En línea o presencial en Gold Coast, según disponibilidad
+  audience: Estudiantes de portugués principiantes, intermedios y avanzados que buscan practicar conversación
 ---
 
 ## Club de conversación en portugués: desarrolla fluidez y confianza

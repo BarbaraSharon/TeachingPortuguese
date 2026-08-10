@@ -16,7 +16,6 @@ migration_schema:
   type: Course
   name: Portuguese for Business Course
   description: Intensive Professional Portuguese language training designed for business professionals, executives, and entrepreneurs. Master business communication, negotiation, and corporate terminology in Brazilian Portuguese for international success.
-  educational_credential: Professional Certificate in Business Portuguese
   audience: Business professionals, executives, entrepreneurs, and corporate teams working with Portuguese-speaking markets
   prerequisites: Basic Portuguese language skills recommended
   in_language: [en, pt-BR]

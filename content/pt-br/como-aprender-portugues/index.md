@@ -11,14 +11,7 @@ robots: index, follow, max-image-preview:large
 categories:
 - Caminhos de aprendizagem de português
 migration_schema:
-  type: Course
-  name: Aulas de português online
-  description: Cursos abrangentes de língua portuguesa oferecidos por Barbara Sharon, incluindo aulas online, tutoria particular e clubes de conversação em grupo.
-  category:
-  - Aprendizagem de idiomas
-  - Educação online
-  - Aulas de português na Gold Coast
-  - Tutora de português na Gold Coast
+  type: Article
   faq:
   - question: Qual é a melhor maneira de aprender português?
     answer: A melhor maneira de aprender português é por meio de aulas baseadas em conversação, aulas em grupos pequenos e estratégias práticas de fala para ganhar confiança em situações reais. Com a orientação adequada, você pode desenvolver confiança e começar a se comunicar muito antes do que imagina.

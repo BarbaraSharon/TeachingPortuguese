@@ -14,7 +14,6 @@ migration_schema:
   type: Course
   name: Curso de portugués para viajar
   description: Curso intensivo, rápido y práctico de portugués para viajeros que visitan Brasil, Portugal u otros destinos lusófonos. Aprende frases esenciales para saludar, pedir comida, orientarte y solicitar ayuda.
-  educational_credential: Certificado de finalización
   audience: Viajeros, turistas y personas que planean vacaciones en países de habla portuguesa
   prerequisites: Ninguno; adecuado para principiantes absolutos
   in_language: [es, pt-BR]

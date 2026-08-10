@@ -9,7 +9,9 @@
   {{- end -}}
   {{- $service := dict
     "@context" "https://schema.org"
+    "@id" (printf "%s#service" .Permalink)
     "@type" "Service"
+    "url" .Permalink
     "name" .Title
     "serviceType" (i18n "schema_service_type")
     "description" .Description
@@ -21,7 +23,7 @@
   <script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
 {{- else -}}
 {{- with .Params.service -}}
-  {{- $service := dict "@context" "https://schema.org" "@type" "Service" "name" .service_type "serviceType" .service_type "description" (partial "functions/get_summary" $) "provider" (dict "@id" $organizationID "@type" "Organization" "name" "Barbara Sharon Portuguese Tutoring") "areaServed" (dict "@type" "Place" "name" .delivery) "audience" (dict "@type" "Audience" "audienceType" .audience) -}}
+  {{- $service := dict "@context" "https://schema.org" "@id" (printf "%s#service" $.Permalink) "@type" "Service" "url" $.Permalink "name" .service_type "serviceType" .service_type "description" (partial "functions/get_summary" $) "provider" (dict "@id" $organizationID "@type" "Organization" "name" "Barbara Sharon Portuguese Tutoring") "areaServed" (dict "@type" "Place" "name" .delivery) "audience" (dict "@type" "Audience" "audienceType" .audience) -}}
   {{- if in .delivery "Online" -}}{{- $service = merge $service (dict "offers" (slice (dict "@type" "Offer" "name" (i18n "schema_online_lessons") "category" (i18n "schema_language_lessons")) (dict "@type" "Offer" "name" (i18n "schema_online_lessons") "category" (i18n "schema_language_classes")))) -}}{{- else -}}{{- $service = merge $service (dict "offers" (slice (dict "@type" "Offer" "name" (i18n "schema_in_person_lessons") "category" (i18n "schema_language_lessons")))) -}}{{- end -}}
   <script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
 {{- end -}}

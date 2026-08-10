@@ -13,14 +13,7 @@ robots: index, follow, max-image-preview:large
 categories:
 - Portuguese learning paths
 migration_schema:
-  type: Course
-  name: Online Portuguese Lessons
-  description: Comprehensive Portuguese language courses offered by Barbara Sharon, including online lessons, private tutoring, and group speaking clubs.
-  category:
-  - Language Learning
-  - Online Education
-  - Portuguese Lessons Gold Coast
-  - Portuguese Tutor Gold Coast
+  type: Article
   faq:
   - question: What is the best way to learn Portuguese?
     answer: The best way to learn Portuguese is through conversation-based lessons, small group classes, and practical speaking strategies for real-life confidence. With proper guidance, you can build confidence and start communicating much sooner than you think.

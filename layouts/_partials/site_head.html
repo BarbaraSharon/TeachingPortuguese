@@ -224,19 +224,24 @@
     {{ end }}
   {{ end }}
   {{ $title = $title | plainify | htmlUnescape | strings.TrimSpace | default $localized_site_title }}
+  {{ $og_type := "website" }}
+  {{ if and .IsPage (or (eq .Params.migration_schema.type "Article") (eq .Type "newsletter")) }}{{ $og_type = "article" }}{{ end }}
   <meta name="twitter:card" content="{{ $twitter_card }}" />
   {{ with site.Params.hugoblox.identity.social.twitter }}
     <meta name="twitter:site" content="@{{ . }}" />
     <meta name="twitter:creator" content="@{{ . }}" />
   {{ end }}
   <meta property="og:site_name" content="{{ $localized_site_title }}" />
-  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+  <meta property="og:type" content="{{ $og_type }}" />
   <meta property="og:url" content="{{ $canonical }}" />
   <meta property="og:title" content="{{ $title }}" />
   <meta property="og:description" content="{{ $desc }}" />
   {{- with $og_image -}}
     <meta property="og:image" content="{{ . }}" />
     <meta name="twitter:image" content="{{ . }}" />
+  {{- end -}}
+  {{- with (or .Params.image.alt .Params.image.alt_text) -}}
+    <meta property="og:image:alt" content="{{ . }}" />
   {{- end -}}
   {{- if gt $og_image_width 0 -}}
     <meta property="og:image:width" content="{{ $og_image_width }}" />
@@ -251,7 +256,7 @@
     {{ $alternateOgLocale := index $ogLocales .Language.Lang | default .Language.Locale }}
     <meta property="og:locale:alternate" content="{{ $alternateOgLocale }}" />
   {{ end }}
-  {{ if .IsPage }}
+  {{ if eq $og_type "article" }}
     {{ if not .PublishDate.IsZero }}
       <meta
         property="article:published_time"

@@ -32,19 +32,8 @@ function hasType(node, type) {
 }
 
 const root = readOutput('/index.html');
-assert.ok(!/http-equiv=["']?refresh/i.test(root), 'Root must not contain a meta refresh.');
-assertIncludes(root, `<link rel="canonical" href="${origin}/">`, 'Root canonical is missing.');
-assertIncludes(root, `hreflang="x-default" href="${origin}/"`, 'Root x-default is missing.');
-assertIncludes(root, 'name="twitter:image"', 'Root Twitter image is missing.');
-assertIncludes(root, 'property="og:image:alt"', 'Root Open Graph image alt text is missing.');
-
-const rootGraph = jsonLdObjects(root).flatMap((object) => object['@graph'] || [object]);
-for (const type of ['WebSite', 'Organization', 'Person']) {
-  assert.ok(
-    rootGraph.some((node) => node['@type'] === type || (Array.isArray(node['@type']) && node['@type'].includes(type))),
-    `Root JSON-LD is missing ${type}.`,
-  );
-}
+const rootSource = fs.readFileSync(new URL('../static/index.html', import.meta.url), 'utf8');
+assert.equal(root, rootSource, 'Root language-selection page must match its static source.');
 
 for (const [language, path, locale, hreflang] of [
   ['English', '/en/index.html', 'en_AU', 'en-au'],
@@ -78,8 +67,10 @@ const serviceObjects = outputFiles(fileURLToPath(new URL('../public/', import.me
   .flatMap((object) => object['@graph'] || [object])
   .filter((node) => hasType(node, 'Service'));
 
-assert.equal(serviceObjects.length, 600, 'Expected 600 rendered Service JSON-LD objects.');
+assert.equal(serviceObjects.length, 603, 'Expected 603 rendered Service JSON-LD objects.');
 for (const service of serviceObjects) {
+  assert.ok(service['@id']?.endsWith('#service'), `Service ${service.name} must have a stable @id.`);
+  assert.ok(service.url?.startsWith(`${origin}/`), `Service ${service.name} must have a canonical URL.`);
   assert.equal(service.provider?.['@id'], organizationId, `Service ${service.name} must use the canonical Organization ID.`);
   assert.ok(service.areaServed, `Service ${service.name} is missing areaServed.`);
 }
@@ -90,6 +81,74 @@ for (const service of locationServices) {
   assert.equal(service.areaServed?.['@type'], 'City', `Location Service ${service.name} must be served in its city.`);
   assert.equal(service.availableChannel?.['@type'], 'ServiceChannel', `Location Service ${service.name} must use a ServiceChannel.`);
   assert.ok(service.availableChannel?.serviceUrl?.startsWith(`${origin}/`), `Location Service ${service.name} must link to an online lesson page.`);
+}
+
+const renderedPages = outputFiles(fileURLToPath(new URL('../public/', import.meta.url))).map((file) => ({
+  file,
+  html: fs.readFileSync(file, 'utf8'),
+}));
+const pageNodes = renderedPages.map(({ file, html }) => ({
+  file,
+  html,
+  nodes: jsonLdObjects(html).flatMap((object) => object['@graph'] || [object]),
+}));
+const countType = (type) => pageNodes.flatMap((page) => page.nodes).filter((node) => hasType(node, type)).length;
+
+assert.equal(countType('Article'), 9, 'Expected nine rendered Article nodes.');
+assert.equal(countType('Course'), 12, 'Expected twelve rendered Course nodes.');
+assert.equal(countType('FAQPage'), 36, 'Expected thirty-six rendered FAQPage nodes.');
+
+for (const page of pageNodes) {
+  const ids = page.nodes.map((node) => node['@id']).filter(Boolean);
+  assert.equal(new Set(ids).size, ids.length, `${page.file} contains duplicate JSON-LD @id values.`);
+
+  const noindex = /<meta\s+name=robots\s+content=["']?[^>]*noindex/i.test(page.html);
+  const isAlias = /http-equiv=["']?refresh/i.test(page.html);
+  const breadcrumbs = page.nodes.filter((node) => hasType(node, 'BreadcrumbList'));
+  const isRoot = page.file.endsWith(`${path.sep}public${path.sep}index.html`);
+  const isLanguageHome = ['en', 'es', 'pt-br'].some((language) => page.file.endsWith(`${path.sep}public${path.sep}${language}${path.sep}index.html`));
+  if (noindex || isAlias || isRoot || isLanguageHome) {
+    assert.equal(breadcrumbs.length, 0, `${page.file} must not emit breadcrumbs.`);
+  } else {
+    assert.equal(breadcrumbs.length, 1, `${page.file} must emit exactly one breadcrumb list.`);
+    const items = breadcrumbs[0].itemListElement;
+    assert.ok(Array.isArray(items) && items.length >= 2, `${page.file} breadcrumb list must contain at least two items.`);
+    assert.deepEqual(items.map((item) => item.position), items.map((_, index) => index + 1), `${page.file} breadcrumb positions are invalid.`);
+  }
+
+  const twitterAlt = page.html.match(/<meta\s+name=["']?twitter:image:alt["']?\s+content=["']([^"']+)/i)?.[1];
+  const ogAlt = page.html.match(/<meta\s+property=["']?og:image:alt["']?\s+content=["']([^"']+)/i)?.[1];
+  if (twitterAlt) assert.equal(ogAlt, twitterAlt, `${page.file} Open Graph image alt text must match Twitter image alt text.`);
+
+  for (const article of page.nodes.filter((node) => hasType(node, 'Article'))) {
+    for (const property of ['headline', 'description', 'url', 'inLanguage', 'datePublished', 'dateModified', 'image', 'author', 'publisher']) {
+      assert.ok(article[property], `${page.file} Article is missing ${property}.`);
+    }
+    assert.equal(article.mainEntityOfPage?.['@id'], article.url, `${page.file} Article canonical URL is inconsistent.`);
+  }
+
+  for (const faq of page.nodes.filter((node) => hasType(node, 'FAQPage'))) {
+    for (const question of faq.mainEntity || []) {
+      assert.ok(question.name, `${page.file} FAQ item is missing its question.`);
+      assert.ok(question.acceptedAnswer?.text, `${page.file} FAQ question is missing an accepted answer.`);
+    }
+  }
+}
+
+for (const [relative, expectedType] of [
+  ['/en/howto-learn-portuguese/index.html', 'article'],
+  ['/en/portuguese-beginner-phrases/index.html', 'article'],
+  ['/en/newsletter/may-2025/index.html', 'article'],
+  ['/en/portuguese-teaching-services/online-portuguese-lessons/index.html', 'website'],
+  ['/en/portuguese-for-travel/index.html', 'website'],
+  ['/en/portuguese-teaching-locations/advancetown/index.html', 'website'],
+  ['/en/contact-portuguese-teacher/index.html', 'website'],
+  ['/en/privacy/index.html', 'website'],
+]) {
+  const html = readOutput(relative);
+  assertIncludes(html, `property="og:type" content="${expectedType}"`, `${relative} Open Graph type is incorrect.`);
+  const hasArticleTimes = html.includes('property="article:published_time"');
+  assert.equal(hasArticleTimes, expectedType === 'article', `${relative} article timestamps do not match its Open Graph type.`);
 }
 
 const spanishDirectory = readOutput('/es/ubicaciones-clases-portugues/index.html');

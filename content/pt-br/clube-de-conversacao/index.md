@@ -10,14 +10,10 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Caminhos de aprendizagem de português
-migration_schema:
-  type: Course
-  name: Clube de Conversação em Português
-  description: Participe do Clube de Conversação em Português para praticar em um ambiente amigável e acolhedor. Desenvolva fluência e confiança com Barbara Sharon.
-  educational_credential: Certificado de participação
-  audience: Alunos de português de nível intermediário e avançado que desejam praticar conversação e melhorar a fluência
-  prerequisites: Recomenda-se português de nível intermediário
-  in_language: [en, pt-BR]
+service:
+  service_type: Clube de conversação em português brasileiro
+  delivery: Online ou presencial na Gold Coast, conforme a disponibilidade
+  audience: Alunos de português iniciantes, intermediários e avançados que desejam praticar conversação
 ---
 
 ## Clube de Conversação em Português - Desenvolva fluência e confiança

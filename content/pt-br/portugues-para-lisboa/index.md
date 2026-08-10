@@ -14,7 +14,6 @@ migration_schema:
   description: Curso intensivo de português europeu criado especificamente para viajantes que visitarão Lisboa, Portugal. Aprenda frases essenciais para situações comuns de viagem, incluindo cumprimentos, pedidos em restaurantes portugueses tradicionais, orientações pelos bairros históricos de Lisboa e frases de emergência. O curso aborda pronúncia e vocabulário do português europeu, que diferem do português brasileiro.
   audience: Viajantes, turistas e pessoas em férias que planejam visitar Lisboa, Portugal, ou outros destinos de língua portuguesa na Europa
   prerequisites: Nenhum - adequado para iniciantes completos
-  educational_credential: Certificado de conclusão
   in_language:
   - en
   - pt-PT

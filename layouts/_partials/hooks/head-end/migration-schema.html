@@ -23,6 +23,8 @@
   {{- $graph := slice -}}
   {{- $orgID := printf "%s#organization" $siteURL -}}
   {{- $personID := printf "%s#person" $siteURL -}}
+  {{- $languageCodes := dict "en" "en-AU" "pt-br" "pt-BR" "es" "es" -}}
+  {{- $pageLanguage := index $languageCodes $page.Lang | default $page.Language.Lang -}}
   {{- $sameAs := slice -}}
   {{- range site.Params.hugoblox.identity.social.links -}}
     {{- if hasPrefix .url "http" -}}
@@ -36,7 +38,7 @@
     "@type" (slice "Organization" "ProfessionalService" "EducationalOrganization")
     "name" (site.Params.hugoblox.identity.organization | default "Barbara Sharon Portuguese Tutoring")
     "url" $siteURL
-    "description" site.Params.hugoblox.identity.description
+    "description" (i18n "site_description" | default site.Params.hugoblox.identity.description)
     "email" site.Params.hugoblox.seo.ai.contact
     "telephone" site.Params.hugoblox.seo.location.phone
     "address" $orgAddress
@@ -62,6 +64,7 @@
       "@type" "Course"
       "name" $schema.name
       "description" $schema.description
+      "url" $page.Permalink
       "provider" (dict "@id" $orgID)
       "author" (dict "@id" $personID)
     -}}
@@ -82,17 +85,24 @@
     {{- end -}}
     {{- $graph = $graph | append $course -}}
   {{- else if eq $schema.type "Article" -}}
+    {{- $articleHeadline := $schema.headline | default $page.Title -}}
+    {{- $articleDescription := $schema.description | default $page.Description -}}
     {{- $article := dict
       "@id" (printf "%s#article" $page.Permalink)
       "@type" "Article"
-      "headline" $schema.headline
-      "description" $schema.description
+      "headline" $articleHeadline
+      "description" $articleDescription
+      "url" $page.Permalink
+      "inLanguage" $pageLanguage
       "datePublished" ($published.Format "2006-01-02T15:04:05Z07:00")
       "dateModified" ($modified.Format "2006-01-02T15:04:05Z07:00")
       "mainEntityOfPage" (dict "@id" $page.Permalink)
       "author" (dict "@id" $personID)
       "publisher" (dict "@id" $orgID)
     -}}
+    {{- with partial "functions/get_featured_image" $page -}}
+      {{- $article = merge $article (dict "image" .Permalink) -}}
+    {{- end -}}
     {{- $graph = $graph | append $article -}}
   {{- end -}}
 
@@ -119,6 +129,19 @@
       "mainEntity" $questions
     -}}
     {{- $graph = $graph | append $faq -}}
+  {{- end -}}
+
+  {{- $robots := lower (printf "%s" ($page.Params.robots | default "")) -}}
+  {{- if and (not $page.IsHome) (not (strings.Contains $robots "noindex")) -}}
+    {{- $breadcrumbItems := slice (dict "@type" "ListItem" "position" 1 "name" $page.Site.Home.Title "item" $page.Site.Home.Permalink) -}}
+    {{- range $page.Ancestors.Reverse -}}
+      {{- if not .IsHome -}}
+        {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" (add (len $breadcrumbItems) 1) "name" .Title "item" .Permalink) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $breadcrumbItems = $breadcrumbItems | append (dict "@type" "ListItem" "position" (add (len $breadcrumbItems) 1) "name" $page.Title "item" $page.Permalink) -}}
+    {{- $breadcrumb := dict "@id" (printf "%s#breadcrumb" $page.Permalink) "@type" "BreadcrumbList" "itemListElement" $breadcrumbItems -}}
+    {{- $graph = $graph | append $breadcrumb -}}
   {{- end -}}
 
   {{- if gt (len $graph) 0 -}}

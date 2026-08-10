@@ -11,14 +11,7 @@ robots: index, follow, max-image-preview:large
 categories:
 - Rutas de aprendizaje del portugués
 migration_schema:
-  type: Course
-  name: Clases de portugués en línea
-  description: Cursos completos de portugués ofrecidos por Barbara Sharon, incluidas clases en línea, clases particulares y clubes de conversación grupales.
-  category:
-  - Aprendizaje de idiomas
-  - Educación en línea
-  - Clases de portugués en Gold Coast
-  - Profesora de portugués en Gold Coast
+  type: Article
   faq:
   - question: ¿Cuál es la mejor manera de aprender portugués?
     answer: La mejor manera de aprender portugués es mediante clases centradas en la conversación, grupos pequeños y estrategias prácticas de expresión oral que generen confianza para situaciones reales. Con una orientación adecuada, puedes ganar confianza y empezar a comunicarte mucho antes de lo que imaginas.

@@ -14,7 +14,6 @@ migration_schema:
   type: Course
   name: Curso de português para negócios
   description: Treinamento intensivo de língua portuguesa profissional, criado para profissionais de negócios, executivos e empreendedores. Domine a comunicação empresarial, a negociação e a terminologia corporativa em português brasileiro para alcançar sucesso internacional.
-  educational_credential: Certificado profissional em português para negócios
   audience: Profissionais de negócios, executivos, empreendedores e equipes corporativas que trabalham com mercados de língua portuguesa
   prerequisites: Recomendam-se conhecimentos básicos de língua portuguesa
   in_language: [en, pt-BR]

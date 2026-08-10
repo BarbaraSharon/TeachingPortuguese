@@ -12,14 +12,10 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese learning paths
-migration_schema:
-  type: Course
-  name: Portuguese Speaking Club
-  description: Join the Portuguese Speaking Club for conversation practice in a friendly, supportive environment. Build fluency and confidence with Barbara Sharon.
-  educational_credential: Certificate of Participation
-  audience: Intermediate and advanced Portuguese learners who want to practice conversation and improve fluency
-  prerequisites: Intermediate level Portuguese recommended
-  in_language: [en, pt-BR]
+service:
+  service_type: Brazilian Portuguese conversation club
+  delivery: Online or in person on the Gold Coast, subject to availability
+  audience: Beginner, intermediate, and advanced Portuguese learners seeking conversation practice
 ---
 
 ## Portuguese Speaking Club - Build Fluency and Confidence

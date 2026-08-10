@@ -14,7 +14,6 @@ migration_schema:
   description: Curso intensivo de portugués europeo diseñado para viajeros que visitan Lisboa, Portugal.
   audience: Viajeros, turistas y visitantes que planean visitar Lisboa, Portugal u otros destinos lusófonos de Europa
   prerequisites: Ninguno - adecuado para principiantes absolutos
-  educational_credential: Certificado de finalización
   in_language: [es, pt-PT]
 ---
 

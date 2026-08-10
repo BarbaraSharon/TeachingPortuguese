@@ -13,12 +13,7 @@ robots: index, follow, max-image-preview:large
 categories:
 - Portuguese learning paths
 migration_schema:
-  type: Course
-  name: Beginner Brazilian Portuguese Phrases Course
-  description: Beginner Brazilian Portuguese phrase training that teaches greetings, polite expressions, travel basics, and conversation starters with pronunciation guidance for Brazil.
-  audience: Beginner learners, travelers, and professionals starting Portuguese
-  prerequisites: None
-  in_language: [en, pt-BR]
+  type: Article
   faq:
   - question: What is the first Portuguese phrase I should learn?
     answer: Start with Oi and Tudo bem?. Together, they allow you to greet people naturally in almost any situation.

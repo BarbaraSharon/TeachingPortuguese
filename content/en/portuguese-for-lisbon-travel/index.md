@@ -19,7 +19,6 @@ migration_schema:
     and vocabulary which differs from Brazilian Portuguese.
   audience: Travelers, tourists, and vacationers planning to visit Lisbon, Portugal or other Portuguese-speaking destinations in Europe
   prerequisites: None - suitable for complete beginners
-  educational_credential: Certificate of Completion
   in_language:
   - en
   - pt-PT

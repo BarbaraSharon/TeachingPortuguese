@@ -11,12 +11,7 @@ robots: index, follow, max-image-preview:large
 categories:
 - Rutas de aprendizaje del portugués
 migration_schema:
-  type: Course
-  name: Curso de frases de portugués brasileño para principiantes
-  description: Curso de frases de portugués brasileño para principiantes que enseña saludos, expresiones educadas, conceptos básicos para viajar y comienzos de conversación con orientación de pronunciación para Brasil.
-  audience: Estudiantes principiantes, viajeros y profesionales que empiezan a estudiar portugués
-  prerequisites: Ninguno
-  in_language: [es, pt-BR]
+  type: Article
   faq:
   - question: ¿Cuál es la primera frase en portugués que debería aprender?
     answer: Empieza con «Oi» y «Tudo bem?». Juntas te permiten saludar con naturalidad en casi cualquier situación.

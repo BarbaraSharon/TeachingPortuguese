@@ -14,7 +14,6 @@ migration_schema:
   type: Course
   name: Curso de portugués para negocios
   description: Formación intensiva de portugués profesional para profesionales de negocios, ejecutivos y emprendedores. Desarrolla comunicación empresarial, negociación y terminología corporativa en portugués brasileño.
-  educational_credential: Certificado profesional de portugués para negocios
   audience: Profesionales de negocios, ejecutivos, emprendedores y equipos corporativos que trabajan con mercados de habla portuguesa
   prerequisites: Se recomiendan conocimientos básicos de portugués
   in_language: [es, pt-BR]

@@ -11,12 +11,7 @@ robots: index, follow, max-image-preview:large
 categories:
 - Caminhos de aprendizagem de português
 migration_schema:
-  type: Course
-  name: Curso de frases de português brasileiro para iniciantes
-  description: Treinamento de frases de português brasileiro para iniciantes que ensina cumprimentos, expressões de cortesia, noções básicas para viagens e formas de iniciar conversas, com orientação de pronúncia para o Brasil.
-  audience: Alunos iniciantes, viajantes e profissionais que estão começando a aprender português
-  prerequisites: Nenhum
-  in_language: [en, pt-BR]
+  type: Article
   faq:
   - question: Qual é a primeira frase em português que devo aprender?
     answer: Comece com Oi e Tudo bem?. Juntas, essas expressões permitem cumprimentar as pessoas naturalmente em quase qualquer situação.

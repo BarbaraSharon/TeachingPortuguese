@@ -16,7 +16,6 @@ migration_schema:
   type: Course
   name: Portuguese for Travel Course
   description: Intensive Quick and practical Portuguese language course designed specifically for travelers visiting Brazil, Portugal, or other Portuguese-speaking destinations. Learn essential phrases for common travel situations including greetings, ordering food, asking for directions, and emergency phrases.
-  educational_credential: Certificate of Completion
   audience: Travelers, tourists, and vacationers planning to visit Portuguese-speaking countries
   prerequisites: None - suitable for complete beginners
   in_language: [en, pt-BR]
