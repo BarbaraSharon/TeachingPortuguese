@@ -1,5 +1,6 @@
 ---
 translationKey: location-vienna
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Vienna"
 description: "Aulas online de português brasileiro em Vienna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

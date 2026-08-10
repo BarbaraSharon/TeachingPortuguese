@@ -1,14 +1,14 @@
 ---
 translationKey: location-merrimac
-title: "Online Brazilian Portuguese Lessons in Merrimac"
-description: "Online Brazilian Portuguese lessons in Merrimac, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Merrimac: Online & In-Person"
+description: "Brazilian Portuguese lessons in Merrimac, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/merrimac/
 image:
   filename: pages/portuguese-teaching-locations/merrimac/merrimac-portuguese-lesson.png
-  alt_text: Learn Brazilian Portuguese in Merrimac | Private & Group Classes - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Merrimac — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Merrimac. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Merrimac is located in Australia. Merrimac is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Merrimac while the teaching service remains online-first."
-scheduling: "Scheduling from Merrimac: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Merrimac: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Merrimac with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Merrimac is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Merrimac: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Merrimac: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Merrimac"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Merrimac?"
-    answer: "Yes. Lessons are online, so you can study from Merrimac. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -56,7 +56,7 @@ Her services include Portuguese classes in Merrimac, Brazilian Portuguese lesson
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally. Learning Portuguese in Merrimac gives you access to a rich linguistic tradition that extends beyond Brazil. The language has influenced and been influenced by various cultures across Africa, Asia, and the Americas, making it a fascinating subject for study.
 
 Portuguese learning opportunities in Merrimac benefit from the area's multicultural environment, where students can practice with native speakers and participate in cultural events. Whether you're interested in Brazilian Portuguese tutor services or want to explore conversational Portuguese classes in Merrimac, the local community supports language acquisition through both formal education and informal interactions.
-## Online Portuguese Lessons in Merrimac
+## Portuguese lessons in Merrimac: online and in-person options
 
 Barbara Sharon provides flexible options for learning Portuguese, including both in-person lessons in Surfers Paradise and online instruction. Online Portuguese lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals.
 

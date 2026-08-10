@@ -1,5 +1,6 @@
 ---
 translationKey: location-montreal
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Montreal"
 description: "Clases online de portugués brasileño en Montreal, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

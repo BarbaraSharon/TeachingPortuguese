@@ -1,12 +1,13 @@
 ---
 translationKey: location-broadbeach
-title: "Clases online de portugués brasileño en Broadbeach"
-description: "Clases online de portugués brasileño en Broadbeach, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Broadbeach: online y presenciales"
+description: "Clases de portugués brasileño en Broadbeach, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/broadbeach/broadbeach-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués brasileño en Broadbeach | Clases presenciales y en línea - clases de portugués brasileño con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Broadbeach: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Broadbeach. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Broadbeach está situada en Australia. Broadbeach forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Broadbeach, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Broadbeach: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Broadbeach: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Broadbeach con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Broadbeach forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Broadbeach: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Broadbeach: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Broadbeach"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Broadbeach?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Broadbeach. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño en Broadbeach: clases presenciales y en línea
+## Clases de portugués en Broadbeach: opciones online y presenciales
 
 Broadbeach es un vibrante suburbio costero de Gold Coast, conocido por sus impresionantes playas, animados centros comerciales y escena gastronómica multicultural. Con una población diversa de 8.655 habitantes y una importante comunidad nacida en el extranjero del 49,0 %, Broadbeach ofrece un entorno inclusivo y acogedor. Según el censo australiano de 2016, aproximadamente el 1,7 % de la población de Broadbeach hablaba portugués en casa: alrededor de 115 hablantes según la cifra de población de 2021 de 6.786 personas.
 
@@ -48,7 +49,7 @@ Sus habilidades multilingües en italiano y español ofrecen contexto adicional 
 
 Barbara ofrece tutoría particular y oportunidades de aprendizaje grupal, incluidos clubes de conversación interactivos para practicar comunicación. Visita [Servicios](/es/servicios-clases-portugues/) para explorar todas las opciones disponibles, incluidos planes de clase personalizados para principiantes y estudiantes avanzados.
 
-## Clases de portugués presenciales y en línea en Broadbeach
+## Clases de portugués en Broadbeach: opciones online y presenciales
 
 Barbara Sharon imparte clases de portugués presenciales y en línea, y garantiza flexibilidad para estudiantes de Broadbeach. Las clases están disponibles como tutoría particular o sesiones grupales y atienden todos los niveles, desde principiantes hasta estudiantes avanzados. Las clases presenciales se realizan en Surfers Paradise, a pocos minutos de Broadbeach, mientras que las sesiones en línea ofrecen la comodidad del aprendizaje a distancia.
 

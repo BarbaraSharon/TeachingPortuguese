@@ -1,12 +1,13 @@
 ---
 translationKey: location-arundel
-title: "Clases online de portugués brasileño en Arundel"
-description: "Clases online de portugués brasileño en Arundel, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Arundel: online y presenciales"
+description: "Clases de portugués brasileño en Arundel, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/arundel/arundel-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués en Arundel, Queensland | Clases particulares y en línea con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Arundel: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Arundel. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Arundel forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Arundel está situada en Australia. Esta página mantiene la referencia local específica de Arundel, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Arundel: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Arundel: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Arundel con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Arundel forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Arundel: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Arundel: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Arundel"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Arundel?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Arundel. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Arundel, Queensland: clases particulares y en línea con Barbara Sharon
+## Clases de portugués en Arundel: opciones online y presenciales
 
 Arundel, situado en la animada Gold Coast de Queensland, es un lugar ideal para aprender portugués. Con 11.171 habitantes según el censo de 2021, esta comunidad suburbana tranquila ofrece un entorno diverso y acogedor para los estudiantes de idiomas. Su carácter multicultural -el 9,7 % de sus residentes nació en el extranjero- crea buenas oportunidades para el intercambio cultural y la práctica lingüística.
 
@@ -47,7 +48,7 @@ Barbara Sharon aporta una sólida formación académica y docente. Tiene una lic
 Su certificación TESOL garantiza métodos eficaces y adaptables a distintos estilos de aprendizaje. Habla italiano y español con fluidez y ofrece comparaciones lingüísticas que mejoran la comprensión y la retención. Además, su formación como consejera y sus estudios de máster en Estudios Educativos y Gestión del Comportamiento le permiten crear un entorno motivador y de apoyo.
 
 Su currículo integra gramática, vocabulario, conversación y contexto cultural para que no solo aprendas el idioma, sino que también sepas utilizarlo con naturalidad. También organiza sesiones del club de conversación, un espacio informal para practicar portugués con otros estudiantes.
-## Clases presenciales y en línea en Arundel
+## Clases de portugués en Arundel: opciones online y presenciales
 
 Barbara ofrece opciones flexibles adaptadas a tu horario y preferencias:
 - Clases particulares: enseñanza individual, atención personalizada y seguimiento del progreso.

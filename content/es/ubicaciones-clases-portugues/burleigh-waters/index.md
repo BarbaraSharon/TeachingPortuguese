@@ -1,12 +1,13 @@
 ---
 translationKey: location-burleigh-waters
-title: "Clases online de portugués brasileño en Burleigh Waters"
-description: "Clases online de portugués brasileño en Burleigh Waters, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Burleigh Waters: online y presenciales"
+description: "Clases de portugués brasileño en Burleigh Waters, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/burleigh-waters/burleigh-waters-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués en Burleigh Waters | Clases particulares y en línea de portugués brasileño con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Burleigh Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Burleigh Waters. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Burleigh Waters forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Burleigh Waters está situada en Australia. Esta página mantiene la referencia local específica de Burleigh Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Burleigh Waters: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Burleigh Waters: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Burleigh Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Burleigh Waters forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Burleigh Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Burleigh Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Burleigh Waters"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Burleigh Waters?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Burleigh Waters. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Domina el portugués brasileño en Burleigh Waters | Clases particulares y en línea
+## Clases de portugués en Burleigh Waters: opciones online y presenciales
 
 Burleigh Waters es un suburbio dinámico y familiar de Gold Coast, conocido por sus lagos escénicos, parques exuberantes y espíritu comunitario. Con una población diversa de aproximadamente 14.556 residentes, incluido un 28,2 % de personas nacidas en el extranjero, es un lugar ideal para estudiar portugués. La zona tiene una creciente comunidad brasileña, con eventos culturales como Festa Julina Solidária y Festa Julina do Centro en Burleigh Waters Community Centre. Organizaciones como ABRASSO y Brazilian Community WA reúnen a residentes mediante festivales, talleres y encuentros que celebran la rica cultura de Brasil.
 
@@ -47,7 +48,7 @@ Su combinación singular de gramática, vocabulario, práctica de conversación 
 Además de su formación académica, Barbara es orientadora formada y cursa un máster en Estudios Educativos y Gestión del Comportamiento. Este recorrido le permite crear un ambiente de apoyo y ánimo donde el alumnado avanza con confianza.
 
 Ofrece clases grupales y particulares, incluidos clubes de conversación para quienes desean practicar regularmente. Las clases están disponibles presencialmente en Surfers Paradise o en línea, una opción perfecta para estudiantes de Burleigh Waters y más allá. Para más información o reservar una clase de prueba gratuita, visita [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde el formulario de [contacto](/es/contacto-profesora-portugues/).
-## Clases presenciales y en línea de portugués en Burleigh Waters
+## Clases de portugués en Burleigh Waters: opciones online y presenciales
 
 Barbara Sharon ofrece opciones flexibles adaptadas a tu estilo de vida y horario. Las clases presenciales se realizan en Surfers Paradise, a pocos minutos de Burleigh Waters, y permiten interacción directa práctica. Para mayor flexibilidad, las clases en línea permiten aprender desde cualquier lugar.
 

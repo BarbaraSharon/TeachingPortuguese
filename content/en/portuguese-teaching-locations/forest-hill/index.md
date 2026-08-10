@@ -1,14 +1,14 @@
 ---
 translationKey: location-forest-hill
-title: "Online Brazilian Portuguese Lessons in Forest Hill"
-description: "Online Brazilian Portuguese lessons in Forest Hill, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Forest Hill: Online & In-Person"
+description: "Brazilian Portuguese lessons in Forest Hill, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/forest-hill/
 image:
   filename: pages/portuguese-teaching-locations/forest-hill/forest-hill-brazilian-portuguese-lesson.png
-  alt_text: Learn Brazilian Portuguese in Forest Hill | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Forest Hill — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Forest Hill. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Forest Hill is grouped in the Gold Coast location set used for local scheduling and learner guidance. Forest Hill is located in Australia. This page keeps the local reference specific to Forest Hill while the teaching service remains online-first."
-scheduling: "Scheduling from Forest Hill: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Forest Hill: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Forest Hill with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Forest Hill is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Forest Hill: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Forest Hill: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Forest Hill"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Forest Hill?"
-    answer: "Yes. Lessons are online, so you can study from Forest Hill. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 

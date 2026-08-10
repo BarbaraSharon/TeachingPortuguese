@@ -1,5 +1,6 @@
 ---
 translationKey: location-oxenford
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Oxenford"
 description: "Aulas online de português brasileiro em Oxenford, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

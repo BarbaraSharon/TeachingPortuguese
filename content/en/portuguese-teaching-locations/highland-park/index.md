@@ -1,14 +1,14 @@
 ---
 translationKey: location-highland-park
-title: "Online Brazilian Portuguese Lessons in Highland Park"
-description: "Online Brazilian Portuguese lessons in Highland Park, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Highland Park: Online & In-Person"
+description: "Brazilian Portuguese lessons in Highland Park, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/highland-park/
 image:
   filename: pages/portuguese-teaching-locations/highland-park/highland-park-portuguese-lesson.png
-  alt_text: Learn Portuguese with Barbara Sharon | Online & In-Person Classes - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Highland Park — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Highland Park. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Highland Park is grouped in the Gold Coast location set used for local scheduling and learner guidance. Highland Park is located in Australia. This page keeps the local reference specific to Highland Park while the teaching service remains online-first."
-scheduling: "Scheduling from Highland Park: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Highland Park: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Highland Park with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Highland Park is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Highland Park: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Highland Park: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Highland Park"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Highland Park?"
-    answer: "Yes. Lessons are online, so you can study from Highland Park. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Highland Park - Native Speaker Lessons & Online Tutoring
+## Portuguese lessons in Highland Park: online and in-person options
 
 Highland Park is a vibrant and family-oriented suburb on the Gold Coast, home to 6,576 residents. With its diverse community-where 33.7% of residents are foreign-born-there's growing interest in learning Portuguese. Whether you're a beginner or looking to improve your conversational skills, Barbara Sharon offers tailored Portuguese lessons in Surfers Paradise for students in Highland Park. In-person and online options are available to suit your schedule.
 

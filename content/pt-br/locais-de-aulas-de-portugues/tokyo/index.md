@@ -1,5 +1,6 @@
 ---
 translationKey: location-tokyo
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Tokyo"
 description: "Aulas online de português brasileiro em Tokyo, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

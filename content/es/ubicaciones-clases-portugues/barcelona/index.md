@@ -1,5 +1,6 @@
 ---
 translationKey: location-barcelona
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Barcelona"
 description: "Clases online de portugués brasileño en Barcelona, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

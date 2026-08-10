@@ -1,5 +1,6 @@
 ---
 translationKey: location-reedy-creek
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Reedy Creek"
 description: "Aulas online de português brasileiro em Reedy Creek, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

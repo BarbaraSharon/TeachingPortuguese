@@ -1,12 +1,13 @@
 ---
 translationKey: location-foxwell
-title: "Clases online de portugués brasileño en Foxwell"
-description: "Clases online de portugués brasileño en Foxwell, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Foxwell: online y presenciales"
+description: "Clases de portugués brasileño en Foxwell, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/foxwell/foxwell-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués brasileño en Foxwell | Clases particulares y en línea - clases de portugués brasileño con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Foxwell: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Foxwell. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Foxwell forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Foxwell está situada en Australia. Esta página mantiene la referencia local específica de Foxwell, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Foxwell: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Foxwell: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Foxwell con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Foxwell forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Foxwell: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Foxwell: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Foxwell"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Foxwell?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Foxwell. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Foxwell, Australia | Clases particulares y en línea de portugués brasileño
+## Clases de portugués en Foxwell: opciones online y presenciales
 
 Foxwell es un barrio dinámico de la Gold Coast, conocido por su creciente comunidad multicultural y sus oportunidades de desarrollo personal. Aunque no hay datos específicos sobre las poblaciones brasileña o portuguesa de Foxwell, la cercanía de la zona a Surfers Paradise y su reputación como centro internacional la convierten en un lugar ideal para estudiantes de idiomas que buscan experiencias culturales auténticas. Esto hace de Foxwell una excelente ubicación para quienes se interesan por los servicios de una profesora de portugués brasileño o por clases locales de portugués cerca de Foxwell.
 

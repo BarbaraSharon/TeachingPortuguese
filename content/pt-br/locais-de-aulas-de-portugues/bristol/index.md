@@ -1,5 +1,6 @@
 ---
 translationKey: location-bristol
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bristol"
 description: "Aulas online de português brasileiro em Bristol, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

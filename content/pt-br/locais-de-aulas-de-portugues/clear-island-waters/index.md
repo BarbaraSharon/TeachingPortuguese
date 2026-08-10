@@ -1,12 +1,13 @@
 ---
 translationKey: location-clear-island-waters
-title: "Aulas online de português em Clear Island Waters"
-description: "Aulas online de português brasileiro em Clear Island Waters, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+type: portuguese-teaching-locations
+title: "Aulas de português brasileiro em Clear Island Waters: online e presenciais"
+description: "Aulas de português brasileiro em Clear Island Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/clear-island-waters/clear-island-waters-online-canal-lesson.png
-  alt_text: Aprenda português em Clear Island Waters | Aulas particulares e online - aulas de português brasileiro com Barbara Sharon
+  alt_text: "Aulas de português brasileiro em Clear Island Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Clear Island Waters. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
-local_context: "Clear Island Waters faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Clear Island Waters está localizada em Australia. Esta página mantém a referência local específica de Clear Island Waters, enquanto o serviço de ensino continua priorizando o formato online."
-scheduling: "Horários para Clear Island Waters: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Clear Island Waters: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro a partir de Clear Island Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
+local_context: "Clear Island Waters faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+scheduling: "Horários para Clear Island Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Clear Island Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Clear Island Waters"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Clear Island Waters?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Clear Island Waters. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
 editorial_reviewed: true
 ---
 
-## Domine o português brasileiro em Clear Island Waters - aulas particulares e online
+## Aulas de português em Clear Island Waters: opções online e presenciais
 
 Clear Island Waters, um subúrbio sereno e sofisticado na Gold Coast da Austrália, é um local ideal para estudantes de idiomas que buscam um ambiente tranquilo para estudar. Com seus canais, campos de golfe exuberantes e ambiente residencial calmo, esta região oferece o cenário perfeito para o estudo focado de português. Quer você esteja em Clear Island Waters procurando uma professora de português brasileiro ou simplesmente deseje se conectar com uma falante nativa, nossas aulas proporcionam uma experiência confortável e imersiva.
 
@@ -50,7 +51,7 @@ Como instrutora certificada em TESOL, Barbara usa estratégias de ensino eficaze
 
 Cada aula combina gramática, vocabulário, conversação e consciência cultural para garantir que os alunos se sintam confiantes ao usar o português naturalmente. Quer você faça aulas de conversação em português ou comece com aulas de nível iniciante em Clear Island Waters, Barbara adapta seus métodos aos seus objetivos. Seus serviços de tutoria particular e sessões em grupo oferecem flexibilidade a todos os alunos.
 
-## Aulas presenciais e online de português
+## Aulas de português em Clear Island Waters: opções online e presenciais
 
 Barbara Sharon oferece formatos flexíveis de aula, incluindo aulas presenciais, sessões online e aulas em grupo. Todos os níveis são bem-vindos - de iniciantes absolutos a falantes avançados. As aulas particulares oferecem atenção personalizada, enquanto os ambientes em grupo incentivam a interação social e a aprendizagem entre colegas.
 

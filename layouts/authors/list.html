@@ -1,12 +1,5 @@
 {{ define "main" }}
-{{ $subtitle := "" }}
-{{ if eq .Lang "pt-br" }}
-  {{ $subtitle = "Professora e tutora de português" }}
-{{ else if eq .Lang "es" }}
-  {{ $subtitle = "Tutora de portugués" }}
-{{ else }}
-  {{ $subtitle = "Brazilian Portuguese tutor" }}
-{{ end }}
+{{ $subtitle := i18n "author_subtitle" }}
 
 <main class="mx-auto max-w-5xl px-6 py-10 sm:px-8 lg:px-12">
   {{ $authorImage := "" }}

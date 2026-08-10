@@ -1,5 +1,6 @@
 ---
 translationKey: location-kelowna
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Kelowna"
 description: "Aulas online de português brasileiro em Kelowna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

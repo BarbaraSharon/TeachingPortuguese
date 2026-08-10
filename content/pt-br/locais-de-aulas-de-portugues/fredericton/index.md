@@ -1,5 +1,6 @@
 ---
 translationKey: location-fredericton
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Fredericton"
 description: "Aulas online de português brasileiro em Fredericton, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

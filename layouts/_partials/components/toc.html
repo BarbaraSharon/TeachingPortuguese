@@ -26,7 +26,7 @@
   {{ partial "functions/get_hook" (dict "hook" "toc-start" "context" .) }}
   {{- if $show_toc }}
   <div class="hb-scrollbar sticky top-16 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] overflow-y-auto rounded-xl border border-gray-200/80 bg-white/60 px-4 py-5 pr-3 text-sm dark:border-neutral-700 dark:bg-neutral-900/40">
-    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.14em] text-gray-500 dark:text-gray-400">Contents</p>
+    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.14em] text-gray-500 dark:text-gray-400">{{ i18n "contents" }}</p>
     <ul class="space-y-1.5">
       {{- range $headings -}}
         {{- range .Headings -}}

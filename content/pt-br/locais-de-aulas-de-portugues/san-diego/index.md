@@ -1,5 +1,6 @@
 ---
 translationKey: location-san-diego
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em San Diego"
 description: "Aulas online de português brasileiro em San Diego, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

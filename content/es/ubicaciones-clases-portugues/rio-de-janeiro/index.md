@@ -1,5 +1,6 @@
 ---
 translationKey: location-rio-de-janeiro
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Rio De Janeiro"
 description: "Clases online de portugués brasileño en Rio De Janeiro, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

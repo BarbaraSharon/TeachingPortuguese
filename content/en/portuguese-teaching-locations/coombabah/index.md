@@ -1,14 +1,14 @@
 ---
 translationKey: location-coombabah
-title: "Online Brazilian Portuguese Lessons in Coombabah"
-description: "Online Brazilian Portuguese lessons in Coombabah, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Coombabah: Online & In-Person"
+description: "Brazilian Portuguese lessons in Coombabah, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/coombabah/
 image:
   filename: pages/portuguese-teaching-locations/coombabah/coombabah-location-portuguese-lesson.png
-  alt_text: Learn Brazilian Portuguese in Coombabah | Private & Group Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Coombabah — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Coombabah. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Coombabah is grouped in the Gold Coast location set used for local scheduling and learner guidance. Coombabah is located in Australia. This page keeps the local reference specific to Coombabah while the teaching service remains online-first."
-scheduling: "Scheduling from Coombabah: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Coombabah: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Coombabah with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Coombabah is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Coombabah: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Coombabah: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Coombabah"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Coombabah?"
-    answer: "Yes. Lessons are online, so you can study from Coombabah. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -47,7 +47,7 @@ Barbara Sharon brings extensive experience in language education and cultural ex
 As a certified TESOL instructor, Barbara adapts her teaching methods to suit different learning styles. Her multilingual background in Italian and Spanish adds valuable context when comparing languages. Additionally, her training as a counsellor and ongoing studies in Educational Studies enhance her ability to create a supportive and motivating learning environment.
 
 Barbara’s structured approach combines grammar, vocabulary, conversation, and cultural immersion, helping students not only learn the language but also use it naturally. She offers private Portuguese lessons Coombabah, group classes, and speaking clubs for those who want to practice conversational skills in a relaxed setting. Whether you’re seeking a native Portuguese teacher or a Brazilian Portuguese tutor near Coombabah, her flexible options cater to diverse needs.
-## In-person & Online Lessons
+## Portuguese lessons in Coombabah: online and in-person options
 
 Barbara Sharon provides versatile learning solutions including online Portuguese lessons Coombabah and in-person classes in Surfers Paradise. All levels are welcome-from beginners to advanced learners-ensuring that every student receives personalized attention and progress-focused instruction.
 

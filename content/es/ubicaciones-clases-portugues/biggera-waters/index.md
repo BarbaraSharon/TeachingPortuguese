@@ -1,12 +1,13 @@
 ---
 translationKey: location-biggera-waters
-title: "Clases online de portugués brasileño en Biggera Waters"
-description: "Clases online de portugués brasileño en Biggera Waters, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Biggera Waters: online y presenciales"
+description: "Clases de portugués brasileño en Biggera Waters, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/biggera-waters/biggera-waters-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués en Biggera Waters | Clases particulares y en línea con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Biggera Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Biggera Waters. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Biggera Waters está situada en Australia. Biggera Waters forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Biggera Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Biggera Waters: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Biggera Waters: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Biggera Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Biggera Waters forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Biggera Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Biggera Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Biggera Waters"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Biggera Waters?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Biggera Waters. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño en Biggera Waters: clases particulares y en línea
+## Clases de portugués en Biggera Waters: opciones online y presenciales
 
 Biggera Waters, un suburbio dinámico de Gold Coast, Queensland, tiene casi 10.000 habitantes, de los cuales más del 43,5 % nació en el extranjero. Este entorno multicultural es ideal para aprender portugués, especialmente portugués brasileño, hablado por más de 200 millones de personas en todo el mundo. Su estilo de vida relajado y la cercanía a Surfers Paradise facilitan el acceso a clases para quienes viven en Biggera Waters.
 
@@ -49,7 +50,7 @@ Sus clases combinan gramática, vocabulario, conversación y cultura para que lo
 > Falar é fácil, mas falar bem é difícil.
 
 Barbara te ayuda a dominar ambas cosas.
-## Clases presenciales y en línea en Biggera Waters
+## Clases de portugués en Biggera Waters: opciones online y presenciales
 
 Barbara ofrece clases en línea, tutoría particular y sesiones grupales. Todos los niveles son bienvenidos. Las clases particulares ofrecen atención individual y las grupales permiten interactuar y practicar. También hay sesiones del club de conversación.
 

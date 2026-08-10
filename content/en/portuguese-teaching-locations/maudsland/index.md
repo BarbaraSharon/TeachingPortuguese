@@ -1,14 +1,14 @@
 ---
 translationKey: location-maudsland
-title: "Online Brazilian Portuguese Lessons in Maudsland"
-description: "Online Brazilian Portuguese lessons in Maudsland, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Maudsland: Online & In-Person"
+description: "Brazilian Portuguese lessons in Maudsland, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/maudsland/
 image:
   filename: pages/portuguese-teaching-locations/maudsland/maudsland-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Maudsland — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Maudsland. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Maudsland is grouped in the Gold Coast location set used for local scheduling and learner guidance. Maudsland is located in Australia. This page keeps the local reference specific to Maudsland while the teaching service remains online-first."
-scheduling: "Scheduling from Maudsland: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Maudsland: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Maudsland with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Maudsland is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Maudsland: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Maudsland: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Maudsland"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Maudsland?"
-    answer: "Yes. Lessons are online, so you can study from Maudsland. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Maudsland - Private & Online Lessons with Barbara Sharon
+## Portuguese lessons in Maudsland: online and in-person options
 
 Maudsland is a peaceful, semi-rural suburb located in the Gold Coast hinterland, known for its spacious properties and family-friendly atmosphere. With a population of 8,073 as of the 2021 census, the area has a diverse community, with 35.1% of residents born overseas. This international character makes it an ideal place for Portuguese learners to connect with different cultures and languages.
 
@@ -58,7 +58,7 @@ Her teaching approach includes both [private Portuguese tutor maudsland](/en/por
 ## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally. Learning Portuguese in Maudsland gives you access to a rich linguistic tradition that extends beyond Brazil, with deep connections to cultures across Africa, Asia, and the Americas.
-## Online Portuguese Lessons in Maudsland
+## Portuguese lessons in Maudsland: online and in-person options
 
 Students in Maudsland can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Online private and group Portuguese lessons are available worldwide, allowing you to learn at your own pace from the comfort of your home.
 

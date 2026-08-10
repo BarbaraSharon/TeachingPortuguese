@@ -1,5 +1,6 @@
 ---
 translationKey: location-charlottetown
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Charlottetown"
 description: "Clases online de portugués brasileño en Charlottetown, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

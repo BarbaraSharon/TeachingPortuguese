@@ -1,14 +1,14 @@
 ---
 translationKey: location-arundel
-title: "Online Brazilian Portuguese Lessons in Arundel"
-description: "Online Brazilian Portuguese lessons in Arundel, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Arundel: Online & In-Person"
+description: "Brazilian Portuguese lessons in Arundel, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/arundel/
 image:
   filename: pages/portuguese-teaching-locations/arundel/arundel-brazilian-portuguese-lesson.png
-  alt_text: Learn Portuguese in Arundel QLD | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Arundel — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Arundel. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Arundel is grouped in the Gold Coast location set used for local scheduling and learner guidance. Arundel is located in Australia. This page keeps the local reference specific to Arundel while the teaching service remains online-first."
-scheduling: "Scheduling from Arundel: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Arundel: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Arundel with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Arundel is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Arundel: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Arundel: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Arundel"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Arundel?"
-    answer: "Yes. Lessons are online, so you can study from Arundel. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Arundel, QLD - Private & Online Lessons with Barbara Sharon
+## Portuguese lessons in Arundel: online and in-person options
 
 Arundel, nestled on the vibrant Gold Coast in Queensland, is an ideal location for learning Portuguese. With a population of 11,171 as per the 2021 census, this peaceful suburban community offers a diverse and welcoming environment perfect for language learners. The area's multicultural character-where 9.7% of residents were born overseas-creates rich opportunities for cultural exchange and language practice.
 
@@ -49,7 +49,7 @@ Barbara Sharon brings a wealth of academic and teaching expertise to her Portugu
 Her TESOL certification ensures that her teaching methods are effective and adaptable for all learning styles. With fluency in Italian and Spanish, Barbara also offers comparative language insights that enhance comprehension and retention. Additionally, her background as a trained counsellor and pursuit of a Master's degree in Educational Studies and Behaviour Management allow her to create a supportive and motivating environment where every student can thrive.
 
 Barbara’s curriculum integrates grammar, vocabulary, conversation, and cultural context-ensuring that you not only learn the language but also understand how to use it naturally. She also organizes speaking club sessions , providing an informal setting for practicing conversational Portuguese with peers.
-## In-person & Online Portuguese Lessons in Arundel
+## Portuguese lessons in Arundel: online and in-person options
 
 Barbara delivers flexible Portuguese learning options tailored to your schedule and preferences:
 - Private Lessons: One-on-one instruction for personalized attention and progress tracking.

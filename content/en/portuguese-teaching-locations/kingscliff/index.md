@@ -1,14 +1,14 @@
 ---
 translationKey: location-kingscliff
-title: "Online Brazilian Portuguese Lessons in Kingscliff"
-description: "Online Brazilian Portuguese lessons in Kingscliff, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Kingscliff: Online & In-Person"
+description: "Brazilian Portuguese lessons in Kingscliff, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/kingscliff/
 image:
   filename: pages/portuguese-teaching-locations/kingscliff/kingscliff-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Kingscliff — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Kingscliff. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Kingscliff is located in Australia. Kingscliff is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Kingscliff while the teaching service remains online-first."
-scheduling: "Scheduling from Kingscliff: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Kingscliff: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Kingscliff with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Kingscliff is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Kingscliff: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Kingscliff: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Kingscliff"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Kingscliff?"
-    answer: "Yes. Lessons are online, so you can study from Kingscliff. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -55,7 +55,7 @@ With her expertise, Barbara supports learners in understanding the differences b
 As the fifth-most spoken language globally, Portuguese plays an important role in international communication. It has been shaped by influences from Africa, Asia, and the Americas, giving it a unique and diverse character.
 
 Learning Portuguese in Kingscliff gives you access to this rich linguistic heritage and helps you connect with speakers across multiple continents. Whether you're considering travel, business, or cultural immersion, Portuguese opens up many possibilities. For those starting from scratch, Barbara offers Portuguese lessons for beginners kingscliff, while advanced learners can benefit from her conversational Portuguese classes kingscliff.
-## In-Person & Online Portuguese Lessons in Kingscliff
+## Portuguese lessons in Kingscliff: online and in-person options
 
 Barbara Sharon offers in-person Portuguese lessons in Surfers Paradise, just a short distance from Kingscliff. She also provides online Portuguese tutoring for those who prefer remote learning. Both group and private sessions are available to meet your learning style and schedule.
 

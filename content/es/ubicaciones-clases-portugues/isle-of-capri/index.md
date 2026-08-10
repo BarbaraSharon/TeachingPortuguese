@@ -1,12 +1,13 @@
 ---
 translationKey: location-isle-of-capri
-title: "Clases online de portugués brasileño en Isle Of Capri"
-description: "Clases online de portugués brasileño en Isle Of Capri, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Isle Of Capri: online y presenciales"
+description: "Clases de portugués brasileño en Isle Of Capri, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/isle-of-capri/isle-of-capri-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
+  alt_text: "Clases de portugués brasileño en Isle Of Capri: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Isle Of Capri. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Isle Of Capri forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Isle Of Capri está situada en Australia. Esta página mantiene la referencia local específica de Isle Of Capri, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Isle Of Capri: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Isle Of Capri: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Isle Of Capri con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Isle Of Capri forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Isle Of Capri: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Isle Of Capri: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Isle Of Capri"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Isle Of Capri?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Isle Of Capri. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Isle of Capri: clases en línea y presenciales con Barbara Sharon
+## Clases de portugués en Isle Of Capri: opciones online y presenciales
 
 Isle of Capri es un exclusivo suburbio insular de Gold Coast, conocido por sus viviendas frente al agua y su cercanía a Surfers Paradise. Con aproximadamente 14.000 residentes, la zona ofrece un ambiente tranquilo donde puedes concentrarte en aprender idiomas mientras disfrutas de un estilo de vida relajado. La comunidad incluye una mezcla diversa de residentes internacionales; el 14,5 % de la población nació en el extranjero, lo que crea un entorno ideal para sumergirse en la cultura portuguesa y practicar la conversación.
 

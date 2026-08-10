@@ -1,5 +1,6 @@
 ---
 translationKey: location-hamilton
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Hamilton"
 description: "Aulas online de português brasileiro em Hamilton, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

@@ -1,12 +1,13 @@
 ---
 translationKey: location-mermaid-beach
-title: "Aulas online de português brasileiro em Mermaid Beach"
-description: "Aulas online de português brasileiro em Mermaid Beach, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+type: portuguese-teaching-locations
+title: "Aulas de português brasileiro em Mermaid Beach: online e presenciais"
+description: "Aulas de português brasileiro em Mermaid Beach, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/mermaid-beach/mermaid-beach-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, professora e tutora de português brasileiro
+  alt_text: "Aulas de português brasileiro em Mermaid Beach: opções online e presenciais na Gold Coast com Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
@@ -15,16 +16,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Mermaid Beach. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
-local_context: "Mermaid Beach faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Mermaid Beach está localizada em Australia. Esta página mantém a referência local específica de Mermaid Beach, enquanto o serviço de ensino continua priorizando o formato online."
-scheduling: "Horários para Mermaid Beach: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Mermaid Beach: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro a partir de Mermaid Beach com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
+local_context: "Mermaid Beach faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+scheduling: "Horários para Mermaid Beach: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Mermaid Beach: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Mermaid Beach"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Mermaid Beach?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Mermaid Beach. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
 editorial_reviewed: true
 ---
 
@@ -55,7 +56,7 @@ Com sua experiência, Barbara pode orientar você nas nuances entre o português
 
 Como o quinto idioma mais falado do mundo, o português é uma importante língua franca global. Com mais de 267 milhões de falantes nativos, é uma das línguas românicas mais faladas mundialmente. Aprender português em Mermaid Beach dá a você acesso a uma rica tradição linguística que se estende além do Brasil. O idioma foi influenciado por várias culturas da África, da Ásia e das Américas, o que faz dele um tema fascinante para estudar.
 
-## Aulas de português online em Mermaid Beach
+## Aulas de português em Mermaid Beach: opções online e presenciais
 
 Barbara Sharon oferece serviços de tutoria de português online diretamente de Mermaid Beach. Quer você seja iniciante absoluto ou queira melhorar sua fluência, suas aulas interativas utilizam recursos multimídia para tornar a aprendizagem envolvente e eficaz. Para quem prefere interação presencial, ela também oferece aulas em Surfers Paradise, a poucos minutos de Mermaid Beach.
 

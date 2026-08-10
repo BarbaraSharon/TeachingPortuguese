@@ -1,5 +1,6 @@
 ---
 translationKey: location-lausanne
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lausanne"
 description: "Aulas online de português brasileiro em Lausanne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

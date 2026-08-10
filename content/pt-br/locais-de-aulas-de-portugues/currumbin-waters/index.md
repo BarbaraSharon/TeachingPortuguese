@@ -1,12 +1,13 @@
 ---
 translationKey: location-currumbin-waters
-title: "Aulas online de português brasileiro em Currumbin Waters"
-description: "Aulas online de português brasileiro em Currumbin Waters, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+type: portuguese-teaching-locations
+title: "Aulas de português brasileiro em Currumbin Waters: online e presenciais"
+description: "Aulas de português brasileiro em Currumbin Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/currumbin-waters/currumbin-waters-location-portuguese-lesson.png
-  alt_text: Aprenda português em Currumbin Waters | Aulas particulares e online - aulas de português brasileiro com Barbara Sharon
+  alt_text: "Aulas de português brasileiro em Currumbin Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Currumbin Waters. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
-local_context: "Currumbin Waters está localizada em Australia. Currumbin Waters faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Currumbin Waters, enquanto o serviço de ensino continua priorizando o formato online."
-scheduling: "Horários para Currumbin Waters: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Currumbin Waters: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro a partir de Currumbin Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
+local_context: "Currumbin Waters faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+scheduling: "Horários para Currumbin Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Currumbin Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Currumbin Waters"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Currumbin Waters?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Currumbin Waters. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
 editorial_reviewed: true
 ---
 
-## Domine o português brasileiro em Currumbin Waters | Aulas particulares e online
+## Aulas de português em Currumbin Waters: opções online e presenciais
 
 Localizado no sul da Gold Coast, Currumbin Waters é um subúrbio tranquilo, conhecido por seus canais pitorescos e atmosfera familiar. Com aproximadamente 9.800 residentes, oferece um cenário ideal para estudantes de idiomas que buscam um ambiente calmo para estudar português. A crescente comunidade brasileira da região proporciona oportunidades únicas de imersão cultural por meio de eventos e festivais locais que celebram as tradições brasileiras.
 
@@ -54,7 +55,7 @@ Além de suas qualificações educacionais, Barbara é conselheira formada e atu
 
 Cada aula combina gramática, vocabulário, conversação e conhecimentos culturais, ajudando você não apenas a aprender português, mas também a falá-lo naturalmente na vida cotidiana. Barbara oferece aulas individuais, aulas em grupo e clubes de conversação para prática mais imersiva. Você pode escolher sessões particulares com professora de português perto de Currumbin Waters, aulas conduzidas por uma professora de português brasileiro ou aprendizagem online a distância.
 
-## Aulas presenciais e online de português em Currumbin Waters
+## Aulas de português em Currumbin Waters: opções online e presenciais
 
 Os formatos flexíveis de aula incluem sessões online individuais, tutoria particular e aulas em grupo. Todos os níveis - de iniciantes absolutos a falantes avançados - são bem-vindos. As aulas particulares oferecem atenção personalizada para o estudo focado, enquanto as sessões em grupo proporcionam oportunidades de interagir e praticar com outras pessoas.
 

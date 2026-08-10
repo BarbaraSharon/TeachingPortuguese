@@ -1,5 +1,6 @@
 ---
 translationKey: location-hamilton
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Hamilton"
 description: "Clases online de portugués brasileño en Hamilton, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

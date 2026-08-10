@@ -1,5 +1,6 @@
 ---
 translationKey: location-seville
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Seville"
 description: "Aulas online de português brasileiro em Seville, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

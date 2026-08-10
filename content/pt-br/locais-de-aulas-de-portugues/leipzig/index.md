@@ -1,5 +1,6 @@
 ---
 translationKey: location-leipzig
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Leipzig"
 description: "Aulas online de português brasileiro em Leipzig, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

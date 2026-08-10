@@ -1,5 +1,6 @@
 ---
 translationKey: location-bologna
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bologna"
 description: "Aulas online de português brasileiro em Bologna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

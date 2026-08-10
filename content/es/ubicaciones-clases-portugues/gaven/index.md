@@ -1,12 +1,13 @@
 ---
 translationKey: location-gaven
-title: "Clases online de portugués brasileño en Gaven"
-description: "Clases online de portugués brasileño en Gaven, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Gaven: online y presenciales"
+description: "Clases de portugués brasileño en Gaven, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/gaven/gaven-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués brasileño en Gaven | Clases particulares y grupales en línea con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Gaven: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Gaven. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Gaven forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Gaven está situada en Australia. Esta página mantiene la referencia local específica de Gaven, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Gaven: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Gaven: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Gaven con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Gaven forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Gaven: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Gaven: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Gaven"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Gaven?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Gaven. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño en Gaven, Australia: clases particulares y en línea
+## Clases de portugués en Gaven: opciones online y presenciales
 
 Gaven es un tranquilo suburbio residencial del norte de Gold Coast, conocido por su ambiente apacible y fácil acceso a las carreteras principales. Con una población aproximada de 1.638 residentes, ofrece un entorno ideal para el aprendizaje concentrado. Aunque los datos específicos sobre hablantes portugueses o brasileños en Gaven son limitados, la región de Gold Coast se beneficia de una diversidad cultural creciente. La presencia de comunidades brasileñas activas en zonas cercanas como Brisbane hace de Gaven un excelente lugar para conectar con la cultura y el idioma de Brasil.
 

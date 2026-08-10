@@ -1,5 +1,6 @@
 ---
 translationKey: location-lyon
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Lyon"
 description: "Clases online de portugués brasileño en Lyon, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05

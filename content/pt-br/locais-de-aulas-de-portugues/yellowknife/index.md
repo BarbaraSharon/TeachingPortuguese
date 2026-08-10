@@ -1,5 +1,6 @@
 ---
 translationKey: location-yellowknife
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Yellowknife"
 description: "Aulas online de português brasileiro em Yellowknife, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

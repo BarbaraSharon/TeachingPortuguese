@@ -1,5 +1,6 @@
 ---
 translationKey: location-utrecht
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Utrecht"
 description: "Aulas online de português brasileiro em Utrecht, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

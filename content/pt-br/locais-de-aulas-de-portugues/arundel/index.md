@@ -1,12 +1,13 @@
 ---
 translationKey: location-arundel
-title: "Aulas online de português brasileiro em Arundel"
-description: "Aulas online de português brasileiro em Arundel, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+type: portuguese-teaching-locations
+title: "Aulas de português brasileiro em Arundel: online e presenciais"
+description: "Aulas de português brasileiro em Arundel, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/arundel/arundel-brazilian-portuguese-lesson.png
-  alt_text: Aprenda português em Arundel, QLD | Aulas particulares e online - aulas de português brasileiro com Barbara Sharon
+  alt_text: "Aulas de português brasileiro em Arundel: opções online e presenciais na Gold Coast com Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Arundel. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
-local_context: "Arundel faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Arundel está localizada em Australia. Esta página mantém a referência local específica de Arundel, enquanto o serviço de ensino continua priorizando o formato online."
-scheduling: "Horários para Arundel: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Arundel: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro a partir de Arundel com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
+local_context: "Arundel faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+scheduling: "Horários para Arundel: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Arundel: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Arundel"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Arundel?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Arundel. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
 editorial_reviewed: true
 ---
 
-## Aprenda português em Arundel, QLD - aulas particulares e online com Barbara Sharon
+## Aulas de português em Arundel: opções online e presenciais
 
 Arundel, situado na vibrante Gold Coast, em Queensland, é um local ideal para aprender português. Com uma população de 11.171 habitantes, segundo o censo de 2021, essa comunidade suburbana tranquila oferece um ambiente diverso e acolhedor, perfeito para estudantes de idiomas. O caráter multicultural da região - onde 9,7% dos residentes nasceram no exterior - cria ricas oportunidades para intercâmbio cultural e prática do idioma.
 
@@ -50,7 +51,7 @@ Sua certificação em TESOL garante que seus métodos de ensino sejam eficazes e
 
 O currículo de Barbara integra gramática, vocabulário, conversação e contexto cultural, garantindo que você não apenas aprenda o idioma, mas também entenda como usá-lo naturalmente. Ela também organiza sessões de clube de conversação, oferecendo um ambiente informal para praticar português conversacional com colegas.
 
-## Aulas de português presenciais e online em Arundel
+## Aulas de português em Arundel: opções online e presenciais
 
 Barbara oferece opções flexíveis de aprendizagem de português, adaptadas à sua agenda e às suas preferências:
 

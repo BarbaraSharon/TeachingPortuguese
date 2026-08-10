@@ -1,12 +1,13 @@
 ---
 translationKey: location-bundall
-title: "Clases online de portugués brasileño en Bundall"
-description: "Clases online de portugués brasileño en Bundall, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Bundall: online y presenciales"
+description: "Clases de portugués brasileño en Bundall, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/bundall/bundall-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués brasileño en Bundall | Clases particulares y en línea de portugués brasileño con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Bundall: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Bundall. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Bundall forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Bundall está situada en Australia. Esta página mantiene la referencia local específica de Bundall, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Bundall: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Bundall: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Bundall con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Bundall forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Bundall: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Bundall: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Bundall"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Bundall?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Bundall. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño en Bundall: clases particulares y en línea
+## Clases de portugués en Bundall: opciones online y presenciales
 
 Bundall es un suburbio vibrante y agradable de Gold Coast, situado cerca de Surfers Paradise y Southport. Con una población aproximada de 4.895 residentes según el censo de 2021, ofrece un entorno relajado ideal para estudiantes de idiomas. La zona tiene una comunidad diversa, con un 33,2 % de residentes nacidos en el extranjero, que crea una atmósfera inclusiva para el intercambio cultural y el aprendizaje. Tanto si buscas una tutora de portugués en Bundall como clases de portugués brasileño en Bundall, Bundall brinda un entorno acogedor a estudiantes de todos los niveles.
 
@@ -48,7 +49,7 @@ La formación de Barbara como orientadora y su maestría en curso en Estudios Ed
 
 Para más detalles sobre sus clases, visita nuestra página de [servicios](/es/servicios-clases-portugues/). Su enfoque garantiza que el alumnado encuentre la opción adecuada, tanto si necesita clases de conversación en portugués en Bundall como instrucción para principiantes adaptada a sus necesidades.
 
-## Clases presenciales y en línea
+## Clases de portugués en Bundall: opciones online y presenciales
 
 Barbara Sharon ofrece clases de portugués flexibles en Bundall y otras zonas. Las clases presenciales se realizan en Surfers Paradise, a poca distancia de Bundall, y brindan acceso conveniente a estudiantes locales que buscan una profesora de portugués en Bundall. Para quienes prefieren estudiar a distancia, también hay opciones de tutoría de portugués en línea, que facilitan participar desde cualquier lugar en clases de portugués cerca de Bundall.
 

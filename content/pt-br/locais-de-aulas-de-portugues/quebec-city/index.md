@@ -1,5 +1,6 @@
 ---
 translationKey: location-quebec-city
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Cidade de Quebec"
 description: "Aulas online de português brasileiro em Cidade de Quebec, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

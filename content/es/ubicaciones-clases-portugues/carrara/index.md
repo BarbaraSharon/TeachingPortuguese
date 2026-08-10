@@ -1,12 +1,13 @@
 ---
 translationKey: location-carrara
-title: "Clases online de portugués brasileño en Carrara"
-description: "Clases online de portugués brasileño en Carrara, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Carrara: online y presenciales"
+description: "Clases de portugués brasileño en Carrara, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/carrara/carrara-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués brasileño en Carrara | Clases presenciales y en línea con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Carrara: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,16 +16,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Carrara. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Carrara forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Carrara está situada en Australia. Esta página mantiene la referencia local específica de Carrara, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Carrara: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Carrara: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Carrara con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Carrara forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Carrara: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Carrara: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Carrara"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Carrara?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Carrara. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
@@ -43,7 +44,7 @@ Brasil es el país con mayor población lusófona y ofrece experiencias cultural
 Barbara Sharon aporta una amplia experiencia a su enseñanza de portugués en Carrara. Como profesora certificada TESOL y graduada de la Universidad Federal de Río de Janeiro (UFRJ), ofrece conocimientos culturales brasileños auténticos junto con técnicas de enseñanza lingüística eficaces. Su experiencia multilingüe en italiano y español mejora su capacidad para ayudar al alumnado a comprender los patrones lingüísticos de distintos idiomas.
 
 Además, su formación como orientadora garantiza que aprender no sea solo una cuestión de gramática, sino que también apoye el bienestar emocional durante el recorrido. Las clases de Barbara combinan gramática, vocabulario, pronunciación y habilidades de conversación con contexto cultural del mundo real, lo que hace que cada lección sea informativa e interesante. Ofrece sesiones particulares y grupales, y permite elegir entre atención concentrada o práctica colaborativa en un entorno de apoyo.
-## Clases presenciales y en línea
+## Clases de portugués en Carrara: opciones online y presenciales
 
 Barbara ofrece enseñanza flexible para todos los niveles. Las clases presenciales se imparten en Surfers Paradise y las remotas se adaptan a horarios ocupados:
 - Clases particulares: atención individual para objetivos personalizados.

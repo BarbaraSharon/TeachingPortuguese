@@ -97,6 +97,8 @@
   translation: min read
 - id: read_more
   translation: Read more
+- id: view_lessons
+  translation: View lessons
 - id: last_updated
   translation: Last updated
 - id: feedback_widget_question
@@ -141,3 +143,80 @@
   translation: Open %s
 - id: yes
   translation: Yes
+
+- id: author_subtitle
+  translation: Brazilian Portuguese tutor
+- id: service_lesson_option
+  translation: Lesson option
+- id: newsletter_empty
+  translation: The first issue is on its way.
+- id: redirect_title
+  translation: Redirecting to Barbara Sharon
+- id: redirect_continue
+  translation: Continue to the current page.
+- id: location_directory_eyebrow
+  translation: Portuguese lessons online and on the Gold Coast
+- id: location_browse_regions
+  translation: Browse by region
+- id: location_jump_to_region
+  translation: Jump to a region
+- id: location_find_city
+  translation: Find your city
+- id: location_directory_heading
+  translation: Tutoring locations
+- id: location_count_suffix
+  translation: locations available
+- id: location_format_online
+  translation: Online lessons
+- id: location_format_online_in_person
+  translation: Online and in-person lessons
+- id: location_lesson_details
+  translation: Lesson details
+- id: location_local_context
+  translation: Local context
+- id: location_scheduling
+  translation: Scheduling and time zone
+- id: location_learner_use_case
+  translation: How you might use the lessons
+- id: location_faq
+  translation: Frequently asked questions
+- id: location_local_details
+  translation: Local details
+- id: location_city
+  translation: City
+- id: location_country
+  translation: Country
+- id: location_time_zone
+  translation: IANA time zone
+- id: location_region_gold_coast
+  translation: Gold Coast — online and in-person lessons
+- id: location_region_australia_new_zealand
+  translation: Australia & New Zealand
+- id: location_region_asia
+  translation: Asia
+- id: location_region_europe
+  translation: Europe
+- id: location_region_north_america
+  translation: North America
+- id: location_region_south_america
+  translation: South America
+- id: location_region_africa
+  translation: Africa
+- id: block_contact_copy_hint
+  translation: Click to copy
+- id: block_contact_call
+  translation: Call me
+- id: block_contact_email
+  translation: Email
+- id: block_contact_phone
+  translation: Phone
+- id: schema_service_type
+  translation: Brazilian Portuguese lessons
+- id: schema_online_lessons
+  translation: Online lessons
+- id: schema_in_person_lessons
+  translation: In-person Brazilian Portuguese lessons
+- id: schema_language_lessons
+  translation: Language lessons
+- id: schema_language_classes
+  translation: Language classes

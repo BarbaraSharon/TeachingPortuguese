@@ -1,12 +1,13 @@
 ---
 translationKey: location-kingsholme
-title: "Clases online de portugués brasileño en Kingsholme"
-description: "Clases online de portugués brasileño en Kingsholme, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Kingsholme: online y presenciales"
+description: "Clases de portugués brasileño en Kingsholme, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/kingsholme/kingsholme-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
+  alt_text: "Clases de portugués brasileño en Kingsholme: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,16 +16,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Kingsholme. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Kingsholme está situada en Australia. Kingsholme forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Kingsholme, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Kingsholme: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Kingsholme: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Kingsholme con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Kingsholme forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Kingsholme: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Kingsholme: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Kingsholme"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Kingsholme?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Kingsholme. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
@@ -60,7 +61,7 @@ Como uno de los idiomas romances más hablados del mundo, el portugués ocupa el
 
 Aprender portugués en Kingsholme abre las puertas a comprender una tradición lingüística dinámica que hoy moldea la comunicación global. Desde negociaciones comerciales hasta el intercambio cultural, dominar este hermoso idioma te da acceso a una gran riqueza de experiencias y oportunidades internacionales.
 
-## Clases de portugués presenciales y en línea en Kingsholme
+## Clases de portugués en Kingsholme: opciones online y presenciales
 
 Tanto si buscas una profesora de portugués en Kingsholme como una tutora de portugués brasileño en Kingsholme, Barbara Sharon ofrece opciones flexibles adaptadas a tu estilo de vida. Las clases presenciales se realizan en Surfers Paradise y las sesiones en línea están disponibles para estudiantes a distancia.
 

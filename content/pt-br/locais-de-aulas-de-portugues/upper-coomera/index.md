@@ -1,5 +1,6 @@
 ---
 translationKey: location-upper-coomera
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Upper Coomera"
 description: "Aulas online de português brasileiro em Upper Coomera, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

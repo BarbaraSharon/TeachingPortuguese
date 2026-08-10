@@ -1,5 +1,6 @@
 ---
 translationKey: location-tel-aviv
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Tel Aviv"
 description: "Clases online de portugués brasileño en Tel Aviv, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

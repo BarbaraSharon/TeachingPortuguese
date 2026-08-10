@@ -1,5 +1,6 @@
 ---
 translationKey: location-auckland
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Auckland"
 description: "Aulas online de português brasileiro em Auckland, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

@@ -1,14 +1,14 @@
 ---
 translationKey: location-foxwell
-title: "Online Brazilian Portuguese Lessons in Foxwell"
-description: "Online Brazilian Portuguese lessons in Foxwell, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Foxwell: Online & In-Person"
+description: "Brazilian Portuguese lessons in Foxwell, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/foxwell/
 image:
   filename: pages/portuguese-teaching-locations/foxwell/foxwell-brazilian-portuguese-lesson.png
-  alt_text: Learn Brazilian Portuguese in Foxwell | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Foxwell — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Foxwell. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Foxwell is grouped in the Gold Coast location set used for local scheduling and learner guidance. Foxwell is located in Australia. This page keeps the local reference specific to Foxwell while the teaching service remains online-first."
-scheduling: "Scheduling from Foxwell: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Foxwell: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Foxwell with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Foxwell is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Foxwell: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Foxwell: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Foxwell"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Foxwell?"
-    answer: "Yes. Lessons are online, so you can study from Foxwell. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Foxwell, Australia | Private & Online Brazilian Lessons
+## Portuguese lessons in Foxwell: online and in-person options
 
 Foxwell is a vibrant and dynamic neighborhood on the Gold Coast, known for its growing multicultural community and opportunities for personal development. While specific data about Brazilian or Portuguese populations in Foxwell remains unavailable, the area's proximity to Surfers Paradise and its reputation as an international hub make it an ideal spot for language learners seeking authentic cultural experiences. This makes Foxwell a great location for those interested in Brazilian Portuguese tutor services or local Portuguese lessons near Foxwell.
 

@@ -1,12 +1,13 @@
 ---
 translationKey: location-clear-island-waters
-title: "Clases online de portugués en Clear Island Waters"
-description: "Clases online de portugués brasileño en Clear Island Waters, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Clear Island Waters: online y presenciales"
+description: "Clases de portugués brasileño en Clear Island Waters, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/clear-island-waters/clear-island-waters-online-canal-lesson.png
-  alt_text: Aprende portugués en Clear Island Waters | Clases particulares y en línea - clases de portugués brasileño con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Clear Island Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Clear Island Waters. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Clear Island Waters forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Clear Island Waters está situada en Australia. Esta página mantiene la referencia local específica de Clear Island Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Clear Island Waters: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Clear Island Waters: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Clear Island Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Clear Island Waters forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Clear Island Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Clear Island Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Clear Island Waters"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Clear Island Waters?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Clear Island Waters. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Domina el portugués brasileño en Clear Island Waters: clases particulares y en línea
+## Clases de portugués en Clear Island Waters: opciones online y presenciales
 
 Clear Island Waters, un suburbio sereno y exclusivo de Gold Coast, Australia, es un lugar ideal para quienes desean aprender idiomas en un entorno tranquilo. Sus vías navegables, exuberantes campos de golf y apacible ambiente residencial ofrecen el marco perfecto para concentrarse en el estudio del portugués. Tanto si buscas una profesora de portugués brasileño en Clear Island Waters como si simplemente quieres conectar con una hablante nativa, las clases ofrecen una experiencia cómoda e inmersiva.
 
@@ -50,7 +51,7 @@ Como instructora certificada TESOL, Barbara emplea estrategias de enseñanza efi
 
 Cada clase combina gramática, vocabulario, conversación y conciencia cultural para que el alumnado use el portugués naturalmente. Tanto si tomas clases de conversación como si comienzas con clases para principiantes en Clear Island Waters, Barbara adapta su método a tus objetivos. Sus tutorías particulares y sesiones grupales ofrecen flexibilidad para todo tipo de estudiantes.
 
-## Clases de portugués presenciales y en línea
+## Clases de portugués en Clear Island Waters: opciones online y presenciales
 
 Barbara Sharon ofrece formatos flexibles que incluyen clases presenciales, sesiones en línea y clases grupales. Todos los niveles son bienvenidos, desde principiantes absolutos hasta hablantes avanzados. Las clases particulares proporcionan atención personalizada, mientras que los grupos fomentan la interacción social y el aprendizaje entre pares.
 

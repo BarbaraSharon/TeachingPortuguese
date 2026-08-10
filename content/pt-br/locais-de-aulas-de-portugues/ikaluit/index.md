@@ -1,5 +1,6 @@
 ---
 translationKey: location-ikaluit
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Ikaluit"
 description: "Aulas online de português brasileiro em Ikaluit, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

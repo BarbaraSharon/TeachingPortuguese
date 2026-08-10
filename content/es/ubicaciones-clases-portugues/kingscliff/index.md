@@ -1,12 +1,13 @@
 ---
 translationKey: location-kingscliff
-title: "Clases online de portugués brasileño en Kingscliff"
-description: "Clases online de portugués brasileño en Kingscliff, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Kingscliff: online y presenciales"
+description: "Clases de portugués brasileño en Kingscliff, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/kingscliff/kingscliff-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
+  alt_text: "Clases de portugués brasileño en Kingscliff: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,16 +16,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Kingscliff. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Kingscliff está situada en Australia. Kingscliff forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Kingscliff, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Kingscliff: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Kingscliff: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Kingscliff con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Kingscliff forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Kingscliff: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Kingscliff: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Kingscliff"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Kingscliff?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Kingscliff. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
@@ -54,7 +55,7 @@ Con su experiencia, Barbara ayuda a entender diferencias entre el portugués bra
 Como quinta lengua más hablada del mundo, el portugués tiene un papel importante en la comunicación internacional. Ha sido moldeado por influencias de África, Asia y América, lo que le da un carácter único y diverso.
 
 Aprender portugués en Kingscliff te permite acceder a este rico patrimonio lingüístico y conectar con hablantes de varios continentes. Tanto si consideras viajar, hacer negocios o sumergirte en la cultura, el portugués abre muchas posibilidades. Para quienes empiezan desde cero, Barbara ofrece clases para principiantes; el alumnado avanzado puede beneficiarse de sus clases de conversación.
-## Clases presenciales y en línea de portugués en Kingscliff
+## Clases de portugués en Kingscliff: opciones online y presenciales
 
 Barbara Sharon ofrece clases presenciales de portugués en Surfers Paradise, a poca distancia de Kingscliff. También proporciona tutoría de portugués en línea para quienes prefieren aprender a distancia. Hay sesiones grupales y particulares para atender tu estilo de aprendizaje y horario.
 

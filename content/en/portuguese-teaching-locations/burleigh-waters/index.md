@@ -1,14 +1,14 @@
 ---
 translationKey: location-burleigh-waters
-title: "Online Brazilian Portuguese Lessons in Burleigh Waters"
-description: "Online Brazilian Portuguese lessons in Burleigh Waters, with Barbara Sharon. Private and group formats available online."
+title: "Brazilian Portuguese Lessons in Burleigh Waters: Online & In-Person"
+description: "Brazilian Portuguese lessons in Burleigh Waters, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/burleigh-waters/
 image:
   filename: pages/portuguese-teaching-locations/burleigh-waters/burleigh-waters-brazilian-portuguese-lesson.png
-  alt_text: Learn Portuguese in Burleigh Waters | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Burleigh Waters — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Burleigh Waters. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Burleigh Waters is grouped in the Gold Coast location set used for local scheduling and learner guidance. Burleigh Waters is located in Australia. This page keeps the local reference specific to Burleigh Waters while the teaching service remains online-first."
-scheduling: "Scheduling from Burleigh Waters: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Burleigh Waters: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Burleigh Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Burleigh Waters is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Burleigh Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Burleigh Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Burleigh Waters"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Burleigh Waters?"
-    answer: "Yes. Lessons are online, so you can study from Burleigh Waters. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Master Brazilian Portuguese in Burleigh Waters | Private & Online Lessons
+## Portuguese lessons in Burleigh Waters: online and in-person options
 
 Burleigh Waters is a vibrant and family-friendly suburb on the Gold Coast, known for its scenic lakes, lush parks, and community spirit. With a diverse population of approximately 14,556 residents, including 28.2% foreign-born individuals, it's an ideal place to study Portuguese. The area has a growing Brazilian community, with cultural events like Festa Julina Solidária and Festa Julina do Centro held at the Burleigh Waters Community Centre. Organizations such as ABRASSO and the Brazilian Community WA bring together locals through festivals, workshops, and gatherings that celebrate Brazil's rich culture.
 
@@ -49,7 +49,7 @@ Her unique blend of grammar, vocabulary, conversation practice, and cultural con
 In addition to her academic background, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This background enables her to create a supportive, encouraging environment where students can grow confidently in their language journey.
 
 She offers both group and private Portuguese lessons, including speaking clubs for those wanting regular conversation practice. Lessons are available in-person in Surfers Paradise or online-perfect for learners in Burleigh Waters and beyond. For more information or to book a free trial lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact us via the [Contact](/en/contact-portuguese-teacher/)form.
-## In-person & Online Portuguese Lessons in Burleigh Waters
+## Portuguese lessons in Burleigh Waters: online and in-person options
 
 Barbara Sharon offers flexible learning options tailored to your lifestyle and schedule. In-person lessons take place in Surfers Paradise, just minutes away from Burleigh Waters, allowing for convenient face-to-face interaction. For added flexibility, online classes enable remote learning from anywhere.
 

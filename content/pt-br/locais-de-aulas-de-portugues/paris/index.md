@@ -1,5 +1,6 @@
 ---
 translationKey: location-paris
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Paris"
 description: "Aulas online de português brasileiro em Paris, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

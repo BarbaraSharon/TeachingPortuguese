@@ -1,5 +1,6 @@
 ---
 translationKey: location-nanaimo
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Nanaimo"
 description: "Aulas online de português brasileiro em Nanaimo, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

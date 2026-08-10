@@ -1,12 +1,13 @@
 ---
 translationKey: location-advancetown
-title: "Clases online de portugués brasileño en Advancetown"
-description: "Clases online de portugués brasileño en Advancetown, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Advancetown: online y presenciales"
+description: "Clases de portugués brasileño en Advancetown, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/advancetown/advancetown-brazilian-portuguese-lesson.png
-  alt_text: Aprende portugués brasileño en Advancetown | Clases particulares y en línea con Barbara Sharon
+  alt_text: "Clases de portugués brasileño en Advancetown: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Advancetown. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Advancetown forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Advancetown está situada en Australia. Esta página mantiene la referencia local específica de Advancetown, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Advancetown: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Advancetown: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Advancetown con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Advancetown forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Advancetown: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Advancetown: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Advancetown"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Advancetown?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Advancetown. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Domina el portugués brasileño en Advancetown: clases presenciales y en línea
+## Clases de portugués en Advancetown: opciones online y presenciales
 
 Advancetown, un barrio tranquilo y pintoresco del interior de Gold Coast, en Queensland, ofrece un entorno ideal para concentrarse en aprender idiomas. Con una comunidad pequeña pero activa de unos 528 residentes, esta zona combina la tranquilidad con la cercanía de ciudades importantes como Brisbane y Surfers Paradise.
 
@@ -45,7 +46,7 @@ Barbara Sharon aporta más de una década de experiencia en la enseñanza de idi
 Como instructora certificada por TESOL, utiliza técnicas pedagógicas modernas adaptadas a cada estudiante. Sus conocimientos de italiano y español ayudan a comprender las estructuras gramaticales mediante la comparación. Además, su formación como consejera y sus estudios de máster en Estudios Educativos y Gestión del Comportamiento le permiten crear un entorno de apoyo donde todos pueden progresar.
 
 Sus clases combinan cuidadosamente gramática, vocabulario, conversación y contexto cultural para que los estudiantes comprendan no solo qué decir, sino cómo decirlo con naturalidad. También ofrece clubes de conversación para practicar en un ambiente relajado.
-## Opciones flexibles de aprendizaje: presenciales y en línea
+## Clases de portugués en Advancetown: opciones online y presenciales
 
 Barbara Sharon ofrece clases en línea, tutoría particular y sesiones grupales. Todos los niveles son bienvenidos, desde principiantes absolutos hasta hablantes avanzados. Las clases particulares permiten una atención individual y las grupales proporcionan práctica interactiva y apoyo entre compañeros.
 

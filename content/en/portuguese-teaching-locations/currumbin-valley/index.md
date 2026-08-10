@@ -1,14 +1,14 @@
 ---
 translationKey: location-currumbin-valley
-title: "Online Brazilian Portuguese Lessons in Currumbin Valley"
-description: "Online Brazilian Portuguese lessons in Currumbin Valley, with Barbara Sharon. Private and group formats available online."
+title: "Brazilian Portuguese Lessons in Currumbin Valley: Online & In-Person"
+description: "Brazilian Portuguese lessons in Currumbin Valley, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/currumbin-valley/
 image:
   filename: pages/portuguese-teaching-locations/currumbin-valley/currumbin-valley-brazilian-portuguese-lesson.png
-  alt_text: Learn Portuguese in Currumbin Valley | Online & In-Person Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Currumbin Valley — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Currumbin Valley. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Currumbin Valley is located in Australia. Currumbin Valley is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Currumbin Valley while the teaching service remains online-first."
-scheduling: "Scheduling from Currumbin Valley: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Currumbin Valley: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Currumbin Valley with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Currumbin Valley is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Currumbin Valley: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Currumbin Valley: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Currumbin Valley"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Currumbin Valley?"
-    answer: "Yes. Lessons are online, so you can study from Currumbin Valley. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Brazilian Portuguese in Currumbin Valley - Private & Online Lessons by Barbara Sharon
+## Portuguese lessons in Currumbin Valley: online and in-person options
 
 Currumbin Valley is a peaceful and scenic area located in the Gold Coast hinterland, surrounded by lush rainforests and natural beauty. Known for its serene lifestyle and proximity to Surfers Paradise, it's an ideal environment for focused learning. With a population of approximately 2,084 residents, this charming locality offers students a tranquil space to learn Portuguese with personalized attention from Barbara Sharon.
 
@@ -51,7 +51,7 @@ A certified TESOL instructor, Barbara uses effective methodologies tailored to d
 In addition to her academic credentials, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This background allows her to create a supportive and motivating learning environment where every student can thrive.
 
 Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights-ensuring that you don't just learn the language but also gain the confidence to use it naturally in real-life situations. Whether you're seeking private Portuguese classes near Currumbin Valley or group classes, Barbara offers flexible options designed around your needs.
-## Flexible In-Person & Online Lessons
+## Portuguese lessons in Currumbin Valley: online and in-person options
 
 Barbara Sharon offers various lesson formats to suit your schedule and learning preferences. Whether you choose in-person sessions or online classes, all levels are welcome-from complete beginners to advanced learners.
 

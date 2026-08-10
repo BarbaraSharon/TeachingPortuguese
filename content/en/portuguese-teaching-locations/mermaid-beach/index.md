@@ -1,14 +1,14 @@
 ---
 translationKey: location-mermaid-beach
-title: "Online Brazilian Portuguese Lessons in Mermaid Beach"
-description: "Online Brazilian Portuguese lessons in Mermaid Beach, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Mermaid Beach: Online & In-Person"
+description: "Brazilian Portuguese lessons in Mermaid Beach, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/mermaid-beach/
 image:
   filename: pages/portuguese-teaching-locations/mermaid-beach/mermaid-beach-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Mermaid Beach — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Mermaid Beach. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Mermaid Beach is grouped in the Gold Coast location set used for local scheduling and learner guidance. Mermaid Beach is located in Australia. This page keeps the local reference specific to Mermaid Beach while the teaching service remains online-first."
-scheduling: "Scheduling from Mermaid Beach: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Mermaid Beach: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Mermaid Beach with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Mermaid Beach is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Mermaid Beach: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Mermaid Beach: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Mermaid Beach"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Mermaid Beach?"
-    answer: "Yes. Lessons are online, so you can study from Mermaid Beach. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -52,7 +52,7 @@ With her expertise, Barbara can guide you through the nuances between Brazilian 
 ## Portuguese: A Global Language
 
 As the fifth-most spoken language globally, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages worldwide. Learning Portuguese in Mermaid Beach gives you access to a rich linguistic tradition that extends beyond Brazil. The language has been influenced by various cultures across Africa, Asia, and the Americas, making it a fascinating subject for study.
-## Online Portuguese Lessons in Mermaid Beach
+## Portuguese lessons in Mermaid Beach: online and in-person options
 
 Barbara Sharon offers online Portuguese tutor services right from Mermaid Beach. Whether you're a complete beginner or looking to improve your fluency, her interactive lessons use multimedia resources to make learning engaging and effective. For those who prefer face-to-face interaction, she also provides in-person classes in Surfers Paradise, just minutes away from Mermaid Beach.
 

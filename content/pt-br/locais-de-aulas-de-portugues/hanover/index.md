@@ -1,5 +1,6 @@
 ---
 translationKey: location-hanover
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Hanover"
 description: "Aulas online de português brasileiro em Hanover, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

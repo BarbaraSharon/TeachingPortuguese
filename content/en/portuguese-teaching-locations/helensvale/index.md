@@ -1,14 +1,14 @@
 ---
 translationKey: location-helensvale
-title: "Online Brazilian Portuguese Lessons in Helensvale"
-description: "Online Brazilian Portuguese lessons in Helensvale, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Helensvale: Online & In-Person"
+description: "Brazilian Portuguese lessons in Helensvale, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/helensvale/
 image:
   filename: pages/portuguese-teaching-locations/helensvale/helensvale-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Helensvale — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Helensvale. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Helensvale is located in Australia. Helensvale is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Helensvale while the teaching service remains online-first."
-scheduling: "Scheduling from Helensvale: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Helensvale: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Helensvale with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Helensvale is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Helensvale: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Helensvale: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Helensvale"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Helensvale?"
-    answer: "Yes. Lessons are online, so you can study from Helensvale. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 

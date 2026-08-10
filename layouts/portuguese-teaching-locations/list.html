@@ -2,30 +2,34 @@
 {{ $locations := .Pages.ByTitle }}
 {{ $regionOrder := slice "Gold Coast" "Australia & New Zealand" "Asia" "Europe" "North America" "South America" "Africa" }}
 {{ $regionLabels := dict
-  "Gold Coast" (dict "en" "Gold Coast - online lessons and confirmed venues" "pt" "Gold Coast - aulas online e locais confirmados" "es" "Gold Coast - clases online y lugares confirmados")
-  "Australia & New Zealand" (dict "en" "Australia & New Zealand" "pt" "Austrália e Nova Zelândia" "es" "Australia y Nueva Zelanda")
-  "Asia" (dict "en" "Asia" "pt" "Ásia" "es" "Asia")
-  "Europe" (dict "en" "Europe" "pt" "Europa" "es" "Europa")
-  "North America" (dict "en" "North America" "pt" "América do Norte" "es" "Norteamérica")
-  "South America" (dict "en" "South America" "pt" "América do Sul" "es" "Sudamérica")
-  "Africa" (dict "en" "Africa" "pt" "África" "es" "África")
+  "Gold Coast" "location_region_gold_coast"
+  "Australia & New Zealand" "location_region_australia_new_zealand"
+  "Asia" "location_region_asia"
+  "Europe" "location_region_europe"
+  "North America" "location_region_north_america"
+  "South America" "location_region_south_america"
+  "Africa" "location_region_africa"
 }}
-{{ $langKey := cond (eq .Lang "pt-br") "pt" (cond (eq .Lang "es") "es" "en") }}
+{{ $heroImage := "" }}
+{{ with .Params.image }}{{ $heroImage = resources.Get (printf "media/%s" .filename) }}{{ end }}
 <main class="mx-auto max-w-screen-2xl px-5 py-10 sm:px-8 lg:px-12 lg:py-16">
-  <header class="mx-auto max-w-4xl border-l-4 border-primary-500 pl-6 sm:pl-8">
-    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">{{ if eq .Lang "pt-br" }}Aulas online{{ else if eq .Lang "es" }}Clases online{{ else }}Online lessons{{ end }}</p>
+  <header class="mx-auto grid max-w-6xl gap-8 border-l-4 border-primary-500 pl-6 sm:pl-8 lg:grid-cols-[1fr_22rem] lg:items-center">
+    <div>
+    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">{{ i18n "location_directory_eyebrow" }}</p>
     <h1 class="max-w-3xl text-4xl font-semibold tracking-tight text-slate-900 dark:text-white sm:text-5xl">{{ .Title }}</h1>
     <div class="mt-7 max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300">{{ .Content }}</div>
+    </div>
+    {{ with $heroImage }}{{ $image := .Fill "704x528 Center" }}<img class="aspect-[4/3] w-full rounded-3xl object-cover shadow-xl" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Params.image.alt_text | default $.Title }}">{{ end }}
   </header>
-  <nav class="mx-auto mt-10 max-w-4xl" aria-label="{{ if eq .Lang "pt-br" }}Navegar por região{{ else if eq .Lang "es" }}Navegar por región{{ else }}Browse by region{{ end }}">
-    <p class="mb-3 text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">{{ if eq .Lang "pt-br" }}Ir para uma região{{ else if eq .Lang "es" }}Ir a una región{{ else }}Jump to a region{{ end }}</p>
-    <ol class="max-w-3xl border-t border-slate-200 text-sm dark:border-slate-700" role="list">{{ range $region := $regionOrder }}{{ with index $regionLabels $region }}<li class="border-b border-slate-200 dark:border-slate-700"><a class="block py-3 font-medium text-slate-700 hover:text-primary-700 dark:text-slate-200 dark:hover:text-primary-300" href="#region-{{ $region | urlize }}">{{ index . $langKey }}</a></li>{{ end }}{{ end }}</ol>
+  <nav class="mx-auto mt-10 max-w-4xl" aria-label="{{ i18n "location_browse_regions" }}">
+    <p class="mb-3 text-xs font-semibold uppercase tracking-[0.22em] text-slate-500 dark:text-slate-400">{{ i18n "location_jump_to_region" }}</p>
+    <ol class="max-w-3xl border-t border-slate-200 text-sm dark:border-slate-700" role="list">{{ range $region := $regionOrder }}{{ with index $regionLabels $region }}<li class="border-b border-slate-200 dark:border-slate-700"><a class="block py-3 font-medium text-slate-700 hover:text-primary-700 dark:text-slate-200 dark:hover:text-primary-300" href="#region-{{ $region | urlize }}">{{ i18n . }}</a></li>{{ end }}{{ end }}</ol>
   </nav>
   <section class="mt-14 border-t border-slate-200 pt-8 dark:border-slate-700 sm:mt-20 sm:pt-10" aria-labelledby="location-directory-heading">
-    <div class="mb-8 flex flex-col justify-between gap-4 sm:flex-row sm:items-end"><div><p class="text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">{{ if eq .Lang "pt-br" }}Encontre sua cidade{{ else if eq .Lang "es" }}Encuentra tu ciudad{{ else }}Find your city{{ end }}</p><h2 id="location-directory-heading" class="mt-2 text-3xl font-semibold tracking-tight text-slate-900 dark:text-white">{{ if eq .Lang "pt-br" }}Locais de aulas{{ else if eq .Lang "es" }}Ubicaciones de clases{{ else }}Tutoring locations{{ end }}</h2></div><p class="text-sm text-slate-500 dark:text-slate-400">{{ len $locations }} {{ if eq .Lang "pt-br" }}locais disponíveis{{ else if eq .Lang "es" }}ubicaciones disponibles{{ else }}locations available{{ end }}</p></div>
+    <div class="mb-8 flex flex-col justify-between gap-4 sm:flex-row sm:items-end"><div><p class="text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">{{ i18n "location_find_city" }}</p><h2 id="location-directory-heading" class="mt-2 text-3xl font-semibold tracking-tight text-slate-900 dark:text-white">{{ i18n "location_directory_heading" }}</h2></div><p class="text-sm text-slate-500 dark:text-slate-400">{{ len $locations }} {{ i18n "location_count_suffix" }}</p></div>
     {{ range $region := $regionOrder }}
       {{ $regionLocations := where $locations "Params.region_group" $region }}
-      {{ if $regionLocations }}<section class="scroll-mt-28 border-t border-slate-200 py-10 first:border-t-0 first:pt-0 dark:border-slate-700" aria-labelledby="region-{{ $region | urlize }}"><div class="mb-5 flex items-baseline gap-3"><h3 id="region-{{ $region | urlize }}" class="text-2xl font-semibold tracking-tight text-slate-900 dark:text-white">{{ index (index $regionLabels $region) $langKey }}</h3><span class="text-sm text-slate-500 dark:text-slate-400">{{ len $regionLocations }}</span></div><div class="grid grid-cols-2 gap-4 sm:gap-5 md:grid-cols-3 xl:grid-cols-4">{{ range $index, $location := $regionLocations }}{{ partial "location-directory-card.html" (dict "item" $location "index" $index) }}{{ end }}</div></section>{{ end }}
+      {{ if $regionLocations }}<section class="scroll-mt-28 border-t border-slate-200 py-10 first:border-t-0 first:pt-0 dark:border-slate-700" aria-labelledby="region-{{ $region | urlize }}"><div class="mb-5 flex items-baseline gap-3"><h3 id="region-{{ $region | urlize }}" class="text-2xl font-semibold tracking-tight text-slate-900 dark:text-white">{{ i18n (index $regionLabels $region) }}</h3><span class="text-sm text-slate-500 dark:text-slate-400">{{ len $regionLocations }}</span></div><div class="grid grid-cols-2 gap-4 sm:gap-5 md:grid-cols-3 xl:grid-cols-4">{{ range $index, $location := $regionLocations }}{{ partial "location-directory-card.html" (dict "item" $location "index" $index) }}{{ end }}</div></section>{{ end }}
     {{ end }}
   </section>
 </main>

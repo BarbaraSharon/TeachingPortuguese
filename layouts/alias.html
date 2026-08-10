@@ -5,11 +5,11 @@
     <meta name="robots" content="noindex, follow">
     <meta http-equiv="refresh" content="0; url={{ .Permalink }}">
     <link rel="canonical" href="{{ .Permalink }}">
-    <title>Redirecting to Barbara Sharon</title>
+    <title>{{ i18n "redirect_title" }}</title>
   </head>
   <body>
-    <h1>Redirecting to Barbara Sharon</h1>
-    <p><a href="{{ .Permalink }}">Continue to the current page.</a></p>
+    <h1>{{ i18n "redirect_title" }}</h1>
+    <p><a href="{{ .Permalink }}">{{ i18n "redirect_continue" }}</a></p>
     <script>window.location.replace({{ .Permalink | jsonify | safeJS }});</script>
   </body>
 </html>

@@ -1,5 +1,6 @@
 ---
 translationKey: location-new-york
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em New York"
 description: "Aulas online de português brasileiro em New York, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

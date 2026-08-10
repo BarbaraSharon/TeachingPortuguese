@@ -1,5 +1,6 @@
 ---
 translationKey: location-bonn
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bonn"
 description: "Aulas online de português brasileiro em Bonn, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

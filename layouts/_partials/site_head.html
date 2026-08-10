@@ -303,7 +303,7 @@
   {{ $js_license := $js_license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
   {{ $js_license := $js_license | printf "%s/*! License: https://github.com/HugoBlox/kit/blob/main/LICENSE.md */\n" }}
   {{ $js_bundle_head := $js_license | resources.FromString "js/bundle-head.js" }}
-  {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied" | default "Copied") }}
+  {{ $i18n := dict "copy" (i18n "btn_copy") "copied" (i18n "btn_copied") }}
   {{ $js_params := dict "hugoEnvironment" hugo.Environment "i18n" $i18n }}
   {{ $js_hugoblox := resources.Get "js/hb-code-copy.js" | js.Build (dict "targetPath" (printf "js/hugoblox-core-%s.js" .Lang ) "params" $js_params) }}
   {{ $js_hugoblox := $js_hugoblox | resources.Minify }}

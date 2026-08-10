@@ -1,14 +1,14 @@
 ---
 translationKey: location-benowa
-title: "Online Brazilian Portuguese Lessons in Benowa"
-description: "Online Brazilian Portuguese lessons in Benowa, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Benowa: Online & In-Person"
+description: "Brazilian Portuguese lessons in Benowa, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/benowa/
 image:
   filename: pages/portuguese-teaching-locations/benowa/benowa-brazilian-portuguese-lesson.png
-  alt_text: Learn Brazilian Portuguese in Benowa | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Benowa — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Benowa. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Benowa is located in Australia. Benowa is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Benowa while the teaching service remains online-first."
-scheduling: "Scheduling from Benowa: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Benowa: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Benowa with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Benowa is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Benowa: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Benowa: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Benowa"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Benowa?"
-    answer: "Yes. Lessons are online, so you can study from Benowa. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -53,7 +53,7 @@ A certified TESOL instructor, Barbara adapts her teaching methods to suit differ
 In addition to being an excellent educator, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This background allows her to create a supportive, encouraging, and motivating environment for all learners - from beginners to advanced speakers.
 
 Her curriculum combines grammar, vocabulary, pronunciation, and cultural elements to ensure students not only learn the language but also feel confident using it naturally. Barbara offers private lessons, group classes, and even a speaking club where learners can practice Portuguese in a relaxed setting. Whether you're looking for Brazilian Portuguese teacher Benowa or Portuguese lessons near Benowa , her services are designed to meet your goals.
-## In-person & Online Portuguese Lessons in Benowa
+## Portuguese lessons in Benowa: online and in-person options
 
 Students in Benowa have multiple options for Portuguese learning, including in-person lessons in Surfers Paradise and remote online classes. All levels are welcome - from absolute beginners to those preparing for exams or business communication.
 

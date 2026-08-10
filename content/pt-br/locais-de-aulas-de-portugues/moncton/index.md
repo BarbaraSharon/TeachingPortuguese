@@ -1,5 +1,6 @@
 ---
 translationKey: location-moncton
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Moncton"
 description: "Aulas online de português brasileiro em Moncton, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

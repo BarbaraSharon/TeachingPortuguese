@@ -1,5 +1,6 @@
 ---
 translationKey: location-philadelphia
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Philadelphia"
 description: "Clases online de portugués brasileño en Philadelphia, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

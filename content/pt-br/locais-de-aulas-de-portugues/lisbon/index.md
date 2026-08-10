@@ -1,5 +1,6 @@
 ---
 translationKey: location-lisbon
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lisbon"
 description: "Aulas online de português brasileiro em Lisbon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

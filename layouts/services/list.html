@@ -32,7 +32,7 @@
     <div class="mt-10 overflow-x-auto rounded-2xl border border-gray-200 dark:border-gray-700">
       <table class="w-full min-w-[680px] text-left text-sm">
         <colgroup><col class="service-comparison-feature-column">{{ range $comparison.content.competitors }}<col class="service-comparison-option-column">{{ end }}</colgroup>
-        <thead class="bg-gray-100 text-gray-900 dark:bg-gray-800 dark:text-white"><tr><th class="p-5 font-semibold">Lesson option</th>{{ range $comparison.content.competitors }}<th class="p-5 font-semibold">{{ .name }}<span class="mt-1 block text-xs font-normal text-gray-600 dark:text-gray-300">{{ .tagline }}</span></th>{{ end }}</tr></thead>
+        <thead class="bg-gray-100 text-gray-900 dark:bg-gray-800 dark:text-white"><tr><th class="p-5 font-semibold">{{ i18n "service_lesson_option" }}</th>{{ range $comparison.content.competitors }}<th class="p-5 font-semibold">{{ .name }}<span class="mt-1 block text-xs font-normal text-gray-600 dark:text-gray-300">{{ .tagline }}</span></th>{{ end }}</tr></thead>
         <tbody class="divide-y divide-gray-200 dark:divide-gray-700">{{ range $comparison.content.rows }}{{ $row := . }}<tr{{ with $row.url }} data-row-url="{{ . }}" tabindex="0" role="link" aria-label="{{ printf (i18n "open_feature") $row.feature }}"{{ end }} class="service-comparison-row text-gray-700 dark:text-gray-300"><th class="p-5 font-medium text-gray-950 dark:text-white">{{ with $row.url }}<a href="{{ . }}" class="block font-medium text-gray-950 dark:text-white">{{ $row.feature }}</a>{{ else }}{{ $row.feature }}{{ end }}</th>{{ range $row.values }}<td class="p-5">{{ if eq . true }}{{ i18n "yes" }}{{ else if eq . false }}-{{ else }}{{ . }}{{ end }}</td>{{ end }}</tr>{{ end }}</tbody>
       </table>
     </div>

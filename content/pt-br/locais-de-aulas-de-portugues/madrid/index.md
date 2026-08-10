@@ -1,5 +1,6 @@
 ---
 translationKey: location-madrid
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Madrid"
 description: "Aulas online de português brasileiro em Madrid, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

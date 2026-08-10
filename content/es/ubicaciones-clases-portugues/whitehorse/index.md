@@ -1,5 +1,6 @@
 ---
 translationKey: location-whitehorse
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Whitehorse"
 description: "Clases online de portugués brasileño en Whitehorse, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

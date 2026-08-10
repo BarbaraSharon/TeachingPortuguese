@@ -1,14 +1,14 @@
 ---
 translationKey: location-currumbin-waters
-title: "Online Brazilian Portuguese Lessons in Currumbin Waters"
-description: "Online Brazilian Portuguese lessons in Currumbin Waters, with Barbara Sharon. Private and group formats available online."
+title: "Brazilian Portuguese Lessons in Currumbin Waters: Online & In-Person"
+description: "Brazilian Portuguese lessons in Currumbin Waters, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/currumbin-waters/
 image:
   filename: pages/portuguese-teaching-locations/currumbin-waters/currumbin-waters-location-portuguese-lesson.png
-  alt_text: Learn Portuguese in Currumbin Waters | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Currumbin Waters — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Currumbin Waters. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Currumbin Waters is located in Australia. Currumbin Waters is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Currumbin Waters while the teaching service remains online-first."
-scheduling: "Scheduling from Currumbin Waters: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Currumbin Waters: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Currumbin Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Currumbin Waters is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Currumbin Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Currumbin Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Currumbin Waters"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Currumbin Waters?"
-    answer: "Yes. Lessons are online, so you can study from Currumbin Waters. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Master Brazilian Portuguese in Currumbin Waters | Private & Online Lessons
+## Portuguese lessons in Currumbin Waters: online and in-person options
 
 Located on the southern Gold Coast, Currumbin Waters is a peaceful suburb known for its scenic waterways and family-friendly atmosphere. With approximately 9,800 residents, it offers an ideal setting for language learners seeking a calm environment to study Portuguese. The area’s growing Brazilian community provides unique cultural immersion opportunities through local events and festivals that celebrate Brazilian traditions.
 
@@ -53,7 +53,7 @@ Her TESOL certification ensures she uses effective, student-centered methodologi
 In addition to her educational qualifications, Barbara is a trained counsellor currently pursuing a Master’s degree in Educational Studies and Behaviour Management. This unique combination allows her to create a supportive and motivating learning environment where every student thrives.
 
 Each lesson combines grammar, vocabulary, conversation, and cultural insights - helping you not only learn Portuguese but also speak it naturally in everyday life. Barbara offers individual lessons, group classes, and speaking clubs for more immersive practice. You can choose from private Portuguese tutor sessions near Currumbin Waters, Brazilian Portuguese teacher-led classes, or remote online learning.
-## In-person & Online Portuguese Lessons in Currumbin Waters
+## Portuguese lessons in Currumbin Waters: online and in-person options
 
 Flexible lesson formats include one-on-one online sessions, private tutoring, and group classes. All levels - from absolute beginners to advanced speakers - are welcome. Private lessons offer personalized attention for focused learning, while group sessions provide opportunities to interact and practice with others.
 

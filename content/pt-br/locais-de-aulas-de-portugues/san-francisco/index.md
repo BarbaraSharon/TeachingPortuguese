@@ -1,5 +1,6 @@
 ---
 translationKey: location-san-francisco
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em San Francisco"
 description: "Aulas online de português brasileiro em San Francisco, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

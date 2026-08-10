@@ -1,5 +1,6 @@
 ---
 translationKey: location-freiburg-im-breisgau
+type: portuguese-teaching-locations
 title: "Clases online de portugués en Freiburg Im Breisgau"
 description: "Clases online de portugués brasileño en Freiburg Im Breisgau, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

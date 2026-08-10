@@ -13,8 +13,8 @@ categories:
 - Locais de aulas de português
 ---
 
-Barbara Sharon ensina português presencialmente somente em locais adequados na Gold Coast, em Kirra, Broadbeach e Surfers Paradise. Esses locais atendem alunos de toda a Gold Coast; o local atual e a disponibilidade de aulas são confirmados antes da reserva.
+Barbara Sharon ensina português presencialmente em locais adequados na Gold Coast, em Kirra, Broadbeach e Surfers Paradise. Esses locais atendem alunos de toda a Gold Coast; o local atual e a disponibilidade de aulas são confirmados antes da reserva.
 
-Alunos da Gold Coast podem participar de aulas em grupo presenciais em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual. Aulas particulares presenciais também são organizadas em um local confirmado na Gold Coast.
+Alunos da Gold Coast podem escolher aulas online ou participar de aulas em grupo presenciais em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual. Aulas particulares presenciais também são organizadas em um local confirmado na Gold Coast.
 
-Brisbane e arredores ainda podem acessar aulas presenciais em Surfers Paradise, embora as aulas online possam ser mais adequadas devido à distância. Aulas online estão disponíveis para alunos em qualquer outro lugar.
+Brisbane e arredores também podem acessar aulas presenciais em Surfers Paradise, embora as aulas online possam ser mais adequadas devido à distância. Aulas online estão disponíveis para alunos em qualquer outro lugar.

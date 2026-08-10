@@ -54,3 +54,133 @@
 
 - id: block_contact_form_submit
   translation: Enviar mensagem
+
+- id: view_lessons
+  translation: Ver aulas
+
+- id: site_title
+  translation: Aprenda português com Barbara Sharon
+- id: site_description
+  translation: Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast.
+- id: brand_title
+  translation: Aprenda português
+- id: brand_subtitle
+  translation: com Barbara Sharon
+- id: site_tagline
+  translation: Aulas de português brasileiro online e na Gold Coast
+- id: copyright_notice
+  translation: "© {year} Barbara Sharon Portuguese Tutoring. Todos os direitos reservados."
+- id: btn_copy
+  translation: Copiar
+- id: btn_copied
+  translation: Copiado
+- id: authors
+  translation: Autores
+- id: analytics_choices
+  translation: Opções de análise
+- id: analytics_choose_cookies
+  translation: Escolha os cookies de análise
+- id: analytics_consent_explanation
+  translation: Usamos o Google Analytics e o Microsoft Clarity para entender como o site é utilizado e melhorá-lo. Você pode aceitar ou recusar essas ferramentas opcionais.
+- id: analytics_privacy_policy
+  translation: Leia a Política de Privacidade
+- id: analytics_reject
+  translation: Recusar análise
+- id: analytics_accept
+  translation: Aceitar análise
+- id: analytics_manage_preferences
+  translation: Preferências de análise
+- id: toggle_navigation
+  translation: Alternar navegação
+- id: show_menu_pages
+  translation: Mostrar páginas de %s
+- id: contents
+  translation: Conteúdo
+- id: newsletter_issues
+  translation: Edições da newsletter
+- id: newsletter_latest_issue
+  translation: Edição mais recente
+- id: newsletter_read_issue
+  translation: Leia esta edição
+- id: close_larger_photo
+  translation: Fechar foto ampliada
+- id: open_feature
+  translation: Abrir %s
+- id: yes
+  translation: Sim
+- id: author_subtitle
+  translation: Professora e tutora de português brasileiro
+- id: service_lesson_option
+  translation: Opção de aula
+- id: newsletter_empty
+  translation: A primeira edição está a caminho.
+- id: redirect_title
+  translation: Redirecionando para Barbara Sharon
+- id: redirect_continue
+  translation: Continuar para a página atual.
+- id: location_directory_eyebrow
+  translation: Aulas de português online e na Gold Coast
+- id: location_browse_regions
+  translation: Navegar por região
+- id: location_jump_to_region
+  translation: Ir para uma região
+- id: location_find_city
+  translation: Encontre sua cidade
+- id: location_directory_heading
+  translation: Locais de aulas
+- id: location_count_suffix
+  translation: locais disponíveis
+- id: location_format_online
+  translation: Aulas online
+- id: location_format_online_in_person
+  translation: Aulas online e presenciais
+- id: location_lesson_details
+  translation: Detalhes das aulas
+- id: location_local_context
+  translation: Contexto local
+- id: location_scheduling
+  translation: Horários e fuso horário
+- id: location_learner_use_case
+  translation: Como você pode usar as aulas
+- id: location_faq
+  translation: Perguntas frequentes
+- id: location_local_details
+  translation: Detalhes locais
+- id: location_city
+  translation: Cidade
+- id: location_country
+  translation: País
+- id: location_time_zone
+  translation: Fuso horário IANA
+- id: location_region_gold_coast
+  translation: Gold Coast — aulas online e presenciais
+- id: location_region_australia_new_zealand
+  translation: Austrália e Nova Zelândia
+- id: location_region_asia
+  translation: Ásia
+- id: location_region_europe
+  translation: Europa
+- id: location_region_north_america
+  translation: América do Norte
+- id: location_region_south_america
+  translation: América do Sul
+- id: location_region_africa
+  translation: África
+- id: block_contact_copy_hint
+  translation: Clique para copiar
+- id: block_contact_call
+  translation: Ligue para mim
+- id: block_contact_email
+  translation: E-mail
+- id: block_contact_phone
+  translation: Telefone
+- id: schema_service_type
+  translation: Aulas de português brasileiro
+- id: schema_online_lessons
+  translation: Aulas online
+- id: schema_in_person_lessons
+  translation: Aulas presenciais de português brasileiro
+- id: schema_language_lessons
+  translation: Aulas de idiomas
+- id: schema_language_classes
+  translation: Cursos de idiomas

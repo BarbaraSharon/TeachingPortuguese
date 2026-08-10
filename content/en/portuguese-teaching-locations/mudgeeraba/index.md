@@ -1,14 +1,14 @@
 ---
 translationKey: location-mudgeeraba
-title: "Online Brazilian Portuguese Lessons in Mudgeeraba"
-description: "Online Brazilian Portuguese lessons in Mudgeeraba, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Mudgeeraba: Online & In-Person"
+description: "Brazilian Portuguese lessons in Mudgeeraba, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/mudgeeraba/
 image:
   filename: pages/portuguese-teaching-locations/mudgeeraba/mudgeeraba-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Mudgeeraba — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Mudgeeraba. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Mudgeeraba is located in Australia. Mudgeeraba is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Mudgeeraba while the teaching service remains online-first."
-scheduling: "Scheduling from Mudgeeraba: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Mudgeeraba: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Mudgeeraba with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Mudgeeraba is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Mudgeeraba: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Mudgeeraba: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Mudgeeraba"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Mudgeeraba?"
-    answer: "Yes. Lessons are online, so you can study from Mudgeeraba. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -54,7 +54,7 @@ Barbara understands the differences between various Portuguese dialects and help
 Portuguese is the fifth most spoken language in the world and serves as a bridge between cultures across Africa, Asia, and Latin America. Learning Portuguese opens doors to diverse opportunities-whether for travel, business, or personal enrichment.
 
 In Mudgeeraba, you'll find a growing community of native speakers and learners who share a passion for cultural exchange. Whether you're beginning with beginner Portuguese lessons or advancing to more complex topics, our classes are designed to meet your goals. Explore options like [private Portuguese tutor sessions](/en/portuguese-teaching-services/)or group lessons tailored to your schedule.
-## Online & In-Person Portuguese Lessons in Mudgeeraba
+## Portuguese lessons in Mudgeeraba: online and in-person options
 
 For those living in Mudgeeraba, in-person lessons are available in Surfers Paradise, offering convenient access to quality instruction. Additionally, online classes provide flexibility for students across the region who want a more adaptable learning experience.
 

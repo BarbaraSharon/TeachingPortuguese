@@ -1,5 +1,6 @@
 ---
 translationKey: location-southport
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Southport"
 description: "Aulas online de português brasileiro em Southport, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

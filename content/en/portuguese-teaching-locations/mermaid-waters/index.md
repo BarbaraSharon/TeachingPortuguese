@@ -1,14 +1,14 @@
 ---
 translationKey: location-mermaid-waters
-title: "Online Brazilian Portuguese Lessons in Mermaid Waters"
-description: "Online Brazilian Portuguese lessons in Mermaid Waters, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Mermaid Waters: Online & In-Person"
+description: "Brazilian Portuguese lessons in Mermaid Waters, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/mermaid-waters/
 image:
   filename: pages/portuguese-teaching-locations/mermaid-waters/mermaid-waters-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Mermaid Waters — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Mermaid Waters. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Mermaid Waters is located in Australia. Mermaid Waters is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Mermaid Waters while the teaching service remains online-first."
-scheduling: "Scheduling from Mermaid Waters: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Mermaid Waters: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Mermaid Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Mermaid Waters is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Mermaid Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Mermaid Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Mermaid Waters"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Mermaid Waters?"
-    answer: "Yes. Lessons are online, so you can study from Mermaid Waters. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Mermaid Waters - Private & Online Lessons
+## Portuguese lessons in Mermaid Waters: online and in-person options
 
 Mermaid Waters, located on the central Gold Coast, is a vibrant and multicultural suburb known for its scenic canals, relaxed lifestyle, and growing international community. With a population of 13,088 residents according to the 2021 census, Mermaid Waters offers a welcoming environment for language learners seeking to study Portuguese in a modern Australian setting. The area's diverse population and global character create an ideal atmosphere for students interested in learning Brazilian or European Portuguese.
 
@@ -52,7 +52,7 @@ Barbara also runs a speaking club for advanced learners, offering an immersive e
 As the fifth-most spoken language globally, Portuguese opens doors to understanding Brazil, Portugal, and other countries like Angola, Mozambique, and Guinea-Bissau. Learning Portuguese in Mermaid Waters gives you access to a rich linguistic tradition that extends beyond Brazil.
 
 The language has been influenced by various cultures across Africa, Asia, and the Americas, making it a fascinating subject for study. Whether you're starting with beginner classes or seeking advanced conversation practice, Barbara Sharon's online Portuguese tutor Mermaid Waters services are tailored to your goals.
-## Online Portuguese Lessons in Mermaid Waters
+## Portuguese lessons in Mermaid Waters: online and in-person options
 
 In-person Portuguese lessons are available in Surfers Paradise, which is convenient for students living in Mermaid Waters. Online lessons are also offered through interactive tools and multimedia resources to make learning engaging and effective.
 

@@ -1,5 +1,6 @@
 ---
 translationKey: location-robina
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Robina"
 description: "Aulas online de português brasileiro em Robina, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

@@ -1,12 +1,13 @@
 ---
 translationKey: location-mermaid-waters
-title: "Clases online de portugués brasileño en Mermaid Waters"
-description: "Clases online de portugués brasileño en Mermaid Waters, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Mermaid Waters: online y presenciales"
+description: "Clases de portugués brasileño en Mermaid Waters, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/mermaid-waters/mermaid-waters-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
+  alt_text: "Clases de portugués brasileño en Mermaid Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,20 +16,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Mermaid Waters. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Mermaid Waters está situada en Australia. Mermaid Waters forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Mermaid Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Mermaid Waters: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Mermaid Waters: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Mermaid Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Mermaid Waters forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Mermaid Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Mermaid Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Mermaid Waters"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Mermaid Waters?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Mermaid Waters. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Mermaid Waters: clases particulares y en línea
+## Clases de portugués en Mermaid Waters: opciones online y presenciales
 
 Mermaid Waters, situado en la zona central de Gold Coast, es un suburbio dinámico y multicultural conocido por sus pintorescos canales, su estilo de vida relajado y su creciente comunidad internacional. Con 13.088 residentes según el censo de 2021, Mermaid Waters ofrece un ambiente acogedor para quienes desean estudiar portugués en un entorno australiano moderno. Su población diversa y carácter global crean una atmósfera ideal para estudiantes interesados en aprender portugués brasileño o europeo.
 
@@ -50,7 +51,7 @@ Barbara también organiza un club de conversación para alumnado avanzado, con u
 Como quinta lengua más hablada del mundo, el portugués abre puertas para comprender Brasil, Portugal y otros países como Angola, Mozambique y Guinea-Bisáu. Aprender portugués en Mermaid Waters te da acceso a una rica tradición lingüística que va más allá de Brasil.
 
 La lengua ha sido influida por diversas culturas de África, Asia y América, lo que hace que sea un tema de estudio fascinante. Tanto si comienzas con clases para principiantes como si buscas práctica de conversación avanzada, las tutorías de portugués en línea de Barbara Sharon se adaptan a tus metas.
-## Clases de portugués en línea en Mermaid Waters
+## Clases de portugués en Mermaid Waters: opciones online y presenciales
 
 Hay clases presenciales de portugués disponibles en Surfers Paradise, una opción práctica para quienes viven en Mermaid Waters. También se ofrecen clases en línea con herramientas interactivas y recursos multimedia que hacen el aprendizaje atractivo y eficaz.
 

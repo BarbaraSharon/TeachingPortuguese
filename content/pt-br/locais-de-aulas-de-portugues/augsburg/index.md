@@ -1,5 +1,6 @@
 ---
 translationKey: location-augsburg
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Augsburg"
 description: "Aulas online de português brasileiro em Augsburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

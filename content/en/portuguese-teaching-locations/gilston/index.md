@@ -1,14 +1,14 @@
 ---
 translationKey: location-gilston
-title: "Online Brazilian Portuguese Lessons in Gilston"
-description: "Online Brazilian Portuguese lessons in Gilston, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Gilston: Online & In-Person"
+description: "Brazilian Portuguese lessons in Gilston, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/gilston/
 image:
   filename: pages/portuguese-teaching-locations/gilston/gilston-portuguese-lesson.png
-  alt_text: Learn Portuguese in Gilston | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Gilston — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Gilston. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Gilston is grouped in the Gold Coast location set used for local scheduling and learner guidance. Gilston is located in Australia. This page keeps the local reference specific to Gilston while the teaching service remains online-first."
-scheduling: "Scheduling from Gilston: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Gilston: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Gilston with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Gilston is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Gilston: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Gilston: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Gilston"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Gilston?"
-    answer: "Yes. Lessons are online, so you can study from Gilston. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Gilston: Expert Private & Online Lessons
+## Portuguese lessons in Gilston: online and in-person options
 
 Gilston is a serene, semi-rural suburb nestled in the Gold Coast hinterland, just north of Nerang. With a population of 2,669 according to the 2021 census, it offers a tranquil residential environment surrounded by natural beauty and close to urban amenities. While specific data on Brazilian or Portuguese speakers in Gilston is not available, its strategic location near major centres like Surfers Paradise and the Gold Coast’s vibrant cultural scene provides an excellent foundation for language learning. Whether you're searching for a Portuguese tutor in Gilston , Portuguese teacher in Gilston , or Portuguese lessons in Gilston , Barbara Sharon delivers flexible, high-quality instruction tailored to your needs.
 

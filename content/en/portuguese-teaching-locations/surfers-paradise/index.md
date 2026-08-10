@@ -1,14 +1,14 @@
 ---
 translationKey: location-surfers-paradise
-title: "Online Brazilian Portuguese Lessons in Surfers Paradise"
-description: "Online Brazilian Portuguese lessons in Surfers Paradise, with Barbara Sharon. Private and group formats available online."
+title: "Brazilian Portuguese Lessons in Surfers Paradise: Online & In-Person"
+description: "Brazilian Portuguese lessons in Surfers Paradise, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/surfers-paradise/
 image:
   filename: pages/portuguese-teaching-locations/surfers-paradise/surfers-paradise-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, Brazilian Portuguese teacher and tutor
+  alt_text: "Brazilian Portuguese lessons in Surfers Paradise — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Surfers Paradise. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Surfers Paradise is located in Australia. Surfers Paradise is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Surfers Paradise while the teaching service remains online-first."
-scheduling: "Scheduling from Surfers Paradise: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Surfers Paradise: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Surfers Paradise with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Surfers Paradise is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Surfers Paradise: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Surfers Paradise: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Surfers Paradise"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Surfers Paradise?"
-    answer: "Yes. Lessons are online, so you can study from Surfers Paradise. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -64,7 +64,7 @@ Portuguese is one of the world's most widely spoken languages, with over 260 mil
 Barbara Sharon's Portuguese lessons Gold Coast go beyond grammar and vocabulary. She integrates cultural insights into her teaching to help students better understand regional variations of the language. Her native Portuguese teacher approach ensures accurate pronunciation, idiomatic expressions, and communication styles used in real-life situations.
 
 Whether you choose in-person classes or online Portuguese lessons , Barbara's methods are designed for effective, long-term learning. Her conversational Portuguese classes in Surfers Paradise build confidence through interactive exercises and meaningful dialogue, while her virtual sessions allow flexibility for learners with busy schedules.
-## Online Portuguese Lessons in Surfers Paradise - Flexible & Effective
+## Portuguese lessons in Surfers Paradise: online and in-person options
 
 Barbara Sharon offers convenient online Portuguese lessons tailored to students in Surfers Paradise and around the world. These virtual sessions are ideal for individuals who prefer flexible scheduling or cannot attend in-person classes.
 

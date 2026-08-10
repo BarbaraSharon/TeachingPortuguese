@@ -1,5 +1,6 @@
 ---
 translationKey: location-parkside
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Parkside"
 description: "Clases online de portugués brasileño en Parkside, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

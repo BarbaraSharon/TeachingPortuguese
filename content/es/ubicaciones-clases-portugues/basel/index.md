@@ -1,5 +1,6 @@
 ---
 translationKey: location-basel
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Basel"
 description: "Clases online de portugués brasileño en Basel, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05

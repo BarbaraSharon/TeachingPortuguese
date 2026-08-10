@@ -1,5 +1,6 @@
 ---
 translationKey: location-duesseldorf
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Duesseldorf"
 description: "Aulas online de português brasileiro em Duesseldorf, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

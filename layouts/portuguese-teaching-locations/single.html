@@ -1,25 +1,28 @@
 {{ define "main" }}
 {{ $l := .Params }}
-{{ $isPt := eq .Lang "pt-br" }}
-{{ $isEs := eq .Lang "es" }}
+{{ $isGoldCoast := eq $l.service_scope "online_plus_confirmed_gold_coast_venue" }}
+{{ $formatKey := cond $isGoldCoast "location_format_online_in_person" "location_format_online" }}
+{{ $heroImage := "" }}
+{{ with .Params.image }}{{ $heroImage = resources.Get (printf "media/%s" .filename) }}{{ end }}
 <main class="mx-auto max-w-6xl px-6 py-12 sm:px-8 lg:py-20">
   <article class="overflow-hidden rounded-3xl bg-white shadow-sm ring-1 ring-slate-200 dark:bg-slate-900 dark:ring-slate-700">
     <header class="bg-slate-950 px-6 py-12 text-white sm:px-10 lg:px-16 lg:py-16">
-      <p class="text-sm font-semibold uppercase tracking-[0.18em] text-primary-300">{{ if $isPt }}Aulas online{{ else if $isEs }}Clases online{{ else }}Online lessons{{ end }}</p>
+      <p class="text-sm font-semibold uppercase tracking-[0.18em] text-primary-300">{{ i18n $formatKey }}</p>
       <h1 class="mt-4 max-w-4xl text-4xl font-bold tracking-tight sm:text-5xl">{{ .Title }}</h1>
       <p class="mt-6 max-w-3xl text-lg leading-8 text-slate-200">{{ $l.local_intro }}</p>
+      {{ with $heroImage }}{{ $image := .Fill "1200x675 Center" }}<img class="mt-8 aspect-video w-full rounded-2xl object-cover shadow-2xl" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Params.image.alt_text | default $.Title }}">{{ end }}
     </header>
     <div class="grid gap-12 px-6 py-12 sm:px-10 lg:grid-cols-[1fr_20rem] lg:px-16 lg:py-16">
       <div class="space-y-12">
-        {{ with .Content }}<section class="prose prose-slate max-w-none dark:prose-invert" aria-labelledby="existing-lesson-detail"><h2 id="existing-lesson-detail">{{ if $isPt }}Detalhes das aulas{{ else if $isEs }}Detalles de las clases{{ else }}Lesson details{{ end }}</h2>{{ . }}</section>{{ end }}
-        <section aria-labelledby="local-context"><h2 id="local-context" class="text-2xl font-bold text-slate-950 dark:text-white">{{ if $isPt }}Contexto local{{ else if $isEs }}Contexto local{{ else }}Local context{{ end }}</h2><p class="mt-4 text-lg leading-8 text-slate-700 dark:text-slate-300">{{ $l.local_context }}</p></section>
-        <section aria-labelledby="scheduling"><h2 id="scheduling" class="text-2xl font-bold text-slate-950 dark:text-white">{{ if $isPt }}Horários e fuso horário{{ else if $isEs }}Horarios y zona horaria{{ else }}Scheduling and time zone{{ end }}</h2><p class="mt-4 text-lg leading-8 text-slate-700 dark:text-slate-300">{{ $l.scheduling }}</p></section>
-        <section aria-labelledby="learner-use-case"><h2 id="learner-use-case" class="text-2xl font-bold text-slate-950 dark:text-white">{{ if $isPt }}Como você pode usar as aulas{{ else if $isEs }}Cómo puedes usar las clases{{ else }}How you might use the lessons{{ end }}</h2><p class="mt-4 text-lg leading-8 text-slate-700 dark:text-slate-300">{{ $l.learner_use_case }}</p></section>
-        <section id="faq" aria-labelledby="faq-heading"><h2 id="faq-heading" class="text-2xl font-bold text-slate-950 dark:text-white">{{ if $isPt }}Perguntas frequentes{{ else if $isEs }}Preguntas frecuentes{{ else }}Frequently asked questions{{ end }}</h2><div class="mt-4 divide-y divide-slate-200 rounded-2xl border border-slate-200 px-5 dark:divide-slate-700 dark:border-slate-700">{{ range $l.faq }}<details class="py-5"><summary class="cursor-pointer font-semibold text-slate-950 dark:text-white">{{ .question }}</summary><p class="mt-3 leading-7 text-slate-700 dark:text-slate-300">{{ .answer }}</p></details>{{ end }}</div></section>
+        {{ with .Content }}<section class="prose prose-slate max-w-none dark:prose-invert" aria-labelledby="existing-lesson-detail"><h2 id="existing-lesson-detail">{{ i18n "location_lesson_details" }}</h2>{{ . }}</section>{{ end }}
+        <section aria-labelledby="local-context"><h2 id="local-context" class="text-2xl font-bold text-slate-950 dark:text-white">{{ i18n "location_local_context" }}</h2><p class="mt-4 text-lg leading-8 text-slate-700 dark:text-slate-300">{{ $l.local_context }}</p></section>
+        <section aria-labelledby="scheduling"><h2 id="scheduling" class="text-2xl font-bold text-slate-950 dark:text-white">{{ i18n "location_scheduling" }}</h2><p class="mt-4 text-lg leading-8 text-slate-700 dark:text-slate-300">{{ $l.scheduling }}</p></section>
+        <section aria-labelledby="learner-use-case"><h2 id="learner-use-case" class="text-2xl font-bold text-slate-950 dark:text-white">{{ i18n "location_learner_use_case" }}</h2><p class="mt-4 text-lg leading-8 text-slate-700 dark:text-slate-300">{{ $l.learner_use_case }}</p></section>
+        <section id="faq" aria-labelledby="faq-heading"><h2 id="faq-heading" class="text-2xl font-bold text-slate-950 dark:text-white">{{ i18n "location_faq" }}</h2><div class="mt-4 divide-y divide-slate-200 rounded-2xl border border-slate-200 px-5 dark:divide-slate-700 dark:border-slate-700">{{ range $l.faq }}<details class="py-5"><summary class="cursor-pointer font-semibold text-slate-950 dark:text-white">{{ .question }}</summary><p class="mt-3 leading-7 text-slate-700 dark:text-slate-300">{{ .answer }}</p></details>{{ end }}</div></section>
       </div>
       <aside class="h-fit rounded-2xl bg-slate-50 p-6 dark:bg-slate-800">
-        <h2 class="text-lg font-bold text-slate-950 dark:text-white">{{ if $isPt }}Detalhes locais{{ else if $isEs }}Detalles locales{{ else }}Local details{{ end }}</h2>
-        <dl class="mt-5 space-y-4 text-sm"><div><dt class="font-semibold text-slate-500 dark:text-slate-400">{{ if $isPt }}Cidade{{ else if $isEs }}Ciudad{{ else }}City{{ end }}</dt><dd class="mt-1 text-slate-900 dark:text-white">{{ .Params.city }}</dd></div><div><dt class="font-semibold text-slate-500 dark:text-slate-400">{{ if $isPt }}País{{ else if $isEs }}País{{ else }}Country{{ end }}</dt><dd class="mt-1 text-slate-900 dark:text-white">{{ .Params.country }}</dd></div><div><dt class="font-semibold text-slate-500 dark:text-slate-400">IANA time zone</dt><dd class="mt-1 text-slate-900 dark:text-white">{{ .Params.time_zone }}</dd></div></dl>
+        <h2 class="text-lg font-bold text-slate-950 dark:text-white">{{ i18n "location_local_details" }}</h2>
+        <dl class="mt-5 space-y-4 text-sm"><div><dt class="font-semibold text-slate-500 dark:text-slate-400">{{ i18n "location_city" }}</dt><dd class="mt-1 text-slate-900 dark:text-white">{{ .Params.city }}</dd></div><div><dt class="font-semibold text-slate-500 dark:text-slate-400">{{ i18n "location_country" }}</dt><dd class="mt-1 text-slate-900 dark:text-white">{{ .Params.country }}</dd></div><div><dt class="font-semibold text-slate-500 dark:text-slate-400">{{ i18n "location_time_zone" }}</dt><dd class="mt-1 text-slate-900 dark:text-white">{{ .Params.time_zone }}</dd></div></dl>
         <a class="mt-7 inline-flex w-full justify-center rounded-lg bg-primary-600 px-5 py-3 text-center font-semibold text-white transition hover:bg-primary-700" href="{{ .Params.cta.url }}">{{ .Params.cta.label }}</a>
       </aside>
     </div>

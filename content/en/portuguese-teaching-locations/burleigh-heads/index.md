@@ -1,14 +1,14 @@
 ---
 translationKey: location-burleigh-heads
-title: "Online Brazilian Portuguese Lessons in Burleigh Heads"
-description: "Online Brazilian Portuguese lessons in Burleigh Heads, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Burleigh Heads: Online & In-Person"
+description: "Brazilian Portuguese lessons in Burleigh Heads, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/burleigh-heads/
 image:
   filename: pages/portuguese-teaching-locations/burleigh-heads/burleigh-heads-brazilian-portuguese-lesson.png
-  alt_text: Learn Portuguese in Burleigh Heads | In-person & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Burleigh Heads — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Burleigh Heads. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Burleigh Heads is located in Australia. Burleigh Heads is grouped in the Gold Coast location set used for local scheduling and learner guidance. This page keeps the local reference specific to Burleigh Heads while the teaching service remains online-first."
-scheduling: "Scheduling from Burleigh Heads: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Burleigh Heads: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Burleigh Heads with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Burleigh Heads is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Burleigh Heads: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Burleigh Heads: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Burleigh Heads"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Burleigh Heads?"
-    answer: "Yes. Lessons are online, so you can study from Burleigh Heads. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
@@ -49,7 +49,7 @@ Barbara Sharon brings a rich background to her teaching, holding a Bachelor's de
 As a TESOL-certified instructor, she uses effective teaching methodologies that cater to various learning styles. Her multilingual skills in Italian and Spanish add valuable context for language comparison and deeper comprehension. Additionally, her training as a counsellor and ongoing studies in Educational Studies and Behaviour Management allow her to create a supportive and motivating environment where every student can thrive.
 
 Barbara’s lessons are carefully structured to include grammar, vocabulary, conversation practice, and cultural insights. She offers both group and private instruction formats, including speaking clubs for those looking to improve fluency and confidence in real conversations. For students near Burleigh Heads, in-person Portuguese lessons take place in Surfers Paradise, while online sessions provide flexibility for busy schedules. Whether you're searching for a Brazilian Portuguese teacher burleigh-heads or a native Portuguese teacher burleigh-heads, Barbara offers personalized instruction tailored to your goals.
-## In-person & Online Lessons
+## Portuguese lessons in Burleigh Heads: online and in-person options
 
 Flexible learning options are available for students in Burleigh Heads and beyond. Barbara offers both individual private lessons and group classes, allowing learners to choose the format that best suits their goals. Whether you're a beginner or advanced speaker, she adapts her teaching approach to ensure progress and enjoyment.
 

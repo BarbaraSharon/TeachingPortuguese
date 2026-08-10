@@ -1,12 +1,13 @@
 ---
 translationKey: location-lower-beechmont
-title: "Aulas online de português brasileiro em Lower Beechmont"
-description: "Aulas online de português brasileiro em Lower Beechmont, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+type: portuguese-teaching-locations
+title: "Aulas de português brasileiro em Lower Beechmont: online e presenciais"
+description: "Aulas de português brasileiro em Lower Beechmont, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/lower-beechmont/lower-beechmont-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, professora e tutora de português brasileiro
+  alt_text: "Aulas de português brasileiro em Lower Beechmont: opções online e presenciais na Gold Coast com Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
@@ -15,16 +16,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Lower Beechmont. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
-local_context: "Lower Beechmont faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Lower Beechmont está localizada em Australia. Esta página mantém a referência local específica de Lower Beechmont, enquanto o serviço de ensino continua priorizando o formato online."
-scheduling: "Horários para Lower Beechmont: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Lower Beechmont: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro a partir de Lower Beechmont com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
+local_context: "Lower Beechmont faz parte do conjunto de locais da Gold Coast. Os alunos podem escolher aulas online ou participar de aulas presenciais em um local adequado confirmado na Gold Coast."
+scheduling: "Horários para Lower Beechmont: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Lower Beechmont: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Lower Beechmont"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Lower Beechmont?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Lower Beechmont. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
 editorial_reviewed: true
 ---
 
@@ -62,7 +63,7 @@ Como a quinta língua mais falada do mundo, o português é uma importante líng
 
 Quer você tenha interesse em português brasileiro ou europeu, esse idioma versátil abre portas para muitas oportunidades. As aulas de Barbara Sharon enfatizam a aplicação prática, ajudando os estudantes a fortalecer a confiança em situações reais. Sua abordagem é ideal para quem procura aulas de português perto de Lower Beechmont ou apoio de tutoria online de português em Lower Beechmont.
 
-## Aulas online de português em Lower Beechmont
+## Aulas de português em Lower Beechmont: opções online e presenciais
 
 Aulas online particulares e em grupo de português estão disponíveis no mundo todo, oferecendo flexibilidade para estudantes de Lower Beechmont. Aulas presenciais são oferecidas atualmente na Gold Coast pelos serviços de ensino de Barbara Sharon. Sua plataforma online utiliza ferramentas interativas e recursos multimídia para tornar o aprendizado envolvente e eficaz.
 

@@ -1,14 +1,14 @@
 ---
 translationKey: location-clagiraba
-title: "Online Brazilian Portuguese Lessons in Clagiraba"
-description: "Online Brazilian Portuguese lessons in Clagiraba, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Brazilian Portuguese Lessons in Clagiraba: Online & In-Person"
+description: "Brazilian Portuguese lessons in Clagiraba, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
 - /portuguese-teaching-locations/clagiraba/
 image:
   filename: pages/portuguese-teaching-locations/clagiraba/clagiraba-brazilian-portuguese-lesson.png
-  alt_text: Learn Brazilian Portuguese in Clagiraba | Private & Online Lessons - Brazilian Portuguese lessons with Barbara Sharon
+  alt_text: "Brazilian Portuguese lessons in Clagiraba — online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
@@ -17,20 +17,20 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Clagiraba. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
-local_context: "Clagiraba is grouped in the Gold Coast location set used for local scheduling and learner guidance. Clagiraba is located in Australia. This page keeps the local reference specific to Clagiraba while the teaching service remains online-first."
-scheduling: "Scheduling from Clagiraba: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Clagiraba: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese from Clagiraba with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
+local_context: "Clagiraba is part of the Gold Coast location set. Learners can choose online lessons or attend in-person classes at a suitable confirmed Gold Coast venue."
+scheduling: "Scheduling from Clagiraba: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Clagiraba: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Clagiraba"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Clagiraba?"
-    answer: "Yes. Lessons are online, so you can study from Clagiraba. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 
-## Learn Brazilian Portuguese in Clagiraba, Australia - Private & Online Lessons
+## Portuguese lessons in Clagiraba: online and in-person options
 
 Clagiraba is a peaceful rural locality situated in the scenic Gold Coast hinterland, renowned for its natural beauty and tranquil environment. With a population of around 651 residents, it provides an ideal setting for language learners seeking a calm and focused atmosphere. The surrounding bushland and creeks offer a serene backdrop for study, while its proximity to Surfers Paradise makes it convenient for in-person Portuguese lessons.
 
@@ -49,7 +49,7 @@ As a TESOL-certified instructor, Barbara uses effective methodologies that adapt
 In addition to her teaching qualifications, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This allows her to create a supportive and motivating learning environment where every student can succeed.
 
 Her carefully structured lessons combine grammar, vocabulary, conversation practice, and cultural insights, helping students not only learn Portuguese but also use it naturally in real-life situations. She offers both individual and group sessions, as well as a speaking club for those looking to practice further. Whether you're seeking a private Portuguese tutor Clagiraba or conversational Portuguese classes Clagiraba , Barbara's approach ensures effective learning outcomes.
-## In-person & Online Lessons
+## Portuguese lessons in Clagiraba: online and in-person options
 
 Barbara Sharon provides flexible Portuguese learning options including online classes, private tutoring, group sessions, and conversational speaking clubs. Her lessons are suitable for all levels, from complete beginners to advanced speakers. In-person instruction is available in Surfers Paradise, making it convenient for students in Clagiraba and surrounding areas.
 

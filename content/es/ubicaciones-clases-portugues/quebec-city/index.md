@@ -1,5 +1,6 @@
 ---
 translationKey: location-quebec-city
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Ciudad de Quebec"
 description: "Clases online de portugués brasileño en Ciudad de Quebec, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

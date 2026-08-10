@@ -1,5 +1,6 @@
 ---
 translationKey: location-hamburg
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Hamburg"
 description: "Aulas online de português brasileiro em Hamburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

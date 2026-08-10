@@ -13,7 +13,7 @@
 {{/* Enable Alpine.js for copy-to-clipboard functionality */}}
 {{ $page.Store.Set "has_alpine" true }}
 
-{{ $default_title := i18n "block_contact_title" | default "Contact Us" }}
+{{ $default_title := i18n "block_contact_title" }}
 {{ $title := $default_title }}
 {{ $title_raw := index $content "title" }}
 {{ if eq (printf "%T" $title_raw) "string" }}
@@ -30,7 +30,7 @@
   {{ $subtitle = $subtitle_raw | emojify | $page.RenderString }}
 {{ end }}
 
-{{ $visit_title := i18n "block_contact_visit_title" | default "Visit Us" }}
+{{ $visit_title := i18n "block_contact_visit_title" }}
 {{ $visit_title_raw := index $content "visit_title" }}
 {{ if eq (printf "%T" $visit_title_raw) "string" }}
   {{ $visit_title_raw = strings.TrimSpace $visit_title_raw }}
@@ -44,8 +44,8 @@
 {{ if eq (printf "%T" $connect_title_value) "string" }}
   {{ $connect_title_raw = strings.TrimSpace $connect_title_value }}
 {{ end }}
-{{ $connect_title_standard := $connect_title_raw | default (i18n "block_contact_connect_title" | default "Connect") }}
-{{ $connect_title_single := $connect_title_raw | default (i18n "block_contact_connect_title" | default "Let's Connect") }}
+{{ $connect_title_standard := $connect_title_raw | default (i18n "block_contact_connect_title") }}
+{{ $connect_title_single := $connect_title_raw | default (i18n "block_contact_connect_title") }}
 
 {{ $connect_text := "" }}
 {{ $connect_text_raw := index $content "text" }}
@@ -289,7 +289,7 @@
         
         {{ if gt (len $office_hours) 0 }}
         <div class="pt-4 border-t border-gray-200 dark:border-white/10">
-          <h4 class="font-semibold text-gray-900 dark:text-white mb-2">{{ i18n "block_contact_office_hours" | default "Office Hours" }}</h4>
+          <h4 class="font-semibold text-gray-900 dark:text-white mb-2">{{ i18n "block_contact_office_hours" }}</h4>
           <div class="text-gray-600 dark:text-gray-300 space-y-1">
             {{ range $office_hours }}
             <p>{{ . }}</p>
@@ -312,7 +312,7 @@
         <a href="{{ $map_link | safeURL }}" {{ $map_target | safeHTMLAttr }}
            class="inline-flex items-center mt-4 px-4 py-2 bg-primary-100 dark:bg-primary-500/10 text-primary-700 dark:text-primary-400 rounded-lg border border-primary-200 dark:border-primary-500/20 hover:bg-primary-200 dark:hover:bg-primary-500/20 hover:border-primary-300 dark:hover:border-primary-500/40 transition-all">
           {{ partial "functions/get_icon" (dict "name" "hero/map" "attributes" "class=\"w-5 h-5 mr-2\"") }}
-          {{ i18n "block_contact_view_on_map" | default "View on Map" }}
+          {{ i18n "block_contact_view_on_map" }}
         </a>
         {{ end }}
       </div>
@@ -358,7 +358,7 @@
                 {{ partial "functions/get_icon" (dict "name" "hero/envelope" "attributes" "class=\"w-6 h-6 text-primary-600 dark:text-primary-400\"") }}
               </div>
               <div>
-                <p class="text-sm text-gray-500 dark:text-gray-400 group-hover:text-gray-700 dark:group-hover:text-gray-300 transition-colors">Click to copy</p>
+                <p class="text-sm text-gray-500 dark:text-gray-400 group-hover:text-gray-700 dark:group-hover:text-gray-300 transition-colors">{{ i18n "block_contact_copy_hint" }}</p>
                 <p class="text-lg font-medium text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">{{ . }}</p>
               </div>
             </button>
@@ -398,7 +398,7 @@
               {{ partial "functions/get_icon" (dict "name" "hero/phone" "attributes" "class=\"w-6 h-6 text-primary-600 dark:text-primary-400\"") }}
             </div>
             <div>
-              <p class="text-sm text-gray-500 dark:text-gray-400">Call me</p>
+              <p class="text-sm text-gray-500 dark:text-gray-400">{{ i18n "block_contact_call" }}</p>
               <p class="text-lg font-medium text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">{{ . }}</p>
             </div>
           </a>
@@ -408,7 +408,7 @@
         {{/* Right: Social Links */}}
         {{ if gt (len $filtered_social) 0 }}
         <div class="flex flex-col justify-center items-center md:items-start">
-          <h4 class="text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-5">{{ i18n "block_contact_follow_me" | default "Find me on" }}</h4>
+          <h4 class="text-sm font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-5">{{ i18n "block_contact_follow_me" }}</h4>
           <div class="flex flex-wrap gap-4">
             {{ range $filtered_social }}
             {{ $social_url := index . "url" }}
@@ -457,7 +457,7 @@
               {{ partial "functions/get_icon" (dict "name" "hero/envelope" "attributes" "class=\"w-5 h-5 text-primary-600 dark:text-primary-400\"") }}
             </div>
             <div>
-              <p class="text-sm text-gray-500 dark:text-gray-400">Email</p>
+              <p class="text-sm text-gray-500 dark:text-gray-400">{{ i18n "block_contact_email" }}</p>
               <p class="text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">{{ . }}</p>
             </div>
           </a>
@@ -469,7 +469,7 @@
               {{ partial "functions/get_icon" (dict "name" "hero/phone" "attributes" "class=\"w-5 h-5 text-primary-600 dark:text-primary-400\"") }}
             </div>
             <div>
-              <p class="text-sm text-gray-500 dark:text-gray-400">Phone</p>
+              <p class="text-sm text-gray-500 dark:text-gray-400">{{ i18n "block_contact_phone" }}</p>
               <p class="text-gray-900 dark:text-white group-hover:text-primary-600 dark:group-hover:text-primary-400 transition-colors">{{ . }}</p>
             </div>
           </a>
@@ -478,7 +478,7 @@
           {{/* Social Media */}}
           {{ if gt (len $filtered_social) 0 }}
           <div class="pt-4 border-t border-gray-200 dark:border-white/10">
-            <h4 class="font-semibold text-gray-900 dark:text-white mb-4">{{ i18n "block_contact_follow_me" | default "Find me on" }}</h4>
+            <h4 class="font-semibold text-gray-900 dark:text-white mb-4">{{ i18n "block_contact_follow_me" }}</h4>
             <div class="flex flex-wrap gap-3">
               {{ range $filtered_social }}
               {{ $social_url := index . "url" }}
@@ -509,7 +509,7 @@
         
       {{/* Prospective Members - shown in both layouts */}}
       {{ if or $prospective_title $prospective_text $prospective_button_text $prospective_button_url }}
-      {{ $prospective_heading := $prospective_title | default (i18n "block_contact_prospective_title" | default "Prospective Members") }}
+      {{ $prospective_heading := $prospective_title | default (i18n "block_contact_prospective_title") }}
       <div class="mt-6 pt-6 border-t border-gray-200 dark:border-white/10">
         <h4 class="font-semibold text-gray-900 dark:text-white mb-2">{{ $prospective_heading }}</h4>
         {{ with $prospective_text }}
@@ -551,33 +551,33 @@
   {{ if $show_form }}
   <div class="mt-12 max-w-2xl mx-auto">
     <div class="bg-white dark:bg-white/[0.03] backdrop-blur-xl rounded-2xl border border-gray-200 dark:border-white/[0.08] p-8">
-      <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">{{ i18n "block_contact_form_title" | default "Send us a Message" }}</h3>
+      <h3 class="text-2xl font-bold text-gray-900 dark:text-white mb-6">{{ i18n "block_contact_form_title" }}</h3>
       <form action="{{ $form_action | safeURL }}" method="POST" class="space-y-6">
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <div>
-            <label for="name" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_name" | default "Name" }}</label>
+            <label for="name" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_name" }}</label>
             <input type="text" id="name" name="name" required
                    class="w-full px-4 py-3 bg-gray-50 dark:bg-white/5 border border-gray-200 dark:border-white/10 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500/50 text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500 transition-colors">
           </div>
           <div>
-            <label for="form-email" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_email" | default "Email" }}</label>
+            <label for="form-email" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_email" }}</label>
             <input type="email" id="form-email" name="email" required
                    class="w-full px-4 py-3 bg-gray-50 dark:bg-white/5 border border-gray-200 dark:border-white/10 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500/50 text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500 transition-colors">
           </div>
         </div>
         <div>
-          <label for="subject" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_subject" | default "Subject" }}</label>
+          <label for="subject" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_subject" }}</label>
           <input type="text" id="subject" name="subject" required
                  class="w-full px-4 py-3 bg-gray-50 dark:bg-white/5 border border-gray-200 dark:border-white/10 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500/50 text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500 transition-colors">
         </div>
         <div>
-          <label for="message" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_message" | default "Message" }}</label>
+          <label for="message" class="block text-sm font-medium text-gray-600 dark:text-gray-400 mb-2">{{ i18n "block_contact_form_message" }}</label>
           <textarea id="message" name="message" rows="5" required
                     class="w-full px-4 py-3 bg-gray-50 dark:bg-white/5 border border-gray-200 dark:border-white/10 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500/50 text-gray-900 dark:text-white placeholder-gray-400 dark:placeholder-gray-500 transition-colors resize-none"></textarea>
         </div>
         <button type="submit"
                 class="w-full px-6 py-3 bg-primary-600 hover:bg-primary-500 text-white font-medium rounded-lg shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 transition-all">
-          {{ i18n "block_contact_form_submit" | default "Send Message" }}
+          {{ i18n "block_contact_form_submit" }}
         </button>
       </form>
     </div>

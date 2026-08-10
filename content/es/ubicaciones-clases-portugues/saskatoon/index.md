@@ -1,5 +1,6 @@
 ---
 translationKey: location-saskatoon
+type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Saskatoon"
 description: "Clases online de portugués brasileño en Saskatoon, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05

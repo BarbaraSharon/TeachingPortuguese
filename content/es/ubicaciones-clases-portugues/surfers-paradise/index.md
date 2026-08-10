@@ -1,12 +1,13 @@
 ---
 translationKey: location-surfers-paradise
-title: "Clases online de portugués brasileño en Surfers Paradise"
-description: "Clases online de portugués brasileño en Surfers Paradise, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+type: portuguese-teaching-locations
+title: "Clases de portugués brasileño en Surfers Paradise: online y presenciales"
+description: "Clases de portugués brasileño en Surfers Paradise, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
   filename: pages/portuguese-teaching-locations/surfers-paradise/surfers-paradise-brazilian-portuguese-tutor.png
-  alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
+  alt_text: "Clases de portugués brasileño en Surfers Paradise: opciones online y presenciales en Gold Coast con Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
@@ -15,16 +16,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño online desde Surfers Paradise. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
-local_context: "Surfers Paradise está situada en Australia. Surfers Paradise forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Surfers Paradise, mientras que el servicio de enseñanza sigue priorizando el formato online."
-scheduling: "Horarios para Surfers Paradise: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Surfers Paradise: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño desde Surfers Paradise con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
+local_context: "Surfers Paradise forma parte del conjunto de ubicaciones de Gold Coast. El alumnado puede elegir clases online o asistir a clases presenciales en un lugar adecuado confirmado de Gold Coast."
+scheduling: "Horarios para Surfers Paradise: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Surfers Paradise: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Surfers Paradise"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Surfers Paradise?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Surfers Paradise. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
 editorial_reviewed: true
 ---
 
@@ -63,7 +64,7 @@ El portugués es una de las lenguas más habladas del mundo, con más de 260 mil
 Las clases de portugués de Barbara Sharon en Gold Coast van más allá de gramática y vocabulario. Integra conocimientos culturales para comprender mejor las variaciones regionales. Su enfoque como profesora nativa asegura pronunciación precisa, expresiones idiomáticas y formas de comunicarse usadas en situaciones reales.
 
 Tanto si eliges clases presenciales como en línea, sus métodos están diseñados para un aprendizaje eficaz y duradero. Sus clases de conversación en Surfers Paradise desarrollan confianza con ejercicios interactivos y diálogo significativo, mientras que las sesiones virtuales brindan flexibilidad a quienes tienen horarios ocupados.
-## Clases de portugués en línea en Surfers Paradise: flexibles y eficaces
+## Clases de portugués en Surfers Paradise: opciones online y presenciales
 
 Barbara Sharon ofrece clases de portugués en línea prácticas y adaptadas a estudiantes de Surfers Paradise y de todo el mundo. Estas sesiones virtuales son ideales para quienes prefieren flexibilidad horaria o no pueden asistir a clases presenciales.
 

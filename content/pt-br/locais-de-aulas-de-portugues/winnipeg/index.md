@@ -1,5 +1,6 @@
 ---
 translationKey: location-winnipeg
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Winnipeg"
 description: "Aulas online de português brasileiro em Winnipeg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05

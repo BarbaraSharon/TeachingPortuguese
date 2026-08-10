@@ -1,5 +1,6 @@
 ---
 translationKey: location-edmonton
+type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Edmonton"
 description: "Aulas online de português brasileiro em Edmonton, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
