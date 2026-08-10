@@ -10,10 +10,10 @@
     type="button"
     aria-label="{{ $str_languages }}"
   >
-    <div class="flex items-center gap-2 capitalize">
+    <span class="flex items-center gap-2 capitalize">
       {{ partial "functions/get_icon" (dict "name" "globe-alt" "attributes" "height=18") }}
       <span>{{ index hugo.Data.languages site.Language.Lang }}</span>
-    </div>
+    </span>
   </button>
   <ul
     class="fixed m-0 min-w-[100px] hidden z-20 max-h-64 overflow-auto rounded-md ring-1 ring-black/5 bg-white py-1 text-sm shadow-lg dark:ring-white/20 dark:bg-neutral-800"

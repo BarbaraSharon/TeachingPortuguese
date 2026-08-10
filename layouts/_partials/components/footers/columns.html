@@ -7,7 +7,7 @@
 {{- $show_logo := site.Params.hugoblox.footer.show_logo | default true -}}
 {{- $show_tagline := site.Params.hugoblox.footer.show_tagline | default true -}}
 {{- $page := . -}}
-<footer aria-labelledby="footer-heading">
+<div>
   <span id="footer-heading" class="sr-only">{{ i18n "footer" }}</span>
 
   <div class="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-12 lg:px-16">
@@ -16,7 +16,7 @@
         <a class="footer-brand inline-flex items-center gap-3" href="{{ site.Home.RelPermalink }}" title="{{ $localized_site_title }}">
           {{ if and $show_logo $logo }}
             <span class="footer-brand-mark h-10 w-10 shrink-0 text-primary-600 dark:text-primary-200" aria-hidden="true">
-              {{ $logo.Content | safeHTML }}
+              {{ replace $logo.Content "barbs-inverted-mark" "barbs-inverted-mark-footer" | safeHTML }}
             </span>
           {{ end }}
           <span class="leading-tight">
@@ -48,7 +48,7 @@
           {{ range $index, $menuItem := $menu }}
           <div>
             <h3 class="text-sm font-bold tracking-wider text-primary-500 uppercase dark:text-primary-300">{{ $menuItem.Name }}</h3>
-            <ul role="list" class="mt-4 space-y-2">
+            <ul class="mt-4 space-y-2">
               {{ range $childIndex, $childMenuItem := $menuItem.Children }}
               {{ $url := .URL | relLangURL }}
               <li>
@@ -75,13 +75,4 @@
       </span>
     </div>
   </div>
-</footer>
-
-<style>
-  .footer-brand-mark svg {
-    display: block;
-    width: 2.5rem;
-    height: 2.5rem;
-    color: currentColor;
-  }
-</style>
+</div>

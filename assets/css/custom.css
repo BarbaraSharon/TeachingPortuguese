@@ -671,6 +671,14 @@ html {
   min-height: 2.75rem;
 }
 
+.brand-mark svg,
+.footer-brand-mark svg {
+  display: block;
+  width: 2.5rem;
+  height: 2.5rem;
+  color: currentColor;
+}
+
 .nav-dropdown-trigger .nav-link {
   flex: 1 1 auto;
 }

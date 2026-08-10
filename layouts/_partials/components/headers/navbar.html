@@ -26,12 +26,9 @@
     <input id="nav-toggle" type="checkbox" class="hidden" />
     <label
       for="nav-toggle"
-      role="button"
       tabindex="0"
-      aria-label="{{ i18n "toggle_navigation" }}"
-      aria-controls="nav-menu"
-      aria-expanded="false"
       class="mobile-nav-toggle order-3 cursor-pointer flex items-center justify-center lg:hidden text-[var(--hb-color-header-fg)] lg:order-1">
+      <span class="sr-only">{{ i18n "toggle_navigation" }}</span>
       <svg id="show-button" class="h-6 fill-current block" viewBox="0 0 20 20">
         <title>{{ i18n "open_menu" }}</title>
         <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path>
@@ -227,15 +224,6 @@
   </nav>
 </header>
 
-<style>
-  .brand-mark svg {
-    display: block;
-    width: 2.5rem;
-    height: 2.5rem;
-    color: currentColor;
-  }
-</style>
-
 <script>
   (() => {
     const dropdowns = Array.from(document.querySelectorAll('.nav-dropdown'));
@@ -243,16 +231,11 @@
     const navToggleLabel = document.querySelector('label[for="nav-toggle"]');
 
     if (navToggle && navToggleLabel) {
-      const syncNavigationState = () => {
-        navToggleLabel.setAttribute('aria-expanded', String(navToggle.checked));
-      };
-      navToggle.addEventListener('change', syncNavigationState);
       navToggleLabel.addEventListener('keydown', (event) => {
         if (event.key !== 'Enter' && event.key !== ' ') return;
         event.preventDefault();
         navToggle.click();
       });
-      syncNavigationState();
     }
 
     const setOpen = (dropdown, isOpen) => {

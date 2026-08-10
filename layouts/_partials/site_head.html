@@ -226,8 +226,8 @@
   {{ $title = $title | plainify | htmlUnescape | strings.TrimSpace | default $localized_site_title }}
   <meta name="twitter:card" content="{{ $twitter_card }}" />
   {{ with site.Params.hugoblox.identity.social.twitter }}
-    <meta property="twitter:site" content="@{{ . }}" />
-    <meta property="twitter:creator" content="@{{ . }}" />
+    <meta name="twitter:site" content="@{{ . }}" />
+    <meta name="twitter:creator" content="@{{ . }}" />
   {{ end }}
   <meta property="og:site_name" content="{{ $localized_site_title }}" />
   <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
@@ -236,7 +236,7 @@
   <meta property="og:description" content="{{ $desc }}" />
   {{- with $og_image -}}
     <meta property="og:image" content="{{ . }}" />
-    <meta property="twitter:image" content="{{ . }}" />
+    <meta name="twitter:image" content="{{ . }}" />
   {{- end -}}
   {{- if gt $og_image_width 0 -}}
     <meta property="og:image:width" content="{{ $og_image_width }}" />
@@ -244,7 +244,13 @@
   {{- if gt $og_image_height 0 -}}
     <meta property="og:image:height" content="{{ $og_image_height }}" />
   {{- end -}}
-  <meta property="og:locale" content="{{ site.Language.Locale | default "en-us" }}" />
+  {{ $ogLocales := dict "en" "en_AU" "pt-br" "pt_BR" "es" "es_ES" }}
+  {{ $ogLocale := index $ogLocales site.Language.Lang | default (site.Language.Locale | default "en_AU") }}
+  <meta property="og:locale" content="{{ $ogLocale }}" />
+  {{ range .Translations }}
+    {{ $alternateOgLocale := index $ogLocales .Language.Lang | default .Language.Locale }}
+    <meta property="og:locale:alternate" content="{{ $alternateOgLocale }}" />
+  {{ end }}
   {{ if .IsPage }}
     {{ if not .PublishDate.IsZero }}
       <meta
