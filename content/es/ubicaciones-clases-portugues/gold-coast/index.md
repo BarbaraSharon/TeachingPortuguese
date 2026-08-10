@@ -1,7 +1,7 @@
 ---
 translationKey: location-gold-coast
 title: "Clases online de portugués brasileño en Gold Coast"
-description: "Clases online de portugués brasileño para quienes están en Gold Coast, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Gold Coast, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Gold Coast"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Gold Coast. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
+local_context: "Gold Coast está situada en Australia. Gold Coast forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Gold Coast, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Gold Coast: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Gold Coast: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Gold Coast"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Gold Coast?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Gold Coast. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño en Gold Coast: clases particulares y grupales

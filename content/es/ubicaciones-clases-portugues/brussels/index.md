@@ -1,7 +1,7 @@
 ---
 translationKey: location-brussels
-title: "Clases online de portugués brasileño en Bruselas"
-description: "Clases online de portugués brasileño para quienes están en Bruselas, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Brussels"
+description: "Clases online de portugués brasileño en Brussels, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Brussels"
+country: "Belgium"
+region_group: "Europe"
+time_zone: "Europe/Brussels"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Brussels. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Brussels está situada en Belgium. Brussels forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Brussels, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Brussels: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Brussels; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Brussels: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Brussels"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Brussels?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Brussels. Los horarios se acuerdan con antelación usando Europe/Brussels y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño y europeo en Bruselas: clases en línea

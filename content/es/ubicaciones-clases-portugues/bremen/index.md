@@ -1,7 +1,7 @@
 ---
 translationKey: location-bremen
 title: "Clases online de portugués brasileño en Bremen"
-description: "Clases online de portugués brasileño para quienes están en Bremen, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Bremen, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Bremen"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Bremen. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Bremen está situada en Germany. Bremen forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Bremen, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Bremen: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Bremen: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Bremen"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Bremen?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Bremen. Los horarios se acuerdan con antelación usando Europe/Berlin y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Bremen: clases particulares y grupales

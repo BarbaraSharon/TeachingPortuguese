@@ -1,7 +1,7 @@
 ---
 translationKey: location-milan
-title: "Aulas online de português brasileiro em Milão"
-description: "Aulas online de português brasileiro para quem está em Milão, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Milan"
+description: "Aulas online de português brasileiro em Milan, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Milan"
+country: "Italy"
+region_group: "Europe"
+time_zone: "Europe/Rome"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Milan. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Milan faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Milan está localizada em Italy. Esta página mantém a referência local específica de Milan, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Milan: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Milan: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Milan"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Milan?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Milan. Os horários são combinados com antecedência usando Europe/Rome e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Milão: aulas online com Barbara Sharon

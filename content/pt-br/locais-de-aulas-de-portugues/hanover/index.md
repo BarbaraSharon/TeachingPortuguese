@@ -1,15 +1,31 @@
 ---
+translationKey: location-hanover
 title: "Aulas online de português brasileiro em Hanover"
-description: "Aulas online de português brasileiro para quem está em Hanover, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Hanover, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-hanover
 image:
   filename: pages/portuguese-teaching-locations/hanover/hanover-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Hanover | Aulas online - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Hanover"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Hanover. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Hanover faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Hanover está localizada em Germany. Esta página mantém a referência local específica de Hanover, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Hanover: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Hanover: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Hanover"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Hanover?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Hanover. Os horários são combinados com antecedência usando Europe/Berlin e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro intensivo em Hanover - progresso rápido com resultados comprovados

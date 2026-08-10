@@ -1,7 +1,7 @@
 ---
 translationKey: location-singapore
-title: "Clases online de portugués brasileño en Singapur"
-description: "Clases online de portugués brasileño para quienes están en Singapur, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Singapore"
+description: "Clases online de portugués brasileño en Singapore, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Singapore"
+country: "Singapore"
+region_group: "Asia"
+time_zone: "Asia/Singapore"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Singapore. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Singapore forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Singapore está situada en Singapore. Esta página mantiene la referencia local específica de Singapore, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Singapore: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Singapore; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Singapore: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Singapore"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Singapore?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Singapore. Los horarios se acuerdan con antelación usando Asia/Singapore y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño en Singapur: clases en línea

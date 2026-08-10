@@ -1,7 +1,7 @@
 ---
 translationKey: location-isle-of-capri
-title: "Clases online de portugués brasileño en Isle of Capri"
-description: "Clases online de portugués brasileño para quienes están en Isle of Capri, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Isle Of Capri"
+description: "Clases online de portugués brasileño en Isle Of Capri, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Isle Of Capri"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Isle Of Capri. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
+local_context: "Isle Of Capri forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Isle Of Capri está situada en Australia. Esta página mantiene la referencia local específica de Isle Of Capri, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Isle Of Capri: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Isle Of Capri: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Isle Of Capri"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Isle Of Capri?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Isle Of Capri. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Isle of Capri: clases en línea y presenciales con Barbara Sharon

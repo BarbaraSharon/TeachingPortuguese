@@ -1,7 +1,7 @@
 ---
 translationKey: location-singapore
 title: "Online Brazilian Portuguese Lessons in Singapore"
-description: "Online Brazilian Portuguese lessons for learners in Singapore, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Singapore, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Singapore"
+country: "Singapore"
+region_group: "Asia"
+time_zone: "Asia/Singapore"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Singapore. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Singapore is grouped in the Asia location set used for local scheduling and learner guidance. Singapore is located in Singapore. This page keeps the local reference specific to Singapore while the teaching service remains online-first."
+scheduling: "Scheduling from Singapore: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Singapore; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Singapore: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Singapore"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Singapore?"
+    answer: "Yes. Lessons are online, so you can study from Singapore. Times are agreed in advance using Asia/Singapore and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Singapore - Online Lessons

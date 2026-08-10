@@ -1,7 +1,7 @@
 ---
 translationKey: location-jacobs-well
 title: "Clases online de portugués brasileño en Jacobs Well"
-description: "Clases online de portugués brasileño para quienes están en Jacobs Well, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Jacobs Well, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Jacobs Well"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Jacobs Well. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
+local_context: "Jacobs Well forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Jacobs Well está situada en Australia. Esta página mantiene la referencia local específica de Jacobs Well, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Jacobs Well: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Jacobs Well: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Jacobs Well"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Jacobs Well?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Jacobs Well. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Jacobs Well: clases personalizadas y atractivas

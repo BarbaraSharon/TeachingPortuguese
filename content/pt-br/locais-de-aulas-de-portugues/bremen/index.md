@@ -1,15 +1,31 @@
 ---
+translationKey: location-bremen
 title: "Aulas online de português brasileiro em Bremen"
-description: "Aulas online de português brasileiro para quem está em Bremen, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Bremen, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-bremen
 image:
   filename: pages/portuguese-teaching-locations/bremen/bremen-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Bremen | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Bremen"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Bremen. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Bremen está localizada em Germany. Bremen faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Bremen, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Bremen: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Bremen: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Bremen"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Bremen?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Bremen. Os horários são combinados com antecedência usando Europe/Berlin e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Domine o português brasileiro em Bremen - aulas particulares e em grupo online

@@ -1,7 +1,7 @@
 ---
 translationKey: location-bologna
-title: "Aulas online de português brasileiro em Bolonha"
-description: "Aulas online de português brasileiro para quem está em Bolonha, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Bologna"
+description: "Aulas online de português brasileiro em Bologna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Bologna"
+country: "Italy"
+region_group: "Europe"
+time_zone: "Europe/Rome"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Bologna. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Bologna faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Bologna está localizada em Italy. Esta página mantém a referência local específica de Bologna, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Bologna: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Bologna: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Bologna"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Bologna?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Bologna. Os horários são combinados com antecedência usando Europe/Rome e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Bolonha | Aulas online particulares e em grupo

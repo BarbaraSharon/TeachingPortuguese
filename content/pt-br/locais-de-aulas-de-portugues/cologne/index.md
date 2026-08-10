@@ -1,7 +1,7 @@
 ---
 translationKey: location-cologne
-title: "Aulas online de português brasileiro em Colônia"
-description: "Aulas online de português brasileiro para quem está em Colônia, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Cologne"
+description: "Aulas online de português brasileiro em Cologne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Cologne"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Cologne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Cologne faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Cologne está localizada em Germany. Esta página mantém a referência local específica de Cologne, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Cologne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Cologne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Cologne"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Cologne?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Cologne. Os horários são combinados com antecedência usando Europe/Berlin e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Colônia - aulas particulares e em grupo com Barbara Sharon

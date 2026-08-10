@@ -1,7 +1,7 @@
 ---
 translationKey: location-pimpama
 title: "Clases online de portugués brasileño en Pimpama"
-description: "Clases online de portugués brasileño para quienes están en Pimpama, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Pimpama, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Pimpama"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Brisbane"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Pimpama. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Pimpama forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Pimpama está situada en Australia. Esta página mantiene la referencia local específica de Pimpama, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Pimpama: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Pimpama: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Pimpama"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Pimpama?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Pimpama. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Pimpama: clases de portugués brasileño y europeo cerca de ti

@@ -1,7 +1,7 @@
 ---
 translationKey: location-glasgow
 title: "Clases online de portugués brasileño en Glasgow"
-description: "Clases online de portugués brasileño para quienes están en Glasgow, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Glasgow, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Glasgow"
+country: "United Kingdom"
+region_group: "Europe"
+time_zone: "Europe/London"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Glasgow. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Glasgow forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Glasgow está situada en United Kingdom. Esta página mantiene la referencia local específica de Glasgow, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Glasgow: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/London; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Glasgow: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Glasgow"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Glasgow?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Glasgow. Los horarios se acuerdan con antelación usando Europe/London y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño en Glasgow: clases particulares y grupales en línea

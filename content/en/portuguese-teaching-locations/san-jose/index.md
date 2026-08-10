@@ -1,7 +1,7 @@
 ---
 translationKey: location-san-jose
 title: "Online Brazilian Portuguese Lessons in San Jose"
-description: "Online Brazilian Portuguese lessons for learners in San Jose, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in San Jose, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "San Jose"
+country: "United States"
+region_group: "North America"
+time_zone: "America/Los_Angeles"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from San Jose. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "San Jose is located in United States. San Jose is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to San Jose while the teaching service remains online-first."
+scheduling: "Scheduling from San Jose: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in San Jose: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for San Jose"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from San Jose?"
+    answer: "Yes. Lessons are online, so you can study from San Jose. Times are agreed in advance using America/Los_Angeles and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in San Jose: Brazilian & European Portuguese Classes

@@ -1,15 +1,31 @@
 ---
+translationKey: location-houston
 title: "Aulas online de português brasileiro em Houston"
-description: "Aulas online de português brasileiro para quem está em Houston, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Houston, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-houston
 image:
   filename: pages/portuguese-teaching-locations/houston/houston-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Houston"
+country: "United States"
+region_group: "North America"
+time_zone: "America/Chicago"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Houston. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Houston faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Houston está localizada em United States. Esta página mantém a referência local específica de Houston, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Houston: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Chicago; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Houston: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Houston"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Houston?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Houston. Os horários são combinados com antecedência usando America/Chicago e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Houston - aulas particulares e em grupo

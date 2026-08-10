@@ -1,7 +1,7 @@
 ---
 translationKey: location-singapore
-title: "Aulas online de português brasileiro em Singapura"
-description: "Aulas online de português brasileiro para quem está em Singapura, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Singapore"
+description: "Aulas online de português brasileiro em Singapore, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Singapore"
+country: "Singapore"
+region_group: "Asia"
+time_zone: "Asia/Singapore"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Singapore. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Singapore faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Singapore está localizada em Singapore. Esta página mantém a referência local específica de Singapore, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Singapore: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Singapore; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Singapore: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Singapore"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Singapore?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Singapore. Os horários são combinados com antecedência usando Asia/Singapore e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Singapura - aulas online

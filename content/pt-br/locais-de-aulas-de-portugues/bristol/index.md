@@ -1,15 +1,31 @@
 ---
+translationKey: location-bristol
 title: "Aulas online de português brasileiro em Bristol"
-description: "Aulas online de português brasileiro para quem está em Bristol, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Bristol, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-bristol
 image:
   filename: pages/portuguese-teaching-locations/bristol/bristol-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Bristol | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Bristol"
+country: "United Kingdom"
+region_group: "Europe"
+time_zone: "Europe/London"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Bristol. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Bristol faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Bristol está localizada em United Kingdom. Esta página mantém a referência local específica de Bristol, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Bristol: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Bristol: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Bristol"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Bristol?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Bristol. Os horários são combinados com antecedência usando Europe/London e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Bristol - aulas online com Barbara Sharon

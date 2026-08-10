@@ -1,7 +1,7 @@
 ---
 translationKey: location-tokyo
 title: "Clases online de portugués brasileño en Tokyo"
-description: "Clases online de portugués brasileño para quienes están en Tokyo, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Tokyo, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Tokyo"
+country: "Japan"
+region_group: "Asia"
+time_zone: "Asia/Tokyo"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Tokyo. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Tokyo forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Tokyo está situada en Japan. Esta página mantiene la referencia local específica de Tokyo, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Tokyo: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Tokyo; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Tokyo: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Tokyo"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Tokyo?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Tokyo. Los horarios se acuerdan con antelación usando Asia/Tokyo y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Tokyo con Barbara Sharon

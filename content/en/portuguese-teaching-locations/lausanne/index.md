@@ -1,7 +1,7 @@
 ---
 translationKey: location-lausanne
 title: "Online Brazilian Portuguese Lessons in Lausanne"
-description: "Online Brazilian Portuguese lessons for learners in Lausanne, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Lausanne, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Lausanne"
+country: "Switzerland"
+region_group: "Europe"
+time_zone: "Europe/Zurich"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Lausanne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Lausanne is located in Switzerland. Lausanne is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Lausanne while the teaching service remains online-first."
+scheduling: "Scheduling from Lausanne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Lausanne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Lausanne"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Lausanne?"
+    answer: "Yes. Lessons are online, so you can study from Lausanne. Times are agreed in advance using Europe/Zurich and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Lausanne, Australia | Online Private & Group Lessons

@@ -1,7 +1,7 @@
 ---
 translationKey: location-adelaide
-title: "Clases online de portugués brasileño en Adelaida"
-description: "Clases online de portugués brasileño para quienes están en Adelaida, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Adelaide"
+description: "Clases online de portugués brasileño en Adelaide, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Adelaide"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Adelaide"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Adelaide. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Adelaide está situada en Australia. Adelaide forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Adelaide, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Adelaide: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Adelaide; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Adelaide: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Adelaide"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Adelaide?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Adelaide. Los horarios se acuerdan con antelación usando Australia/Adelaide y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño en Adelaida: clases particulares y grupales

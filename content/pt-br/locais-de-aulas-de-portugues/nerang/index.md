@@ -1,7 +1,7 @@
 ---
 translationKey: location-nerang
 title: "Aulas online de português brasileiro em Nerang"
-description: "Aulas online de português brasileiro para quem está em Nerang, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Nerang, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Nerang"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Brisbane"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Nerang. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Nerang está localizada em Australia. Nerang faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Nerang, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Nerang: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Nerang: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Nerang"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Nerang?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Nerang. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Nerang: aulas especializadas de português brasileiro

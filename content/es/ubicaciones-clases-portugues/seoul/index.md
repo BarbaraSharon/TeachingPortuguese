@@ -1,7 +1,7 @@
 ---
 translationKey: location-seoul
-title: "Clases online de portugués brasileño en Seúl"
-description: "Clases online de portugués brasileño para quienes están en Seúl, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Seoul"
+description: "Clases online de portugués brasileño en Seoul, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Seoul"
+country: "South Korea"
+region_group: "Asia"
+time_zone: "Asia/Seoul"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Seoul. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Seoul forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Seoul está situada en South Korea. Esta página mantiene la referencia local específica de Seoul, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Seoul: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Seoul; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Seoul: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Seoul"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Seoul?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Seoul. Los horarios se acuerdan con antelación usando Asia/Seoul y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Seúl: clases en línea con Barbara Sharon

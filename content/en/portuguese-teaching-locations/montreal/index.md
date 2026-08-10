@@ -1,7 +1,7 @@
 ---
 translationKey: location-montreal
 title: "Online Brazilian Portuguese Lessons in Montreal"
-description: "Online Brazilian Portuguese lessons for learners in Montreal, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Montreal, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Montreal"
+country: "Canada"
+region_group: "North America"
+time_zone: "America/Toronto"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Montreal. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Montreal is located in Canada. Montreal is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to Montreal while the teaching service remains online-first."
+scheduling: "Scheduling from Montreal: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Montreal: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Montreal"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Montreal?"
+    answer: "Yes. Lessons are online, so you can study from Montreal. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Montreal - Expert Online Lessons & Tutoring

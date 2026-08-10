@@ -1,7 +1,7 @@
 ---
 translationKey: location-sydney
 title: "Online Brazilian Portuguese Lessons in Sydney"
-description: "Online Brazilian Portuguese lessons for learners in Sydney, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Sydney, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Sydney"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Sydney"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Sydney. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Sydney is located in Australia. Sydney is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Sydney while the teaching service remains online-first."
+scheduling: "Scheduling from Sydney: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Sydney: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Sydney"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Sydney?"
+    answer: "Yes. Lessons are online, so you can study from Sydney. Times are agreed in advance using Australia/Sydney and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Sydney with Barbara Sharon - Your Gateway to Lusophone Culture

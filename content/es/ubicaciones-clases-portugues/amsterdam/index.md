@@ -1,7 +1,7 @@
 ---
 translationKey: location-amsterdam
-title: "Clases online de portugués brasileño en Ámsterdam"
-description: "Clases online de portugués brasileño para quienes están en Ámsterdam, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Amsterdam"
+description: "Clases online de portugués brasileño en Amsterdam, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Amsterdam"
+country: "Netherlands"
+region_group: "Europe"
+time_zone: "Europe/Amsterdam"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Amsterdam. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Amsterdam forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Amsterdam está situada en Netherlands. Esta página mantiene la referencia local específica de Amsterdam, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Amsterdam: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Amsterdam: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Amsterdam"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Amsterdam?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Amsterdam. Los horarios se acuerdan con antelación usando Europe/Amsterdam y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño en Ámsterdam: clases particulares y grupales en línea

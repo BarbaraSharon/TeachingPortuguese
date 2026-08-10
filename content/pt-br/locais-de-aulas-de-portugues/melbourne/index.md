@@ -1,7 +1,7 @@
 ---
 translationKey: location-melbourne
 title: "Aulas online de português brasileiro em Melbourne"
-description: "Aulas online de português brasileiro para quem está em Melbourne, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Melbourne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Melbourne"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Melbourne"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Melbourne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Melbourne faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Melbourne está localizada em Australia. Esta página mantém a referência local específica de Melbourne, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Melbourne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Melbourne; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Melbourne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Melbourne"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Melbourne?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Melbourne. Os horários são combinados com antecedência usando Australia/Melbourne e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Melbourne - aulas de português brasileiro e europeu

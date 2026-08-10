@@ -1,7 +1,7 @@
 ---
 translationKey: location-birmingham
 title: "Online Brazilian Portuguese Lessons in Birmingham"
-description: "Online Brazilian Portuguese lessons for learners in Birmingham, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Birmingham, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Birmingham"
+country: "United Kingdom"
+region_group: "Europe"
+time_zone: "Europe/London"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Birmingham. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Birmingham is located in United Kingdom. Birmingham is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Birmingham while the teaching service remains online-first."
+scheduling: "Scheduling from Birmingham: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Birmingham: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Birmingham"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Birmingham?"
+    answer: "Yes. Lessons are online, so you can study from Birmingham. Times are agreed in advance using Europe/London and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Birmingham - Private & Group Lessons with Barbara Sharon

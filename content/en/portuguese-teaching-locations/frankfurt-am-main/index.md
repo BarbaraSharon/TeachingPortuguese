@@ -1,7 +1,7 @@
 ---
 translationKey: location-frankfurt-am-main
-title: "Online Brazilian Portuguese Lessons in Frankfurt am Main"
-description: "Online Brazilian Portuguese lessons for learners in Frankfurt am Main, with Barbara Sharon, in private or group formats for conversation practice."
+title: "Online Brazilian Portuguese Lessons in Frankfurt Am Main"
+description: "Online Brazilian Portuguese lessons in Frankfurt Am Main, with Barbara Sharon. Private and group formats available online."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Frankfurt Am Main"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Frankfurt Am Main. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Frankfurt Am Main is grouped in the Europe location set used for local scheduling and learner guidance. Frankfurt Am Main is located in Germany. This page keeps the local reference specific to Frankfurt Am Main while the teaching service remains online-first."
+scheduling: "Scheduling from Frankfurt Am Main: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Frankfurt Am Main: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Frankfurt Am Main"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Frankfurt Am Main?"
+    answer: "Yes. Lessons are online, so you can study from Frankfurt Am Main. Times are agreed in advance using Europe/Berlin and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian & European Portuguese in Frankfurt am Main | Online Lessons

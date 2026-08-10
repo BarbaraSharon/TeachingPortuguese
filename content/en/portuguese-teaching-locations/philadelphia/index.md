@@ -1,7 +1,7 @@
 ---
 translationKey: location-philadelphia
 title: "Online Brazilian Portuguese Lessons in Philadelphia"
-description: "Online Brazilian Portuguese lessons for learners in Philadelphia, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Philadelphia, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Philadelphia"
+country: "United States"
+region_group: "North America"
+time_zone: "America/New_York"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Philadelphia. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Philadelphia is located in United States. Philadelphia is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to Philadelphia while the teaching service remains online-first."
+scheduling: "Scheduling from Philadelphia: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Philadelphia: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Philadelphia"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Philadelphia?"
+    answer: "Yes. Lessons are online, so you can study from Philadelphia. Times are agreed in advance using America/New_York and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian & European Portuguese in Philadelphia

@@ -1,23 +1,24 @@
-{{- with .Params.service -}}
+{{- $siteURL := replaceRE "/$" "" (printf "%s" site.BaseURL) -}}
+{{- $organizationID := printf "%s#organization" $siteURL -}}
+{{- if .Params.city -}}
+  {{- $onlinePage := "" -}}
+  {{- if eq .Lang "pt-br" }}{{ $onlinePage = "/pt-br/aulas-de-portugues/aulas-online/" }}{{ else if eq .Lang "es" }}{{ $onlinePage = "/es/servicios-clases-portugues/clases-portugues-online/" }}{{ else }}{{ $onlinePage = "/en/portuguese-teaching-services/online-portuguese-lessons/" }}{{ end -}}
   {{- $service := dict
     "@context" "https://schema.org"
     "@type" "Service"
-    "name" .service_type
-    "serviceType" .service_type
-    "description" (partial "functions/get_summary" $)
-    "provider" (dict "@id" (printf "%s#organization" site.Home.Permalink) "@type" "Organization" "name" "Barbara Sharon Portuguese Tutoring")
-    "areaServed" (dict "@type" "Place" "name" .delivery)
-    "audience" (dict "@type" "Audience" "audienceType" .audience)
+    "name" .Title
+    "serviceType" "Online Brazilian Portuguese lessons"
+    "description" .Description
+    "provider" (dict "@id" $organizationID "@type" "Organization" "name" "Barbara Sharon Portuguese Tutoring")
+    "areaServed" (dict "@type" "City" "name" .Params.city "containedInPlace" (dict "@type" "Country" "name" .Params.country))
+    "availableChannel" (dict "@type" "ServiceChannel" "serviceUrl" (absURL $onlinePage) "name" "Online lessons")
+    "offers" (slice (dict "@type" "Offer" "name" "Online Brazilian Portuguese lessons" "category" "Language lessons"))
   -}}
-  {{- if in .delivery "Online" -}}
-    {{- $service = merge $service (dict "offers" (slice
-      (dict "@type" "Offer" "name" "Online private Brazilian Portuguese lessons" "category" "Language lessons")
-      (dict "@type" "Offer" "name" "Online group Brazilian Portuguese classes" "category" "Language classes")
-    )) -}}
-  {{- else -}}
-    {{- $service = merge $service (dict "offers" (slice
-      (dict "@type" "Offer" "name" "In-person Brazilian Portuguese lessons" "category" "Language lessons")
-    )) -}}
-  {{- end -}}
   <script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
+{{- else -}}
+{{- with .Params.service -}}
+  {{- $service := dict "@context" "https://schema.org" "@type" "Service" "name" .service_type "serviceType" .service_type "description" (partial "functions/get_summary" $) "provider" (dict "@id" $organizationID "@type" "Organization" "name" "Barbara Sharon Portuguese Tutoring") "areaServed" (dict "@type" "Place" "name" .delivery) "audience" (dict "@type" "Audience" "audienceType" .audience) -}}
+  {{- if in .delivery "Online" -}}{{- $service = merge $service (dict "offers" (slice (dict "@type" "Offer" "name" "Online private Brazilian Portuguese lessons" "category" "Language lessons") (dict "@type" "Offer" "name" "Online group Brazilian Portuguese classes" "category" "Language classes"))) -}}{{- else -}}{{- $service = merge $service (dict "offers" (slice (dict "@type" "Offer" "name" "In-person Brazilian Portuguese lessons" "category" "Language lessons"))) -}}{{- end -}}
+  <script type="application/ld+json">{{ $service | jsonify | safeJS }}</script>
+{{- end -}}
 {{- end -}}

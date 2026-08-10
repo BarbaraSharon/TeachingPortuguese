@@ -1,15 +1,31 @@
 ---
+translationKey: location-foxwell
 title: "Aulas online de português brasileiro em Foxwell"
-description: "Aulas online de português brasileiro para quem está em Foxwell, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Foxwell, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-foxwell
 image:
   filename: pages/portuguese-teaching-locations/foxwell/foxwell-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Foxwell | Aulas particulares e online - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Foxwell"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Foxwell. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
+local_context: "Foxwell faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Foxwell está localizada em Australia. Esta página mantém a referência local específica de Foxwell, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Foxwell: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Foxwell: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Foxwell"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Foxwell?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Foxwell. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Foxwell, Austrália | Aulas particulares e online de português brasileiro

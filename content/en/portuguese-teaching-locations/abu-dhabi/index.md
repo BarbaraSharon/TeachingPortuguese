@@ -1,7 +1,7 @@
 ---
 translationKey: location-abu-dhabi
 title: "Online Brazilian Portuguese Lessons in Abu Dhabi"
-description: "Online Brazilian Portuguese lessons for learners in Abu Dhabi, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Abu Dhabi, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Abu Dhabi"
+country: "United Arab Emirates"
+region_group: "Asia"
+time_zone: "Asia/Dubai"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Abu Dhabi. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Abu Dhabi is grouped in the Asia location set used for local scheduling and learner guidance. Abu Dhabi is located in United Arab Emirates. This page keeps the local reference specific to Abu Dhabi while the teaching service remains online-first."
+scheduling: "Scheduling from Abu Dhabi: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Dubai; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Abu Dhabi: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Abu Dhabi"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Abu Dhabi?"
+    answer: "Yes. Lessons are online, so you can study from Abu Dhabi. Times are agreed in advance using Asia/Dubai and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Abu Dhabi - Online Private & Group Lessons

@@ -1,7 +1,7 @@
 ---
 translationKey: location-philadelphia
-title: "Clases online de portugués brasileño en Filadelfia"
-description: "Clases online de portugués brasileño para quienes están en Filadelfia, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Philadelphia"
+description: "Clases online de portugués brasileño en Philadelphia, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Philadelphia"
+country: "United States"
+region_group: "North America"
+time_zone: "America/New_York"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Philadelphia. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Philadelphia está situada en United States. Philadelphia forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Philadelphia, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Philadelphia: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Philadelphia: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Philadelphia"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Philadelphia?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Philadelphia. Los horarios se acuerdan con antelación usando America/New_York y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño y europeo en Filadelfia

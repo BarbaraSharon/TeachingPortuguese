@@ -1,7 +1,7 @@
 ---
 translationKey: location-dubai
 title: "Online Brazilian Portuguese Lessons in Dubai"
-description: "Online Brazilian Portuguese lessons for learners in Dubai, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Dubai, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Dubai"
+country: "United Arab Emirates"
+region_group: "Asia"
+time_zone: "Asia/Dubai"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Dubai. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Dubai is grouped in the Asia location set used for local scheduling and learner guidance. Dubai is located in United Arab Emirates. This page keeps the local reference specific to Dubai while the teaching service remains online-first."
+scheduling: "Scheduling from Dubai: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Dubai; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Dubai: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Dubai"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Dubai?"
+    answer: "Yes. Lessons are online, so you can study from Dubai. Times are agreed in advance using Asia/Dubai and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Dubai - Native Brazilian Instructor & Online Tutor

@@ -1,15 +1,31 @@
 ---
-title: "Aulas online de português brasileiro em Genebra"
-description: "Aulas online de português brasileiro para quem está em Genebra, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+translationKey: location-geneva
+title: "Aulas online de português brasileiro em Geneva"
+description: "Aulas online de português brasileiro em Geneva, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-geneva
 image:
   filename: pages/portuguese-teaching-locations/geneva/geneva-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Genebra | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Geneva"
+country: "Switzerland"
+region_group: "Europe"
+time_zone: "Europe/Zurich"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Geneva. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Geneva está localizada em Switzerland. Geneva faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Geneva, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Geneva: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Geneva: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Geneva"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Geneva?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Geneva. Os horários são combinados com antecedência usando Europe/Zurich e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Domine o português brasileiro em Genebra | Aulas online particulares e em grupo

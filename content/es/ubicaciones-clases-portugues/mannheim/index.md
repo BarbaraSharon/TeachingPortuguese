@@ -1,7 +1,7 @@
 ---
 translationKey: location-mannheim
 title: "Clases online de portugués brasileño en Mannheim"
-description: "Clases online de portugués brasileño para quienes están en Mannheim, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Mannheim, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Mannheim"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Mannheim. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Mannheim está situada en Germany. Mannheim forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Mannheim, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Mannheim: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Mannheim: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Mannheim"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Mannheim?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Mannheim. Los horarios se acuerdan con antelación usando Europe/Berlin y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño en Mannheim: clases en línea con Barbara Sharon

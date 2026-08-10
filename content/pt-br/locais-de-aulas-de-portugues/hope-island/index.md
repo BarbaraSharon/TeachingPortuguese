@@ -1,15 +1,31 @@
 ---
+translationKey: location-hope-island
 title: "Aulas online de português brasileiro em Hope Island"
-description: "Aulas online de português brasileiro para quem está em Hope Island, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Hope Island, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-hope-island
 image:
   filename: pages/portuguese-teaching-locations/hope-island/hope-island-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Hope Island | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Hope Island"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Hope Island. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
+local_context: "Hope Island faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Hope Island está localizada em Australia. Esta página mantém a referência local específica de Hope Island, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Hope Island: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Hope Island: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Hope Island"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Hope Island?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Hope Island. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Hope Island, Austrália | Aulas personalizadas com Barbara Sharon

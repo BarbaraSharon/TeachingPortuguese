@@ -1,7 +1,7 @@
 ---
 translationKey: location-san-diego
 title: "Aulas online de português brasileiro em San Diego"
-description: "Aulas online de português brasileiro para quem está em San Diego, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em San Diego, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "San Diego"
+country: "United States"
+region_group: "North America"
+time_zone: "America/Los_Angeles"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de San Diego. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "San Diego faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. San Diego está localizada em United States. Esta página mantém a referência local específica de San Diego, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para San Diego: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em San Diego: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para San Diego"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de San Diego?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de San Diego. Os horários são combinados com antecedência usando America/Los_Angeles e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em San Diego - aulas de português brasileiro e europeu

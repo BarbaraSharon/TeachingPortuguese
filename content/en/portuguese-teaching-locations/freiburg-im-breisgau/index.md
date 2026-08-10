@@ -1,7 +1,7 @@
 ---
 translationKey: location-freiburg-im-breisgau
-title: "Online Portuguese Lessons in Freiburg im Breisgau"
-description: "Online Brazilian Portuguese lessons for learners in Freiburg im Breisgau, with Barbara Sharon, in private or group formats for conversation practice."
+title: "Online Portuguese Lessons in Freiburg Im Breisgau"
+description: "Online Brazilian Portuguese lessons in Freiburg Im Breisgau, with Barbara Sharon. Private and group formats available online."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Freiburg Im Breisgau"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Freiburg Im Breisgau. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Freiburg Im Breisgau is located in Germany. Freiburg Im Breisgau is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Freiburg Im Breisgau while the teaching service remains online-first."
+scheduling: "Scheduling from Freiburg Im Breisgau: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Freiburg Im Breisgau: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Freiburg Im Breisgau"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Freiburg Im Breisgau?"
+    answer: "Yes. Lessons are online, so you can study from Freiburg Im Breisgau. Times are agreed in advance using Europe/Berlin and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Freiburg im Breisgau - Online Lessons

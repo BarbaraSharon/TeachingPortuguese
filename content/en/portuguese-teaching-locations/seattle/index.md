@@ -1,7 +1,7 @@
 ---
 translationKey: location-seattle
 title: "Online Brazilian Portuguese Lessons in Seattle"
-description: "Online Brazilian Portuguese lessons for learners in Seattle, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Seattle, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Seattle"
+country: "United States"
+region_group: "North America"
+time_zone: "America/Los_Angeles"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Seattle. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Seattle is grouped in the North America location set used for local scheduling and learner guidance. Seattle is located in United States. This page keeps the local reference specific to Seattle while the teaching service remains online-first."
+scheduling: "Scheduling from Seattle: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Seattle: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Seattle"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Seattle?"
+    answer: "Yes. Lessons are online, so you can study from Seattle. Times are agreed in advance using America/Los_Angeles and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Seattle | Online Private & Group Lessons

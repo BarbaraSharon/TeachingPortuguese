@@ -1,7 +1,7 @@
 ---
 translationKey: location-tel-aviv
 title: "Clases online de portugués brasileño en Tel Aviv"
-description: "Clases online de portugués brasileño para quienes están en Tel Aviv, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Tel Aviv, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Tel Aviv"
+country: "Israel"
+region_group: "Asia"
+time_zone: "Asia/Jerusalem"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Tel Aviv. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Tel Aviv está situada en Israel. Tel Aviv forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Tel Aviv, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Tel Aviv: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Jerusalem; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Tel Aviv: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Tel Aviv"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Tel Aviv?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Tel Aviv. Los horarios se acuerdan con antelación usando Asia/Jerusalem y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Tel Aviv con Barbara Sharon: clases en línea para todos los niveles

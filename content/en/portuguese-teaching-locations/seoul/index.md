@@ -1,7 +1,7 @@
 ---
 translationKey: location-seoul
 title: "Online Brazilian Portuguese Lessons in Seoul"
-description: "Online Brazilian Portuguese lessons for learners in Seoul, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Seoul, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Seoul"
+country: "South Korea"
+region_group: "Asia"
+time_zone: "Asia/Seoul"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Seoul. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Seoul is grouped in the Asia location set used for local scheduling and learner guidance. Seoul is located in South Korea. This page keeps the local reference specific to Seoul while the teaching service remains online-first."
+scheduling: "Scheduling from Seoul: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Seoul; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Seoul: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Seoul"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Seoul?"
+    answer: "Yes. Lessons are online, so you can study from Seoul. Times are agreed in advance using Asia/Seoul and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Seoul: Online Classes with Barbara Sharon

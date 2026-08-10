@@ -1,7 +1,7 @@
 ---
 translationKey: location-bilinga
 title: "Online Brazilian Portuguese Lessons in Bilinga"
-description: "Online Brazilian Portuguese lessons for learners in Bilinga, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Bilinga, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Bilinga"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Bilinga. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
+local_context: "Bilinga is grouped in the Gold Coast location set used for local scheduling and learner guidance. Bilinga is located in Australia. This page keeps the local reference specific to Bilinga while the teaching service remains online-first."
+scheduling: "Scheduling from Bilinga: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Bilinga: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Bilinga"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Bilinga?"
+    answer: "Yes. Lessons are online, so you can study from Bilinga. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Bilinga, Australia | Expert Brazilian Portuguese Lessons

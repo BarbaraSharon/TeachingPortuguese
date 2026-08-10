@@ -1,7 +1,7 @@
 ---
 translationKey: location-cape-town
-title: "Aulas online de português brasileiro em Cidade do Cabo"
-description: "Aulas online de português brasileiro para quem está em Cidade do Cabo, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Cape Town"
+description: "Aulas online de português brasileiro em Cape Town, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Cape Town"
+country: "South Africa"
+region_group: "Africa"
+time_zone: "Africa/Johannesburg"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Cape Town. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Cape Town faz parte do conjunto regional Africa usado para orientar horários e objetivos de aprendizagem. Cape Town está localizada em South Africa. Esta página mantém a referência local específica de Cape Town, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Cape Town: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Africa/Johannesburg; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Cape Town: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Cape Town"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Cape Town?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Cape Town. Os horários são combinados com antecedência usando Africa/Johannesburg e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro intensivo em Cidade do Cabo - evolução rápida com resultados comprovados

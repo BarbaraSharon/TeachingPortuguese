@@ -1,7 +1,7 @@
 ---
 translationKey: location-orlando
 title: "Aulas online de português brasileiro em Orlando"
-description: "Aulas online de português brasileiro para quem está em Orlando, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Orlando, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Orlando"
+country: "United States"
+region_group: "North America"
+time_zone: "America/New_York"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Orlando. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Orlando faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Orlando está localizada em United States. Esta página mantém a referência local específica de Orlando, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Orlando: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Orlando: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Orlando"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Orlando?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Orlando. Os horários são combinados com antecedência usando America/New_York e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Orlando: aulas de português brasileiro e europeu

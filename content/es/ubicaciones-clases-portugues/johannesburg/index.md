@@ -1,7 +1,7 @@
 ---
 translationKey: location-johannesburg
-title: "Clases online de portugués brasileño en Johannesburgo"
-description: "Clases online de portugués brasileño para quienes están en Johannesburgo, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Johannesburg"
+description: "Clases online de portugués brasileño en Johannesburg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Johannesburg"
+country: "South Africa"
+region_group: "Africa"
+time_zone: "Africa/Johannesburg"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Johannesburg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Johannesburg está situada en South Africa. Johannesburg forma parte del conjunto regional Africa, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Johannesburg, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Johannesburg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Africa/Johannesburg; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Johannesburg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Johannesburg"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Johannesburg?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Johannesburg. Los horarios se acuerdan con antelación usando Africa/Johannesburg y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Johannesburgo: clases en línea con Barbara Sharon

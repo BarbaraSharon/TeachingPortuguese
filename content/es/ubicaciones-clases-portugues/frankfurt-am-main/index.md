@@ -1,7 +1,7 @@
 ---
 translationKey: location-frankfurt-am-main
-title: "Clases online de portugués brasileño en Fráncfort del Meno"
-description: "Clases online de portugués brasileño para quienes están en Fráncfort del Meno, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Frankfurt Am Main"
+description: "Clases online de portugués brasileño en Frankfurt Am Main, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Frankfurt Am Main"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Frankfurt Am Main. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Frankfurt Am Main forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Frankfurt Am Main está situada en Germany. Esta página mantiene la referencia local específica de Frankfurt Am Main, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Frankfurt Am Main: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Frankfurt Am Main: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Frankfurt Am Main"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Frankfurt Am Main?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Frankfurt Am Main. Los horarios se acuerdan con antelación usando Europe/Berlin y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño y europeo en Fráncfort del Meno | Clases en línea

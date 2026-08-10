@@ -1,7 +1,7 @@
 ---
 translationKey: location-glasgow
 title: "Online Brazilian Portuguese Lessons in Glasgow"
-description: "Online Brazilian Portuguese lessons for learners in Glasgow, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Glasgow, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Glasgow"
+country: "United Kingdom"
+region_group: "Europe"
+time_zone: "Europe/London"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Glasgow. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Glasgow is grouped in the Europe location set used for local scheduling and learner guidance. Glasgow is located in United Kingdom. This page keeps the local reference specific to Glasgow while the teaching service remains online-first."
+scheduling: "Scheduling from Glasgow: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Glasgow: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Glasgow"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Glasgow?"
+    answer: "Yes. Lessons are online, so you can study from Glasgow. Times are agreed in advance using Europe/London and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Master Brazilian Portuguese in Glasgow - Private & Group Online Lessons

@@ -1,7 +1,7 @@
 ---
 translationKey: location-mudgeeraba
 title: "Clases online de portugués brasileño en Mudgeeraba"
-description: "Clases online de portugués brasileño para quienes están en Mudgeeraba, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Mudgeeraba, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Mudgeeraba"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Mudgeeraba. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
+local_context: "Mudgeeraba está situada en Australia. Mudgeeraba forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Mudgeeraba, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Mudgeeraba: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Mudgeeraba: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Mudgeeraba"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Mudgeeraba?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Mudgeeraba. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Mudgeeraba: tu puerta a la cultura brasileña y europea

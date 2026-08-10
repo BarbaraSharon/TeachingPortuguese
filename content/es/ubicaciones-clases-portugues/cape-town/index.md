@@ -1,7 +1,7 @@
 ---
 translationKey: location-cape-town
 title: "Clases online de portugués brasileño en Cape Town"
-description: "Clases online de portugués brasileño para quienes están en Cape Town, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Cape Town, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Cape Town"
+country: "South Africa"
+region_group: "Africa"
+time_zone: "Africa/Johannesburg"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Cape Town. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Cape Town forma parte del conjunto regional Africa, que se utiliza para orientar horarios y objetivos de aprendizaje. Cape Town está situada en South Africa. Esta página mantiene la referencia local específica de Cape Town, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Cape Town: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Africa/Johannesburg; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Cape Town: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Cape Town"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Cape Town?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Cape Town. Los horarios se acuerdan con antelación usando Africa/Johannesburg y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño intensivo en Cape Town: mejora rápida con resultados comprobados

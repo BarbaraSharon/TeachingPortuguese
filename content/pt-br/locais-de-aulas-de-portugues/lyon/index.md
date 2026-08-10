@@ -1,15 +1,31 @@
 ---
+translationKey: location-lyon
 title: "Aulas online de português brasileiro em Lyon"
-description: "Aulas online de português brasileiro para quem está em Lyon, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Lyon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-lyon
 image:
   filename: pages/portuguese-teaching-locations/lyon/lyon-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Lyon"
+country: "France"
+region_group: "Europe"
+time_zone: "Europe/Paris"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Lyon. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Lyon está localizada em France. Lyon faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Lyon, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Lyon: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Lyon: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Lyon"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Lyon?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Lyon. Os horários são combinados com antecedência usando Europe/Paris e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Lyon: aulas de português brasileiro e europeu

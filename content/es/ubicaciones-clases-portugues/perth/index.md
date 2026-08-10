@@ -1,7 +1,7 @@
 ---
 translationKey: location-perth
 title: "Clases online de portugués brasileño en Perth"
-description: "Clases online de portugués brasileño para quienes están en Perth, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Perth, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Perth"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Perth"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Perth. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Perth forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Perth está situada en Australia. Esta página mantiene la referencia local específica de Perth, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Perth: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Perth; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Perth: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Perth"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Perth?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Perth. Los horarios se acuerdan con antelación usando Australia/Perth y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño en Perth: clases particulares y en línea con una profesora experta

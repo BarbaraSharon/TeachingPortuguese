@@ -1,7 +1,7 @@
 ---
 translationKey: location-mermaid-beach
 title: "Online Brazilian Portuguese Lessons in Mermaid Beach"
-description: "Online Brazilian Portuguese lessons for learners in Mermaid Beach, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Mermaid Beach, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Mermaid Beach"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Mermaid Beach. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
+local_context: "Mermaid Beach is grouped in the Gold Coast location set used for local scheduling and learner guidance. Mermaid Beach is located in Australia. This page keeps the local reference specific to Mermaid Beach while the teaching service remains online-first."
+scheduling: "Scheduling from Mermaid Beach: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Mermaid Beach: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Mermaid Beach"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Mermaid Beach?"
+    answer: "Yes. Lessons are online, so you can study from Mermaid Beach. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Mermaid Beach, Australia | Private & Group Lessons

@@ -1,15 +1,31 @@
 ---
-title: "Aulas online de português em Freiburg im Breisgau"
-description: "Aulas online de português brasileiro para quem está em Freiburg im Breisgau, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+translationKey: location-freiburg-im-breisgau
+title: "Aulas online de português em Freiburg Im Breisgau"
+description: "Aulas online de português brasileiro em Freiburg Im Breisgau, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-freiburg-im-breisgau
 image:
   filename: pages/portuguese-teaching-locations/freiburg-im-breisgau/freiburg-im-breisgau-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Freiburg im Breisgau | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Freiburg Im Breisgau"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Freiburg Im Breisgau. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Freiburg Im Breisgau está localizada em Germany. Freiburg Im Breisgau faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Freiburg Im Breisgau, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Freiburg Im Breisgau: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Freiburg Im Breisgau: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Freiburg Im Breisgau"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Freiburg Im Breisgau?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Freiburg Im Breisgau. Os horários são combinados com antecedência usando Europe/Berlin e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Freiburg im Breisgau - aulas online

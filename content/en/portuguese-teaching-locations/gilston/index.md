@@ -1,7 +1,7 @@
 ---
 translationKey: location-gilston
 title: "Online Brazilian Portuguese Lessons in Gilston"
-description: "Online Brazilian Portuguese lessons for learners in Gilston, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Gilston, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Gilston"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Gilston. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
+local_context: "Gilston is grouped in the Gold Coast location set used for local scheduling and learner guidance. Gilston is located in Australia. This page keeps the local reference specific to Gilston while the teaching service remains online-first."
+scheduling: "Scheduling from Gilston: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Gilston: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Gilston"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Gilston?"
+    answer: "Yes. Lessons are online, so you can study from Gilston. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Gilston: Expert Private & Online Lessons

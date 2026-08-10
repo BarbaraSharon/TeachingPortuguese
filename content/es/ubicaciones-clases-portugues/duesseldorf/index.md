@@ -1,7 +1,7 @@
 ---
 translationKey: location-duesseldorf
-title: "Clases online de portugués brasileño en Düsseldorf"
-description: "Clases online de portugués brasileño para quienes están en Düsseldorf, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Duesseldorf"
+description: "Clases online de portugués brasileño en Duesseldorf, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Duesseldorf"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Duesseldorf. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Duesseldorf forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Duesseldorf está situada en Germany. Esta página mantiene la referencia local específica de Duesseldorf, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Duesseldorf: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Duesseldorf: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Duesseldorf"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Duesseldorf?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Duesseldorf. Los horarios se acuerdan con antelación usando Europe/Berlin y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño en Düsseldorf: clases particulares y grupales en línea

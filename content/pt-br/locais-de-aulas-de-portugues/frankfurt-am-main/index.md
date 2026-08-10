@@ -1,15 +1,31 @@
 ---
-title: "Aulas online de português brasileiro em Frankfurt am Main"
-description: "Aulas online de português brasileiro para quem está em Frankfurt am Main, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+translationKey: location-frankfurt-am-main
+title: "Aulas online de português brasileiro em Frankfurt Am Main"
+description: "Aulas online de português brasileiro em Frankfurt Am Main, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-frankfurt-am-main
 image:
   filename: pages/portuguese-teaching-locations/frankfurt-am-main/frankfurt-am-main-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Frankfurt am Main | Aulas online - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Frankfurt Am Main"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Frankfurt Am Main. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Frankfurt Am Main faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Frankfurt Am Main está localizada em Germany. Esta página mantém a referência local específica de Frankfurt Am Main, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Frankfurt Am Main: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Frankfurt Am Main: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Frankfurt Am Main"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Frankfurt Am Main?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Frankfurt Am Main. Os horários são combinados com antecedência usando Europe/Berlin e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro e europeu em Frankfurt am Main | Aulas online

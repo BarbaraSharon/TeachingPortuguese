@@ -1,7 +1,7 @@
 ---
 translationKey: location-munich
 title: "Online Brazilian Portuguese Lessons in Munich"
-description: "Online Brazilian Portuguese lessons for learners in Munich, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Munich, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Munich"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Munich. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Munich is located in Germany. Munich is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Munich while the teaching service remains online-first."
+scheduling: "Scheduling from Munich: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Munich: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Munich"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Munich?"
+    answer: "Yes. Lessons are online, so you can study from Munich. Times are agreed in advance using Europe/Berlin and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Munich: Brazilian & European Portuguese Classes

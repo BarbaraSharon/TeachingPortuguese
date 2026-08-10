@@ -1,7 +1,7 @@
 ---
 translationKey: location-rio-de-janeiro
-title: "Aulas online de português brasileiro em Rio de Janeiro"
-description: "Aulas online de português brasileiro para quem está em Rio de Janeiro, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Rio De Janeiro"
+description: "Aulas online de português brasileiro em Rio De Janeiro, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Rio De Janeiro"
+country: "Brazil"
+region_group: "South America"
+time_zone: "America/Sao_Paulo"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Rio De Janeiro. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Rio De Janeiro está localizada em Brazil. Rio De Janeiro faz parte do conjunto regional South America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Rio De Janeiro, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Rio De Janeiro: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Sao_Paulo; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Rio De Janeiro: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Rio De Janeiro"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Rio De Janeiro?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Rio De Janeiro. Os horários são combinados com antecedência usando America/Sao_Paulo e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro no Rio de Janeiro - aulas online

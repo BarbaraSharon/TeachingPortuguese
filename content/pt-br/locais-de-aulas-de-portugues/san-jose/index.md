@@ -1,7 +1,7 @@
 ---
 translationKey: location-san-jose
 title: "Aulas online de português brasileiro em San Jose"
-description: "Aulas online de português brasileiro para quem está em San Jose, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em San Jose, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "San Jose"
+country: "United States"
+region_group: "North America"
+time_zone: "America/Los_Angeles"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de San Jose. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "San Jose está localizada em United States. San Jose faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de San Jose, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para San Jose: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em San Jose: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para San Jose"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de San Jose?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de San Jose. Os horários são combinados com antecedência usando America/Los_Angeles e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em San Jose: aulas de português brasileiro e europeu

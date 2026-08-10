@@ -1,7 +1,7 @@
 ---
 translationKey: location-tel-aviv
 title: "Online Brazilian Portuguese Lessons in Tel Aviv"
-description: "Online Brazilian Portuguese lessons for learners in Tel Aviv, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Tel Aviv, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Tel Aviv"
+country: "Israel"
+region_group: "Asia"
+time_zone: "Asia/Jerusalem"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Tel Aviv. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Tel Aviv is located in Israel. Tel Aviv is grouped in the Asia location set used for local scheduling and learner guidance. This page keeps the local reference specific to Tel Aviv while the teaching service remains online-first."
+scheduling: "Scheduling from Tel Aviv: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Jerusalem; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Tel Aviv: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Tel Aviv"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Tel Aviv?"
+    answer: "Yes. Lessons are online, so you can study from Tel Aviv. Times are agreed in advance using Asia/Jerusalem and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Tel Aviv with Barbara Sharon - Online Lessons for All Levels

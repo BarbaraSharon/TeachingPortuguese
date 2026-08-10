@@ -1,7 +1,7 @@
 ---
 translationKey: location-foxwell
 title: "Online Brazilian Portuguese Lessons in Foxwell"
-description: "Online Brazilian Portuguese lessons for learners in Foxwell, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Foxwell, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Foxwell"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Foxwell. Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation."
+local_context: "Foxwell is grouped in the Gold Coast location set used for local scheduling and learner guidance. Foxwell is located in Australia. This page keeps the local reference specific to Foxwell while the teaching service remains online-first."
+scheduling: "Scheduling from Foxwell: Online lessons are the standard option. A confirmed Gold Coast venue may also be available in Surfers Paradise, Broadbeach, or Kirra, subject to demand and confirmation. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Foxwell: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Foxwell"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Foxwell?"
+    answer: "Yes. Lessons are online, so you can study from Foxwell. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Foxwell, Australia | Private & Online Brazilian Lessons

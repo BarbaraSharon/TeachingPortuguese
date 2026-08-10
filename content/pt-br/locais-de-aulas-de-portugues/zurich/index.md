@@ -1,15 +1,31 @@
 ---
-title: "Aulas online de português brasileiro em Zurique"
-description: "Aulas online de português brasileiro para quem está em Zurique, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+translationKey: location-zurich
+title: "Aulas online de português brasileiro em Zurich"
+description: "Aulas online de português brasileiro em Zurich, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-zurich
 image:
   filename: pages/portuguese-teaching-locations/zurich/zurich-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Zurique | Aulas online - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Zurich"
+country: "Switzerland"
+region_group: "Europe"
+time_zone: "Europe/Zurich"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Zurich. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Zurich está localizada em Switzerland. Zurich faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Zurich, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Zurich: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Zurich: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Zurich"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Zurich?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Zurich. Os horários são combinados com antecedência usando Europe/Zurich e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro em Zurique - aulas online envolventes com Barbara Sharon

@@ -1,15 +1,31 @@
 ---
-title: "Aulas online de português brasileiro em Florença"
-description: "Aulas online de português brasileiro para quem está em Florença, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+translationKey: location-florence
+title: "Aulas online de português brasileiro em Florence"
+description: "Aulas online de português brasileiro em Florence, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-florence
 image:
   filename: pages/portuguese-teaching-locations/florence/florence-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Florença | Aulas online - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Florence"
+country: "Italy"
+region_group: "Europe"
+time_zone: "Europe/Rome"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Florence. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Florence está localizada em Italy. Florence faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Florence, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Florence: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Florence: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Florence"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Florence?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Florence. Os horários são combinados com antecedência usando Europe/Rome e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro e europeu em Florença - aulas online particulares e em grupo

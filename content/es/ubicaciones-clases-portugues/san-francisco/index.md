@@ -1,7 +1,7 @@
 ---
 translationKey: location-san-francisco
 title: "Clases online de portugués brasileño en San Francisco"
-description: "Clases online de portugués brasileño para quienes están en San Francisco, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en San Francisco, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "San Francisco"
+country: "United States"
+region_group: "North America"
+time_zone: "America/Los_Angeles"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde San Francisco. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "San Francisco forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. San Francisco está situada en United States. Esta página mantiene la referencia local específica de San Francisco, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para San Francisco: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en San Francisco: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para San Francisco"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde San Francisco?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde San Francisco. Los horarios se acuerdan con antelación usando America/Los_Angeles y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño en San Francisco: clases en línea con Barbara Sharon

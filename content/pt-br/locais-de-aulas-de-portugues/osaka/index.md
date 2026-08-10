@@ -1,7 +1,7 @@
 ---
 translationKey: location-osaka
 title: "Aulas online de português brasileiro em Osaka"
-description: "Aulas online de português brasileiro para quem está em Osaka, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Osaka, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Osaka"
+country: "Japan"
+region_group: "Asia"
+time_zone: "Asia/Tokyo"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Osaka. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Osaka faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Osaka está localizada em Japan. Esta página mantém a referência local específica de Osaka, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Osaka: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Tokyo; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Osaka: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Osaka"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Osaka?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Osaka. Os horários são combinados com antecedência usando Asia/Tokyo e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Osaka: aulas online com Barbara Sharon

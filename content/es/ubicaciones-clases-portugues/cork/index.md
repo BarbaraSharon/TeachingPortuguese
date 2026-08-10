@@ -1,7 +1,7 @@
 ---
 translationKey: location-cork
 title: "Clases online de portugués brasileño en Cork"
-description: "Clases online de portugués brasileño para quienes están en Cork, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Cork, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Cork"
+country: "Ireland"
+region_group: "Europe"
+time_zone: "Europe/Dublin"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Cork. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Cork está situada en Ireland. Cork forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Cork, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Cork: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Dublin; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Cork: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Cork"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Cork?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Cork. Los horarios se acuerdan con antelación usando Europe/Dublin y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Cork: clases y tutoría en línea con Barbara Sharon

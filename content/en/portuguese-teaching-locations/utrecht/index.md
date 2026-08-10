@@ -1,7 +1,7 @@
 ---
 translationKey: location-utrecht
 title: "Online Brazilian Portuguese Lessons in Utrecht"
-description: "Online Brazilian Portuguese lessons for learners in Utrecht, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Utrecht, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Utrecht"
+country: "Netherlands"
+region_group: "Europe"
+time_zone: "Europe/Amsterdam"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Utrecht. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Utrecht is grouped in the Europe location set used for local scheduling and learner guidance. Utrecht is located in Netherlands. This page keeps the local reference specific to Utrecht while the teaching service remains online-first."
+scheduling: "Scheduling from Utrecht: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Utrecht: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Utrecht"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Utrecht?"
+    answer: "Yes. Lessons are online, so you can study from Utrecht. Times are agreed in advance using Europe/Amsterdam and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Utrecht: Online Private & Group Lessons with Barbara Sharon

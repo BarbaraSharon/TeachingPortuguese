@@ -1,7 +1,7 @@
 ---
 translationKey: location-lisbon
 title: "Online Brazilian Portuguese Lessons in Lisbon"
-description: "Online Brazilian Portuguese lessons for learners in Lisbon, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Lisbon, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Lisbon"
+country: "Portugal"
+region_group: "Europe"
+time_zone: "Europe/Lisbon"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Lisbon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Lisbon is located in Portugal. Lisbon is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Lisbon while the teaching service remains online-first."
+scheduling: "Scheduling from Lisbon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Lisbon; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Lisbon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Lisbon"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Lisbon?"
+    answer: "Yes. Lessons are online, so you can study from Lisbon. Times are agreed in advance using Europe/Lisbon and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Lisbon: Brazilian & European Variants with Expert Tutor Barbara Sharon

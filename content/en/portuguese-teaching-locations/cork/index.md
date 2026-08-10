@@ -1,7 +1,7 @@
 ---
 translationKey: location-cork
 title: "Online Brazilian Portuguese Lessons in Cork"
-description: "Online Brazilian Portuguese lessons for learners in Cork, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Cork, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Cork"
+country: "Ireland"
+region_group: "Europe"
+time_zone: "Europe/Dublin"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Cork. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Cork is located in Ireland. Cork is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Cork while the teaching service remains online-first."
+scheduling: "Scheduling from Cork: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Dublin; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Cork: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Cork"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Cork?"
+    answer: "Yes. Lessons are online, so you can study from Cork. Times are agreed in advance using Europe/Dublin and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Cork: Online Classes & Tutoring by Barbara Sharon

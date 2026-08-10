@@ -1,7 +1,7 @@
 ---
 translationKey: location-currumbin-waters
 title: "Aulas online de português brasileiro em Currumbin Waters"
-description: "Aulas online de português brasileiro para quem está em Currumbin Waters, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Currumbin Waters, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Currumbin Waters"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Currumbin Waters. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
+local_context: "Currumbin Waters está localizada em Australia. Currumbin Waters faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Currumbin Waters, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Currumbin Waters: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Currumbin Waters: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Currumbin Waters"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Currumbin Waters?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Currumbin Waters. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Domine o português brasileiro em Currumbin Waters | Aulas particulares e online

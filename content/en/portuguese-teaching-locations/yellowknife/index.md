@@ -1,7 +1,7 @@
 ---
 translationKey: location-yellowknife
 title: "Online Brazilian Portuguese Lessons in Yellowknife"
-description: "Online Brazilian Portuguese lessons for learners in Yellowknife, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Yellowknife, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Yellowknife"
+country: "Canada"
+region_group: "North America"
+time_zone: "America/Toronto"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Yellowknife. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Yellowknife is grouped in the North America location set used for local scheduling and learner guidance. Yellowknife is located in Canada. This page keeps the local reference specific to Yellowknife while the teaching service remains online-first."
+scheduling: "Scheduling from Yellowknife: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Yellowknife: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Yellowknife"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Yellowknife?"
+    answer: "Yes. Lessons are online, so you can study from Yellowknife. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Yellowknife | Private & Group Online Lessons

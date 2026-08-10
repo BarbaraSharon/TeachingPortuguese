@@ -1,7 +1,7 @@
 ---
 translationKey: location-the-hague
 title: "Clases online de portugués brasileño en The Hague"
-description: "Clases online de portugués brasileño para quienes están en The Hague, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en The Hague, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "The Hague"
+country: "Netherlands"
+region_group: "Europe"
+time_zone: "Europe/Amsterdam"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde The Hague. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "The Hague forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. The Hague está situada en Netherlands. Esta página mantiene la referencia local específica de The Hague, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para The Hague: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en The Hague: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para The Hague"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde The Hague?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde The Hague. Los horarios se acuerdan con antelación usando Europe/Amsterdam y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en The Hague: clases en línea con Barbara Sharon

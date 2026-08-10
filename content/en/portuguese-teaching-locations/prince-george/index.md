@@ -1,7 +1,7 @@
 ---
 translationKey: location-prince-george
-title: "Online Brazilian Portuguese Lessons in Prince"
-description: "Online Brazilian Portuguese lessons for learners in Prince George, with Barbara Sharon, in private or group formats for conversation practice."
+title: "Online Brazilian Portuguese Lessons in Prince George"
+description: "Online Brazilian Portuguese lessons in Prince George, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Prince George"
+country: "Canada"
+region_group: "North America"
+time_zone: "America/Toronto"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Prince George. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Prince George is grouped in the North America location set used for local scheduling and learner guidance. Prince George is located in Canada. This page keeps the local reference specific to Prince George while the teaching service remains online-first."
+scheduling: "Scheduling from Prince George: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Prince George: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Prince George"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Prince George?"
+    answer: "Yes. Lessons are online, so you can study from Prince George. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Prince-George | Private & Group Online Lessons

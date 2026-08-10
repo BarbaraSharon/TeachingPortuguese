@@ -1,7 +1,7 @@
 ---
 translationKey: location-karlsruhe
 title: "Online Brazilian Portuguese Lessons in Karlsruhe"
-description: "Online Brazilian Portuguese lessons for learners in Karlsruhe, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Karlsruhe, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Karlsruhe"
+country: "Germany"
+region_group: "Europe"
+time_zone: "Europe/Berlin"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Karlsruhe. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Karlsruhe is grouped in the Europe location set used for local scheduling and learner guidance. Karlsruhe is located in Germany. This page keeps the local reference specific to Karlsruhe while the teaching service remains online-first."
+scheduling: "Scheduling from Karlsruhe: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Karlsruhe: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Karlsruhe"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Karlsruhe?"
+    answer: "Yes. Lessons are online, so you can study from Karlsruhe. Times are agreed in advance using Europe/Berlin and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Karlsruhe - Private & Group Lessons by Barbara Sharon

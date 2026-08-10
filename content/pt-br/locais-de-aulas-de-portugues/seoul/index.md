@@ -1,7 +1,7 @@
 ---
 translationKey: location-seoul
-title: "Aulas online de português brasileiro em Seul"
-description: "Aulas online de português brasileiro para quem está em Seul, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Seoul"
+description: "Aulas online de português brasileiro em Seoul, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Seoul"
+country: "South Korea"
+region_group: "Asia"
+time_zone: "Asia/Seoul"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Seoul. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Seoul faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Seoul está localizada em South Korea. Esta página mantém a referência local específica de Seoul, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Seoul: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Seoul; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Seoul: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Seoul"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Seoul?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Seoul. Os horários são combinados com antecedência usando Asia/Seoul e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Seul: aulas online com Barbara Sharon

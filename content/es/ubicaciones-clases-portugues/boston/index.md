@@ -1,7 +1,7 @@
 ---
 translationKey: location-boston
 title: "Clases online de portugués brasileño en Boston"
-description: "Clases online de portugués brasileño para quienes están en Boston, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Boston, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Boston"
+country: "United States"
+region_group: "North America"
+time_zone: "America/New_York"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Boston. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Boston está situada en United States. Boston forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Boston, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Boston: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Boston: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Boston"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Boston?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Boston. Los horarios se acuerdan con antelación usando America/New_York y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Domina el portugués brasileño en Boston: clases particulares y grupales en línea

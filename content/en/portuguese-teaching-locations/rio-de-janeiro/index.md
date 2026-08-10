@@ -1,7 +1,7 @@
 ---
 translationKey: location-rio-de-janeiro
-title: "Online Brazilian Portuguese Lessons in Rio de Janeiro"
-description: "Online Brazilian Portuguese lessons for learners in Rio de Janeiro, with Barbara Sharon, in private or group formats for conversation practice."
+title: "Online Brazilian Portuguese Lessons in Rio De Janeiro"
+description: "Online Brazilian Portuguese lessons in Rio De Janeiro, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Rio De Janeiro"
+country: "Brazil"
+region_group: "South America"
+time_zone: "America/Sao_Paulo"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Rio De Janeiro. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Rio De Janeiro is located in Brazil. Rio De Janeiro is grouped in the South America location set used for local scheduling and learner guidance. This page keeps the local reference specific to Rio De Janeiro while the teaching service remains online-first."
+scheduling: "Scheduling from Rio De Janeiro: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Sao_Paulo; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Rio De Janeiro: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Rio De Janeiro"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Rio De Janeiro?"
+    answer: "Yes. Lessons are online, so you can study from Rio De Janeiro. Times are agreed in advance using America/Sao_Paulo and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Rio de Janeiro - Online Classes

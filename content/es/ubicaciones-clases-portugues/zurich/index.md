@@ -1,7 +1,7 @@
 ---
 translationKey: location-zurich
-title: "Clases online de portugués brasileño en Zúrich"
-description: "Clases online de portugués brasileño para quienes están en Zúrich, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Zurich"
+description: "Clases online de portugués brasileño en Zurich, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Zurich"
+country: "Switzerland"
+region_group: "Europe"
+time_zone: "Europe/Zurich"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Zurich. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Zurich está situada en Switzerland. Zurich forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Zurich, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Zurich: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Zurich; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Zurich: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Zurich"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Zurich?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Zurich. Los horarios se acuerdan con antelación usando Europe/Zurich y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño en Zúrich: clases en línea atractivas con Barbara Sharon

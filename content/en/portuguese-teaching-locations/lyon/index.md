@@ -1,7 +1,7 @@
 ---
 translationKey: location-lyon
 title: "Online Brazilian Portuguese Lessons in Lyon"
-description: "Online Brazilian Portuguese lessons for learners in Lyon, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Lyon, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Lyon"
+country: "France"
+region_group: "Europe"
+time_zone: "Europe/Paris"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Lyon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Lyon is located in France. Lyon is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Lyon while the teaching service remains online-first."
+scheduling: "Scheduling from Lyon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Lyon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Lyon"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Lyon?"
+    answer: "Yes. Lessons are online, so you can study from Lyon. Times are agreed in advance using Europe/Paris and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Lyon: Brazilian & European Portuguese Classes

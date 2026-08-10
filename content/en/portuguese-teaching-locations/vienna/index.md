@@ -1,7 +1,7 @@
 ---
 translationKey: location-vienna
 title: "Online Brazilian Portuguese Lessons in Vienna"
-description: "Online Brazilian Portuguese lessons for learners in Vienna, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Vienna, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Vienna"
+country: "Austria"
+region_group: "Europe"
+time_zone: "Europe/Vienna"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Vienna. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Vienna is located in Austria. Vienna is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Vienna while the teaching service remains online-first."
+scheduling: "Scheduling from Vienna: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Vienna; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Vienna: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Vienna"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Vienna?"
+    answer: "Yes. Lessons are online, so you can study from Vienna. Times are agreed in advance using Europe/Vienna and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Brazilian Portuguese in Vienna - Online Classes by Barbara Sharon

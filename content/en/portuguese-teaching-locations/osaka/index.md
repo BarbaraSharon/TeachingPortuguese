@@ -1,7 +1,7 @@
 ---
 translationKey: location-osaka
 title: "Online Brazilian Portuguese Lessons in Osaka"
-description: "Online Brazilian Portuguese lessons for learners in Osaka, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Osaka, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Osaka"
+country: "Japan"
+region_group: "Asia"
+time_zone: "Asia/Tokyo"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Osaka. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Osaka is grouped in the Asia location set used for local scheduling and learner guidance. Osaka is located in Japan. This page keeps the local reference specific to Osaka while the teaching service remains online-first."
+scheduling: "Scheduling from Osaka: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Tokyo; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Osaka: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Osaka"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Osaka?"
+    answer: "Yes. Lessons are online, so you can study from Osaka. Times are agreed in advance using Asia/Tokyo and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Osaka: Online Classes with Barbara Sharon

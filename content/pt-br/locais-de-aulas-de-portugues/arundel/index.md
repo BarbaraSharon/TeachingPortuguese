@@ -1,15 +1,31 @@
 ---
+translationKey: location-arundel
 title: "Aulas online de português brasileiro em Arundel"
-description: "Aulas online de português brasileiro para quem está em Arundel, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+description: "Aulas online de português brasileiro em Arundel, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
-translationKey: location-arundel
 image:
   filename: pages/portuguese-teaching-locations/arundel/arundel-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Arundel, QLD | Aulas particulares e online - aulas de português brasileiro com Barbara Sharon
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Arundel"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Arundel. As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação."
+local_context: "Arundel faz parte do conjunto regional Gold Coast usado para orientar horários e objetivos de aprendizagem. Arundel está localizada em Australia. Esta página mantém a referência local específica de Arundel, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Arundel: As aulas online são a opção padrão. Um local confirmado na Gold Coast também pode estar disponível em Surfers Paradise, Broadbeach ou Kirra, conforme a demanda e confirmação. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Arundel: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Arundel"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Arundel?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Arundel. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português em Arundel, QLD - aulas particulares e online com Barbara Sharon

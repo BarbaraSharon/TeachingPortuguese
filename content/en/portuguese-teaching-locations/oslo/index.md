@@ -1,7 +1,7 @@
 ---
 translationKey: location-oslo
 title: "Online Brazilian Portuguese Lessons in Oslo"
-description: "Online Brazilian Portuguese lessons for learners in Oslo, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Oslo, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Oslo"
+country: "Norway"
+region_group: "Europe"
+time_zone: "Europe/Oslo"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Oslo. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Oslo is located in Norway. Oslo is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Oslo while the teaching service remains online-first."
+scheduling: "Scheduling from Oslo: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Oslo; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Oslo: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Oslo"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Oslo?"
+    answer: "Yes. Lessons are online, so you can study from Oslo. Times are agreed in advance using Europe/Oslo and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Oslo: Online Classes with Barbara Sharon

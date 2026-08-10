@@ -1,7 +1,7 @@
 ---
 translationKey: location-highland-park
 title: "Clases online de portugués brasileño en Highland Park"
-description: "Clases online de portugués brasileño para quienes están en Highland Park, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Highland Park, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Highland Park"
+country: "Australia"
+region_group: "Gold Coast"
+time_zone: "Australia/Brisbane"
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Highland Park. Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación."
+local_context: "Highland Park forma parte del conjunto regional Gold Coast, que se utiliza para orientar horarios y objetivos de aprendizaje. Highland Park está situada en Australia. Esta página mantiene la referencia local específica de Highland Park, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Highland Park: Las clases online son la opción habitual. También puede haber un lugar confirmado en Gold Coast, en Surfers Paradise, Broadbeach o Kirra, según la demanda y la confirmación. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Highland Park: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Highland Park"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Highland Park?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Highland Park. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Highland Park: clases con hablante nativa y tutorías en línea

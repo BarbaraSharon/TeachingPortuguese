@@ -1,7 +1,7 @@
 ---
 translationKey: location-abu-dhabi
-title: "Clases online de portugués brasileño en Abu Dabi"
-description: "Clases online de portugués brasileño para quienes están en Abu Dabi, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Abu Dhabi"
+description: "Clases online de portugués brasileño en Abu Dhabi, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Abu Dhabi"
+country: "United Arab Emirates"
+region_group: "Asia"
+time_zone: "Asia/Dubai"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Abu Dhabi. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Abu Dhabi forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Abu Dhabi está situada en United Arab Emirates. Esta página mantiene la referencia local específica de Abu Dhabi, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Abu Dhabi: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Dubai; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Abu Dhabi: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Abu Dhabi"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Abu Dhabi?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Abu Dhabi. Los horarios se acuerdan con antelación usando Asia/Dubai y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Abu Dabi: clases particulares y grupales en línea

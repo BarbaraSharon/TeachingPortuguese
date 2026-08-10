@@ -1,7 +1,7 @@
 ---
 translationKey: location-toronto
 title: "Online Brazilian Portuguese Lessons in Toronto"
-description: "Online Brazilian Portuguese lessons for learners in Toronto, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Toronto, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Toronto"
+country: "Canada"
+region_group: "North America"
+time_zone: "America/Toronto"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Toronto. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Toronto is grouped in the North America location set used for local scheduling and learner guidance. Toronto is located in Canada. This page keeps the local reference specific to Toronto while the teaching service remains online-first."
+scheduling: "Scheduling from Toronto: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Toronto: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Toronto"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Toronto?"
+    answer: "Yes. Lessons are online, so you can study from Toronto. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Toronto with Barbara Sharon

@@ -1,7 +1,7 @@
 ---
 translationKey: location-seville
 title: "Online Brazilian Portuguese Lessons in Seville"
-description: "Online Brazilian Portuguese lessons for learners in Seville, with Barbara Sharon, in private or group formats for conversation practice."
+description: "Online Brazilian Portuguese lessons in Seville, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:
@@ -12,6 +12,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
+city: "Seville"
+country: "Spain"
+region_group: "Europe"
+time_zone: "Europe/Madrid"
+service_scope: online_only
+local_intro: "Learn Brazilian Portuguese online from Seville. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
+local_context: "Seville is grouped in the Europe location set used for local scheduling and learner guidance. Seville is located in Spain. This page keeps the local reference specific to Seville while the teaching service remains online-first."
+scheduling: "Scheduling from Seville: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Madrid; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Seville: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+cta:
+  label: "Discuss lessons for Seville"
+  url: /en/contact-portuguese-teacher/
+faq:
+  - question: "Can I study from Seville?"
+    answer: "Yes. Lessons are online, so you can study from Seville. Times are agreed in advance using Europe/Madrid and current availability. Contact Barbara to discuss a suitable format."
+editorial_reviewed: true
 ---
 
 ## Learn Portuguese in Seville, Australia - Online Lessons with Barbara Sharon

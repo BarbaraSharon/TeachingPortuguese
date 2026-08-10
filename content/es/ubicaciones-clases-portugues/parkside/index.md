@@ -1,7 +1,7 @@
 ---
 translationKey: location-parkside
 title: "Clases online de portugués brasileño en Parkside"
-description: "Clases online de portugués brasileño para quienes están en Parkside, con Barbara Sharon, en formato particular o grupal y práctica oral."
+description: "Clases online de portugués brasileño en Parkside, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Parkside"
+country: "Australia"
+region_group: "Australia & New Zealand"
+time_zone: "Australia/Brisbane"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Parkside. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Parkside está situada en Australia. Parkside forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Parkside, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Parkside: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Parkside: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Parkside"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Parkside?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Parkside. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués en Parkside, Australia: clases particulares y en línea con Barbara Sharon

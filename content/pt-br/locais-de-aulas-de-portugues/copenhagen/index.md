@@ -1,7 +1,7 @@
 ---
 translationKey: location-copenhagen
-title: "Aulas online de português brasileiro em Copenhague"
-description: "Aulas online de português brasileiro para quem está em Copenhague, com Barbara Sharon, em formato particular ou em grupo e prática oral."
+title: "Aulas online de português brasileiro em Copenhagen"
+description: "Aulas online de português brasileiro em Copenhagen, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Locais de aulas de português
+city: "Copenhagen"
+country: "Denmark"
+region_group: "Europe"
+time_zone: "Europe/Copenhagen"
+service_scope: online_only
+local_intro: "Aprenda português brasileiro online a partir de Copenhagen. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
+local_context: "Copenhagen está localizada em Denmark. Copenhagen faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Copenhagen, enquanto o serviço de ensino continua priorizando o formato online."
+scheduling: "Horários para Copenhagen: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Copenhagen; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Copenhagen: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+cta:
+  label: "Converse sobre aulas para Copenhagen"
+  url: /pt-br/contato-professora-portugues/
+faq:
+  - question: "Posso estudar a partir de Copenhagen?"
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Copenhagen. Os horários são combinados com antecedência usando Europe/Copenhagen e a disponibilidade atual. Fale com Barbara para escolher o formato."
+editorial_reviewed: true
 ---
 
 ## Aprenda português brasileiro intensivo em Copenhague - evolução rápida com resultados comprovados

@@ -1,7 +1,7 @@
 ---
 translationKey: location-niagara-falls
-title: "Clases online de portugués brasileño en Niagara"
-description: "Clases online de portugués brasileño para quienes están en Niagara Falls, con Barbara Sharon, en formato particular o grupal y práctica oral."
+title: "Clases online de portugués brasileño en Niagara Falls"
+description: "Clases online de portugués brasileño en Niagara Falls, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
@@ -10,6 +10,22 @@ image:
 robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
+city: "Niagara Falls"
+country: "Canada"
+region_group: "North America"
+time_zone: "America/Toronto"
+service_scope: online_only
+local_intro: "Aprende portugués brasileño online desde Niagara Falls. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
+local_context: "Niagara Falls forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Niagara Falls está situada en Canada. Esta página mantiene la referencia local específica de Niagara Falls, mientras que el servicio de enseñanza sigue priorizando el formato online."
+scheduling: "Horarios para Niagara Falls: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Niagara Falls: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+cta:
+  label: "Habla sobre clases para Niagara Falls"
+  url: /es/contacto-profesora-portugues/
+faq:
+  - question: "¿Puedo estudiar desde Niagara Falls?"
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Niagara Falls. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+editorial_reviewed: true
 ---
 
 ## Aprende portugués brasileño en Niagara-Falls | Clases particulares y grupales en línea
