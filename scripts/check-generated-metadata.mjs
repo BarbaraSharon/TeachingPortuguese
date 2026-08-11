@@ -34,6 +34,10 @@ function hasType(node, type) {
 const root = readOutput('/index.html');
 const rootSource = fs.readFileSync(new URL('../static/index.html', import.meta.url), 'utf8');
 assert.equal(root, rootSource, 'Root language-selection page must match its static source.');
+assertIncludes(root, `<link rel="canonical" href="${origin}/en/">`, 'Root router must canonicalize to the English homepage.');
+assertIncludes(root, `<meta property="og:url" content="${origin}/en/">`, 'Root router Open Graph URL must match its canonical.');
+assertIncludes(root, `<meta name="twitter:url" content="${origin}/en/">`, 'Root router Twitter URL must match its canonical.');
+assert.ok(!/hreflang=/i.test(root), 'Non-canonical root router must not emit hreflang annotations.');
 
 for (const [language, path, locale, hreflang] of [
   ['English', '/en/index.html', 'en_AU', 'en-au'],
@@ -41,7 +45,7 @@ for (const [language, path, locale, hreflang] of [
   ['Spanish', '/es/index.html', 'es_ES', 'es'],
 ]) {
   const html = readOutput(path);
-  assertIncludes(html, `hreflang=x-default href=${origin}/`, `${language} homepage x-default is incorrect.`);
+  assertIncludes(html, `hreflang=x-default href=${origin}/en/`, `${language} homepage x-default is incorrect.`);
   assertIncludes(html, `property="og:locale" content="${locale}"`, `${language} Open Graph locale is incorrect.`);
   assert.ok(/<meta name=["']?twitter:image["']? /i.test(html), `${language} Twitter image must use the name attribute.`);
   assert.ok(!/<meta property=["']?twitter:image["']? /i.test(html), `${language} Twitter image uses the wrong attribute.`);
@@ -57,7 +61,7 @@ for (const [language, path, locale, hreflang] of [
   const sitemap = readOutput(path.replace('index.html', 'sitemap.xml'));
   assertIncludes(sitemap, `hreflang="${hreflang}"`, `${language} sitemap locale is incorrect.`);
   assert.ok(
-    sitemap.includes(`hreflang="x-default" href="${origin}/"`),
+    sitemap.includes(`hreflang="x-default" href="${origin}/en/"`),
     `${language} sitemap homepage x-default is incorrect.`,
   );
 }

@@ -63,15 +63,12 @@
        accessing .Paginator here because Hugo creates paginated pages on access. */}}
   {{ $isPaginatedSection := and (eq .Kind "section") (ne .Type "portuguese-teaching-locations") (strings.Contains .RelPermalink "/page/") }}
   {{ if and (not $isTaxonomyArchive) (not $isPaginatedSection) }}
+    {{/* The canonical English equivalent is the fallback for unmatched
+         languages. The language-neutral root is an automatic router and must
+         not be referenced as an hreflang target. */}}
     {{ $xDefault := .Permalink }}
-    {{ if .IsHome }}
-      {{/* The language-neutral selector is the homepage fallback. Individual
-           translated pages retain their English equivalent as x-default. */}}
-      {{ $xDefault = site.BaseURL }}
-    {{ else }}
-      {{ range where .AllTranslations "Language.Lang" "en" }}
-        {{ $xDefault = .Permalink }}
-      {{ end }}
+    {{ range where .AllTranslations "Language.Lang" "en" }}
+      {{ $xDefault = .Permalink }}
     {{ end }}
     {{ range .Translations }}
       {{/* Use the configured locale for every member of the group. .Lang is

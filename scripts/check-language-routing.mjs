@@ -48,8 +48,10 @@ function runRouter({
 
 assert.deepEqual(runRouter({ cookie: 'barbara-language=pt-br' }).redirects, ['/pt-br/']);
 assert.deepEqual(runRouter({ storedLanguage: 'es' }).redirects, ['/es/']);
+assert.deepEqual(runRouter({ cookie: 'barbara-language=en', languages: ['es-MX'] }).redirects, ['/en/']);
 assert.deepEqual(runRouter({ languages: ['fr-CA', 'pt-PT'] }).redirects, ['/pt-br/']);
 assert.deepEqual(runRouter({ languages: ['es-MX'], search: '?utm_source=test', hash: '#top' }).redirects, ['/es/?utm_source=test#top']);
+assert.deepEqual(runRouter({ languages: ['en-AU'] }).redirects, ['/en/']);
 assert.deepEqual(runRouter({ languages: ['fr-CA'] }).redirects, []);
 assert.deepEqual(runRouter({ pathname: '/en/', cookie: 'barbara-language=es' }).redirects, []);
 assert.deepEqual(runRouter({ cookie: 'barbara-language=invalid', languages: ['en-AU'] }).redirects, ['/en/']);

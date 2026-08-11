@@ -53,7 +53,7 @@
       const storedLanguage = window.localStorage.getItem(storageKey);
       if (languagePaths[storedLanguage]) return storedLanguage;
     } catch {
-      // Fall through to browser-language detection.
+      // Treat blocked storage as no saved preference.
     }
 
     return '';
@@ -91,9 +91,9 @@
     setLanguagePreference(link.dataset.languagePreference);
   }, true);
 
-  // Only the language-neutral root performs automatic routing. Direct links
-  // to a language or page are always respected and browser detection is never
-  // persisted as if it were an explicit visitor choice.
+  // Only the non-canonical language-routing root performs automatic routing.
+  // Localized pages remain stable, self-canonical destinations for visitors
+  // and search crawlers. An explicit preference wins over browser detection.
   if (window.location.pathname !== '/') return;
 
   const language = getLanguagePreference() || languageFromBrowser();
