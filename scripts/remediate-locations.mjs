@@ -57,7 +57,14 @@ function originalBody(source) { return source.match(/^---[\s\S]*?---\n([\s\S]*)$
 function quoted(value) { return value.replace(/^['"]|['"]$/g, ''); }
 function regionFor(slug) { if (goldCoast.has(slug)) return 'Gold Coast'; return Object.entries(regionSets).find(([, values]) => values.has(slug))?.[0] ?? 'International'; }
 function metadata(slug) { const region = regionFor(slug); const [country, zone] = locations[slug] ?? fallbackByRegion[region] ?? ['International', 'UTC']; return { region, country, zone }; }
-function descriptionFor(language, city) {
+function descriptionFor(language, city, isGoldCoast) {
+  if (isGoldCoast) {
+    return language.code === 'en'
+      ? `Portuguese lessons in ${city}: in-person Gold Coast classes and online options, in private or group formats subject to confirmation.`
+      : language.code === 'pt-br'
+        ? `Aulas de português em ${city}: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação.`
+        : `Clases de portugués en ${city}: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación.`;
+  }
   const base = language.code === 'en'
     ? `Online Brazilian Portuguese lessons in ${city}, with Barbara Sharon. Private and group formats available online.`
     : language.code === 'pt-br'
@@ -88,9 +95,14 @@ function render(slug, language, old) {
   const alt = field(preserved, 'alt_text') || field(preserved, 'image.alt_text') || yaml(`Barbara Sharon teaching Brazilian Portuguese online for learners in ${city}`);
   const key = quoted(field(preserved, 'translationKey')) || `location-${slug}`;
   const aliasLine = block(preserved, 'aliases');
-  const candidateTitle = `${l.title} ${city}`;
-  if (candidateTitle.length > 58) l.title = language.code === 'en' ? 'Online Portuguese Lessons in' : language.code === 'pt-br' ? 'Aulas online de português em' : 'Clases online de portugués en';
-  return `---\ntranslationKey: ${key}\ntitle: ${yaml(`${l.title} ${city}`)}\ndescription: ${yaml(`${l.description} ${city}, with Barbara Sharon. Online private and group formats are arranged around goals and availability.`)}\ndate: 2026-08-05\nlastmod: 2026-08-10\n${aliasLine ? `${aliasLine}\n` : ''}image:\n  filename: ${image}\n  alt_text: ${alt}\nrobots: index, follow, max-image-preview:large\ncategories:\n- ${language.code === 'en' ? 'Portuguese teaching locations' : language.code === 'pt-br' ? 'Locais de aulas de português' : 'Ubicaciones para aprender portugués'}\ncity: ${yaml(city)}\ncountry: ${yaml(meta.country)}\nregion_group: ${yaml(meta.region)}\ntime_zone: ${yaml(meta.zone)}\nservice_scope: ${scope}\nlocal_intro: ${yaml(intro)}\nlocal_context: ${yaml(context)}\nscheduling: ${yaml(scheduling)}\nlearner_use_case: ${yaml(useCase)}\ncta:\n  label: ${yaml(`${l.cta} ${city}`)}\n  url: ${l.code === 'en' ? '/en/contact-portuguese-teacher/' : l.code === 'pt-br' ? '/pt-br/contato-professora-portugues/' : '/es/contacto-profesora-portugues/'}\nfaq:\n  - question: ${yaml(`${l.faqQ} ${city}?`)}\n    answer: ${yaml(faqA)}\neditorial_reviewed: true\n---\n`;
+  const onlineTitle = `${l.title} ${city}`;
+  if (onlineTitle.length > 58) l.title = language.code === 'en' ? 'Online Portuguese Lessons in' : language.code === 'pt-br' ? 'Aulas online de português em' : 'Clases online de portugués en';
+  const title = isGoldCoast
+    ? language.code === 'en' ? `Portuguese in ${city}: In-Person & Online`
+      : language.code === 'pt-br' ? `Português em ${city}: Presenciais e Online`
+        : `Portugués en ${city}: Presenciales y Online`
+    : `${l.title} ${city}`;
+  return `---\ntranslationKey: ${key}\ntitle: ${yaml(title)}\ndescription: ${yaml(`${l.description} ${city}, with Barbara Sharon. Online private and group formats are arranged around goals and availability.`)}\ndate: 2026-08-05\nlastmod: 2026-08-10\n${aliasLine ? `${aliasLine}\n` : ''}image:\n  filename: ${image}\n  alt_text: ${alt}\nrobots: index, follow, max-image-preview:large\ncategories:\n- ${language.code === 'en' ? 'Portuguese teaching locations' : language.code === 'pt-br' ? 'Locais de aulas de português' : 'Ubicaciones para aprender portugués'}\ncity: ${yaml(city)}\ncountry: ${yaml(meta.country)}\nregion_group: ${yaml(meta.region)}\ntime_zone: ${yaml(meta.zone)}\nservice_scope: ${scope}\nlocal_intro: ${yaml(intro)}\nlocal_context: ${yaml(context)}\nscheduling: ${yaml(scheduling)}\nlearner_use_case: ${yaml(useCase)}\ncta:\n  label: ${yaml(`${l.cta} ${city}`)}\n  url: ${l.code === 'en' ? '/en/contact-portuguese-teacher/' : l.code === 'pt-br' ? '/pt-br/contato-professora-portugues/' : '/es/contacto-profesora-portugues/'}\nfaq:\n  - question: ${yaml(`${l.faqQ} ${city}?`)}\n    answer: ${yaml(faqA)}\neditorial_reviewed: true\n---\n`;
 }
 
 for (const language of languages) {
@@ -102,7 +114,7 @@ for (const language of languages) {
     const old = originalSource(path.relative(root, file)) || fs.readFileSync(file, 'utf8');
     const city = displayCity(slug, language.code);
     const rendered = render(slug, language, old)
-      .replace(/^description:.*$/m, `description: ${yaml(descriptionFor(language, city))}`)
+      .replace(/^description:.*$/m, `description: ${yaml(descriptionFor(language, city, metadata(slug).region === 'Gold Coast'))}`)
       .replace('robots: noindex, follow, max-image-preview:large', 'robots: index, follow, max-image-preview:large')
       .replace('editorial_reviewed: false', 'editorial_reviewed: true');
     fs.writeFileSync(file, `${rendered}\n${originalBody(old)}\n`);

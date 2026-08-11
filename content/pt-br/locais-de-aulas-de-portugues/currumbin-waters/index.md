@@ -1,8 +1,8 @@
 ---
 translationKey: location-currumbin-waters
 type: portuguese-teaching-locations
-title: "Aulas de português brasileiro em Currumbin Waters: online e presenciais"
-description: "Aulas de português brasileiro em Currumbin Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+title: "Português em Currumbin Waters: Presenciais e Online"
+description: "Aulas de português em Currumbin Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:

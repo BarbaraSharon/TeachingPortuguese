@@ -57,6 +57,11 @@ function readScalar(frontMatter, fieldName) {
   return frontMatter.match(new RegExp(`^${fieldName}:\\s*(.*)$`, 'm'))?.[1]?.trim() ?? '';
 }
 
+function hasVerifiedGoldCoastInPersonOption(frontMatter) {
+  return unquote(readScalar(frontMatter, 'region_group')) === 'Gold Coast'
+    && unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
+}
+
 function unquote(value) {
   if (!value.startsWith('"') || !value.endsWith('"')) return value;
   try {
@@ -115,7 +120,9 @@ function isLocationPage(language, contentPath) {
   return contentPath.startsWith(`${locationDirectories.get(language)}/`) && contentPath !== `${locationDirectories.get(language)}/_index.md`;
 }
 
-function cityForLocation(language, contentPath, title) {
+function cityForLocation(language, contentPath, title, frontMatter) {
+  const configuredCity = unquote(readScalar(frontMatter, 'city'));
+  if (configuredCity) return configuredCity;
   const slug = path.basename(path.dirname(contentPath));
   const override = locationCityOverrides[slug]?.[language];
   if (override) return override;
@@ -183,9 +190,9 @@ for (const filePath of walk(contentRoot).sort()) {
   if (repeated) errors.push(`${relative}: description repeats “${repeated}” too often`);
 
   if (isLocationPage(language, contentPath)) {
-    const city = cityForLocation(language, contentPath, title);
+    const city = cityForLocation(language, contentPath, title, frontMatter);
     if (!/\bonline\b/i.test(description)) errors.push(`${relative}: location description must state the truthful online delivery mode`);
-    if (/\b(?:in-person|presencial(?:es|mente)?|face to face)\b/i.test(description)) {
+    if (/\b(?:in-person|presencial(?:es|mente)?|face to face)\b/i.test(description) && !hasVerifiedGoldCoastInPersonOption(frontMatter)) {
       errors.push(`${relative}: location description must not imply unverified in-person delivery`);
     }
     if (!city || !description.toLocaleLowerCase().includes(city.toLocaleLowerCase())) {

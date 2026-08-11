@@ -1,6 +1,6 @@
 ---
 translationKey: location-austinville
-title: "Brazilian Portuguese Lessons in Austinville: Online & In-Person"
+title: "Portuguese in Austinville: In-Person & Online"
 description: "Brazilian Portuguese lessons in Austinville, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

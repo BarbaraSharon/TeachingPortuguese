@@ -1,8 +1,8 @@
 ---
 translationKey: location-currumbin-waters
 type: portuguese-teaching-locations
-title: "Clases de portugués brasileño en Currumbin Waters: online y presenciales"
-description: "Clases de portugués brasileño en Currumbin Waters, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+title: "Portugués en Currumbin Waters: Presenciales y Online"
+description: "Clases de portugués en Currumbin Waters: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:

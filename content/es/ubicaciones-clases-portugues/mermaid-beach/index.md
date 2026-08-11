@@ -1,8 +1,8 @@
 ---
 translationKey: location-mermaid-beach
 type: portuguese-teaching-locations
-title: "Clases de portugués brasileño en Mermaid Beach: online y presenciales"
-description: "Clases de portugués brasileño en Mermaid Beach, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+title: "Portugués en Mermaid Beach: Presenciales y Online"
+description: "Clases de portugués en Mermaid Beach: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:

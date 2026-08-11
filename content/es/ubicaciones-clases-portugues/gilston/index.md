@@ -1,7 +1,7 @@
 ---
 translationKey: location-gilston
 type: portuguese-teaching-locations
-title: "Clases de portugués brasileño en Gilston: online y presenciales"
+title: "Portugués en Gilston: Presenciales y Online"
 description: "Clases de portugués brasileño en Gilston, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10

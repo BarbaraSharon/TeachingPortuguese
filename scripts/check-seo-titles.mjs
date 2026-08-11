@@ -41,6 +41,11 @@ function readScalar(raw, fieldName) {
   return raw.match(new RegExp(`^${fieldName}:\\s*(.*)$`, 'm'))?.[1]?.trim() ?? '';
 }
 
+function hasVerifiedGoldCoastInPersonOption(frontMatter) {
+  return unquote(readScalar(frontMatter, 'region_group')) === 'Gold Coast'
+    && unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
+}
+
 function unquote(value) {
   if (!value.startsWith('"') || !value.endsWith('"')) return value;
   try {
@@ -134,7 +139,9 @@ for (const filePath of walk(contentRoot).sort()) {
   if (!languageMarkers[language]?.test(title)) errors.push(`${relative}: title lacks a ${language} language marker`);
   if (unsupportedClaimPattern.test(title)) errors.push(`${relative}: title contains an unsupported marketing claim`);
   if (contentPath.includes('teaching-locations') || contentPath.includes('ubicaciones-clases-portugues') || contentPath.includes('locais-de-aulas-de-portugues')) {
-    if (inPersonPattern.test(title)) errors.push(`${relative}: location-page title must not imply unverified in-person delivery`);
+    if (inPersonPattern.test(title) && !hasVerifiedGoldCoastInPersonOption(frontMatter)) {
+      errors.push(`${relative}: location-page title must not imply unverified in-person delivery`);
+    }
   }
 
   const languageTitles = titlesByLanguage.get(language) ?? new Map();

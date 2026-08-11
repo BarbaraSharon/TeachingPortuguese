@@ -1,8 +1,8 @@
 ---
 translationKey: location-currumbin-valley
 type: portuguese-teaching-locations
-title: "Aulas de português brasileiro em Currumbin Valley: online e presenciais"
-description: "Aulas de português brasileiro em Currumbin Valley, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+title: "Português em Currumbin Valley: Presenciais e Online"
+description: "Aulas de português em Currumbin Valley: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:

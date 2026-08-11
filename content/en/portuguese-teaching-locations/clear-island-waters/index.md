@@ -1,7 +1,7 @@
 ---
 translationKey: location-clear-island-waters
-title: "Brazilian Portuguese Lessons in Clear Island Waters: Online & In-Person"
-description: "Brazilian Portuguese lessons in Clear Island Waters, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+title: "Portuguese in Clear Island Waters: In-Person & Online"
+description: "Portuguese lessons in Clear Island Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:

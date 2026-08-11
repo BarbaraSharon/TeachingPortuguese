@@ -1,6 +1,6 @@
 ---
 translationKey: location-gaven
-title: "Brazilian Portuguese Lessons in Gaven: Online & In-Person"
+title: "Portuguese in Gaven: In-Person & Online"
 description: "Brazilian Portuguese lessons in Gaven, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

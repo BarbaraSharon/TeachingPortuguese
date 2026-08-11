@@ -1,7 +1,7 @@
 ---
 translationKey: location-isle-of-capri
 type: portuguese-teaching-locations
-title: "Aulas de português brasileiro em Isle Of Capri: online e presenciais"
+title: "Português em Isle Of Capri: Presenciais e Online"
 description: "Aulas de português brasileiro em Isle Of Capri, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10

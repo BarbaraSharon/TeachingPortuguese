@@ -1,7 +1,7 @@
 ---
 translationKey: location-surfers-paradise
-title: "Brazilian Portuguese Lessons in Surfers Paradise: Online & In-Person"
-description: "Brazilian Portuguese lessons in Surfers Paradise, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+title: "Portuguese in Surfers Paradise: In-Person & Online"
+description: "Portuguese lessons in Surfers Paradise: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:

@@ -1,7 +1,7 @@
 ---
 translationKey: location-bonogin
 type: portuguese-teaching-locations
-title: "Clases de portugués brasileño en Bonogin: online y presenciales"
+title: "Portugués en Bonogin: Presenciales y Online"
 description: "Clases de portugués brasileño en Bonogin, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10

@@ -1,7 +1,7 @@
 ---
 translationKey: location-gilston
 type: portuguese-teaching-locations
-title: "Aulas de português brasileiro em Gilston: online e presenciais"
+title: "Português em Gilston: Presenciais e Online"
 description: "Aulas de português brasileiro em Gilston, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10

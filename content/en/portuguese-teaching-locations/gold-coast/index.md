@@ -1,6 +1,6 @@
 ---
 translationKey: location-gold-coast
-title: "Brazilian Portuguese Lessons in Gold Coast: Online & In-Person"
+title: "Portuguese in Gold Coast: In-Person & Online"
 description: "Brazilian Portuguese lessons in Gold Coast, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

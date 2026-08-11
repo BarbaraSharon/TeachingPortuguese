@@ -1,6 +1,6 @@
 ---
 translationKey: location-coolangatta
-title: "Brazilian Portuguese Lessons in Coolangatta: Online & In-Person"
+title: "Portuguese in Coolangatta: In-Person & Online"
 description: "Brazilian Portuguese lessons in Coolangatta, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

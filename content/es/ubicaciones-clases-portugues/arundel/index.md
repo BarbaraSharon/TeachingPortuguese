@@ -1,7 +1,7 @@
 ---
 translationKey: location-arundel
 type: portuguese-teaching-locations
-title: "Clases de portugués brasileño en Arundel: online y presenciales"
+title: "Portugués en Arundel: Presenciales y Online"
 description: "Clases de portugués brasileño en Arundel, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10

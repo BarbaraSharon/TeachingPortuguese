@@ -1,6 +1,6 @@
 ---
 translationKey: location-alberton
-title: "Brazilian Portuguese Lessons in Alberton: Online & In-Person"
+title: "Portuguese in Alberton: In-Person & Online"
 description: "Brazilian Portuguese lessons in Alberton, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

@@ -1,6 +1,6 @@
 ---
 translationKey: location-hope-island
-title: "Brazilian Portuguese Lessons in Hope Island: Online & In-Person"
+title: "Portuguese in Hope Island: In-Person & Online"
 description: "Brazilian Portuguese lessons in Hope Island, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

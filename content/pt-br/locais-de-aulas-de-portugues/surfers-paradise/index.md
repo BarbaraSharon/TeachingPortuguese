@@ -1,8 +1,8 @@
 ---
 translationKey: location-surfers-paradise
 type: portuguese-teaching-locations
-title: "Aulas de português brasileiro em Surfers Paradise: online e presenciais"
-description: "Aulas de português brasileiro em Surfers Paradise, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+title: "Português em Surfers Paradise: Presenciais e Online"
+description: "Aulas de português em Surfers Paradise: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:

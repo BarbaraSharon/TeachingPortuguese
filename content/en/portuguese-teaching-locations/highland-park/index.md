@@ -1,7 +1,7 @@
 ---
 translationKey: location-highland-park
-title: "Brazilian Portuguese Lessons in Highland Park: Online & In-Person"
-description: "Brazilian Portuguese lessons in Highland Park, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+title: "Portuguese in Highland Park: In-Person & Online"
+description: "Portuguese lessons in Highland Park: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:

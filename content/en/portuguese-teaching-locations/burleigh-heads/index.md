@@ -1,7 +1,7 @@
 ---
 translationKey: location-burleigh-heads
-title: "Brazilian Portuguese Lessons in Burleigh Heads: Online & In-Person"
-description: "Brazilian Portuguese lessons in Burleigh Heads, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+title: "Portuguese in Burleigh Heads: In-Person & Online"
+description: "Portuguese lessons in Burleigh Heads: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10
 aliases:

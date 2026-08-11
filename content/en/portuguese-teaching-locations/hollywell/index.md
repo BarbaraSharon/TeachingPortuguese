@@ -1,6 +1,6 @@
 ---
 translationKey: location-hollywell
-title: "Brazilian Portuguese Lessons in Hollywell: Online & In-Person"
+title: "Portuguese in Hollywell: In-Person & Online"
 description: "Brazilian Portuguese lessons in Hollywell, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
 lastmod: 2026-08-10

@@ -1,8 +1,8 @@
 ---
 translationKey: location-cedar-creek
 type: portuguese-teaching-locations
-title: "Clases de portugués brasileño en Cedar Creek: online y presenciales"
-description: "Clases de portugués brasileño en Cedar Creek, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+title: "Portugués en Cedar Creek: Presenciales y Online"
+description: "Clases de portugués en Cedar Creek: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: 2026-08-10
 image:
