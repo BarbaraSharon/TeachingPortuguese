@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Toulouse"
 description: "Aulas online de português brasileiro em Toulouse, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/toulouse/toulouse-portuguese-lesson.png
   alt_text: Aprenda português brasileiro online com Barbara Sharon em Toulouse - aulas de português brasileiro com Barbara Sharon

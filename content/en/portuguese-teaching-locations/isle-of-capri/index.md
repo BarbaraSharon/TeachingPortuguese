@@ -3,7 +3,7 @@ translationKey: location-isle-of-capri
 title: "Portuguese in Isle Of Capri: In-Person & Online"
 description: "Portuguese lessons in Isle Of Capri: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/isle-of-capri/
 image:

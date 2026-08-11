@@ -3,7 +3,7 @@ title: "Portuguese Teaching Approach and Evidence"
 url: /en/teaching-evidence/
 description: "Read reference notes on Barbara Sharon’s Brazilian Portuguese teaching approach, lesson delivery, learner progress, and feedback practices."
 date: 2026-08-09
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 robots: noindex, follow
 ---
 

@@ -3,7 +3,7 @@ translationKey: como-aprender-portugues
 title: "Como aprender português brasileiro com clareza"
 description: "Descubra uma forma prática de aprender português brasileiro com conversação, escuta, vocabulário, gramática e contexto cultural que cabe na rotina."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/howto-learn-portuguese/howto-learn-portuguese-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

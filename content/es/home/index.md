@@ -1,6 +1,6 @@
 ---
 title: "Aprende portugués con Barbara Sharon"
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: language-home
 url: /es/
 translationKey: language-home

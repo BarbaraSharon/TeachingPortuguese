@@ -3,7 +3,7 @@ translationKey: location-mudgeeraba
 title: "Portuguese in Mudgeeraba: In-Person & Online"
 description: "Brazilian Portuguese lessons in Mudgeeraba, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/mudgeeraba/
 image:

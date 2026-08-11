@@ -3,7 +3,7 @@ translationKey: may-2025
 title: "Cheers to Portuguese: boletín de mayo 2025"
 description: "Lee el primer boletín Cheers to Portuguese, con un encuentro de conversación, próximos eventos y una introducción a la cultura brasileña."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /mayo-2025/
 robots: index, follow, max-image-preview:large

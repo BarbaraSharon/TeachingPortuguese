@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Coomera: Presenciales y Online"
 description: "Clases de portugués brasileño en Coomera, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/coomera/coomera-online-brazilian-portuguese.png
   alt_text: "Clases de portugués brasileño en Coomera: opciones online y presenciales en Gold Coast con Barbara Sharon"

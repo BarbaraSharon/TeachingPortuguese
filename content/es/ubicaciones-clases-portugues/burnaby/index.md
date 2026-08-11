@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Burnaby"
 description: "Clases online de portugués brasileño en Burnaby, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/burnaby/burnaby-brazilian-portuguese-lesson.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño

@@ -3,7 +3,7 @@ translationKey: location-los-angeles
 title: "Online Brazilian Portuguese Lessons in Los Angeles"
 description: "Online Brazilian Portuguese lessons in Los Angeles, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/los-angeles/
 image:

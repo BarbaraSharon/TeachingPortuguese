@@ -3,7 +3,7 @@ translationKey: portugues-para-falantes-de-ingles
 title: "Brazilian Portuguese for English Speakers"
 description: "Learn Brazilian Portuguese as an English speaker through focused support with pronunciation, grammar comparisons, useful vocabulary, and cultural context."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-for-english-speakers/
 image:

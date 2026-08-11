@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Surfers Paradise: Presenciais e Online"
 description: "Aulas de português em Surfers Paradise: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/surfers-paradise/surfers-paradise-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Surfers Paradise: opções online e presenciais na Gold Coast com Barbara Sharon"

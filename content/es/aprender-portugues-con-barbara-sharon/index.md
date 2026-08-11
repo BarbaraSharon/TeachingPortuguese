@@ -3,7 +3,7 @@ translationKey: aprenda-portugues
 title: "Rutas para aprender portugués con Barbara Sharon"
 description: "Explora rutas para aprender portugués brasileño con Barbara Sharon, desde bases iniciales hasta viajes, negocios, conversación y cultura."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: landing
 image:
   filename: pages/learning-portuguese-with-barbara-sharon/learning-portuguese-with-barbara-sharon-brazilian-portuguese-lessons.png

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Burleigh Waters: Presenciais e Online"
 description: "Aulas de português em Burleigh Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/burleigh-waters/burleigh-waters-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Burleigh Waters: opções online e presenciais na Gold Coast com Barbara Sharon"

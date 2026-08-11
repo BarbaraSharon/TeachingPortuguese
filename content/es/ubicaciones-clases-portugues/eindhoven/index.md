@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Eindhoven"
 description: "Clases online de portugués brasileño en Eindhoven, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/eindhoven/eindhoven-location-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Eindhoven | Clases de portugués brasileño con Barbara Sharon

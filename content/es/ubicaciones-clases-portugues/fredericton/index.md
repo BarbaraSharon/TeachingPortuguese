@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Fredericton"
 description: "Clases online de portugués brasileño en Fredericton, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/fredericton/fredericton-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Fredericton | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon

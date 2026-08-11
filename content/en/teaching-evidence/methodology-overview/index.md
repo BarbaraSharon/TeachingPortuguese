@@ -2,7 +2,7 @@
 title: "Barbara Sharon’s Portuguese Teaching Method"
 url: /en/teaching-evidence/methodology-overview/
 date: 2026-08-09
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 description: "Explore Barbara Sharon’s communication-first Brazilian Portuguese teaching approach, with lesson structure, practice, feedback, and progress checkpoints."
 robots: noindex, follow
 ---

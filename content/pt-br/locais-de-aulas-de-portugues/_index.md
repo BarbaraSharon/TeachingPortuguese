@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Locais e formatos das aulas de português"
 description: "Explore locais e formatos de aulas de português brasileiro, com ensino online para alunos no mundo todo e opções presenciais na Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/portuguese-teaching-locations-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

@@ -3,7 +3,7 @@ translationKey: location-nice
 title: "Online Brazilian Portuguese Lessons in Nice"
 description: "Online Brazilian Portuguese lessons in Nice, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/nice/
 image:

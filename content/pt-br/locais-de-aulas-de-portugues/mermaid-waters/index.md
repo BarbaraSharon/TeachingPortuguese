@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Mermaid Waters: Presenciais e Online"
 description: "Aulas de português brasileiro em Mermaid Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/mermaid-waters/mermaid-waters-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Mermaid Waters: opções online e presenciais na Gold Coast com Barbara Sharon"

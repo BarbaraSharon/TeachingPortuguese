@@ -3,7 +3,7 @@ translationKey: portugues-para-lisboa
 title: "Portugués para viajar a Lisboa: frases útiles"
 description: "Prepárate para Lisboa con frases útiles de portugués europeo, orientación de pronunciación y contexto cultural para situaciones cotidianas de viaje."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-for-lisbon-travel/portuguese-for-lisbon-travel-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño

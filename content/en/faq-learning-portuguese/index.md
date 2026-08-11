@@ -3,7 +3,7 @@ translationKey: faq-aprendizagem-portuguesa
 title: "Brazilian Portuguese Lessons: FAQs Answered"
 description: "Find clear answers about Brazilian Portuguese lessons, study methods, pronunciation, formats, and learning goals with Barbara Sharon on the Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /faq-learning-portuguese/
 image:

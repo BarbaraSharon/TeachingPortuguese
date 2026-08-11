@@ -4,7 +4,7 @@ robots: noindex, follow
 description: "Read Barbara Sharon’s profile and discover the teaching perspective behind Portuguese learning resources, lessons, and cultural guidance for students."
 translationKey: authors
 date: 2026-08-06
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg

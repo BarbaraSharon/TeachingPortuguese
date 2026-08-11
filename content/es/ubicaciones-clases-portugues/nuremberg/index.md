@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Nuremberg"
 description: "Clases online de portugués brasileño en Nuremberg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/nuremberg/nuremberg-portuguese-lesson.png
   alt_text: Aprende portugués en Núremberg | Clases de portugués brasileño y europeo con Barbara Sharon

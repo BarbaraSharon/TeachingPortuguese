@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Beginner Brazilian Portuguese Lessons"
 description: "Start Brazilian Portuguese with practical conversation, pronunciation, vocabulary, grammar, and cultural guidance in private or group lessons."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png

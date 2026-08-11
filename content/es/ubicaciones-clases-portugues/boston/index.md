@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Boston"
 description: "Clases online de portugués brasileño en Boston, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/boston/boston-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Boston | Clases en línea - clases de portugués brasileño con Barbara Sharon

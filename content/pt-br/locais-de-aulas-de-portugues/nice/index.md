@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Nice"
 description: "Aulas online de português brasileiro em Nice, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/nice/nice-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

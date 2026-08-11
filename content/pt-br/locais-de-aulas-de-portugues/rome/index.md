@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Rome"
 description: "Aulas online de português brasileiro em Rome, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/rome/rome-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

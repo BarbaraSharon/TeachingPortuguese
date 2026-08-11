@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 video_publication_date: 2024-01-15T00:00:00+00:00
 translationKey: home
 title: "Learn Brazilian Portuguese with Barbara Sharon"

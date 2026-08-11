@@ -3,7 +3,7 @@ translationKey: may-2025
 title: "Cheers to Portuguese: May 2025 Newsletter"
 description: "Read the first Cheers to Portuguese newsletter, sharing a community conversation meetup, upcoming events, and Brazilian culture."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
   - /newsletter/
 robots: index, follow, max-image-preview:large

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Mermaid Beach: Presenciales y Online"
 description: "Clases de portugués en Mermaid Beach: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/mermaid-beach/mermaid-beach-brazilian-portuguese-tutor.png
   alt_text: "Clases de portugués brasileño en Mermaid Beach: opciones online y presenciales en Gold Coast con Barbara Sharon"

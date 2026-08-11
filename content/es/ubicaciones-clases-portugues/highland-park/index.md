@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Highland Park: Presenciales y Online"
 description: "Clases de portugués en Highland Park: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/highland-park/highland-park-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Highland Park: opciones online y presenciales en Gold Coast con Barbara Sharon"

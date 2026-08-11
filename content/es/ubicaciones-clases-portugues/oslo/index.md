@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Oslo"
 description: "Clases online de portugués brasileño en Oslo, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/oslo/oslo-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Oslo | Clases particulares y grupales en línea con Barbara Sharon

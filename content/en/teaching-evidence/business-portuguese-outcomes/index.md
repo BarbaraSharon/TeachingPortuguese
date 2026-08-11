@@ -2,7 +2,7 @@
 title: "Business Portuguese Learning Outcomes"
 url: /en/teaching-evidence/business-portuguese-outcomes/
 date: 2026-08-09
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 description: "Read anonymised notes on Brazilian Portuguese learning for professional contexts, including workplace communication, practice, and learner goals."
 robots: noindex, follow
 ---

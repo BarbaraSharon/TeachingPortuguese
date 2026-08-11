@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Gold Coast: Presenciais e Online"
 description: "Aulas de português brasileiro em Gold Coast, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/gold-coast/gold-coast-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Gold Coast: opções online e presenciais na Gold Coast com Barbara Sharon"

@@ -3,7 +3,7 @@ translationKey: location-highland-park
 title: "Portuguese in Highland Park: In-Person & Online"
 description: "Portuguese lessons in Highland Park: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/highland-park/
 image:

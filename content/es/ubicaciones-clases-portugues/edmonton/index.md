@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Edmonton"
 description: "Clases online de portugués brasileño en Edmonton, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/edmonton/edmonton-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Edmonton | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon

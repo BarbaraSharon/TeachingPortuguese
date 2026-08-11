@@ -3,7 +3,7 @@ translationKey: privacidade
 title: "Política de privacidad de Barbara Sharon"
 description: "Lee la política de privacidad de Barbara Sharon sobre clases de portugués, análisis del sitio, contacto, enseñanza online y visitantes de la UE o el EEE."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 robots: index, follow
 toc: true
 ---

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Clear Island Waters: Presenciais e Online"
 description: "Aulas de português em Clear Island Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/clear-island-waters/clear-island-waters-online-canal-lesson.png
   alt_text: "Aulas de português brasileiro em Clear Island Waters: opções online e presenciais na Gold Coast com Barbara Sharon"

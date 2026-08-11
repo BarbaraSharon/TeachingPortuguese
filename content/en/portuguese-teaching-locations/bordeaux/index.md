@@ -3,7 +3,7 @@ translationKey: location-bordeaux
 title: "Online Brazilian Portuguese Lessons in Bordeaux"
 description: "Online Brazilian Portuguese lessons in Bordeaux, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/bordeaux/
 image:

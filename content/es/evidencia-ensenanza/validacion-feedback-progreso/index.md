@@ -2,7 +2,7 @@
 title: "Seguimiento y feedback en clases de portugués"
 url: /es/evidencia-ensenanza/validacion-feedback-progreso/
 date: 2026-08-09
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 description: "Conoce cómo las clases de portugués brasileño usan feedback, hábitos de revisión y puntos de progreso visibles para orientar el aprendizaje continuo."
 robots: noindex, follow
 ---

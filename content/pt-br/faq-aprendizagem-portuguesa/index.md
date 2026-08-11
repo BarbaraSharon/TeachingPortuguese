@@ -3,7 +3,7 @@ translationKey: faq-aprendizagem-portuguesa
 title: "Dúvidas sobre aulas de português brasileiro"
 description: "Encontre respostas claras sobre aulas de português brasileiro, métodos de estudo, pronúncia, formatos e objetivos de aprendizagem com Barbara Sharon."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/faq-learning-portuguese/faq-learning-portuguese-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

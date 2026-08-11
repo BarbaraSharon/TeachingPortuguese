@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Augsburg"
 description: "Clases online de portugués brasileño en Augsburg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/augsburg/augsburg-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Augsburgo | Clases particulares y grupales con Barbara Sharon

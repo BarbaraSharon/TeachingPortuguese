@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Clases de portugués intermedio para avanzar"
 description: "Avanza desde lo básico con clases de portugués brasileño intermedio para conversación, pronunciación, vocabulario, gramática y comunicación cotidiana."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png

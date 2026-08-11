@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Abu Dhabi"
 description: "Clases online de portugués brasileño en Abu Dhabi, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/abu-dhabi/abu-dhabi-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Abu Dabi | Clases en línea con Barbara Sharon

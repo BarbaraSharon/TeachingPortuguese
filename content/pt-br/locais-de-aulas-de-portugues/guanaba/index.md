@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Guanaba"
 description: "Aulas online de português brasileiro em Guanaba, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/guanaba/guanaba-hinterland-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Guanaba | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon

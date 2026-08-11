@@ -3,7 +3,7 @@ translationKey: portugues-para-negocios
 title: "Português para negócios: aulas práticas"
 description: "Desenvolva português brasileiro para o trabalho com linguagem prática para reuniões, apresentações e comunicação profissional internacional."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-for-business/portuguese-for-business-brazilian-portuguese-lessons.jpg
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

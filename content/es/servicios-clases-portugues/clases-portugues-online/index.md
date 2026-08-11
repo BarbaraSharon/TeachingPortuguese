@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Clases de portugués brasileño online"
 description: "Estudia portugués brasileño online desde cualquier lugar, en clases particulares o grupales para distintos niveles, negocios o viajes."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png

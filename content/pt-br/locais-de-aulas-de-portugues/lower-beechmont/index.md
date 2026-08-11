@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Lower Beechmont: Presenciais e Online"
 description: "Aulas de português em Lower Beechmont: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/lower-beechmont/lower-beechmont-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Lower Beechmont: opções online e presenciais na Gold Coast com Barbara Sharon"

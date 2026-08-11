@@ -3,7 +3,7 @@ translationKey: portugues-para-lisboa
 title: "Português para Lisboa: frases essenciais"
 description: "Prepare-se para Lisboa com frases úteis de português europeu, orientação de pronúncia e contexto cultural para situações cotidianas de viagem."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-for-lisbon-travel/portuguese-for-lisbon-travel-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro

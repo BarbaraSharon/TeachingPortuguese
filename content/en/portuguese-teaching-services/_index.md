@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Brazilian Portuguese Lessons: Course Options"
 description: "Explore Brazilian Portuguese lesson options for different goals and levels, with online formats worldwide and private or group learning on the Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: services
 aliases:
 - /portuguese-teaching-services/

@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Advanced Brazilian Portuguese Lessons"
 description: "Refine advanced Brazilian Portuguese through conversation, pronunciation, grammar, vocabulary, and cultural nuance in lessons shaped around your goals."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png

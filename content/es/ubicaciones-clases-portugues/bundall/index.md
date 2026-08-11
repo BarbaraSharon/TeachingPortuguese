@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Bundall: Presenciales y Online"
 description: "Clases de portugués brasileño en Bundall, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/bundall/bundall-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Bundall: opciones online y presenciales en Gold Coast con Barbara Sharon"

@@ -3,7 +3,7 @@ translationKey: angliport
 title: "AngliPort ahora es Aprende portugués con Barbara"
 description: "Conoce el cambio de AngliPort a Aprende portugués con Barbara Sharon, con el nuevo nombre, sitio web y continuidad de los servicios de clases."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/angliport/angliport-brazilian-portuguese-lessons.png
   alt_text: 'Angliport: aprende portugués brasileño con Barbara Sharon'

@@ -3,7 +3,7 @@ translationKey: location-clear-island-waters
 title: "Portuguese in Clear Island Waters: In-Person & Online"
 description: "Portuguese lessons in Clear Island Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 aliases:
 - /portuguese-teaching-locations/clear-island-waters/
 image:

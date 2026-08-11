@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Saskatoon"
 description: "Clases online de portugués brasileño en Saskatoon, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/saskatoon/saskatoon-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Saskatoon | Clases particulares y grupales en línea con Barbara Sharon

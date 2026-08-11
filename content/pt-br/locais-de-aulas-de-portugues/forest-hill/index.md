@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Forest Hill: Presenciais e Online"
 description: "Aulas de português brasileiro em Forest Hill, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/forest-hill/forest-hill-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Forest Hill: opções online e presenciais na Gold Coast com Barbara Sharon"

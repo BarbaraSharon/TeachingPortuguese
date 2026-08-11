@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Clases de portugués para principiantes"
 description: "Empieza portugués brasileño con conversación práctica, pronunciación, vocabulario, gramática y contexto cultural en clases particulares o grupales."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png

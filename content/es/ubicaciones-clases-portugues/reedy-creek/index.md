@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Reedy Creek"
 description: "Clases online de portugués brasileño en Reedy Creek, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-10
+lastmod: 2026-08-11
 image:
   filename: pages/portuguese-teaching-locations/reedy-creek/reedy-creek-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
