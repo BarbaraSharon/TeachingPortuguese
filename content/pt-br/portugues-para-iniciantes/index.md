@@ -88,6 +88,22 @@ sections:
     text: Fale com a Barbara sobre aulas para iniciantes
     url: /pt-br/contato-professora-portugues/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: respostas-portugues-iniciantes
+  content:
+    eyebrow: Orientação para iniciantes
+    title: Perguntas comuns antes de começar português
+    text: Descubra o que pode ser difícil, como adultos avançam e quando aulas online funcionam bem.
+    items:
+    - title: Português brasileiro é difícil para falantes de inglês?
+      text: Entenda os desafios de pronúncia, escuta e gramática sem adiar a conversação.
+      url: /pt-br/respostas/portugues-brasileiro-dificil-falantes-ingles/
+    - title: Adultos conseguem aprender português brasileiro?
+      text: Use pontos fortes adultos, metas relevantes e uma rotina sustentável.
+      url: /pt-br/respostas/adultos-aprender-portugues-brasileiro/
+    - title: Aulas online funcionam para iniciantes?
+      text: Busque fala ao vivo, sequência clara, feedback e prática entre as aulas.
+      url: /pt-br/respostas/aulas-online-portugues-iniciantes/
 - block: cta-card
   content:
     title: Pronto para começar a aprender português?

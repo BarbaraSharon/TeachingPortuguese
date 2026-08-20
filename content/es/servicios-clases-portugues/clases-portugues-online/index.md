@@ -86,6 +86,24 @@ sections:
     text: Contacta con Barbara sobre las clases en línea
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  content:
+    eyebrow: Antes de elegir
+    title: Respuestas sobre clases de portugués online
+    text: Compara el formato, la enseñanza en directo y el acceso desde Australia con criterios prácticos.
+    items:
+    - title: ¿Cómo elegir las mejores clases de portugués online?
+      text: Valora conversación en directo, correcciones, formación docente, estructura y compatibilidad práctica.
+      url: /es/respuestas/mejores-clases-portugues-online/
+    - title: ¿Dónde encontrar clases privadas de portugués en Australia?
+      text: Entiende la diferencia entre acceso online y opciones presenciales disponibles en Gold Coast.
+      url: /es/respuestas/clases-privadas-portugues-australia/
+    - title: ¿Funcionan las clases online para principiantes?
+      text: Descubre cómo se combinan interacción en directo, estructura, correcciones y práctica breve.
+      url: /es/respuestas/clases-online-portugues-principiantes/
+    - title: ¿Cuánto cuestan las clases de portugués en Australia?
+      text: Compara formato, tiempo docente, correcciones, materiales y condiciones actuales.
+      url: /es/respuestas/cuanto-cuestan-clases-portugues-australia/
 - block: cta-card
   content:
     title: ¿Listo para aprender en línea?

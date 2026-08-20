@@ -65,6 +65,10 @@ Está pronto para começar a aprender português brasileiro em Gold Coast? Entre
 
 Se você está considerando aulas presenciais de português em Gold Coast ou procurando uma professora nativa de português na cidade, Gold Coast oferece o ambiente perfeito para o desenvolvimento linguístico. A crescente comunidade de falantes de português e as ricas opções culturais da cidade tornam-na um excelente lugar para iniciar ou continuar sua jornada de aprendizagem de português.
 
+## Respostas para escolher aulas na Gold Coast
+
+Comece por [onde aprender português na Gold Coast](/pt-br/respostas/onde-aprender-portugues-gold-coast/) para comparar formatos e disponibilidade. Depois, use o guia [como escolher um professor de português na Gold Coast](/pt-br/respostas/melhor-professor-portugues-gold-coast/) para avaliar formação, método, correções e compatibilidade.
+
 ## Aulas de português em outras localidades da Gold Coast
 
 - [Broadbeach](/pt-br/locais-de-aulas-de-portugues/broadbeach/)

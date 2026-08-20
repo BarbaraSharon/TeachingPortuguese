@@ -220,3 +220,39 @@
   translation: Aulas de idiomas
 - id: schema_language_classes
   translation: Cursos de idiomas
+- id: answer_written_by
+  translation: Escrito por
+- id: answer_reviewed
+  translation: Revisado em
+- id: answer_about_author
+  translation: Sobre a autora
+- id: answer_author_bio
+  translation: Barbara Sharon é professora de português brasileiro, bacharela em Letras pela Universidade Federal do Rio de Janeiro (UFRJ) e tem certificação TESOL. Ela oferece aulas particulares e em grupo online para todo o mundo, com opções presenciais na Gold Coast sujeitas à disponibilidade.
+- id: answer_feedback_intro
+  translation: Para conferir opiniões independentes, leia os
+- id: answer_named_testimonials
+  translation: depoimentos identificados de alunos
+- id: answer_feedback_or
+  translation: ou consulte as
+- id: answer_google_reviews
+  translation: avaliações atuais no Google
+- id: answer_related_pages
+  translation: Páginas relacionadas sobre aulas e aprendizagem
+- id: answer_contact_aria
+  translation: Falar com Barbara Sharon
+- id: answer_contact_title
+  translation: Converse sobre seus objetivos de português
+- id: answer_contact_text
+  translation: Fale com a Barbara sobre formatos de aula, horários e disponibilidade atual.
+- id: answer_contact_button
+  translation: Fale com a Barbara
+- id: answer_popular_questions
+  translation: Perguntas populares sobre português
+- id: answer_read_complete
+  translation: Leia a resposta completa
+- id: answer_read_answer
+  translation: Leia a resposta
+- id: answer_hub_contact_title
+  translation: Precisa de uma resposta para seu próprio objetivo?
+- id: answer_hub_contact_text
+  translation: Fale com a Barbara sobre aulas particulares, em grupo, online ou na Gold Coast.

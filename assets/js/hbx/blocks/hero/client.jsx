@@ -10,18 +10,15 @@ import {HeroBlock} from "./component.jsx";
 function renderHeroBlocks() {
   // Find all hero block containers (using both old and new selectors for compatibility)
   const heroBlocks = document.querySelectorAll('[data-block-type="hero"], [data-hero-render="immediate"]');
-  const staticHeroTitle = document.querySelector("h1[data-static-hero-title]");
 
   heroBlocks.forEach((block) => {
     const propsData = block.dataset.props;
     if (propsData) {
       try {
         const props = JSON.parse(propsData);
-        props._hasStaticHeroTitle = !!staticHeroTitle;
 
-        // Render the Preact component into the container
+        // Replace the complete server-rendered fallback with the interactive block.
         render(<HeroBlock {...props} />, block);
-        staticHeroTitle?.setAttribute("hidden", "");
         console.debug(`✓ Hero block "${block.id}" rendered with Preact`);
       } catch (error) {
         console.error(`Failed to render Hero block "${block.id}":`, error);

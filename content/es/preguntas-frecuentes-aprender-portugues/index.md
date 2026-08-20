@@ -82,6 +82,8 @@ Tanto si buscas clases de portugués en línea, una profesora de portugués en A
 
 Descubre cómo elegir a la profesora de portugués adecuada, entender una metodología eficaz y recibir orientación experta para dominar la pronunciación, la gramática y la conversación, desde el nivel principiante hasta el avanzado.
 
+Para criterios de decisión y pasos más detallados, visita la [biblioteca de respuestas sobre portugués](/es/respuestas/). Esta página mantiene respuestas breves y la biblioteca desarrolla las guías completas.
+
 ## ¿Quién es Barbara Sharon?
 
 Barbara es una profesora de portugués con licenciatura en Lenguas y Literatura de la Universidad Federal de Río de Janeiro (UFRJ) y certificación TESOL. Ha trabajado con estudiantes de más de veinte orígenes lingüísticos. Sus clases combinan gramática, vocabulario, conversación, pronunciación y cultura, con actividades adaptadas al nivel y a los objetivos de cada estudiante.
@@ -92,17 +94,25 @@ Esta combinación de conocimientos lingüísticos, experiencia con diferentes fo
 
 Barbara ofrece distintas opciones de precios para clases particulares, clases grupales y clubes de conversación en línea. Para obtener los precios actualizados, contacta directamente con Barbara mediante la [página de contacto](/es/contacto-profesora-portugues/). Las opciones flexibles permiten elegir el formato que mejor se adapte a tus necesidades y presupuesto, ya sea enseñanza individual o aprendizaje en grupo.
 
+Lee la guía detallada sobre [cuánto cuestan las clases de portugués en Australia](/es/respuestas/cuanto-cuestan-clases-portugues-australia/).
+
 ## ¿Cuánto tiempo se tarda en aprender portugués?
 
 Depende de tu idioma de origen, tus hábitos de estudio y cuánto portugués escuchas y usas fuera de clase. Con práctica constante, muchas personas empiezan a mantener conversaciones sencillas en tres a seis meses. Llegar a un nivel conversacional cómodo suele requerir más tiempo. Las clases estructuradas, la conversación frecuente, la escucha activa y la revisión regular suelen acelerar el progreso.
+
+Consulta [¿Cuánto se tarda en aprender portugués brasileño?](/es/respuestas/cuanto-se-tarda-aprender-portugues-brasileno/) para comparar factores y objetivos medibles.
 
 ## ¿Es mejor empezar por la conversación o por la gramática?
 
 La comunicación es lo primero. Muchas personas desarrollan fluidez mediante patrones y uso real; sin embargo, la gramática no debe pasarse por alto. Cuando se enseña bien, puede ser atractiva y dinámica, y cumple un papel importante para desarrollar confianza. Una base gramatical sólida ayuda a comunicarse con mayor precisión y a desenvolverse adecuadamente en contextos formales e informales. El enfoque de Barbara equilibra la comunicación práctica con los fundamentos gramaticales esenciales, para que aprendas patrones que puedas usar en lugar de memorizar reglas aisladas.
 
+Lee [¿Necesito gramática para hablar portugués?](/es/respuestas/necesito-gramatica-hablar-portugues/) para seguir una secuencia práctica.
+
 ## ¿Es difícil aprender portugués?
 
 Para hablantes de lenguas de raíz latina o con rasgos gramaticales similares -género, plurales y conjugaciones- el portugués puede resultar más familiar. Sin embargo, nadie debería limitar sus expectativas por su origen lingüístico. Barbara ha enseñado a estudiantes de más de veinte orígenes lingüísticos diferentes y todos han logrado desarrollar la capacidad de comunicarse en portugués. La cuestión no es si el idioma es fácil o difícil, sino por qué quieres aprenderlo: la motivación sostiene el progreso y el portugués es un idioma gratificante. Lee también [Cómo aprender portugués](/es/como-aprender-portugues/).
+
+Quienes hablan inglés pueden revisar retos concretos en [¿Es difícil el portugués brasileño para anglohablantes?](/es/respuestas/es-dificil-portugues-brasileno-anglohablantes/).
 
 ## ¿Portugués brasileño o portugués europeo?
 
@@ -112,6 +122,8 @@ Ambas variedades comparten la misma base, pero difieren en pronunciación, vocab
 
 Son lenguas romances relacionadas y comparten mucho vocabulario escrito. Sin embargo, la pronunciación y la comprensión oral pueden ser bastante diferentes. Los hispanohablantes suelen reconocer palabras al leer, pero necesitan practicar la escucha para distinguir sonidos, ritmo y entonación del portugués brasileño.
 
+Lee la comparación completa en [¿Cuánto se parecen el portugués y el español?](/es/respuestas/similitud-portugues-espanol/).
+
 ## ¿Tengo que pronunciar la R como en Portugal?
 
 No. El portugués brasileño utiliza varios sonidos de la R y su realización cambia según la región y la posición dentro de la palabra. Lo más importante es desarrollar un ritmo natural y una pronunciación clara, no imitar una única variedad.
@@ -119,6 +131,8 @@ No. El portugués brasileño utiliza varios sonidos de la R y su realización ca
 ## ¿Cuánto debería estudiar cada día?
 
 La constancia es más importante que las sesiones muy largas. Unos treinta minutos diarios pueden producir avances sostenidos. Puedes combinar una clase con escucha, lectura en voz alta, revisión de vocabulario y unos minutos de conversación. Es mejor practicar un poco con frecuencia que estudiar mucho una sola vez y abandonar después.
+
+Utiliza [¿Con qué frecuencia debo tomar clases de portugués?](/es/respuestas/frecuencia-clases-portugues/) para diseñar un ritmo sostenible.
 
 ## ¿Por qué los hablantes nativos parecen hablar tan rápido?
 
@@ -136,9 +150,13 @@ Una profesora con dominio nativo o casi nativo puede ayudarte con pronunciación
 
 Comprender y producir un idioma son habilidades diferentes. Escuchar o estudiar no sustituye la práctica activa. Las clases de Barbara crean oportunidades progresivas para responder, describir, preguntar y mantener conversaciones en un entorno seguro, con correcciones claras y útiles.
 
+Lee [¿Por qué entiendo portugués pero no puedo hablarlo?](/es/respuestas/entender-portugues-no-hablarlo/) para practicar el recuerdo activo.
+
 ## ¿Puedo aprender portugués siendo adulto?
 
 Sí. La edad no impide aprender; la regularidad y la motivación son más importantes. Los adultos suelen aportar experiencia, objetivos claros y estrategias de estudio. Barbara trabaja con estudiantes de distintas edades y adapta el ritmo, la temática y la cantidad de práctica a cada persona.
+
+Lee [¿Pueden los adultos aprender portugués brasileño?](/es/respuestas/adultos-aprender-portugues-brasileno/) para una rutina pensada para la vida adulta.
 
 ## ¿Es mejor aprender solo o con una profesora?
 
@@ -187,6 +205,8 @@ Con frecuencia, sí, porque español y portugués comparten raíces latinas, est
 ## ¿La pronunciación es más importante que la gramática?
 
 Al principio, la pronunciación ayuda a que te entiendan y genera confianza. Ambas son importantes: más adelante se equilibra con la precisión gramatical necesaria para expresiones complejas. El enfoque de Barbara trabaja las dos según el nivel.
+
+Sigue la práctica de [¿Cómo mejorar mi pronunciación en portugués brasileño?](/es/respuestas/mejorar-pronunciacion-portugues-brasileno/).
 
 ## ¿Cuánto falta para poder mantener una conversación?
 

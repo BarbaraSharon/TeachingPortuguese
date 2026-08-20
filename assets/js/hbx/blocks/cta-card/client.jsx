@@ -9,7 +9,9 @@ function renderCtaCardBlock() {
       if (block.dataset.rendered === "true") return;
 
       const props = JSON.parse(block.dataset.props);
+      const serverFallback = block.querySelector("[data-server-rendered-fallback]");
       render(<CtaCardBlock {...props} />, block);
+      serverFallback?.remove();
       block.dataset.rendered = "true";
     } catch (e) {
       console.error("Error rendering CTA Card Block:", e, block);

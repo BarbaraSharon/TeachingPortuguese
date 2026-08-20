@@ -99,3 +99,9 @@ Diga adeus às barreiras linguísticas e olá a uma fluência maior. Fale com Ba
 ## "Aprender é viver!"
 
 Não deixe a hesitação segurar você. O Clube de Conversação em Português é a sua porta de entrada para uma conversação real e confiante. Pratique com outros alunos e leve sua fluência em português ao próximo nível.
+
+## Prepare conversas para uma viagem
+
+O guia [como aprender português para viagens e conversação](/pt-br/respostas/aprender-portugues-viagens-conversacao/) explica como praticar diálogos prováveis, respostas, pronúncia e contexto cultural antes de viajar ou participar de uma sessão de conversação.
+
+Se você entende português, mas hesita ao responder, leia [Por que entendo português, mas não consigo falar?](/pt-br/respostas/entender-portugues-nao-falar/) para praticar lembrança ativa e estruturas reutilizáveis.

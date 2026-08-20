@@ -63,6 +63,10 @@ Barbara Sharon es una profesora reconocida de portugués presencial en Gold Coas
 
 Si estás pensando en clases presenciales de portugués en Gold Coast o buscas una profesora nativa de portugués, Gold Coast ofrece un entorno excelente para desarrollar el idioma. La creciente comunidad de hablantes de portugués y la riqueza de propuestas culturales de la ciudad hacen de este un lugar ideal para empezar o continuar tu aprendizaje.
 
+## Respuestas para elegir clases en Gold Coast
+
+Empieza por [dónde aprender portugués en Gold Coast](/es/respuestas/donde-aprender-portugues-gold-coast/) para comparar formatos y disponibilidad. Después, usa la guía [cómo elegir un profesor de portugués en Gold Coast](/es/respuestas/mejor-profesor-portugues-gold-coast/) para valorar formación, método, correcciones y compatibilidad.
+
 ## Clases de portugués en otras zonas de Gold Coast
 
 - [Broadbeach](/es/ubicaciones-clases-portugues/broadbeach/)

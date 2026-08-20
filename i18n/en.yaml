@@ -220,3 +220,39 @@
   translation: Language lessons
 - id: schema_language_classes
   translation: Language classes
+- id: answer_written_by
+  translation: Written by
+- id: answer_reviewed
+  translation: Reviewed
+- id: answer_about_author
+  translation: About the author
+- id: answer_author_bio
+  translation: Barbara Sharon is a Brazilian Portuguese teacher with a Bachelor's degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ) and TESOL certification. She teaches private and group lessons online worldwide, with in-person options on the Gold Coast subject to availability.
+- id: answer_feedback_intro
+  translation: For independent feedback, read the
+- id: answer_named_testimonials
+  translation: named student testimonials
+- id: answer_feedback_or
+  translation: or check the
+- id: answer_google_reviews
+  translation: current Google reviews
+- id: answer_related_pages
+  translation: Related lesson and learning pages
+- id: answer_contact_aria
+  translation: Contact Barbara Sharon
+- id: answer_contact_title
+  translation: Discuss your Portuguese learning goals
+- id: answer_contact_text
+  translation: Contact Barbara to ask about lesson formats, scheduling and current availability.
+- id: answer_contact_button
+  translation: Contact Barbara
+- id: answer_popular_questions
+  translation: Popular Portuguese questions
+- id: answer_read_complete
+  translation: Read the complete answer
+- id: answer_read_answer
+  translation: Read the answer
+- id: answer_hub_contact_title
+  translation: Need an answer for your own learning goal?
+- id: answer_hub_contact_text
+  translation: Contact Barbara to discuss private, group, online or Gold Coast lesson options.

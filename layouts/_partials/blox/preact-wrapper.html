@@ -1,0 +1,185 @@
+{{/* Hugo Blox Preact wrapper with a semantic, crawler-visible fallback. */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $block_type := .wcBlockType }}
+{{ $block_id := .wcIdentifier | default (printf "%s-%d" $block_type (now.Unix)) }}
+
+{{ $props := dict
+  "content" $block.content
+  "design" $block.design
+  "id" $block_id
+  "type" $block_type
+}}
+
+{{ with $block.content.primary_action.icon }}
+  {{ $icon_data := partial "functions/get_icon_data" (dict "name" .) }}
+  {{ if $icon_data }}{{ $props = merge $props (dict "icon_svg" $icon_data) }}{{ end }}
+{{ end }}
+{{ with $block.content.secondary_action.icon }}
+  {{ $icon_data := partial "functions/get_icon_data" (dict "name" .) }}
+  {{ if $icon_data }}{{ $props = merge $props (dict "secondary_icon_svg" $icon_data) }}{{ end }}
+{{ end }}
+
+{{ with $block.content.media }}
+  {{ if or (not .type) (eq .type "image") }}
+    {{ with .src }}
+      {{ $img_data := partial "functions/process_image_for_props" (dict "path" . "Page" $page) }}
+      {{ with $img_data.src }}{{ $props = merge $props (dict "media_image" $img_data) }}{{ end }}
+    {{ end }}
+    {{ with .dark_src }}
+      {{ $img_data := partial "functions/process_image_for_props" (dict "path" . "Page" $page) }}
+      {{ with $img_data.src }}{{ $props = merge $props (dict "media_image_dark" $img_data) }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with $block.content.button.icon }}
+  {{ $icon_data := partial "functions/get_icon_data" (dict "name" .) }}
+  {{ if $icon_data }}{{ $props = merge $props (dict "button_icon_svg" $icon_data) }}{{ end }}
+{{ end }}
+
+{{ $icon_svgs := dict }}
+{{ with $block.content.items }}
+  {{ range . }}
+    {{ with .icon }}
+      {{ if not (index $icon_svgs .) }}
+        {{ $icon_data := partial "functions/get_icon_data" (dict "name" .) }}
+        {{ if $icon_data }}{{ $icon_svgs = merge $icon_svgs (dict . $icon_data) }}{{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ with $block.content.steps }}
+  {{ range . }}
+    {{ with .icon }}
+      {{ if not (index $icon_svgs .) }}
+        {{ $icon_data := partial "functions/get_icon_data" (dict "name" .) }}
+        {{ if $icon_data }}{{ $icon_svgs = merge $icon_svgs (dict . $icon_data) }}{{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if gt (len $icon_svgs) 0 }}{{ $props = merge $props (dict "icon_svgs" $icon_svgs) }}{{ end }}
+
+{{ $item_images := dict }}
+{{ with $block.content.items }}
+  {{ range $idx, $item := . }}
+    {{ with .image }}
+      {{ $image_path := strings.TrimSpace (printf "%v" .) }}
+      {{ $is_remote := or (strings.HasPrefix $image_path "http://") (strings.HasPrefix $image_path "https://") }}
+      {{ $image_resource := false }}
+      {{ $fallback_url := "" }}
+      {{ if $is_remote }}
+        {{ $remote := try (resources.GetRemote $image_path) }}
+        {{ if and $remote (not $remote.Err) }}{{ $image_resource = $remote.Value }}{{ else }}{{ $fallback_url = $image_path }}{{ end }}
+      {{ else }}
+        {{ $normalized := strings.TrimPrefix "/" $image_path }}
+        {{ $normalized = strings.TrimPrefix "./" $normalized }}
+        {{ $normalized = strings.TrimPrefix "assets/" $normalized }}
+        {{ $normalized = strings.TrimPrefix "media/" $normalized }}
+        {{ $normalized = path.Clean $normalized }}
+        {{ if and $normalized (ne $normalized ".") }}
+          {{ with $page }}{{ $image_resource = (.Resources.ByType "image").GetMatch $normalized }}{{ end }}
+          {{ if not $image_resource }}{{ $image_resource = resources.Get (path.Join "media" $normalized) }}{{ end }}
+          {{ if not $image_resource }}{{ $fallback_url = printf "/media/%s" $normalized }}{{ end }}
+        {{ end }}
+      {{ end }}
+      {{ $img_data := dict }}
+      {{ if $image_resource }}
+        {{ $canProcess := and (reflect.IsImageResourceProcessable $image_resource) (ne $image_resource.MediaType.SubType "gif") }}
+        {{ if not $canProcess }}
+          {{ $img_data = dict "src" $image_resource.RelPermalink }}
+        {{ else if eq $block_type "cta-image-paragraph" }}
+          {{ $responsive := partial "functions/process_responsive_image.html" (dict "image" $image_resource "mode" "fit" "sizes" (slice 400 600 800 1200)) }}
+          {{ $img_data = dict "srcset" $responsive.srcset "src" $responsive.fallback.RelPermalink "width" $responsive.fallback.Width "height" $responsive.fallback.Height }}
+        {{ else }}
+          {{ $processed := $image_resource.Process "Fill 96x96 Center webp" }}
+          {{ $img_data = dict "src" $processed.RelPermalink }}
+        {{ end }}
+      {{ else if $fallback_url }}
+        {{ $img_data = dict "src" $fallback_url }}
+      {{ end }}
+      {{ if $img_data }}{{ $item_images = merge $item_images (dict (printf "%d" $idx) $img_data) }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ if gt (len $item_images) 0 }}{{ $props = merge $props (dict "item_images" $item_images) }}{{ end }}
+
+{{ if eq $block_type "gallery" }}
+  {{ $gallery := partial "functions/resolve_gallery_items.html" (dict "content" $block.content "Page" $page) }}
+  {{ if $gallery.items }}{{ $props = merge $props (dict "items" $gallery.items) }}{{ end }}
+{{ end }}
+
+{{ $propsJSON := $props | jsonify }}
+{{ $content := $block.content }}
+<div
+  class="{{ $block_type }}-block-container preact-block"
+  data-block-type="{{ $block_type }}"
+  data-props='{{ $propsJSON | safeHTML }}'
+  data-preact-render="true">
+  <div class="server-rendered-block mx-auto max-w-7xl px-6 py-16 lg:px-8" data-server-rendered-fallback>
+    {{ if eq $block_type "hero" }}
+      <div class="grid items-center gap-10 lg:grid-cols-2">
+        <div>
+          {{ with $content.eyebrow }}<p class="mb-3 font-semibold text-primary-600 dark:text-primary-300">{{ . | markdownify }}</p>{{ end }}
+          <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">{{ $content.title | markdownify }}</h1>
+          {{ with $content.text }}<div class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+          <div class="mt-8 flex flex-wrap gap-4">
+            {{ with $content.primary_action }}<a class="rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white" href="{{ .url }}">{{ .text }}</a>{{ end }}
+            {{ with $content.secondary_action }}<a class="rounded-lg border border-gray-300 px-5 py-3 font-semibold text-gray-900 dark:text-white" href="{{ .url }}">{{ .text }}</a>{{ end }}
+          </div>
+          {{ with $content.trust.text }}<div class="mt-6 text-sm text-gray-600 dark:text-gray-300">{{ . | safeHTML }}</div>{{ end }}
+        </div>
+        {{ with $props.media_image }}
+          <img class="mx-auto h-auto max-h-[36rem] w-full rounded-2xl object-cover" src="{{ .src }}" width="{{ .width }}" height="{{ .height }}" alt="{{ $content.media.alt | default $content.title }}">
+        {{ end }}
+      </div>
+    {{ else if eq $block_type "features" }}
+      {{ with $content.subtitle }}<p class="text-center font-semibold text-primary-600 dark:text-primary-300">{{ . }}</p>{{ end }}
+      {{ with $content.title }}<h2 class="mt-2 text-center text-3xl font-bold tracking-tight text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+      {{ with $content.text }}<div class="mx-auto mt-4 max-w-3xl text-center text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+      <ul class="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {{ range $content.items }}
+          <li class="rounded-xl border border-gray-200 p-6 dark:border-gray-700">
+            {{ with .url }}<a class="font-semibold text-primary-700 dark:text-primary-300" href="{{ . }}">{{ end }}
+            <h3 class="text-xl font-semibold text-gray-900 dark:text-white">{{ .name | default .title }}</h3>
+            {{ with .url }}</a>{{ end }}
+            {{ with .description | default .text }}<div class="mt-2 text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+          </li>
+        {{ end }}
+      </ul>
+    {{ else if eq $block_type "stats" }}
+      {{ with $content.title }}<h2 class="text-center text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+      <dl class="grid gap-8 text-center sm:grid-cols-3">
+        {{ range $content.items }}<div><dt class="text-lg text-gray-600 dark:text-gray-300">{{ .description }}</dt><dd class="mt-2 text-3xl font-bold text-gray-900 dark:text-white">{{ .statistic }}</dd></div>{{ end }}
+      </dl>
+    {{ else if eq $block_type "steps" }}
+      {{ with $content.title }}<h2 class="text-center text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+      {{ with $content.text }}<div class="mx-auto mt-4 max-w-3xl text-center text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+      {{ $steps := $content.items | default $content.steps }}
+      <ol class="mt-10 grid gap-6 md:grid-cols-3">
+        {{ range $index, $item := $steps }}<li class="rounded-xl border border-gray-200 p-6 dark:border-gray-700"><p class="text-sm font-semibold text-primary-600">Step {{ add $index 1 }}</p><h3 class="mt-2 text-xl font-semibold text-gray-900 dark:text-white">{{ $item.title }}</h3>{{ with $item.text }}<div class="mt-2 text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}</li>{{ end }}
+      </ol>
+    {{ else if eq $block_type "testimonials" }}
+      {{ with $content.title }}<h2 class="text-center text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+      <ul class="mt-10 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+        {{ range $content.items }}<li class="rounded-xl border border-gray-200 p-6 dark:border-gray-700"><blockquote class="text-gray-700 dark:text-gray-200">“{{ .text }}”</blockquote><p class="mt-4 font-semibold text-gray-900 dark:text-white">{{ .name }}</p></li>{{ end }}
+      </ul>
+    {{ else if eq $block_type "faq" }}
+      {{ with $content.title }}<h2 class="text-center text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+      {{ with $content.text }}<div class="mx-auto mt-4 max-w-3xl text-center text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+      <div class="mx-auto mt-10 max-w-3xl divide-y divide-gray-200 dark:divide-gray-700">
+        {{ range $content.items }}<details class="py-4"><summary class="cursor-pointer font-semibold text-gray-900 dark:text-white">{{ .question }}</summary><div class="mt-3 text-gray-600 dark:text-gray-300">{{ .answer | markdownify }}</div></details>{{ end }}
+      </div>
+    {{ else if eq $block_type "cta-card" }}
+      <div class="rounded-2xl bg-primary-50 p-8 text-center dark:bg-primary-950/40">
+        {{ with $content.title }}<h2 class="text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+        {{ with $content.text }}<div class="mx-auto mt-4 max-w-2xl text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+        {{ with $content.button }}<a class="mt-6 inline-block rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white" href="{{ .url }}">{{ .text }}</a>{{ end }}
+      </div>
+    {{ else }}
+      {{ with $content.title }}<h2 class="text-center text-3xl font-bold text-gray-900 dark:text-white">{{ . | markdownify }}</h2>{{ end }}
+      {{ with $content.text }}<div class="mx-auto mt-4 max-w-3xl text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
+    {{ end }}
+  </div>
+</div>

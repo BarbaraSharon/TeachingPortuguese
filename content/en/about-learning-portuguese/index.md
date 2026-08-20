@@ -31,3 +31,7 @@ My courses are designed to meet the needs of learners at all levels, from beginn
 As a dedicated Portuguese tutor on the Gold Coast, I provide personalised intensive Portuguese lessons tailored to each learner's goals. My approach emphasizes practical communication skills and cultural awareness, making learning engaging and relevant to your needs. Whether you're preparing for travel, work, or personal enrichment, each lesson supports your unique learning journey.
 
 Explore more about how I support intensive online Portuguese lessons, private Portuguese classes, and Portuguese language courses for learners across the Gold Coast, Queensland, and beyond.
+
+## How to compare Portuguese tutors
+
+Use the qualifications, teaching-fit, feedback and learner-evidence framework in [How to choose the best Portuguese tutor on the Gold Coast](/en/answers/best-portuguese-tutor-gold-coast/).

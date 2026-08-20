@@ -8,6 +8,10 @@ name:
 role: Brazilian Portuguese Teacher
 bio: Qualified Brazilian Portuguese teacher offering private and group lessons online
   worldwide and in-person on the Gold Coast.
+credentials:
+- Bachelor's degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ)
+- TESOL-certified instructor
+review_url: https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL4uWcnEFkWsRxm_76WOGQ3s
 links:
 - icon: at-symbol
   url: mailto:info@barbarasharon.com.au

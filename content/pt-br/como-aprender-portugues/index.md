@@ -133,6 +133,18 @@ Se você tem interesse em aulas de português online, em uma professora de portu
 
 [Agende hoje sua aula experimental gratuita](/pt-br/contato-professora-portugues/)
 
+## Resposta prática: escolha um método que você consiga manter
+
+O guia [Qual é a melhor forma de aprender português brasileiro?](/pt-br/respostas/melhor-forma-aprender-portugues-brasileiro/) resume um ciclo equilibrado de conversação, escuta, pronúncia, correções e revisão. Use-o para comparar métodos e transformar um objetivo amplo em uma rotina concreta.
+
+## Mais respostas diretas sobre aprendizagem
+
+- [Quanto tempo leva para aprender português brasileiro?](/pt-br/respostas/quanto-tempo-aprender-portugues-brasileiro/)
+- [Com que frequência devo fazer aulas de português?](/pt-br/respostas/frequencia-aulas-portugues/)
+- [Preciso de gramática para falar português?](/pt-br/respostas/preciso-gramatica-falar-portugues/)
+- [Como melhorar a pronúncia do português brasileiro?](/pt-br/respostas/melhorar-pronuncia-portugues-brasileiro/)
+- [Por que entendo português, mas não consigo falar?](/pt-br/respostas/entender-portugues-nao-falar/)
+
 ## Nossos serviços de aprendizagem de português
 
 ### Aulas de português online

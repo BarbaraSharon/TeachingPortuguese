@@ -122,6 +122,10 @@ Puedo explicarte las diferencias y ayudarte a orientarte hacia la variedad que m
 
 Si quieres orientación personalizada según tu situación, contacta con Barbara. Estará encantada de hablar de tus objetivos y de ayudarte a decidir si el portugués brasileño se ajusta a tus necesidades o si otro enfoque te conviene más.
 
+## Comparación entre portugués y español
+
+El portugués y el español son lenguas distintas además de parientes cercanas. Lee [¿Cuánto se parecen el portugués y el español?](/es/respuestas/similitud-portugues-espanol/) para conocer vocabulario compartido, pronunciación, escucha y transferencia lingüística.
+
 ## Preguntas frecuentes
 
 ### ¿Aprender portugués brasileño me impedirá entender el portugués europeo?

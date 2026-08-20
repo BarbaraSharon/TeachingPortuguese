@@ -1,0 +1,28 @@
+{{ define "main" }}
+<main class="mx-auto max-w-6xl px-6 py-12 lg:px-8 lg:py-20" data-pagefind-body>
+  {{ if .Params.show_breadcrumb }}<div class="mb-8">{{ partial "components/breadcrumb.html" . }}</div>{{ end }}
+  <header class="mx-auto max-w-3xl text-center">
+    <h1 class="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100 sm:text-5xl" data-pagefind-meta="title">{{ .Title }}</h1>
+    <div class="prose prose-slate mx-auto mt-6 dark:prose-invert">{{ .Content }}</div>
+  </header>
+
+  <section class="mt-12" aria-labelledby="popular-portuguese-questions">
+    <h2 id="popular-portuguese-questions" class="text-3xl font-bold text-slate-900 dark:text-slate-100">{{ i18n "answer_popular_questions" }}</h2>
+    <div class="mt-8 grid gap-6 md:grid-cols-2">
+      {{ range .RegularPages.ByWeight }}
+        <article class="rounded-2xl border border-slate-200 p-6 dark:border-slate-700">
+          <h3 class="text-xl font-bold text-slate-900 dark:text-slate-100"><a class="hover:text-primary-700 dark:hover:text-primary-300" href="{{ .RelPermalink }}">{{ .Params.question | default .Title }}</a></h3>
+          <p class="mt-3 text-slate-700 dark:text-slate-200">{{ .Params.direct_answer }}</p>
+          <a class="mt-4 inline-block font-semibold text-primary-700 dark:text-primary-300" href="{{ .RelPermalink }}">{{ i18n "answer_read_complete" }} →</a>
+        </article>
+      {{ end }}
+    </div>
+  </section>
+
+  <aside class="mt-12 rounded-2xl bg-primary-50 p-8 text-center dark:bg-primary-950/40">
+    <h2 class="text-2xl font-bold text-slate-900 dark:text-slate-100">{{ i18n "answer_hub_contact_title" }}</h2>
+    <p class="mt-3 text-slate-700 dark:text-slate-200">{{ i18n "answer_hub_contact_text" }}</p>
+    <a class="mt-6 inline-block rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white" href="{{ site.Params.hugoblox.header.cta.url }}">{{ i18n "answer_contact_button" }}</a>
+  </aside>
+</main>
+{{ end }}

@@ -144,6 +144,31 @@ sections:
     - name: Zoe Lec, França
       image: testimonial-zoe.jpg
       text: Minha primeira experiência aprendendo português foi com a Barbara. Graças à energia e ao sorriso contagiante dela, as aulas foram agradáveis, o que tornou o aprendizado incrivelmente fácil. Eu estava realmente feliz. Sua metodologia de ensino se mostrou muito eficiente e agora falo português muito bem.
+- block: answer-links
+  id: perguntas-populares-portugues
+  content:
+    eyebrow: Orientação prática
+    title: Perguntas populares sobre português
+    text: Comece com uma resposta concisa e depois compare formatos de aula e métodos de aprendizagem em detalhes.
+    items:
+    - title: Onde posso aprender português na Gold Coast?
+      text: Compare aulas particulares, em grupo, online e opções presenciais disponíveis.
+      url: /pt-br/respostas/onde-aprender-portugues-gold-coast/
+    - title: Como escolher um professor de português na Gold Coast?
+      text: Avalie formação, compatibilidade de ensino, formato e depoimentos identificáveis.
+      url: /pt-br/respostas/melhor-professor-portugues-gold-coast/
+    - title: Qual é a melhor forma de aprender português brasileiro?
+      text: Combine conversação, escuta, pronúncia, feedback e revisão frequentes.
+      url: /pt-br/respostas/melhor-forma-aprender-portugues-brasileiro/
+    - title: Onde encontrar aulas particulares de português na Austrália?
+      text: Compare o acesso online ao vivo com as opções disponíveis na Gold Coast.
+      url: /pt-br/respostas/aulas-particulares-portugues-australia/
+    - title: Como escolher aulas de português brasileiro online?
+      text: Procure conversação ao vivo, correções específicas, formação e um formato viável.
+      url: /pt-br/respostas/melhores-aulas-portugues-online/
+    - title: Como aprender português para viagens e conversação?
+      text: Pratique situações prováveis, respostas realistas, pronúncia e contexto cultural.
+      url: /pt-br/respostas/aprender-portugues-viagens-conversacao/
 - block: cta-card
   content:
     title: Pronto para aprender português?

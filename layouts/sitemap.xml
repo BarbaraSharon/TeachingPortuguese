@@ -13,10 +13,11 @@
   {{- if and (not .Params.sitemap.disable) (not (hasPrefix $robots "noindex")) (not (strings.Contains .RelPermalink "/page/")) }}
   {{- $lastmod := .Date }}
   {{- if not .Lastmod.IsZero }}{{- $lastmod = .Lastmod }}{{ end }}
-  {{- if $lastmod.IsZero }}{{- $lastmod = now.UTC }}{{ end }}
   <url>
     <loc>{{ .Permalink }}</loc>
+    {{- if not $lastmod.IsZero }}
     <lastmod>{{ safeHTML ( $lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- end }}
     {{- with .Sitemap.ChangeFreq }}<changefreq>{{ . }}</changefreq>{{ end }}
     {{- if ge .Sitemap.Priority 0.0 }}<priority>{{ .Sitemap.Priority }}</priority>{{ end }}
     {{- if .IsTranslated -}}
@@ -35,7 +36,6 @@
       {{- $video_publication_date := time.AsTime .Params.video_publication_date }}
       {{- if $video_publication_date.IsZero }}{{- $video_publication_date = .Date }}{{ end }}
       {{- if and $video_publication_date.IsZero (not .Lastmod.IsZero) }}{{- $video_publication_date = .Lastmod }}{{ end }}
-      {{- if $video_publication_date.IsZero }}{{- $video_publication_date = now.UTC }}{{ end }}
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/k1hjuwqYAP0/hqdefault.jpg</video:thumbnail_loc>
       <video:title>Portuguese Beginner 1</video:title>
@@ -43,7 +43,7 @@
       <video:content_loc>https://www.youtube.com/watch?v=k1hjuwqYAP0</video:content_loc>
       <video:player_loc allow_embed="yes" autoplay="ap=1">https://www.youtube.com/embed/k1hjuwqYAP0</video:player_loc>
       <video:duration>600</video:duration>
-      <video:publication_date>{{ safeHTML ( $video_publication_date.Format "2006-01-02T15:04:05-07:00" ) }}</video:publication_date>
+      {{- if not $video_publication_date.IsZero }}<video:publication_date>{{ safeHTML ( $video_publication_date.Format "2006-01-02T15:04:05-07:00" ) }}</video:publication_date>{{ end }}
       <video:uploader>Barbara Sharon Portuguese Tutoring &amp; Language Courses</video:uploader>
     </video:video>
     {{- end }}

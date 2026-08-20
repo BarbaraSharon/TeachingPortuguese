@@ -93,6 +93,22 @@ sections:
     text: Contact Barbara about private lessons
     url: /en/contact-portuguese-teacher/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: gold-coast-tutoring-answers
+  content:
+    eyebrow: Related guidance
+    title: Questions about Gold Coast Portuguese lessons
+    text: Check lesson options and use an honest framework to compare tutors.
+    items:
+    - title: Where to learn Portuguese on the Gold Coast
+      text: Compare private, group, online and currently available in-person formats.
+      url: /en/answers/where-to-learn-portuguese-gold-coast/
+    - title: How to choose a Portuguese tutor on the Gold Coast
+      text: Compare qualifications, teaching fit, feedback, evidence and practical availability.
+      url: /en/answers/best-portuguese-tutor-gold-coast/
+    - title: Where to find private Portuguese lessons in Australia
+      text: Understand online access across Australia and the local Gold Coast option.
+      url: /en/answers/private-portuguese-lessons-australia/
 - block: cta-card
   content:
     title: Want a lesson plan made for you?

@@ -142,6 +142,31 @@ sections:
     - name: Zoe Lec, Francia
       image: testimonial-zoe.jpg
       text: Mi primera experiencia aprendiendo portugués fue con Barbara. Gracias a su energía y a su sonrisa contagiosa, las clases fueron agradables y aprender el idioma resultó increíblemente fácil. Me sentía realmente feliz. Su metodología de enseñanza demostró ser muy eficaz y ahora hablo portugués muy bien.
+- block: answer-links
+  id: preguntas-populares-portugues
+  content:
+    eyebrow: Orientación práctica
+    title: Preguntas populares sobre portugués
+    text: Empieza con una respuesta concisa y después compara formatos de clase y métodos de aprendizaje en detalle.
+    items:
+    - title: ¿Dónde puedo aprender portugués en Gold Coast?
+      text: Compara clases particulares, grupales, online y opciones presenciales disponibles.
+      url: /es/respuestas/donde-aprender-portugues-gold-coast/
+    - title: ¿Cómo elijo un profesor de portugués en Gold Coast?
+      text: Valora formación, compatibilidad docente, formato y opiniones identificables.
+      url: /es/respuestas/mejor-profesor-portugues-gold-coast/
+    - title: ¿Cuál es la mejor forma de aprender portugués brasileño?
+      text: Combina conversación, escucha, pronunciación, comentarios y repaso frecuentes.
+      url: /es/respuestas/mejor-forma-aprender-portugues-brasileno/
+    - title: ¿Dónde encuentro clases privadas de portugués en Australia?
+      text: Compara el acceso online en directo con las opciones disponibles en Gold Coast.
+      url: /es/respuestas/clases-privadas-portugues-australia/
+    - title: ¿Cómo elijo clases de portugués brasileño online?
+      text: Busca conversación en directo, correcciones concretas, formación y un formato viable.
+      url: /es/respuestas/mejores-clases-portugues-online/
+    - title: ¿Cómo aprendo portugués para viajes y conversación?
+      text: Practica situaciones probables, respuestas realistas, pronunciación y contexto cultural.
+      url: /es/respuestas/aprender-portugues-viajes-conversacion/
 - block: cta-card
   content:
     title: ¿Listo para aprender portugués?

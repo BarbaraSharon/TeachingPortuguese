@@ -176,6 +176,22 @@ sections:
       text: Fale com a Barbara sobre as aulas
       url: /pt-br/contato-professora-portugues/
       icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: respostas-escolha-aulas
+  content:
+    eyebrow: Compare suas opções
+    title: Perguntas práticas antes de escolher aulas
+    text: Entenda preços, formatos particulares e em grupo e a importância de uma rotina sustentável.
+    items:
+    - title: Quanto custam as aulas de português na Austrália?
+      text: Compare tudo o que uma proposta inclui, não apenas o valor por hora.
+      url: /pt-br/respostas/quanto-custam-aulas-portugues-australia/
+    - title: Devo escolher aulas particulares ou em grupo?
+      text: Compare feedback, ritmo, interlocutores, horários e prática social.
+      url: /pt-br/respostas/aulas-particulares-ou-em-grupo/
+    - title: Com que frequência devo fazer aulas?
+      text: Escolha um ritmo de aulas e prática que consiga manter com regularidade.
+      url: /pt-br/respostas/frequencia-aulas-portugues/
 - block: cta-card
   content:
     title: Pronto para encontrar sua aula de português?

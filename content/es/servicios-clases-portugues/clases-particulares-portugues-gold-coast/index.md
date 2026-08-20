@@ -91,6 +91,21 @@ sections:
     text: Contacta con Barbara sobre las clases particulares
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  content:
+    eyebrow: Antes de elegir
+    title: Respuestas sobre clases particulares en Gold Coast
+    text: Compara opciones locales, criterios para elegir profesor y acceso a clases privadas en Australia.
+    items:
+    - title: ¿Dónde aprender portugués en Gold Coast?
+      text: Compara clases particulares, grupales, online y opciones presenciales disponibles.
+      url: /es/respuestas/donde-aprender-portugues-gold-coast/
+    - title: ¿Cómo elegir al mejor profesor para ti?
+      text: Usa formación, método, comentarios, formato y opiniones identificables para valorar la compatibilidad.
+      url: /es/respuestas/mejor-profesor-portugues-gold-coast/
+    - title: ¿Dónde buscar clases privadas en Australia?
+      text: Compara el acceso online en directo con las opciones presenciales de Gold Coast.
+      url: /es/respuestas/clases-privadas-portugues-australia/
 - block: cta-card
   content:
     title: ¿Quieres un plan de clase hecho para ti?

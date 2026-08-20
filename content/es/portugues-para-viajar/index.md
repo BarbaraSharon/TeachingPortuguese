@@ -176,3 +176,7 @@ No dejes que las barreras lingüísticas limiten tus experiencias de viaje. Con 
 ## Empieza antes de tu viaje
 
 No dejes que la barrera del idioma limite tu experiencia. [Contacta con Barbara](/es/contacto-profesora-portugues/) para organizar una clase de prueba y preparar el portugués que necesitas para tu viaje.
+
+## Una respuesta rápida para viajes y conversación
+
+Consulta [cómo aprender portugués para viajes y conversación](/es/respuestas/aprender-portugues-viajes-conversacion/) para organizar la práctica por situaciones, entrenar ambos lados del diálogo y elegir la variedad de portugués adecuada para tu destino.

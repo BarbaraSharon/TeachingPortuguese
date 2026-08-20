@@ -110,6 +110,18 @@ Learning Portuguese doesn't have to be stressful. With a clear reason, understan
 Whether you're interested in online Portuguese lessons , Portuguese teacher Australia , or want to know about the best way to learn Portuguese , Barbara Sharon's approach can help you achieve your goals.
 
 [Book Your Free Trial Lesson Today](/en/contact-portuguese-teacher/)
+
+## Related Portuguese learning answer
+
+For a concise method built around goals, speaking, listening, feedback and review, read [What is the best way to learn Brazilian Portuguese?](/en/answers/best-way-to-learn-brazilian-portuguese/).
+
+## More direct learning answers
+
+- [How long does it take to learn Brazilian Portuguese?](/en/answers/how-long-learn-brazilian-portuguese/)
+- [How often should I take Portuguese lessons?](/en/answers/how-often-take-portuguese-lessons/)
+- [Do I need grammar to speak Portuguese?](/en/answers/need-grammar-to-speak-portuguese/)
+- [How can I improve Brazilian Portuguese pronunciation?](/en/answers/improve-brazilian-portuguese-pronunciation/)
+- [Why can I understand Portuguese but not speak it?](/en/answers/understand-portuguese-but-cannot-speak/)
 ## Our Portuguese Learning Services
 ### Online Portuguese Lessons
 

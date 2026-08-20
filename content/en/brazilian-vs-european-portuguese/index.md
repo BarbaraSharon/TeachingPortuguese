@@ -114,3 +114,7 @@ Absolutely! Many learners start with one variant and expand their knowledge to i
 Brazilian Portuguese has approximately 206 million speakers in Brazil alone, compared to about 10 million in Portugal. Brazilian Portuguese represents the vast majority of Portuguese speakers worldwide.
 
 [Explore My Portuguese Services](/en/portuguese-teaching-services/)[Book Your Free Consultation](/en/contact-portuguese-teacher/)
+
+## Comparing Portuguese with Spanish
+
+Portuguese and Spanish are separate languages as well as close relatives. Read [How similar are Portuguese and Spanish?](/en/answers/how-similar-portuguese-spanish/) for practical guidance on shared vocabulary, pronunciation, listening and language transfer.

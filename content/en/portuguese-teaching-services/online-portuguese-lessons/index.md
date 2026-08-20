@@ -88,6 +88,25 @@ sections:
     text: Contact Barbara about online lessons
     url: /en/contact-portuguese-teacher/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: online-lesson-answers
+  content:
+    eyebrow: Related guidance
+    title: Questions about learning Portuguese online
+    text: Compare online formats and private lesson options before choosing.
+    items:
+    - title: How to choose online Brazilian Portuguese lessons
+      text: Compare live speaking time, feedback, qualifications, structure and flexibility.
+      url: /en/answers/best-online-brazilian-portuguese-lessons/
+    - title: Where to find private Portuguese lessons in Australia
+      text: Understand nationwide online access and Gold Coast in-person availability.
+      url: /en/answers/private-portuguese-lessons-australia/
+    - title: Are online Portuguese lessons effective for beginners?
+      text: See how live interaction, structure, feedback and short practice work together.
+      url: /en/answers/online-portuguese-lessons-effective-beginners/
+    - title: How much do Portuguese lessons cost in Australia?
+      text: Compare format, teaching time, feedback, materials and current terms.
+      url: /en/answers/how-much-portuguese-lessons-cost-australia/
 - block: cta-card
   content:
     title: Ready to learn online?

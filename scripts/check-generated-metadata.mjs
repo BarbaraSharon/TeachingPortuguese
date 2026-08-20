@@ -98,9 +98,10 @@ const pageNodes = renderedPages.map(({ file, html }) => ({
 }));
 const countType = (type) => pageNodes.flatMap((page) => page.nodes).filter((node) => hasType(node, type)).length;
 
-assert.equal(countType('Article'), 9, 'Expected nine rendered Article nodes.');
+assert.equal(countType('Article'), 63, 'Expected sixty-three rendered Article nodes.');
 assert.equal(countType('Course'), 12, 'Expected twelve rendered Course nodes.');
-assert.equal(countType('FAQPage'), 36, 'Expected thirty-six rendered FAQPage nodes.');
+assert.equal(countType('FAQPage'), 39, 'Expected thirty-nine rendered FAQPage nodes.');
+assert.equal(countType('WebPage'), 54, 'Expected fifty-four rendered answer WebPage nodes.');
 
 for (const page of pageNodes) {
   const ids = page.nodes.map((node) => node['@id']).filter(Boolean);

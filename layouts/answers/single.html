@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{- $author := hugo.Data.authors.me -}}
+{{- $contactURL := site.Params.hugoblox.header.cta.url -}}
+<main class="mx-auto max-w-5xl px-6 py-12 lg:px-8 lg:py-20">
+  <article data-pagefind-body>
+    {{ if .Params.show_breadcrumb }}
+      <div class="mb-8">{{ partial "components/breadcrumb.html" . }}</div>
+    {{ end }}
+
+    <header class="mx-auto max-w-3xl">
+      <h1 class="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100 sm:text-5xl" data-pagefind-meta="title">{{ .Params.question | default .Title }}</h1>
+      <p class="mt-6 border-l-4 border-primary-500 pl-5 text-xl leading-8 text-slate-700 dark:text-slate-200" data-direct-answer>{{ .Params.direct_answer }}</p>
+      <div class="mt-6 flex flex-wrap gap-x-2 text-sm text-slate-600 dark:text-slate-300">
+        <span>{{ i18n "answer_written_by" }} {{ $author.name.display }}</span>
+        <span aria-hidden="true">·</span>
+        <span>{{ i18n "answer_reviewed" }} {{ .Lastmod | time.Format ":date_long" }}</span>
+      </div>
+    </header>
+
+    {{- $featured := partial "functions/get_featured_image" . -}}
+    {{- with $featured }}
+      <figure class="mx-auto mt-10 max-w-3xl overflow-hidden rounded-2xl">
+        {{- $image := .Fit "1200x800 webp" -}}
+        <img class="h-auto w-full" src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="{{ $.Params.image.alt_text }}" fetchpriority="high" data-pagefind-meta="image[src]">
+      </figure>
+    {{- end }}
+
+    <div class="prose prose-slate mx-auto mt-12 max-w-3xl lg:prose-lg dark:prose-invert">
+      <span data-pagefind-filter="type" style="display:none;">answers</span>
+      {{ .Content }}
+    </div>
+
+    <section class="mx-auto mt-12 max-w-3xl rounded-2xl border border-slate-200 p-6 dark:border-slate-700" aria-labelledby="answer-author">
+      <h2 id="answer-author" class="text-2xl font-bold text-slate-900 dark:text-slate-100">{{ i18n "answer_about_author" }}</h2>
+      <p class="mt-3 text-slate-700 dark:text-slate-200">{{ i18n "answer_author_bio" }}</p>
+      <p class="mt-3 text-slate-700 dark:text-slate-200">{{ i18n "answer_feedback_intro" }} <a class="font-semibold text-primary-700 underline dark:text-primary-300" href="{{ site.Home.RelPermalink }}#section-testimonials">{{ i18n "answer_named_testimonials" }}</a> {{ i18n "answer_feedback_or" }} <a class="font-semibold text-primary-700 underline dark:text-primary-300" href="{{ $author.review_url }}" target="_blank" rel="noopener noreferrer">{{ i18n "answer_google_reviews" }}</a>.</p>
+    </section>
+
+    {{ with .Params.related_pages }}
+      <nav class="mx-auto mt-12 max-w-3xl" aria-labelledby="related-answer-pages">
+        <h2 id="related-answer-pages" class="text-2xl font-bold text-slate-900 dark:text-slate-100">{{ i18n "answer_related_pages" }}</h2>
+        <ul class="mt-4 grid gap-3 sm:grid-cols-2">
+          {{ range . }}<li><a class="block rounded-xl border border-slate-200 p-4 font-semibold text-primary-700 hover:border-primary-400 dark:border-slate-700 dark:text-primary-300" href="{{ .url }}">{{ .title }}</a></li>{{ end }}
+        </ul>
+      </nav>
+    {{ end }}
+
+    <aside class="mx-auto mt-12 max-w-3xl rounded-2xl bg-primary-50 p-8 text-center dark:bg-primary-950/40" aria-label="{{ i18n "answer_contact_aria" }}">
+      <h2 class="text-2xl font-bold text-slate-900 dark:text-slate-100">{{ i18n "answer_contact_title" }}</h2>
+      <p class="mx-auto mt-3 max-w-2xl text-slate-700 dark:text-slate-200">{{ i18n "answer_contact_text" }}</p>
+      <a class="mt-6 inline-block rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white" href="{{ $contactURL }}">{{ i18n "answer_contact_button" }}</a>
+    </aside>
+  </article>
+</main>
+{{ end }}

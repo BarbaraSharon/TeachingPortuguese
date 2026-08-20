@@ -88,6 +88,22 @@ sections:
     text: Contacta con Barbara sobre las clases para principiantes
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: respuestas-portugues-principiantes
+  content:
+    eyebrow: Orientación para principiantes
+    title: Preguntas habituales antes de empezar portugués
+    text: Descubre qué puede resultar difícil, cómo progresan los adultos y cuándo funcionan las clases online.
+    items:
+    - title: ¿Es difícil el portugués brasileño para anglohablantes?
+      text: Comprende los retos de pronunciación, escucha y gramática sin retrasar la conversación.
+      url: /es/respuestas/es-dificil-portugues-brasileno-anglohablantes/
+    - title: ¿Pueden los adultos aprender portugués brasileño?
+      text: Utiliza las fortalezas adultas, objetivos relevantes y una rutina sostenible.
+      url: /es/respuestas/adultos-aprender-portugues-brasileno/
+    - title: ¿Funcionan las clases online para principiantes?
+      text: Busca conversación en directo, una secuencia clara, correcciones y práctica entre clases.
+      url: /es/respuestas/clases-online-portugues-principiantes/
 - block: cta-card
   content:
     title: ¿Listo para empezar a estudiar portugués?

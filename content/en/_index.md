@@ -160,6 +160,31 @@ sections:
       text: My first experience learning Portuguese was with Barbara. Thanks to her energy and infectious smile, the lessons
         were enjoyable, making it incredibly easy to learn the language. I was genuinely happy. Her teaching methodology proved
         to be highly efficient, and now, I can speak Portuguese very well.
+- block: answer-links
+  id: popular-portuguese-questions
+  content:
+    eyebrow: Practical guidance
+    title: Popular Portuguese questions
+    text: Start with a concise answer, then compare lesson formats and learning approaches in detail.
+    items:
+    - title: Where can I learn Portuguese on the Gold Coast?
+      text: Compare private, group, online and currently available in-person options.
+      url: /en/answers/where-to-learn-portuguese-gold-coast/
+    - title: How do I choose a Portuguese tutor on the Gold Coast?
+      text: Use qualifications, teaching fit, lesson format and learner evidence to decide.
+      url: /en/answers/best-portuguese-tutor-gold-coast/
+    - title: What is the best way to learn Brazilian Portuguese?
+      text: Combine regular speaking, listening, pronunciation, feedback and review.
+      url: /en/answers/best-way-to-learn-brazilian-portuguese/
+    - title: Where can I find private Portuguese lessons in Australia?
+      text: Compare live online access with currently available Gold Coast options.
+      url: /en/answers/private-portuguese-lessons-australia/
+    - title: How do I choose online Brazilian Portuguese lessons?
+      text: Look for live speaking, specific feedback, sound teaching credentials and practical fit.
+      url: /en/answers/best-online-brazilian-portuguese-lessons/
+    - title: How can I learn Portuguese for travel and conversation?
+      text: Practise likely situations, realistic replies, pronunciation and cultural context.
+      url: /en/answers/learn-portuguese-for-travel-and-conversation/
 - block: cta-card
   content:
     title: Ready to learn Portuguese?

@@ -186,3 +186,15 @@ Aprender portugués como segunda lengua no tiene por qué resultar abrumador. Al
 ## Empieza con un plan realista
 
 No necesitas esperar a sentirte preparado. [Contacta con Barbara](/es/contacto-profesora-portugues/) para definir tu objetivo, conocer el formato de las clases y reservar una clase de prueba gratuita.
+
+## Respuesta práctica: elige un método que puedas mantener
+
+La guía [¿Cuál es la mejor forma de aprender portugués brasileño?](/es/respuestas/mejor-forma-aprender-portugues-brasileno/) resume un ciclo equilibrado de conversación, escucha, pronunciación, correcciones y repaso. Úsalo para comparar métodos y convertir un objetivo amplio en una rutina concreta.
+
+## Más respuestas directas sobre aprendizaje
+
+- [¿Cuánto se tarda en aprender portugués brasileño?](/es/respuestas/cuanto-se-tarda-aprender-portugues-brasileno/)
+- [¿Con qué frecuencia debo tomar clases de portugués?](/es/respuestas/frecuencia-clases-portugues/)
+- [¿Necesito gramática para hablar portugués?](/es/respuestas/necesito-gramatica-hablar-portugues/)
+- [¿Cómo mejorar mi pronunciación en portugués brasileño?](/es/respuestas/mejorar-pronunciacion-portugues-brasileno/)
+- [¿Por qué entiendo portugués pero no puedo hablarlo?](/es/respuestas/entender-portugues-no-hablarlo/)

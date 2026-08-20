@@ -220,3 +220,39 @@
   translation: Clases de idiomas
 - id: schema_language_classes
   translation: Clases de idiomas
+- id: answer_written_by
+  translation: Escrito por
+- id: answer_reviewed
+  translation: Revisado el
+- id: answer_about_author
+  translation: Sobre la autora
+- id: answer_author_bio
+  translation: Barbara Sharon es profesora de portugués brasileño, licenciada en Lenguas y Literatura por la Universidad Federal de Río de Janeiro (UFRJ) y con certificación TESOL. Imparte clases particulares y grupales online en todo el mundo, con opciones presenciales en Gold Coast sujetas a disponibilidad.
+- id: answer_feedback_intro
+  translation: Para consultar opiniones independientes, lee los
+- id: answer_named_testimonials
+  translation: testimonios identificados de estudiantes
+- id: answer_feedback_or
+  translation: o revisa las
+- id: answer_google_reviews
+  translation: opiniones actuales en Google
+- id: answer_related_pages
+  translation: Páginas relacionadas sobre clases y aprendizaje
+- id: answer_contact_aria
+  translation: Contactar con Barbara Sharon
+- id: answer_contact_title
+  translation: Habla sobre tus objetivos de portugués
+- id: answer_contact_text
+  translation: Contacta con Barbara para consultar formatos, horarios y disponibilidad actual.
+- id: answer_contact_button
+  translation: Contacta con Barbara
+- id: answer_popular_questions
+  translation: Preguntas populares sobre portugués
+- id: answer_read_complete
+  translation: Lee la respuesta completa
+- id: answer_read_answer
+  translation: Lee la respuesta
+- id: answer_hub_contact_title
+  translation: ¿Necesitas una respuesta para tu propio objetivo?
+- id: answer_hub_contact_text
+  translation: Contacta con Barbara para hablar de clases particulares, grupales, online o en Gold Coast.

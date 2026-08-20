@@ -94,3 +94,9 @@ Say goodbye to language barriers and hello to greater fluency. Contact Barbara t
 ## "Aprender é viver!" (Learning is living!)
 
 Don't let hesitation hold you back. The Portuguese Speaking Club is your gateway to real, confident conversation. Practise with fellow learners and take your Portuguese fluency to the next level.
+
+## Related conversation answer
+
+If you are preparing for a trip or want a practical speaking routine, read [How can I learn Portuguese for travel and conversation?](/en/answers/learn-portuguese-for-travel-and-conversation/).
+
+If you follow conversations but hesitate when it is your turn, read [Why can I understand Portuguese but not speak it?](/en/answers/understand-portuguese-but-cannot-speak/).

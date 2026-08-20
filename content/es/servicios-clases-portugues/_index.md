@@ -176,6 +176,22 @@ sections:
       text: Contacta con Barbara sobre las clases
       url: /es/contacto-profesora-portugues/
       icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: respuestas-eleccion-clases
+  content:
+    eyebrow: Compara tus opciones
+    title: Preguntas prácticas antes de elegir clases
+    text: Entiende los precios, los formatos privados y grupales y la importancia de un horario sostenible.
+    items:
+    - title: ¿Cuánto cuestan las clases de portugués en Australia?
+      text: Compara todo lo incluido en una propuesta, no solo una tarifa por hora.
+      url: /es/respuestas/cuanto-cuestan-clases-portugues-australia/
+    - title: ¿Debo elegir clases privadas o grupales?
+      text: Compara correcciones, ritmo, interlocutores, horarios y práctica social.
+      url: /es/respuestas/clases-portugues-privadas-o-grupales/
+    - title: ¿Con qué frecuencia debo tomar clases?
+      text: Elige un ritmo de clases y práctica que puedas mantener con regularidad.
+      url: /es/respuestas/frecuencia-clases-portugues/
 - block: cta-card
   content:
     title: ¿Listo para encontrar tu clase de portugués?

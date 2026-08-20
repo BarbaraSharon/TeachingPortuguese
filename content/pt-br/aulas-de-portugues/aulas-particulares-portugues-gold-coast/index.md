@@ -91,6 +91,21 @@ sections:
     text: Fale com a Barbara sobre aulas particulares
     url: /pt-br/contato-professora-portugues/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  content:
+    eyebrow: Antes de escolher
+    title: Respostas sobre aulas particulares na Gold Coast
+    text: Compare opções locais, critérios para escolher professor e acesso a aulas particulares na Austrália.
+    items:
+    - title: Onde aprender português na Gold Coast?
+      text: Compare aulas particulares, em grupo, online e opções presenciais disponíveis.
+      url: /pt-br/respostas/onde-aprender-portugues-gold-coast/
+    - title: Como escolher o melhor professor para você?
+      text: Use formação, método, feedback, formato e depoimentos identificáveis para avaliar a compatibilidade.
+      url: /pt-br/respostas/melhor-professor-portugues-gold-coast/
+    - title: Onde encontrar aulas particulares na Austrália?
+      text: Compare o acesso online ao vivo com as opções presenciais da Gold Coast.
+      url: /pt-br/respostas/aulas-particulares-portugues-australia/
 - block: cta-card
   content:
     title: Quer um plano de aula feito para você?

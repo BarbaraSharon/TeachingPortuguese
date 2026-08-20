@@ -106,7 +106,29 @@
     {{- $graph = $graph | append $article -}}
   {{- end -}}
 
+  {{- if and (eq $page.Type "answers") $page.IsPage -}}
+    {{- $webPage := dict
+      "@id" $page.Permalink
+      "@type" "WebPage"
+      "name" $page.Title
+      "description" $page.Description
+      "url" $page.Permalink
+      "inLanguage" $pageLanguage
+      "datePublished" ($published.Format "2006-01-02T15:04:05Z07:00")
+      "dateModified" ($modified.Format "2006-01-02T15:04:05Z07:00")
+      "mainEntity" (dict "@id" (printf "%s#article" $page.Permalink))
+      "about" (slice (dict "@id" $personID) (dict "@id" $orgID))
+    -}}
+    {{- $graph = $graph | append $webPage -}}
+  {{- end -}}
+
   {{- $faqItems := $schema.faq -}}
+  {{- if and (not $faqItems) (eq $page.Type "answers") $page.IsSection -}}
+    {{- $faqItems = slice -}}
+    {{- range $page.RegularPages.ByWeight -}}
+      {{- $faqItems = $faqItems | append (dict "question" .Params.question "answer" .Params.direct_answer) -}}
+    {{- end -}}
+  {{- end -}}
   {{- if not $faqItems -}}
     {{- range $section := $page.Params.sections -}}
       {{- if eq $section.block "faq" -}}

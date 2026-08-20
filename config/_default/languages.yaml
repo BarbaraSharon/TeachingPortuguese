@@ -69,6 +69,10 @@ en:
       parent: Resources
       url: /howto-learn-portuguese/
       weight: 10
+    - name: Portuguese questions
+      parent: Resources
+      url: /answers/
+      weight: 5
     - name: Beginner phrases
       parent: Resources
       url: /portuguese-beginner-phrases/
@@ -124,6 +128,10 @@ en:
       name: FAQ
       url: /faq-learning-portuguese/
       weight: 10
+    - parent: Resources
+      name: Portuguese Questions
+      url: /answers/
+      weight: 5
     - parent: Resources
       name: How to Learn Portuguese
       url: /howto-learn-portuguese/
@@ -222,6 +230,10 @@ pt-br:
       weight: 60
     - name: Recursos
       weight: 40
+    - name: Respostas sobre português
+      parent: Recursos
+      url: /pt-br/respostas/
+      weight: 5
     - name: Como aprender português
       parent: Recursos
       url: /pt-br/como-aprender-portugues/
@@ -277,6 +289,10 @@ pt-br:
       weight: 40
     - name: Recursos
       weight: 20
+    - parent: Recursos
+      name: Respostas sobre português
+      url: /pt-br/respostas/
+      weight: 5
     - parent: Recursos
       name: Perguntas frequentes
       url: /pt-br/faq-aprendizagem-portuguesa/
@@ -371,6 +387,10 @@ es:
       weight: 50
     - name: Recursos
       weight: 40
+    - name: Respuestas sobre portugués
+      parent: Recursos
+      url: /es/respuestas/
+      weight: 5
     - name: Cómo aprender portugués
       parent: Recursos
       url: /es/como-aprender-portugues/
@@ -422,6 +442,10 @@ es:
       weight: 40
     - name: Recursos
       weight: 20
+    - parent: Recursos
+      name: Respuestas sobre portugués
+      url: /es/respuestas/
+      weight: 5
     - parent: Recursos
       name: Preguntas frecuentes
       url: /es/preguntas-frecuentes-aprender-portugues/

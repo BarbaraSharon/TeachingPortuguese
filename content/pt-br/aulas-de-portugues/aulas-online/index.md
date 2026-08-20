@@ -86,6 +86,24 @@ sections:
     text: Fale com a Barbara sobre aulas online
     url: /pt-br/contato-professora-portugues/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  content:
+    eyebrow: Antes de escolher
+    title: Respostas sobre aulas de português online
+    text: Compare formato, ensino ao vivo e acesso a partir da Austrália usando critérios práticos.
+    items:
+    - title: Como escolher as melhores aulas de português online?
+      text: Avalie conversação ao vivo, correções, formação docente, estrutura e adequação prática.
+      url: /pt-br/respostas/melhores-aulas-portugues-online/
+    - title: Onde encontrar aulas particulares de português na Austrália?
+      text: Entenda a diferença entre acesso online e opções presenciais disponíveis na Gold Coast.
+      url: /pt-br/respostas/aulas-particulares-portugues-australia/
+    - title: Aulas online funcionam para iniciantes?
+      text: Descubra como interação ao vivo, estrutura, feedback e prática curta trabalham juntos.
+      url: /pt-br/respostas/aulas-online-portugues-iniciantes/
+    - title: Quanto custam as aulas de português na Austrália?
+      text: Compare formato, tempo de ensino, feedback, materiais e condições atuais.
+      url: /pt-br/respostas/quanto-custam-aulas-portugues-australia/
 - block: cta-card
   content:
     title: Pronto para aprender online?

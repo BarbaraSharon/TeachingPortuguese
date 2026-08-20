@@ -88,6 +88,22 @@ sections:
     text: Contact Barbara about beginner lessons
     url: /en/contact-portuguese-teacher/
     icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: beginner-learning-answers
+  content:
+    eyebrow: Beginner guidance
+    title: Questions people ask before starting Portuguese
+    text: Learn what makes Portuguese challenging, how adults progress and when online lessons can work well.
+    items:
+    - title: Is Brazilian Portuguese hard for English speakers?
+      text: Understand the main pronunciation, listening and grammar challenges without delaying conversation.
+      url: /en/answers/is-brazilian-portuguese-hard-english-speakers/
+    - title: Can adults learn Brazilian Portuguese?
+      text: Use adult strengths, relevant goals and a sustainable routine to build communication skills.
+      url: /en/answers/can-adults-learn-brazilian-portuguese/
+    - title: Are online lessons effective for beginners?
+      text: Look for live speaking, a clear sequence, specific feedback and practice between lessons.
+      url: /en/answers/online-portuguese-lessons-effective-beginners/
 - block: cta-card
   content:
     title: Ready to start Portuguese?

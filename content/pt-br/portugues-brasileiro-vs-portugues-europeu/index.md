@@ -120,6 +120,10 @@ Ainda não tem certeza? Considere estas perguntas:
 
 Se você quiser orientação personalizada baseada em sua situação específica, convido você a entrar em contato. Terei prazer em discutir seus objetivos e ajudar a determinar se o português brasileiro está alinhado às suas necessidades ou se outra abordagem poderia atender melhor você.
 
+## Comparação entre português e espanhol
+
+Português e espanhol são idiomas distintos, além de parentes próximos. Leia [Qual é a semelhança entre português e espanhol?](/pt-br/respostas/semelhanca-portugues-espanhol/) para conhecer vocabulário compartilhado, pronúncia, escuta e transferência linguística.
+
 ## Perguntas frequentes
 
 ### Aprender português brasileiro vai me impedir de entender português europeu?

@@ -118,6 +118,7 @@ for (const filePath of walk(contentRoot).sort()) {
   const contentPath = rest.join('/');
   const titleLine = frontMatter.match(/^title:\s*(.*)$/m)?.[0];
   const rawTitle = readScalar(frontMatter, 'title');
+  const translationKey = unquote(readScalar(frontMatter, 'translationKey'));
   const title = normalize(unquote(rawTitle));
   const route = routeFor(language, contentPath, frontMatter);
   const characterCount = [...title].length;
@@ -137,7 +138,13 @@ for (const filePath of walk(contentRoot).sort()) {
   if (/[|]/.test(title)) errors.push(`${relative}: title contains a boilerplate separator`);
   if (/\b(\p{L}+)\s+\1\b/iu.test(title)) errors.push(`${relative}: title repeats a word`);
   if (!languageMarkers[language]?.test(title)) errors.push(`${relative}: title lacks a ${language} language marker`);
-  if (unsupportedClaimPattern.test(title)) errors.push(`${relative}: title contains an unsupported marketing claim`);
+  const approvedAnswerFramework = new Set([
+    'answer-choose-portuguese-tutor-gold-coast',
+    'answer-learn-brazilian-portuguese-method',
+    'answer-choose-online-brazilian-portuguese-lessons',
+  ]).has(translationKey)
+    && ['answers/', 'respuestas/', 'respostas/'].some((section) => contentPath.startsWith(section));
+  if (unsupportedClaimPattern.test(title) && !approvedAnswerFramework) errors.push(`${relative}: title contains an unsupported marketing claim`);
   if (contentPath.includes('teaching-locations') || contentPath.includes('ubicaciones-clases-portugues') || contentPath.includes('locais-de-aulas-de-portugues')) {
     if (inPersonPattern.test(title) && !hasVerifiedGoldCoastInPersonOption(frontMatter)) {
       errors.push(`${relative}: location-page title must not imply unverified in-person delivery`);

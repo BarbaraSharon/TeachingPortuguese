@@ -178,6 +178,22 @@ sections:
       text: Contact Barbara about lessons
       url: /en/contact-portuguese-teacher/
       icon: hero/chat-bubble-left-right
+- block: answer-links
+  id: lesson-decision-answers
+  content:
+    eyebrow: Compare your options
+    title: Practical questions before choosing lessons
+    text: Understand lesson costs, private and group formats, and the role of a sustainable schedule.
+    items:
+    - title: How much do Portuguese lessons cost in Australia?
+      text: Compare what a quote includes instead of relying on an hourly figure alone.
+      url: /en/answers/how-much-portuguese-lessons-cost-australia/
+    - title: Should I choose private or group lessons?
+      text: Compare individual feedback, pace, speaking partners, scheduling and social practice.
+      url: /en/answers/private-vs-group-portuguese-lessons/
+    - title: How often should I take Portuguese lessons?
+      text: Choose a lesson and practice rhythm that you can maintain consistently.
+      url: /en/answers/how-often-take-portuguese-lessons/
 - block: cta-card
   content:
     title: Ready to find your Portuguese lesson?

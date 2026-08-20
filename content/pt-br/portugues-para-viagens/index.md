@@ -244,3 +244,7 @@ Ofereço, sim! Aulas em grupo podem ser uma opção divertida e econômica para 
 ## "Aprender é viver!" (Aprender é viver!)
 
 Não deixe que barreiras de idioma limitem suas experiências de viagem. Com o português para viagens, você descobrirá uma jornada mais rica e autêntica, repleta de conexões significativas e momentos inesquecíveis.
+
+## Uma resposta rápida para viagens e conversação
+
+Veja [como aprender português para viagens e conversação](/pt-br/respostas/aprender-portugues-viagens-conversacao/) para organizar a prática por situações, treinar os dois lados do diálogo e escolher a variedade de português adequada ao seu destino.

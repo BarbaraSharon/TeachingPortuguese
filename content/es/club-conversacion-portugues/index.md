@@ -92,3 +92,9 @@ Despídete de las barreras lingüísticas y da la bienvenida a una mayor fluidez
 ## «Aprender é viver!» (¡Aprender es vivir!)
 
 No dejes que las dudas te detengan. El Club de conversación en portugués es tu puerta a conversaciones reales y seguras. Practica con otros estudiantes y lleva tu fluidez al siguiente nivel.
+
+## Prepara conversaciones para un viaje
+
+La guía [cómo aprender portugués para viajes y conversación](/es/respuestas/aprender-portugues-viajes-conversacion/) explica cómo practicar diálogos probables, respuestas, pronunciación y contexto cultural antes de viajar o participar en una sesión de conversación.
+
+Si comprendes portugués pero dudas al responder, consulta [¿Por qué entiendo portugués pero no puedo hablarlo?](/es/respuestas/entender-portugues-no-hablarlo/) para practicar recuerdo activo y estructuras reutilizables.

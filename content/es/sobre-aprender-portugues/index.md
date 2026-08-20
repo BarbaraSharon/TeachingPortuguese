@@ -29,3 +29,7 @@ Mis cursos están diseñados para estudiantes de todos los niveles, desde princi
 Como tutora dedicada en Gold Coast, proporciono clases intensivas de portugués personalizadas según los objetivos de cada estudiante, con resultados de mejora rápida. Mi método destaca las habilidades de comunicación práctica y la conciencia cultural, haciendo que aprender sea eficaz y atractivo. Tanto si te preparas para viajar, trabajar o enriquecerte personalmente, mi experiencia como profesora de portugués brasileño garantiza que cada clase apoye tu camino.
 
 Descubre más sobre cómo apoyo las clases intensivas de portugués en línea, las clases particulares y los cursos de idiomas para estudiantes de Gold Coast, Queensland y otros lugares, con una metodología orientada a mejorar rápidamente.
+
+## Cómo valorar si una profesora encaja contigo
+
+La respuesta [cómo elegir al mejor profesor de portugués en Gold Coast](/es/respuestas/mejor-profesor-portugues-gold-coast/) propone comparar variedad lingüística, formación, práctica activa, correcciones, testimonios y disponibilidad sin depender de una clasificación no verificable.
