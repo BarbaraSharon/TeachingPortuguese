@@ -9,27 +9,22 @@
     clarityId: script.dataset.clarityId || "",
     privacyUrl: script.dataset.privacyUrl || "/privacy/",
     labels: {
-      choices: script.dataset.labelChoices || "Analytics choices",
-      heading: script.dataset.labelHeading || "Choose analytics cookies",
-      explanation: script.dataset.labelExplanation || "",
+      choices: script.dataset.labelChoices || "Analytics settings",
+      heading: script.dataset.labelHeading || "Manage website analytics",
+      explanation: script.dataset.labelExplanation || "Google Analytics and Microsoft Clarity are enabled by default. You can disable or enable them for this browser.",
       privacy: script.dataset.labelPrivacy || "Privacy Policy",
-      accept: script.dataset.labelAccept || "Accept analytics",
-      reject: script.dataset.labelReject || "Reject analytics",
+      accept: script.dataset.labelAccept || "Enable analytics",
+      reject: script.dataset.labelReject || "Disable analytics",
       manage: script.dataset.labelManage || "Analytics preferences"
     }
   };
   const storageKey = "barbara-analytics-consent-v2";
-  const consentLifetimeMs = 180 * 24 * 60 * 60 * 1000;
   let currentChoice = getStoredChoice();
 
   function getStoredChoice() {
     try {
       const stored = JSON.parse(window.localStorage.getItem(storageKey) || "null");
       if (!stored || !["accepted", "rejected"].includes(stored.value)) return null;
-      if (!Number.isFinite(stored.updatedAt) || Date.now() - stored.updatedAt >= consentLifetimeMs) {
-        window.localStorage.removeItem(storageKey);
-        return null;
-      }
       return stored.value;
     } catch (_) {
       return null;
@@ -50,6 +45,12 @@
       window.__barbaraGaLoaded = true;
       window.dataLayer = window.dataLayer || [];
       window.gtag = function () { window.dataLayer.push(arguments); };
+      window.gtag("consent", "default", {
+        analytics_storage: "granted",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied"
+      });
       window.gtag("js", new Date());
       window.gtag("config", config.gaId, {
         anonymize_ip: true,
@@ -65,6 +66,13 @@
 
     if (config.clarityId && !window.__barbaraClarityLoaded) {
       window.__barbaraClarityLoaded = true;
+      window.clarity = window.clarity || function () {
+        (window.clarity.q = window.clarity.q || []).push(arguments);
+      };
+      window.clarity("consentv2", {
+        ad_Storage: "denied",
+        analytics_Storage: "granted"
+      });
       const clarityScript = document.createElement("script");
       clarityScript.async = true;
       clarityScript.src = "https://www.clarity.ms/tag/" + encodeURIComponent(config.clarityId);
@@ -74,7 +82,26 @@
   }
 
   function removeAnalyticsCookies() {
-    const names = ["_ga", "_gid", "_gat", "_gcl_au", "_clck", "_clsk"];
+    if (config.gaId) {
+      window["ga-disable-" + config.gaId] = true;
+      window.gtag?.("consent", "update", {
+        analytics_storage: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        ad_personalization: "denied"
+      });
+    }
+    window.clarity?.("consentv2", {
+      ad_Storage: "denied",
+      analytics_Storage: "denied"
+    });
+
+    const knownNames = ["_ga", "_gid", "_gat", "_gcl_au", "_clck", "_clsk"];
+    const visibleNames = document.cookie
+      .split(";")
+      .map((cookie) => cookie.split("=")[0].trim())
+      .filter((name) => name.startsWith("_ga") || name.startsWith("_cl"));
+    const names = [...new Set([...knownNames, ...visibleNames])];
     const domains = [""];
     const parts = window.location.hostname.split(".");
     for (let index = 0; index < parts.length - 1; index += 1) {
@@ -86,7 +113,6 @@
         document.cookie = name + "=; Max-Age=0; path=/" + domain + "; SameSite=Lax";
       });
     });
-    if (config.gaId) window["ga-disable-" + config.gaId] = true;
   }
 
   function removeElement(id) {
@@ -143,15 +169,17 @@
     document.body.appendChild(banner);
 
     function choose(choice) {
-      const hadAccepted = currentChoice === "accepted";
+      const analyticsWereLoaded = window.__barbaraGaLoaded || window.__barbaraClarityLoaded;
       saveChoice(choice);
       banner.remove();
       if (choice === "accepted") {
         loadAnalytics();
-      } else if (hadAccepted) {
+      } else {
         removeAnalyticsCookies();
-        window.location.reload();
-        return;
+        if (analyticsWereLoaded) {
+          window.location.reload();
+          return;
+        }
       }
       renderPreferencesButton();
     }
@@ -162,12 +190,8 @@
   }
 
   function initialize() {
-    if (currentChoice === "accepted") loadAnalytics();
-    if (currentChoice) {
-      renderPreferencesButton();
-    } else {
-      showConsentBanner();
-    }
+    if (currentChoice !== "rejected") loadAnalytics();
+    renderPreferencesButton();
   }
 
   if (document.readyState === "loading") {

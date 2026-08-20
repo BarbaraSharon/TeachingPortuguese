@@ -154,6 +154,9 @@
   {{- end -}}
 
   {{- $robots := lower (printf "%s" ($page.Params.robots | default "")) -}}
+  {{/* Breadcrumb JSON-LD is intentionally sitewide for every indexable,
+       non-home content page. Do not restrict it to page layouts that also
+       render a visible breadcrumb trail. */}}
   {{- if and (not $page.IsHome) (not (strings.Contains $robots "noindex")) -}}
     {{- $breadcrumbItems := slice (dict "@type" "ListItem" "position" 1 "name" $page.Site.Home.Title "item" $page.Site.Home.Permalink) -}}
     {{- range $page.Ancestors.Reverse -}}

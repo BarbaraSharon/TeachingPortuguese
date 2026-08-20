@@ -112,6 +112,8 @@ for (const page of pageNodes) {
   const breadcrumbs = page.nodes.filter((node) => hasType(node, 'BreadcrumbList'));
   const isRoot = page.file.endsWith(`${path.sep}public${path.sep}index.html`);
   const isLanguageHome = ['en', 'es', 'pt-br'].some((language) => page.file.endsWith(`${path.sep}public${path.sep}${language}${path.sep}index.html`));
+  // Breadcrumb JSON-LD is required on every eligible page, regardless of
+  // whether that page layout also renders a visible breadcrumb trail.
   if (noindex || isAlias || isRoot || isLanguageHome) {
     assert.equal(breadcrumbs.length, 0, `${page.file} must not emit breadcrumbs.`);
   } else {
