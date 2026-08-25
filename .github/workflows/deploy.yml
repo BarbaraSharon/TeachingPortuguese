@@ -6,6 +6,12 @@ on:
     branches: ['main']
   # Allows you to run this workflow manually from the Actions tab on GitHub
   workflow_dispatch:
+    inputs:
+      indexnow_full:
+        description: 'Submit the complete current sitemap to IndexNow'
+        required: false
+        default: false
+        type: boolean
 
 # Provide permission to clone the repo and deploy it to GitHub Pages
 permissions:
@@ -81,3 +87,51 @@ jobs:
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v4
+
+  indexnow:
+    needs: [config, build, deploy]
+    if: needs.config.outputs.deploy-host == 'github-pages' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    permissions:
+      contents: read
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout IndexNow tooling
+      uses: actions/checkout@v6
+      with:
+        sparse-checkout: |
+          barbarasharon.com.au/scripts/indexnow.mjs
+        sparse-checkout-cone-mode: false
+
+    - name: Download IndexNow URL manifests
+      uses: actions/download-artifact@v5
+      with:
+        artifact-ids: ${{ needs.build.outputs.indexnow_artifact_id }}
+        path: indexnow
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v6
+      with:
+        node-version: '22'
+
+    - name: Submit changed URLs to IndexNow
+      env:
+        INDEXNOW_FULL: ${{ inputs.indexnow_full || 'false' }}
+        INDEXNOW_HOST: barbarasharon.com.au
+        INDEXNOW_KEY: f25f2ae156e844228b12042703fb53ed
+      run: |
+        FULL_FLAG=""
+        if [ "$INDEXNOW_FULL" = "true" ]; then FULL_FLAG="--full"; fi
+        node barbarasharon.com.au/scripts/indexnow.mjs submit \
+          --urls-file indexnow/indexnow-changes.txt \
+          --all-file indexnow/indexnow-all.txt \
+          --log indexnow-status.log \
+          $FULL_FLAG
+
+    - name: Upload IndexNow status log
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: indexnow-status-${{ github.run_id }}
+        path: indexnow-status.log
+        if-no-files-found: ignore
+        retention-days: 30

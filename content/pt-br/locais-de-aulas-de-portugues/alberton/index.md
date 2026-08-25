@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Alberton: Presenciais e Online"
 description: "Aulas de português brasileiro em Alberton, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/alberton/alberton-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Alberton: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -39,7 +39,7 @@ Localizada a poucos minutos de Surfers Paradise, Alberton oferece fácil acesso 
 
 Embora pequena, a localização estratégica de Alberton na Gold Coast dá aos alunos acesso a centros culturais e empresariais vibrantes, onde falantes de português são frequentemente encontrados. Eventos como o Madeira Fest na Casa Da Madeira proporcionam experiências imersivas na herança portuguesa, apresentando música tradicional, comida e costumes sociais que são fundamentais para entender o português brasileiro.
 
-O evento Dia Da Madeira de 2025 está previsto para 6 de julho de 2025, no CDM Alberton, reforçando a dedicação da comunidade em celebrar e preservar a cultura portuguesa. O Brasil, lar da maior população de falantes de português do mundo, oferece um cenário linguístico dinâmico que difere significativamente do português europeu no uso cotidiano, na música, no cinema e na literatura.
+Os eventos Dia Da Madeira no CDM Alberton reforçam a dedicação da comunidade em celebrar e preservar a cultura portuguesa. O Brasil, lar da maior população de falantes de português do mundo, oferece um cenário linguístico dinâmico que difere significativamente do português europeu no uso cotidiano, na música, no cinema e na literatura.
 
 Com uma população nascida no exterior de 2,82%, Alberton reflete um ambiente diverso em que a aprendizagem de idiomas prospera. Estudar português brasileiro aqui oferece conhecimentos sobre como a língua é usada em contextos reais, ajudando você a se conectar mais profundamente com falantes nativos e suas expressões culturais.
 

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Alberton: Presenciales y Online"
 description: "Clases de portugués brasileño en Alberton, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/alberton/alberton-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Alberton: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -38,7 +38,7 @@ Alberton se encuentra a pocos minutos de Surfers Paradise y permite acceder fác
 
 Aunque es pequeño, Alberton está estratégicamente situado en Gold Coast, cerca de centros culturales y empresariales donde suelen encontrarse hablantes de portugués. Eventos como Madeira Fest, en Casa Da Madeira, ofrecen una inmersión en el patrimonio portugués mediante música tradicional, comida y costumbres sociales.
 
-El evento Dia Da Madeira de 2025 está previsto para el 6 de julio de 2025 en CDM Alberton, lo que refuerza la dedicación de la comunidad a celebrar y conservar la cultura portuguesa. Brasil, hogar de la mayor población lusófona del mundo, ofrece un panorama lingüístico dinámico que difiere del portugués europeo en el uso cotidiano, la música, el cine y la literatura.
+Los eventos Dia Da Madeira en CDM Alberton refuerzan la dedicación de la comunidad a celebrar y conservar la cultura portuguesa. Brasil, hogar de la mayor población lusófona del mundo, ofrece un panorama lingüístico dinámico que difiere del portugués europeo en el uso cotidiano, la música, el cine y la literatura.
 
 Con un 2,82 % de población nacida en el extranjero, Alberton refleja un entorno diverso en el que prospera el aprendizaje de idiomas. Estudiar portugués brasileño aquí permite comprender cómo se usa el idioma en contextos reales y conectar más profundamente con hablantes nativos y sus expresiones culturales.
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués

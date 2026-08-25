@@ -4,6 +4,7 @@ description: "Lee el perfil de Barbara Sharon y conoce la perspectiva docente de
 translationKey: authors
 date: 2026-08-06
 lastmod: 2026-08-11
+robots: noindex, follow
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg

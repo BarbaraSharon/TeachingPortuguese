@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 translationKey: home
 title: "Aprende portugués con Barbara Sharon"
 summary: "Aprende portugués brasileño con Barbara Sharon en clases particulares y grupales online en todo el mundo, y presenciales en Gold Coast."
@@ -123,24 +123,67 @@ sections:
 - block: testimonials
   content:
     title: Lo que dicen los estudiantes
+    google_reviews_text: Ver nuestras reseñas de 5 estrellas en Google
     items:
     - name: Mariano J. Ponce, Argentina
       image: testimonial-mariano.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: intensive-portuguese
+      course_name: Curso intensivo de portugués
+      source: email
+      source_label: Enviado por email
       text: Hice un curso intensivo de portugués con Barbara en Río de Janeiro y, después de un mes, todos hablábamos y nos reíamos en portugués. Fue una experiencia muy productiva y divertida. ¡Es la mejor! Firma, Mariano, el argentino que casi se lleva la Copa del Mundo en el Maracaná.
     - name: Helena Jose, Venezuela
       image: testimonial-helena.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: intensive-portuguese
+      course_name: Curso intensivo de portugués
+      source: email
+      source_label: Enviado por email
       text: Barbara fue mi profesora de portugués mientras estaba en Río. Todavía recuerdo las actividades de conversación, dinámicas y divertidas. La recomiendo muchísimo. Es una profesora excepcional que no solo me ayudó a aprender el idioma, sino que también me dio una comprensión más amplia de la cultura.
     - name: Nicolas Germain, Francia
       image: testimonial-nicolas.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: advanced-portuguese
+      course_name: Curso avanzado de portugués
+      source: email
+      source_label: Enviado por email
       text: "Hola a todos. Hice una clase de portugués de nivel intermedio con Barbara para preparar mi solicitud a un máster de ciencias en la Universidad Federal de Río de Janeiro. Fue eficaz y agradable. La recomiendo encarecidamente: divertida y profesional, es la mejor profesora que he tenido. ¡Aprobé la prueba de acceso y estoy a punto de terminar, gracias, Barbs!"
     - name: Angus Robert, Australia
       image: testimonial-angus.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2022-05-10
+      course_id: intermediate-portuguese
+      course_name: Curso intermedio de portugués
+      source: email
+      source_label: Enviado por email
       text: Después de asistir a las clases de Barbara y verla interactuar con sus colegas y estudiantes, quedó claro que se la valora mucho por su experiencia, sus conocimientos y su capacidad de escuchar con empatía. Además, es sencillamente una gran persona y tiene una gran alegría de vivir.
     - name: Amy Eagle, Australia
       image: testimonial-amy.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2015-03-01
+      course_id: beginner-portuguese
+      course_name: Curso de portugués para principiantes
+      source: email
+      source_label: Enviado por email
       text: Barbara hace que las clases sean muy divertidas, así que me resulta mucho más fácil aprender.
     - name: Zoe Lec, Francia
       image: testimonial-zoe.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: beginner-intermediate-portuguese
+      course_name: Curso de portugués para principiantes e intermedios
+      source: email
+      source_label: Enviado por email
       text: Mi primera experiencia aprendiendo portugués fue con Barbara. Gracias a su energía y a su sonrisa contagiosa, las clases fueron agradables y aprender el idioma resultó increíblemente fácil. Me sentía realmente feliz. Su metodología de enseñanza demostró ser muy eficaz y ahora hablo portugués muy bien.
 - block: answer-links
   id: preguntas-populares-portugues

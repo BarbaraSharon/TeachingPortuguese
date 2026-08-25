@@ -3,7 +3,7 @@ translationKey: location-broadbeach-waters
 title: "Portuguese in Broadbeach Waters: In-Person & Online"
 description: "Portuguese lessons in Broadbeach Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 aliases:
 - /portuguese-teaching-locations/broadbeach-waters/
 image:
@@ -37,7 +37,7 @@ Broadbeach Waters is a vibrant and family-friendly suburb on the Gold Coast, kno
 Located just minutes from Surfers Paradise, students in Broadbeach Waters can enjoy convenient [in-person Portuguese lessons](/en/portuguese-teaching-services/portuguese-tutoring-gold-coast/)or opt for flexible [online Portuguese tutor sessions](/en/portuguese-teaching-services/online-portuguese-lessons/). Whether you’re a beginner or advanced learner, Barbara Sharon delivers personalized instruction tailored to your goals and learning style. Her classes include both private tutoring and group sessions, making it easy to find the right fit for your schedule.
 ## Why Learn Portuguese in Broadbeach Waters?
 
-Broadbeach Waters has a growing Brazilian community that contributes to its multicultural environment. The area regularly hosts cultural events such as the Brazilian Festival, Solstice Brazil: BaianaSystem at HOTA, Inbraza Baile celebrating Afro-Brazilian culture, and the upcoming Brazilian Film Festival Australia 2025. These events offer valuable opportunities to practice your Portuguese skills in real-world settings while immersing yourself in Brazilian traditions.
+Broadbeach Waters has a growing Brazilian community that contributes to its multicultural environment. The area regularly hosts cultural events such as the Brazilian Festival, Solstice Brazil: BaianaSystem at HOTA, Inbraza Baile celebrating Afro-Brazilian culture, and Brazilian Film Festival Australia programming. These events offer valuable opportunities to practice your Portuguese skills in real-world settings while immersing yourself in Brazilian traditions.
 
 Local spaces like the Broadbeach Cultural Precinct support cultural activities, and organizations such as Barraca Food Truck (Facebook) provide authentic Portuguese cuisine at community gatherings. Learning Portuguese here gives you access to one of the world's most widely spoken languages, opening doors to travel, work, and investment in Brazil, as well as appreciation for its rich music, cinema, literature, and everyday expressions.
 ## How Barbara Sharon Can Help You Master Brazilian Portuguese

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Oslo"
 description: "Clases online de portugués brasileño en Oslo, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/oslo/oslo-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Oslo | Clases particulares y grupales en línea con Barbara Sharon
@@ -55,7 +55,7 @@ Organizaciones como Oslozouk organizan talleres, clases y eventos sociales centr
 
 La ciudad acoge regularmente eventos culturales brasileños, como actuaciones musicales, festivales gastronómicos y exposiciones culturales. Ofrecen oportunidades excelentes para practicar portugués en un ambiente social relajado mientras disfrutas de cultura brasileña real.
 
-Entre los próximos eventos destacados se encuentran Festival ForroSamba 2025, Verdenskarnevalet 2025, Bora Brasil Show y OslojazzFestival 2025 con música brasileña. Muchos se promocionan mediante redes locales y plataformas en línea, que permiten experiencias inmersivas con hablantes nativos.
+La escena cultural brasileña de Oslo incluye eventos como Festival ForroSamba, Verdenskarnevalet, Bora Brasil Show y OslojazzFestival con música brasileña. La programación varía según el año, y las redes locales y plataformas en línea pueden ofrecer experiencias inmersivas con hablantes nativos.
 
 ## Cultura brasileña y aprendizaje de idiomas
 

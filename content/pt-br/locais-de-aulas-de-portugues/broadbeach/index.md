@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Broadbeach: Presenciais e Online"
 description: "Aulas de português brasileiro em Broadbeach, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/broadbeach/broadbeach-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Broadbeach: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -39,7 +39,7 @@ Seja você iniciante ou queira aperfeiçoar suas habilidades de conversação, o
 
 A atmosfera costeira descontraída de Broadbeach cria o cenário perfeito para o estudo concentrado de idiomas. A área também abriga uma crescente comunidade brasileira, com eventos culturais que celebram a riqueza da herança brasileira. Eventos como o Saideira Brazilian Festival e o Bahia Alegria oferecem experiências imersivas de dança, música e cultura brasileiras, proporcionando aos alunos contato com o idioma no mundo real.
 
-O próximo Brazilian Film Festival Australia 2025, que acontecerá no Broadbeach Cultural Centre em 2 de novembro de 2025, promete enriquecer ainda mais o cenário cultural. Como o Brasil abriga a maior população de falantes de português do mundo, aprender português brasileiro oferece conhecimentos sobre a natureza em evolução do idioma e seu uso cotidiano. Se você procura uma tutora de português brasileiro em Broadbeach ou uma tutora particular de português em Broadbeach, esse ambiente apoia sua jornada rumo à fluência.
+A programação cultural, como o Brazilian Film Festival Australia, enriqueceu o cenário cultural de Broadbeach. Como o Brasil abriga a maior população de falantes de português do mundo, aprender português brasileiro oferece conhecimentos sobre a natureza em evolução do idioma e seu uso cotidiano. Se você procura uma tutora de português brasileiro em Broadbeach ou uma tutora particular de português em Broadbeach, esse ambiente apoia sua jornada rumo à fluência.
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 

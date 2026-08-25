@@ -3,7 +3,7 @@ translationKey: location-alberton
 title: "Portuguese in Alberton: In-Person & Online"
 description: "Brazilian Portuguese lessons in Alberton, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 aliases:
 - /portuguese-teaching-locations/alberton/
 image:
@@ -39,7 +39,7 @@ Located just minutes from Surfers Paradise, Alberton provides easy access to lan
 
 Though small in size, Alberton’s strategic location on the Gold Coast gives students access to vibrant cultural and business hubs where Portuguese speakers are often found. Events like Madeira Fest at Casa Da Madeira provide immersive experiences into Portuguese heritage, showcasing traditional music, food, and social customs that are key to understanding Brazilian Portuguese.
 
-The 2025 Dia Da Madeira event is set for July 6, 2025, at CDM Alberton, reinforcing the community’s dedication to celebrating and preserving Portuguese culture. Brazil, home to the largest Portuguese-speaking population globally, offers a dynamic language landscape that differs significantly from European Portuguese in everyday usage, music, film, and literature.
+Dia Da Madeira events at CDM Alberton reinforce the community’s dedication to celebrating and preserving Portuguese culture. Brazil, home to the largest Portuguese-speaking population globally, offers a dynamic language landscape that differs significantly from European Portuguese in everyday usage, music, film, and literature.
 
 With a foreign-born population of 2.82%, Alberton reflects a diverse environment where language learning thrives. Studying Brazilian Portuguese here gives you insights into how the language is used in real-life contexts, helping you connect more deeply with native speakers and their cultural expressions.
 ## How Barbara Sharon Can Help You Learn Portuguese

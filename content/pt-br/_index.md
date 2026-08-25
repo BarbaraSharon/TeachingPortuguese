@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 translationKey: home
 title: "Aprenda português com Barbara Sharon"
 summary: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."
@@ -125,24 +125,67 @@ sections:
 - block: testimonials
   content:
     title: O que os alunos dizem
+    google_reviews_text: Veja nossas avaliações de 5 estrelas no Google
     items:
     - name: Mariano J. Ponce, Argentina
       image: testimonial-mariano.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: intensive-portuguese
+      course_name: Curso intensivo de português
+      source: email
+      source_label: Enviado por email
       text: Fiz um curso intensivo de português com a Barbara no Rio de Janeiro e, depois de um mês, todos nós já estávamos falando e rindo em português. Foi uma experiência muito produtiva e divertida. Ela é a melhor! Firma, Mariano, o Argentino que quase leva a capa do mundo no Maracana!
     - name: Helena Jose, Venezuela
       image: testimonial-helena.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: intensive-portuguese
+      course_name: Curso intensivo de português
+      source: email
+      source_label: Enviado por email
       text: Barbara foi minha professora de português quando eu estava no Rio. Ainda me lembro das atividades de conversação dinâmicas e divertidas. Recomendo muito. Ela é uma professora de português excepcional que não apenas me ajudou a aprender o idioma, mas também me proporcionou uma compreensão mais ampla da cultura.
     - name: Nicolas Germain, França
       image: testimonial-nicolas.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: advanced-portuguese
+      course_name: Curso avançado de português
+      source: email
+      source_label: Enviado por email
       text: Olá a todos, fiz uma aula de português de nível intermediário com a Barbara para preparar minha candidatura a um mestrado em Ciências na Universidade Federal do Rio de Janeiro. Foi eficiente e agradável. Recomendo muito; divertida e profissional, a melhor professora que já tive. Passei no teste de ingresso e estou prestes a concluir o curso, obrigado, Barbs!
     - name: Angus Robert, Austrália
       image: testimonial-angus.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2022-05-10
+      course_id: intermediate-portuguese
+      course_name: Curso intermediário de português
+      source: email
+      source_label: Enviado por email
       text: Ao frequentar as aulas da Barbara e vê-la interagir com colegas e alunos, ficou claro o quanto ela era respeitada por sua experiência, conhecimento e escuta atenciosa. Ela também é simplesmente uma ótima pessoa e tem joie de vivre.
     - name: Amy Eagle, Austrália
       image: testimonial-amy.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2015-03-01
+      course_id: beginner-portuguese
+      course_name: Curso de português para iniciantes
+      source: email
+      source_label: Enviado por email
       text: Barbara torna as aulas muito divertidas, por isso acho muito mais fácil aprender.
     - name: Zoe Lec, França
       image: testimonial-zoe.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: beginner-intermediate-portuguese
+      course_name: Curso de português para iniciantes e intermediários
+      source: email
+      source_label: Enviado por email
       text: Minha primeira experiência aprendendo português foi com a Barbara. Graças à energia e ao sorriso contagiante dela, as aulas foram agradáveis, o que tornou o aprendizado incrivelmente fácil. Eu estava realmente feliz. Sua metodologia de ensino se mostrou muito eficiente e agora falo português muito bem.
 - block: answer-links
   id: perguntas-populares-portugues

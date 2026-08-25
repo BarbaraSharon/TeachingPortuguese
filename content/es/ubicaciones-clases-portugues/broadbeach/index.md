@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Broadbeach: Presenciales y Online"
 description: "Clases de portugués brasileño en Broadbeach, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/broadbeach/broadbeach-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Broadbeach: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -39,7 +39,7 @@ Tanto si eres principiante como si deseas perfeccionar conversación, el alumnad
 
 La atmósfera costera relajada de Broadbeach crea el entorno perfecto para estudiar un idioma con concentración. La zona también alberga una creciente comunidad brasileña, con eventos culturales que celebran la riqueza del patrimonio brasileño. Actividades como Saideira Brazilian Festival y Bahia Alegria ofrecen experiencias inmersivas de baile, música y cultura brasileños, y dan al alumnado exposición real al idioma que aprende.
 
-El próximo Brazilian Film Festival Australia 2025, que tendrá lugar en Broadbeach Cultural Centre el 2 de noviembre de 2025, promete enriquecer aún más el panorama cultural. Como Brasil alberga la mayor población lusófona del mundo, aprender portugués brasileño permite comprender la naturaleza evolutiva del idioma y su uso cotidiano. Tanto si buscas una tutora de portugués brasileño en Broadbeach como tutoría particular, este entorno apoya tu camino hacia la fluidez.
+La programación cultural, como el Brazilian Film Festival Australia, ha enriquecido el panorama cultural de Broadbeach. Como Brasil alberga la mayor población lusófona del mundo, aprender portugués brasileño permite comprender la naturaleza evolutiva del idioma y su uso cotidiano. Tanto si buscas una tutora de portugués brasileño en Broadbeach como tutoría particular, este entorno apoya tu camino hacia la fluidez.
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués
 

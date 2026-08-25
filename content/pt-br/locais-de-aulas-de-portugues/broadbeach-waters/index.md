@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Broadbeach Waters: Presenciais e Online"
 description: "Aulas de português em Broadbeach Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/broadbeach-waters/broadbeach-waters-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Broadbeach Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -37,7 +37,7 @@ Localizados a apenas alguns minutos de Surfers Paradise, os alunos de Broadbeach
 
 ## Por que aprender português em Broadbeach Waters?
 
-Broadbeach Waters tem uma comunidade brasileira em crescimento que contribui para o seu ambiente multicultural. A região recebe regularmente eventos culturais, como o Brazilian Festival, Solstice Brazil: BaianaSystem no HOTA, Inbraza Baile, que celebra a cultura afro-brasileira, e o próximo Brazilian Film Festival Australia 2025. Esses eventos oferecem oportunidades valiosas para praticar português em situações reais enquanto você mergulha nas tradições brasileiras.
+Broadbeach Waters tem uma comunidade brasileira em crescimento que contribui para o seu ambiente multicultural. A região recebe regularmente eventos culturais, como o Brazilian Festival, Solstice Brazil: BaianaSystem no HOTA, Inbraza Baile, que celebra a cultura afro-brasileira, e a programação do Brazilian Film Festival Australia. Esses eventos oferecem oportunidades valiosas para praticar português em situações reais enquanto você mergulha nas tradições brasileiras.
 
 Espaços locais como o Broadbeach Cultural Precinct apoiam atividades culturais, e organizações como Barraca Food Truck (Facebook) oferecem comida portuguesa autêntica em encontros da comunidade. Aprender português aqui dá acesso a um dos idiomas mais falados do mundo, abrindo portas para viagens, trabalho e investimentos no Brasil, além de possibilitar a apreciação de sua rica música, cinema, literatura e expressões cotidianas.
 

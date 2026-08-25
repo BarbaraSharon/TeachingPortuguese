@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Oslo"
 description: "Aulas online de português brasileiro em Oslo, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 image:
   filename: pages/portuguese-teaching-locations/oslo/oslo-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -57,7 +57,7 @@ Organizações como Oslozouk realizam workshops, aulas e eventos sociais centrad
 
 Eventos culturais brasileiros regulares - incluindo apresentações musicais, festivais gastronômicos e exposições culturais - são realizados em toda a cidade. Esses eventos oferecem excelentes oportunidades para praticar suas habilidades em português em um ambiente social descontraído, enquanto você desfruta da verdadeira cultura brasileira.
 
-Entre os próximos destaques estão Festival ForroSamba 2025, Verdenskarnevalet 2025, Bora Brasil Show e OslojazzFestival 2025, com música brasileira. Muitos desses eventos são promovidos por redes locais e plataformas online, dando aos estudantes acesso a experiências imersivas com falantes nativos.
+A cena cultural brasileira de Oslo inclui eventos como Festival ForroSamba, Verdenskarnevalet, Bora Brasil Show e OslojazzFestival, com música brasileira. A programação varia a cada ano, e redes locais e plataformas online podem dar aos estudantes acesso a experiências imersivas com falantes nativos.
 
 ## Cultura brasileira e aprendizagem de português
 

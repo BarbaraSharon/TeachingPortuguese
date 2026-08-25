@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 video_publication_date: 2024-01-15T00:00:00+00:00
 translationKey: home
 title: "Learn Brazilian Portuguese with Barbara Sharon"
@@ -130,33 +130,76 @@ sections:
 - block: testimonials
   content:
     title: What students say
+    google_reviews_text: See our 5-star Google reviews
     items:
     - name: Mariano J. Ponce, Argentina
       image: testimonial-mariano.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: intensive-portuguese
+      course_name: Intensive Portuguese Course
+      source: email
+      source_label: Submitted by email
       text: I have done an intensive Portuguese course with Barbara in Rio de Janeiro, and after a month we were all talking
         and laughing in Portuguese. It was a super productive and fun experience. She is the best! Firma, Mariano, o Argentino
         que quase leva a capa do mundo no Maracana!
     - name: Helena Jose, Venezuela
       image: testimonial-helena.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: intensive-portuguese
+      course_name: Intensive Portuguese Course
+      source: email
+      source_label: Submitted by email
       text: Barbara was my Portuguese teacher while I was in Rio. I still remember the dynamic and fun speaking activities.
         I highly recommend her. She is an exceptional Portuguese teacher who not only helped me to learn the language but
         also gave me a broader understanding of the culture.
     - name: Nicolas Germain, France
       image: testimonial-nicolas.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: advanced-portuguese
+      course_name: Advanced Portuguese Course
+      source: email
+      source_label: Submitted by email
       text: Hello all, I did a Portuguese class (intermediate level) with Barbara to prepare my application to a Master of
         Science at the Federal University of Rio de Janeiro. It's been both efficient and pleasant. I strongly recommend it
         here; fun and professional, best teacher I have ever had. I've passed the entry test and I'm about to finish it, thanks
         Barbs!
     - name: Angus Robert, Australia
       image: testimonial-angus.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2022-05-10
+      course_id: intermediate-portuguese
+      course_name: Intermediate Portuguese Course
+      source: email
+      source_label: Submitted by email
       text: Having attended to Barbara's classes and seen her interacting with her peers and students, it was clear she was
         highly regard for her experience, knowledge and sympathetic ear. She is also simply a great person and has a joie
         de vivre.
     - name: Amy Eagle, Australia
       image: testimonial-amy.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2015-03-01
+      course_id: beginner-portuguese
+      course_name: Beginner Portuguese Course
+      source: email
+      source_label: Submitted by email
       text: Barbara makes the classes so much fun, so I find it a lot easier to learn.
     - name: Zoe Lec, France
       image: testimonial-zoe.jpg
+      rating: 5
+      best_rating: 5
+      review_date: 2016-11-23
+      course_id: beginner-intermediate-portuguese
+      course_name: Beginner and Intermediate Portuguese Course
+      source: email
+      source_label: Submitted by email
       text: My first experience learning Portuguese was with Barbara. Thanks to her energy and infectious smile, the lessons
         were enjoyable, making it incredibly easy to learn the language. I was genuinely happy. Her teaching methodology proved
         to be highly efficient, and now, I can speak Portuguese very well.

@@ -3,7 +3,7 @@ translationKey: location-broadbeach
 title: "Portuguese in Broadbeach: In-Person & Online"
 description: "Brazilian Portuguese lessons in Broadbeach, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-25
 aliases:
 - /portuguese-teaching-locations/broadbeach/
 image:
@@ -39,7 +39,7 @@ Whether you're a beginner or looking to refine your conversational skills, stude
 
 Broadbeach's relaxed coastal atmosphere creates the perfect setting for focused language study. The area is also home to a growing Brazilian community, with cultural events that celebrate the richness of Brazilian heritage. Events such as the Saideira Brazilian Festival and Bahia Alegria offer immersive experiences in Brazilian dance, music, and culture - giving students real-world exposure to the language they're learning.
 
-The upcoming Brazilian Film Festival Australia 2025 , taking place at the Broadbeach Cultural Centre on November 2, 2025, promises to further enrich the cultural landscape. As Brazil is home to the largest Portuguese-speaking population in the world, learning Brazilian Portuguese provides insight into the evolving nature of the language and its everyday usage. Whether you're seeking a Brazilian Portuguese tutor broadbeach or a private Portuguese tutor broadbeach , this environment supports your journey toward fluency.
+Cultural programming such as the Brazilian Film Festival Australia has enriched Broadbeach's cultural landscape. As Brazil is home to the largest Portuguese-speaking population in the world, learning Brazilian Portuguese provides insight into the evolving nature of the language and its everyday usage. Whether you're seeking a Brazilian Portuguese tutor broadbeach or a private Portuguese tutor broadbeach , this environment supports your journey toward fluency.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
 Barbara Sharon brings extensive experience and academic credentials to her teaching. Holding a Bachelor's degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ), she brings authentic Brazilian cultural knowledge into every lesson. As a TESOL-certified instructor, Barbara adapts her teaching methods to suit different learning styles and ensures that each student receives personalized attention.

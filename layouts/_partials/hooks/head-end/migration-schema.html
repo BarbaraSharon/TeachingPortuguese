@@ -84,7 +84,57 @@
       {{- $course = merge $course (dict "category" .) -}}
     {{- end -}}
     {{- $graph = $graph | append $course -}}
-  {{- else if eq $schema.type "Article" -}}
+  {{- end -}}
+
+  {{/* Homepage testimonials are genuine course reviews supplied directly by
+       students. Keep them nested under Course nodes so they are not described
+       as self-serving Organization or LocalBusiness reviews. */}}
+  {{- if $page.IsHome -}}
+    {{- $reviewItems := slice -}}
+    {{- range $section := $page.Params.sections -}}
+      {{- if eq $section.block "testimonials" -}}
+        {{- range $item := $section.content.items -}}
+          {{- if and $item.course_id $item.course_name $item.rating $item.review_date $item.text -}}
+            {{- $reviewItems = $reviewItems | append $item -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $courseIDs := slice -}}
+    {{- range $item := $reviewItems -}}
+      {{- if not (in $courseIDs $item.course_id) -}}
+        {{- $courseIDs = $courseIDs | append $item.course_id -}}
+      {{- end -}}
+    {{- end -}}
+    {{- range $courseID := $courseIDs -}}
+      {{- $courseItems := where $reviewItems "course_id" $courseID -}}
+      {{- $first := index $courseItems 0 -}}
+      {{- $reviews := slice -}}
+      {{- range $item := $courseItems -}}
+        {{- $authorParts := split $item.name "," -}}
+        {{- $authorName := index $authorParts 0 -}}
+        {{- $review := dict
+          "@type" "Review"
+          "author" (dict "@type" "Person" "name" $authorName)
+          "reviewBody" $item.text
+          "reviewRating" (dict "@type" "Rating" "ratingValue" $item.rating "bestRating" ($item.best_rating | default 5) "worstRating" 1)
+          "datePublished" (printf "%s" $item.review_date)
+        -}}
+        {{- $reviews = $reviews | append $review -}}
+      {{- end -}}
+      {{- $course := dict
+        "@id" (printf "%s#course-review-%s" $page.Permalink $courseID)
+        "@type" "Course"
+        "name" $first.course_name
+        "url" (printf "%s#section-testimonials" $page.Permalink)
+        "inLanguage" $pageLanguage
+        "provider" (dict "@id" $orgID)
+        "review" $reviews
+      -}}
+      {{- $graph = $graph | append $course -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq $schema.type "Article" -}}
     {{- $articleHeadline := $schema.headline | default $page.Title -}}
     {{- $articleDescription := $schema.description | default $page.Description -}}
     {{- $article := dict
@@ -157,7 +207,7 @@
   {{/* Breadcrumb JSON-LD is intentionally sitewide for every indexable,
        non-home content page. Do not restrict it to page layouts that also
        render a visible breadcrumb trail. */}}
-  {{- if and (not $page.IsHome) (not (strings.Contains $robots "noindex")) -}}
+  {{- if and (not $page.IsHome) (not (eq $page.Kind "404")) (not (strings.Contains $robots "noindex")) -}}
     {{- $breadcrumbItems := slice (dict "@type" "ListItem" "position" 1 "name" $page.Site.Home.Title "item" $page.Site.Home.Permalink) -}}
     {{- range $page.Ancestors.Reverse -}}
       {{- if not .IsHome -}}
