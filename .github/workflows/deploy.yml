@@ -99,7 +99,7 @@ jobs:
       uses: actions/checkout@v6
       with:
         sparse-checkout: |
-          barbarasharon.com.au/scripts/indexnow.mjs
+          scripts/indexnow.mjs
         sparse-checkout-cone-mode: false
 
     - name: Download IndexNow URL manifests
@@ -121,7 +121,7 @@ jobs:
       run: |
         FULL_FLAG=""
         if [ "$INDEXNOW_FULL" = "true" ]; then FULL_FLAG="--full"; fi
-        node barbarasharon.com.au/scripts/indexnow.mjs submit \
+        node scripts/indexnow.mjs submit \
           --urls-file indexnow/indexnow-changes.txt \
           --all-file indexnow/indexnow-all.txt \
           --log indexnow-status.log \
