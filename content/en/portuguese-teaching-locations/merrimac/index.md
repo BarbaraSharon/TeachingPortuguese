@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/merrimac/
 image:
   filename: pages/portuguese-teaching-locations/merrimac/merrimac-portuguese-lesson.png
-  alt_text: "Brazilian Portuguese lessons in Merrimac — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Merrimac - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations

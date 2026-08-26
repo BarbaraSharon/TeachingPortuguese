@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/ernest/
 image:
   filename: pages/portuguese-teaching-locations/ernest/ernest-location-portuguese-lesson.png
-  alt_text: "Brazilian Portuguese lessons in Ernest — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Ernest - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations

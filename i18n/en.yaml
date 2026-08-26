@@ -189,7 +189,7 @@
 - id: location_time_zone
   translation: IANA time zone
 - id: location_region_gold_coast
-  translation: Gold Coast — online and in-person lessons
+  translation: Gold Coast - online and in-person lessons
 - id: location_region_australia_new_zealand
   translation: Australia & New Zealand
 - id: location_region_asia

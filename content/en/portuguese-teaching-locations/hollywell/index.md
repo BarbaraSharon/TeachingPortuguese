@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/hollywell/
 image:
   filename: pages/portuguese-teaching-locations/hollywell/hollywell-brazilian-portuguese-tutor.png
-  alt_text: "Brazilian Portuguese lessons in Hollywell — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Hollywell - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations

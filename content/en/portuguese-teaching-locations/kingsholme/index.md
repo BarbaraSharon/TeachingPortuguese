@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/kingsholme/
 image:
   filename: pages/portuguese-teaching-locations/kingsholme/kingsholme-brazilian-portuguese-tutor.png
-  alt_text: "Brazilian Portuguese lessons in Kingsholme — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Kingsholme - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations

@@ -101,7 +101,7 @@ function TrustStrip({trust, alignKey = "center"}) {
 }
 
 // Announcement: pill above the title with optional leading badge.
-// announcement.badge: {text, color?} — color is one of: primary | green | amber | rose
+// announcement.badge: {text, color?} - color is one of: primary | green | amber | rose
 const BADGE_COLORS = {
   primary: "bg-primary-100 text-primary-700 dark:bg-primary-900/40 dark:text-primary-300",
   green: "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-300",
@@ -139,10 +139,10 @@ function AnnouncementPill({announcement, alignKey = "center"}) {
   );
 }
 
-// Hero size presets — full literal class strings (Tailwind scanner safety).
+// Hero size presets - full literal class strings (Tailwind scanner safety).
 // `default` is the modern 2026 baseline (~96-160px vertical padding).
 // `tall` is the legacy size for when the hero needs more visual weight.
-// `viewport` fills the screen — vertically centred content, useful for splash heroes.
+// `viewport` fills the screen - vertically centred content, useful for splash heroes.
 const SIZE_CLASSES = {
   compact: "py-16 sm:py-20 lg:py-24",
   default: "py-24 sm:py-32 lg:py-40",
@@ -157,7 +157,7 @@ const ALIGN_MX = {center: "mx-auto", left: ""};
 
 // Layout presets. `centered` is the classic stacked hero. `split-*` puts text and media
 // side-by-side (the dominant 2026 SaaS pattern). `stacked` keeps text top-aligned with
-// media full-width below — useful for product screenshots that need horizontal real estate.
+// media full-width below - useful for product screenshots that need horizontal real estate.
 const LAYOUTS = {
   centered: {container: "max-w-2xl", grid: false, stacked: false, reverse: false},
   "split-left": {container: "max-w-7xl", grid: true, stacked: false, reverse: false},

@@ -4,7 +4,7 @@ translationKey: answer-time-to-learn-brazilian-portuguese
 type: answers
 description: "Descubre qué determina el tiempo para aprender portugués brasileño y cómo medir avances reales en conversación, escucha y pronunciación."
 question: "¿Cuánto se tarda en aprender portugués brasileño?"
-direct_answer: "No existe un plazo único para aprender portugués brasileño. El progreso depende de tu lengua inicial, objetivo, frecuencia de clases, práctica independiente, oportunidades para hablar y qué entiendes por «aprender». Mide logros útiles —presentarte, comprender un tema conocido o mantener una conversación breve— en vez de esperar una fecha garantizada de fluidez. La práctica regular y las correcciones concretas hacen visible el avance."
+direct_answer: "No existe un plazo único para aprender portugués brasileño. El progreso depende de tu lengua inicial, objetivo, frecuencia de clases, práctica independiente, oportunidades para hablar y qué entiendes por «aprender». Mide logros útiles -presentarte, comprender un tema conocido o mantener una conversación breve- en vez de esperar una fecha garantizada de fluidez. La práctica regular y las correcciones concretas hacen visible el avance."
 authors: [me]
 date: 2026-08-20
 lastmod: 2026-08-20

@@ -165,17 +165,17 @@ for (const [language, config] of Object.entries(languages)) {
 const comparisonPageChecks = {
   en: {
     costLabel: 'No marketplace fee layer between learner and teacher',
-    dependsLabel: 'Teacher-dependent — not star-rated',
+    dependsLabel: 'Teacher-dependent - not star-rated',
     costSummary: 'Working directly removes that marketplace fee layer',
   },
   es: {
     costLabel: 'Sin una capa de cargos de plataforma entre estudiante y docente',
-    dependsLabel: 'Depende del docente — sin estrellas',
+    dependsLabel: 'Depende del docente - sin estrellas',
     costSummary: 'El trato directo elimina esa capa de cargos',
   },
   'pt-br': {
     costLabel: 'Sem uma camada de cobrança da plataforma entre aluno e professor',
-    dependsLabel: 'Depende do professor — sem estrelas',
+    dependsLabel: 'Depende do professor - sem estrelas',
     costSummary: 'A contratação direta elimina essa camada de cobrança',
   },
 };

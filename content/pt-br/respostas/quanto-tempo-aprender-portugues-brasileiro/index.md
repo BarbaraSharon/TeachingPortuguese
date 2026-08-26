@@ -4,7 +4,7 @@ translationKey: answer-time-to-learn-brazilian-portuguese
 type: answers
 description: "Entenda o que determina o tempo para aprender português brasileiro e como medir avanços reais em conversação, escuta e pronúncia."
 question: "Quanto tempo leva para aprender português brasileiro?"
-direct_answer: "Não existe um prazo único para aprender português brasileiro. O progresso depende do idioma inicial, objetivo, frequência das aulas, prática independente, oportunidades de fala e do que você chama de “aprender”. Meça conquistas úteis — apresentar-se, compreender um tema conhecido ou sustentar uma conversa curta — em vez de esperar uma data garantida de fluência. Prática regular e feedback específico tornam o avanço mais visível."
+direct_answer: "Não existe um prazo único para aprender português brasileiro. O progresso depende do idioma inicial, objetivo, frequência das aulas, prática independente, oportunidades de fala e do que você chama de “aprender”. Meça conquistas úteis - apresentar-se, compreender um tema conhecido ou sustentar uma conversa curta - em vez de esperar uma data garantida de fluência. Prática regular e feedback específico tornam o avanço mais visível."
 authors: [me]
 date: 2026-08-20
 lastmod: 2026-08-20

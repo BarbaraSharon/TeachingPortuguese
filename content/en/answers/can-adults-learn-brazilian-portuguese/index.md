@@ -51,7 +51,7 @@ Useful adjustments include:
 
 ## Pronunciation can change with practice
 
-Adults can develop clearer Brazilian Portuguese pronunciation. The process requires listening closely, noticing how a sound differs from English, experimenting with mouth position and rhythm, and receiving feedback. The aim is understandable, increasingly natural speech—not erasing every trace of an accent.
+Adults can develop clearer Brazilian Portuguese pronunciation. The process requires listening closely, noticing how a sound differs from English, experimenting with mouth position and rhythm, and receiving feedback. The aim is understandable, increasingly natural speech-not erasing every trace of an accent.
 
 The [Brazilian Portuguese pronunciation answer](/en/answers/improve-brazilian-portuguese-pronunciation/) provides a practical routine.
 

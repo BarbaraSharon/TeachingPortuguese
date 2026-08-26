@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/lower-beechmont/
 image:
   filename: pages/portuguese-teaching-locations/lower-beechmont/lower-beechmont-brazilian-portuguese-tutor.png
-  alt_text: "Brazilian Portuguese lessons in Lower Beechmont — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Lower Beechmont - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations

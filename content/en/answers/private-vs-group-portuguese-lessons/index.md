@@ -49,7 +49,7 @@ Private and group lessons can both include conversation, listening, pronunciatio
 
 ## When private lessons may suit you
 
-Choose private lessons when you have a specific deadline, need detailed pronunciation work, want to focus on recurring errors or prefer to ask questions without waiting for a group. They can also help when your needs do not follow a standard sequence—for example, preparing to meet family, handling a work situation or rehearsing a travel itinerary.
+Choose private lessons when you have a specific deadline, need detailed pronunciation work, want to focus on recurring errors or prefer to ask questions without waiting for a group. They can also help when your needs do not follow a standard sequence-for example, preparing to meet family, handling a work situation or rehearsing a travel itinerary.
 
 [Private Portuguese lessons on the Gold Coast](/en/portuguese-teaching-services/portuguese-tutoring-gold-coast/) are subject to current availability. Private online lessons can make the format accessible from elsewhere in Australia.
 

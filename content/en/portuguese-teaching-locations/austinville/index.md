@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/austinville/
 image:
   filename: pages/portuguese-teaching-locations/austinville/austinville-brazilian-portuguese-lesson.png
-  alt_text: "Brazilian Portuguese lessons in Austinville — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Austinville - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations

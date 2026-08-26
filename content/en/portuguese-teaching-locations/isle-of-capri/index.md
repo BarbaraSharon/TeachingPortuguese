@@ -8,7 +8,7 @@ aliases:
 - /portuguese-teaching-locations/isle-of-capri/
 image:
   filename: pages/portuguese-teaching-locations/isle-of-capri/isle-of-capri-brazilian-portuguese-tutor.png
-  alt_text: "Brazilian Portuguese lessons in Isle Of Capri — online and in-person Gold Coast options with Barbara Sharon"
+  alt_text: "Brazilian Portuguese lessons in Isle Of Capri - online and in-person Gold Coast options with Barbara Sharon"
 robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
