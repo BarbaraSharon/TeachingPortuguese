@@ -7,7 +7,7 @@ question: "Clases de portugués privadas o grupales: ¿cuál elegir?"
 direct_answer: "Las clases privadas de portugués suelen funcionar mejor para objetivos individuales, un ritmo flexible y correcciones concentradas. Las clases grupales permiten interactuar con varias personas, practicar turnos y compartir el aprendizaje. Ningún formato es siempre superior. Elige según la precisión de tu objetivo, la atención individual que necesitas, el entorno social que prefieres, tus horarios y la disponibilidad actual."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 80
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,10 @@ related_pages:
   url: /es/servicios-clases-portugues/clases-portugues-online/
 - title: Precios de clases en Australia
   url: /es/respuestas/cuanto-cuestan-clases-portugues-australia/
+- title: Profesor, tutor, clase, curso o escuela
+  url: /es/respuestas/profesor-tutor-clase-curso-o-escuela-portugues/
+- title: Clase de conversación o curso estructurado
+  url: /es/respuestas/clase-conversacion-o-curso-estructurado-portugues/
 - title: Contactar con Barbara
   url: /es/contacto-profesora-portugues/
 migration_schema:

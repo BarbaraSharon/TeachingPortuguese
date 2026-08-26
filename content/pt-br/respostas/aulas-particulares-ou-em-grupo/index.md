@@ -7,7 +7,7 @@ question: "Aulas particulares ou em grupo: qual escolher?"
 direct_answer: "Aulas particulares de português costumam funcionar melhor para objetivos individuais, ritmo flexível e feedback concentrado. Aulas em grupo permitem interagir com várias pessoas, praticar turnos e compartilhar a aprendizagem. Nenhum formato é sempre superior. Escolha conforme a especificidade do seu objetivo, a atenção individual necessária, o ambiente social preferido, seus horários e a disponibilidade atual."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 80
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,10 @@ related_pages:
   url: /pt-br/aulas-de-portugues/aulas-online/
 - title: Preços das aulas na Austrália
   url: /pt-br/respostas/quanto-custam-aulas-portugues-australia/
+- title: Professor, tutor, aula, curso ou escola
+  url: /pt-br/respostas/professor-tutor-aula-curso-ou-escola-portugues/
+- title: Aula de conversação ou curso estruturado
+  url: /pt-br/respostas/aula-conversacao-ou-curso-estruturado-portugues/
 - title: Fale com Barbara
   url: /pt-br/contato-professora-portugues/
 migration_schema:

@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Club de conversación en portugués brasileño"
 description: "Practica conversación en portugués brasileño con Barbara Sharon en un club de apoyo que anima a hablar, escuchar y comunicarse con naturalidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/portuguese-speaking-club/portuguese-speaking-club-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -98,3 +98,5 @@ No dejes que las dudas te detengan. El Club de conversación en portugués es tu
 La guía [cómo aprender portugués para viajes y conversación](/es/respuestas/aprender-portugues-viajes-conversacion/) explica cómo practicar diálogos probables, respuestas, pronunciación y contexto cultural antes de viajar o participar en una sesión de conversación.
 
 Si comprendes portugués pero dudas al responder, consulta [¿Por qué entiendo portugués pero no puedo hablarlo?](/es/respuestas/entender-portugues-no-hablarlo/) para practicar recuerdo activo y estructuras reutilizables.
+
+Si no sabes si necesitas práctica abierta o una secuencia de aprendizaje, compara una [clase de conversación con un curso estructurado](/es/respuestas/clase-conversacion-o-curso-estructurado-portugues/).

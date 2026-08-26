@@ -3,7 +3,7 @@ translationKey: faq-aprendizagem-portuguesa
 title: "Preguntas sobre las clases de portugués"
 description: "Encuentra respuestas claras sobre clases de portugués brasileño, métodos de estudio, pronunciación, formatos y objetivos de aprendizaje con Barbara Sharon."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/faq-learning-portuguese/faq-learning-portuguese-brazilian-portuguese-lessons.png
   alt_text: Preguntas frecuentes sobre aprender portugués con Barbara Sharon
@@ -245,3 +245,7 @@ Busca progresión desde destrezas básicas hasta avanzadas, equilibrio entre gra
 ## Empieza a aprender
 
 Si buscas clases de portugués en línea, apoyo para viajar o una profesora que entienda tus objetivos, [contacta con Barbara Sharon](/es/contacto-profesora-portugues/) y reserva una clase de prueba gratuita.
+
+## Más guías para decidir
+
+Compara [profesor, tutor, clase, curso o escuela](/es/respuestas/profesor-tutor-clase-curso-o-escuela-portugues/), descubre [qué debe incluir una buena clase de portugués brasileño](/es/respuestas/que-incluye-buena-clase-portugues-brasileno/) y usa la [lista de preguntas antes de reservar con un profesor online](/es/respuestas/preguntas-antes-reservar-profesor-portugues-online/) antes de consultar.

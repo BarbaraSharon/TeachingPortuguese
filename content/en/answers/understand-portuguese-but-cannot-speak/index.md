@@ -7,7 +7,7 @@ question: "Why Can I Understand Portuguese but Not Speak It?"
 direct_answer: "Understanding Portuguese and speaking it use different skills. Listening lets you recognise language with context, while speaking requires you to retrieve words, build a sentence, pronounce it and respond in real time. The gap grows when most study is passive. Close it through short speaking tasks, active recall, repeated conversations, useful sentence patterns and feedback that helps you correct and reuse your own language."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 140
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,10 @@ related_pages:
   url: /en/answers/need-grammar-to-speak-portuguese/
 - title: Online Portuguese lessons
   url: /en/portuguese-teaching-services/online-portuguese-lessons/
+- title: Why Brazilian Portuguese sounds fast
+  url: /en/answers/brazilian-portuguese-fast-listening/
+- title: Stop translating into English when speaking
+  url: /en/answers/stop-translating-english-speaking-portuguese/
 - title: Contact Barbara
   url: /en/contact-portuguese-teacher/
 migration_schema:

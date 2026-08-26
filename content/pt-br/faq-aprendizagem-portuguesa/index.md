@@ -3,7 +3,7 @@ translationKey: faq-aprendizagem-portuguesa
 title: "Dúvidas sobre aulas de português brasileiro"
 description: "Encontre respostas claras sobre aulas de português brasileiro, métodos de estudo, pronúncia, formatos e objetivos de aprendizagem com Barbara Sharon."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/faq-learning-portuguese/faq-learning-portuguese-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -281,3 +281,7 @@ Para determinar se um método de ensino de português é realmente eficaz, espec
 - Ferramentas ou sistemas para acompanhar o progresso dos alunos ao longo do tempo.
 
 Um método eficaz de ensino de português deve levar a melhorias concretas nas habilidades de comunicação e dar aos alunos confiança para usar português em situações do mundo real.
+
+## Mais guias para decidir
+
+Compare [professor, tutor, aula, curso ou escola](/pt-br/respostas/professor-tutor-aula-curso-ou-escola-portugues/), veja [o que uma boa aula de português brasileiro deve incluir](/pt-br/respostas/o-que-boa-aula-portugues-brasileiro-deve-incluir/) e use a [lista de perguntas antes de contratar um professor online](/pt-br/respostas/perguntas-antes-contratar-professor-portugues-online/) antes de entrar em contato.

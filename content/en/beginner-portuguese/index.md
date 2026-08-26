@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Beginner Brazilian Portuguese Lessons"
 description: "Start Brazilian Portuguese with practical conversation, pronunciation, vocabulary, grammar, and cultural guidance in private or group lessons."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -104,6 +104,12 @@ sections:
     - title: Are online lessons effective for beginners?
       text: Look for live speaking, a clear sequence, specific feedback and practice between lessons.
       url: /en/answers/online-portuguese-lessons-effective-beginners/
+    - title: What type of class suits a complete beginner?
+      text: Compare private, small-group and self-paced formats against support and speaking time.
+      url: /en/answers/best-portuguese-class-complete-beginners/
+    - title: How do I start Brazilian Portuguese from zero?
+      text: Follow a practical first-month sequence built around useful sounds, phrases and routines.
+      url: /en/answers/start-learning-brazilian-portuguese-from-zero/
 - block: cta-card
   content:
     title: Ready to start Portuguese?

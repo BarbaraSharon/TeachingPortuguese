@@ -7,7 +7,7 @@ question: "Por que entendo português, mas não consigo falar?"
 direct_answer: "Compreender português e falar o idioma exigem habilidades diferentes. Ao escutar, você reconhece a língua com ajuda do contexto; ao falar, precisa recuperar palavras, construir uma frase, pronunciá-la e responder em tempo real. A diferença aumenta quando o estudo é principalmente passivo. Reduza-a com tarefas orais curtas, lembrança ativa, conversas repetidas, estruturas úteis e feedback que permita reutilizar sua própria linguagem."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 140
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,10 @@ related_pages:
   url: /pt-br/respostas/preciso-gramatica-falar-portugues/
 - title: Aulas de português online
   url: /pt-br/aulas-de-portugues/aulas-online/
+- title: Por que o português brasileiro parece tão rápido
+  url: /pt-br/respostas/por-que-portugues-brasileiro-parece-tao-rapido/
+- title: Parar de traduzir do inglês ao falar
+  url: /pt-br/respostas/parar-traduzir-ingles-falar-portugues/
 - title: Fale com Barbara
   url: /pt-br/contato-professora-portugues/
 migration_schema:

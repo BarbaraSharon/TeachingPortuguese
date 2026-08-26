@@ -3,7 +3,7 @@ translationKey: faq-aprendizagem-portuguesa
 title: "Brazilian Portuguese Lessons: FAQs Answered"
 description: "Find clear answers about Brazilian Portuguese lessons, study methods, pronunciation, formats, and learning goals with Barbara Sharon on the Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 aliases:
 - /faq-learning-portuguese/
 image:
@@ -248,3 +248,7 @@ To determine whether a Portuguese teaching method is truly effective, especially
 - Tools or systems for tracking student progress over time
 
 An effective Portuguese teaching method should lead to tangible improvements in communication skills and provide students with confidence to use Portuguese in real-world situations.
+
+## More decision guides
+
+Compare a [teacher, tutor, class, course or school](/en/answers/portuguese-teacher-tutor-class-course-or-school/), learn [what a good Brazilian Portuguese lesson should include](/en/answers/what-good-brazilian-portuguese-lesson-includes/), and use the [online-teacher booking checklist](/en/answers/questions-before-booking-online-portuguese-teacher/) before you enquire.

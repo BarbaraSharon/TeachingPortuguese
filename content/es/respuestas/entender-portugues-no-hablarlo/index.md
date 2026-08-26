@@ -7,7 +7,7 @@ question: "¿Por qué entiendo portugués pero no puedo hablarlo?"
 direct_answer: "Comprender portugués y hablarlo requieren destrezas distintas. Al escuchar reconoces el idioma con ayuda del contexto; al hablar debes recuperar palabras, construir una frase, pronunciarla y responder en tiempo real. La brecha aumenta cuando el estudio es principalmente pasivo. Redúcela con tareas orales breves, recuerdo activo, conversaciones repetidas, estructuras útiles y correcciones que te permitan reutilizar tu propio lenguaje."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 140
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,10 @@ related_pages:
   url: /es/respuestas/necesito-gramatica-hablar-portugues/
 - title: Clases de portugués online
   url: /es/servicios-clases-portugues/clases-portugues-online/
+- title: Por qué el portugués brasileño suena tan rápido
+  url: /es/respuestas/por-que-portugues-brasileno-suena-rapido/
+- title: Dejar de traducir del inglés al hablar
+  url: /es/respuestas/dejar-traducir-ingles-hablar-portugues/
 - title: Contactar con Barbara
   url: /es/contacto-profesora-portugues/
 migration_schema:

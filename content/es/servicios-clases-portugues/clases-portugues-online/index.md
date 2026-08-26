@@ -107,6 +107,12 @@ sections:
     - title: ¿Cuánto cuestan las clases de portugués en Australia?
       text: Compara formato, tiempo docente, correcciones, materiales y condiciones actuales.
       url: /es/respuestas/cuanto-cuestan-clases-portugues-australia/
+    - title: ¿Clases en vivo, aplicaciones, cursos grabados o tutores de IA?
+      text: Usa cada herramienta para lo que hace bien y mantén práctica real de conversación.
+      url: /es/respuestas/clases-en-vivo-apps-cursos-grabados-tutores-ia/
+    - title: ¿Qué preguntar antes de reservar con un profesor online?
+      text: Comprueba formación, estructura, correcciones, variedad, formato y condiciones prácticas.
+      url: /es/respuestas/preguntas-antes-reservar-profesor-portugues-online/
 - block: cta-card
   content:
     title: ¿Listo para aprender en línea?

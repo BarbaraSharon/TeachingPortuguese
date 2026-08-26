@@ -110,6 +110,12 @@ sections:
     - title: How much do Portuguese lessons cost in Australia?
       text: Compare format, teaching time, feedback, materials and current terms.
       url: /en/answers/how-much-portuguese-lessons-cost-australia/
+    - title: Live lessons, apps, recorded courses or AI tutors?
+      text: Choose each tool for the job it does well and keep real speaking practice in the mix.
+      url: /en/answers/live-lessons-apps-recorded-courses-ai-tutors/
+    - title: What should I ask before booking an online teacher?
+      text: Check qualifications, lesson structure, feedback, variety, format and practical terms.
+      url: /en/answers/questions-before-booking-online-portuguese-teacher/
 - block: cta-card
   content:
     title: Ready to learn online?

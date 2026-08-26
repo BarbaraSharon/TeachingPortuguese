@@ -3,7 +3,7 @@ translationKey: como-aprender-portugues
 title: "Como aprender português brasileiro com clareza"
 description: "Descubra uma forma prática de aprender português brasileiro com conversação, escuta, vocabulário, gramática e contexto cultural que cabe na rotina."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/howto-learn-portuguese/howto-learn-portuguese-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -132,6 +132,13 @@ Aprender português não precisa ser estressante. Com uma razão clara, entendim
 Se você tem interesse em aulas de português online, em uma professora de português na Austrália ou quer saber qual é a melhor maneira de aprender português, a abordagem de Barbara Sharon pode ajudar você a alcançar seus objetivos.
 
 [Agende hoje sua aula experimental gratuita](/pt-br/contato-professora-portugues/)
+
+## Mais respostas diretas sobre aprendizagem
+
+- [Como começar a aprender português brasileiro do zero?](/pt-br/respostas/comecar-portugues-brasileiro-do-zero/)
+- [O que praticar entre as aulas de português?](/pt-br/respostas/praticar-entre-aulas-portugues/)
+- [Por que o português brasileiro parece tão rápido?](/pt-br/respostas/por-que-portugues-brasileiro-parece-tao-rapido/)
+- [Como parar de traduzir do inglês ao falar português?](/pt-br/respostas/parar-traduzir-ingles-falar-portugues/)
 
 ## Resposta prática: escolha um método que você consiga manter
 

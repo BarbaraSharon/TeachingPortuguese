@@ -7,7 +7,7 @@ question: "Qual é a melhor forma de aprender português brasileiro?"
 direct_answer: "Uma forma eficaz de aprender português brasileiro combina conversação frequente, escuta, pronúncia, vocabulário útil, gramática em contexto e correções específicas. Defina uma meta concreta, pratique várias vezes por semana e reutilize o que aprendeu em novas situações. Uma professora qualificada pode organizar essa prática, identificar erros recorrentes e adaptar as aulas à medida que sua confiança aumenta."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 30
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,10 @@ related_pages:
   url: /pt-br/aulas-de-portugues/aulas-online/
 - title: Clube de Conversação
   url: /pt-br/clube-de-conversacao/
+- title: Começar português brasileiro do zero
+  url: /pt-br/respostas/comecar-portugues-brasileiro-do-zero/
+- title: Praticar entre as aulas de português
+  url: /pt-br/respostas/praticar-entre-aulas-portugues/
 - title: Fale com Barbara
   url: /pt-br/contato-professora-portugues/
 migration_schema:

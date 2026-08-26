@@ -3,7 +3,7 @@ translationKey: como-aprender-portugues
 title: "How to Learn Brazilian Portuguese Effectively"
 description: "Explore practical Brazilian Portuguese study through conversation, listening, vocabulary, grammar, and cultural context that fits your routine."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 aliases:
 - /howto-learn-portuguese/
 image:
@@ -122,6 +122,10 @@ For a concise method built around goals, speaking, listening, feedback and revie
 - [Do I need grammar to speak Portuguese?](/en/answers/need-grammar-to-speak-portuguese/)
 - [How can I improve Brazilian Portuguese pronunciation?](/en/answers/improve-brazilian-portuguese-pronunciation/)
 - [Why can I understand Portuguese but not speak it?](/en/answers/understand-portuguese-but-cannot-speak/)
+- [How do I start Brazilian Portuguese from zero?](/en/answers/start-learning-brazilian-portuguese-from-zero/)
+- [What should I practise between Portuguese lessons?](/en/answers/practice-between-portuguese-lessons/)
+- [Why does Brazilian Portuguese sound so fast?](/en/answers/brazilian-portuguese-fast-listening/)
+- [How do I stop translating into English when speaking Portuguese?](/en/answers/stop-translating-english-speaking-portuguese/)
 ## Our Portuguese Learning Services
 ### Online Portuguese Lessons
 

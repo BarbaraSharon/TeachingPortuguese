@@ -44,6 +44,18 @@ const languages = {
       ['answer-improve-brazilian-portuguese-pronunciation', 'improve-brazilian-portuguese-pronunciation', 'How Can I Improve Brazilian Portuguese Pronunciation?'],
       ['answer-portuguese-spanish-similarity', 'how-similar-portuguese-spanish', 'How Similar Are Portuguese and Spanish?'],
       ['answer-portuguese-brazilian-partner-family', 'learn-portuguese-brazilian-partner', 'How Can I Learn Portuguese for a Brazilian Partner?'],
+      ['answer-choose-portuguese-learning-format', 'portuguese-teacher-tutor-class-course-or-school', 'Portuguese Teacher, Tutor, Course or School?'],
+      ['answer-native-speaker-vs-qualified-teacher', 'native-speaker-vs-qualified-portuguese-teacher', 'Native Speaker or Qualified Portuguese Teacher?'],
+      ['answer-good-brazilian-portuguese-lesson', 'what-good-brazilian-portuguese-lesson-includes', 'What Should a Good Brazilian Portuguese Lesson Include?'],
+      ['answer-live-lessons-vs-apps-courses-ai', 'live-lessons-apps-recorded-courses-ai-tutors', 'Portuguese Lessons, Apps, Courses or AI Tutors?'],
+      ['answer-beginner-portuguese-class-format', 'best-portuguese-class-complete-beginners', 'Which Portuguese Class Suits a Complete Beginner?'],
+      ['answer-conversation-class-vs-structured-course', 'conversation-class-vs-structured-portuguese-course', 'Portuguese Conversation Class or Structured Course?'],
+      ['answer-questions-book-online-portuguese-teacher', 'questions-before-booking-online-portuguese-teacher', 'Questions Before Booking an Online Portuguese Teacher'],
+      ['answer-choose-brazilian-vs-european-portuguese', 'brazilian-vs-european-portuguese-which-to-learn', 'Should I Learn Brazilian or European Portuguese?'],
+      ['answer-start-brazilian-portuguese-zero', 'start-learning-brazilian-portuguese-from-zero', 'How Do I Start Learning Brazilian Portuguese from Zero?'],
+      ['answer-practice-between-portuguese-lessons', 'practice-between-portuguese-lessons', 'What Should I Practise Between Portuguese Lessons?'],
+      ['answer-brazilian-portuguese-fast-listening', 'brazilian-portuguese-fast-listening', 'Why Does Brazilian Portuguese Sound So Fast?'],
+      ['answer-stop-translating-english-portuguese', 'stop-translating-english-speaking-portuguese', 'How to Stop Translating When Speaking Portuguese'],
     ],
   },
   es: {
@@ -81,6 +93,18 @@ const languages = {
       ['answer-improve-brazilian-portuguese-pronunciation', 'mejorar-pronunciacion-portugues-brasileno', '¿Cómo mejorar mi pronunciación en portugués brasileño?'],
       ['answer-portuguese-spanish-similarity', 'similitud-portugues-espanol', '¿Cuánto se parecen el portugués y el español?'],
       ['answer-portuguese-brazilian-partner-family', 'aprender-portugues-pareja-brasilena', '¿Cómo aprender portugués para una pareja brasileña?'],
+      ['answer-choose-portuguese-learning-format', 'profesor-tutor-clase-curso-o-escuela-portugues', '¿Profesor, tutor, curso o escuela de portugués?'],
+      ['answer-native-speaker-vs-qualified-teacher', 'hablante-nativo-o-profesor-portugues-cualificado', '¿Hablante nativo o profesor de portugués?'],
+      ['answer-good-brazilian-portuguese-lesson', 'que-incluye-buena-clase-portugues-brasileno', '¿Qué debe incluir una buena clase de portugués brasileño?'],
+      ['answer-live-lessons-vs-apps-courses-ai', 'clases-en-vivo-apps-cursos-grabados-tutores-ia', '¿Clases, aplicaciones, cursos o tutores de IA?'],
+      ['answer-beginner-portuguese-class-format', 'clase-portugues-para-principiantes-absolutos', '¿Qué clase de portugués conviene al principiante?'],
+      ['answer-conversation-class-vs-structured-course', 'clase-conversacion-o-curso-estructurado-portugues', '¿Conversación o curso estructurado de portugués?'],
+      ['answer-questions-book-online-portuguese-teacher', 'preguntas-antes-reservar-profesor-portugues-online', 'Preguntas para un profesor de portugués online'],
+      ['answer-choose-brazilian-vs-european-portuguese', 'aprender-portugues-brasileno-o-europeo', '¿Portugués de Brasil o de Portugal: cuál aprender?'],
+      ['answer-start-brazilian-portuguese-zero', 'empezar-portugues-brasileno-desde-cero', '¿Cómo empezar a aprender portugués brasileño desde cero?'],
+      ['answer-practice-between-portuguese-lessons', 'practicar-entre-clases-portugues', '¿Qué practicar entre clases de portugués?'],
+      ['answer-brazilian-portuguese-fast-listening', 'por-que-portugues-brasileno-suena-rapido', '¿Por qué el portugués brasileño suena tan rápido?'],
+      ['answer-stop-translating-english-portuguese', 'dejar-traducir-ingles-hablar-portugues', '¿Cómo dejar de traducir del inglés al hablar portugués?'],
     ],
   },
   'pt-br': {
@@ -118,9 +142,25 @@ const languages = {
       ['answer-improve-brazilian-portuguese-pronunciation', 'melhorar-pronuncia-portugues-brasileiro', 'Como melhorar a pronúncia do português brasileiro?'],
       ['answer-portuguese-spanish-similarity', 'semelhanca-portugues-espanhol', 'Qual é a semelhança entre português e espanhol?'],
       ['answer-portuguese-brazilian-partner-family', 'aprender-portugues-parceiro-brasileiro', 'Como aprender português para um parceiro brasileiro?'],
+      ['answer-choose-portuguese-learning-format', 'professor-tutor-aula-curso-ou-escola-portugues', 'Professor, tutor, curso ou escola de português?'],
+      ['answer-native-speaker-vs-qualified-teacher', 'falante-nativo-ou-professor-portugues-qualificado', 'Falante nativo ou professor de português?'],
+      ['answer-good-brazilian-portuguese-lesson', 'o-que-boa-aula-portugues-brasileiro-deve-incluir', 'O que uma boa aula de português brasileiro deve incluir?'],
+      ['answer-live-lessons-vs-apps-courses-ai', 'aulas-ao-vivo-aplicativos-cursos-gravados-tutores-ia', 'Aulas, aplicativos, cursos ou tutores de IA?'],
+      ['answer-beginner-portuguese-class-format', 'aula-portugues-para-iniciantes-absolutos', 'Qual aula de português serve para iniciantes?'],
+      ['answer-conversation-class-vs-structured-course', 'aula-conversacao-ou-curso-estruturado-portugues', 'Conversação ou curso estruturado de português?'],
+      ['answer-questions-book-online-portuguese-teacher', 'perguntas-antes-contratar-professor-portugues-online', 'Perguntas para um professor de português online'],
+      ['answer-choose-brazilian-vs-european-portuguese', 'aprender-portugues-brasileiro-ou-europeu', 'Devo aprender português brasileiro ou europeu?'],
+      ['answer-start-brazilian-portuguese-zero', 'comecar-portugues-brasileiro-do-zero', 'Como começar a aprender português brasileiro do zero?'],
+      ['answer-practice-between-portuguese-lessons', 'praticar-entre-aulas-portugues', 'O que praticar entre as aulas de português?'],
+      ['answer-brazilian-portuguese-fast-listening', 'por-que-portugues-brasileiro-parece-tao-rapido', 'Por que o português brasileiro parece tão rápido?'],
+      ['answer-stop-translating-english-portuguese', 'parar-traduzir-ingles-falar-portugues', 'Como parar de traduzir do inglês ao falar português?'],
     ],
   },
 };
+
+for (const [language, config] of Object.entries(languages)) {
+  assert.equal(config.answers.length, 31, `${language}: expected exactly 31 answer topics`);
+}
 
 const comparisonPageChecks = {
   en: {

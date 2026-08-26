@@ -3,7 +3,7 @@ translationKey: sobre-aprendizagem-portuguesa
 title: "Conheça Barbara Sharon, professora de português"
 description: "Conheça Barbara Sharon e sua abordagem para ensinar português brasileiro, com opções de aula para alunos online ou na Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/about-learning-portuguese/about-learning-portuguese.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -34,3 +34,5 @@ Saiba mais sobre como apoio aulas intensivas de português online, aulas particu
 ## Como avaliar se uma professora combina com você
 
 A resposta [como escolher o melhor professor de português na Gold Coast](/pt-br/respostas/melhor-professor-portugues-gold-coast/) propõe comparar variedade linguística, formação, prática ativa, correções, depoimentos e disponibilidade sem depender de uma classificação não verificável.
+
+Você também pode comparar [falante nativo e professor qualificado](/pt-br/respostas/falante-nativo-ou-professor-portugues-qualificado/) e conferir [o que uma boa aula de português brasileiro deve incluir](/pt-br/respostas/o-que-boa-aula-portugues-brasileiro-deve-incluir/).

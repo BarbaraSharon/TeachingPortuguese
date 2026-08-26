@@ -3,7 +3,7 @@ translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Brazilian vs European Portuguese Explained"
 description: "Compare Brazilian and European Portuguese through clear differences in pronunciation, vocabulary, grammar, and everyday cultural context for new learners."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 aliases:
 - /brazilian-vs-european-portuguese/
 image:
@@ -118,3 +118,5 @@ Brazilian Portuguese has approximately 206 million speakers in Brazil alone, com
 ## Comparing Portuguese with Spanish
 
 Portuguese and Spanish are separate languages as well as close relatives. Read [How similar are Portuguese and Spanish?](/en/answers/how-similar-portuguese-spanish/) for practical guidance on shared vocabulary, pronunciation, listening and language transfer.
+
+If you are still deciding which variety to make your main learning target, read [Should I learn Brazilian or European Portuguese?](/en/answers/brazilian-vs-european-portuguese-which-to-learn/).

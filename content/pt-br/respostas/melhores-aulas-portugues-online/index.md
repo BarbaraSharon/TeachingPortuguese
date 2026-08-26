@@ -26,6 +26,10 @@ related_pages:
   url: /pt-br/clube-de-conversacao/
 - title: Sobre Barbara Sharon
   url: /pt-br/sobre-aprendizagem-portuguesa/
+- title: Comparar aulas ao vivo, aplicativos, cursos e tutores de IA
+  url: /pt-br/respostas/aulas-ao-vivo-aplicativos-cursos-gravados-tutores-ia/
+- title: Perguntas antes de contratar um professor online
+  url: /pt-br/respostas/perguntas-antes-contratar-professor-portugues-online/
 - title: Fale com Barbara
   url: /pt-br/contato-professora-portugues/
 migration_schema:

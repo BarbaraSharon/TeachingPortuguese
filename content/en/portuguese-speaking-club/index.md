@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Brazilian Portuguese Conversation Club"
 description: "Practise Brazilian Portuguese conversation with Barbara Sharon in a supportive club format that encourages speaking, listening, and everyday communication."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 aliases:
 - /portuguese-speaking-club/
 image:
@@ -100,3 +100,5 @@ Don't let hesitation hold you back. The Portuguese Speaking Club is your gateway
 If you are preparing for a trip or want a practical speaking routine, read [How can I learn Portuguese for travel and conversation?](/en/answers/learn-portuguese-for-travel-and-conversation/).
 
 If you follow conversations but hesitate when it is your turn, read [Why can I understand Portuguese but not speak it?](/en/answers/understand-portuguese-but-cannot-speak/).
+
+If you are deciding whether you need open speaking practice or a learning sequence, compare a [Portuguese conversation class with a structured course](/en/answers/conversation-class-vs-structured-portuguese-course/).

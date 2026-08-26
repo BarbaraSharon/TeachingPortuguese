@@ -3,7 +3,7 @@ translationKey: sobre-aprendizagem-portuguesa
 title: "Meet Barbara Sharon, Portuguese Teacher"
 description: "Meet Barbara Sharon and explore her Brazilian Portuguese teaching background, lesson approach, and options for learners online or on the Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 aliases:
 - /about-learning-portuguese/
 image:
@@ -35,3 +35,5 @@ Explore more about how I support intensive online Portuguese lessons, private Po
 ## How to compare Portuguese tutors
 
 Use the qualifications, teaching-fit, feedback and learner-evidence framework in [How to choose the best Portuguese tutor on the Gold Coast](/en/answers/best-portuguese-tutor-gold-coast/).
+
+You can also compare a [native Portuguese speaker with a qualified teacher](/en/answers/native-speaker-vs-qualified-portuguese-teacher/) and review [what a good Brazilian Portuguese lesson should include](/en/answers/what-good-brazilian-portuguese-lesson-includes/).

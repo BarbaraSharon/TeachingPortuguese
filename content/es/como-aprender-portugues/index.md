@@ -3,7 +3,7 @@ translationKey: como-aprender-portugues
 title: "Cómo aprender portugués brasileño con claridad"
 description: "Descubre una forma práctica de aprender portugués brasileño con conversación, escucha, vocabulario, gramática y cultura en tu rutina."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/howto-learn-portuguese/howto-learn-portuguese-brazilian-portuguese-lessons.png
   alt_text: Cómo aprender portugués brasileño con Barbara Sharon
@@ -198,3 +198,7 @@ La guía [¿Cuál es la mejor forma de aprender portugués brasileño?](/es/resp
 - [¿Necesito gramática para hablar portugués?](/es/respuestas/necesito-gramatica-hablar-portugues/)
 - [¿Cómo mejorar mi pronunciación en portugués brasileño?](/es/respuestas/mejorar-pronunciacion-portugues-brasileno/)
 - [¿Por qué entiendo portugués pero no puedo hablarlo?](/es/respuestas/entender-portugues-no-hablarlo/)
+- [¿Cómo empezar a aprender portugués brasileño desde cero?](/es/respuestas/empezar-portugues-brasileno-desde-cero/)
+- [¿Qué practicar entre clases de portugués?](/es/respuestas/practicar-entre-clases-portugues/)
+- [¿Por qué el portugués brasileño suena tan rápido?](/es/respuestas/por-que-portugues-brasileno-suena-rapido/)
+- [¿Cómo dejar de traducir del inglés al hablar portugués?](/es/respuestas/dejar-traducir-ingles-hablar-portugues/)

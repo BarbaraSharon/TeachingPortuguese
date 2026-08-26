@@ -12,7 +12,7 @@ const siteRoot = path.resolve(projectRoot, args.get('site') ?? 'public');
 const minimumCharacters = 120;
 const maximumCharacters = 155;
 const maximumPixels = 920;
-const expectedSourcePageCount = 741;
+const expectedSourcePageCount = 777;
 
 const languageMarkers = {
   en: /\b(?:barbara|brazilian|portuguese|lessons?|learning|teaching|privacy|newsletter|conversation|cultural|travel)\b/i,

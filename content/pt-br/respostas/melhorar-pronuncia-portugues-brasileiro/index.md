@@ -7,7 +7,7 @@ question: "Como melhorar a pronúncia do português brasileiro?"
 direct_answer: "Melhore sua pronúncia do português brasileiro escutando frases curtas com atenção, copiando o ritmo além dos sons e gravando-se para comparar um elemento de cada vez. Pratique sons difíceis dentro de palavras e frases significativas, não apenas isoladamente. O feedback de uma professora ou falante proficiente ajuda a perceber diferenças que talvez você não ouça e a priorizar mudanças que mais favorecem a compreensão."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 160
 robots: index, follow, max-image-preview:large
 image:
@@ -24,6 +24,8 @@ related_pages:
   url: /pt-br/respostas/aprender-portugues-viagens-conversacao/
 - title: Aulas de português online
   url: /pt-br/aulas-de-portugues/aulas-online/
+- title: Por que o português brasileiro parece tão rápido
+  url: /pt-br/respostas/por-que-portugues-brasileiro-parece-tao-rapido/
 - title: Fale com Barbara
   url: /pt-br/contato-professora-portugues/
 migration_schema:

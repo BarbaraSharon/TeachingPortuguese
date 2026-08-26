@@ -107,6 +107,12 @@ sections:
     - title: Quanto custam as aulas de português na Austrália?
       text: Compare formato, tempo de ensino, feedback, materiais e condições atuais.
       url: /pt-br/respostas/quanto-custam-aulas-portugues-australia/
+    - title: Aulas ao vivo, aplicativos, cursos gravados ou tutores de IA?
+      text: Use cada ferramenta no que ela faz bem e mantenha prática real de conversação.
+      url: /pt-br/respostas/aulas-ao-vivo-aplicativos-cursos-gravados-tutores-ia/
+    - title: O que perguntar antes de contratar um professor online?
+      text: Verifique formação, estrutura, feedback, variedade, formato e condições práticas.
+      url: /pt-br/respostas/perguntas-antes-contratar-professor-portugues-online/
 - block: cta-card
   content:
     title: Pronto para aprender online?

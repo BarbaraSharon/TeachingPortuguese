@@ -3,7 +3,7 @@ translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Português brasileiro e europeu: diferenças"
 description: "Compare português brasileiro e europeu com diferenças claras de pronúncia, vocabulário, gramática e contexto cultural do dia a dia."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/brazilian-vs-european-portuguese/brazilian-vs-european-portuguese-brazilian-portuguese-lessons.jpg
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -143,3 +143,5 @@ Com certeza! Muitos alunos começam com uma variante e ampliam seus conhecimento
 O português brasileiro tem aproximadamente 206 milhões de falantes somente no Brasil, em comparação com cerca de 10 milhões em Portugal. O português brasileiro representa a vasta maioria dos falantes de português no mundo.
 
 [Explore meus serviços de português](/pt-br/aulas-de-portugues/)[Agende sua consulta gratuita](/pt-br/contato-professora-portugues/)
+
+Se ainda está decidindo qual será sua variedade principal, leia [Devo aprender português brasileiro ou europeu?](/pt-br/respostas/aprender-portugues-brasileiro-ou-europeu/).

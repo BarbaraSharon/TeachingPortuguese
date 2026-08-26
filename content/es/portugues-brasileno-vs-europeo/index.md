@@ -3,7 +3,7 @@ translationKey: portugues-brasileiro-vs-portugues-europeu
 title: "Portugués brasileño y europeo: diferencias"
 description: "Compara el portugués brasileño y europeo con diferencias claras de pronunciación, vocabulario, gramática y contexto cultural cotidiano."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 aliases:
 - /es/portugues-brasileño-vs-europeo/
 image:
@@ -145,3 +145,5 @@ Sí. Muchas personas comienzan con una variedad y luego incorporan la otra. Tus 
 Solo Brasil cuenta con aproximadamente 206 millones de hablantes, frente a unos 10 millones en Portugal. El portugués brasileño representa la gran mayoría de las personas que hablan portugués en el mundo.
 
 [Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva una consulta gratuita](/es/contacto-profesora-portugues/)
+
+Si todavía estás decidiendo cuál será tu variedad principal, lee [¿Debo aprender portugués brasileño o europeo?](/es/respuestas/aprender-portugues-brasileno-o-europeo/).

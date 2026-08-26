@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Clube de conversação em português brasileiro"
 description: "Pratique conversação em português brasileiro com Barbara Sharon em um clube acolhedor que incentiva a fala, a escuta e a comunicação natural."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 image:
   filename: pages/portuguese-speaking-club/portuguese-speaking-club-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -105,3 +105,5 @@ Não deixe a hesitação segurar você. O Clube de Conversação em Português �
 O guia [como aprender português para viagens e conversação](/pt-br/respostas/aprender-portugues-viagens-conversacao/) explica como praticar diálogos prováveis, respostas, pronúncia e contexto cultural antes de viajar ou participar de uma sessão de conversação.
 
 Se você entende português, mas hesita ao responder, leia [Por que entendo português, mas não consigo falar?](/pt-br/respostas/entender-portugues-nao-falar/) para praticar lembrança ativa e estruturas reutilizáveis.
+
+Se não sabe se precisa de prática aberta ou de uma sequência de aprendizagem, compare uma [aula de conversação com um curso estruturado](/pt-br/respostas/aula-conversacao-ou-curso-estruturado-portugues/).

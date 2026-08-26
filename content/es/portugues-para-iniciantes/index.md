@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Clases de portugués para principiantes"
 description: "Empieza portugués brasileño con conversación práctica, pronunciación, vocabulario, gramática y contexto cultural en clases particulares o grupales."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -104,6 +104,12 @@ sections:
     - title: ¿Funcionan las clases online para principiantes?
       text: Busca conversación en directo, una secuencia clara, correcciones y práctica entre clases.
       url: /es/respuestas/clases-online-portugues-principiantes/
+    - title: ¿Qué clase conviene a un principiante absoluto?
+      text: Compara formatos particulares, grupos pequeños y autoestudio según apoyo y tiempo de conversación.
+      url: /es/respuestas/clase-portugues-para-principiantes-absolutos/
+    - title: ¿Cómo empezar portugués brasileño desde cero?
+      text: Sigue una secuencia práctica para el primer mes con sonidos, frases y rutinas útiles.
+      url: /es/respuestas/empezar-portugues-brasileno-desde-cero/
 - block: cta-card
   content:
     title: ¿Listo para empezar a estudiar portugués?

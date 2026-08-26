@@ -26,6 +26,10 @@ related_pages:
   url: /en/portuguese-speaking-club/
 - title: About Barbara Sharon
   url: /en/about-learning-portuguese/
+- title: Compare live lessons, apps, courses and AI tutors
+  url: /en/answers/live-lessons-apps-recorded-courses-ai-tutors/
+- title: Questions before booking an online teacher
+  url: /en/answers/questions-before-booking-online-portuguese-teacher/
 - title: Contact Barbara
   url: /en/contact-portuguese-teacher/
 migration_schema:

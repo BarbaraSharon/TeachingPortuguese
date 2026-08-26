@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Aulas de português para quem inicia"
 description: "Comece português brasileiro com conversação prática, pronúncia, vocabulário, gramática e contexto cultural em aulas particulares ou em grupo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -104,6 +104,12 @@ sections:
     - title: Aulas online funcionam para iniciantes?
       text: Busque fala ao vivo, sequência clara, feedback e prática entre as aulas.
       url: /pt-br/respostas/aulas-online-portugues-iniciantes/
+    - title: Que aula funciona para um iniciante absoluto?
+      text: Compare formatos particulares, grupos pequenos e autoestudo conforme apoio e tempo de fala.
+      url: /pt-br/respostas/aula-portugues-para-iniciantes-absolutos/
+    - title: Como começar português brasileiro do zero?
+      text: Siga uma sequência prática para o primeiro mês com sons, frases e rotinas úteis.
+      url: /pt-br/respostas/comecar-portugues-brasileiro-do-zero/
 - block: cta-card
   content:
     title: Pronto para começar a aprender português?
