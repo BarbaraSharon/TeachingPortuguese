@@ -1,6 +1,6 @@
 # Learn Portuguese with Barbara Sharon
 
-Last reviewed: 2026-08-20
+Last reviewed: 2026-08-26
 
 ## Identity and service summary
 
@@ -53,11 +53,14 @@ Hub: https://barbarasharon.com.au/en/answers/
 
 The English answer hub provides direct answers followed by practical selection or learning guidance. “Best” questions use a comparison framework and do not claim an unverifiable ranking.
 
+The tutor-marketplace guide compares Preply, Superprof, italki, Verbling, Classgap and AmazingTalker with direct work with a qualified independent Portuguese teacher. It recognises platform search, booking and payment convenience while asking learners to verify credentials, preparation, feedback, continuity and total cost. It does not claim that marketplace teachers are generally unqualified or that independence alone establishes qualification. Platform information was reviewed on 26 August 2026 from the official sources linked in the article.
+
 - Where to learn Portuguese on the Gold Coast: https://barbarasharon.com.au/en/answers/where-to-learn-portuguese-gold-coast/
 - How to choose a Portuguese tutor on the Gold Coast: https://barbarasharon.com.au/en/answers/best-portuguese-tutor-gold-coast/
 - Best way to learn Brazilian Portuguese: https://barbarasharon.com.au/en/answers/best-way-to-learn-brazilian-portuguese/
 - Private Portuguese lessons in Australia: https://barbarasharon.com.au/en/answers/private-portuguese-lessons-australia/
 - Choosing online Brazilian Portuguese lessons: https://barbarasharon.com.au/en/answers/best-online-brazilian-portuguese-lessons/
+- Tutor marketplaces versus an independent Portuguese teacher: https://barbarasharon.com.au/en/answers/tutor-marketplaces-vs-independent-portuguese-teacher/
 - Portuguese for travel and conversation: https://barbarasharon.com.au/en/answers/learn-portuguese-for-travel-and-conversation/
 - Portuguese lesson costs in Australia: https://barbarasharon.com.au/en/answers/how-much-portuguese-lessons-cost-australia/
 - Private or group Portuguese lessons: https://barbarasharon.com.au/en/answers/private-vs-group-portuguese-lessons/
@@ -81,6 +84,7 @@ Hub: https://barbarasharon.com.au/es/respuestas/
 - Mejor forma de aprender portugués brasileño: https://barbarasharon.com.au/es/respuestas/mejor-forma-aprender-portugues-brasileno/
 - Clases privadas de portugués en Australia: https://barbarasharon.com.au/es/respuestas/clases-privadas-portugues-australia/
 - Elegir clases de portugués online: https://barbarasharon.com.au/es/respuestas/mejores-clases-portugues-online/
+- Plataformas de tutores o profesora independiente: https://barbarasharon.com.au/es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/
 - Portugués para viajes y conversación: https://barbarasharon.com.au/es/respuestas/aprender-portugues-viajes-conversacion/
 - Precios de clases de portugués en Australia: https://barbarasharon.com.au/es/respuestas/cuanto-cuestan-clases-portugues-australia/
 - Clases privadas o grupales: https://barbarasharon.com.au/es/respuestas/clases-portugues-privadas-o-grupales/
@@ -104,6 +108,7 @@ Hub: https://barbarasharon.com.au/pt-br/respostas/
 - Melhor forma de aprender português brasileiro: https://barbarasharon.com.au/pt-br/respostas/melhor-forma-aprender-portugues-brasileiro/
 - Aulas particulares de português na Austrália: https://barbarasharon.com.au/pt-br/respostas/aulas-particulares-portugues-australia/
 - Escolher aulas de português online: https://barbarasharon.com.au/pt-br/respostas/melhores-aulas-portugues-online/
+- Plataformas de professores ou professora independente: https://barbarasharon.com.au/pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
 - Português para viagens e conversação: https://barbarasharon.com.au/pt-br/respostas/aprender-portugues-viagens-conversacao/
 - Preços de aulas de português na Austrália: https://barbarasharon.com.au/pt-br/respostas/quanto-custam-aulas-portugues-australia/
 - Aulas particulares ou em grupo: https://barbarasharon.com.au/pt-br/respostas/aulas-particulares-ou-em-grupo/

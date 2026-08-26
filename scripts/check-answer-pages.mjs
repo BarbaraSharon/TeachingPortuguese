@@ -30,6 +30,7 @@ const languages = {
       ['answer-learn-brazilian-portuguese-method', 'best-way-to-learn-brazilian-portuguese', 'What Is the Best Way to Learn Brazilian Portuguese?'],
       ['answer-private-portuguese-lessons-australia', 'private-portuguese-lessons-australia', 'Where Can I Find Private Portuguese Lessons in Australia?'],
       ['answer-choose-online-brazilian-portuguese-lessons', 'best-online-brazilian-portuguese-lessons', 'How to Choose the Best Online Brazilian Portuguese Lessons'],
+      ['answer-tutor-marketplaces-vs-independent-portuguese-teacher', 'tutor-marketplaces-vs-independent-portuguese-teacher', 'Preply or Superprof vs an Independent Portuguese Teacher'],
       ['answer-portuguese-travel-conversation', 'learn-portuguese-for-travel-and-conversation', 'How Can I Learn Portuguese for Travel and Conversation?'],
       ['answer-portuguese-lesson-cost-australia', 'how-much-portuguese-lessons-cost-australia', 'How Much Do Portuguese Lessons Cost in Australia?'],
       ['answer-private-vs-group-portuguese-lessons', 'private-vs-group-portuguese-lessons', 'Private or Group Portuguese Lessons: Which Is Better?'],
@@ -66,6 +67,7 @@ const languages = {
       ['answer-learn-brazilian-portuguese-method', 'mejor-forma-aprender-portugues-brasileno', '¿Cuál es la mejor forma de aprender portugués brasileño?'],
       ['answer-private-portuguese-lessons-australia', 'clases-privadas-portugues-australia', '¿Dónde buscar clases privadas de portugués en Australia?'],
       ['answer-choose-online-brazilian-portuguese-lessons', 'mejores-clases-portugues-online', 'Cómo elegir las mejores clases de portugués online'],
+      ['answer-tutor-marketplaces-vs-independent-portuguese-teacher', 'plataformas-tutores-vs-profesora-portugues-independiente', 'Preply, Superprof o profesora independiente de portugués'],
       ['answer-portuguese-travel-conversation', 'aprender-portugues-viajes-conversacion', '¿Cómo aprender portugués para viajes y conversación?'],
       ['answer-portuguese-lesson-cost-australia', 'cuanto-cuestan-clases-portugues-australia', '¿Cuánto cuestan las clases de portugués en Australia?'],
       ['answer-private-vs-group-portuguese-lessons', 'clases-portugues-privadas-o-grupales', 'Clases de portugués privadas o grupales: ¿cuál elegir?'],
@@ -102,6 +104,7 @@ const languages = {
       ['answer-learn-brazilian-portuguese-method', 'melhor-forma-aprender-portugues-brasileiro', 'Qual é a melhor forma de aprender português brasileiro?'],
       ['answer-private-portuguese-lessons-australia', 'aulas-particulares-portugues-australia', 'Onde buscar aulas particulares de português na Austrália?'],
       ['answer-choose-online-brazilian-portuguese-lessons', 'melhores-aulas-portugues-online', 'Como escolher as melhores aulas de português online'],
+      ['answer-tutor-marketplaces-vs-independent-portuguese-teacher', 'plataformas-professores-vs-professora-portugues-independente', 'Preply, Superprof ou professora independente de português'],
       ['answer-portuguese-travel-conversation', 'aprender-portugues-viagens-conversacao', 'Como aprender português para viagens e conversação?'],
       ['answer-portuguese-lesson-cost-australia', 'quanto-custam-aulas-portugues-australia', 'Quanto custam as aulas de português na Austrália?'],
       ['answer-private-vs-group-portuguese-lessons', 'aulas-particulares-ou-em-grupo', 'Aulas particulares ou em grupo: qual escolher?'],
@@ -116,6 +119,24 @@ const languages = {
       ['answer-portuguese-spanish-similarity', 'semelhanca-portugues-espanhol', 'Qual é a semelhança entre português e espanhol?'],
       ['answer-portuguese-brazilian-partner-family', 'aprender-portugues-parceiro-brasileiro', 'Como aprender português para um parceiro brasileiro?'],
     ],
+  },
+};
+
+const comparisonPageChecks = {
+  en: {
+    costLabel: 'No marketplace fee layer between learner and teacher',
+    dependsLabel: 'Teacher-dependent — not star-rated',
+    costSummary: 'Working directly removes that marketplace fee layer',
+  },
+  es: {
+    costLabel: 'Sin una capa de cargos de plataforma entre estudiante y docente',
+    dependsLabel: 'Depende del docente — sin estrellas',
+    costSummary: 'El trato directo elimina esa capa de cargos',
+  },
+  'pt-br': {
+    costLabel: 'Sem uma camada de cobrança da plataforma entre aluno e professor',
+    dependsLabel: 'Depende do professor — sem estrelas',
+    costSummary: 'A contratação direta elimina essa camada de cobrança',
   },
 };
 
@@ -235,6 +256,20 @@ for (const [language, config] of Object.entries(languages)) {
     assert.ok(normalize(html).includes(config.authorLabel), `${outputPath}: localized author credentials are not visible`);
     assert.ok(normalize(html).includes(config.reviewLabel), `${outputPath}: localized review evidence is not visible`);
     assert.ok(normalize(html).includes(config.contactLabel), `${outputPath}: localized contact CTA is missing`);
+
+    if (translationKey === 'answer-tutor-marketplaces-vs-independent-portuguese-teacher') {
+      const check = comparisonPageChecks[language];
+      const comparisonTable = html.match(/<table\b[^>]*>[\s\S]*?comparison-stars[\s\S]*?<\/table>/i)?.[0] ?? '';
+      assert.ok(comparisonTable, `${outputPath}: star comparison table is missing`);
+      assert.equal((comparisonTable.match(/class=comparison-stars|class="comparison-stars"/g) ?? []).length, 8, `${outputPath}: expected eight star ratings`);
+      assert.equal((comparisonTable.match(/class=comparison-depends|class="comparison-depends"/g) ?? []).length, 2, `${outputPath}: both teacher-quality cells must be unranked`);
+      assert.equal((comparisonTable.match(/<strong>[1-5]\/5<\/strong>/g) ?? []).length, 8, `${outputPath}: every star rating needs a visible numeric score`);
+      assert.equal((comparisonTable.match(/<tr\b/g) ?? []).length, 6, `${outputPath}: comparison table must have one header and five criteria rows`);
+      assert.ok(normalize(comparisonTable).includes(check.costLabel), `${outputPath}: marketplace fee comparison is missing`);
+      assert.equal(normalize(comparisonTable).split(check.dependsLabel).length - 1, 2, `${outputPath}: teacher-dependent caveat must appear in both routes`);
+      assert.ok(normalize(html).includes(check.costSummary), `${outputPath}: plain-language cost summary is missing`);
+    }
+
     for (const relatedUrl of relatedUrls) {
       assert.ok(html.includes(`href=${relatedUrl}`) || html.includes(`href="${relatedUrl}"`), `${outputPath}: related link ${relatedUrl} is missing`);
     }

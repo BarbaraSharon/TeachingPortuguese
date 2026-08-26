@@ -4,7 +4,7 @@ translationKey: answers-hub
 type: answers
 description: "Respostas claras sobre aulas de português brasileiro, professores, estudo online, Gold Coast, viagens e aulas particulares na Austrália."
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 robots: index, follow, max-image-preview:large
 image:
   filename: pages/howto-learn-portuguese/howto-learn-portuguese-brazilian-portuguese-lessons.png

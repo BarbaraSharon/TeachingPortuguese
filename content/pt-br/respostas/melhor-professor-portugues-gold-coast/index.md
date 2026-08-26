@@ -7,7 +7,7 @@ question: "Melhor professor de português na Gold Coast: como escolher"
 direct_answer: "O melhor professor de português para você ensina a variedade de que precisa, tem formação verificável e adapta o método ao seu objetivo. Compare tempo de fala, qualidade das correções, formato e avaliações identificáveis. Barbara Sharon pode ser adequada se você busca português brasileiro, orientação personalizada, aulas online ou opções presenciais na Gold Coast sujeitas à disponibilidade."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 20
 robots: index, follow, max-image-preview:large
 image:
@@ -22,6 +22,8 @@ related_pages:
   url: /pt-br/locais-de-aulas-de-portugues/gold-coast/
 - title: Aulas de português online
   url: /pt-br/aulas-de-portugues/aulas-online/
+- title: Plataformas de professores ou professora independente
+  url: /pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
 - title: Como aprender português
   url: /pt-br/como-aprender-portugues/
 - title: Fale com Barbara

@@ -653,6 +653,137 @@ body.page-wrapper:has(article main .prose) .page-footer > footer {
   --site-reading-max-width: 72rem;
 }
 
+/* Comparison tables in answer articles keep full cell context on small
+   screens. The table itself becomes the scroll container, so it never widens
+   the page or forces narrow columns into unreadable vertical text. */
+.answer-content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  -webkit-overflow-scrolling: touch;
+}
+
+.answer-content table th,
+.answer-content table td {
+  min-width: 12rem;
+}
+
+.answer-content table th:first-child,
+.answer-content table td:first-child {
+  min-width: 8rem;
+}
+
+/* The route comparison uses familiar stars as the single visual signal while
+   keeping a visible numeric score and plain-language explanation in every
+   cell. Scores describe the named feature, never overall teaching quality. */
+.answer-content table:has(.comparison-stars) {
+  border: 1px solid rgb(148 163 184 / 42%);
+  border-radius: 0.85rem;
+  box-shadow: 0 0.8rem 2rem rgb(15 23 42 / 7%);
+}
+
+.answer-content table:has(.comparison-stars) th {
+  background: rgb(5 150 105 / 9%);
+}
+
+.answer-content table:has(.comparison-stars) tbody tr:last-child > * {
+  background: rgb(241 245 249 / 72%);
+}
+
+.comparison-stars {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem;
+  color: #b45309;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.comparison-stars > span {
+  font-size: 1.08em;
+  letter-spacing: 0.06em;
+}
+
+.comparison-stars strong {
+  color: #334155;
+  font-size: 0.78em;
+}
+
+.comparison-depends {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid rgb(100 116 139 / 45%);
+  border-radius: 9999px;
+  color: #475569;
+  font-size: 0.78em;
+  line-height: 1.35;
+}
+
+.answer-content table:has(.comparison-stars) small {
+  display: inline-block;
+  margin-top: 0.3rem;
+  color: #475569;
+  line-height: 1.45;
+}
+
+.dark .answer-content table:has(.comparison-stars) {
+  border-color: rgb(100 116 139 / 52%);
+  box-shadow: 0 0.8rem 2rem rgb(0 0 0 / 24%);
+}
+
+.dark .answer-content table:has(.comparison-stars) th {
+  background: rgb(16 185 129 / 12%);
+}
+
+.dark .answer-content table:has(.comparison-stars) tbody tr:last-child > * {
+  background: rgb(30 41 59 / 58%);
+}
+
+.dark .comparison-stars {
+  color: #fbbf24;
+}
+
+.dark .comparison-stars strong,
+.dark .answer-content table:has(.comparison-stars) small {
+  color: #cbd5e1;
+}
+
+.dark .comparison-depends {
+  border-color: rgb(148 163 184 / 48%);
+  color: #cbd5e1;
+}
+
+.comparison-swipe-hint {
+  display: none;
+}
+
+@media (max-width: 767px) {
+  .comparison-swipe-hint {
+    display: block;
+    margin: -0.25rem 0 0.7rem;
+    color: #64748b;
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+
+  .comparison-swipe-hint::before {
+    content: "↔";
+    margin-right: 0.35rem;
+    color: #059669;
+  }
+
+  .dark .comparison-swipe-hint {
+    color: #cbd5e1;
+  }
+
+  .dark .comparison-swipe-hint::before {
+    color: #34d399;
+  }
+}
+
 /* Keep the content grid fixed when moving between short and long subpages. */
 html {
   scrollbar-gutter: stable;

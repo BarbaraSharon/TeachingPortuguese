@@ -4,7 +4,7 @@ translationKey: answers-hub
 type: answers
 description: "Clear answers about Brazilian Portuguese lessons, tutors, online study, Gold Coast options, travel practice and private learning in Australia."
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 robots: index, follow, max-image-preview:large
 image:
   filename: pages/howto-learn-portuguese/howto-learn-portuguese-brazilian-portuguese-lessons.png

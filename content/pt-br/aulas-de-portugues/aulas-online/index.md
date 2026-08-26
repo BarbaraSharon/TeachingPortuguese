@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Aulas online de português brasileiro"
 description: "Estude português brasileiro online de qualquer lugar, em aulas particulares ou em grupo para vários níveis, negócios ou viagens."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png
@@ -95,6 +95,9 @@ sections:
     - title: Como escolher as melhores aulas de português online?
       text: Avalie conversação ao vivo, correções, formação docente, estrutura e adequação prática.
       url: /pt-br/respostas/melhores-aulas-portugues-online/
+    - title: Plataformas de professores ou professora independente?
+      text: Compare a conveniência da plataforma com formação, preparação, feedback e continuidade.
+      url: /pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
     - title: Onde encontrar aulas particulares de português na Austrália?
       text: Entenda a diferença entre acesso online e opções presenciais disponíveis na Gold Coast.
       url: /pt-br/respostas/aulas-particulares-portugues-australia/

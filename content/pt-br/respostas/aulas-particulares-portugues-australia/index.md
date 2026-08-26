@@ -7,7 +7,7 @@ question: "Onde buscar aulas particulares de português na Austrália?"
 direct_answer: "Adultos em qualquer lugar da Austrália podem fazer aulas particulares de português brasileiro online, enquanto a Gold Coast também pode ter opções presenciais sujeitas à disponibilidade. Compare formação, variedade linguística, método e correções. Barbara Sharon oferece aulas personalizadas online para o mundo todo e aulas presenciais na Gold Coast quando há horários e vagas disponíveis."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 40
 robots: index, follow, max-image-preview:large
 image:
@@ -18,6 +18,8 @@ related_pages:
   url: /pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/
 - title: Aulas online na Austrália
   url: /pt-br/aulas-de-portugues/aulas-online/
+- title: Plataformas de professores ou professora independente
+  url: /pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
 - title: Serviços de aulas de português
   url: /pt-br/aulas-de-portugues/
 - title: Guia de locais na Gold Coast

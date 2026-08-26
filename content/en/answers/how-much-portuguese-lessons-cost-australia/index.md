@@ -7,7 +7,7 @@ question: "How Much Do Portuguese Lessons Cost in Australia?"
 direct_answer: "Portuguese lesson costs in Australia vary by private or group format, lesson length, teaching experience, location and what is included between sessions. Compare the complete offer rather than an hourly figure alone: live teaching time, individual feedback, materials, group size, cancellation terms and lesson frequency all affect value. Ask the teacher for current pricing before making a decision."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 70
 robots: index, follow, max-image-preview:large
 image:
@@ -18,6 +18,8 @@ related_pages:
   url: /en/portuguese-teaching-services/
 - title: Online Portuguese lessons
   url: /en/portuguese-teaching-services/online-portuguese-lessons/
+- title: Tutor marketplaces vs an independent teacher
+  url: /en/answers/tutor-marketplaces-vs-independent-portuguese-teacher/
 - title: Private lessons on the Gold Coast
   url: /en/portuguese-teaching-services/portuguese-tutoring-gold-coast/
 - title: Private or group Portuguese lessons

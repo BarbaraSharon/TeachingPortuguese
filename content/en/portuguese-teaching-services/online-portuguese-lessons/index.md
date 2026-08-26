@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Online Brazilian Portuguese Lessons Worldwide"
 description: "Take Brazilian Portuguese lessons online from anywhere, choosing private or group formats for beginner, intermediate, advanced, business, or travel goals."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 type: landing
 aliases:
 - /portuguese-teaching-services/online-portuguese-lessons/
@@ -98,6 +98,9 @@ sections:
     - title: How to choose online Brazilian Portuguese lessons
       text: Compare live speaking time, feedback, qualifications, structure and flexibility.
       url: /en/answers/best-online-brazilian-portuguese-lessons/
+    - title: Tutor marketplaces or an independent Portuguese teacher?
+      text: Compare platform convenience with credentials, preparation, feedback and continuity.
+      url: /en/answers/tutor-marketplaces-vs-independent-portuguese-teacher/
     - title: Where to find private Portuguese lessons in Australia
       text: Understand nationwide online access and Gold Coast in-person availability.
       url: /en/answers/private-portuguese-lessons-australia/

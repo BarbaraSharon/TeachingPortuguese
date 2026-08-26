@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Clases de portugués brasileño online"
 description: "Estudia portugués brasileño online desde cualquier lugar, en clases particulares o grupales para distintos niveles, negocios o viajes."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-08-26
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png
@@ -95,6 +95,9 @@ sections:
     - title: ¿Cómo elegir las mejores clases de portugués online?
       text: Valora conversación en directo, correcciones, formación docente, estructura y compatibilidad práctica.
       url: /es/respuestas/mejores-clases-portugues-online/
+    - title: ¿Plataformas de tutores o profesora independiente?
+      text: Compara la comodidad de la plataforma con formación, preparación, correcciones y continuidad.
+      url: /es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/
     - title: ¿Dónde encontrar clases privadas de portugués en Australia?
       text: Entiende la diferencia entre acceso online y opciones presenciales disponibles en Gold Coast.
       url: /es/respuestas/clases-privadas-portugues-australia/

@@ -7,7 +7,7 @@ question: "¿Cuánto cuestan las clases de portugués en Australia?"
 direct_answer: "El precio de las clases de portugués en Australia varía según el formato privado o grupal, la duración, la experiencia docente, la ubicación y lo incluido entre sesiones. Compara la propuesta completa, no solo una tarifa por hora: tiempo en directo, correcciones, materiales, tamaño del grupo, cancelaciones y frecuencia. Pide siempre el precio actual antes de decidir."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 70
 robots: index, follow, max-image-preview:large
 image:
@@ -18,6 +18,8 @@ related_pages:
   url: /es/servicios-clases-portugues/
 - title: Clases de portugués online
   url: /es/servicios-clases-portugues/clases-portugues-online/
+- title: Plataformas de tutores o profesora independiente
+  url: /es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/
 - title: Clases particulares en Gold Coast
   url: /es/servicios-clases-portugues/clases-particulares-portugues-gold-coast/
 - title: Clases privadas o grupales

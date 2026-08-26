@@ -7,7 +7,7 @@ question: "Quanto custam as aulas de português na Austrália?"
 direct_answer: "O preço das aulas de português na Austrália varia conforme o formato particular ou em grupo, a duração, a experiência docente, o local e o que está incluído entre as sessões. Compare a proposta completa, não apenas o valor por hora: tempo ao vivo, feedback, materiais, tamanho da turma, cancelamentos e frequência. Peça sempre o preço atual antes de decidir."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 70
 robots: index, follow, max-image-preview:large
 image:
@@ -18,6 +18,8 @@ related_pages:
   url: /pt-br/aulas-de-portugues/
 - title: Aulas de português online
   url: /pt-br/aulas-de-portugues/aulas-online/
+- title: Plataformas de professores ou professora independente
+  url: /pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
 - title: Aulas particulares na Gold Coast
   url: /pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/
 - title: Aulas particulares ou em grupo

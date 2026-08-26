@@ -7,7 +7,7 @@ question: "Como escolher as melhores aulas de português online"
 direct_answer: "As melhores aulas online de português brasileiro para você são as que combinam com seu nível e objetivo, oferecem conversação ao vivo, explicações claras, correções específicas e uma rotina viável. Compare formação docente, estrutura, variedade linguística e avaliações, em vez de depender de rankings. Barbara Sharon oferece opções particulares e em grupo online para adultos no mundo todo."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: 2026-08-26
 weight: 50
 robots: index, follow, max-image-preview:large
 image:
@@ -16,6 +16,8 @@ image:
 related_pages:
 - title: Aulas online de português brasileiro
   url: /pt-br/aulas-de-portugues/aulas-online/
+- title: Plataformas de professores ou professora independente
+  url: /pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
 - title: Serviços de aulas de português
   url: /pt-br/aulas-de-portugues/
 - title: Como aprender português
