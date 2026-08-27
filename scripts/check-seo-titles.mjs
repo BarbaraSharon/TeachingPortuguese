@@ -41,6 +41,20 @@ function readScalar(raw, fieldName) {
   return raw.match(new RegExp(`^${fieldName}:\\s*(.*)$`, 'm'))?.[1]?.trim() ?? '';
 }
 
+function readNestedScalar(raw, sectionName, fieldName) {
+  const lines = raw.split('\n');
+  const sectionIndex = lines.findIndex((line) => line === `${sectionName}:`);
+  if (sectionIndex === -1) return '';
+
+  for (const line of lines.slice(sectionIndex + 1)) {
+    if (/^\S/.test(line)) break;
+    const match = line.match(new RegExp(`^\\s+${fieldName}:\\s*(.*)$`));
+    if (match) return match[1].trim();
+  }
+
+  return '';
+}
+
 function hasVerifiedGoldCoastInPersonOption(frontMatter) {
   return unquote(readScalar(frontMatter, 'region_group')) === 'Gold Coast'
     && unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
@@ -118,8 +132,10 @@ for (const filePath of walk(contentRoot).sort()) {
   const contentPath = rest.join('/');
   const titleLine = frontMatter.match(/^title:\s*(.*)$/m)?.[0];
   const rawTitle = readScalar(frontMatter, 'title');
+  const rawSeoTitle = readNestedScalar(frontMatter, 'seo', 'title');
   const translationKey = unquote(readScalar(frontMatter, 'translationKey'));
   const title = normalize(unquote(rawTitle));
+  const seoTitle = normalize(unquote(rawSeoTitle));
   const route = routeFor(language, contentPath, frontMatter);
   const characterCount = [...title].length;
   const pixelWidth = estimatedPixels(title);
@@ -156,7 +172,7 @@ for (const filePath of walk(contentRoot).sort()) {
   duplicate.push({ relative, route });
   languageTitles.set(title, duplicate);
   titlesByLanguage.set(language, languageTitles);
-  records.push({ relative, language, contentPath, title, route, characterCount, pixelWidth });
+  records.push({ relative, language, contentPath, title, seoTitle, route, characterCount, pixelWidth });
 }
 
 for (const [language, titles] of titlesByLanguage) {
@@ -176,9 +192,10 @@ for (const record of records) {
   const htmlTitle = normalize(html.match(/<title>([\s\S]*?)<\/title>/i)?.[1] ?? '');
   const ogTitle = normalize(metaContent(html, 'property', 'og:title'));
   const twitterTitle = normalize(metaContent(html, 'name', 'twitter:title'));
+  const localizedSiteTitle = languageSiteTitle(record.language);
   const expectedTitle = record.contentPath === '_index.md' || record.contentPath === 'home/index.md'
-    ? languageSiteTitle(record.language)
-    : record.title;
+    ? localizedSiteTitle
+    : record.seoTitle.replace('{brand}', localizedSiteTitle) || record.title;
 
   if (htmlTitle !== expectedTitle) errors.push(`${record.relative}: rendered title does not match the expected title`);
   if (ogTitle !== expectedTitle) errors.push(`${record.relative}: Open Graph title does not match the expected title`);
