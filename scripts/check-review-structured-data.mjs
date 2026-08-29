@@ -24,6 +24,7 @@ function hasType(node, type) {
 
 const errors = [];
 let totalReviews = 0;
+let totalAggregateRatings = 0;
 for (const language of languages) {
   const file = path.join(publicDir, language, "index.html");
   if (!fs.existsSync(file)) {
@@ -38,6 +39,20 @@ for (const language of languages) {
 
   if (courseNodes.length !== 5) errors.push(`${language}: expected five review Course nodes, found ${courseNodes.length}`);
   if (reviews.length !== 6) errors.push(`${language}: expected six nested Review nodes, found ${reviews.length}`);
+
+  for (const course of courseNodes) {
+    if (course.review.length > 1) {
+      const aggregate = course.aggregateRating;
+      const expectedRating = course.review.reduce((sum, review) => sum + review.reviewRating.ratingValue, 0) / course.review.length;
+      totalAggregateRatings += aggregate ? 1 : 0;
+      if (aggregate?.["@type"] !== "AggregateRating") errors.push(`${language}: ${course.name} has multiple reviews without an AggregateRating`);
+      if (aggregate?.reviewCount !== course.review.length) errors.push(`${language}: ${course.name} aggregate reviewCount does not match its reviews`);
+      if (aggregate?.ratingValue !== expectedRating) errors.push(`${language}: ${course.name} aggregate ratingValue does not match its review average`);
+      if (aggregate?.bestRating !== 5 || aggregate?.worstRating !== 1) errors.push(`${language}: ${course.name} aggregate rating does not use the 1-5 scale`);
+    } else if (course.aggregateRating) {
+      errors.push(`${language}: ${course.name} should not gain an aggregate rating for one review`);
+    }
+  }
 
   for (const {course, review} of reviews) {
     if (!course.name || !course.url?.includes("#section-testimonials")) errors.push(`${language}: review Course is missing a visible homepage target`);
@@ -57,8 +72,9 @@ for (const language of languages) {
 }
 
 if (totalReviews !== 18) errors.push(`Expected eighteen translated Review nodes, found ${totalReviews}`);
+if (totalAggregateRatings !== 3) errors.push(`Expected one multiple-review AggregateRating per language, found ${totalAggregateRatings}`);
 if (errors.length) {
   console.error(`Review structured-data check failed with ${errors.length} issue(s):\n${errors.join("\n")}`);
   process.exit(1);
 }
-console.log("Review structured-data check passed: six reviews per language, nested under five Course nodes, with visible metadata.");
+console.log("Review structured-data check passed: six reviews per language, nested under five Course nodes, with AggregateRating on each multiple-review course.");

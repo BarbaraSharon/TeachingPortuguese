@@ -144,9 +144,11 @@
       {{- $courseItems := where $reviewItems "course_id" $courseID -}}
       {{- $first := index $courseItems 0 -}}
       {{- $reviews := slice -}}
+      {{- $ratingTotal := 0.0 -}}
       {{- range $item := $courseItems -}}
         {{- $authorParts := split $item.name "," -}}
         {{- $authorName := index $authorParts 0 -}}
+        {{- $ratingTotal = add $ratingTotal (float $item.rating) -}}
         {{- $review := dict
           "@type" "Review"
           "author" (dict "@type" "Person" "name" $authorName)
@@ -165,6 +167,15 @@
         "provider" (dict "@id" $orgID)
         "review" $reviews
       -}}
+      {{- if gt (len $courseItems) 1 -}}
+        {{- $course = merge $course (dict "aggregateRating" (dict
+          "@type" "AggregateRating"
+          "ratingValue" (div $ratingTotal (len $courseItems))
+          "reviewCount" (len $courseItems)
+          "bestRating" ($first.best_rating | default 5)
+          "worstRating" 1
+        )) -}}
+      {{- end -}}
       {{- $graph = $graph | append $course -}}
     {{- end -}}
   {{- end -}}
