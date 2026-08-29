@@ -11,6 +11,7 @@ const origin = 'https://barbarasharon.com.au';
 const languages = {
   en: {
     section: 'answers',
+    profilePath: 'about-barbara-sharon',
     hubTitle: 'Portuguese Learning Answers and Lesson Guidance',
     hreflang: 'en-au',
     authorLabel: 'About the author',
@@ -60,6 +61,7 @@ const languages = {
   },
   es: {
     section: 'respuestas',
+    profilePath: 'sobre-barbara-sharon',
     hubTitle: 'Respuestas para aprender portugués brasileño',
     hreflang: 'es',
     authorLabel: 'Sobre la autora',
@@ -109,6 +111,7 @@ const languages = {
   },
   'pt-br': {
     section: 'respostas',
+    profilePath: 'sobre-barbara-sharon',
     hubTitle: 'Respostas para aprender português brasileiro',
     hreflang: 'pt-BR',
     authorLabel: 'Sobre a autora',
@@ -296,6 +299,11 @@ for (const [language, config] of Object.entries(languages)) {
     assert.ok(normalize(html).includes(config.authorLabel), `${outputPath}: localized author credentials are not visible`);
     assert.ok(normalize(html).includes(config.reviewLabel), `${outputPath}: localized review evidence is not visible`);
     assert.ok(normalize(html).includes(config.contactLabel), `${outputPath}: localized contact CTA is missing`);
+    const profileRoute = `/${language}/${config.profilePath}/`;
+    assert.ok(
+      html.includes(`href=${profileRoute}>Barbara Sharon</a>`) || html.includes(`href="${profileRoute}">Barbara Sharon</a>`),
+      `${outputPath}: byline must link Barbara Sharon to ${profileRoute}`,
+    );
 
     if (translationKey === 'answer-tutor-marketplaces-vs-independent-portuguese-teacher') {
       const check = comparisonPageChecks[language];
@@ -319,6 +327,13 @@ for (const [language, config] of Object.entries(languages)) {
       assert.ok(nodes.some((node) => hasType(node, type)), `${outputPath}: JSON-LD is missing ${type}`);
     }
     assert.ok(!nodes.some((node) => hasType(node, 'QAPage')), `${outputPath}: must not emit QAPage`);
+    const article = nodes.find((node) => hasType(node, 'Article'));
+    assert.equal(article.author?.['@id'], `${origin}#person`, `${outputPath}: Article author must use Barbara's stable Person ID`);
+    assert.equal(article.author?.['@type'], 'Person', `${outputPath}: Article author type is incorrect`);
+    assert.equal(article.author?.name, 'Barbara Sharon', `${outputPath}: Article author name is incorrect`);
+    assert.equal(article.author?.url, `${origin}${profileRoute}`, `${outputPath}: Article author profile URL is incorrect`);
+    const person = nodes.find((node) => hasType(node, 'Person') && node['@id'] === `${origin}#person`);
+    assert.equal(person?.url, `${origin}${profileRoute}`, `${outputPath}: Person node must use the localized profile URL`);
     assert.ok(sitemap.includes(`<loc>${canonical}</loc>`), `${outputPath}: canonical URL is missing from the sitemap`);
 
     const translatedRoutes = translationsByKey.get(translationKey);

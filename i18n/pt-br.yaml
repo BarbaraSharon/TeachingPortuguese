@@ -146,6 +146,10 @@
 
 - id: author_subtitle
   translation: Professora e tutora de português brasileiro
+- id: author_profiles_title
+  translation: Perfis e formas de contato da Barbara
+- id: author_profiles_text
+  translation: Acompanhe os recursos de ensino da Barbara ou entre em contato para consultar as opções de aulas disponíveis.
 - id: service_lesson_option
   translation: Opção de aula
 - id: newsletter_empty
@@ -256,3 +260,7 @@
   translation: Precisa de uma resposta para seu próprio objetivo?
 - id: answer_hub_contact_text
   translation: Fale com a Barbara sobre aulas particulares, em grupo, online ou na Gold Coast.
+- id: author_email_label
+  translation: Enviar e-mail para Barbara
+- id: author_whatsapp_label
+  translation: Falar com a Barbara pelo WhatsApp

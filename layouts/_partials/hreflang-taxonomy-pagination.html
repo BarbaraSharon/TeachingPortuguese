@@ -14,7 +14,7 @@
 {{ $isPaginatedSection := and (eq .Kind "section") (ne .Type "portuguese-teaching-locations") (strings.Contains .RelPermalink "/page/") }}
 
 {{ if eq .Lang "en" }}
-  {{ if or (eq $path "/en/tags/") (eq $path "/en/authors/") (eq $path "/en/categories/") }}
+  {{ if or (eq $path "/en/tags/") (eq $path "/en/categories/") }}
     {{ $alternatePath = replace $path "/en/" "/pt-br/" }}
     {{ $alternateLang = "pt-BR" }}
   {{ else if hasPrefix $path "/en/portuguese-teaching-locations/" }}
@@ -31,7 +31,7 @@
     {{ $alternateLang = "pt-BR" }}
   {{ end }}
 {{ else if eq .Lang "pt-br" }}
-  {{ if or (eq $path "/pt-br/tags/") (eq $path "/pt-br/authors/") (eq $path "/pt-br/categories/") }}
+  {{ if or (eq $path "/pt-br/tags/") (eq $path "/pt-br/categories/") }}
     {{ $alternatePath = replace $path "/pt-br/" "/en/" }}
     {{ $alternateLang = "en-AU" }}
   {{ else if hasPrefix $path "/pt-br/locais-de-aulas-de-portugues/" }}

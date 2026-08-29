@@ -25,6 +25,22 @@
   {{- $personID := printf "%s#person" $siteURL -}}
   {{- $languageCodes := dict "en" "en-AU" "pt-br" "pt-BR" "es" "es" -}}
   {{- $pageLanguage := index $languageCodes $page.Lang | default $page.Language.Lang -}}
+  {{- $authors := partialCached "functions/get_authors_data" $page site.Language.Lang -}}
+  {{- $author := index $authors "me" -}}
+  {{- $authorName := $author.name.display | default "Barbara Sharon" -}}
+  {{- $authorRole := $author.role | default "Brazilian Portuguese Teacher" -}}
+  {{- $authorBio := $author.bio | default "Qualified Brazilian Portuguese teacher offering private and group lessons online worldwide and in-person options on the Gold Coast." -}}
+  {{- $authorPage := site.GetPage "/authors" -}}
+  {{- $authorURL := "" -}}
+  {{- $authorImageURL := "" -}}
+  {{- with $authorPage -}}
+    {{- $authorURL = .Permalink -}}
+    {{- with .Params.image.filename -}}
+      {{- with resources.Get (printf "media/%s" .) -}}
+        {{- $authorImageURL = .Permalink -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
   {{- $sameAs := slice -}}
   {{- range site.Params.hugoblox.identity.social.links -}}
     {{- if hasPrefix .url "http" -}}
@@ -48,15 +64,33 @@
   {{- $person := dict
     "@id" $personID
     "@type" "Person"
-    "name" "Barbara Sharon"
-    "jobTitle" "Brazilian Portuguese Teacher"
+    "name" $authorName
+    "jobTitle" $authorRole
+    "description" $authorBio
     "worksFor" (dict "@id" $orgID)
     "knowsLanguage" (site.Params.hugoblox.identity.spoken_languages | default (slice "Portuguese" "English" "Italian" "Spanish" "French"))
     "sameAs" $sameAs
   -}}
+  {{- if $authorURL }}{{- $person = merge $person (dict "url" $authorURL) -}}{{- end -}}
+  {{- if $authorImageURL }}{{- $person = merge $person (dict "image" $authorImageURL) -}}{{- end -}}
   {{/* Organization and Person identity are site-wide graph nodes. Page front matter
        only controls page-specific Course, Article, and FAQ nodes below. */}}
   {{- $graph = $graph | append $organization $person -}}
+
+  {{- if and (eq $page.Section "authors") (eq $page.Kind "section") -}}
+    {{- $profilePage := dict
+      "@id" (printf "%s#profile-page" $page.Permalink)
+      "@type" "ProfilePage"
+      "name" $page.Title
+      "description" $page.Description
+      "url" $page.Permalink
+      "inLanguage" $pageLanguage
+      "dateCreated" ($published.Format "2006-01-02T15:04:05Z07:00")
+      "dateModified" ($modified.Format "2006-01-02T15:04:05Z07:00")
+      "mainEntity" (dict "@id" $personID)
+    -}}
+    {{- $graph = $graph | append $profilePage -}}
+  {{- end -}}
 
   {{- if eq $schema.type "Course" -}}
     {{- $course := dict
@@ -137,6 +171,10 @@
   {{- if eq $schema.type "Article" -}}
     {{- $articleHeadline := $schema.headline | default $page.Title -}}
     {{- $articleDescription := $schema.description | default $page.Description -}}
+    {{- $articleAuthor := dict "@id" $personID -}}
+    {{- if and (eq $page.Type "answers") $authorURL -}}
+      {{- $articleAuthor = dict "@id" $personID "@type" "Person" "name" $authorName "url" $authorURL -}}
+    {{- end -}}
     {{- $article := dict
       "@id" (printf "%s#article" $page.Permalink)
       "@type" "Article"
@@ -147,7 +185,7 @@
       "datePublished" ($published.Format "2006-01-02T15:04:05Z07:00")
       "dateModified" ($modified.Format "2006-01-02T15:04:05Z07:00")
       "mainEntityOfPage" (dict "@id" $page.Permalink)
-      "author" (dict "@id" $personID)
+      "author" $articleAuthor
       "publisher" (dict "@id" $orgID)
     -}}
     {{- with partial "functions/get_featured_image" $page -}}

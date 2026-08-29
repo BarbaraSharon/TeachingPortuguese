@@ -1,5 +1,7 @@
 {{ define "main" }}
-{{- $author := hugo.Data.authors.me -}}
+{{- $authors := partialCached "functions/get_authors_data" . site.Language.Lang -}}
+{{- $author := index $authors "me" -}}
+{{- $authorPage := site.GetPage "/authors" -}}
 {{- $contactURL := site.Params.hugoblox.header.cta.url -}}
 <main class="mx-auto max-w-5xl px-6 py-12 lg:px-8 lg:py-20">
   <article data-pagefind-body>
@@ -11,7 +13,14 @@
       <h1 class="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100 sm:text-5xl" data-pagefind-meta="title">{{ .Params.question | default .Title }}</h1>
       <p class="mt-6 border-l-4 border-primary-500 pl-5 text-xl leading-8 text-slate-700 dark:text-slate-200" data-direct-answer>{{ .Params.direct_answer }}</p>
       <div class="mt-6 flex flex-wrap gap-x-2 text-sm text-slate-600 dark:text-slate-300">
-        <span>{{ i18n "answer_written_by" }} {{ $author.name.display }}</span>
+        <span>
+          {{ i18n "answer_written_by" }}
+          {{- with $authorPage }}
+            <a class="font-semibold text-primary-700 underline dark:text-primary-300" href="{{ .RelPermalink }}">{{ $author.name.display }}</a>
+          {{- else }}
+            {{ $author.name.display }}
+          {{- end }}
+        </span>
         <span aria-hidden="true">·</span>
         <span>{{ i18n "answer_reviewed" }} {{ .Lastmod | time.Format ":date_long" }}</span>
       </div>

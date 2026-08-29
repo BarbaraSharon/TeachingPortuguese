@@ -146,6 +146,10 @@
 
 - id: author_subtitle
   translation: Tutora de portugués brasileño
+- id: author_profiles_title
+  translation: Perfiles y datos de contacto de Barbara
+- id: author_profiles_text
+  translation: Sigue los recursos docentes de Barbara o contacta con ella para consultar las opciones de clases disponibles.
 - id: service_lesson_option
   translation: Opción de clase
 - id: newsletter_empty
@@ -256,3 +260,7 @@
   translation: ¿Necesitas una respuesta para tu propio objetivo?
 - id: answer_hub_contact_text
   translation: Contacta con Barbara para hablar de clases particulares, grupales, online o en Gold Coast.
+- id: author_email_label
+  translation: Enviar un correo electrónico a Barbara
+- id: author_whatsapp_label
+  translation: Contactar con Barbara por WhatsApp

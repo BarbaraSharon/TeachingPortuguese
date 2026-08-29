@@ -1,28 +1,33 @@
 ---
-title: "Sobre Barbara Sharon, professora de português"
-description: "Leia o perfil de Barbara Sharon e conheça a perspectiva de ensino por trás dos recursos, das aulas e da orientação cultural para aprender português."
+title: "Sobre Barbara Sharon, professora e autora"
+url: /pt-br/sobre-barbara-sharon/
+robots: noindex, follow
+description: "Conheça Barbara Sharon, professora qualificada de português brasileiro e autora dos recursos práticos de aprendizagem deste site."
 translationKey: authors
 date: 2026-08-06
 lastmod: 2026-08-11
-robots: noindex, follow
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg
-  alt_text: Barbara Sharon
+  alt_text: Barbara Sharon, professora de português brasileiro e autora
 toc: false
 ---
 
-### Conheça Barbara Sharon
+Barbara Sharon é professora de português brasileiro e mora na Gold Coast, em Queensland, Austrália. Ela oferece aulas particulares e em grupo online para alunos do mundo inteiro e aulas presenciais na Gold Coast quando a disponibilidade, os horários e o espaço atual permitem.
 
-Barbara Sharon é uma professora de português brasileiro com base na Gold Coast, Queensland, Austrália. Ela também é professora certificada em TESOL e tem formação em aconselhamento e estudos educacionais, unindo ensino de idiomas com uma abordagem prática e orientada para o aluno.
+## Formação e foco de ensino
 
-Com ampla experiência em aulas de português, Barbara apoia estudantes de todos os níveis com foco em conversação, gramática aplicada, aulas personalizadas e aprendizagem com contexto cultural. As aulas podem ser online para estudantes do mundo inteiro ou presenciais na Gold Coast.
+Barbara é bacharela em Letras pela Universidade Federal do Rio de Janeiro (UFRJ) e tem certificação TESOL. Sua trajetória profissional também inclui experiência em aconselhamento, e ela atualmente cursa mestrado em Estudos Educacionais e Gestão do Comportamento.
 
-Formada em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), fala português, inglês, italiano e espanhol, e desenvolve programas de português feitos para objetivos reais, com rigor metodológico e acolhimento.
+Seu ensino é voltado ao uso prático do português brasileiro. As aulas integram conversação, compreensão oral, pronúncia, vocabulário útil, gramática em contexto e compreensão cultural. Barbara trabalha com alunos do nível iniciante ao avançado e adapta esses elementos a objetivos concretos, como viagens, família, trabalho, estudos ou conversas do dia a dia.
 
-## O que os alunos recebem
+## Como ensino português
 
-- Sessões flexíveis online para estudantes na Austrália e no exterior
-- Ensino particular e em grupo adaptado a objetivos concretos
-- Prática de conversação com reforço de gramática e confiança
-- Planos personalizados para viagem, negócios, estudo ou metas profissionais
+Nas minhas aulas, conecto fala, escuta, leitura e escrita, em vez de tratar essas habilidades como matérias isoladas. Praticamos tarefas relacionadas ao objetivo real do aluno, corrigimos cedo os erros importantes, retomamos a linguagem corrigida e voltamos a usá-la em atividades posteriores. Também estabeleço pontos claros de acompanhamento para que cada aluno reconheça o que melhorou e saiba o que praticar em seguida.
+
+## Recursos selecionados de Barbara
+
+- [Qual é a melhor forma de aprender português brasileiro?](/pt-br/respostas/melhor-forma-aprender-portugues-brasileiro/)
+- [Como melhorar a pronúncia do português brasileiro?](/pt-br/respostas/melhorar-pronuncia-portugues-brasileiro/)
+- [O que uma boa aula de português brasileiro deve incluir?](/pt-br/respostas/o-que-boa-aula-portugues-brasileiro-deve-incluir/)
+- [Falante nativo ou professor de português?](/pt-br/respostas/falante-nativo-ou-professor-portugues-qualificado/)

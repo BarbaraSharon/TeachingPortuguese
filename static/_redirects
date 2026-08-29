@@ -1,4 +1,9 @@
 # Generated legacy redirects to multilingual English canonical URLs
+# Localized single-author profile canonicals
+/en/authors/ /en/about-barbara-sharon/ 301
+/es/authors/ /es/sobre-barbara-sharon/ 301
+/pt-br/authors/ /pt-br/sobre-barbara-sharon/ 301
+
 /about-learning-portuguese/ /en/about-learning-portuguese/ 301
 /angliport/ /en/angliport/ 301
 /contact-portuguese-teacher/ /en/contact-portuguese-teacher/ 301

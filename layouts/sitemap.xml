@@ -7,7 +7,6 @@
   {{- $pages = where $pages "Params.private" "ne" true }}
   {{- $pages = where $pages "Kind" "ne" "taxonomy" }}
   {{- $pages = where $pages "Kind" "ne" "term" }}
-  {{- $pages = where $pages "Section" "ne" "authors" }}
   {{- range $pages }}
   {{- $robots := lower (.Params.robots | default "") }}
   {{- if and (not .Params.sitemap.disable) (not (hasPrefix $robots "noindex")) (not (strings.Contains .RelPermalink "/page/")) }}

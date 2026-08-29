@@ -5,6 +5,14 @@ import { fileURLToPath } from 'node:url';
 
 const origin = 'https://barbarasharon.com.au';
 const organizationId = `${origin}#organization`;
+const personId = `${origin}#person`;
+const authorImage = `${origin}/media/barbara-sharon.jpg`;
+const authorSameAs = [
+  'https://www.youtube.com/@PortugueseWithBarbaraSharon',
+  'https://www.instagram.com/portuguesewithbarbarasharon?igsh=MXVsaWJvOGdiZngxZw%3D%3D&utm_source=website',
+  'https://www.tiktok.com/@bahteachmeportuguese',
+  'https://www.facebook.com/barbara.sharon1',
+];
 
 function readOutput(path) {
   return fs.readFileSync(new URL(`../public${path}`, import.meta.url), 'utf8');
@@ -102,6 +110,7 @@ assert.equal(countType('Article'), 102, 'Expected 102 rendered Article nodes.');
 assert.equal(countType('Course'), 27, 'Expected twelve page Course nodes plus fifteen homepage review Course nodes.');
 assert.equal(countType('FAQPage'), 39, 'Expected thirty-nine rendered FAQPage nodes.');
 assert.equal(countType('WebPage'), 93, 'Expected 93 rendered answer WebPage nodes.');
+assert.equal(countType('ProfilePage'), 3, 'Expected one localized ProfilePage node per language.');
 
 for (const page of pageNodes) {
   const ids = page.nodes.map((node) => node['@id']).filter(Boolean);
@@ -140,6 +149,120 @@ for (const page of pageNodes) {
       assert.ok(question.acceptedAnswer?.text, `${page.file} FAQ question is missing an accepted answer.`);
     }
   }
+}
+
+const authorProfiles = [
+  {
+    language: 'en',
+    route: '/en/about-barbara-sharon/',
+    hreflang: 'en-au',
+    inLanguage: 'en-AU',
+    title: 'About Barbara Sharon, Portuguese Teacher and Author',
+    jobTitle: 'Brazilian Portuguese Teacher',
+    contactLabels: ['Email Barbara', 'Chat with Barbara on WhatsApp'],
+    resources: [
+      '/en/answers/best-way-to-learn-brazilian-portuguese/',
+      '/en/answers/improve-brazilian-portuguese-pronunciation/',
+      '/en/answers/what-good-brazilian-portuguese-lesson-includes/',
+      '/en/answers/native-speaker-vs-qualified-portuguese-teacher/',
+    ],
+  },
+  {
+    language: 'es',
+    route: '/es/sobre-barbara-sharon/',
+    hreflang: 'es',
+    inLanguage: 'es',
+    title: 'Sobre Barbara Sharon, profesora y autora',
+    jobTitle: 'Profesora de portugués brasileño',
+    contactLabels: ['Enviar un correo electrónico a Barbara', 'Contactar con Barbara por WhatsApp'],
+    resources: [
+      '/es/respuestas/mejor-forma-aprender-portugues-brasileno/',
+      '/es/respuestas/mejorar-pronunciacion-portugues-brasileno/',
+      '/es/respuestas/que-incluye-buena-clase-portugues-brasileno/',
+      '/es/respuestas/hablante-nativo-o-profesor-portugues-cualificado/',
+    ],
+  },
+  {
+    language: 'pt-br',
+    route: '/pt-br/sobre-barbara-sharon/',
+    hreflang: 'pt-BR',
+    inLanguage: 'pt-BR',
+    title: 'Sobre Barbara Sharon, professora e autora',
+    jobTitle: 'Professora de português brasileiro',
+    contactLabels: ['Enviar e-mail para Barbara', 'Falar com a Barbara pelo WhatsApp'],
+    resources: [
+      '/pt-br/respostas/melhor-forma-aprender-portugues-brasileiro/',
+      '/pt-br/respostas/melhorar-pronuncia-portugues-brasileiro/',
+      '/pt-br/respostas/o-que-boa-aula-portugues-brasileiro-deve-incluir/',
+      '/pt-br/respostas/falante-nativo-ou-professor-portugues-qualificado/',
+    ],
+  },
+];
+
+for (const profile of authorProfiles) {
+  const outputPath = `${profile.route}index.html`;
+  const html = readOutput(outputPath);
+  const canonical = `${origin}${profile.route}`;
+  assert.ok(
+    html.includes(`<link rel=canonical href=${canonical}`) || html.includes(`<link rel="canonical" href="${canonical}"`),
+    `${outputPath}: canonical is incorrect.`,
+  );
+  assert.match(html, /<meta\s+name=["']?robots["']?\s+content=["']?noindex, follow["']?/i, `${outputPath}: profile must remain noindex until editorial approval.`);
+  assert.ok(!html.includes('/authors/'), `${outputPath}: retired plural author URL leaked into the rendered profile.`);
+  assertIncludes(html, profile.title, `${outputPath}: localized profile title is missing.`);
+  for (const label of ['YouTube', 'Instagram', 'TikTok', 'Facebook']) {
+    assert.match(html, new RegExp(`aria-label=["']?${label}["']?`), `${outputPath}: ${label} profile label is missing.`);
+  }
+  for (const label of profile.contactLabels) {
+    assert.ok(
+      html.includes(`aria-label=${label}`) || html.includes(`aria-label="${label}"`),
+      `${outputPath}: localized contact label ${label} is missing.`,
+    );
+  }
+  for (const resource of profile.resources) {
+    assert.ok(html.includes(`href=${resource}`) || html.includes(`href="${resource}"`), `${outputPath}: selected resource ${resource} is missing.`);
+  }
+
+  const nodes = jsonLdObjects(html).flatMap((object) => object['@graph'] || [object]);
+  const profilePage = nodes.find((node) => hasType(node, 'ProfilePage'));
+  const person = nodes.find((node) => hasType(node, 'Person') && node['@id'] === personId);
+  assert.ok(profilePage, `${outputPath}: ProfilePage JSON-LD is missing.`);
+  assert.equal(profilePage['@id'], `${canonical}#profile-page`, `${outputPath}: ProfilePage ID is incorrect.`);
+  assert.equal(profilePage.url, canonical, `${outputPath}: ProfilePage URL is incorrect.`);
+  assert.equal(profilePage.inLanguage, profile.inLanguage, `${outputPath}: ProfilePage language is incorrect.`);
+  assert.equal(profilePage.mainEntity?.['@id'], personId, `${outputPath}: ProfilePage mainEntity is incorrect.`);
+  assert.ok(profilePage.dateCreated, `${outputPath}: ProfilePage dateCreated is missing.`);
+  assert.ok(profilePage.dateModified, `${outputPath}: ProfilePage dateModified is missing.`);
+  assert.ok(person, `${outputPath}: Barbara's Person node is missing.`);
+  assert.equal(person.url, canonical, `${outputPath}: Person URL is incorrect.`);
+  assert.equal(person.jobTitle, profile.jobTitle, `${outputPath}: Person job title is not localized.`);
+  assert.equal(person.image, authorImage, `${outputPath}: Person image is incorrect.`);
+  assert.deepEqual(person.sameAs, authorSameAs, `${outputPath}: Person sameAs profiles changed.`);
+
+  const sitemap = readOutput(`/${profile.language}/sitemap.xml`);
+  assert.ok(!sitemap.includes(`<loc>${canonical}</loc>`), `${outputPath}: unapproved profile must not appear in the sitemap.`);
+  for (const alternate of authorProfiles) {
+    const expected = `hreflang=${alternate.hreflang} href=${origin}${alternate.route}`;
+    const quoted = `hreflang="${alternate.hreflang}" href="${origin}${alternate.route}"`;
+    assert.ok(html.includes(expected) || html.includes(quoted), `${outputPath}: ${alternate.hreflang} alternate is missing.`);
+  }
+  assert.ok(
+    html.includes(`hreflang=x-default href=${origin}/en/about-barbara-sharon/`) || html.includes(`hreflang="x-default" href="${origin}/en/about-barbara-sharon/"`),
+    `${outputPath}: x-default is incorrect.`,
+  );
+}
+
+for (const oldOutput of ['/en/authors/index.html', '/es/authors/index.html', '/pt-br/authors/index.html']) {
+  assert.equal(fs.existsSync(new URL(`../public${oldOutput}`, import.meta.url)), false, `${oldOutput}: retired author page must not be generated.`);
+}
+
+const redirects = readOutput('/_redirects');
+for (const rule of [
+  '/en/authors/ /en/about-barbara-sharon/ 301',
+  '/es/authors/ /es/sobre-barbara-sharon/ 301',
+  '/pt-br/authors/ /pt-br/sobre-barbara-sharon/ 301',
+]) {
+  assertIncludes(redirects, rule, `Missing author profile redirect: ${rule}`);
 }
 
 for (const [relative, expectedType] of [

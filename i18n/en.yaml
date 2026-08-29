@@ -146,6 +146,10 @@
 
 - id: author_subtitle
   translation: Brazilian Portuguese tutor
+- id: author_profiles_title
+  translation: Barbara's profiles and contact details
+- id: author_profiles_text
+  translation: Follow Barbara's teaching resources or contact her about current lesson options.
 - id: service_lesson_option
   translation: Lesson option
 - id: newsletter_empty
@@ -256,3 +260,7 @@
   translation: Need an answer for your own learning goal?
 - id: answer_hub_contact_text
   translation: Contact Barbara to discuss private, group, online or Gold Coast lesson options.
+- id: author_email_label
+  translation: Email Barbara
+- id: author_whatsapp_label
+  translation: Chat with Barbara on WhatsApp

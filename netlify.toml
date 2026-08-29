@@ -11,7 +11,7 @@
     npm ci
     
     echo "=== Running Hugo build ==="
-    hugo --gc --minify -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
+    hugo --gc --minify --cleanDestinationDir -b $URL --logLevel debug --printI18nWarnings --printPathWarnings
 
     echo "=== Generating language-selection root ==="
     node scripts/generate-legacy-redirects.mjs
@@ -43,7 +43,7 @@
     echo "=== Deploy Preview Build ==="
     echo "Deploy URL: $DEPLOY_PRIME_URL"
     npm ci
-    hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
+    hugo --gc --minify --cleanDestinationDir --buildFuture -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
     node scripts/generate-legacy-redirects.mjs
     node scripts/generate-legacy-redirects.mjs --check
     npm run pagefind
@@ -55,7 +55,7 @@
     echo "=== Branch Deploy Build ==="
     echo "Deploy URL: $DEPLOY_PRIME_URL"
     npm ci
-    hugo --gc --minify -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
+    hugo --gc --minify --cleanDestinationDir -b $DEPLOY_PRIME_URL --logLevel debug --printI18nWarnings --printPathWarnings
     node scripts/generate-legacy-redirects.mjs
     node scripts/generate-legacy-redirects.mjs --check
     npm run pagefind

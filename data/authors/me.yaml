@@ -6,11 +6,14 @@ name:
   given: Barbara
   family: Sharon
 role: Brazilian Portuguese Teacher
-bio: Qualified Brazilian Portuguese teacher offering private and group lessons online
-  worldwide and in-person on the Gold Coast.
+bio: Brazilian Portuguese teacher and author with a background in counselling,
+  offering private and group lessons online worldwide and in-person options on
+  the Gold Coast.
 credentials:
 - Bachelor's degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ)
 - TESOL-certified instructor
+- Professional background in counselling
+- Currently pursuing a Master's degree in Educational Studies and Behaviour Management
 review_url: https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL4uWcnEFkWsRxm_76WOGQ3s
 links:
 - icon: at-symbol
@@ -21,12 +24,16 @@ links:
   label: Chat with Barbara on WhatsApp
 - icon: brands/youtube
   url: https://www.youtube.com/@PortugueseWithBarbaraSharon
+  label: YouTube
 - icon: brands/instagram
   url: https://www.instagram.com/portuguesewithbarbarasharon?igsh=MXVsaWJvOGdiZngxZw%3D%3D&utm_source=website
+  label: Instagram
 - icon: brands/tiktok
   url: https://www.tiktok.com/@bahteachmeportuguese
+  label: TikTok
 - icon: brands/facebook
   url: https://www.facebook.com/barbara.sharon1
+  label: Facebook
 languages:
 - name: Portuguese
   level: 5

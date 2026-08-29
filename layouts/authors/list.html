@@ -1,24 +1,27 @@
 {{ define "main" }}
-{{ $subtitle := i18n "author_subtitle" }}
+{{- $subtitle := i18n "author_subtitle" -}}
+{{- $authors := partialCached "functions/get_authors_data" . site.Language.Lang -}}
+{{- $profile := index $authors "me" -}}
+{{- $authorImage := "" -}}
+{{- $authorImageAlt := "" -}}
+{{- with .Params.image -}}
+  {{- $authorImage = resources.Get (printf "media/%s" .filename) -}}
+  {{- $authorImageAlt = .alt_text | default "" -}}
+{{- end -}}
 
 <main class="mx-auto max-w-5xl px-6 py-10 sm:px-8 lg:px-12">
-  {{ $authorImage := "" }}
-  {{ $authorImageAlt := "" }}
-  {{ with .Params.image }}
-    {{ $authorImage = resources.Get (printf "media/%s" .filename) }}
-    {{ $authorImageAlt = .alt_text | default "" }}
-  {{ end }}
-
   <header class="mx-auto max-w-4xl border-l-4 border-primary-500 pl-6 sm:pl-8">
-    <p class="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">
-      {{ $subtitle }}
-    </p>
-    <h1 class="max-w-3xl text-4xl font-semibold tracking-tight text-slate-900 dark:text-white sm:text-5xl">
-      {{ .Title }}
-    </h1>
-    <div class="mt-7 grid gap-8 lg:grid-cols-[1fr_420px] lg:items-center">
-      <div class="max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300 prose dark:prose-invert">
-        {{ .Content }}
+    <div class="grid gap-8 lg:grid-cols-[1fr_360px] lg:items-center">
+      <div>
+        <p class="mb-4 text-xs font-semibold uppercase tracking-[0.22em] text-primary-700 dark:text-primary-300">
+          {{ $subtitle }}
+        </p>
+        <h1 class="max-w-3xl text-4xl font-semibold tracking-tight text-slate-900 dark:text-white sm:text-5xl" data-pagefind-meta="title">
+          {{ .Title }}
+        </h1>
+        <p class="mt-6 max-w-3xl text-lg leading-8 text-slate-600 dark:text-slate-300">
+          {{ .Description }}
+        </p>
       </div>
       {{ with $authorImage }}
         {{ $responsive := partial "functions/process_responsive_image" (dict
@@ -26,24 +29,35 @@
             "mode" "fill"
             "aspect_ratio" "1:1"
             "anchor" "smart"
-            "sizes" (slice 340 520 680)
+            "sizes" (slice 320 480 640)
         ) }}
         <img
-          class="h-auto w-full max-w-[420px] rounded-3xl shadow-xl object-cover lg:justify-self-end"
+          class="h-auto w-full max-w-[360px] rounded-3xl object-cover shadow-xl lg:justify-self-end"
           src="{{ $responsive.fallback.RelPermalink }}"
           srcset="{{ $responsive.srcset }}"
-          sizes="(min-width:1024px) 420px, 100vw"
+          sizes="(min-width:1024px) 360px, 100vw"
           alt="{{ $authorImageAlt }}"
-          width="420"
-          height="420"
-          loading="lazy"
+          width="360"
+          height="360"
+          fetchpriority="high"
         />
       {{ end }}
     </div>
   </header>
 
-  <section class="mt-12 border-t border-slate-200 pt-10 dark:border-slate-700">
-    {{ partial "page_author.html" . }}
-  </section>
+  <article class="prose prose-slate mx-auto mt-12 max-w-4xl lg:prose-lg dark:prose-invert" data-pagefind-body>
+    {{ .Content }}
+  </article>
+
+  {{ with $profile }}
+    <section class="mx-auto mt-12 max-w-4xl rounded-2xl border border-slate-200 p-6 dark:border-slate-700" aria-labelledby="author-profiles">
+      <p class="text-sm font-semibold text-primary-700 dark:text-primary-300">{{ .role }}</p>
+      <h2 id="author-profiles" class="mt-2 text-2xl font-bold text-slate-900 dark:text-slate-100">{{ i18n "author_profiles_title" }}</h2>
+      <p class="mt-3 text-slate-700 dark:text-slate-200">{{ i18n "author_profiles_text" }}</p>
+      <div class="mt-5 text-3xl">
+        {{ partial "social_links" (dict "Params" (dict "profiles" .links) "page" $) }}
+      </div>
+    </section>
+  {{ end }}
 </main>
 {{ end }}

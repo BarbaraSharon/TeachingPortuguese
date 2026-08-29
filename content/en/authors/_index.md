@@ -1,28 +1,33 @@
 ---
-title: "About Barbara Sharon, Portuguese Teacher"
+title: "About Barbara Sharon, Portuguese Teacher and Author"
+url: /en/about-barbara-sharon/
 robots: noindex, follow
-description: "Read Barbara Sharon’s profile and discover the teaching perspective behind Portuguese learning resources, lessons, and cultural guidance for students."
+description: "Meet Barbara Sharon, the qualified Brazilian Portuguese teacher and author behind this site’s practical language-learning resources."
 translationKey: authors
 date: 2026-08-06
 lastmod: 2026-08-11
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg
-  alt_text: Barbara Sharon
+  alt_text: Barbara Sharon, Brazilian Portuguese teacher and author
 toc: false
 ---
 
-### Meet Barbara Sharon
+Barbara Sharon is a Brazilian Portuguese teacher based on the Gold Coast, Queensland, Australia. She teaches private and group lessons online to learners worldwide and offers in-person lessons on the Gold Coast when current venue, schedule, and availability allow.
 
-Barbara Sharon is a Brazilian Portuguese tutor based on the Gold Coast, Queensland, Australia. She is also a certified TESOL instructor and has a background in counselling and educational studies, combining language teaching with a very practical, student-centred approach.
+## Qualifications and teaching focus
 
-With many years of teaching experience, Barbara supports learners at all levels through conversational Brazilian Portuguese, grammar guidance, personalised lesson planning, and culturally grounded learning. Lessons are available online worldwide and in-person on the Gold Coast.
+Barbara holds a Bachelor’s degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ) and is a TESOL-certified instructor. Her professional background also includes counselling, and she is currently pursuing a Master’s degree in Educational Studies and Behaviour Management.
 
-She holds a degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ), is fluent in Portuguese, English, Italian, and Spanish, and is currently building long-term learner-focused language programmes that stay both rigorous and encouraging.
+Her teaching focuses on Brazilian Portuguese for practical communication. Lessons bring together conversation, listening, pronunciation, useful vocabulary, grammar in context, and cultural understanding. Barbara works with learners from beginner to advanced levels and adapts the balance of those elements to each learner’s purpose, such as travel, family, work, study, or everyday conversation.
 
-## What students get
+## How I teach Portuguese
 
-- Flexible online sessions for learners in Australia and internationally
-- Private and group teaching tailored to goals
-- Practical speaking practice plus grammar and confidence-building support
-- Personalised lesson tracks for travel, business, school, or life goals
+In my lessons, I connect speaking, listening, reading, and writing rather than treating them as separate subjects. We practise tasks that match the learner’s real goal, correct important errors early, recap the corrected language, and return to it in later activities. I also use clear progress checkpoints so learners can recognise what has improved and what to practise next.
+
+## Selected resources by Barbara
+
+- [What Is the Best Way to Learn Brazilian Portuguese?](/en/answers/best-way-to-learn-brazilian-portuguese/)
+- [How Can I Improve Brazilian Portuguese Pronunciation?](/en/answers/improve-brazilian-portuguese-pronunciation/)
+- [What Should a Good Brazilian Portuguese Lesson Include?](/en/answers/what-good-brazilian-portuguese-lesson-includes/)
+- [Native Speaker or Qualified Portuguese Teacher?](/en/answers/native-speaker-vs-qualified-portuguese-teacher/)

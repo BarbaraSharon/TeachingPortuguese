@@ -1,28 +1,33 @@
 ---
-title: "Sobre Barbara Sharon, profesora de portugués"
-description: "Lee el perfil de Barbara Sharon y conoce la perspectiva docente detrás de los recursos, clases y orientación cultural para aprender portugués."
+title: "Sobre Barbara Sharon, profesora y autora"
+url: /es/sobre-barbara-sharon/
+robots: noindex, follow
+description: "Conoce a Barbara Sharon, la profesora cualificada de portugués brasileño y autora de los recursos prácticos de aprendizaje de este sitio."
 translationKey: authors
 date: 2026-08-06
 lastmod: 2026-08-11
-robots: noindex, follow
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg
-  alt_text: Barbara Sharon
+  alt_text: Barbara Sharon, profesora de portugués brasileño y autora
 toc: false
 ---
 
-### Conoce a Barbara Sharon
+Barbara Sharon es profesora de portugués brasileño y vive en Gold Coast, Queensland, Australia. Imparte clases particulares y grupales online a estudiantes de todo el mundo y ofrece clases presenciales en Gold Coast cuando la disponibilidad, los horarios y el espacio actual lo permiten.
 
-Barbara Sharon es una profesora de portugués brasileño con base en Gold Coast, Queensland, Australia. También es una instructora certificada en TESOL y tiene formación en counselling y estudios educativos, combinando la enseñanza de idiomas con un enfoque práctico y centrado en el alumnado.
+## Formación y enfoque docente
 
-Con una amplia experiencia enseñando portugués, Barbara apoya a estudiantes de todos los niveles con conversación, gramática aplicada, clases personalizadas y aprendizaje con contexto cultural. Ofrece clases online para estudiantes de todo el mundo y clases presenciales en Gold Coast.
+Barbara es licenciada en Lenguas y Literatura por la Universidad Federal de Río de Janeiro (UFRJ) y cuenta con certificación TESOL. Su trayectoria profesional también incluye experiencia en orientación personal y actualmente cursa un máster en Estudios Educativos y Gestión del Comportamiento.
 
-Tiene formación en Letras por la Universidad Federal de Río de Janeiro (UFRJ), domina portugués, inglés, italiano y español, y diseña programas de portugués adaptados a objetivos concretos, con estructura pedagógica y acompañamiento cercano.
+Su enseñanza se centra en el portugués brasileño para la comunicación práctica. Las clases integran conversación, comprensión auditiva, pronunciación, vocabulario útil, gramática en contexto y comprensión cultural. Barbara trabaja con estudiantes desde el nivel inicial hasta el avanzado y adapta estos elementos a objetivos concretos, como viajar, comunicarse con la familia, trabajar, estudiar o desenvolverse en conversaciones cotidianas.
 
-## Qué encontrarás
+## Cómo enseño portugués
 
-- Sesiones flexibles online para estudiantes en Australia y en el extranjero
-- Clases particulares y de grupo adaptadas a metas reales
-- Práctica de conversación con refuerzo de gramática y confianza
-- Planes personalizados para viaje, negocios, estudio o metas profesionales
+En mis clases conecto la expresión oral, la comprensión auditiva, la lectura y la escritura, en lugar de tratarlas como materias aisladas. Practicamos tareas relacionadas con el objetivo real del estudiante, corregimos pronto los errores importantes, repasamos el lenguaje corregido y volvemos a utilizarlo en actividades posteriores. También establezco puntos de seguimiento claros para que cada estudiante pueda reconocer sus avances y saber qué debe practicar a continuación.
+
+## Recursos seleccionados de Barbara
+
+- [¿Cuál es la mejor forma de aprender portugués brasileño?](/es/respuestas/mejor-forma-aprender-portugues-brasileno/)
+- [¿Cómo mejorar mi pronunciación en portugués brasileño?](/es/respuestas/mejorar-pronunciacion-portugues-brasileno/)
+- [¿Qué debe incluir una buena clase de portugués brasileño?](/es/respuestas/que-incluye-buena-clase-portugues-brasileno/)
+- [¿Hablante nativo o profesor de portugués?](/es/respuestas/hablante-nativo-o-profesor-portugues-cualificado/)

@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "hugo server --disableFastRender",
     "check": "npm run locations:check && npm run language:routing:check && npm run metadata:check && npm run answers:check && npm run titles:check && npm run descriptions:check && npm run redirects:check",
-    "build": "hugo --minify && npm run locations:check && npm run language:routing:check && npm run titles:check && npm run descriptions:check && npm run pagefind && npm run redirects && npm run redirects:check && npm run metadata:check && npm run answers:check",
+    "build": "hugo --minify --cleanDestinationDir && npm run locations:check && npm run language:routing:check && npm run titles:check && npm run descriptions:check && npm run pagefind && npm run redirects && npm run redirects:check && npm run metadata:check && npm run answers:check",
     "locations:check": "node scripts/check-locations.mjs",
     "language:routing:check": "node scripts/check-language-routing.mjs",
     "metadata:check": "node scripts/check-generated-metadata.mjs",
