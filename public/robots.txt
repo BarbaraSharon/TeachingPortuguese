@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Search and answer-engine crawlers. Explicit Allow rules document the public
+# crawl policy; they do not create a ranking preference.
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://barbarasharon.com.au/sitemap.xml
