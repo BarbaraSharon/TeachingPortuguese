@@ -167,15 +167,13 @@
         "provider" (dict "@id" $orgID)
         "review" $reviews
       -}}
-      {{- if gt (len $courseItems) 1 -}}
-        {{- $course = merge $course (dict "aggregateRating" (dict
-          "@type" "AggregateRating"
-          "ratingValue" (div $ratingTotal (len $courseItems))
-          "reviewCount" (len $courseItems)
-          "bestRating" ($first.best_rating | default 5)
-          "worstRating" 1
-        )) -}}
-      {{- end -}}
+      {{- $course = merge $course (dict "aggregateRating" (dict
+        "@type" "AggregateRating"
+        "ratingValue" (div $ratingTotal (len $courseItems))
+        "reviewCount" (len $courseItems)
+        "bestRating" ($first.best_rating | default 5)
+        "worstRating" 1
+      )) -}}
       {{- $graph = $graph | append $course -}}
     {{- end -}}
   {{- end -}}

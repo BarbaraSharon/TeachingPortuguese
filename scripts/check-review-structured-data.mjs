@@ -7,6 +7,16 @@ const projectRoot = path.resolve(import.meta.dirname, "..");
 const publicArgumentIndex = process.argv.indexOf("--public-dir");
 const publicDir = path.resolve(publicArgumentIndex >= 0 ? process.argv[publicArgumentIndex + 1] : path.join(projectRoot, "public"));
 const languages = ["en", "pt-br", "es"];
+const languageCodes = {en: "en-AU", "pt-br": "pt-BR", es: "es"};
+const origin = "https://barbarasharon.com.au";
+const organizationId = `${origin}#organization`;
+const expectedCourseIds = [
+  "intensive-portuguese",
+  "advanced-portuguese",
+  "intermediate-portuguese",
+  "beginner-portuguese",
+  "beginner-intermediate-portuguese",
+];
 
 function jsonLdObjects(html, file) {
   return [...html.matchAll(/<script[^>]+type=["']?application\/ld\+json["']?[^>]*>([\s\S]*?)<\/script>/gi)].map((match) => {
@@ -32,25 +42,56 @@ for (const language of languages) {
     continue;
   }
   const html = fs.readFileSync(file, "utf8");
-  const nodes = jsonLdObjects(html, file).flatMap((object) => object["@graph"] || [object]);
+  const objects = jsonLdObjects(html, file);
+  const nodes = objects.flatMap((object) => object["@graph"] || [object]);
   const courseNodes = nodes.filter((node) => hasType(node, "Course") && Array.isArray(node.review));
   const reviews = courseNodes.flatMap((course) => course.review.map((review) => ({course, review})));
   totalReviews += reviews.length;
 
+  if (objects.some((object) => object["@context"] !== "https://schema.org")) errors.push(`${language}: every JSON-LD object must use the schema.org context`);
+  const nodeIds = nodes.map((node) => node["@id"]).filter(Boolean);
+  if (new Set(nodeIds).size !== nodeIds.length) errors.push(`${language}: homepage JSON-LD contains duplicate @id values`);
+
+  const organizations = nodes.filter((node) => hasType(node, "Organization"));
+  const people = nodes.filter((node) => hasType(node, "Person") && node["@id"] === `${origin}#person`);
+  const videos = nodes.filter((node) => hasType(node, "VideoObject"));
+  if (organizations.length !== 1) errors.push(`${language}: expected one Organization node, found ${organizations.length}`);
+  if (people.length !== 1) errors.push(`${language}: expected one canonical Person node, found ${people.length}`);
+  if (videos.length !== 1) errors.push(`${language}: expected one VideoObject node, found ${videos.length}`);
+
+  const organization = organizations[0];
+  for (const property of ["@id", "name", "url", "description", "email", "telephone", "address", "areaServed", "sameAs"]) {
+    if (!organization?.[property]) errors.push(`${language}: Organization is missing ${property}`);
+  }
+  const person = people[0];
+  for (const property of ["@id", "name", "url", "description", "image", "jobTitle", "knowsLanguage", "sameAs", "worksFor"]) {
+    if (!person?.[property]) errors.push(`${language}: Person is missing ${property}`);
+  }
+  const video = videos[0];
+  for (const property of ["@id", "name", "description", "thumbnailUrl", "uploadDate", "duration", "contentUrl", "embedUrl", "url"]) {
+    if (!video?.[property]) errors.push(`${language}: VideoObject is missing ${property}`);
+  }
+
   if (courseNodes.length !== 5) errors.push(`${language}: expected five review Course nodes, found ${courseNodes.length}`);
   if (reviews.length !== 6) errors.push(`${language}: expected six nested Review nodes, found ${reviews.length}`);
+  for (const courseId of expectedCourseIds) {
+    if (!courseNodes.some((course) => course["@id"] === `${origin}/${language}/#course-review-${courseId}`)) {
+      errors.push(`${language}: missing review Course node for ${courseId}`);
+    }
+  }
 
   for (const course of courseNodes) {
-    if (course.review.length > 1) {
-      const aggregate = course.aggregateRating;
-      const expectedRating = course.review.reduce((sum, review) => sum + review.reviewRating.ratingValue, 0) / course.review.length;
-      totalAggregateRatings += aggregate ? 1 : 0;
-      if (aggregate?.["@type"] !== "AggregateRating") errors.push(`${language}: ${course.name} has multiple reviews without an AggregateRating`);
-      if (aggregate?.reviewCount !== course.review.length) errors.push(`${language}: ${course.name} aggregate reviewCount does not match its reviews`);
-      if (aggregate?.ratingValue !== expectedRating) errors.push(`${language}: ${course.name} aggregate ratingValue does not match its review average`);
-      if (aggregate?.bestRating !== 5 || aggregate?.worstRating !== 1) errors.push(`${language}: ${course.name} aggregate rating does not use the 1-5 scale`);
-    } else if (course.aggregateRating) {
-      errors.push(`${language}: ${course.name} should not gain an aggregate rating for one review`);
+    const aggregate = course.aggregateRating;
+    const expectedRating = course.review.reduce((sum, review) => sum + review.reviewRating.ratingValue, 0) / course.review.length;
+    totalAggregateRatings += aggregate ? 1 : 0;
+    if (course.inLanguage !== languageCodes[language]) errors.push(`${language}: ${course.name} has the wrong inLanguage value`);
+    if (course.provider?.["@id"] !== organizationId) errors.push(`${language}: ${course.name} does not reference the canonical Organization`);
+    if (aggregate?.["@type"] !== "AggregateRating") {
+      errors.push(`${language}: ${course.name} is missing AggregateRating`);
+    } else {
+      if (aggregate.reviewCount !== course.review.length) errors.push(`${language}: ${course.name} aggregate reviewCount does not match its reviews`);
+      if (aggregate.ratingValue !== expectedRating) errors.push(`${language}: ${course.name} aggregate ratingValue does not match its review average`);
+      if (aggregate.bestRating !== 5 || aggregate.worstRating !== 1) errors.push(`${language}: ${course.name} aggregate rating does not use the 1-5 scale`);
     }
   }
 
@@ -72,9 +113,9 @@ for (const language of languages) {
 }
 
 if (totalReviews !== 18) errors.push(`Expected eighteen translated Review nodes, found ${totalReviews}`);
-if (totalAggregateRatings !== 3) errors.push(`Expected one multiple-review AggregateRating per language, found ${totalAggregateRatings}`);
+if (totalAggregateRatings !== 15) errors.push(`Expected five AggregateRating objects per language, found ${totalAggregateRatings}`);
 if (errors.length) {
   console.error(`Review structured-data check failed with ${errors.length} issue(s):\n${errors.join("\n")}`);
   process.exit(1);
 }
-console.log("Review structured-data check passed: six reviews per language, nested under five Course nodes, with AggregateRating on each multiple-review course.");
+console.log("Homepage JSON-LD check passed: complete Organization, Person, VideoObject, and five reviewed Course nodes per language, with AggregateRating on every Course.");
