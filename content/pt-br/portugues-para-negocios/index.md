@@ -249,7 +249,7 @@ Todos os meus cursos de negócios estão disponíveis online via Zoom, com víde
 
 O curso de negócios enfatiza vocabulário de ambiente de trabalho, estilos de comunicação profissional, competência cultural para contextos corporativos e situações práticas que você encontrará na carreira. Cursos gerais de português se concentram mais na conversação cotidiana e nas interações sociais.
 
-[Explore todos os serviços de português](/pt-br/aulas-de-portugues/)[Agende sua consulta gratuita](/pt-br/contato-professora-portugues/)
+[Explore todos os serviços de português](/pt-br/aulas-de-portugues/)[Agende sua opciones de clases](/pt-br/contato-professora-portugues/)
 
 ## "Aprender é viver!"
 

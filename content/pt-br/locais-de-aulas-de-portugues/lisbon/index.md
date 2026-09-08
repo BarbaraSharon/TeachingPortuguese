@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lisbon. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Lisbon está localizada em Portugal. Lisbon faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Lisbon, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Lisbon faz parte do fuso horário regional de Europe usado para organizar horários. Lisbon fica em Portugal. Esta página mantém a referência local específica de Lisbon, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Lisbon: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Lisbon; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lisbon: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Lisboa, a vibrante capital de Portugal, é conhecida por sua rica herança cultural e importância histórica. Com uma população de mais de 3 milhões de pessoas na área metropolitana, incluindo aproximadamente 80.000 residentes nascidos no Brasil em 2021, essa cidade oferece um ambiente ideal para aprender português. A presença da cultura brasileira, dos festivais às interações diárias, faz dela um lugar singular para mergulhar no idioma. A atmosfera multicultural de Lisboa, com 16,6% de sua população nascida no exterior, oferece oportunidades de praticar português em contextos diversos.
 
-Aulas online particulares e em grupo de português estão disponíveis em Lisboa com Barbara Sharon. Como professora qualificada de português em Lisboa, ela oferece ensino online flexível, adaptado aos seus objetivos de aprendizagem. Seja você iniciante completo ou queira aperfeiçoar suas habilidades de conversação, seus cursos acolhem todos os níveis. Com foco no português brasileiro e europeu, ela garante que os estudantes compreendam as nuances de cada variante. Aprenda português em Lisboa com uma tutora certificada especializada em educação personalizada.
+Aulas online particulares e em grupo de português estão disponíveis em Lisboa com Barbara Sharon. Como professora qualificada de português em Lisboa, ela oferece ensino online flexível, adaptado aos seus objetivos de aprendizagem. Seja você iniciante completo ou queira aperfeiçoar suas habilidades de conversação, seus cursos acolhem todos os níveis. Com foco no português brasileiro, ela garante que os estudantes compreendam as nuances de cada variante. Aprenda português em Lisboa com uma tutora certificada especializada em educação personalizada.
 
 ## Por que aprender português em Lisboa?
 
@@ -43,9 +43,9 @@ Aprender português em Lisboa também abre portas para oportunidades de negócio
 
 ## Como Barbara Sharon pode ajudar você a dominar o português
 
-Barbara Sharon é uma professora experiente de língua portuguesa, especializada no ensino de português brasileiro e europeu. Sua formação educacional inclui bacharelado em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), certificação em TESOL e fluência multilíngue em português, inglês, italiano e espanhol. Ela também possui mestrado em Estudos Educacionais e Gestão Comportamental.
+Barbara Sharon é uma professora experiente de língua portuguesa, especializada no ensino de português brasileiro. Sua formação educacional inclui bacharelado em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), certificação em TESOL e fluência multilíngue em português, inglês, italiano e espanhol. Ela também possui mestrado em Estudos Educacionais e Gestão Comportamental.
 
-Sua abordagem de ensino tem foco na comunicação em situações reais e na compreensão cultural, ajudando os estudantes a entender as diferenças entre o português brasileiro e europeu. Se você procura aulas de conversação em português ou aulas para iniciantes, Barbara oferece apoio personalizado para ajudar você a se comunicar autenticamente com falantes nativos. Encontre uma professora de português em Lisboa que compreenda seus objetivos por meio de sessões online que se encaixam à sua agenda.
+Sua abordagem de ensino tem foco na comunicação em situações reais e na compreensão cultural, ajudando os estudantes a entender as diferenças entre o português brasileiro. Se você procura aulas de conversação em português ou aulas para iniciantes, Barbara oferece apoio personalizado para ajudar você a se comunicar autenticamente com falantes nativos. Encontre uma professora de português em Lisboa que compreenda seus objetivos por meio de sessões online que se encaixam à sua agenda.
 
 ## O português como língua global
 
@@ -59,8 +59,8 @@ Barbara Sharon oferece aulas online de português para estudantes em Lisboa, com
 
 Os alunos recebem materiais personalizados, alinhados aos seus interesses e objetivos de aprendizagem. Se você procura aulas de português para iniciantes ou aulas avançadas de conversação, sua plataforma online garante uma experiência de aprendizagem acolhedora e dinâmica. Para conhecer os serviços disponíveis, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Lisboa? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Aprenda português com uma professora qualificada perto de você por meio de sessões online adequadas à sua agenda e necessidades.
+Tem interesse em aprender português em Lisboa? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Aprenda português com uma professora qualificada perto de você por meio de sessões online adequadas à sua agenda e necessidades.
 
-Agende uma aula experimental gratuita e dê o primeiro passo para aprender português brasileiro.
+Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.

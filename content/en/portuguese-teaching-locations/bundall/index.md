@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Bundall with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Bundall is a vibrant and friendly suburb of the Gold Coast, situated close to Surfers Paradise and Southport. With a population of approximately 4,895 residents as of the 2021 census, it offers a relaxed environment ideal for language learners. The area has a diverse community with 33.2% foreign-born residents, creating an inclusive atmosphere that supports cultural exchange and language learning. Whether you’re looking for Portuguese tutor Bundall or Brazilian Portuguese lessons Bundall , Bundall provides a welcoming setting for students of all levels. Learners in Bundall can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Bundall is grouped in the Gold Coast regional time zone used for scheduling. Bundall is located in Australia. This page keeps the local reference specific to Bundall while the teaching service remains online-first."
 scheduling: "Scheduling from Bundall: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bundall: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Barbara Sharon provides flexible Portuguese lessons in Bundall and beyond. In-pe
 Whether you're seeking beginner-level instruction or advanced conversational practice, Barbara accommodates all proficiency levels. Group sessions provide opportunities to interact with fellow learners, while private tutoring ensures personalized attention and pacing. She also offers a speaking club option for students wanting extra practice in a relaxed setting. With options for Brazilian Portuguese lessons Bundall and native Portuguese teacher guidance, her classes cater to diverse learning preferences.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Bundall? Barbara Sharon offers free trial lessons so you can experience her teaching style and see how she can help you reach your language goals. Contact her today to book your session or learn more about [services](/en/portuguese-teaching-services/).
+Interested in learning Portuguese in Bundall? Barbara Sharon offers Portuguese lesson options so you can experience her teaching style and see how she can help you reach your language goals. Contact her today to book your session or learn more about [services](/en/portuguese-teaching-services/).
 
 For inquiries, visit the [Contact](/en/contact-portuguese-teacher/)page or reach out directly to schedule your first lesson. Whether you're looking for a Portuguese tutor near me Bundall or want to join online Portuguese classes, Barbara Sharon is here to support your learning journey.

@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Bonogin with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Bonogin is a peaceful and scenic hinterland locality on the Gold Coast, known for its lush greenery and tranquil lifestyle. With a population of around 4,896 residents, the area attracts families and those seeking a quieter pace of life. The region’s diverse demographics - with 27.4% of the population being foreign-born - offer an inclusive environment for language learners. Learners in Bonogin can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Bonogin is grouped in the Gold Coast regional time zone used for scheduling. Bonogin is located in Australia. This page keeps the local reference specific to Bonogin while the teaching service remains online-first."
 scheduling: "Scheduling from Bonogin: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bonogin: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -62,4 +62,4 @@ The speaking club option offers a relaxed environment to practice Brazilian Port
 
 If you're looking for a qualified Portuguese tutor in Bonogin or a Brazilian Portuguese teacher nearby, Barbara Sharon is ready to help. She offers flexible lessons including online Portuguese tutor Bonogin options and in-person Portuguese classes in Surfers Paradise.
 
-Contact her today to schedule a free trial lesson and take the first step toward mastering Brazilian Portuguese. Let's start your journey towards fluency in one of the world's most dynamic languages!
+Contact her today to schedule a Portuguese lesson and take the first step toward mastering Brazilian Portuguese. Let's start your journey towards fluency in one of the world's most dynamic languages!

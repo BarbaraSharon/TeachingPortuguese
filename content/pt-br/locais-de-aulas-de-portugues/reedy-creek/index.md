@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Reedy Creek. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Reedy Creek faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Reedy Creek está localizada em Australia. Esta página mantém a referência local específica de Reedy Creek, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Reedy Creek faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Reedy Creek fica em Australia. Esta página mantém a referência local específica de Reedy Creek, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Reedy Creek: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Reedy Creek: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ O Brasil, lar da maior população de falantes de português do mundo, oferece p
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora particular certificada de português na Gold Coast, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora particular certificada de português na Gold Coast, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

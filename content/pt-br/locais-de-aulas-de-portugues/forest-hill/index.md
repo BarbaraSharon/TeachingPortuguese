@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Forest Hill com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Forest Hill, localizado na vibrante Gold Coast, é um bairro sereno e multicultural que oferece um cenário ideal para aprender português. Com uma população diversa, na qual mais de 40% dos residentes nasceram no exterior, é um ambiente acolhedor para estudantes de idiomas. As conexões crescentes da região com o Brasil e Portugal tornam o local perfeito para alunos que buscam experiências culturais imersivas enquanto dominam o português brasileiro. Os alunos de Forest Hill podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Forest Hill faz parte do fuso horário regional de Gold Coast usado para organizar horários. Forest Hill fica em Australia. Esta página mantém a referência local específica de Forest Hill, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Forest Hill: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Forest Hill: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -35,7 +35,7 @@ Forest Hill, localizado na vibrante Gold Coast, é um bairro sereno e multicultu
 
 Quer você esteja procurando uma professora de português em Forest Hill, aulas de português brasileiro em Forest Hill ou aulas envolventes de conversação em português em Forest Hill, Barbara Sharon oferece ensino personalizado e adaptado aos seus objetivos singulares. Sua abordagem combina gramática, prática de conversação e conhecimentos culturais para tornar o aprendizado eficaz e agradável.
 
-As aulas presenciais estão convenientemente disponíveis em Surfers Paradise, a uma curta distância de Forest Hill, enquanto as opções online oferecem flexibilidade para alunos que preferem estudar remotamente. Comece hoje sua jornada com uma aula experimental gratuita e descubra como o português pode abrir portas para novas oportunidades!
+As aulas presenciais estão convenientemente disponíveis em Surfers Paradise, a uma curta distância de Forest Hill, enquanto as opções online oferecem flexibilidade para alunos que preferem estudar remotamente. Comece hoje sua jornada com uma aulas de português e descubra como o português pode abrir portas para novas oportunidades!
 
 ## Por que escolher Forest Hill para aprender português?
 
@@ -63,9 +63,9 @@ Barbara Sharon oferece diversas opções de aprendizagem para se adaptarem à su
 
 Todos os níveis são bem-vindos - quer você esteja começando ou buscando fluência avançada. As aulas presenciais são oferecidas em Surfers Paradise, e a tutoria online de português garante acessibilidade, não importa onde você viva. Você pode conhecer mais sobre seus serviços na página de [serviços](/pt-br/aulas-de-portugues/).
 
-## Comece hoje sua jornada - aula experimental gratuita disponível
+## Comece hoje sua jornada - aulas de português disponível
 
-Está pronto para começar sua aventura no português em Forest Hill? Agende uma aula experimental gratuita com Barbara Sharon e descubra como o ensino de português pode ser eficaz e envolvente. Quer você procure:
+Está pronto para começar sua aventura no português em Forest Hill? Agende uma aulas de português com Barbara Sharon e descubra como o ensino de português pode ser eficaz e envolvente. Quer você procure:
 
 - Uma professora de português em Forest Hill
 - Aulas de português brasileiro em Forest Hill

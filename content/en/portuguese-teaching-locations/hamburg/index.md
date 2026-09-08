@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Hamburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Hamburg is grouped in the Europe location set used for local scheduling and learner guidance. Hamburg is located in Germany. This page keeps the local reference specific to Hamburg while the teaching service remains online-first."
+local_context: "Hamburg is grouped in the Europe regional time zone used for scheduling. Hamburg is located in Germany. This page keeps the local reference specific to Hamburg while the teaching service remains online-first."
 scheduling: "Scheduling from Hamburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hamburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -66,6 +66,6 @@ Her online teaching platform ensures that high-quality Portuguese lessons near H
 Each class emphasizes practical communication skills, making them perfect for those looking for conversational Portuguese classes Hamburg or professional development. Barbara's lessons blend grammar, vocabulary, and cultural insights to create a comprehensive learning experience that brings the beauty of the Portuguese language to life.
 ## Start Your Portuguese Journey Today
 
-Ready to begin learning Portuguese in Hamburg? Connect with Barbara Sharon for a free trial lesson and take your first step toward mastering Brazilian Portuguese. Whether you're interested in conversational Portuguese classes Hamburg or structured language instruction, she is here to guide you every step of the way.
+Ready to begin learning Portuguese in Hamburg? Connect with Barbara Sharon for a Portuguese lesson and take your first step toward mastering Brazilian Portuguese. Whether you're interested in conversational Portuguese classes Hamburg or structured language instruction, she is here to guide you every step of the way.
 
 To book your session or inquire about online Portuguese tutor Hamburg services, please reach out through our [Contact](/en/contact-portuguese-teacher/)page. Start exploring the beauty of the Portuguese language today!

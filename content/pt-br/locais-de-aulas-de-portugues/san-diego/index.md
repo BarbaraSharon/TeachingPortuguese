@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de San Diego. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "San Diego faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. San Diego está localizada em United States. Esta página mantém a referência local específica de San Diego, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "San Diego faz parte do fuso horário regional de North America usado para organizar horários. San Diego fica em United States. Esta página mantém a referência local específica de San Diego, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para San Diego: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em San Diego: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,9 +29,9 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em San Diego - aulas de português brasileiro e europeu
+## Aprenda português em San Diego - aulas de português brasileiro
 
-San Diego, Califórnia, é uma cidade vibrante conhecida por sua paisagem cultural diversificada. Com mais de 1,38 milhão de residentes e uma população significativa de 25,7% nascida no exterior, a cidade oferece um ambiente ideal para que quem aprende idiomas mergulhe no universo do português. A presença de mais de 6.759 residentes nascidos no Brasil e mais 9.259 pessoas nascidas em Portugal cria uma oportunidade única de estudar português brasileiro e europeu em um ambiente multicultural.
+San Diego, Califórnia, é uma cidade vibrante conhecida por sua paisagem cultural diversificada. Com mais de 1,38 milhão de residentes e uma população significativa de 25,7% nascida no exterior, a cidade oferece um ambiente ideal para que quem aprende idiomas mergulhe no universo do português. A presença de mais de 6.759 residentes nascidos no Brasil e mais 9.259 pessoas nascidas em Portugal cria uma oportunidade única de estudar português brasileiro em um ambiente multicultural.
 
 Quer você tenha interesse em dominar os ritmos do português brasileiro ou em explorar as nuances do português europeu, há aulas online particulares e em grupo disponíveis com professoras qualificadas como Barbara Sharon. Essas aulas oferecem flexibilidade, ensino personalizado e acesso a falantes nativos - tudo adaptado aos seus objetivos de aprendizagem. Descubra como você pode aprender português em San Diego com a orientação especializada de uma educadora certificada de idiomas.
 
@@ -43,7 +43,7 @@ Aprender português em San Diego permite que você explore não apenas gramátic
 
 ## Como Barbara Sharon pode ajudar você a aprender português em San Diego
 
-Barbara Sharon é uma professora apaixonada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora apaixonada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

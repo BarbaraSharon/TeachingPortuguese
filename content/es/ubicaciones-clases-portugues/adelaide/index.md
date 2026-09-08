@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Adelaide"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Adelaide. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Adelaide está situada en Australia. Adelaide forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Adelaide, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Adelaide forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Adelaide está situada en Australia. Esta página mantiene la referencia local específica de Adelaide, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Adelaide: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Adelaide; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Adelaide: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -45,14 +45,14 @@ Barbara Sharon es instructora certificada por TESOL y tiene una licenciatura en 
 
 Sus conocimientos de italiano y español aportan comparaciones útiles para comprender mejor los matices de la gramática y el vocabulario portugueses. Además, es consejera formada y está cursando un máster en Estudios Educativos y Gestión del Comportamiento, lo que le permite crear un entorno de aprendizaje motivador y de apoyo.
 
-Su currículo estructurado integra gramática, vocabulario, conversación y elementos culturales para que no solo aprendas portugués, sino que lo uses con naturalidad. Consulta todos sus servicios en [Servicios](/es/servicios-clases-portugues/) o reserva una clase de prueba gratuita mediante [Contacto](/es/contacto-profesora-portugues/).
+Su currículo estructurado integra gramática, vocabulario, conversación y elementos culturales para que no solo aprendas portugués, sino que lo uses con naturalidad. Consulta todos sus servicios en [Servicios](/es/servicios-clases-portugues/) o reserva una clases de portugués mediante [Contacto](/es/contacto-profesora-portugues/).
 ## Clases particulares y grupales de portugués en Adelaida
 
 Tanto si prefieres atención individual como interacción grupal, Barbara Sharon ofrece formatos flexibles que se adaptan a tu estilo de vida. Las clases particulares proporcionan un itinerario personalizado y las sesiones grupales ofrecen una forma divertida e interactiva de practicar expresión oral y comprensión auditiva. Todos los niveles son bienvenidos.
 
-Con clases de portugués brasileño en línea y clases cerca de ti, los estudiantes pueden aprender desde cualquier lugar. La plataforma de Barbara garantiza un acceso sencillo a una enseñanza de calidad. Para más información o para programar una clase de prueba gratuita, visita [Servicios](/es/servicios-clases-portugues/) o contacta con ella mediante [Contacto](/es/contacto-profesora-portugues/).
+Con clases de portugués brasileño en línea y clases cerca de ti, los estudiantes pueden aprender desde cualquier lugar. La plataforma de Barbara garantiza un acceso sencillo a una enseñanza de calidad. Para más información o para programar una clases de portugués, visita [Servicios](/es/servicios-clases-portugues/) o contacta con ella mediante [Contacto](/es/contacto-profesora-portugues/).
 ## Empieza hoy tu camino con el portugués en Adelaida
 
-¿Listo para empezar a aprender portugués brasileño en Adelaida? Reserva una clase de prueba gratuita con Barbara Sharon y comprueba lo eficaz y agradable que puede ser aprender idiomas. Tanto si buscas clases en línea como clases de conversación, su método está diseñado para la comunicación de la vida real.
+¿Listo para empezar a aprender portugués brasileño en Adelaida? Reserva una clases de portugués con Barbara Sharon y comprueba lo eficaz y agradable que puede ser aprender idiomas. Tanto si buscas clases en línea como clases de conversación, su método está diseñado para la comunicación de la vida real.
 
 La creciente comunidad brasileña de Adelaida también ofrece oportunidades únicas para conectar mediante eventos como el Alma Brazil Festival y organizaciones como la Brazilian Association of South Australia. Estas experiencias culturales enriquecen tu aprendizaje y te ayudan a entender el idioma en contexto.

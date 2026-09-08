@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Turin. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Turin faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Turin está localizada em Italy. Esta página mantém a referência local específica de Turin, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Turin faz parte do fuso horário regional de Europe usado para organizar horários. Turin fica em Italy. Esta página mantém a referência local específica de Turin, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Turin: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Turin: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Domine o português brasileiro e europeu em Turim - aulas online com Barbara Sharon
+## Domine o português brasileiro em Turim - aulas online com Barbara Sharon
 
 Turim, uma cidade vibrante com mais de 1,8 milhão de habitantes no norte da Itália, é conhecida por seu rico patrimônio cultural e caráter internacional. Embora profundamente enraizada nas tradições italianas, ela também oferece um ambiente singular para explorar idiomas globais como o português. Com 16,1% de sua população nascida no exterior, Turim acolhe culturas diversas, incluindo um interesse crescente pelo português brasileiro.
 
@@ -43,7 +43,7 @@ Além disso, a rede Solidariedade para Brasileiros na Itália inclui Turim, ofer
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma experiente professora de português, especializada em português brasileiro e europeu. Suas qualificações incluem:
+Barbara Sharon é uma experiente professora de português, especializada em português brasileiro. Suas qualificações incluem:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

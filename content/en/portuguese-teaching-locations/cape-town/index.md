@@ -18,7 +18,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Cape Town. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Cape Town is grouped in the Africa location set used for local scheduling and learner guidance. Cape Town is located in South Africa. This page keeps the local reference specific to Cape Town while the teaching service remains online-first."
+local_context: "Cape Town is grouped in the Africa regional time zone used for scheduling. Cape Town is located in South Africa. This page keeps the local reference specific to Cape Town while the teaching service remains online-first."
 scheduling: "Scheduling from Cape Town: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Africa/Johannesburg; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cape Town: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -60,4 +60,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Whether you're interested in Portuguese lessons near Cape Town or looking for a native Portuguese teacher Cape Town, Barbara Sharon's online platform makes it easy to find the right fit for your learning goals. Her Portuguese classes Cape Town cater to diverse needs, whether you're preparing for travel, career advancement, or personal interest.
 ## Start Your Brazilian Portuguese Journey in Cape Town Today
 
-Interested in learning Portuguese in Cape Town? Contact Barbara Sharon for a free trial lesson and start your language journey today! With access to quality Brazilian Portuguese lessons Cape Town and expert guidance, you'll gain confidence and fluency in no time.
+Interested in learning Portuguese in Cape Town? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! With access to quality Brazilian Portuguese lessons Cape Town and expert guidance, you'll gain confidence and fluency in no time.

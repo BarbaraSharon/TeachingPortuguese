@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Turin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Turin is grouped in the Europe location set used for local scheduling and learner guidance. Turin is located in Italy. This page keeps the local reference specific to Turin while the teaching service remains online-first."
+local_context: "Turin is grouped in the Europe regional time zone used for scheduling. Turin is located in Italy. This page keeps the local reference specific to Turin while the teaching service remains online-first."
 scheduling: "Scheduling from Turin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Turin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Master Brazilian & European Portuguese in Turin - Online Classes by Barbara Sharon
+## Master Brazilian Portuguese in Turin - Online Classes by Barbara Sharon
 
 Turin, a vibrant city of over 1.8 million residents in northern Italy, is known for its rich cultural heritage and international character. While deeply rooted in Italian traditions, it also provides a unique environment to explore global languages like Portuguese. With 16.1% of its population being foreign-born, Turin welcomes diverse cultures, including growing interest in Brazilian Portuguese.
 

@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bristol. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bristol is grouped in the Europe location set used for local scheduling and learner guidance. Bristol is located in United Kingdom. This page keeps the local reference specific to Bristol while the teaching service remains online-first."
+local_context: "Bristol is grouped in the Europe regional time zone used for scheduling. Bristol is located in United Kingdom. This page keeps the local reference specific to Bristol while the teaching service remains online-first."
 scheduling: "Scheduling from Bristol: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bristol: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ Barbara Sharon offers both private and group Portuguese lessons in Bristol, all 
 Her services include beginner-friendly Portuguese lessons Bristol, conversational Portuguese classes Bristol, and advanced training for those aiming to master the language. Whether you're preparing for travel, business communication, or simply want to enjoy Brazilian music and films in their original language, Barbara's courses are designed to meet your needs. With options like online Portuguese tutor Bristol and private Portuguese tutor Bristol, students can choose the format that suits their schedule and learning preferences.
 ## Start Your Portuguese Journey Today
 
-If you're interested in learning Portuguese in Bristol, contact Barbara Sharon for a free trial lesson. Explore her [Services](/en/portuguese-teaching-services/)to learn more about her teaching approach and available formats. Get in touch via the [Contact](/en/contact-portuguese-teacher/)page to begin your journey toward fluency with a professional Portuguese teacher Bristol.
+If you're interested in learning Portuguese in Bristol, contact Barbara Sharon for a Portuguese lesson. Explore her [Services](/en/portuguese-teaching-services/)to learn more about her teaching approach and available formats. Get in touch via the [Contact](/en/contact-portuguese-teacher/)page to begin your journey toward fluency with a professional Portuguese teacher Bristol.

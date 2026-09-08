@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde The Hague. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "The Hague forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. The Hague está situada en Netherlands. Esta página mantiene la referencia local específica de The Hague, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "The Hague forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. The Hague está situada en Netherlands. Esta página mantiene la referencia local específica de The Hague, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para The Hague: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en The Hague: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ Aprender portugués en The Hague abre puertas a comprender la cultura brasileña
 
 ## Cómo Barbara Sharon mejora tu experiencia de aprendizaje
 
-Barbara Sharon es una profesora apasionada de portugués brasileño y cuenta con amplia experiencia docente en portugués brasileño y europeo. Sus cualificaciones incluyen:
+Barbara Sharon es una profesora apasionada de portugués brasileño y cuenta con amplia experiencia docente en portugués brasileño. Sus cualificaciones incluyen:
 
 - Licenciatura en Lenguas y Literatura - Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

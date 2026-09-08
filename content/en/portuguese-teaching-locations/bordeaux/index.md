@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bordeaux. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bordeaux is located in France. Bordeaux is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Bordeaux while the teaching service remains online-first."
+local_context: "Bordeaux is grouped in the Europe regional time zone used for scheduling. Bordeaux is located in France. This page keeps the local reference specific to Bordeaux while the teaching service remains online-first."
 scheduling: "Scheduling from Bordeaux: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bordeaux: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -52,4 +52,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Whether you're looking for Brazilian Portuguese lessons bordeaux or conversational Portuguese classes bordeaux, her structured approach combines grammar, vocabulary, and cultural insights. Explore [Services](/en/portuguese-teaching-services/)to discover options or get in touch via [Contact](/en/contact-portuguese-teacher/)for more information.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Bordeaux? Contact Barbara Sharon for a free trial lesson and start your language journey today! Whether you're seeking beginner Portuguese lessons bordeaux or advanced conversational Portuguese classes, her online sessions provide tailored support. As an experienced online Portuguese tutor bordeaux, she helps students achieve their language goals with personalized instruction.
+Interested in learning Portuguese in Bordeaux? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're seeking beginner Portuguese lessons bordeaux or advanced conversational Portuguese classes, her online sessions provide tailored support. As an experienced online Portuguese tutor bordeaux, she helps students achieve their language goals with personalized instruction.

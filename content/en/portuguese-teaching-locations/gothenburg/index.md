@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Gothenburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Gothenburg is located in Sweden. Gothenburg is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Gothenburg while the teaching service remains online-first."
+local_context: "Gothenburg is grouped in the Europe regional time zone used for scheduling. Gothenburg is located in Sweden. This page keeps the local reference specific to Gothenburg while the teaching service remains online-first."
 scheduling: "Scheduling from Gothenburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Stockholm; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Gothenburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Gothenburg | Brazilian & European Portuguese Classes
+## Learn Portuguese in Gothenburg | Brazilian Portuguese Classes
 
 Gothenburg, Sweden's second-largest city with a population of 571,868 residents and a diverse international community, offers an ideal environment for learning Portuguese. The city's growing Brazilian and Portuguese communities make it a vibrant place to explore the language and culture. With approximately 29% of the population born abroad, Gothenburg is a melting pot of cultures that supports language exchange and cultural immersion.
 
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon provides Portuguese lessons Gothenburg through fully online instruction, making it easy for students to access quality language education regardless of their location within the city or region. Whether you're looking for a Brazilian Portuguese teacher Gothenburg or conversational Portuguese classes Gothenburg, she offers both individual and group learning options. Her services cater to learners seeking beginner Portuguese lessons Gothenburg as well as those aiming to refine their skills.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Gothenburg? Contact Barbara Sharon for a free trial lesson and start your language journey today. You can explore more about her teaching services by visiting the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.
+Interested in learning Portuguese in Gothenburg? Contact Barbara Sharon for a Portuguese lesson and start your language journey today. You can explore more about her teaching services by visiting the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.

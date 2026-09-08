@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Utrecht. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Utrecht faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Utrecht está localizada em Netherlands. Esta página mantém a referência local específica de Utrecht, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Utrecht faz parte do fuso horário regional de Europe usado para organizar horários. Utrecht fica em Netherlands. Esta página mantém a referência local específica de Utrecht, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Utrecht: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Utrecht: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -31,7 +31,7 @@ editorial_reviewed: true
 
 ## Aprenda português em Utrecht: aulas online particulares e em grupo com Barbara Sharon
 
-Utrecht é uma cidade vibrante e multicultural nos Países Baixos, com mais de 378.000 residentes e uma comunidade internacional diversa. Com 24% da população nascida no exterior, é um lugar ideal para quem aprende idiomas e deseja estudar português em um ambiente cosmopolita. Quer você tenha interesse em português brasileiro ou europeu, aulas online particulares e em grupo estão disponíveis em Utrecht com Barbara Sharon. Essas sessões oferecem flexibilidade, atenção personalizada e uma atmosfera de aprendizagem acolhedora, adaptada aos seus objetivos individuais.
+Utrecht é uma cidade vibrante e multicultural nos Países Baixos, com mais de 378.000 residentes e uma comunidade internacional diversa. Com 24% da população nascida no exterior, é um lugar ideal para quem aprende idiomas e deseja estudar português em um ambiente cosmopolita. Quer você tenha interesse em português brasileiro, aulas online particulares e em grupo estão disponíveis em Utrecht com Barbara Sharon. Essas sessões oferecem flexibilidade, atenção personalizada e uma atmosfera de aprendizagem acolhedora, adaptada aos seus objetivos individuais.
 
 ## Por que aprender português em Utrecht?
 

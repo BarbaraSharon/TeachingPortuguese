@@ -16,6 +16,7 @@ categories:
 service:
   service_type: Brazilian Portuguese lessons
   delivery: Online worldwide; in person on the Gold Coast
+  delivery_modes: [online, in_person]
   audience: Beginner, intermediate, advanced, business, travel, and children
 sections:
 - block: hero
@@ -24,13 +25,13 @@ sections:
     title: Portuguese Lessons Online and on the Gold Coast
     text: Private and group lessons online worldwide, plus in-person classes on the Gold Coast. Choose your level, your goal, and the way you want to learn.
     primary_action:
-      text: Contact Barbara
-      url: /en/contact-portuguese-teacher/
+      text: Online lessons worldwide
+      url: /en/portuguese-teaching-services/online-portuguese-lessons/
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Compare lesson options
-      url: '#lesson-options'
+      text: Gold Coast group classes
+      url: /en/portuguese-teaching-services/portuguese-school-gold-coast/
       icon: hero/arrow-down
       style: ghost
     media:
@@ -178,6 +179,44 @@ sections:
       text: Contact Barbara about lessons
       url: /en/contact-portuguese-teacher/
       icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Clear pricing
+    title: Choose your lesson format
+    text: Barbara's current prices apply to online and Gold Coast lessons.
+    offers:
+    - id: term_10_week
+      title: 10-week group term
+      price_prefix: from
+      text: One 1-hour lesson per week for a 10-week term. Available online or in person. Contact Barbara to confirm the next group and availability.
+      related_offers:
+      - id: book_digital
+        label: Digital book
+        price_prefix: from
+      - id: book_hard_copy
+        label: Hard-copy book
+        price_prefix: ""
+      related_note: Book options and editions will be confirmed before enrolment.
+      url: /en/contact-portuguese-teacher/
+    - id: term_10_week_1_5_hour
+      title: 1.5-hour group course
+      price_prefix: ""
+      text: One 1.5-hour lesson per week for a 10-week term. Available online or in person. Contact Barbara to confirm availability.
+      url: /en/contact-portuguese-teacher/
+    - id: private_4_week
+      title: Private 4-lesson package
+      price_prefix: from
+      text: One 1-hour lesson per week for 4 weeks. Contact Barbara to confirm the current arrangement and availability.
+      url: /en/contact-portuguese-teacher/
+    - id: private_casual
+      title: Casual lesson
+      price_prefix: ""
+      text: One 1-hour lesson. Contact Barbara to enquire about availability and pricing for 1.5- or 2-hour lessons.
+      url: /en/contact-portuguese-teacher/
+    action_text: Ask about availability
+    currency_note: All prices are in Australian dollars. Contact Barbara to confirm the applicable option and availability.
+
 - block: answer-links
   id: lesson-decision-answers
   content:

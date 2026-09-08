@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Chicago. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Chicago is grouped in the North America location set used for local scheduling and learner guidance. Chicago is located in United States. This page keeps the local reference specific to Chicago while the teaching service remains online-first."
+local_context: "Chicago is grouped in the North America regional time zone used for scheduling. Chicago is located in United States. This page keeps the local reference specific to Chicago while the teaching service remains online-first."
 scheduling: "Scheduling from Chicago: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Chicago; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Chicago: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 For those seeking a Brazilian Portuguese tutor chicago or native Portuguese teacher chicago, her approach combines structured learning with real-world application. Whether you're looking for Portuguese classes chicago or online Portuguese tutor chicago, Barbara's expertise ensures a comprehensive educational experience tailored to your goals.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Chicago? Whether you're a beginner or looking to improve your conversational skills, Barbara Sharon provides expert instruction through online Portuguese lessons chicago. Contact her today for a free trial lesson and begin your journey toward mastering Brazilian Portuguese! With options for private Portuguese tutor chicago and group Portuguese classes chicago, there's never been a better time to start.
+Interested in learning Portuguese in Chicago? Whether you're a beginner or looking to improve your conversational skills, Barbara Sharon provides expert instruction through online Portuguese lessons chicago. Contact her today for a Portuguese lesson and begin your journey toward mastering Brazilian Portuguese! With options for private Portuguese tutor chicago and group Portuguese classes chicago, there's never been a better time to start.

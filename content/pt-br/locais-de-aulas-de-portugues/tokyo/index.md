@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Tokyo. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Tokyo faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Tokyo está localizada em Japan. Esta página mantém a referência local específica de Tokyo, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Tokyo faz parte do fuso horário regional de Asia usado para organizar horários. Tokyo fica em Japan. Esta página mantém a referência local específica de Tokyo, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Tokyo: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Tokyo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Tokyo: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ A cidade abriga diversos eventos da comunidade brasileira, incluindo o Brazil & 
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

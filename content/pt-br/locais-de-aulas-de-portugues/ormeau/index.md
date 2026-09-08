@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Ormeau. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Ormeau está localizada em Australia. Ormeau faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Ormeau, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Ormeau faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Ormeau fica em Australia. Esta página mantém a referência local específica de Ormeau, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Ormeau: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ormeau: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ Para quem se interessa por oportunidades de negócios ou viagens entre Austráli
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -67,6 +67,6 @@ Aulas particulares e em grupo de português online estão disponíveis em Ormeau
 
 Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, garantindo que cada aula seja relevante e impactante. Com opções de horários flexíveis, você pode encaixar o estudo de português em sua vida ocupada, não importa onde esteja em Ormeau. Quer você esteja procurando uma tutora de português brasileiro em Ormeau, uma professora de português perto de você em Ormeau ou aulas de português para iniciantes em Ormeau, nosso formato online torna a aprendizagem acessível e conveniente.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Ormeau? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Aprenda português em Ormeau com uma professora nativa e qualificada de português em Ormeau hoje.
+Tem interesse em aprender português em Ormeau? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Aprenda português em Ormeau com uma professora nativa e qualificada de português em Ormeau hoje.

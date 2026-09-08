@@ -85,9 +85,9 @@ Nada pesado: solo disfrútalo. Deja que tu cerebro se acostumbre a los sonidos y
 
 ## 4. Encuentra a la profesora adecuada
 
-Tómate tu tiempo. Durante un mes, prueba clases de demostración gratuitas siempre que sea posible. No hay prisa: se trata de encontrar a una profesora con quien conectes. Cuando encuentres la opción adecuada, comprométete con un recorrido de aprendizaje de diez semanas.
+Tómate tu tiempo. Durante un mes, prueba opciones de clases siempre que sea posible. No hay prisa: se trata de encontrar a una profesora con quien conectes. Cuando encuentres la opción adecuada, comprométete con un recorrido de aprendizaje de diez semanas.
 
-¡Reserva hoy tu clase de demostración gratuita! [Contacta con Barbara Sharon](/es/contacto-profesora-portugues/)
+¡Reserva hoy tu opciones de clases! [Contacta con Barbara Sharon](/es/contacto-profesora-portugues/)
 
 ## 5. Crea tu ritual de aprendizaje
 
@@ -131,7 +131,7 @@ Aprender portugués no tiene por qué ser estresante. Con un motivo claro, compr
 
 Tanto si buscas clases de portugués en línea, una profesora de portugués en Australia o información sobre la mejor forma de aprender, el enfoque de Barbara Sharon puede ayudarte a alcanzar tus objetivos.
 
-[Reserva hoy tu clase de demostración gratuita](/es/contacto-profesora-portugues/)
+[Reserva hoy tu opciones de clases](/es/contacto-profesora-portugues/)
 
 ## Nuestros servicios para aprender portugués
 
@@ -179,13 +179,13 @@ Aprender portugués como segunda lengua no tiene por qué resultar abrumador. Al
 - Crea rituales constantes que hagan del portugués parte de tu rutina diaria.
 - Céntrate en practicar activamente la expresión oral y en destrezas reales de comunicación.
 
-¿Lista o listo para comenzar tu recorrido en portugués? Contacta hoy con Barbara Sharon para una clase de demostración gratuita y descubre lo eficaz que puede ser aprender portugués con el enfoque y la orientación adecuados.
+¿Lista o listo para comenzar tu recorrido en portugués? Contacta hoy con Barbara Sharon para una opciones de clases y descubre lo eficaz que puede ser aprender portugués con el enfoque y la orientación adecuados.
 
-[Reserva hoy tu clase de demostración gratuita](/es/contacto-profesora-portugues/)
+[Reserva hoy tu opciones de clases](/es/contacto-profesora-portugues/)
 
 ## Empieza con un plan realista
 
-No necesitas esperar a sentirte preparado. [Contacta con Barbara](/es/contacto-profesora-portugues/) para definir tu objetivo, conocer el formato de las clases y reservar una clase de prueba gratuita.
+No necesitas esperar a sentirte preparado. [Contacta con Barbara](/es/contacto-profesora-portugues/) para definir tu objetivo, conocer el formato de las clases y reservar una clases de portugués.
 
 ## Respuesta práctica: elige un método que puedas mantener
 

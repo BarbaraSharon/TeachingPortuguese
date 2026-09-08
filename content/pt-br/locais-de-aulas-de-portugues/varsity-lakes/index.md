@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Varsity Lakes. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Varsity Lakes faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Varsity Lakes está localizada em Australia. Esta página mantém a referência local específica de Varsity Lakes, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Varsity Lakes faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Varsity Lakes fica em Australia. Esta página mantém a referência local específica de Varsity Lakes, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Varsity Lakes: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Varsity Lakes: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ A vibrante vida comunitária em Varsity Lakes inclui eventos culturais regulares
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma experiente professora de português brasileiro, com sólida formação em português brasileiro e europeu. Suas credenciais acadêmicas incluem:
+Barbara Sharon é uma experiente professora de português brasileiro, com sólida formação em português brasileiro. Suas credenciais acadêmicas incluem:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

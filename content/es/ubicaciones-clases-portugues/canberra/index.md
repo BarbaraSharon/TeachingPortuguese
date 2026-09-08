@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Canberra. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Canberra está situada en Australia. Canberra forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Canberra, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Canberra forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Canberra está situada en Australia. Esta página mantiene la referencia local específica de Canberra, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Canberra: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Sydney; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Canberra: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,4 +63,4 @@ Barbara Sharon proporciona experiencias de aprendizaje individuales y grupales m
 
 ## Empieza hoy tu recorrido con el portugués en Canberra
 
-¿Te interesa aprender portugués en Canberra? Contacta con Barbara Sharon para una clase de prueba gratuita y empieza hoy tu recorrido. Con su experiencia como profesora nativa de portugués en Canberra, garantiza enseñanza atractiva y eficaz para cada estudiante. Explora [Servicios](/es/servicios-clases-portugues/) o contacta desde la [página de contacto](/es/contacto-profesora-portugues/) para encontrar las clases de portugués en Canberra adecuadas para ti.
+¿Te interesa aprender portugués en Canberra? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu recorrido. Con su experiencia como profesora nativa de portugués en Canberra, garantiza enseñanza atractiva y eficaz para cada estudiante. Explora [Servicios](/es/servicios-clases-portugues/) o contacta desde la [página de contacto](/es/contacto-profesora-portugues/) para encontrar las clases de portugués en Canberra adecuadas para ti.

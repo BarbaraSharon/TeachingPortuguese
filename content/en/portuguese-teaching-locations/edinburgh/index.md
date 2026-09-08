@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Edinburgh. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Edinburgh is grouped in the Europe location set used for local scheduling and learner guidance. Edinburgh is located in United Kingdom. This page keeps the local reference specific to Edinburgh while the teaching service remains online-first."
+local_context: "Edinburgh is grouped in the Europe regional time zone used for scheduling. Edinburgh is located in United Kingdom. This page keeps the local reference specific to Edinburgh while the teaching service remains online-first."
 scheduling: "Scheduling from Edinburgh: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Edinburgh: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Barbara Sharon provides both online private and group Portuguese lessons in Edin
 As a dedicated Portuguese teacher in Edinburgh, Barbara ensures that each session is structured to build confidence and fluency. For more information on her services, visit the [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Portuguese Journey Today
 
-Ready to start learning Portuguese in Edinburgh? Contact Barbara Sharon for a free trial lesson and begin your journey toward mastering Brazilian or European Portuguese. Whether you're interested in conversational classes, beginner lessons, or advanced instruction, she offers flexible scheduling and personalized support to help you achieve your language goals.
+Ready to start learning Portuguese in Edinburgh? Contact Barbara Sharon for a Portuguese lesson and begin your journey toward mastering Brazilian or European Portuguese. Whether you're interested in conversational classes, beginner lessons, or advanced instruction, she offers flexible scheduling and personalized support to help you achieve your language goals.

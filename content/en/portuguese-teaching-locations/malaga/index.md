@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Malaga. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Malaga is located in Spain. Malaga is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Malaga while the teaching service remains online-first."
+local_context: "Malaga is grouped in the Europe regional time zone used for scheduling. Malaga is located in Spain. This page keeps the local reference specific to Malaga while the teaching service remains online-first."
 scheduling: "Scheduling from Malaga: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Madrid; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Malaga: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -34,7 +34,7 @@ editorial_reviewed: true
 
 Malaga, a vibrant city located in Spain's Andalusia region, offers an exceptional environment for learning Portuguese. With its rich cultural heritage, international atmosphere, and diverse population of over 591,000 residents-including 24.3% foreign-born-Malaga provides a welcoming space for language learners seeking to explore Lusophone culture.
 
-Barbara Sharon offers both online private and group Portuguese lessons tailored to your individual needs and goals. Whether you're a complete beginner or looking to improve conversational skills, her flexible and engaging teaching style ensures that every student thrives. She teaches both Brazilian and European Portuguese, offering a unique perspective that connects learners with the rich diversity of the Portuguese-speaking world.
+Barbara Sharon offers both online private and group Portuguese lessons tailored to your individual needs and goals. Whether you're a complete beginner or looking to improve conversational skills, her flexible and engaging teaching style ensures that every student thrives. She teaches Brazilian Portuguese, offering a unique perspective that connects learners with the rich diversity of the Portuguese-speaking world.
 ## Why Learn Portuguese in Malaga?
 
 Malaga's international character makes it an ideal location for language study. As one of Spain's top tourist destinations on the Costa del Sol, the city attracts visitors and residents from around the globe. While specific data about Brazilian or Portuguese-speaking communities is limited, the presence of a diverse population and growing interest in global languages creates opportunities to immerse yourself in Lusophone culture.
@@ -44,7 +44,7 @@ Malaga's strategic position as a gateway for trade between Europe and emerging m
 With over 267 million native speakers globally, Portuguese is one of the most widely spoken Romance languages. Learning Portuguese in Malaga allows you to explore this vibrant language through cultural exchange, interactive lessons, and real-life communication opportunities.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -63,8 +63,8 @@ Whether you're interested in business, travel, or cultural exchange, learning Po
 Online private and group Portuguese lessons are available worldwide. Students in Malaga can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Whether you're searching for a Brazilian Portuguese teacher Malaga or conversational Portuguese classes Malaga , our online format allows for convenient access to high-quality instruction.
 
 Our online lessons utilize interactive tools and multimedia resources to make learning engaging and effective. You'll receive personalized materials tailored to your specific interests and learning goals. For those looking for Portuguese lessons near Malaga or a Portuguese tutor near me Malaga , Barbara Sharon offers an accessible solution through remote teaching. Her services are exclusively online, making it easy for learners in Malaga to connect with a native Portuguese teacher Malaga regardless of their location.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Malaga? Contact Barbara Sharon today for a free trial lesson and discover how her unique teaching approach can help you achieve your language goals. Whether you're a complete beginner or aiming to refine your skills, she's here to support your journey.
+Interested in learning Portuguese in Malaga? Contact Barbara Sharon today for a Portuguese lesson and discover how her unique teaching approach can help you achieve your language goals. Whether you're a complete beginner or aiming to refine your skills, she's here to support your journey.
 
 Explore options like Brazilian Portuguese lessons Malaga or Portuguese classes Malaga by reaching out today!

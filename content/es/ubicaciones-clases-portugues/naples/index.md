@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Naples. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Naples está situada en Italy. Naples forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Naples, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Naples forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Naples está situada en Italy. Esta página mantiene la referencia local específica de Naples, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Naples: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Naples: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ Con más de un 12 % de residentes nacidos en el extranjero, Naples refleja una m
 
 ## Cómo puede ayudarte Barbara Sharon a dominar portugués brasileño
 
-Barbara Sharon es una profesora dedicada de portugués brasileño, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora dedicada de portugués brasileño, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -51,7 +51,7 @@ Barbara Sharon es una profesora dedicada de portugués brasileño, con amplia ex
 - Orientadora
 - Maestría en Estudios Educativos y Gestión del Comportamiento, en curso
 
-Barbara entiende los matices entre portugués brasileño y europeo y garantiza que su alumnado gane confianza en conversaciones reales. Tanto si te preparas para viajar, trabajar o enriquecimiento personal, adapta las clases a tus necesidades específicas.
+Barbara entiende los matices entre portugués brasileño y garantiza que su alumnado gane confianza en conversaciones reales. Tanto si te preparas para viajar, trabajar o enriquecimiento personal, adapta las clases a tus necesidades específicas.
 
 ## La importancia global del portugués
 
@@ -65,10 +65,10 @@ Barbara Sharon ofrece clases particulares y grupales de portugués en línea fle
 
 Mediante herramientas interactivas, recursos multimedia y materiales personalizados, cada sesión se prepara para apoyar tus intereses y objetivos. Las clases se imparten mediante plataformas de video seguras para garantizar interacción fluida y plena participación.
 
-Para saber más sobre los servicios disponibles o programar una clase de prueba gratuita, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara mediante [contacto](/es/contacto-profesora-portugues/).
+Para saber más sobre los servicios disponibles o programar una clases de portugués, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara mediante [contacto](/es/contacto-profesora-portugues/).
 
-## Empieza hoy tu recorrido: hay una clase de prueba gratuita
+## Empieza hoy tu recorrido: hay una clases de portugués
 
-¿Listo para empezar a aprender portugués brasileño en Naples? Contacta hoy con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque personalizado puede ayudarte a alcanzar tus metas.
+¿Listo para empezar a aprender portugués brasileño en Naples? Contacta hoy con Barbara Sharon para una clases de portugués y descubre cómo su enfoque personalizado puede ayudarte a alcanzar tus metas.
 
 Con atención a comunicación real, inmersión cultural y uso práctico del idioma, no solo mejorarás tu portugués sino que también ganarás confianza para conectar auténticamente con hablantes nativos. Empieza hoy tu recorrido con una profesora profesional de portugués brasileño que imparte clases grupales y particulares en línea.

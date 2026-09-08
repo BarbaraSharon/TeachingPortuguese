@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Labrador com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Labrador é um subúrbio vibrante da Gold Coast, localizado em Queensland, Austrália. Com uma população de aproximadamente 26.650 habitantes em 2021, Labrador oferece um ambiente singular para estudantes de idiomas. De acordo com dados recentes, há 1.215 residentes nascidos em Portugal e 165 falantes de português na região, destacando uma crescente conexão cultural. Barbara Sharon oferece aulas de português em Labrador, adaptadas a todas as idades e origens, seja para se conectar à família, viajar ou ampliar suas oportunidades de negócios. Os alunos de Labrador podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Labrador faz parte do fuso horário regional de Gold Coast usado para organizar horários. Labrador fica em Australia. Esta página mantém a referência local específica de Labrador, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Labrador: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Labrador: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ Durante a década de 1620, Terra Nova e Labrador participaram de uma rede de com
 
 ## Como Barbara Sharon pode ajudar você a dominar o português
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação educacional inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação educacional inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação em TESOL
@@ -53,7 +53,7 @@ Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla ex
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro e europeu, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Se você procura uma professora particular de português em Labrador ou aulas de português em grupo em Labrador, ela oferece opções flexíveis, incluindo aulas presenciais perto de Labrador e aulas online de português para iniciantes em Labrador.
+Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Se você procura uma professora particular de português em Labrador ou aulas de português em grupo em Labrador, ela oferece opções flexíveis, incluindo aulas presenciais perto de Labrador e aulas online de português para iniciantes em Labrador.
 
 Barbara oferece opções de ensino presencial e online, facilitando que os alunos aprendam no próprio ritmo e de acordo com a própria agenda. Seu estilo de ensino é adaptável a diferentes necessidades de aprendizagem, seja você iniciante ou aluno avançado que deseja aperfeiçoar suas habilidades. Ela oferece sessões em grupo e opções de tutoria particular de português em Labrador, além de sessões de clube de conversação para alunos avançados.
 

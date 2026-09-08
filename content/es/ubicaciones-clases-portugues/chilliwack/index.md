@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Chilliwack. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Chilliwack está situada en Canada. Chilliwack forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Chilliwack, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Chilliwack forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Chilliwack está situada en Canada. Esta página mantiene la referencia local específica de Chilliwack, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Chilliwack: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Chilliwack: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués brasileño en Chilliwack? Reserva una clase de prueba gratuita con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Chilliwack, clases de conversación en Chilliwack o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
+¿Listo para aprender portugués brasileño en Chilliwack? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Chilliwack, clases de conversación en Chilliwack o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
 
 «¡Habla conmigo en portugués!»

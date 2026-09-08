@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Hollywell com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Hollywell é um tranquilo subúrbio costeiro no norte da Gold Coast, conhecido por seu estilo de vida descontraído e suas marinas animadas. Com aproximadamente 2.930 residentes, de acordo com o censo de 2021, essa região oferece um ambiente ideal para estudantes de idiomas que buscam um lugar tranquilo e, ao mesmo tempo, culturalmente enriquecedor. Os alunos em Hollywell podem aproveitar aulas presenciais de português em Surfers Paradise, além de aulas online flexíveis de português, acessíveis de qualquer lugar. Os alunos de Hollywell podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Hollywell faz parte do fuso horário regional de Gold Coast usado para organizar horários. Hollywell fica em Australia. Esta página mantém a referência local específica de Hollywell, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Hollywell: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Hollywell: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,7 +61,7 @@ Se você procura uma professora nativa de português em Hollywell ou quer partic
 
 ## Comece hoje sua jornada no português
 
-Se você está pronto para iniciar sua jornada de aprendizagem de português em Hollywell, entre em contato com Barbara Sharon para uma aula experimental gratuita. Com sua experiência como professora de português brasileiro e abordagem dedicada à educação linguística, ela pode orientar você a alcançar seus objetivos, seja para obter fluência na conversação ou habilidades de comunicação profissional.
+Se você está pronto para iniciar sua jornada de aprendizagem de português em Hollywell, entre em contato com Barbara Sharon para uma aulas de português. Com sua experiência como professora de português brasileiro e abordagem dedicada à educação linguística, ela pode orientar você a alcançar seus objetivos, seja para obter fluência na conversação ou habilidades de comunicação profissional.
 
 Saiba mais sobre o que ela oferece visitando a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/) para agendar sua primeira sessão. Quer você procure uma professora de português perto de você em Hollywell ou queira participar de aulas de conversação em português em Hollywell, Barbara Sharon oferece apoio personalizado para ajudar você a ter sucesso.
 

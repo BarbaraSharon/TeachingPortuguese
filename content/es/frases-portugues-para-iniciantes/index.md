@@ -109,6 +109,6 @@ Sí. El portugués brasileño es muy accesible para principiantes. Todo el mundo
 
 Aprender algunas frases útiles es la forma más rápida de empezar a hablar portugués con confianza. Practícalas cada día, úsalas siempre que puedas y céntrate en comunicarte, no en la perfección.
 
-[Reserva tu clase de prueba gratuita](/es/contacto-profesora-portugues/)
+[Reserva tu clases de portugués](/es/contacto-profesora-portugues/)
 
 [Explora los servicios de portugués](/es/servicios-clases-portugues/)

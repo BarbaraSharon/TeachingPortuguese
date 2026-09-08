@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Austin. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Austin está localizada em United States. Austin faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Austin, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Austin faz parte do fuso horário regional de North America usado para organizar horários. Austin fica em United States. Esta página mantém a referência local específica de Austin, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Austin: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Chicago; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Austin: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Barbara Sharon ensina exclusivamente online para alunos em Austin, oferecendo au
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Austin? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada linguística! Se você procura uma professora de português brasileiro, uma aula de conversação em português ou aulas acolhedoras para iniciantes, ela oferece ensino personalizado de acordo com seus objetivos. Com opções de tutoria de português online disponíveis, encontrar as aulas de português certas perto de você nunca foi tão fácil.
+Tem interesse em aprender português em Austin? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada linguística! Se você procura uma professora de português brasileiro, uma aula de conversação em português ou aulas acolhedoras para iniciantes, ela oferece ensino personalizado de acordo com seus objetivos. Com opções de tutoria de português online disponíveis, encontrar as aulas de português certas perto de você nunca foi tão fácil.

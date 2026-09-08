@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Naples. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Naples is located in Italy. Naples is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Naples while the teaching service remains online-first."
+local_context: "Naples is grouped in the Europe regional time zone used for scheduling. Naples is located in Italy. This page keeps the local reference specific to Naples while the teaching service remains online-first."
 scheduling: "Scheduling from Naples: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Naples: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Naples is a dynamic hub where Australian culture meets the warmth of Brazilian t
 With over 12% of residents born overseas, Naples reflects a diverse mix of languages and cultures. This environment supports language learners by providing immersive experiences that go beyond the classroom. Additionally, learning Brazilian Portuguese in Naples can be especially beneficial for those interested in international business or cultural exchange-particularly in sectors like healthcare, education, tourism, and trade.
 ## How Barbara Sharon Can Help You Master Brazilian Portuguese
 
-Barbara Sharon is a dedicated Brazilian Portuguese teacher with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a dedicated Brazilian Portuguese teacher with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -61,9 +61,9 @@ Barbara Sharon offers flexible online private and group Portuguese lessons desig
 
 Using interactive tools, multimedia resources, and customized materials, each session is crafted to support your unique interests and objectives. Lessons are conducted via secure video platforms to ensure seamless interaction and full engagement.
 
-To learn more about the services offered or schedule a free trial lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact Barbara directly through the [Contact](/en/contact-portuguese-teacher/)page.
-## Start Your Journey Today - Free Trial Lesson Available
+To learn more about the services offered or schedule a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact Barbara directly through the [Contact](/en/contact-portuguese-teacher/)page.
+## Start Your Journey Today - Portuguese Lesson Available
 
-Ready to begin learning Brazilian Portuguese in Naples? Contact Barbara Sharon today for a complimentary trial lesson and discover how her personalized approach can help you reach your language goals.
+Ready to begin learning Brazilian Portuguese in Naples? Contact Barbara Sharon today for a lesson options and discover how her personalized approach can help you reach your language goals.
 
 With a focus on real-life communication, cultural immersion, and practical use of the language, you'll not only improve your Portuguese but also gain confidence to connect authentically with native speakers. Start your journey today with a professional Brazilian Portuguese tutor who delivers both group and private lessons online.

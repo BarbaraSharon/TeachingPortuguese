@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Jerusalem"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Tel Aviv. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Tel Aviv está localizada em Israel. Tel Aviv faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Tel Aviv, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Tel Aviv faz parte do fuso horário regional de Asia usado para organizar horários. Tel Aviv fica em Israel. Esta página mantém a referência local específica de Tel Aviv, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Tel Aviv: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Jerusalem; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Tel Aviv: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

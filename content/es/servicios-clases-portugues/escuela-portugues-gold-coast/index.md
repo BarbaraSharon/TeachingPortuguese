@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases grupales presenciales de portugués brasileño
   delivery: "Gold Coast, Australia; posibles lugares: Kirra, Broadbeach o Surfers Paradise"
+  delivery_modes: [in_person]
   audience: Principiantes, estudiantes intermedios y avanzados, negocios, viajes y niños
   available_language: [pt-BR, en, es, it, fr]
 sections:
@@ -21,10 +22,10 @@ sections:
   content:
     eyebrow: Clases grupales presenciales · Gold Coast
     title: Clases grupales presenciales de portugués en Gold Coast
-    text: Practica conversación, comprensión auditiva y vocabulario con otros estudiantes en un grupo acogedor de Gold Coast. Barbara confirma el lugar y el nivel actuales antes de reservar.
+    text: Barbara está organizando el próximo grupo de Gold Coast. Registra tu interés con tu nivel, grupo de edad, suburbio preferido y disponibilidad; el lugar y el nivel actuales se confirman antes de reservar. La imagen del aula es ilustrativa.
     primary_action:
-      text: Consulta sobre las clases grupales
-      url: /es/contacto-profesora-portugues/
+      text: Registrar interés en el próximo grupo
+      url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesa%20el%20pr%C3%B3ximo%20grupo%20de%20Gold%20Coast.%20Mi%20nivel%20es%2C%20mi%20grupo%20de%20edad%20es%2C%20mi%20suburbio%20preferido%20es%20y%20mi%20disponibilidad%20es%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -35,7 +36,7 @@ sections:
     media:
       type: image
       src: services/group-classes-generated.png
-      alt: Clase grupal de portugués brasileño en Gold Coast
+      alt: Ilustración de una clase grupal de portugués brasileño en Gold Coast
   design:
     layout: split-right
 - block: features
@@ -87,12 +88,40 @@ sections:
     text: Contacta con Barbara sobre las clases grupales
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Próximo grupo
+    title: Registra tu interés en el próximo grupo de Gold Coast
+    text: Barbara está organizando el próximo grupo. Indica tu nivel, grupo de edad, suburbio preferido y disponibilidad para confirmar la opción actual.
+    offers:
+    - id: term_10_week
+      title: Curso grupal de 10 semanas
+      price_prefix: desde
+      text: Una clase de 1 hora por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar el próximo grupo y la disponibilidad.
+      related_offers:
+      - id: book_digital
+        label: Libro digital
+        price_prefix: desde
+      - id: book_hard_copy
+        label: Libro impreso
+        price_prefix: ""
+      related_note: Las opciones y ediciones de los libros se confirman antes de la matrícula.
+      url: /es/contacto-profesora-portugues/
+    - id: term_10_week_1_5_hour
+      title: Curso grupal de 1,5 horas
+      price_prefix: ""
+      text: Una clase de 1,5 horas por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    action_text: Registrar interés
+    currency_note: Todos los precios están en dólares australianos. Contacta con Barbara para confirmar el próximo grupo y la disponibilidad.
+
 - block: cta-card
   content:
     title: Encuentra el grupo adecuado en Gold Coast
-    text: Cuéntale a Barbara tu nivel, objetivo, grupo de edad y suburbio preferido. Ella confirmará el lugar y la opción actuales.
+    text: Cuéntale a Barbara tu nivel, objetivo, grupo de edad, suburbio preferido y disponibilidad. Ella confirmará el próximo grupo, el lugar y la opción actuales.
     button:
-      text: Contacta con Barbara
+      text: Registrar interés
       url: /es/contacto-profesora-portugues/
       icon: hero/chat-bubble-left-right
       style: gradient

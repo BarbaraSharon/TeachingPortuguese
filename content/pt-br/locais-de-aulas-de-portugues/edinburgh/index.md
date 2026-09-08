@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Edinburgh. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Edinburgh faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Edinburgh está localizada em United Kingdom. Esta página mantém a referência local específica de Edinburgh, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Edinburgh faz parte do fuso horário regional de Europe usado para organizar horários. Edinburgh fica em United Kingdom. Esta página mantém a referência local específica de Edinburgh, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Edinburgh: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Edinburgh: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Como professora dedicada de português em Edinburgh, Barbara garante que cada se
 
 ## Comece hoje sua jornada no português
 
-Está pronto para começar a aprender português em Edinburgh? Entre em contato com Barbara Sharon para uma aula experimental gratuita e inicie sua jornada rumo ao domínio do português brasileiro ou europeu. Quer você tenha interesse em aulas de conversação, aulas para iniciantes ou ensino avançado, ela oferece horários flexíveis e apoio personalizado para ajudar você a alcançar seus objetivos linguísticos.
+Está pronto para começar a aprender português em Edinburgh? Entre em contato com Barbara Sharon para uma aulas de português e inicie sua jornada rumo ao domínio do português brasileiro. Quer você tenha interesse em aulas de conversação, aulas para iniciantes ou ensino avançado, ela oferece horários flexíveis e apoio personalizado para ajudar você a alcançar seus objetivos linguísticos.

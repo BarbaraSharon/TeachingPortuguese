@@ -18,7 +18,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Johannesburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Johannesburg is located in South Africa. Johannesburg is grouped in the Africa location set used for local scheduling and learner guidance. This page keeps the local reference specific to Johannesburg while the teaching service remains online-first."
+local_context: "Johannesburg is grouped in the Africa regional time zone used for scheduling. Johannesburg is located in South Africa. This page keeps the local reference specific to Johannesburg while the teaching service remains online-first."
 scheduling: "Scheduling from Johannesburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Africa/Johannesburg; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Johannesburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ As a major economic center, Johannesburg maintains strong trade relationships wi
 With over 260 million native speakers globally, Portuguese is one of the world’s top ten most spoken languages. Learning Portuguese in Johannesburg opens doors to career opportunities in countries like Brazil, Angola, and Mozambique. Institutions such as the University of Pretoria and Language Training Institute offer specialized courses, while cultural events like The Portuguese Festival and Lusito Land provide immersive learning experiences.
 ## How Barbara Sharon Can Help You Learn Portuguese in Johannesburg
 
-Barbara Sharon is a highly qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a highly qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, Spanish
@@ -62,8 +62,8 @@ Learning Portuguese in Johannesburg gives you access to not only Brazilian cultu
 Online private and group Portuguese lessons are available worldwide, including for residents of Johannesburg. Barbara Sharon delivers interactive and engaging sessions using multimedia resources tailored to each student’s interests and goals.
 
 Students benefit from personalized learning experiences designed to support their language development journey. For more information about her services, visit the [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)page to schedule a lesson.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Ready to start learning Portuguese in Johannesburg? Contact Barbara Sharon for a free trial lesson and discover how her unique teaching approach can help you achieve your language goals. Whether you’re a complete beginner or looking to advance your skills, she’s here to support your journey.
+Ready to start learning Portuguese in Johannesburg? Contact Barbara Sharon for a Portuguese lesson and discover how her unique teaching approach can help you achieve your language goals. Whether you’re a complete beginner or looking to advance your skills, she’s here to support your journey.
 
 Find a Portuguese tutor near me Johannesburg or explore conversational Portuguese classes Johannesburg through her online platform. Start speaking Portuguese today!

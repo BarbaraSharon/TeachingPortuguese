@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Labrador con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Labrador es un dinámico suburbio de Gold Coast, en Queensland, Australia. Con una población aproximada de 26.650 habitantes en 2021, Labrador ofrece un entorno particular para quienes aprenden idiomas. Según datos recientes, hay 1.215 residentes nacidos en Portugal y 165 hablantes de portugués en la zona, lo que pone de relieve un vínculo cultural creciente. Barbara Sharon ofrece clases de portugués en Labrador adaptadas a todas las edades y procedencias, tanto si deseas conectar con tu familia, viajar como ampliar oportunidades de negocio. El alumnado de Labrador puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Labrador forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Labrador está situada en Australia. Esta página mantiene la referencia local específica de Labrador, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Labrador: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Labrador: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ El portugués brasileño resulta especialmente valioso para comprender el idioma
 Durante la década de 1620, Terranova y Labrador participaron en una red comercial triangular con Europa, en la que la pesca del bacalao y las exportaciones de pescado salado a Portugal y España eran importantes. Aunque no se documentan vínculos comerciales modernos o sustanciales entre Portugal y Labrador, esta conexión histórica añade una dimensión cultural singular al aprendizaje del idioma.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués cualificada y con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués cualificada y con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -51,7 +51,7 @@ Barbara Sharon es una profesora de portugués cualificada y con amplia experienc
 - Orientadora
 - Máster en Estudios Educativos y Gestión del Comportamiento (en curso)
 
-Gracias a su experiencia, Barbara puede ayudarte a entender las diferencias entre el portugués brasileño y europeo, el contexto cultural y las habilidades conversacionales necesarias para relacionarte auténticamente con hablantes nativos. Tanto si buscas clases particulares como clases grupales, ofrece opciones flexibles, incluidas clases presenciales cerca de Labrador y clases de portugués en línea para principiantes.
+Gracias a su experiencia, Barbara puede ayudarte a entender las diferencias entre el portugués brasileño, el contexto cultural y las habilidades conversacionales necesarias para relacionarte auténticamente con hablantes nativos. Tanto si buscas clases particulares como clases grupales, ofrece opciones flexibles, incluidas clases presenciales cerca de Labrador y clases de portugués en línea para principiantes.
 
 Barbara ofrece enseñanza presencial y en línea, de modo que el alumnado puede aprender a su propio ritmo y según su horario. Su estilo se adapta a necesidades de aprendizaje distintas, tanto para principiantes como para alumnado avanzado que busca perfeccionar sus habilidades. Ofrece sesiones grupales, clases particulares y sesiones de club de conversación para estudiantes avanzados.
 ## Por qué el portugués es una lengua global que vale la pena aprender

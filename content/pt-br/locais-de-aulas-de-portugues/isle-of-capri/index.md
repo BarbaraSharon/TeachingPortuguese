@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Isle Of Capri com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Isle of Capri é um exclusivo subúrbio-ilha na Gold Coast, conhecido por suas casas à beira-mar e proximidade com Surfers Paradise. Com uma população de aproximadamente 14.000 residentes, a região oferece um ambiente tranquilo onde você pode se concentrar no aprendizado de idiomas enquanto desfruta de um estilo de vida descontraído. A comunidade inclui uma mistura diversa de residentes internacionais, com 14,5% da população nascida no exterior, criando um cenário ideal para mergulhar na cultura portuguesa e praticar habilidades de conversação. Os alunos de Isle Of Capri podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Isle Of Capri faz parte do fuso horário regional de Gold Coast usado para organizar horários. Isle Of Capri fica em Australia. Esta página mantém a referência local específica de Isle Of Capri, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Isle Of Capri: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Isle Of Capri: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Isle of Capri é um exclusivo subúrbio-ilha na Gold Coast, conhecido por suas casas à beira-mar e proximidade com Surfers Paradise. Com uma população de aproximadamente 14.000 residentes, a região oferece um ambiente tranquilo onde você pode se concentrar no aprendizado de idiomas enquanto desfruta de um estilo de vida descontraído. A comunidade inclui uma mistura diversa de residentes internacionais, com 14,5% da população nascida no exterior, criando um cenário ideal para mergulhar na cultura portuguesa e praticar habilidades de conversação.
 
-Se você quer se conectar com a família, viajar ou ampliar oportunidades de negócios, aprender português em Isle of Capri oferece benefícios culturais e linguísticos únicos. Barbara Sharon oferece aulas flexíveis de português online e presenciais, adaptadas às suas necessidades e objetivos. Quer você seja iniciante completo ou queira aperfeiçoar suas habilidades de conversação, suas aulas atendem a todos os níveis. Aprenda português em Isle of Capri com uma instrutora qualificada que compreende os sotaques e nuances culturais do português brasileiro e europeu.
+Se você quer se conectar com a família, viajar ou ampliar oportunidades de negócios, aprender português em Isle of Capri oferece benefícios culturais e linguísticos únicos. Barbara Sharon oferece aulas flexíveis de português online e presenciais, adaptadas às suas necessidades e objetivos. Quer você seja iniciante completo ou queira aperfeiçoar suas habilidades de conversação, suas aulas atendem a todos os níveis. Aprenda português em Isle of Capri com uma instrutora qualificada que compreende os sotaques e nuances culturais do português brasileiro.
 
 ## Por que aprender português em Isle of Capri?
 
@@ -43,7 +43,7 @@ A região da Gold Coast tem fortes conexões com o Brasil por meio do turismo, d
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma instrutora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação educacional inclui:
+Barbara Sharon é uma instrutora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação educacional inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação em TESOL
@@ -51,7 +51,7 @@ Barbara Sharon é uma instrutora qualificada de língua portuguesa, com ampla ex
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Com sua experiência, Barbara pode ajudar você a lidar com as diferenças entre o português brasileiro e europeu, compreender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Ela oferece sessões particulares e em grupo, incluindo opções de clube de conversação para alunos que desejam uma prática mais interativa.
+Com sua experiência, Barbara pode ajudar você a lidar com as diferenças entre o português brasileiro, compreender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Ela oferece sessões particulares e em grupo, incluindo opções de clube de conversação para alunos que desejam uma prática mais interativa.
 
 ## O português como língua global
 
@@ -65,10 +65,10 @@ Barbara Sharon oferece aulas presenciais de português em Surfers Paradise, que 
 
 Ela também oferece aulas online de português para quem prefere aprender a distância ou tem restrições de agenda. Se você busca ensino individual ou aulas em grupo, Barbara adapta seus métodos de ensino às necessidades de cada aluno. Encontre uma professora de português em Isle of Capri, uma professora de português brasileiro em Isle of Capri ou aulas de português perto de Isle of Capri com ensino especializado, adaptado às suas necessidades.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Isle of Capri? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou procure avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Isle of Capri? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou procure avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Para saber mais sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/). Barbara oferece sessões particulares e em grupo, incluindo clubes de conversação para prática imersiva. Encontre uma professora de português em Isle of Capri, uma professora de português brasileiro em Isle of Capri ou aulas de português perto de Isle of Capri com ensino especializado, adaptado às suas necessidades.
 
-Agende uma aula experimental gratuita e dê o primeiro passo para aprender português brasileiro.
+Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.

@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Duesseldorf. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Duesseldorf is grouped in the Europe location set used for local scheduling and learner guidance. Duesseldorf is located in Germany. This page keeps the local reference specific to Duesseldorf while the teaching service remains online-first."
+local_context: "Duesseldorf is grouped in the Europe regional time zone used for scheduling. Duesseldorf is located in Germany. This page keeps the local reference specific to Duesseldorf while the teaching service remains online-first."
 scheduling: "Scheduling from Duesseldorf: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Duesseldorf: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Barbara Sharon’s Portuguese lessons in Duesseldorf cater to both individual an
 Her lessons are thoughtfully designed to include grammar, vocabulary, conversation practice, and cultural context, helping you not only learn the language but also use it confidently in everyday settings. You can explore more about her teaching services on the [Services](/en/portuguese-teaching-services/)page or get in touch directly via the [Contact](/en/contact-portuguese-teacher/)page.
 ## Start Your Portuguese Journey Today
 
-Looking for a Brazilian Portuguese tutor in Duesseldorf or an online Portuguese tutor in Duesseldorf? Contact Barbara Sharon today to book a free trial lesson and begin your journey toward mastering the Portuguese language. Whether you're aiming to improve conversational skills, prepare for travel, or connect with Brazilian culture, she offers comprehensive learning experiences suited to your goals. With her focus on both group and private Portuguese lessons in Duesseldorf, students can find tailored support whether they prefer collaborative learning or personalized instruction.
+Looking for a Brazilian Portuguese tutor in Duesseldorf or an online Portuguese tutor in Duesseldorf? Contact Barbara Sharon today to book a Portuguese lesson and begin your journey toward mastering the Portuguese language. Whether you're aiming to improve conversational skills, prepare for travel, or connect with Brazilian culture, she offers comprehensive learning experiences suited to your goals. With her focus on both group and private Portuguese lessons in Duesseldorf, students can find tailored support whether they prefer collaborative learning or personalized instruction.

@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Johannesburg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Johannesburg está situada en South Africa. Johannesburg forma parte del conjunto regional Africa, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Johannesburg, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Johannesburg forma parte de la zona horaria regional de Africa que se utiliza para organizar horarios. Johannesburg está situada en South Africa. Esta página mantiene la referencia local específica de Johannesburg, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Johannesburg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Africa/Johannesburg; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Johannesburg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -45,7 +45,7 @@ Con más de 260 millones de hablantes nativos en todo el mundo, el portugués se
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués en Johannesburgo
 
-Barbara Sharon es una profesora de portugués altamente cualificada y con amplia experiencia enseñando portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués altamente cualificada y con amplia experiencia enseñando portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -53,7 +53,7 @@ Barbara Sharon es una profesora de portugués altamente cualificada y con amplia
 - Orientadora
 - Maestría en Estudios Educativos y Gestión del Comportamiento, en curso
 
-Con su experiencia, Barbara ayuda al alumnado a desenvolverse en las diferencias entre portugués brasileño y europeo, comprender el contexto cultural y desarrollar habilidades de conversación para relacionarse auténticamente con hablantes nativos. Ofrece clases grupales y particulares en línea, facilitando que estudiantes de Johannesburgo accedan a educación de portugués de calidad.
+Con su experiencia, Barbara ayuda al alumnado a desenvolverse en las diferencias entre portugués brasileño, comprender el contexto cultural y desarrollar habilidades de conversación para relacionarse auténticamente con hablantes nativos. Ofrece clases grupales y particulares en línea, facilitando que estudiantes de Johannesburgo accedan a educación de portugués de calidad.
 
 ## Por qué importa el portugués: una lengua global
 
@@ -67,8 +67,8 @@ Las clases particulares y grupales de portugués en línea están disponibles mu
 
 El alumnado se beneficia de experiencias de aprendizaje personalizadas diseñadas para apoyar su recorrido de desarrollo lingüístico. Para obtener más información sobre sus clases, visita [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/) para programar una clase.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Listo para empezar a aprender portugués en Johannesburgo? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque único puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido.
+¿Listo para empezar a aprender portugués en Johannesburgo? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque único puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido.
 
 Encuentra una tutora de portugués cerca de ti en Johannesburgo o explora clases de conversación en portugués en Johannesburgo mediante su plataforma en línea. ¡Empieza hoy a hablar portugués!

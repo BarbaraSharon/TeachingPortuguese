@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Austinville com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Austinville, situado na Gold Coast, em Queensland, é um subúrbio sereno que oferece um ambiente ideal para aprender português. Com população de 403 moradores e mais de 1.248 pessoas nascidas no Brasil chamando-o de lar, Austinville oferece um rico pano de fundo cultural para o estudo do idioma. Os alunos de Austinville podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Austinville faz parte do fuso horário regional de Gold Coast usado para organizar horários. Austinville fica em Australia. Esta página mantém a referência local específica de Austinville, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Austinville: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Austinville: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ Para prática adicional de fala, Barbara também organiza um clube de conversaç
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português em Austinville? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada linguística! Explore seus [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela [página de contato](/pt-br/contato-professora-portugues/).
+Pronto para aprender português em Austinville? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada linguística! Explore seus [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela [página de contato](/pt-br/contato-professora-portugues/).
 
 “Aprender português é uma experiência transformadora. Comece hoje!”

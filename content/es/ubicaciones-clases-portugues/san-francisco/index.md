@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde San Francisco. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "San Francisco forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. San Francisco está situada en United States. Esta página mantiene la referencia local específica de San Francisco, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "San Francisco forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. San Francisco está situada en United States. Esta página mantiene la referencia local específica de San Francisco, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para San Francisco: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en San Francisco: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -38,10 +38,10 @@ Barbara Sharon imparte clases de portugués brasileño en línea en San Francisc
 
 El entorno multicultural de San Francisco ofrece excelentes oportunidades para quienes aprenden portugués brasileño. La comunidad brasileña organiza eventos como BrazilianFestSF (julio-octubre de 2024) y Sambaxé San Francisco Carnaval, mientras que organizaciones culturales portuguesas, como los grupos vinculados al Consulado General de Portugal y CALuso, ofrecen programas de idiomas y encuentros sociales. Estas comunidades ayudan a preservar tradiciones y promover conexiones lingüísticas, por lo que San Francisco es un centro dinámico para hablantes de portugués brasileño.
 
-Aprender portugués brasileño en San Francisco permite conectar con una de las lenguas más habladas del mundo. Como quinta lengua global, abre puertas al rico patrimonio literario, musical y cinematográfico de Brasil. Comprender portugués brasileño y europeo mejora la comunicación y la apreciación cultural, especialmente en una ciudad con fuertes vínculos con ambas regiones.
+Aprender portugués brasileño en San Francisco permite conectar con una de las lenguas más habladas del mundo. Como quinta lengua global, abre puertas al rico patrimonio literario, musical y cinematográfico de Brasil. Comprender portugués brasileño mejora la comunicación y la apreciación cultural, especialmente en una ciudad con fuertes vínculos con ambas regiones.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués experimentada y se especializa en portugués brasileño y europeo. Su formación incluye una licenciatura en Lenguas y Literatura de la Universidad Federal de Río de Janeiro (UFRJ), certificación TESOL y dominio de inglés, italiano, español y portugués. También trabaja como orientadora y acompaña al alumnado en su recorrido lingüístico.
+Barbara Sharon es una profesora de portugués experimentada y se especializa en portugués brasileño. Su formación incluye una licenciatura en Lenguas y Literatura de la Universidad Federal de Río de Janeiro (UFRJ), certificación TESOL y dominio de inglés, italiano, español y portugués. También trabaja como orientadora y acompaña al alumnado en su recorrido lingüístico.
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -58,4 +58,4 @@ El papel estratégico de la ciudad como centro comercial global fortalece estas 
 
 Barbara Sharon imparte clases de portugués brasileño en línea de alta calidad en San Francisco para estudiantes que buscan opciones flexibles. Hay tutorías individuales y clases grupales, para elegir el formato que mejor se adapte a tu horario y metas. Su enfoque incorpora herramientas interactivas y contenido multimedia para crear experiencias atractivas.
 
-El alumnado recibe materiales personalizados según sus intereses, tanto si se prepara para viajar como si desea conectar con hablantes nativos o desarrollar habilidades de comunicación empresarial. Con la guía de Barbara, puede desenvolverse con confianza en portugués brasileño y europeo, aprovechando su experiencia en contexto cultural y matices lingüísticos. Explora la tutora de portugués brasileño que San Francisco tiene para ofrecer en [servicios](/es/servicios-clases-portugues/).
+El alumnado recibe materiales personalizados según sus intereses, tanto si se prepara para viajar como si desea conectar con hablantes nativos o desarrollar habilidades de comunicación empresarial. Con la guía de Barbara, puede desenvolverse con confianza en portugués brasileño, aprovechando su experiencia en contexto cultural y matices lingüísticos. Explora la tutora de portugués brasileño que San Francisco tiene para ofrecer en [servicios](/es/servicios-clases-portugues/).

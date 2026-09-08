@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Freiburg Im Breisgau. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Freiburg Im Breisgau está situada en Germany. Freiburg Im Breisgau forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Freiburg Im Breisgau, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Freiburg Im Breisgau forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Freiburg Im Breisgau está situada en Germany. Esta página mantiene la referencia local específica de Freiburg Im Breisgau, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Freiburg Im Breisgau: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Freiburg Im Breisgau: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ Sus clases incluyen conversación y lecciones estructuradas para principiantes, 
 
 ## Empieza hoy tu recorrido de portugués
 
-¿Listo para aprender portugués brasileño en Friburgo de Brisgovia? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza hoy tu recorrido. Conoce más sobre sus clases en la página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/).
+¿Listo para aprender portugués brasileño en Friburgo de Brisgovia? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido. Conoce más sobre sus clases en la página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/).

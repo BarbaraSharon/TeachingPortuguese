@@ -58,7 +58,7 @@
     "email" site.Params.hugoblox.seo.ai.contact
     "telephone" site.Params.hugoblox.seo.location.phone
     "address" $orgAddress
-    "areaServed" (dict "@type" "Place" "name" "Gold Coast, Queensland, Australia")
+    "areaServed" (slice (dict "@type" "Place" "name" "Gold Coast, Queensland, Australia") (dict "@type" "Place" "name" "Worldwide online"))
     "sameAs" $sameAs
   -}}
   {{- $person := dict
@@ -223,7 +223,7 @@
   {{- if and (not $faqItems) (eq $page.Type "answers") $page.IsSection -}}
     {{- $faqItems = slice -}}
     {{- range $page.RegularPages.ByWeight -}}
-      {{- $faqItems = $faqItems | append (dict "question" .Params.question "answer" .Params.direct_answer) -}}
+      {{- $faqItems = $faqItems | append (dict "question" .Params.question "answer" (partial "answer-direct-answer.html" .)) -}}
     {{- end -}}
   {{- end -}}
   {{- if not $faqItems -}}

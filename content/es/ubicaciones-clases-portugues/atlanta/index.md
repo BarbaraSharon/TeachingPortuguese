@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Atlanta. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Atlanta forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Atlanta está situada en United States. Esta página mantiene la referencia local específica de Atlanta, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Atlanta forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Atlanta está situada en United States. Esta página mantiene la referencia local específica de Atlanta, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Atlanta: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Atlanta: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -52,9 +52,9 @@ Su formación como consejera contribuye a un entorno de aprendizaje acogedor y m
 
 Barbara ofrece clases particulares y grupales para todos los niveles. Las sesiones individuales permiten adaptar ritmo y temas; las grupales ofrecen una forma divertida y colaborativa de practicar con otras personas.
 
-Su formato en línea permite acceder a una enseñanza de calidad desde cualquier lugar de Atlanta o fuera de la ciudad. Con horarios flexibles, es fácil incorporar el estudio a tu rutina. Tanto si buscas una profesora de portugués en línea en Atlanta, clases de portugués brasileño o una mejora general del idioma, los servicios están disponibles para responder a tus necesidades. Empieza hoy con una [clase de prueba gratuita](/es/servicios-clases-portugues/) y descubre cómo puede ayudarte a alcanzar la fluidez.
+Su formato en línea permite acceder a una enseñanza de calidad desde cualquier lugar de Atlanta o fuera de la ciudad. Con horarios flexibles, es fácil incorporar el estudio a tu rutina. Tanto si buscas una profesora de portugués en línea en Atlanta, clases de portugués brasileño o una mejora general del idioma, los servicios están disponibles para responder a tus necesidades. Empieza hoy con una [clases de portugués](/es/servicios-clases-portugues/) y descubre cómo puede ayudarte a alcanzar la fluidez.
 ## Empieza hoy tu camino con el portugués
 
-Si buscas una forma eficaz de aprender portugués brasileño en Atlanta, Barbara Sharon ofrece una enseñanza experta y un estilo atractivo para clases particulares y grupales. Contacta con ella para reservar una clase de prueba y experimentar su método. Desde «Oi, tudo bem?» hasta conversaciones completas sobre la cultura y la vida brasileñas, te ayudará a avanzar con confianza.
+Si buscas una forma eficaz de aprender portugués brasileño en Atlanta, Barbara Sharon ofrece una enseñanza experta y un estilo atractivo para clases particulares y grupales. Contacta con ella para reservar una clase de portugués y experimentar su método. Desde «Oi, tudo bem?» hasta conversaciones completas sobre la cultura y la vida brasileñas, te ayudará a avanzar con confianza.
 
 Para más información, visita [Servicios](/es/servicios-clases-portugues/) o ponte en contacto mediante [Contacto](/es/contacto-profesora-portugues/).

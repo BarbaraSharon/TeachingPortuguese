@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Berlin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Berlin is located in Germany. Berlin is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Berlin while the teaching service remains online-first."
+local_context: "Berlin is grouped in the Europe regional time zone used for scheduling. Berlin is located in Germany. This page keeps the local reference specific to Berlin while the teaching service remains online-first."
 scheduling: "Scheduling from Berlin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Berlin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Flexible lesson formats include online private Portuguese tutoring and group ses
 Barbara Sharon specializes in Brazilian Portuguese, providing insights into regional variations and cultural contexts. Her online classes cater to learners across Berlin, making it easy to access Portuguese lessons for beginners Berlin or advanced speakers seeking fluency. With both group and private options available, students can choose the format that best suits their learning style and schedule.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Berlin? Contact Barbara Sharon for a free trial lesson and start your language journey today! With online Portuguese tutor Berlin services, you can begin improving your skills from anywhere. Whether you're looking for a Brazilian Portuguese teacher Berlin or want to take part in interactive Portuguese classes Berlin, Barbara is ready to help. Explore opportunities to connect with the vibrant Portuguese-speaking communities in Berlin through structured lessons and cultural immersion.
+Interested in learning Portuguese in Berlin? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! With online Portuguese tutor Berlin services, you can begin improving your skills from anywhere. Whether you're looking for a Brazilian Portuguese teacher Berlin or want to take part in interactive Portuguese classes Berlin, Barbara is ready to help. Explore opportunities to connect with the vibrant Portuguese-speaking communities in Berlin through structured lessons and cultural immersion.

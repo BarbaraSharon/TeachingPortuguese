@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Cape Town. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Cape Town forma parte del conjunto regional Africa, que se utiliza para orientar horarios y objetivos de aprendizaje. Cape Town está situada en South Africa. Esta página mantiene la referencia local específica de Cape Town, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Cape Town forma parte de la zona horaria regional de Africa que se utiliza para organizar horarios. Cape Town está situada en South Africa. Esta página mantiene la referencia local específica de Cape Town, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Cape Town: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Africa/Johannesburg; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cape Town: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,4 +63,4 @@ Tanto si te interesan clases de portugués cerca de Cape Town como si buscas una
 
 ## Empieza hoy tu recorrido con el portugués brasileño en Cape Town
 
-¿Te interesa aprender portugués en Cape Town? Contacta con Barbara Sharon para una clase de prueba gratuita y empieza hoy tu recorrido. Con acceso a clases de portugués brasileño de calidad y orientación experta, ganarás confianza y fluidez rápidamente.
+¿Te interesa aprender portugués en Cape Town? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu recorrido. Con acceso a clases de portugués brasileño de calidad y orientación experta, ganarás confianza y fluidez rápidamente.

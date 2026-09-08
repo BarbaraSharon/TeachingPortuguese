@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Vienna"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Salzburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Salzburg está localizada em Austria. Salzburg faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Salzburg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Salzburg faz parte do fuso horário regional de Europe usado para organizar horários. Salzburg fica em Austria. Esta página mantém a referência local específica de Salzburg, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Salzburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Vienna; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Salzburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Salzburgo, a cidade histórica da Áustria, é um lugar ideal para aprender português graças à sua rica diversidade cultural e comunidade internacional. Com uma população vibrante de aproximadamente 153.107 residentes e uma população nascida no exterior que representa cerca de 20,3% do total, esse ambiente culturalmente enriquecido apoia o aprendizado de idiomas. Os laços crescentes entre Salzburgo e os países de língua portuguesa - especialmente Brasil e Portugal - oferecem oportunidades estimulantes para os alunos explorarem o idioma e a cultura.
 
-Quer você tenha interesse em português brasileiro ou europeu, as aulas online em Salzburgo com Barbara Sharon proporcionam maneiras flexíveis e eficazes de melhorar suas habilidades linguísticas de qualquer lugar. Aulas particulares de português em Salzburgo e aulas em grupo adaptadas de iniciantes a alunos avançados garantem ensino personalizado que se adapta à sua agenda. Ferramentas interativas ajudam a tornar o aprendizado envolvente e prático.
+Quer você tenha interesse em português brasileiro, as aulas online em Salzburgo com Barbara Sharon proporcionam maneiras flexíveis e eficazes de melhorar suas habilidades linguísticas de qualquer lugar. Aulas particulares de português em Salzburgo e aulas em grupo adaptadas de iniciantes a alunos avançados garantem ensino personalizado que se adapta à sua agenda. Ferramentas interativas ajudam a tornar o aprendizado envolvente e prático.
 
 ## Por que aprender português em Salzburgo?
 
@@ -43,14 +43,14 @@ O alcance global do idioma aumenta seu valor para viagens, negócios e intercâm
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora experiente de português, especializada em português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora experiente de português, especializada em português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
 - Fluência em português, inglês, italiano e espanhol
 - Orientadora apaixonada pela educação em idiomas
 
-Barbara oferece aulas flexíveis de português online para alunos em Salzburgo, com sessões individuais e em grupo. Sua abordagem de ensino se concentra em habilidades de comunicação para situações reais e no contexto cultural, ajudando você a se sentir confiante ao interagir com falantes nativos. Quer você esteja aprendendo português brasileiro ou europeu, ela adapta sua instrução para atender às suas necessidades específicas.
+Barbara oferece aulas flexíveis de português online para alunos em Salzburgo, com sessões individuais e em grupo. Sua abordagem de ensino se concentra em habilidades de comunicação para situações reais e no contexto cultural, ajudando você a se sentir confiante ao interagir com falantes nativos. Quer você esteja aprendendo português brasileiro, ela adapta sua instrução para atender às suas necessidades específicas.
 
 Com a experiência de Barbara, você desenvolverá uma base sólida em comunicação autêntica, explorará as diferenças entre dialetos regionais e se conectará mais profundamente às culturas lusófonas. Saiba mais sobre seus serviços na página de [Serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção [Contato](/pt-br/contato-professora-portugues/).
 

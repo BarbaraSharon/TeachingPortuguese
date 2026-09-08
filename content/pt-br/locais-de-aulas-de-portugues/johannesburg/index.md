@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Johannesburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Johannesburg está localizada em South Africa. Johannesburg faz parte do conjunto regional Africa usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Johannesburg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Johannesburg faz parte do fuso horário regional de Africa usado para organizar horários. Johannesburg fica em South Africa. Esta página mantém a referência local específica de Johannesburg, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Johannesburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Africa/Johannesburg; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Johannesburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ Com mais de 260 milhões de falantes nativos no mundo, o português está entre 
 
 ## Como Barbara Sharon pode ajudar você a aprender português em Johannesburg
 
-Barbara Sharon é uma instrutora de língua portuguesa altamente qualificada, com ampla experiência no ensino de português brasileiro e europeu. Sua formação educacional inclui:
+Barbara Sharon é uma instrutora de língua portuguesa altamente qualificada, com ampla experiência no ensino de português brasileiro. Sua formação educacional inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação em TESOL
@@ -53,7 +53,7 @@ Barbara Sharon é uma instrutora de língua portuguesa altamente qualificada, co
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Com sua experiência, Barbara ajuda os alunos a entender as diferenças entre o português brasileiro e europeu, compreender o contexto cultural e desenvolver habilidades de conversação para se relacionar de forma autêntica com falantes nativos. Ela oferece aulas online particulares e em grupo, facilitando o acesso de estudantes em Johannesburg a uma educação de português de qualidade.
+Com sua experiência, Barbara ajuda os alunos a entender as diferenças entre o português brasileiro, compreender o contexto cultural e desenvolver habilidades de conversação para se relacionar de forma autêntica com falantes nativos. Ela oferece aulas online particulares e em grupo, facilitando o acesso de estudantes em Johannesburg a uma educação de português de qualidade.
 
 ## Por que o português importa: uma língua global
 
@@ -67,8 +67,8 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Os estudantes se beneficiam de experiências de aprendizagem personalizadas, elaboradas para apoiar sua jornada de desenvolvimento linguístico. Para mais informações sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar uma aula.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Está pronto para começar a aprender português em Johannesburg? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem singular de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Está pronto para começar a aprender português em Johannesburg? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem singular de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Encontre uma professora de português perto de você em Johannesburg ou explore aulas de conversação em português em Johannesburg por meio de sua plataforma online. Comece a falar português hoje!

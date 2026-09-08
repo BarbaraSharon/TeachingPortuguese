@@ -12,7 +12,7 @@
       {{ range .RegularPages.ByWeight }}
         <article class="rounded-2xl border border-slate-200 p-6 dark:border-slate-700">
           <h3 class="text-xl font-bold text-slate-900 dark:text-slate-100"><a class="hover:text-primary-700 dark:hover:text-primary-300" href="{{ .RelPermalink }}">{{ .Params.question | default .Title }}</a></h3>
-          <p class="mt-3 text-slate-700 dark:text-slate-200">{{ .Params.direct_answer }}</p>
+          <p class="mt-3 text-slate-700 dark:text-slate-200">{{ partial "answer-direct-answer.html" . }}</p>
           <a class="mt-4 inline-block font-semibold text-primary-700 dark:text-primary-300" href="{{ .RelPermalink }}">{{ i18n "answer_read_complete" }} →</a>
         </article>
       {{ end }}

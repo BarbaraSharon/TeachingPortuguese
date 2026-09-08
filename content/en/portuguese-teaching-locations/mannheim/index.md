@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Mannheim. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Mannheim is located in Germany. Mannheim is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Mannheim while the teaching service remains online-first."
+local_context: "Mannheim is grouped in the Europe regional time zone used for scheduling. Mannheim is located in Germany. This page keeps the local reference specific to Mannheim while the teaching service remains online-first."
 scheduling: "Scheduling from Mannheim: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Mannheim: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Mannheim’s vibrant expat community includes active Brazilian groups such as Br
 The city also benefits from Germany’s strong economic ties with Brazil, including trade in agriculture, automotive engineering, and renewable energy. This connection opens opportunities for professionals seeking to engage in international business or explore career paths in Portuguese-speaking regions. Learning Portuguese in Mannheim gives you access not only to the language but also to a rich global network.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -57,6 +57,6 @@ As the world's fifth-most spoken language, Portuguese is an important global lin
 Online private and group Portuguese lessons are available worldwide. Students in Mannheim can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Barbara Sharon's online Portuguese lessons offer personalized instruction through multimedia resources and tailored materials based on your interests and goals.
 
 Whether you’re a beginner or aiming to improve your conversational skills, her lessons provide structured support in a comfortable setting. For more details about her teaching services, visit our [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Mannheim? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. Find more information on [Portuguese lessons near Mannheim](/en/portuguese-teaching-services/)or connect with her directly through the [Contact](/en/contact-portuguese-teacher/)page.
+Interested in learning Portuguese in Mannheim? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. Find more information on [Portuguese lessons near Mannheim](/en/portuguese-teaching-services/)or connect with her directly through the [Contact](/en/contact-portuguese-teacher/)page.

@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Houston. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Houston forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Houston está situada en United States. Esta página mantiene la referencia local específica de Houston, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Houston forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Houston está situada en United States. Esta página mantiene la referencia local específica de Houston, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Houston: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Chicago; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Houston: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,4 +55,4 @@ Explora sus servicios en [Servicios](/es/servicios-clases-portugues/) o contacta
 
 ## Empieza hoy tu camino para hablar portugués en Houston
 
-¿Listo para aprender portugués brasileño en Houston? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza hoy tu recorrido lingüístico. Con acceso a comunidades brasileñas locales, destrezas lingüísticas prácticas para los negocios y actividades culturales enriquecedoras, Houston proporciona un entorno dinámico para aprender portugués. Tanto si buscas clases para principiantes como práctica avanzada de conversación, Barbara ofrece apoyo a medida para tus objetivos.
+¿Listo para aprender portugués brasileño en Houston? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido lingüístico. Con acceso a comunidades brasileñas locales, destrezas lingüísticas prácticas para los negocios y actividades culturales enriquecedoras, Houston proporciona un entorno dinámico para aprender portugués. Tanto si buscas clases para principiantes como práctica avanzada de conversación, Barbara ofrece apoyo a medida para tus objetivos.

@@ -239,7 +239,7 @@ Sim! Antes de começarmos, conversaremos sobre seu roteiro, as atividades planej
 
 Ofereço, sim! Aulas em grupo podem ser uma opção divertida e econômica para famílias que viajam juntas. Entre em contato para conversarmos sobre as necessidades do seu grupo e as opções de horários.
 
-[Explore todos os serviços de português](/pt-br/aulas-de-portugues/)[Reserve sua consulta gratuita](/pt-br/contato-professora-portugues/)
+[Explore todos os serviços de português](/pt-br/aulas-de-portugues/)[Reserve sua opciones de clases](/pt-br/contato-professora-portugues/)
 
 ## "Aprender é viver!" (Aprender é viver!)
 

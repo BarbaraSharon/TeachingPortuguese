@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Sydney. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Sydney está situada en Australia. Sydney forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Sydney, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Sydney forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Sydney está situada en Australia. Esta página mantiene la referencia local específica de Sydney, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Sydney: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Sydney; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Sydney: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Sídney, con más de 5,5 millones de habitantes, es una ciudad dinámica y multicultural que ofrece oportunidades singulares para quienes aprenden idiomas. Con un 48,6 % de población nacida en el extranjero, su comunidad diversa incluye más de 11.429 residentes nacidos en Brasil y 20.459 hablantes de portugués registrados en el censo de 2016. Esto hace de Sídney un lugar ideal para explorar la cultura portuguesa mediante el idioma. Tanto si te interesan las [clases de portugués brasileño](/es/servicios-clases-portugues/) como si quieres conectar con comunidades lusófonas, aprender portugués en Sídney puede abrir la puerta a ricas experiencias culturales y profesionales.
 
-Barbara Sharon ofrece tutorías de portugués en línea para estudiantes de Sídney. Con experiencia en portugués brasileño y europeo, ayuda a desenvolverse entre los matices del idioma mientras se gana confianza para comunicarse en situaciones reales. Sus clases particulares y grupales atienden a todos los niveles y ofrecen atención personalizada y recorridos de aprendizaje estructurados.
+Barbara Sharon ofrece tutorías de portugués en línea para estudiantes de Sídney. Con experiencia en portugués brasileño, ayuda a desenvolverse entre los matices del idioma mientras se gana confianza para comunicarse en situaciones reales. Sus clases particulares y grupales atienden a todos los niveles y ofrecen atención personalizada y recorridos de aprendizaje estructurados.
 ## ¿Por qué aprender portugués en Sydney?
 
 El carácter internacional de Sídney ofrece un excelente entorno para aprender portugués. Sus fuertes conexiones con Brasil y Portugal dan acceso a eventos culturales, organizaciones comunitarias y redes empresariales que enriquecen el aprendizaje. Festivales brasileños destacados como Brazil Week, Ritmo Brazilian Festival y Escola de Samba Sydney ofrecen experiencias inmersivas de música, baile y gastronomía.
@@ -43,7 +43,7 @@ Con más de 20.000 hablantes de portugués registrados en el censo de 2016, Síd
 Como una de las lenguas romances más habladas del mundo, el portugués da acceso a una red global de hablantes y culturas. En Sídney esto incluye perspectivas brasileñas y europeas, lo que brinda una comprensión completa de la diversidad y los usos del idioma. Los sólidos vínculos comerciales con Brasil y Portugal también generan oportunidades de crecimiento profesional en sectores empresariales lusófonos.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués cualificada y con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués cualificada y con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

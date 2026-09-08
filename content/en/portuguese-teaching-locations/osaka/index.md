@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Osaka. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Osaka is grouped in the Asia location set used for local scheduling and learner guidance. Osaka is located in Japan. This page keeps the local reference specific to Osaka while the teaching service remains online-first."
+local_context: "Osaka is grouped in the Asia regional time zone used for scheduling. Osaka is located in Japan. This page keeps the local reference specific to Osaka while the teaching service remains online-first."
 scheduling: "Scheduling from Osaka: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Tokyo; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Osaka: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -48,7 +48,7 @@ Barbara Sharon is an experienced Brazilian Portuguese teacher based in Osaka, of
 - Fluent in Portuguese, English, Italian, and Spanish
 - Counselor with a deep understanding of cultural nuances
 
-Barbara specializes in teaching both Brazilian and European Portuguese, helping students understand the subtle differences between dialects while developing real-world communication skills. Her approach combines structured learning with interactive materials that make Portuguese learning enjoyable and effective.
+Barbara specializes in teaching Brazilian Portuguese, helping students understand the subtle differences between dialects while developing real-world communication skills. Her approach combines structured learning with interactive materials that make Portuguese learning enjoyable and effective.
 
 Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara’s lessons offer a supportive and immersive environment. Explore more about her services on the [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language: Opportunities in Osaka
@@ -61,8 +61,8 @@ Osaka’s growing engagement with Portuguese-speaking nations through initiative
 Our online Portuguese lessons in Osaka are designed to be accessible and engaging. With interactive tools, multimedia resources, and personalized materials, you’ll learn Portuguese in a way that suits your lifestyle and interests. Whether you’re just starting out or already fluent, our flexible scheduling allows you to fit Portuguese classes near Osaka into your daily routine.
 
 Barbara Sharon offers both private and group lessons tailored to your proficiency level. From beginner Portuguese lessons for those new to the language to advanced conversational Portuguese classes for confident speakers, her teaching style ensures that every student thrives. Learn Portuguese in Osaka with a tutor who truly understands both language and culture.
-## Start Your Journey Today - Free Trial Lesson Available
+## Start Your Journey Today - Portuguese Lesson Available
 
-Ready to begin your Portuguese journey in Osaka? Contact Barbara Sharon for a free trial lesson and experience her unique teaching approach firsthand. Whether you're a complete beginner or looking to advance your skills, she’s here to support your language goals.
+Ready to begin your Portuguese journey in Osaka? Contact Barbara Sharon for a Portuguese lesson and experience her unique teaching approach firsthand. Whether you're a complete beginner or looking to advance your skills, she’s here to support your language goals.
 
 To learn more about our offerings, visit the [Services](/en/portuguese-teaching-services/)page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section. ¡Vamos a aprender portugués! (Let's learn Portuguese!)

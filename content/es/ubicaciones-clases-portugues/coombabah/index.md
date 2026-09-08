@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coombabah con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coombabah, un vibrante suburbio del norte de Gold Coast, alberga a más de 10.298 residentes y cuenta con una comunidad diversa donde el 38,4 % de la población nació en el extranjero. Esta zona familiar, conocida por sus parques, humedales y atracciones culturales, ofrece un entorno ideal para aprender idiomas. Tanto si te interesa portugués brasileño como explorar el rico mundo lusófono, Coombabah brinda oportunidades únicas para relacionarte con la cultura y la comunidad. El alumnado de Coombabah puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Coombabah forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Coombabah está situada en Australia. Esta página mantiene la referencia local específica de Coombabah, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Coombabah: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coombabah: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ Las clases particulares ofrecen orientación individual según objetivos especí
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para comenzar a aprender portugués en Coombabah? Reserva una clase de prueba gratuita con Barbara Sharon y descubre cómo las clases de portugués pueden abrir puertas a nuevas oportunidades. Explora [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/).
+¿Listo para comenzar a aprender portugués en Coombabah? Reserva una clases de portugués con Barbara Sharon y descubre cómo las clases de portugués pueden abrir puertas a nuevas oportunidades. Explora [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/).

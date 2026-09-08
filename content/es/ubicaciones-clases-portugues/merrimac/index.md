@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Merrimac con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Merrimac es un suburbio céntrico de Gold Coast, conocido por sus escuelas, parques y fácil acceso a las carreteras principales. La zona tiene una población diversa: el 40 % de sus residentes nació en el extranjero, incluido un número creciente de familias lusófonas. Este entorno multicultural hace de Merrimac un lugar ideal para estudiar portugués. Con una población aproximada de 30.251 personas, Merrimac alberga a 1.240 residentes nacidos en Portugal que contribuyen a la riqueza cultural de la comunidad local. El alumnado de Merrimac puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Merrimac forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Merrimac está situada en Australia. Esta página mantiene la referencia local específica de Merrimac, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Merrimac: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Merrimac: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Merrimac: clases de portugués brasileño y europeo
+## Aprende portugués en Merrimac: clases de portugués brasileño
 
 Merrimac es un suburbio céntrico de Gold Coast, conocido por sus escuelas, parques y fácil acceso a las carreteras principales. La zona tiene una población diversa: el 40 % de sus residentes nació en el extranjero, incluido un número creciente de familias lusófonas. Este entorno multicultural hace de Merrimac un lugar ideal para estudiar portugués. Con una población aproximada de 30.251 personas, Merrimac alberga a 1.240 residentes nacidos en Portugal que contribuyen a la riqueza cultural de la comunidad local.
 
@@ -41,7 +41,7 @@ La demografía diversa de Merrimac incluye una comunidad lusófona importante, q
 La creciente comunidad portuguesa enriquece el aprendizaje, mientras que el 40 % de población nacida en el extranjero crea un ambiente inclusivo para el intercambio cultural. Para quienes se interesan por las conexiones con Brasil, Merrimac ofrece oportunidades de acercarse al portugués brasileño mediante redes de negocios y viajes, una habilidad valiosa para profesionales de salud, educación y comercio internacional.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -64,8 +64,8 @@ Barbara Sharon ofrece opciones flexibles para aprender portugués, incluidas cla
 
 Puedes elegir sesiones particulares o grupales según tus necesidades y preferencias. Para una experiencia más inmersiva, también hay clubes de conversación. Aprende portugués en Merrimac con una profesora profesional que ofrece enseñanza individual y grupal. Tanto si prefieres una profesora de portugués en línea como clases presenciales cerca de Merrimac, Barbara adapta su enfoque a tu horario y forma de aprender.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Te interesa aprender portugués en Merrimac? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque docente puede ayudarte a alcanzar tus objetivos lingüísticos. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañar tu recorrido.
+¿Te interesa aprender portugués en Merrimac? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque docente puede ayudarte a alcanzar tus objetivos lingüísticos. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañar tu recorrido.
 
 Para conocer más sobre los servicios, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/).

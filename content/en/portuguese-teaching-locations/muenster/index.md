@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Münster. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Münster is located in Germany. Münster is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Münster while the teaching service remains online-first."
+local_context: "Münster is grouped in the Europe regional time zone used for scheduling. Münster is located in Germany. This page keeps the local reference specific to Münster while the teaching service remains online-first."
 scheduling: "Scheduling from Münster: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Münster: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Münster's community includes a significant number of Portuguese-born residents,
 Münster's historical connections with Portuguese-speaking countries offer practical advantages for those interested in international business or travel between Germany, Brazil, and Portugal. The city's 14.6% foreign-born population creates a multicultural atmosphere ideal for immersive language practice. Learn Portuguese in Münster through structured Portuguese classes or interactive online Portuguese tutor sessions.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -61,6 +61,6 @@ Learning Portuguese in Münster gives you access to a rich linguistic tradition 
 Students in Münster can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Online Portuguese lessons are available worldwide, including for those based in Münster.
 
 Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, whether you're looking for conversational Portuguese classes or beginner-friendly instruction. Barbara Sharon provides private Portuguese tutor sessions that adapt to your schedule and proficiency level.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Münster? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can find more information on [Portuguese lessons near Münster](/en/portuguese-teaching-services/)or reach out via the [Contact](/en/contact-portuguese-teacher/)page.
+Interested in learning Portuguese in Münster? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can find more information on [Portuguese lessons near Münster](/en/portuguese-teaching-services/)or reach out via the [Contact](/en/contact-portuguese-teacher/)page.

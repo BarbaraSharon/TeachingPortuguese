@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Palm Beach. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Palm Beach is located in Australia. Palm Beach is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Palm Beach while the teaching service remains online-first."
+local_context: "Palm Beach is grouped in the Australia & New Zealand regional time zone used for scheduling. Palm Beach is located in Australia. This page keeps the local reference specific to Palm Beach while the teaching service remains online-first."
 scheduling: "Scheduling from Palm Beach: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Palm Beach: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -78,8 +78,8 @@ These vibrant festivals feature live music, traditional cuisine, folk dancing, a
 Additionally, organizations like the Portuguese American Cultural Society of Palm Beach County support community-based learning initiatives. They offer workshops, language exchange programs, and cultural immersion activities that complement formal instruction.
 
 The strategic location near major trade centers also provides access to business networks where Portuguese fluency is increasingly appreciated. Whether you're seeking a private Portuguese tutor palm-beach or group Portuguese lessons palm-beach, Palm Beach County offers diverse options suited to every learner's needs and goals.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Ready to begin your Portuguese learning journey in Palm Beach? Contact Barbara Sharon for a free trial lesson and discover how her unique teaching approach can help you reach your language goals. Whether you're a complete beginner or aiming to advance your fluency, she'll tailor her lessons to suit your needs.
+Ready to begin your Portuguese learning journey in Palm Beach? Contact Barbara Sharon for a Portuguese lesson and discover how her unique teaching approach can help you reach your language goals. Whether you're a complete beginner or aiming to advance your fluency, she'll tailor her lessons to suit your needs.
 
 Find out more about her services at [Services](/en/portuguese-teaching-services/)or reach out directly via the [Contact](/en/contact-portuguese-teacher/)page. Start speaking Portuguese like a native today!

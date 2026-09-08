@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Brussels"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Brussels. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Brussels is located in Belgium. Brussels is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Brussels while the teaching service remains online-first."
+local_context: "Brussels is grouped in the Europe regional time zone used for scheduling. Brussels is located in Belgium. This page keeps the local reference specific to Brussels while the teaching service remains online-first."
 scheduling: "Scheduling from Brussels: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Brussels; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Brussels: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Master Brazilian & European Portuguese in Brussels - Online Lessons by Barbara Sharon
+## Master Brazilian Portuguese in Brussels - Online Lessons by Barbara Sharon
 
 Brussels, the vibrant capital of Belgium and a melting pot of cultures, is home to over 1.25 million residents, with nearly half being foreign-born. This diverse city offers unique opportunities for language learners, including those interested in Portuguese. While native Portuguese speakers are not common, Brussels hosts a growing community of Portuguese and Brazilian expatriates, with approximately 19,000 Portuguese-born residents and various cultural organizations that support language exchange and immersion.
 
@@ -56,6 +56,6 @@ Barbara Sharon provides flexible Portuguese lessons tailored to your needs, whet
 Private lessons offer personalized attention, allowing you to focus on specific areas of interest or challenge, while group sessions encourage social interaction and collaborative learning. Whether you're looking for Brazilian Portuguese lessons near Brussels or general Portuguese instruction, she can accommodate your preferences.
 ## Start Your Portuguese Journey Today in Brussels
 
-Are you interested in learning Portuguese in Brussels? Contact Barbara Sharon today to schedule a free trial lesson and take the first step toward mastering Brazilian or European Portuguese. Explore her range of [Portuguese lessons near Brussels](/en/portuguese-teaching-services/), including options for beginners, and discover how online Portuguese tutoring can transform your language journey.
+Are you interested in learning Portuguese in Brussels? Contact Barbara Sharon today to schedule a Portuguese lesson and take the first step toward mastering Brazilian or European Portuguese. Explore her range of [Portuguese lessons near Brussels](/en/portuguese-teaching-services/), including options for beginners, and discover how online Portuguese tutoring can transform your language journey.
 
 With opportunities to connect with the local Portuguese and Brazilian communities through events like Bossa Nova's street food offerings or the annual "O Melhor de Portugal" festival, learning Portuguese in Brussels offers both linguistic and cultural enrichment. Whether you're seeking a Portuguese tutor Brussels or Brazilian Portuguese lessons Brussels , Barbara Sharon provides expert instruction tailored to your goals.

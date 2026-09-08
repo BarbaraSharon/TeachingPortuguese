@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Oslo"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Oslo. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Oslo is located in Norway. Oslo is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Oslo while the teaching service remains online-first."
+local_context: "Oslo is grouped in the Europe regional time zone used for scheduling. Oslo is located in Norway. This page keeps the local reference specific to Oslo while the teaching service remains online-first."
 scheduling: "Scheduling from Oslo: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Oslo; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Oslo: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -34,7 +34,7 @@ editorial_reviewed: true
 
 Oslo, the vibrant capital of Norway, is home to a growing Brazilian and Portuguese-speaking community. With over 30% of residents being foreign-born as of 2022, Oslo offers an inclusive environment for language learning and cultural exchange. The city's rich diversity makes it an ideal place to immerse yourself in Brazilian culture while improving your Portuguese skills.
 
-Barbara Sharon provides high-quality online Portuguese lessons tailored to learners in Oslo. Whether you're a beginner or looking to enhance your conversational abilities, her private and group classes offer flexibility that fits into any busy schedule. Explore more about [Portuguese lessons near Oslo](/en/portuguese-teaching-services/)and book a free trial lesson today.
+Barbara Sharon provides high-quality online Portuguese lessons tailored to learners in Oslo. Whether you're a beginner or looking to enhance your conversational abilities, her private and group classes offer flexibility that fits into any busy schedule. Explore more about [Portuguese lessons near Oslo](/en/portuguese-teaching-services/)and book a Portuguese lesson today.
 ## Why Learn Portuguese in Oslo?
 
 The Brazilian community in Oslo continues to grow, hosting numerous cultural events, festivals, and social gatherings that celebrate Brazilian traditions. Learning Portuguese here allows you to connect with this dynamic community firsthand.
@@ -70,6 +70,6 @@ Oslo's status as a key regional city makes it an excellent gateway for travel to
 For residents of Oslo, online lessons provide unmatched flexibility and convenience. Barbara Sharon offers structured online classes that can be scheduled around your busy schedule-whether you're at home, at work, or on the go.
 
 Her interactive teaching methods and multimedia resources make learning engaging and effective. Students receive personalized materials tailored to their interests and goals. Learn Portuguese in Oslo with a qualified instructor through [Services](/en/portuguese-teaching-services/).
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Ready to start your journey in learning Portuguese in Oslo? Contact Barbara Sharon for a free trial lesson and experience how her teaching approach can help you reach your language goals. Whether you're a complete beginner or aiming to improve your fluency, she's here to support your learning path. Learn more about [Portuguese lessons near Oslo](/en/portuguese-teaching-services/)and [contact the teacher](/en/contact-portuguese-teacher/).
+Ready to start your journey in learning Portuguese in Oslo? Contact Barbara Sharon for a Portuguese lesson and experience how her teaching approach can help you reach your language goals. Whether you're a complete beginner or aiming to improve your fluency, she's here to support your learning path. Learn more about [Portuguese lessons near Oslo](/en/portuguese-teaching-services/)and [contact the teacher](/en/contact-portuguese-teacher/).

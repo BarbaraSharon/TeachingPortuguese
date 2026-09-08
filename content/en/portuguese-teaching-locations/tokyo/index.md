@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Tokyo. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Tokyo is grouped in the Asia location set used for local scheduling and learner guidance. Tokyo is located in Japan. This page keeps the local reference specific to Tokyo while the teaching service remains online-first."
+local_context: "Tokyo is grouped in the Asia regional time zone used for scheduling. Tokyo is located in Japan. This page keeps the local reference specific to Tokyo while the teaching service remains online-first."
 scheduling: "Scheduling from Tokyo: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Tokyo; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Tokyo: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ Brazil, home to the largest Portuguese-speaking population in the world, offers 
 The city hosts several Brazilian community events including the Brazil & Latin Festival at Yoyogi Park and the Brazil Samba Dance Festival, both organized by the CCBJ. These celebrations offer a vibrant cultural backdrop for those interested in deepening their understanding of Portuguese-speaking communities.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

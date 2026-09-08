@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Vienna"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Salzburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Salzburg is located in Austria. Salzburg is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Salzburg while the teaching service remains online-first."
+local_context: "Salzburg is grouped in the Europe regional time zone used for scheduling. Salzburg is located in Austria. This page keeps the local reference specific to Salzburg while the teaching service remains online-first."
 scheduling: "Scheduling from Salzburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Vienna; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Salzburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Salzburg’s international character makes it a welcoming place for language lea
 The language's global reach enhances its value for travel, business, and cultural exchange. From Brazilian music and cinema to Portuguese literature and everyday communication styles, mastering Portuguese allows deeper engagement with diverse cultures. Events such as the Brazilian Zouk community’s partner dancing classes and Festa do Brasil organized by Arco Latino reflect Salzburg's growing connection to Lusophone communities.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is an experienced Portuguese instructor who specializes in both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is an experienced Portuguese instructor who specializes in Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, and Spanish

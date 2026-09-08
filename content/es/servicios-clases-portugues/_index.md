@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases de portugués brasileño
   delivery: En línea en todo el mundo; presenciales en Gold Coast
+  delivery_modes: [online, in_person]
   audience: Principiantes, estudiantes intermedios y avanzados, negocios, viajes y niños
 sections:
 - block: hero
@@ -22,13 +23,13 @@ sections:
     title: Clases de portugués en línea y en Gold Coast
     text: Clases particulares y grupales en línea en todo el mundo, además de clases presenciales en Gold Coast. Elige tu nivel, tu objetivo y la forma en que quieres aprender.
     primary_action:
-      text: Contacta con Barbara
-      url: /es/contacto-profesora-portugues/
+      text: Clases online en todo el mundo
+      url: /es/servicios-clases-portugues/clases-portugues-online/
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Compara las opciones de clase
-      url: '#lesson-options'
+      text: Clases grupales en Gold Coast
+      url: /es/servicios-clases-portugues/escuela-portugues-gold-coast/
       icon: hero/arrow-down
       style: ghost
     media:
@@ -176,6 +177,44 @@ sections:
       text: Contacta con Barbara sobre las clases
       url: /es/contacto-profesora-portugues/
       icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Precios claros
+    title: Elige tu formato de clase
+    text: Los precios actuales de Barbara se aplican a las clases online y en Gold Coast.
+    offers:
+    - id: term_10_week
+      title: Curso grupal de 10 semanas
+      price_prefix: desde
+      text: Una clase de 1 hora por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar el próximo grupo y la disponibilidad.
+      related_offers:
+      - id: book_digital
+        label: Libro digital
+        price_prefix: desde
+      - id: book_hard_copy
+        label: Libro impreso
+        price_prefix: ""
+      related_note: Las opciones y ediciones de los libros se confirman antes de la matrícula.
+      url: /es/contacto-profesora-portugues/
+    - id: term_10_week_1_5_hour
+      title: Curso grupal de 1,5 horas
+      price_prefix: ""
+      text: Una clase de 1,5 horas por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    - id: private_4_week
+      title: Paquete privado de 4 clases
+      price_prefix: desde
+      text: Una clase de 1 hora por semana durante 4 semanas. Contacta con Barbara para confirmar la opción actual y la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    - id: private_casual
+      title: Clase suelta
+      price_prefix: ""
+      text: Una clase de 1 hora. Contacta con Barbara para consultar la disponibilidad y el precio de clases de 1,5 o 2 horas.
+      url: /es/contacto-profesora-portugues/
+    action_text: Consultar disponibilidad
+    currency_note: Todos los precios están en dólares australianos. Contacta con Barbara para confirmar la opción y la disponibilidad.
+
 - block: answer-links
   id: respuestas-eleccion-clases
   content:

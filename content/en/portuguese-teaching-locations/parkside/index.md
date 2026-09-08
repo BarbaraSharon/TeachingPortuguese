@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Parkside. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Parkside is located in Australia. Parkside is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Parkside while the teaching service remains online-first."
+local_context: "Parkside is grouped in the Australia & New Zealand regional time zone used for scheduling. Parkside is located in Australia. This page keeps the local reference specific to Parkside while the teaching service remains online-first."
 scheduling: "Scheduling from Parkside: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Parkside: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ Brazil, home to the largest Portuguese-speaking population in the world, gives l
 The presence of international businesses such as Parkside Interactive, which has expanded into Portugal and maintains trade links with former Portuguese colonies like Brazil, Angola, and Mozambique, highlights the growing global significance of Portuguese. This makes learning Portuguese in Parkside not only a personal enrichment opportunity but also a practical step towards professional development.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Washington Dc. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Washington Dc is grouped in the North America location set used for local scheduling and learner guidance. Washington Dc is located in United States. This page keeps the local reference specific to Washington Dc while the teaching service remains online-first."
+local_context: "Washington Dc is grouped in the North America regional time zone used for scheduling. Washington Dc is located in United States. This page keeps the local reference specific to Washington Dc while the teaching service remains online-first."
 scheduling: "Scheduling from Washington Dc: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Washington Dc: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ With over 10,701 Portuguese speakers in the area, Washington DC hosts events suc
 Brazil's influence extends globally, with 267 million native speakers across Africa, Asia, and the Americas. Learning Portuguese in Washington DC allows you to understand Brazil's cultural nuances in music, cinema, and literature. The city's strong business ties to Brazil through the Brazil-U.S. Business Council and U.S.-Brazil Commercial Dialogue make language learning particularly valuable for professionals.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

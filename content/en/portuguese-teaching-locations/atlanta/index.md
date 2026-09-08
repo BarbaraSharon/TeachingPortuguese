@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Atlanta. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Atlanta is grouped in the North America location set used for local scheduling and learner guidance. Atlanta is located in United States. This page keeps the local reference specific to Atlanta while the teaching service remains online-first."
+local_context: "Atlanta is grouped in the North America regional time zone used for scheduling. Atlanta is located in United States. This page keeps the local reference specific to Atlanta while the teaching service remains online-first."
 scheduling: "Scheduling from Atlanta: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Atlanta: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -55,11 +55,11 @@ Barbara Sharon offers both private and group Portuguese lessons, ideal for learn
 
 Her online format ensures that regardless of where you are in Atlanta - or even if you’re not located locally - you can access high-quality instruction from the comfort of your home. With flexible scheduling options, Barbara makes it simple to fit Portuguese study into your routine.
 
-Whether you're seeking [Online Portuguese tutor atlanta](/en/portuguese-teaching-services/), [Brazilian Portuguese lessons atlanta](/en/portuguese-teaching-services/), or general language improvement, her services are available to meet your needs. Start your journey today with a [free trial lesson](/en/portuguese-teaching-services/)and discover how Barbara can help you achieve fluency.
+Whether you're seeking [Online Portuguese tutor atlanta](/en/portuguese-teaching-services/), [Brazilian Portuguese lessons atlanta](/en/portuguese-teaching-services/), or general language improvement, her services are available to meet your needs. Start your journey today with a [Portuguese lesson](/en/portuguese-teaching-services/)and discover how Barbara can help you achieve fluency.
 ## Begin Your Portuguese Journey Today
 
 If you're searching for an effective way to learn Brazilian Portuguese in Atlanta, look no further. Barbara Sharon’s expert instruction and engaging teaching style make her the perfect choice for both [Brazilian Portuguese lessons atlanta](/en/portuguese-teaching-services/)and [Private Portuguese tutor atlanta](/en/portuguese-teaching-services/)services.
 
-Ready to take the next step? Contact Barbara today to book a free trial lesson and experience firsthand how her personalized approach can transform your learning journey. You’ll feel confident speaking in Portuguese - from “ Oi, tudo bem? ” to full conversations about culture and life in Brazil!
+Ready to take the next step? Contact Barbara today to book a Portuguese lesson and experience firsthand how her personalized approach can transform your learning journey. You’ll feel confident speaking in Portuguese - from “ Oi, tudo bem? ” to full conversations about culture and life in Brazil!
 
 For more information or to schedule your first session, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)page.

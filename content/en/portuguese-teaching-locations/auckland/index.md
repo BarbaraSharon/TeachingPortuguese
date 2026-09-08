@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Pacific/Auckland"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Auckland. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Auckland is located in New Zealand. Auckland is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Auckland while the teaching service remains online-first."
+local_context: "Auckland is grouped in the Australia & New Zealand regional time zone used for scheduling. Auckland is located in New Zealand. This page keeps the local reference specific to Auckland while the teaching service remains online-first."
 scheduling: "Scheduling from Auckland: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Pacific/Auckland; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Auckland: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -53,9 +53,9 @@ Barbara offers flexible learning options including online private and group less
 
 Private lessons allow for one-on-one focus, while group sessions encourage social interaction and collaborative learning. All sessions are conducted online, making them accessible to students anywhere in Auckland or beyond.
 
-With [Brazilian Portuguese tutor services](/en/portuguese-teaching-services/)and general [Portuguese lessons near Auckland](/en/portuguese-teaching-services/), Barbara adapts her teaching style to meet individual needs. Start your journey today with a free trial lesson!
+With [Brazilian Portuguese tutor services](/en/portuguese-teaching-services/)and general [Portuguese lessons near Auckland](/en/portuguese-teaching-services/), Barbara adapts her teaching style to meet individual needs. Start your journey today with a Portuguese lesson!
 ## Begin Your Portuguese Journey Today
 
-Ready to learn Portuguese in Auckland? Contact Barbara Sharon for a complimentary trial lesson and take the first step toward fluency. Whether you're looking for a [Portuguese teacher Auckland](/en/contact-portuguese-teacher/), conversational classes, or structured lessons, her online approach ensures accessibility and convenience.
+Ready to learn Portuguese in Auckland? Contact Barbara Sharon for a lesson options and take the first step toward fluency. Whether you're looking for a [Portuguese teacher Auckland](/en/contact-portuguese-teacher/), conversational classes, or structured lessons, her online approach ensures accessibility and convenience.
 
 “Aprender português é mais do que memorizar palavras - é vivenciar uma cultura.” (Learning Portuguese is more than memorizing words - it’s experiencing a culture.)

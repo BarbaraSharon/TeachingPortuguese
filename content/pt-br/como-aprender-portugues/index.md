@@ -85,9 +85,9 @@ Nada pesado, apenas diversão! Deixe seu cérebro se acostumar aos sons e ao rit
 
 ## 4. Encontre a professora certa
 
-Vá com calma. Durante um mês, experimente aulas experimentais gratuitas sempre que possível. Sem pressa: trata-se de encontrar uma professora com quem você se conecte. Quando encontrar a pessoa certa, comprometa-se com uma jornada de aprendizagem de 10 semanas.
+Vá com calma. Durante um mês, experimente aulas de português sempre que possível. Sem pressa: trata-se de encontrar uma professora com quem você se conecte. Quando encontrar a pessoa certa, comprometa-se com uma jornada de aprendizagem de 10 semanas.
 
-Agende hoje sua aula experimental gratuita! [Fale com Barbara Sharon](/pt-br/contato-professora-portugues/)
+Agende hoje sua aulas de português! [Fale com Barbara Sharon](/pt-br/contato-professora-portugues/)
 
 ## 5. Crie seu ritual de aprendizagem
 
@@ -131,7 +131,7 @@ Aprender português não precisa ser estressante. Com uma razão clara, entendim
 
 Se você tem interesse em aulas de português online, em uma professora de português na Austrália ou quer saber qual é a melhor maneira de aprender português, a abordagem de Barbara Sharon pode ajudar você a alcançar seus objetivos.
 
-[Agende hoje sua aula experimental gratuita](/pt-br/contato-professora-portugues/)
+[Agende hoje sua aulas de português](/pt-br/contato-professora-portugues/)
 
 ## Mais respostas diretas sobre aprendizagem
 
@@ -198,6 +198,6 @@ Aprender português como segunda língua não precisa ser assustador. Seguindo e
 - Crie rituais consistentes de aprendizagem que façam do português parte da sua rotina diária
 - Concentre-se na prática ativa de fala e em habilidades reais de comunicação
 
-Pronto para começar sua jornada em português? Fale hoje com Barbara Sharon para uma aula experimental gratuita e descubra como a aprendizagem do português pode ser eficaz quando você tem a abordagem e a orientação certas.
+Pronto para começar sua jornada em português? Fale hoje com Barbara Sharon para uma aulas de português e descubra como a aprendizagem do português pode ser eficaz quando você tem a abordagem e a orientação certas.
 
-[Agende hoje sua aula experimental gratuita](/pt-br/contato-professora-portugues/)
+[Agende hoje sua aulas de português](/pt-br/contato-professora-portugues/)

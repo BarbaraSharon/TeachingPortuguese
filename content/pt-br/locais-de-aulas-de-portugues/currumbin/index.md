@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin é um subúrbio sereno no sul da Gold Coast, conhecido por suas paisagens naturais deslumbrantes, praias intocadas e santuário de vida selvagem. Com uma população de aproximadamente 3.278 residentes, oferece um ambiente tranquilo, ideal para o estudo focado de idiomas. De acordo com o Censo de 2016, cerca de 0,4% da população de Currumbin falava português em casa - aproximadamente 170 pessoas. A região atrai muitos residentes apaixonados por aprender novos idiomas, incluindo o português. Os alunos de Currumbin podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Currumbin faz parte do fuso horário regional de Gold Coast usado para organizar horários. Currumbin fica em Australia. Esta página mantém a referência local específica de Currumbin, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Currumbin: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Os alunos de Currumbin podem frequentar aulas presenciais de português em Surfe
 
 ## Comece hoje sua jornada no português!
 
-Pronto para aprender português brasileiro em Currumbin? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma. Quer você procure uma professora de português brasileiro em Currumbin, aulas online de português perto de você ou aulas de português para iniciantes em Currumbin, ela está aqui para apoiar seus objetivos.
+Pronto para aprender português brasileiro em Currumbin? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma. Quer você procure uma professora de português brasileiro em Currumbin, aulas online de português perto de você ou aulas de português para iniciantes em Currumbin, ela está aqui para apoiar seus objetivos.

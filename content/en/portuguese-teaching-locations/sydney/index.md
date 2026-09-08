@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Sydney. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Sydney is located in Australia. Sydney is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Sydney while the teaching service remains online-first."
+local_context: "Sydney is grouped in the Australia & New Zealand regional time zone used for scheduling. Sydney is located in Australia. This page keeps the local reference specific to Sydney while the teaching service remains online-first."
 scheduling: "Scheduling from Sydney: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Sydney: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -34,7 +34,7 @@ editorial_reviewed: true
 
 Sydney, home to over 5.5 million people, is a vibrant and multicultural city that offers unique opportunities for language learners. With a foreign-born population of 48.6%, the city's diverse community includes over 11,429 Brazilian-born residents and 20,459 Portuguese speakers recorded in the 2016 census. This makes Sydney an ideal place to explore Portuguese culture through language. Whether you're interested in [Brazilian Portuguese lessons](/en/portuguese-teaching-services/)or seeking to connect with Lusophone communities, learning Portuguese in Sydney can open doors to rich cultural and professional experiences.
 
-Barbara Sharon offers online Portuguese tutor services for students in Sydney. With her expertise in both Brazilian and European Portuguese, she helps learners navigate the nuances of the language while building confidence in real-life communication. Her private Portuguese teacher Sydney and group classes cater to all proficiency levels, providing personalized attention and structured learning paths.
+Barbara Sharon offers online Portuguese tutor services for students in Sydney. With her expertise in Brazilian Portuguese, she helps learners navigate the nuances of the language while building confidence in real-life communication. Her private Portuguese teacher Sydney and group classes cater to all proficiency levels, providing personalized attention and structured learning paths.
 ## Why Learn Portuguese in Sydney?
 
 Sydney's international character makes it an excellent environment for learning Portuguese. The city’s strong connections with Brazil and Portugal provide learners with access to cultural events, community organizations, and business networks that enhance language learning. Notable Brazilian festivals such as Brazil Week, Ritmo Brazilian Festival, and the Escola de Samba Sydney offer immersive experiences in music, dance, and cuisine.
@@ -44,7 +44,7 @@ With over 20,000 Portuguese speakers recorded in the 2016 census, Sydney also ho
 As one of the world’s most widely spoken Romance languages, Portuguese provides access to a global network of speakers and cultures. In Sydney, this includes both Brazilian and European perspectives, giving students a well-rounded understanding of the language's diversity and usage. The city's strong trade links with Brazil and Portugal also create opportunities for professional growth through Lusophone business sectors.
 ## How Barbara Sharon Can Help You Learn Portuguese in Sydney
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bremen. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bremen está situada en Germany. Bremen forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Bremen, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Bremen forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Bremen está situada en Germany. Esta página mantiene la referencia local específica de Bremen, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Bremen: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bremen: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -53,4 +53,4 @@ Barbara Sharon ofrece clases de portugués en línea en Bremen mediante tutoría
 Los servicios de profesora de portugués en línea en Bremen incluyen enseñanza individualizada, adaptada a tu horario y objetivos de aprendizaje. Barbara Sharon se especializa en clases de portugués brasileño en Bremen y ofrece clases individuales y en grupos pequeños. Explora más sobre sus opciones en la página de [servicios](/es/servicios-clases-portugues/).
 ## Empieza hoy tu camino
 
-¿Te interesa aprender portugués en Bremen? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza hoy tu recorrido lingüístico. Puedes comunicarte mediante la página de [contacto](/es/contacto-profesora-portugues/) para conversar sobre tus necesidades y programar tu primera sesión.
+¿Te interesa aprender portugués en Bremen? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido lingüístico. Puedes comunicarte mediante la página de [contacto](/es/contacto-profesora-portugues/) para conversar sobre tus necesidades y programar tu primera sesión.

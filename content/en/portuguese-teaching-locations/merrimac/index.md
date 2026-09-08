@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Merrimac with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Merrimac is a centrally located suburb on the Gold Coast, known for its schools, parks, and easy access to major roads. The area has a diverse population, with 40% of residents being foreign-born, including a growing number of Portuguese-speaking families. This multicultural environment makes Merrimac an ideal place to study Portuguese. With a population of approximately 30,251 people, Merrimac is home to 1,240 Portuguese-born residents who contribute to the local community’s cultural richness. Learners in Merrimac can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Merrimac is grouped in the Gold Coast regional time zone used for scheduling. Merrimac is located in Australia. This page keeps the local reference specific to Merrimac while the teaching service remains online-first."
 scheduling: "Scheduling from Merrimac: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Merrimac: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Merrimac: Brazilian & European Portuguese Classes
+## Learn Portuguese in Merrimac: Brazilian Portuguese Classes
 
 Merrimac is a centrally located suburb on the Gold Coast, known for its schools, parks, and easy access to major roads. The area has a diverse population, with 40% of residents being foreign-born, including a growing number of Portuguese-speaking families. This multicultural environment makes Merrimac an ideal place to study Portuguese. With a population of approximately 30,251 people, Merrimac is home to 1,240 Portuguese-born residents who contribute to the local community's cultural richness.
 
@@ -42,7 +42,7 @@ Merrimac's diverse demographic includes a significant Portuguese-speaking commun
 The presence of a growing Portuguese community enhances language learning experiences, while the area's 40% foreign-born population creates an inclusive environment for cultural exchange. For those interested in Brazilian connections, Merrimac offers opportunities to engage with Brazilian Portuguese through business and travel networks, making it valuable for professionals in healthcare, education, and international trade.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -61,8 +61,8 @@ Portuguese learning opportunities in Merrimac benefit from the area's multicultu
 Barbara Sharon provides flexible options for learning Portuguese, including both in-person lessons in Surfers Paradise and online instruction. Online Portuguese lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals.
 
 Students can choose from private or group sessions, depending on their needs and preferences. For those looking for a more immersive experience, speaking club sessions are also available. Learn Portuguese in Merrimac with a professional Portuguese teacher who offers both individual and group instruction. Whether you prefer online Portuguese tutor services or in-person Portuguese lessons near Merrimac, Barbara's approach adapts to your schedule and learning style.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Merrimac? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
+Interested in learning Portuguese in Merrimac? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 To learn more about her services, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section.

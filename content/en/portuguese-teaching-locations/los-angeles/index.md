@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Los Angeles. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Los Angeles is grouped in the North America location set used for local scheduling and learner guidance. Los Angeles is located in Canada. This page keeps the local reference specific to Los Angeles while the teaching service remains online-first."
+local_context: "Los Angeles is grouped in the North America regional time zone used for scheduling. Los Angeles is located in Canada. This page keeps the local reference specific to Los Angeles while the teaching service remains online-first."
 scheduling: "Scheduling from Los Angeles: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Los Angeles: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Los Angeles: Brazilian & European Portuguese Classes
+## Learn Portuguese in Los Angeles: Brazilian Portuguese Classes
 
 Los Angeles, the largest city in California with a population of 3.88 million, is renowned for its multicultural diversity and vibrant community life. This welcoming environment makes it an ideal place to learn Portuguese-especially for those interested in connecting with Brazilian and Portuguese-speaking communities. With over 35% of residents born abroad, Los Angeles provides unique opportunities to engage with global cultures and immerse yourself in the language.
 
@@ -44,7 +44,7 @@ In addition to these cultural events, Los Angeles hosts numerous festivals like 
 Furthermore, Los Angeles maintains strong business ties with Brazil through institutions like the Brazil-California Chamber of Commerce and robust trade partnerships in sectors including healthcare, education, and technology. In 2024, two-way trade between Los Angeles and Brazil reached $91.49 billion, making Portuguese a valuable skill for professionals looking to expand their international connections.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -64,8 +64,8 @@ Learning Portuguese in Los Angeles gives you access to a rich linguistic traditi
 Barbara Sharon delivers engaging online private and group Portuguese lessons that are accessible from anywhere in the world. Using multimedia resources and interactive tools, she ensures learning is both effective and enjoyable.
 
 Students receive materials tailored to their specific interests and learning goals, whether they’re interested in Portuguese lessons near Los Angeles or seeking a Portuguese tutor near me in Los Angeles . Her flexible format allows for both individualized attention and collaborative learning, supporting all proficiency levels from beginner to advanced learners.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Ready to start your journey toward fluency in Portuguese? Contact Barbara Sharon today for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
+Ready to start your journey toward fluency in Portuguese? Contact Barbara Sharon today for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 Barbara offers both group and private lessons online, making it easy for students in Los Angeles to find the right fit for their learning needs. Explore her offerings through the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)page today.

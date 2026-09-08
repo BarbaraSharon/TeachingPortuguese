@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Lyon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Lyon is located in France. Lyon is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Lyon while the teaching service remains online-first."
+local_context: "Lyon is grouped in the Europe regional time zone used for scheduling. Lyon is located in France. This page keeps the local reference specific to Lyon while the teaching service remains online-first."
 scheduling: "Scheduling from Lyon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Lyon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Lyon: Brazilian & European Portuguese Classes
+## Learn Portuguese in Lyon: Brazilian Portuguese Classes
 
 Lyon, a vibrant city in France with a population of over 520,774 residents, offers an excellent environment for learning Portuguese. Known for its rich cultural heritage and international atmosphere, Lyon provides a welcoming space for language learners. With a growing Brazilian community and numerous cultural events celebrating Latin American traditions, the city supports immersive experiences that enhance language acquisition. The 13% foreign-born population contributes to Lyon's diverse community, making it an ideal place to practice Portuguese in real-world settings.
 
@@ -42,7 +42,7 @@ Lyon has a growing Brazilian community with many residents from various regions 
 Learning Portuguese in Lyon gives you access to a rich linguistic tradition that extends beyond Brazil. The language has influenced and been influenced by various cultures across Africa, Asia, and the Americas, making it a fascinating subject for study. Additionally, the presence of Portuguese speakers in Lyon provides an opportunity to engage with native speakers and practice real-life communication skills. With 938 Portuguese language speakers in the area, you'll find plenty of chances to apply your learning.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a qualified Brazilian Portuguese teacher with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Brazilian Portuguese teacher with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -57,6 +57,6 @@ As the world's fifth-most spoken language, Portuguese is an important global lin
 Online private and group Portuguese lessons are available worldwide. Students in Lyon can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Barbara Sharon's online Portuguese lessons include personalized materials tailored to your specific interests and learning goals. As a certified Portuguese tutor Lyon , she provides both individualized attention and collaborative group settings.
 
 Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. Whether you're looking for Brazilian Portuguese lessons Lyon or general Portuguese classes Lyon, our platform adapts to your pace and preferences. [Services](/en/portuguese-teaching-services/)and [Contact](/en/contact-portuguese-teacher/)pages provide more information on how to get started.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Lyon? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. With her expertise as a Brazilian Portuguese teacher Lyon and online Portuguese tutor Lyon , she delivers personalized learning experiences that meet individual needs.
+Interested in learning Portuguese in Lyon? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. With her expertise as a Brazilian Portuguese teacher Lyon and online Portuguese tutor Lyon , she delivers personalized learning experiences that meet individual needs.

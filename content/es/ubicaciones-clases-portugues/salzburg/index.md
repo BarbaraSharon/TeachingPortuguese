@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Vienna"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Salzburg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Salzburg está situada en Austria. Salzburg forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Salzburg, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Salzburg forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Salzburg está situada en Austria. Esta página mantiene la referencia local específica de Salzburg, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Salzburg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Vienna; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Salzburg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -41,14 +41,14 @@ El carácter internacional de Salzburgo la convierte en un lugar acogedor para a
 El alcance global de la lengua aumenta su valor para viajar, hacer negocios e intercambiar cultura. Desde música y cine brasileños hasta literatura portuguesa y formas cotidianas de comunicación, dominar portugués permite relacionarse más profundamente con culturas diversas. Eventos como las clases de baile en pareja de la comunidad Brazilian Zouk y Festa do Brasil, organizada por Arco Latino, reflejan la creciente conexión de Salzburgo con comunidades lusófonas.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una instructora de portugués experimentada y especializada en portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una instructora de portugués experimentada y especializada en portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora con pasión por la educación lingüística
 
-Barbara ofrece clases de portugués en línea flexibles para estudiantes de Salzburgo, en sesiones individuales y grupales. Su enfoque se centra en comunicación real y contexto cultural, para darte confianza al relacionarte con hablantes nativos. Tanto si aprendes portugués brasileño como europeo, adapta la enseñanza a tus necesidades específicas.
+Barbara ofrece clases de portugués en línea flexibles para estudiantes de Salzburgo, en sesiones individuales y grupales. Su enfoque se centra en comunicación real y contexto cultural, para darte confianza al relacionarte con hablantes nativos. Tanto si aprendes portugués brasileño, adapta la enseñanza a tus necesidades específicas.
 
 Con la experiencia de Barbara, conseguirás una base sólida de comunicación auténtica, explorarás diferencias entre dialectos regionales y conectarás más profundamente con culturas lusófonas. Conoce más sobre sus [servicios](/es/servicios-clases-portugues/) o contacta con Barbara mediante la sección de [contacto](/es/contacto-profesora-portugues/).
 ## El portugués como lengua global

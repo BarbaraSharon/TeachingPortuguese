@@ -23,7 +23,7 @@ migration_schema:
 
 Está planejando uma viagem a Lisboa, a vibrante capital de Portugal? Lisboa é uma cidade de charme incrível, com seus icônicos bondes amarelos, prédios em cores pastel, mirantes panorâmicos (miradouros) e uma rica história que remonta à época romana. Mas, para realmente vivenciar Lisboa, você precisa de mais do que um livro de frases: precisa falar o idioma local.
 
-O curso de português para viajar a Lisboa de Barbara Sharon é um programa especializado de português europeu, criado especificamente para viajantes que visitam Lisboa, Portugal e outras partes do país. Embora Barbara seja falante nativa de português brasileiro, ela domina plenamente o português europeu (pt-PT) e ensina a pronúncia, o vocabulário e as expressões que diferem entre as duas variantes.
+O guia de viagem a Lisboa de Barbara Sharon ajuda estudantes de português brasileiro a se prepararem para situações comuns em Portugal. Barbara ensina português brasileiro e pode explicar diferenças úteis de pronúncia, vocabulário e expressões que os viajantes podem encontrar em Lisboa.
 
 Quer você visite a cidade por alguns dias ou alguns meses, este curso fornecerá as frases essenciais em português e o conhecimento cultural para percorrer Lisboa com confiança.
 
@@ -97,7 +97,7 @@ Quer você visite a cidade por alguns dias ou alguns meses, este curso fornecer�
 | Criança | Criança | Criança (mesma palavra) |
 | Sons das vogais | Vogais abertas, mais sílabas | Vogais fechadas, redução de vogais átonas |
 
-Barbara Sharon ensinará a pronúncia e o vocabulário do português europeu especificamente para Lisboa, para que você soe como um morador local. Ela também explica as principais diferenças em relação ao português brasileiro para que você saiba o que esperar.
+Barbara Sharon ensina português brasileiro e pode explicar a pronúncia e o vocabulário europeus que você poderá ouvir em Lisboa, para que saiba o que esperar sem apresentar esta página como aulas de português europeu.
 
 ## Formatos de curso adequados à sua rotina
 
@@ -131,7 +131,7 @@ Nem todos os cursos de português se concentram em Lisboa. O curso de viagem a L
 
 ### Experiência em português europeu
 
-Embora Barbara seja falante nativa de português brasileiro, ela domina plenamente o português europeu e ensina as diferenças de pronúncia, vocabulário e gramática entre as duas variantes. Você aprenderá o português europeu autêntico usado em Lisboa, não português brasileiro com sotaque europeu.
+Barbara é professora de português brasileiro. Ela pode ajudar você a reconhecer diferenças de pronúncia, vocabulário e gramática entre as duas variantes antes de uma viagem a Lisboa; esta página oferece orientação de viagem, não aulas de português europeu.
 
 ### Foco prático e no mundo real
 
@@ -160,7 +160,7 @@ Recomendo começar pelo menos 4 a 6 semanas antes da partida para um curso de vi
 
 ### Aprender português europeu será difícil se eu só conheço português brasileiro?
 
-Falantes de português brasileiro e europeu geralmente conseguem se entender. As principais diferenças estão na pronúncia, em parte do vocabulário e no uso dos verbos. Barbara pode ensinar as variantes europeias e também explicar como elas diferem do português brasileiro. Se você já conhece português brasileiro, a transição para o português europeu é muito mais fácil.
+Falantes de português brasileiro e europeu geralmente conseguem se entender. As principais diferenças estão na pronúncia, em parte do vocabulário e no uso dos verbos. Barbara pode explicar essas variantes europeias enquanto ensina português brasileiro. Se você já conhece português brasileiro, a transição para o português europeu é muito mais fácil.
 
 ### E se eu nunca estudei português antes?
 
@@ -168,7 +168,7 @@ Tudo bem! O curso de viagem a Lisboa foi criado para iniciantes completos. Barba
 
 ### Preciso aprender português europeu ou português brasileiro para Lisboa?
 
-O português europeu é a escolha natural para Lisboa, pois é a variante local. Falantes de português brasileiro serão compreendidos em Lisboa, mas aprender português europeu demonstra respeito cultural e ajuda você a soar mais autêntico. Barbara ensina português europeu especificamente para Lisboa, incluindo vocabulário e pronúncia locais.
+O português europeu é a escolha natural para Lisboa, pois é a variante local. Falantes de português brasileiro serão compreendidos em Lisboa, e aprender vocabulário local ajuda você a se comunicar com respeito. Barbara ensina português brasileiro e pode explicar os termos e a pronúncia locais que você encontrará em Lisboa.
 
 ### Você pode ensinar português específico para o meu roteiro em Lisboa?
 
@@ -178,7 +178,7 @@ Sim! Antes de começar, conversaremos sobre seus planos específicos de viagem: 
 
 O português europeu tem mais sons de vogais fechadas e redução de vogais átonas, o que faz com que soe mais rápido e mais truncado do que o português brasileiro. Alguns alunos consideram o português europeu mais difícil de entender no início, mas a língua escrita é muito parecida e as diferenças gramaticais são administráveis. O método de ensino de Barbara torna ambas as variantes acessíveis.
 
-[Veja todos os cursos de viagem](/pt-br/portugues-para-viagens/) [Reserve sua consulta gratuita](/pt-br/contato-professora-portugues/)
+[Veja todos os cursos de viagem](/pt-br/portugues-para-viagens/) [Entre em contato sobre sua viagem a Lisboa](/pt-br/contato-professora-portugues/)
 
 ## “Aprender é viver!”
 

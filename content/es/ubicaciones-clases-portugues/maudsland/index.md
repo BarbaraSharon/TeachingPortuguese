@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Maudsland con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Maudsland es un tranquilo suburbio semirrural del interior de Gold Coast, conocido por sus propiedades espaciosas y ambiente familiar. Con 8.073 habitantes según el censo de 2021, la zona cuenta con una comunidad diversa: el 35,1 % de los residentes nació en el extranjero. Este carácter internacional es ideal para que quienes aprenden portugués conecten con diferentes culturas e idiomas. El alumnado de Maudsland puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Maudsland forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Maudsland está situada en Australia. Esta página mantiene la referencia local específica de Maudsland, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Maudsland: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Maudsland: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,14 +43,14 @@ Aprender portugués en Maudsland te acerca a una rica tradición lingüística q
 Tanto si eres principiante absoluto como si buscas fluidez, puedes aprovechar las [clases de portugués para principiantes](/es/servicios-clases-portugues/) o unirte a las [clases de conversación](/es/servicios-clases-portugues/) para ganar confianza al hablar. «Aprender português é como abrir uma porta para o mundo.» («Aprender portugués es como abrir una puerta al mundo.»)
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Barbara puede ayudarte a comprender las diferencias entre el portugués brasileño y europeo, el contexto cultural y las destrezas de conversación necesarias para comunicarte auténticamente. Ofrece clases presenciales en Surfers Paradise y sesiones en línea para estudiantes de toda Australia.
+Barbara puede ayudarte a comprender las diferencias entre el portugués brasileño, el contexto cultural y las destrezas de conversación necesarias para comunicarte auténticamente. Ofrece clases presenciales en Surfers Paradise y sesiones en línea para estudiantes de toda Australia.
 
 También imparte clases grupales y tutorías particulares, incluido un club de conversación para practicar en un entorno de apoyo. Consulta los [servicios de enseñanza](/es/servicios-clases-portugues/) o contacta directamente con Barbara en la página de [contacto](/es/contacto-profesora-portugues/).
 
@@ -66,6 +66,6 @@ El alumnado de Maudsland puede beneficiarse de horarios flexibles y métodos de 
 
 Las clases en línea utilizan herramientas interactivas y recursos multimedia. Recibirás materiales adaptados a tus intereses y objetivos. Tanto si empiezas como si aspiras a la fluidez, el enfoque garantiza una experiencia personalizada y dinámica. Explora las [clases de portugués cerca de Maudsland](/es/servicios-clases-portugues/) o encuentra una [profesora de portugués cerca de ti](/es/contacto-profesora-portugues/) mediante los servicios.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Te interesa aprender portugués en Maudsland? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte. Aprende con una [profesora de portugués cualificada](/es/contacto-profesora-portugues/) o consulta las [clases de portugués disponibles](/es/servicios-clases-portugues/).
+¿Te interesa aprender portugués en Maudsland? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte. Aprende con una [profesora de portugués cualificada](/es/contacto-profesora-portugues/) o consulta las [clases de portugués disponibles](/es/servicios-clases-portugues/).

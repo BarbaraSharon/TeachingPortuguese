@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Jacobs Well com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Jacobs Well é um tranquilo subúrbio à beira d’água no norte da Gold Coast, conhecido por sua beleza cênica e comunidade unida. Com uma população de cerca de 2.882 residentes, é um refúgio pacífico que atrai entusiastas de navegação e pesca. A crescente presença brasileira na região faz dela um lugar ideal para se conectar à cultura e à língua portuguesas por meio de aulas imersivas em Jacobs Well. Os alunos de Jacobs Well podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Jacobs Well faz parte do fuso horário regional de Gold Coast usado para organizar horários. Jacobs Well fica em Australia. Esta página mantém a referência local específica de Jacobs Well, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Jacobs Well: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Jacobs Well: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -51,7 +51,7 @@ Barbara Sharon é uma professora de português experiente, com sólida formaçã
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Com sua experiência, Barbara ajuda os alunos a navegar pelas diferenças entre o português brasileiro e europeu, compreender nuances culturais e desenvolver habilidades autênticas de conversação. Se você procura uma professora de português brasileiro em Jacobs Well ou uma professora particular de português em Jacobs Well, ela oferece aulas individuais e em grupo, adaptadas ao seu estilo de aprendizagem.
+Com sua experiência, Barbara ajuda os alunos a navegar pelas diferenças entre o português brasileiro, compreender nuances culturais e desenvolver habilidades autênticas de conversação. Se você procura uma professora de português brasileiro em Jacobs Well ou uma professora particular de português em Jacobs Well, ela oferece aulas individuais e em grupo, adaptadas ao seu estilo de aprendizagem.
 
 Barbara também conduz um clube de conversação para estudantes que desejam praticar português em um ambiente descontraído. Para mais informações sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
 
@@ -67,10 +67,10 @@ Aulas presenciais de português estão disponíveis em Surfers Paradise e nos su
 
 Nossas aulas presenciais proporcionam um ambiente estruturado e envolvente, no qual você pode praticar a fala com outros alunos. Você receberá materiais personalizados e alinhados aos seus interesses e objetivos - sejam aulas de português para iniciantes em Jacobs Well ou orientação avançada de conversação.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Está pronto para começar a aprender português em Jacobs Well? Entre em contato com Barbara Sharon hoje para uma aula experimental gratuita e vivencie de perto sua abordagem singular de ensino. Quer você seja iniciante completo ou queira melhorar sua fluência, ela está aqui para apoiar sua jornada.
+Está pronto para começar a aprender português em Jacobs Well? Entre em contato com Barbara Sharon hoje para uma aulas de português e vivencie de perto sua abordagem singular de ensino. Quer você seja iniciante completo ou queira melhorar sua fluência, ela está aqui para apoiar sua jornada.
 
 Saiba mais sobre seus [serviços de tutoria de português](/pt-br/aulas-de-portugues/) e entre em contato pela página de [contato](/pt-br/contato-professora-portugues/).
 
-Agende uma aula experimental gratuita e dê o primeiro passo para aprender português brasileiro.
+Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.

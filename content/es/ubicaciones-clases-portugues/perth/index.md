@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Perth"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Perth. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Perth forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Perth está situada en Australia. Esta página mantiene la referencia local específica de Perth, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Perth forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Perth está situada en Australia. Esta página mantiene la referencia local específica de Perth, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Perth: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Perth; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Perth: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Perth, la mayor ciudad del oeste de Australia, alberga más de 2,3 millones de residentes y cuenta con un rico entorno multicultural. Con un 54,1 % de población nacida en el extranjero, ofrece un marco ideal para quienes aprenden idiomas. La creciente comunidad brasileña, con más de 3.291 residentes nacidos en Brasil, aporta experiencias culturales dinámicas que enriquecen el aprendizaje.
 
-Tanto si eres principiante como si deseas mejorar la conversación, nuestras clases de portugués en línea en Perth ofrecen enseñanza flexible y personalizada. El enfoque experto de Barbara Sharon garantiza un aprendizaje eficaz según tus metas, tanto si estudias portugués brasileño como europeo.
+Tanto si eres principiante como si deseas mejorar la conversación, nuestras clases de portugués en línea en Perth ofrecen enseñanza flexible y personalizada. El enfoque experto de Barbara Sharon garantiza un aprendizaje eficaz según tus metas, tanto si estudias portugués brasileño.
 ## ¿Por qué aprender portugués en Perth?
 
 El carácter internacional de Perth la convierte en un lugar excelente para la educación lingüística. A pesar de estar en Australia, la ciudad ofrece acceso a comunidades culturales diversas, incluidas poblaciones brasileñas y portuguesas importantes. Eventos como Brazilian Beach Carnaval en Scarborough, organizados por grupos locales como Projeto Cabana y BrazilWA, acercan al alumnado a hablantes nativos.
@@ -41,14 +41,14 @@ El carácter internacional de Perth la convierte en un lugar excelente para la e
 Brasil alberga la mayor población lusófona del mundo. Aprender portugués brasileño abre las puertas a un paisaje lingüístico y cultural dinámico. Desde la música y el cine hasta los estilos de comunicación cotidianos, comprender portugués brasileño ofrece una perspectiva única de esta lengua vibrante.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués brasileño en Perth altamente cualificada y con amplia experiencia en portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués brasileño en Perth altamente cualificada y con amplia experiencia en portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora y puente cultural
 
-Barbara ofrece clases particulares y grupales de portugués en Perth, centradas en fluidez conversacional y comprensión cultural. Ayuda a desenvolverse entre las diferencias entre portugués brasileño y europeo, con comunicación clara y relevancia para el mundo real.
+Barbara ofrece clases particulares y grupales de portugués en Perth, centradas en fluidez conversacional y comprensión cultural. Ayuda a desenvolverse entre las diferencias entre portugués brasileño, con comunicación clara y relevancia para el mundo real.
 
 Tanto si empiezas desde cero como si deseas perfeccionar tus habilidades, sus métodos estructurados y atractivos hacen que aprender sea agradable y eficaz. Para conocer más sobre sus [servicios](/es/servicios-clases-portugues/), contacta con Barbara directamente mediante [contacto](/es/contacto-profesora-portugues/).
 ## La importancia global del portugués

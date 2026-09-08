@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Jacobs Well with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Jacobs Well is a serene, waterside suburb on the northern Gold Coast, known for its scenic beauty and tight-knit community. With a population of around 2,882 residents, it’s a peaceful haven that attracts boating and fishing enthusiasts. The growing Brazilian presence in the area makes it an ideal place to connect with Portuguese culture and language through immersive lessons in Jacobs Well. Learners in Jacobs Well can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Jacobs Well is grouped in the Gold Coast regional time zone used for scheduling. Jacobs Well is located in Australia. This page keeps the local reference specific to Jacobs Well while the teaching service remains online-first."
 scheduling: "Scheduling from Jacobs Well: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Jacobs Well: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -62,8 +62,8 @@ Learning Portuguese in Jacobs Well opens doors to a diverse linguistic landscape
 In-person Portuguese lessons are available in Surfers Paradise and surrounding Gold Coast suburbs. For those who prefer remote learning or have busy schedules, online lessons are also offered. Both group and private sessions ensure flexibility based on your needs.
 
 Our in-person classes provide a structured yet engaging environment where you can practice speaking with fellow students. You’ll receive personalized materials aligned with your interests and goals - whether that’s beginner Portuguese lessons Jacobs Well or advanced conversation coaching.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Ready to start learning Portuguese in Jacobs Well? Contact Barbara Sharon today for a free trial lesson and experience her unique teaching approach firsthand. Whether you’re a complete beginner or aiming to improve your fluency, she’s here to support your journey.
+Ready to start learning Portuguese in Jacobs Well? Contact Barbara Sharon today for a Portuguese lesson and experience her unique teaching approach firsthand. Whether you’re a complete beginner or aiming to improve your fluency, she’s here to support your journey.
 
 Find out more about her [Portuguese tutor services](/en/portuguese-teaching-services/)and get in touch via the [Contact](/en/contact-portuguese-teacher/)page.

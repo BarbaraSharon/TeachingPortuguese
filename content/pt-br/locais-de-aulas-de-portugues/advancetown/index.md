@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Advancetown com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Advancetown, um subúrbio tranquilo e pitoresco do interior da Gold Coast, em Queensland, oferece um cenário ideal para uma aprendizagem de idiomas concentrada. Com uma comunidade pequena, mas vibrante, de cerca de 528 moradores, esta área serena proporciona tranquilidade, permanecendo próxima de grandes cidades como Brisbane e Surfers Paradise. Os alunos de Advancetown podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Advancetown faz parte do fuso horário regional de Gold Coast usado para organizar horários. Advancetown fica em Australia. Esta página mantém a referência local específica de Advancetown, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Advancetown: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Advancetown: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,8 +55,8 @@ Barbara Sharon oferece formatos versáteis de aprendizagem, incluindo aulas onli
 
 Para alunos de Advancetown, as aulas presenciais de português acontecem em Surfers Paradise, a uma curta distância. Como alternativa, as aulas online estão disponíveis para quem prefere a aprendizagem remota. Visite a página de [serviços](/pt-br/aulas-de-portugues/) para explorar as opções de tutoria em grupo e individual. Se você procura uma “professora de português brasileiro perto de mim em Advancetown” ou quer agendar “aulas de português em Surfers Paradise”, Barbara tem algo para todos.
 
-## Comece sua jornada hoje - Aula experimental gratuita disponível
+## Comece sua jornada hoje - Opções de aulas disponíveis
 
-Pronto para começar sua jornada de aprendizagem do português brasileiro? Entre em contato hoje com Barbara Sharon para uma aula experimental gratuita e descubra como a aprendizagem de idiomas pode ser agradável e possível. Com sua experiência, atenção personalizada e estilo de ensino envolvente, você ganhará rapidamente confiança para falar português naturalmente.
+Pronto para começar sua jornada de aprendizagem do português brasileiro? Entre em contato hoje com Barbara Sharon para uma aulas de português e descubra como a aprendizagem de idiomas pode ser agradável e possível. Com sua experiência, atenção personalizada e estilo de ensino envolvente, você ganhará rapidamente confiança para falar português naturalmente.
 
 Se você procura uma [tutora de português perto de mim](/pt-br/aulas-de-portugues/) ou uma [professora de português brasileiro em Advancetown](/pt-br/contato-professora-portugues/), Barbara está aqui para orientar você em cada etapa. ¡Vamos a aprender! (Vamos começar a aprender!)

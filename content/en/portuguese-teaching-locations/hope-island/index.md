@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Hope Island with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Hope Island is a vibrant and multicultural suburb on the northern Gold Coast, home to a diverse population of 14,522 residents. With nearly half of its population born overseas, the area offers a welcoming environment for language learners interested in studying Portuguese. Whether you’re a beginner or advanced learner, Barbara Sharon provides personalized Portuguese instruction tailored to your goals and learning style. Learners in Hope Island can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Hope Island is grouped in the Gold Coast regional time zone used for scheduling. Hope Island is located in Australia. This page keeps the local reference specific to Hope Island while the teaching service remains online-first."
 scheduling: "Scheduling from Hope Island: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hope Island: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Barbara offers a variety of lesson formats to suit your needs. From one-on-one p
 In-person Portuguese lessons are available in Surfers Paradise for students in Hope Island. Online lessons also available through [Services](/en/portuguese-teaching-services/).
 ## Start Your Portuguese Journey Today in Hope Island
 
-Ready to begin learning Portuguese in Hope Island? Contact Barbara Sharon for a free trial lesson and discover how easy it is to start speaking Brazilian Portuguese confidently. Whether you're interested in Brazilian Portuguese tutor Hope Island , conversational Portuguese classes Hope Island, or just want to explore your language options, Barbara provides expert instruction tailored to your goals.
+Ready to begin learning Portuguese in Hope Island? Contact Barbara Sharon for a Portuguese lesson and discover how easy it is to start speaking Brazilian Portuguese confidently. Whether you're interested in Brazilian Portuguese tutor Hope Island , conversational Portuguese classes Hope Island, or just want to explore your language options, Barbara provides expert instruction tailored to your goals.
 
 Explore our [Services](/en/portuguese-teaching-services/)or reach out via [Contact](/en/contact-portuguese-teacher/)to get started on your journey today. Fala português? (Do you speak Portuguese?) Let Barbara help you unlock the beauty and richness of this beautiful language!

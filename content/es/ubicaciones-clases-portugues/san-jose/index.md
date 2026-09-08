@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde San Jose. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "San Jose está situada en United States. San Jose forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de San Jose, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "San Jose forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. San Jose está situada en United States. Esta página mantiene la referencia local específica de San Jose, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para San Jose: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en San Jose: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués en San José: clases de portugués brasileño y europeo
+## Aprende portugués en San José: clases de portugués brasileño
 
 San José es una ciudad vibrante de California, con una población diversa de más de 997.368 residentes. Con una importante comunidad lusófona de alrededor de 4.172 personas, ofrece oportunidades únicas para que estudiantes de idiomas se sumerjan en las ricas tradiciones culturales de Brasil y Portugal. Tanto si te interesan clases de portugués brasileño como explorar el patrimonio lingüístico de Portugal, San José proporciona un entorno ideal para aprender.
 
@@ -43,14 +43,14 @@ La presencia de grupos comunitarios portugueses y brasileños, como Portuguese H
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño y europeo, el contexto cultural y las habilidades de conversación que te permitirán relacionarte auténticamente con hablantes nativos. Tanto si te interesan conexiones de negocios con Brasil como si simplemente quieres apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
+Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño, el contexto cultural y las habilidades de conversación que te permitirán relacionarte auténticamente con hablantes nativos. Tanto si te interesan conexiones de negocios con Brasil como si simplemente quieres apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
 
 Como tutora dedicada de portugués en línea radicada en San José, ofrece clases grupales y particulares, con atención personalizada y horarios flexibles. Explora toda su gama de clases en la página de [servicios](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).
 

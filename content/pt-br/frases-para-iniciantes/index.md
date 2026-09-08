@@ -125,6 +125,6 @@ Sim. O português brasileiro é muito acessível para iniciantes. Todo mundo com
 
 Aprender algumas frases úteis é a maneira mais rápida de começar a falar português com confiança. Pratique-as todos os dias, use-as sempre que puder e concentre-se na comunicação, e não na perfeição.
 
-[Agende sua aula experimental gratuita](/pt-br/contato-professora-portugues/)
+[Agende sua aulas de português](/pt-br/contato-professora-portugues/)
 
 [Explore os serviços de português](/pt-br/aulas-de-portugues/)

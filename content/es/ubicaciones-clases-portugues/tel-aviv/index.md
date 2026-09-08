@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Jerusalem"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Tel Aviv. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Tel Aviv está situada en Israel. Tel Aviv forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Tel Aviv, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Tel Aviv forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Tel Aviv está situada en Israel. Esta página mantiene la referencia local específica de Tel Aviv, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Tel Aviv: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Jerusalem; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Tel Aviv: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -66,4 +66,4 @@ La diversidad cultural y las conexiones internacionales de la ciudad la conviert
 
 Barbara Sharon imparte clases de portugués en línea a estudiantes de Tel Aviv. Su formato flexible permite sesiones individuales y grupales, por lo que es fácil integrar el aprendizaje del idioma en tu horario. Tanto si buscas una tutora particular de portugués en Tel Aviv como si prefieres el entorno colaborativo de las clases grupales, su enfoque garantiza un progreso eficaz.
 
-Sus clases en línea usan herramientas interactivas y recursos multimedia para que aprender resulte atractivo y eficaz. Recibirás materiales adaptados a tus intereses y objetivos específicos, con los que podrás explorar la cultura portuguesa mediante contenido auténtico. Con atención al portugués brasileño y europeo, sus cursos responden a necesidades diversas, desde la preparación para viajar hasta el desarrollo profesional.
+Sus clases en línea usan herramientas interactivas y recursos multimedia para que aprender resulte atractivo y eficaz. Recibirás materiales adaptados a tus intereses y objetivos específicos, con los que podrás explorar la cultura portuguesa mediante contenido auténtico. Con atención al portugués brasileño, sus cursos responden a necesidades diversas, desde la preparación para viajar hasta el desarrollo profesional.

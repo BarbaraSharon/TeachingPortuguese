@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Seville. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Seville is grouped in the Europe location set used for local scheduling and learner guidance. Seville is located in Spain. This page keeps the local reference specific to Seville while the teaching service remains online-first."
+local_context: "Seville is grouped in the Europe regional time zone used for scheduling. Seville is located in Spain. This page keeps the local reference specific to Seville while the teaching service remains online-first."
 scheduling: "Scheduling from Seville: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Madrid; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Seville: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Seville’s strategic position in southern Spain makes it a gateway to both Euro
 Learning Portuguese in Seville is especially valuable for those interested in Brazil - home to the largest Portuguese-speaking population globally. Brazilian Portuguese differs significantly from European Portuguese in pronunciation, vocabulary, and expression. Whether your goal is business communication or cultural appreciation, Seville offers a dynamic setting to develop these skills.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

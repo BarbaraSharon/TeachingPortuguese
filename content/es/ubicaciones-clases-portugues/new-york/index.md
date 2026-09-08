@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde New York. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "New York está situada en United States. New York forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de New York, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "New York forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. New York está situada en United States. Esta página mantiene la referencia local específica de New York, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para New York: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en New York: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ La ciudad también cuenta con importantes conexiones empresariales con Brasil a 
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora dedicada de portugués, con amplia experiencia enseñando portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora dedicada de portugués, con amplia experiencia enseñando portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -51,7 +51,7 @@ Barbara Sharon es una profesora dedicada de portugués, con amplia experiencia e
 - Orientadora
 - Maestría en Estudios Educativos y Gestión del Comportamiento, en curso
 
-Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño y europeo, el contexto cultural y las habilidades de conversación para relacionarte auténticamente con hablantes nativos. Como tutora particular de portugués en Nueva York, ofrece sesiones individuales y grupales en línea, lo que facilita estudiar desde cualquier punto de la ciudad.
+Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño, el contexto cultural y las habilidades de conversación para relacionarte auténticamente con hablantes nativos. Como tutora particular de portugués en Nueva York, ofrece sesiones individuales y grupales en línea, lo que facilita estudiar desde cualquier punto de la ciudad.
 
 ## El portugués como lengua global
 
@@ -63,8 +63,8 @@ Aprender portugués en Nueva York te da acceso a una rica tradición lingüísti
 
 Hay clases particulares y grupales de portugués en línea en Nueva York mediante los servicios de Barbara Sharon. Estas clases emplean herramientas interactivas y recursos multimedia para que aprender resulte atractivo y eficaz. Recibirás materiales adaptados a tus intereses y objetivos, tanto si te interesan clases de portugués brasileño para principiantes como clases avanzadas de conversación.
 
-Barbara ofrece horarios flexibles en sus [servicios de enseñanza de portugués](/es/servicios-clases-portugues/), por lo que estudiantes de toda la ciudad pueden sumarse a sus sesiones. Para quienes buscan una clase de prueba gratuita, invita a [contactarla directamente](/es/contacto-profesora-portugues/) y descubrir cómo su enfoque puede apoyar su recorrido lingüístico.
+Barbara ofrece horarios flexibles en sus [servicios de enseñanza de portugués](/es/servicios-clases-portugues/), por lo que estudiantes de toda la ciudad pueden sumarse a sus sesiones. Para quienes buscan una clases de portugués, invita a [contactarla directamente](/es/contacto-profesora-portugues/) y descubrir cómo su enfoque puede apoyar su recorrido lingüístico.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Te interesa aprender portugués en Nueva York? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido con clases personalizadas de portugués brasileño cerca de ti.
+¿Te interesa aprender portugués en Nueva York? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido con clases personalizadas de portugués brasileño cerca de ti.

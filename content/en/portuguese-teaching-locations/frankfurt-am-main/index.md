@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Frankfurt Am Main. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Frankfurt Am Main is grouped in the Europe location set used for local scheduling and learner guidance. Frankfurt Am Main is located in Germany. This page keeps the local reference specific to Frankfurt Am Main while the teaching service remains online-first."
+local_context: "Frankfurt Am Main is grouped in the Europe regional time zone used for scheduling. Frankfurt Am Main is located in Germany. This page keeps the local reference specific to Frankfurt Am Main while the teaching service remains online-first."
 scheduling: "Scheduling from Frankfurt Am Main: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Frankfurt Am Main: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Brazilian & European Portuguese in Frankfurt am Main | Online Lessons
+## Learn Brazilian Portuguese in Frankfurt am Main | Online Lessons
 
 Frankfurt am Main, home to over 778,589 residents and more than 51.2% foreign-born individuals, is a dynamic international hub that offers unique opportunities for language learners. As a major European financial center, it's an ideal place to immerse yourself in the vibrant Portuguese-speaking culture of both Brazil and Portugal. Whether you're aiming to expand your professional network, connect with local communities, or explore the richness of Portuguese heritage, learning Portuguese here opens doors to exciting possibilities.
 
@@ -62,6 +62,6 @@ Whether you're seeking a Portuguese tutor near me in Frankfurt am Main or lookin
 Barbara Sharon specializes in Brazilian Portuguese lessons Frankfurt am Main and offers personalized courses for students interested in language proficiency, cultural understanding, or business communication. With online Portuguese tutor options available, she makes it easy to find a Portuguese teacher Frankfurt am Main who meets your specific needs.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Frankfurt am Main? Contact Barbara Sharon for a free trial lesson and start your language journey today! Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
+Interested in learning Portuguese in Frankfurt am Main? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
 
 For more information on services offered, visit our [Services](/en/portuguese-teaching-services/)page. To get in touch, use the [Contact](/en/contact-portuguese-teacher/)form to book your first lesson.

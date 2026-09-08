@@ -4,7 +4,7 @@ translationKey: answer-portuguese-lesson-cost-australia
 type: answers
 description: "Understand what affects Portuguese lesson costs in Australia, what to compare in a quote, and how private, group and online formats differ."
 question: "How Much Do Portuguese Lessons Cost in Australia?"
-direct_answer: "Portuguese lesson costs in Australia vary by private or group format, lesson length, teaching experience, location and what is included between sessions. Compare the complete offer rather than an hourly figure alone: live teaching time, individual feedback, materials, group size, cancellation terms and lesson frequency all affect value. Ask the teacher for current pricing before making a decision."
+direct_answer: "Barbara's current prices start at [[term_10_week_price]] per student for a 10-week group term and [[private_4_week_price]] for a private 4-week package. Both options are available online worldwide and subject to current availability on the Gold Coast. All prices are in Australian dollars; confirm the applicable package and details with Barbara before booking."
 authors: [me]
 date: 2026-08-20
 lastmod: 2026-08-26
@@ -61,8 +61,18 @@ This gives you a practical basis for comparing teachers without relying on an un
 
 A traveller preparing for a specific trip may value targeted role-play and pronunciation feedback. A beginner may need a clear sequence of lessons and regular correction. Someone maintaining conversational Portuguese may prefer a group environment with varied speakers. The [private-versus-group comparison](/en/answers/private-vs-group-portuguese-lessons/) can help you choose the format before requesting prices.
 
-## Asking Barbara about current pricing
+## Barbara's current prices
 
-Barbara offers live [online Portuguese lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) for adults worldwide in private and group formats. In-person options on the Gold Coast are subject to current availability. Prices, schedules and available formats can change, so this page does not publish an unsupported fixed figure.
+Barbara's current starting prices are:
+
+- 1-hour group course — 10-week term, one lesson per week: from {{< lesson-price "term_10_week" >}} per student per term.
+- 1.5-hour group course — 10-week term, one lesson per week: {{< lesson-price "term_10_week_1_5_hour" >}} per student per term.
+- Digital book: from {{< lesson-price "book_digital" >}}. Hard-copy book: {{< lesson-price "book_hard_copy" >}}.
+- Private 4-lesson package — one 1-hour lesson per week for four weeks: from {{< lesson-price "private_4_week" >}}.
+- Casual private lesson — one hour: {{< lesson-price "private_casual" >}} per lesson.
+- Private lessons of 1.5 or 2 hours: contact Barbara to enquire about availability and pricing.
+- Speaking Club: {{< lesson-price "speaking_club_enrolled" >}} for enrolled students and {{< lesson-price "speaking_club_non_enrolled" >}} per session for non-enrolled students.
+
+All prices are in Australian dollars. The [online Portuguese lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) are available worldwide, and Gold Coast options depend on current availability. Contact Barbara to confirm the applicable package and details before booking.
 
 When you [contact Barbara](/en/contact-portuguese-teacher/), include your current level, goal, location or time zone, preferred format and general availability. That information makes it possible to discuss the relevant option and its current cost.

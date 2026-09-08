@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Geneva. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Geneva está situada en Switzerland. Geneva forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Geneva, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Geneva forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Geneva está situada en Switzerland. Esta página mantiene la referencia local específica de Geneva, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Geneva: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Zurich; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Geneva: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Las clases particulares brindan atención individualizada para avanzar de forma 
 Combina gramática, vocabulario, práctica oral y contexto cultural para que se desarrollen tanto precisión lingüística como fluidez real. Tanto si te interesan las clases de portugués brasileño en Ginebra como clases de portugués general, su plataforma en línea flexible permite aprender a tu propio ritmo y horario.
 ## ¡Comienza hoy tu camino hacia la fluidez!
 
-¿Quieres empezar a aprender portugués en Ginebra? Reserva una clase de prueba gratuita con Barbara Sharon y conoce de primera mano su estilo dinámico de enseñanza. Tanto si buscas una profesora de portugués brasileño como clases de conversación, ofrece sesiones en línea adaptables a tu estilo de vida y metas.
+¿Quieres empezar a aprender portugués en Ginebra? Reserva una clases de portugués con Barbara Sharon y conoce de primera mano su estilo dinámico de enseñanza. Tanto si buscas una profesora de portugués brasileño como clases de conversación, ofrece sesiones en línea adaptables a tu estilo de vida y metas.
 
 Con un profundo aprecio por la cultura y la lengua brasileñas, Barbara ayuda al alumnado a conectar no solo con las palabras, sino también con el espíritu de las comunidades lusófonas. ¡Únete hoy y da tu primer paso para dominar el portugués brasileño en el corazón de Europa!

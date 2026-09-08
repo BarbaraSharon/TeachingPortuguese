@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Edinburgh. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Edinburgh forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Edinburgh está situada en United Kingdom. Esta página mantiene la referencia local específica de Edinburgh, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Edinburgh forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Edinburgh está situada en United Kingdom. Esta página mantiene la referencia local específica de Edinburgh, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Edinburgh: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/London; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Edinburgh: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -53,4 +53,4 @@ Barbara Sharon ofrece clases particulares y grupales de portugués en línea en 
 Como profesora comprometida, Barbara estructura cada sesión para desarrollar confianza y fluidez. Para más información sobre sus [servicios](/es/servicios-clases-portugues/), contacta con Barbara mediante la sección de [contacto](/es/contacto-profesora-portugues/).
 ## Empieza hoy tu camino
 
-¿Quieres empezar a aprender portugués en Edimburgo? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza tu camino hacia el dominio del portugués brasileño o europeo. Tanto si te interesan clases de conversación, lecciones para principiantes o enseñanza avanzada, ofrece horarios flexibles y apoyo personalizado para ayudarte a alcanzar tus metas lingüísticas.
+¿Quieres empezar a aprender portugués en Edimburgo? Contacta con Barbara Sharon para una clases de portugués y comienza tu camino hacia el dominio del portugués brasileño. Tanto si te interesan clases de conversación, lecciones para principiantes o enseñanza avanzada, ofrece horarios flexibles y apoyo personalizado para ayudarte a alcanzar tus metas lingüísticas.

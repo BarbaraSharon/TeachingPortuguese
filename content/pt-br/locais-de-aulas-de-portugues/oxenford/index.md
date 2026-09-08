@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Oxenford. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Oxenford está localizada em Australia. Oxenford faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Oxenford, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Oxenford faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Oxenford fica em Australia. Esta página mantém a referência local específica de Oxenford, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Oxenford: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Oxenford: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ Com cerca de 2.707 residentes de língua portuguesa em Oxenford, de acordo com o
 
 ## Como Barbara Sharon torna aprender português divertido e eficaz
 
-Barbara Sharon traz ampla experiência no ensino de português brasileiro e europeu para suas aulas. Suas qualificações incluem Bacharelado em Línguas e Literatura pela Universidade Federal do Rio de Janeiro (UFRJ) e certificação TESOL. Fluente em inglês, português, italiano e espanhol, ela entende como tornar a aprendizagem de idiomas envolvente e prática.
+Barbara Sharon traz ampla experiência no ensino de português brasileiro para suas aulas. Suas qualificações incluem Bacharelado em Línguas e Literatura pela Universidade Federal do Rio de Janeiro (UFRJ) e certificação TESOL. Fluente em inglês, português, italiano e espanhol, ela entende como tornar a aprendizagem de idiomas envolvente e prática.
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -68,8 +68,8 @@ Leve sua jornada no português mais longe com aulas online desenvolvidas especif
 
 Explore aulas de português brasileiro em Oxenford ou aulas de português europeu por meio de plataformas digitais que dão vida ao idioma. Aprenda português em Oxenford com confiança e conveniência - em qualquer lugar, a qualquer hora.
 
-## Comece sua jornada hoje - aula experimental gratuita disponível
+## Comece sua jornada hoje - aulas de português disponível
 
-Você está pronto para começar a aprender português em Oxenford? Agende uma aula experimental gratuita com Barbara Sharon e conheça de perto seu estilo de ensino envolvente. Quer você esteja interessado em [aulas de português para iniciantes em Oxenford](/pt-br/aulas-de-portugues/), [aulas de conversação em português em Oxenford](/pt-br/aulas-de-portugues/) ou em se conectar com uma [professora nativa de português em Oxenford](/pt-br/contato-professora-portugues/), ela está aqui para apoiar sua jornada no idioma.
+Você está pronto para começar a aprender português em Oxenford? Agende uma aulas de português com Barbara Sharon e conheça de perto seu estilo de ensino envolvente. Quer você esteja interessado em [aulas de português para iniciantes em Oxenford](/pt-br/aulas-de-portugues/), [aulas de conversação em português em Oxenford](/pt-br/aulas-de-portugues/) ou em se conectar com uma [professora nativa de português em Oxenford](/pt-br/contato-professora-portugues/), ela está aqui para apoiar sua jornada no idioma.
 
 Para mais informações, visite a [página de contato](/pt-br/contato-professora-portugues/) ou explore nossa gama completa de serviços na página de [aulas de português](/pt-br/aulas-de-portugues/).

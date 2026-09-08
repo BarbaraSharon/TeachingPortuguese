@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Melbourne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Melbourne is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. Melbourne is located in Australia. This page keeps the local reference specific to Melbourne while the teaching service remains online-first."
+local_context: "Melbourne is grouped in the Australia & New Zealand regional time zone used for scheduling. Melbourne is located in Australia. This page keeps the local reference specific to Melbourne while the teaching service remains online-first."
 scheduling: "Scheduling from Melbourne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Melbourne; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Melbourne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Melbourne - Brazilian & European Portuguese Classes
+## Learn Portuguese in Melbourne - Brazilian Portuguese Classes
 
 Melbourne, Australia's second-largest city and a multicultural hub, is home to over 5.3 million people, with more than half being foreign-born. This vibrant diversity makes it an ideal place to learn Portuguese, especially for those interested in connecting with the rich Brazilian and Portuguese-speaking communities.
 
@@ -49,7 +49,7 @@ Cultural groups like the Portuguese Speaking Communities In Victoria and the Por
 Learning Portuguese in Melbourne not only opens doors to Brazilian culture but also gives you insight into the global significance of this Romance language, which is spoken by over 267 million people worldwide. As one of the world's most widely spoken languages, mastering Portuguese can enhance your career prospects and personal connections across multiple continents.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a certified Portuguese language instructor with a strong educational background and extensive experience teaching both Brazilian and European Portuguese. Her qualifications include:
+Barbara Sharon is a certified Portuguese language instructor with a strong educational background and extensive experience teaching Brazilian Portuguese. Her qualifications include:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, and Spanish
@@ -66,8 +66,8 @@ Melbourne's multicultural environment supports not only language learning but al
 Students in Melbourne can enjoy the convenience of flexible scheduling and interactive learning methods through online Portuguese lessons . Barbara Sharon's classes are designed to meet learners at every level, from complete beginners to advanced speakers.
 
 Her lessons use multimedia tools and engaging content tailored to your specific interests-whether you're seeking beginner Portuguese lessons in Melbourne or advanced conversational classes. Whether you're a Brazilian Portuguese learner or studying European Portuguese, her services make it easy to find the right Portuguese class in Melbourne.
-## Start Your Journey Today - Free Trial Lesson Available!
+## Start Your Journey Today - Portuguese Lesson Available!
 
-Ready to begin your Portuguese learning journey in Melbourne? Contact Barbara Sharon for a free trial lesson and experience her unique teaching approach firsthand. Whether you're a complete beginner or looking to improve your fluency, she's here to guide you toward success.
+Ready to begin your Portuguese learning journey in Melbourne? Contact Barbara Sharon for a Portuguese lesson and experience her unique teaching approach firsthand. Whether you're a complete beginner or looking to improve your fluency, she's here to guide you toward success.
 
 With options for both private Portuguese tutor Melbourne and group Portuguese lessons Melbourne, there's something for every learner. Start today and unlock the beauty of Portuguese language and culture!

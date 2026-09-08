@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Foxwell com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Foxwell é um bairro vibrante e dinâmico na Gold Coast, conhecido por sua crescente comunidade multicultural e pelas oportunidades de desenvolvimento pessoal. Embora dados específicos sobre as populações brasileira ou portuguesa em Foxwell não estejam disponíveis, a proximidade da região com Surfers Paradise e sua reputação como um polo internacional fazem dela um lugar ideal para estudantes de idiomas que buscam experiências culturais autênticas. Isso torna Foxwell um ótimo local para quem tem interesse nos serviços de uma professora de português brasileiro ou em aulas de português perto de Foxwell. Os alunos de Foxwell podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Foxwell faz parte do fuso horário regional de Gold Coast usado para organizar horários. Foxwell fica em Australia. Esta página mantém a referência local específica de Foxwell, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Foxwell: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Foxwell: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,6 +55,6 @@ As aulas presenciais de português perto de Foxwell estão disponíveis em Surfe
 
 ## Comece hoje sua jornada no português
 
-Se você quer aprender português em Foxwell, Barbara Sharon oferece uma aula experimental gratuita para ajudar você a começar. Com opções presenciais e online, incluindo serviços de professora particular de português e aulas em grupo, ela adapta seu ensino ao seu estilo de vida. Quer você tenha interesse no apoio de uma professora de português brasileiro ou em aulas de conversação em português em Foxwell, sua abordagem garante uma experiência de aprendizagem gratificante.
+Se você quer aprender português em Foxwell, Barbara Sharon oferece uma aulas de português para ajudar você a começar. Com opções presenciais e online, incluindo serviços de professora particular de português e aulas em grupo, ela adapta seu ensino ao seu estilo de vida. Quer você tenha interesse no apoio de uma professora de português brasileiro ou em aulas de conversação em português em Foxwell, sua abordagem garante uma experiência de aprendizagem gratificante.
 
 Para mais informações ou para agendar sua sessão, visite a página de [contato](/pt-br/contato-professora-portugues/) e dê hoje o primeiro passo rumo à fluência.

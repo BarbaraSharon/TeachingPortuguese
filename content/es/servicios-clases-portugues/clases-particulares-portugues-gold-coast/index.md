@@ -12,19 +12,20 @@ robots: index, follow, max-image-preview:large
 categories:
 - Servicios de enseñanza del portugués
 service:
-  service_type: Clases particulares presenciales de portugués brasileño
-  delivery: Gold Coast, Australia
+  service_type: Clases particulares de portugués brasileño online y presenciales
+  delivery: Online en todo el mundo; presenciales en Gold Coast
+  delivery_modes: [online, in_person]
   audience: Adultos principiantes, intermedios y avanzados; objetivos de negocios y viajes
   available_language: [pt-BR, en, es, it, fr]
 sections:
 - block: hero
   content:
-    eyebrow: Clases particulares presenciales · Gold Coast
-    title: Clases particulares presenciales de portugués en Gold Coast
-    text: Gana confianza con clases individuales y concentradas de portugués brasileño en Gold Coast. Tu nivel, ritmo y objetivos guían cada sesión.
+    eyebrow: Clases particulares · online y Gold Coast
+    title: Clases particulares de portugués brasileño online y en Gold Coast
+    text: Gana confianza con clases individuales y concentradas de portugués brasileño online en todo el mundo o en Gold Coast. Tu nivel, ritmo y objetivos guían cada sesión.
     primary_action:
       text: Consulta sobre las clases particulares
-      url: /es/contacto-profesora-portugues/
+      url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesan%20las%20clases%20particulares%20de%20portugu%C3%A9s%20brasile%C3%B1o.%20Mi%20nivel%20es%2C%20mi%20objetivo%20es%20y%20mi%20formato%20preferido%20es%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -42,7 +43,7 @@ sections:
   content:
     subtitle: Tutoría particular
     title: Un camino centrado desde tu punto de partida
-    text: Las clases particulares están disponibles presencialmente en Gold Coast y pueden adaptarse a estudiantes adultos.
+    text: Las clases particulares están disponibles online en todo el mundo y presencialmente en Gold Coast, y pueden adaptarse a estudiantes adultos.
     items:
     - name: Portugués para principiantes
       icon: hero/academic-cap
@@ -91,6 +92,26 @@ sections:
     text: Contacta con Barbara sobre las clases particulares
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Clases particulares
+    title: Clases particulares de portugués brasileño
+    text: Los precios actuales de Barbara se aplican a las clases online y en Gold Coast.
+    offers:
+    - id: private_4_week
+      title: Paquete privado de 4 clases
+      price_prefix: desde
+      text: Una clase de 1 hora por semana durante 4 semanas. Contacta con Barbara para confirmar la opción actual y la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    - id: private_casual
+      title: Clase suelta
+      price_prefix: ""
+      text: Una clase de 1 hora. Contacta con Barbara para consultar la disponibilidad y el precio de clases de 1,5 o 2 horas.
+      url: /es/contacto-profesora-portugues/
+    action_text: Consultar disponibilidad
+    currency_note: Todos los precios están en dólares australianos. Contacta con Barbara para confirmar la opción y la disponibilidad.
+
 - block: answer-links
   content:
     eyebrow: Antes de elegir

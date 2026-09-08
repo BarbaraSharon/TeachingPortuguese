@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Burnaby. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Burnaby faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Burnaby está localizada em Canada. Esta página mantém a referência local específica de Burnaby, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Burnaby faz parte do fuso horário regional de North America usado para organizar horários. Burnaby fica em Canada. Esta página mantém a referência local específica de Burnaby, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Burnaby: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Burnaby: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode aproveitar a conveniência de es
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português brasileiro em Burnaby? Agende uma aula experimental gratuita com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma professora de português perto de você em Burnaby, aulas de conversação em português em Burnaby ou aulas estruturadas de português online, sua abordagem foi criada para atender às suas necessidades individuais.
+Pronto para aprender português brasileiro em Burnaby? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma professora de português perto de você em Burnaby, aulas de conversação em português em Burnaby ou aulas estruturadas de português online, sua abordagem foi criada para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (“Fale comigo em português!”)

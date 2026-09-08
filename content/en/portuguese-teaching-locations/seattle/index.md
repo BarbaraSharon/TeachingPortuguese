@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Seattle. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Seattle is grouped in the North America location set used for local scheduling and learner guidance. Seattle is located in United States. This page keeps the local reference specific to Seattle while the teaching service remains online-first."
+local_context: "Seattle is grouped in the North America regional time zone used for scheduling. Seattle is located in United States. This page keeps the local reference specific to Seattle while the teaching service remains online-first."
 scheduling: "Scheduling from Seattle: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Seattle: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ Additional opportunities include events organized by Movimento Afrolatino Seattl
 Seattle's connections to Brazil through business initiatives like the Trade Development Alliance's "Brazil 2031" program further highlight the practical benefits of learning Portuguese here. Whether you're interested in business communication or cultural appreciation, learning Portuguese in Seattle opens new pathways for personal and professional growth.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

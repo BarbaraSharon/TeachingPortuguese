@@ -113,7 +113,7 @@ Absolutely! Many learners start with one variant and expand their knowledge to i
 
 Brazilian Portuguese has approximately 206 million speakers in Brazil alone, compared to about 10 million in Portugal. Brazilian Portuguese represents the vast majority of Portuguese speakers worldwide.
 
-[Explore My Portuguese Services](/en/portuguese-teaching-services/)[Book Your Free Consultation](/en/contact-portuguese-teacher/)
+[Explore My Portuguese Services](/en/portuguese-teaching-services/)[Contact Barbara about lesson options](/en/contact-portuguese-teacher/)
 
 ## Comparing Portuguese with Spanish
 

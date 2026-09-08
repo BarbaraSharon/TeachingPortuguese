@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from San Diego. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "San Diego is grouped in the North America location set used for local scheduling and learner guidance. San Diego is located in United States. This page keeps the local reference specific to San Diego while the teaching service remains online-first."
+local_context: "San Diego is grouped in the North America regional time zone used for scheduling. San Diego is located in United States. This page keeps the local reference specific to San Diego while the teaching service remains online-first."
 scheduling: "Scheduling from San Diego: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in San Diego: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in San Diego - Brazilian & European Portuguese Classes
+## Learn Portuguese in San Diego - Brazilian Portuguese Classes
 
 San Diego, California is a vibrant city known for its diverse cultural landscape. With over 1.38 million residents and a significant foreign-born population of 25.7%, the city offers an ideal environment for language learners to immerse themselves in the world of Portuguese. The presence of more than 6,759 Brazilian-born residents and an additional 9,259 Portuguese-born individuals creates a unique opportunity to study both Brazilian Portuguese and European Portuguese in a multicultural setting.
 
@@ -42,7 +42,7 @@ San Diego's multicultural environment provides rich opportunities for language l
 Learning Portuguese in San Diego allows you to explore not just grammar and vocabulary but also the cultural context behind the language. From bossa nova music to Brazilian cinema, from samba rhythms to everyday communication styles, the language reflects a vibrant and diverse heritage. Whether you're preparing for travel, business, or personal enrichment, San Diego gives you access to both local and global Portuguese-speaking communities.
 ## How Barbara Sharon Can Help You Learn Portuguese in San Diego
 
-Barbara Sharon is a passionate Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a passionate Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

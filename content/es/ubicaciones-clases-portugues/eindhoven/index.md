@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Eindhoven. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Eindhoven forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Eindhoven está situada en Netherlands. Esta página mantiene la referencia local específica de Eindhoven, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Eindhoven forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Eindhoven está situada en Netherlands. Esta página mantiene la referencia local específica de Eindhoven, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Eindhoven: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Eindhoven: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ Barbara Sharon imparte clases individuales y en grupos pequeños mediante plataf
 
 ## Empieza hoy tu camino hacia la fluidez
 
-¿Te interesa aprender portugués en Eindhoven? Barbara Sharon ofrece clases de portugués en línea para principiantes y estudiantes avanzados. Contacta hoy para reservar una clase de prueba gratuita y comenzar tu recorrido hacia la fluidez con una profesora nativa de portugués en Eindhoven.
+¿Te interesa aprender portugués en Eindhoven? Barbara Sharon ofrece clases de portugués en línea para principiantes y estudiantes avanzados. Contacta hoy para reservar una clases de portugués y comenzar tu recorrido hacia la fluidez con una profesora nativa de portugués en Eindhoven.

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bonn. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Bonn está localizada em Germany. Bonn faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Bonn, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Bonn faz parte do fuso horário regional de Europe usado para organizar horários. Bonn fica em Germany. Esta página mantém a referência local específica de Bonn, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Bonn: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bonn: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Se você procura aulas acolhedoras de português para iniciantes em Bonn ou aula
 
 ## Comece hoje sua jornada no português em Bonn
 
-Descubra a alegria e os benefícios de aprender português em Bonn com Barbara Sharon. Como falante nativa e instrutora experiente, ela oferece orientação especializada a alunos que procuram aulas de português brasileiro em Bonn ou apoio de tutoria online de português em Bonn. Agende uma aula experimental gratuita para começar sua jornada e conectar-se à vibrante comunidade cultural de Bonn.
+Descubra a alegria e os benefícios de aprender português em Bonn com Barbara Sharon. Como falante nativa e instrutora experiente, ela oferece orientação especializada a alunos que procuram aulas de português brasileiro em Bonn ou apoio de tutoria online de português em Bonn. Agende uma aulas de português para começar sua jornada e conectar-se à vibrante comunidade cultural de Bonn.

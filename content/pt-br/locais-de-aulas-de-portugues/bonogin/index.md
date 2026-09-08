@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Bonogin com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Bonogin é uma localidade tranquila e pitoresca do interior da Gold Coast, conhecida por sua vegetação exuberante e estilo de vida sereno. Com uma população de cerca de 4.896 moradores, a área atrai famílias e pessoas que buscam um ritmo de vida mais calmo. A demografia diversa da região - com 27,4% da população nascida no exterior - oferece um ambiente inclusivo para estudantes de idiomas. Os alunos de Bonogin podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Bonogin faz parte do fuso horário regional de Gold Coast usado para organizar horários. Bonogin fica em Australia. Esta página mantém a referência local específica de Bonogin, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Bonogin: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bonogin: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,4 +65,4 @@ A opção de clube de conversação oferece um ambiente relaxado para praticar p
 
 Se você procura uma tutora qualificada de português em Bonogin ou uma professora de português brasileiro nas proximidades, Barbara Sharon está pronta para ajudar. Ela oferece aulas flexíveis, incluindo opções de tutoria online de português em Bonogin e aulas presenciais de português em Surfers Paradise.
 
-Entre em contato hoje para agendar uma aula experimental gratuita e dê o primeiro passo para dominar o português brasileiro. Vamos começar sua jornada rumo à fluência em um dos idiomas mais dinâmicos do mundo!
+Entre em contato hoje para agendar uma aulas de português e dê o primeiro passo para dominar o português brasileiro. Vamos começar sua jornada rumo à fluência em um dos idiomas mais dinâmicos do mundo!

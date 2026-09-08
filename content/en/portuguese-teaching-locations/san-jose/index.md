@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from San Jose. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "San Jose is located in United States. San Jose is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to San Jose while the teaching service remains online-first."
+local_context: "San Jose is grouped in the North America regional time zone used for scheduling. San Jose is located in United States. This page keeps the local reference specific to San Jose while the teaching service remains online-first."
 scheduling: "Scheduling from San Jose: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in San Jose: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in San Jose: Brazilian & European Portuguese Classes
+## Learn Portuguese in San Jose: Brazilian Portuguese Classes
 
 San Jose is a vibrant city in California, home to a diverse population of over 997,368 residents. With a significant Portuguese-speaking community of around 4,172 individuals, it offers unique opportunities for language learners to immerse themselves in the rich cultural traditions of both Brazil and Portugal. Whether you're interested in Brazilian Portuguese lessons or exploring the linguistic heritage of Portugal , San Jose provides an ideal environment for Portuguese learning.
 
@@ -42,7 +42,7 @@ San Jose's multicultural environment makes it an excellent place to study Portug
 The presence of Portuguese and Brazilian community groups such as the Portuguese Heritage Society of California , POSSO , and the Bay Area Brazilian Club provides additional resources for learners to connect with native speakers and gain deeper insights into cultural nuances. For those interested in business or professional communication, San Jose’s international connections make learning Portuguese especially valuable. Discover Portuguese lessons near San Jose through local organizations and community hubs.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

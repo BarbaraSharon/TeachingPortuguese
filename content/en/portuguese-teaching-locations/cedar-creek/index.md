@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Cedar Creek with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Cedar Creek is a serene and picturesque rural locality on the northern Gold Coast, offering an ideal setting for focused language learning. With a population of around 831 residents, it provides a tranquil environment where students can immerse themselves in Portuguese studies without urban distractions. Whether you’re seeking a Portuguese tutor Cedar Creek , a Brazilian Portuguese teacher Cedar Creek , or an online Portuguese lessons Cedar Creek , Barbara Sharon delivers personalized instruction tailored to your unique goals and proficiency level. Learners in Cedar Creek can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Cedar Creek is grouped in the Gold Coast regional time zone used for scheduling. Cedar Creek is located in Australia. This page keeps the local reference specific to Cedar Creek while the teaching service remains online-first."
 scheduling: "Scheduling from Cedar Creek: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cedar Creek: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Barbara Sharon offers flexible lesson formats including online classes, private 
 Students in Cedar Creek can attend in-person Portuguese lessons in Surfers Paradise or join online sessions from home. Her curriculum includes both Brazilian Portuguese lessons Cedar Creek and general Portuguese classes Cedar Creek, making her an excellent choice for anyone looking for a Portuguese teacher Cedar Creek or a native Portuguese teacher Cedar Creek . No matter your goal-whether it's mastering pronunciation, improving conversation skills, or preparing for travel-Barbara tailors her lessons to meet your needs.
 ## Start Your Portuguese Journey Today
 
-Ready to learn Portuguese in Cedar Creek? Contact Barbara Sharon today for a free trial lesson and discover how easy it is to begin speaking Brazilian Portuguese with confidence. Whether you're searching for a Portuguese tutor near me Cedar Creek , or want to join conversational classes Cedar Creek, she's here to guide you every step of the way.
+Ready to learn Portuguese in Cedar Creek? Contact Barbara Sharon today for a Portuguese lesson and discover how easy it is to begin speaking Brazilian Portuguese with confidence. Whether you're searching for a Portuguese tutor near me Cedar Creek , or want to join conversational classes Cedar Creek, she's here to guide you every step of the way.
 
 [Services](/en/portuguese-teaching-services/)| [Contact](/en/contact-portuguese-teacher/)

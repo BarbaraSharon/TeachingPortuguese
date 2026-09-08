@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Bundall com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Bundall é um subúrbio vibrante e acolhedor da Gold Coast, situado perto de Surfers Paradise e Southport. Com uma população de aproximadamente 4.895 residentes, segundo o censo de 2021, oferece um ambiente tranquilo e ideal para estudantes de idiomas. A região tem uma comunidade diversa, com 33,2% de residentes nascidos no exterior, criando uma atmosfera inclusiva que apoia o intercâmbio cultural e o aprendizado de idiomas. Quer você procure uma professora de português em Bundall ou aulas de português brasileiro em Bundall, Bundall oferece um ambiente acolhedor para alunos de todos os níveis. Os alunos de Bundall podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Bundall faz parte do fuso horário regional de Gold Coast usado para organizar horários. Bundall fica em Australia. Esta página mantém a referência local específica de Bundall, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Bundall: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bundall: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,6 +57,6 @@ Quer você procure ensino para iniciantes ou prática avançada de conversação
 
 ## Comece hoje sua jornada no português
 
-Você tem interesse em aprender português em Bundall? Barbara Sharon oferece aulas experimentais gratuitas para que você possa conhecer seu estilo de ensino e ver como ela pode ajudar você a alcançar seus objetivos de idioma. Entre em contato com ela hoje mesmo para agendar sua sessão ou saber mais sobre as [aulas](/pt-br/aulas-de-portugues/).
+Você tem interesse em aprender português em Bundall? Barbara Sharon oferece aulas de português para que você possa conhecer seu estilo de ensino e ver como ela pode ajudar você a alcançar seus objetivos de idioma. Entre em contato com ela hoje mesmo para agendar sua sessão ou saber mais sobre as [aulas](/pt-br/aulas-de-portugues/).
 
 Para dúvidas, visite a página de [contato](/pt-br/contato-professora-portugues/) ou entre em contato diretamente para agendar sua primeira aula. Quer você procure uma professora de português perto de você em Bundall ou queira participar de aulas de português online, Barbara Sharon está aqui para apoiar sua jornada de aprendizagem.

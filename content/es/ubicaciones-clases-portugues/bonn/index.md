@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bonn. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bonn está situada en Germany. Bonn forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Bonn, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Bonn forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Bonn está situada en Germany. Esta página mantiene la referencia local específica de Bonn, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Bonn: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bonn: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -53,4 +53,4 @@ Todas las clases se imparten en línea y ofrecen flexibilidad. La tutoría parti
 Su método adaptable ofrece el apoyo adecuado para principiantes y estudiantes avanzados, con técnicas de comunicación natural para ganar confianza en situaciones cotidianas.
 ## Empieza hoy tu camino con el portugués en Bonn
 
-Descubre la alegría y los beneficios de aprender portugués en Bonn con Barbara Sharon. Como hablante nativa e instructora experimentada, ofrece orientación experta. Programa una clase de prueba gratuita y conecta con la comunidad cultural de Bonn.
+Descubre la alegría y los beneficios de aprender portugués en Bonn con Barbara Sharon. Como hablante nativa e instructora experimentada, ofrece orientación experta. Programa una clases de portugués y conecta con la comunidad cultural de Bonn.

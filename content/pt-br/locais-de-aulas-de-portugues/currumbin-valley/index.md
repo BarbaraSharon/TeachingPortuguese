@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin Valley com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin Valley é uma área tranquila e cênica localizada no interior da Gold Coast, cercada por florestas tropicais exuberantes e beleza natural. Conhecida por seu estilo de vida sereno e proximidade de Surfers Paradise, é um ambiente ideal para o estudo focado. Com uma população de aproximadamente 2.084 residentes, esta charmosa localidade oferece aos alunos um espaço tranquilo para aprender português com a atenção personalizada de Barbara Sharon. Os alunos de Currumbin Valley podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Currumbin Valley faz parte do fuso horário regional de Gold Coast usado para organizar horários. Currumbin Valley fica em Australia. Esta página mantém a referência local específica de Currumbin Valley, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Currumbin Valley: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin Valley: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ Quer você procure serviços de professora de português brasileiro perto de Cur
 
 ## Comece hoje sua jornada no português!
 
-Pronto para aprender português brasileiro em Currumbin Valley? Entre em contato com Barbara Sharon hoje mesmo para conhecer os serviços de professora de português na Gold Coast, aulas em grupo ou ensino online. Você também pode saber mais sobre suas opções na página de [aulas](/pt-br/aulas-de-portugues/) e agendar uma aula experimental gratuita pela seção de [contato](/pt-br/contato-professora-portugues/).
+Pronto para aprender português brasileiro em Currumbin Valley? Entre em contato com Barbara Sharon hoje mesmo para conhecer os serviços de professora de português na Gold Coast, aulas em grupo ou ensino online. Você também pode saber mais sobre suas opções na página de [aulas](/pt-br/aulas-de-portugues/) e agendar uma aulas de português pela seção de [contato](/pt-br/contato-professora-portugues/).
 
 Com aulas de português na Gold Coast disponíveis presencialmente e online, Barbara Sharon facilita o início da sua jornada de aprendizagem de idiomas. Quer você procure aulas de português adequadas para iniciantes ou habilidades avançadas de conversação, sua orientação especializada apoiará seu sucesso ao dominar o português brasileiro.

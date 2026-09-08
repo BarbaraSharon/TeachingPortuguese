@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Elanora with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Elanora is a leafy, family-friendly suburb on the southern Gold Coast, close to Palm Beach and Currumbin. With a population of 12,539 residents according to the 2021 census and a diverse community where 23.4% are foreign-born, Elanora offers a welcoming environment for language learners. The area’s growing Brazilian presence makes it an ideal place to connect with Brazilian culture and language. Learners in Elanora can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Elanora is grouped in the Gold Coast regional time zone used for scheduling. Elanora is located in Australia. This page keeps the local reference specific to Elanora while the teaching service remains online-first."
 scheduling: "Scheduling from Elanora: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Elanora: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 In-person Portuguese lessons are available in Surfers Paradise and surrounding Gold Coast suburbs. Online lessons are also available through [Services](/en/portuguese-teaching-services/).
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Elanora? Contact Barbara Sharon for a free trial lesson and start your language journey today! Find more information about her services or reach out directly through the [Contact](/en/contact-portuguese-teacher/)page.
+Interested in learning Portuguese in Elanora? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Find more information about her services or reach out directly through the [Contact](/en/contact-portuguese-teacher/)page.

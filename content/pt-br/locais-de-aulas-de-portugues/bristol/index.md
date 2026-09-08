@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bristol. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Bristol faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Bristol está localizada em United Kingdom. Esta página mantém a referência local específica de Bristol, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Bristol faz parte do fuso horário regional de Europe usado para organizar horários. Bristol fica em United Kingdom. Esta página mantém a referência local específica de Bristol, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Bristol: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bristol: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Seus serviços incluem aulas de português em Bristol adequadas para iniciantes,
 
 ## Comece hoje sua jornada no português
 
-Se você tem interesse em aprender português em Bristol, entre em contato com Barbara Sharon para uma aula experimental gratuita. Explore os [serviços](/pt-br/aulas-de-portugues/) para conhecer mais sobre sua abordagem de ensino e os formatos disponíveis. Fale com ela pela página de [contato](/pt-br/contato-professora-portugues/) para iniciar sua jornada rumo à fluência com uma professora profissional de português em Bristol.
+Se você tem interesse em aprender português em Bristol, entre em contato com Barbara Sharon para uma aulas de português. Explore os [serviços](/pt-br/aulas-de-portugues/) para conhecer mais sobre sua abordagem de ensino e os formatos disponíveis. Fale com ela pela página de [contato](/pt-br/contato-professora-portugues/) para iniciar sua jornada rumo à fluência com uma professora profissional de português em Bristol.

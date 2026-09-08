@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Geneva. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Geneva is located in Switzerland. Geneva is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Geneva while the teaching service remains online-first."
+local_context: "Geneva is grouped in the Europe regional time zone used for scheduling. Geneva is located in Switzerland. This page keeps the local reference specific to Geneva while the teaching service remains online-first."
 scheduling: "Scheduling from Geneva: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Geneva: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -60,6 +60,6 @@ Private lessons provide one-on-one attention for personalized progress, while gr
 She combines grammar, vocabulary, speaking practice, and cultural context into her lessons, ensuring learners develop both linguistic accuracy and real-life fluency. Whether you're interested in Brazilian Portuguese lessons Geneva or general Portuguese classes Geneva, Barbara’s flexible online platform ensures you can learn at your own pace and on your schedule.
 ## Begin Your Journey to Fluency Today!
 
-Ready to start learning Portuguese in Geneva? Book a free trial lesson with Barbara Sharon and experience her dynamic teaching style firsthand. Whether you’re looking for a Brazilian Portuguese teacher Geneva or conversational Portuguese classes Geneva, she offers adaptable online sessions that fit your lifestyle and goals.
+Ready to start learning Portuguese in Geneva? Book a Portuguese lesson with Barbara Sharon and experience her dynamic teaching style firsthand. Whether you’re looking for a Brazilian Portuguese teacher Geneva or conversational Portuguese classes Geneva, she offers adaptable online sessions that fit your lifestyle and goals.
 
 With a deep appreciation for Brazilian culture and language, Barbara helps students connect not just with words-but with the spirit of Portuguese-speaking communities. Join her today and take your first step toward mastering Brazilian Portuguese in the heart of Europe!

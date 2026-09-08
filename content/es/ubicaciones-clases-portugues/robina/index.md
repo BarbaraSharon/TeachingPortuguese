@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Robina. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Robina está situada en Australia. Robina forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Robina, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Robina forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Robina está situada en Australia. Esta página mantiene la referencia local específica de Robina, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Robina: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Robina: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -39,7 +39,7 @@ Tanto si eres principiante como si quieres perfeccionar tus habilidades, aprende
 
 La atmósfera multicultural de Robina crea una oportunidad única para que estudiantes se sumerjan en el rico tapiz de idiomas y culturas globales. Como uno de los suburbios de Gold Coast con mayores conexiones internacionales, Robina ofrece acceso a eventos culturales que celebran la herencia brasileña, desde festivales de música y comida hasta reuniones comunitarias.
 
-Brasil, hogar de la mayor población lusófona del mundo, permite conocer expresiones formales y coloquiales que se usan en situaciones reales. Al estudiar portugués en Robina, obtendrás una valiosa exposición a variaciones regionales entre el portugués brasileño y europeo, mejorarás tus capacidades de comunicación y profundizarás tu aprecio por este hermoso idioma.
+Brasil, hogar de la mayor población lusófona del mundo, permite conocer expresiones formales y coloquiales que se usan en situaciones reales. Al estudiar portugués en Robina, obtendrás una valiosa exposición a variaciones regionales entre el portugués brasileño, mejorarás tus capacidades de comunicación y profundizarás tu aprecio por este hermoso idioma.
 
 ## Cómo puede ayudarte Barbara Sharon a tener éxito
 

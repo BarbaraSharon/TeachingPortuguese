@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Munich. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Munich está localizada em Germany. Munich faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Munich, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Munich faz parte do fuso horário regional de Europe usado para organizar horários. Munich fica em Germany. Esta página mantém a referência local específica de Munich, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Munich: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Munich: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Munique: aulas de português brasileiro e europeu
+## Aprenda português em Munique: aulas de português brasileiro
 
 Munique é uma cidade vibrante na Alemanha, lar de mais de 1,6 milhão de pessoas, incluindo quase 29% de residentes nascidos no exterior. Essa comunidade diversa inclui um número crescente de famílias brasileiras e de língua portuguesa, criando um ambiente ideal para aprender português. A cidade oferece excelentes oportunidades para adquirir o idioma por meio de aulas estruturadas ou intercâmbio cultural informal. Quer você tenha interesse em português brasileiro ou português europeu, a atmosfera multicultural de Munique proporciona vantagens únicas para estudantes.
 
@@ -43,7 +43,7 @@ Os laços econômicos de Munique com Brasil e Portugal oferecem motivação adic
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -53,7 +53,7 @@ Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla ex
 
 Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro e o europeu, entender o contexto cultural e desenvolver habilidades de conversação que permitirão a você interagir de forma autêntica com falantes nativos. Ela oferece sessões em grupo e particulares, proporcionando atenção personalizada às necessidades de cada estudante.
 
-Barbara oferece aulas de português online em Munique por meio de [aulas de português](/pt-br/aulas-de-portugues/), garantindo flexibilidade e conveniência para estudantes localizados na cidade ou além dela. Entre em contato hoje pela página de [contato](/pt-br/contato-professora-portugues/) para agendar uma aula experimental gratuita e iniciar sua jornada rumo ao domínio do português.
+Barbara oferece aulas de português online em Munique por meio de [aulas de português](/pt-br/aulas-de-portugues/), garantindo flexibilidade e conveniência para estudantes localizados na cidade ou além dela. Entre em contato hoje pela página de [contato](/pt-br/contato-professora-portugues/) para agendar uma aulas de português e iniciar sua jornada rumo ao domínio do português.
 
 ## O português como idioma global
 
@@ -65,8 +65,8 @@ Quer você se interesse por negócios, viagens ou simplesmente explorar novas cu
 
 Aulas particulares e em grupo de português online estão disponíveis em Munique. Essas sessões são desenvolvidas para serem envolventes e eficazes, usando ferramentas interativas e recursos multimídia adaptados aos seus interesses específicos e objetivos de aprendizagem. As aulas de Barbara Sharon atendem a todos os níveis de proficiência, de iniciantes a estudantes avançados.
 
-Quer você seja iniciante absoluto ou queira avançar suas habilidades, nossas aulas de português online proporcionam a flexibilidade necessária para agendas ocupadas, mantendo um ensino de alta qualidade. Com opções de português brasileiro e europeu, você pode escolher a versão que melhor atende às suas necessidades.
+Quer você seja iniciante absoluto ou queira avançar suas habilidades, nossas aulas de português online proporcionam a flexibilidade necessária para agendas ocupadas, mantendo um ensino de alta qualidade. Com opções de português brasileiro, você pode escolher a versão que melhor atende às suas necessidades.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Munique? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Munique? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.

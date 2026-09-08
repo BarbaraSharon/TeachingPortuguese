@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Melbourne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Melbourne faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Melbourne está localizada em Australia. Esta página mantém a referência local específica de Melbourne, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Melbourne faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Melbourne fica em Australia. Esta página mantém a referência local específica de Melbourne, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Melbourne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Melbourne; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Melbourne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Melbourne - aulas de português brasileiro e europeu
+## Aprenda português em Melbourne - aulas de português brasileiro
 
 Melbourne, a segunda maior cidade da Austrália e um polo multicultural, abriga mais de 5,3 milhões de pessoas, sendo que mais da metade nasceu no exterior. Essa diversidade vibrante faz dela um lugar ideal para aprender português, especialmente para quem tem interesse em se conectar com as ricas comunidades brasileiras e de língua portuguesa.
 
@@ -51,7 +51,7 @@ Aprender português em Melbourne não apenas abre portas para a cultura brasilei
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora certificada de língua portuguesa, com sólida formação acadêmica e ampla experiência no ensino de português brasileiro e europeu. Suas qualificações incluem:
+Barbara Sharon é uma professora certificada de língua portuguesa, com sólida formação acadêmica e ampla experiência no ensino de português brasileiro. Suas qualificações incluem:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -72,8 +72,8 @@ Estudantes em Melbourne podem aproveitar a conveniência de horários flexíveis
 
 Suas aulas usam ferramentas multimídia e conteúdo envolvente, adaptado aos seus interesses específicos - quer você esteja procurando aulas de português para iniciantes em Melbourne ou aulas avançadas de conversação. Quer você esteja aprendendo português brasileiro ou estudando português europeu, seus serviços facilitam encontrar a aula de português certa em Melbourne.
 
-## Comece sua jornada hoje - aula experimental gratuita disponível!
+## Comece sua jornada hoje - aulas de português disponível!
 
-Você está pronto para começar sua jornada de aprendizagem de português em Melbourne? Entre em contato com Barbara Sharon para uma aula experimental gratuita e conheça de perto sua abordagem de ensino única. Quer você seja iniciante absoluto ou esteja buscando melhorar sua fluência, ela está aqui para orientar você rumo ao sucesso.
+Você está pronto para começar sua jornada de aprendizagem de português em Melbourne? Entre em contato com Barbara Sharon para uma aulas de português e conheça de perto sua abordagem de ensino única. Quer você seja iniciante absoluto ou esteja buscando melhorar sua fluência, ela está aqui para orientar você rumo ao sucesso.
 
 Com opções de aulas particulares de português em Melbourne e aulas de português em grupo em Melbourne, há algo para cada estudante. Comece hoje e descubra a beleza da língua e da cultura portuguesas!

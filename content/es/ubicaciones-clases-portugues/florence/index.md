@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Florence. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Florence está situada en Italy. Florence forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Florence, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Florence forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Florence está situada en Italy. Esta página mantiene la referencia local específica de Florence, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Florence: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Florence: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño y europeo en Florencia: clases particulares y grupales en línea
+## Aprende portugués brasileño en Florencia: clases particulares y grupales en línea
 
 Florencia, ciudad de más de 362.000 habitantes, es un dinámico centro de historia, arte y cultura. Aunque los datos sobre el número de hablantes brasileños o portugueses en Florencia puedan ser limitados, su carácter internacional la convierte en un entorno ideal para aprender idiomas. Como cruce global, ofrece oportunidades singulares para sumergirse en la lengua y cultura portuguesas. Tanto si buscas una tutora de portugués, clases de portugués brasileño o enseñanza general de portugués en Florencia, Barbara Sharon ofrece clases personalizadas y de alta calidad según tus metas.
 
@@ -50,7 +50,7 @@ Las clases de Barbara se estructuran cuidadosamente e incluyen gramática, vocab
 
 Barbara Sharon ofrece formatos flexibles, incluidas tutorías particulares y sesiones grupales en línea. Todos los niveles son bienvenidos, desde principiantes hasta alumnado avanzado. Las clases particulares proporcionan atención personalizada; las clases grupales permiten practicar con otras personas en un entorno relajado. Para quienes buscan una profesora de portugués brasileño o una profesora nativa en Florencia, su plataforma en línea facilita conectar.
 
-Como tutora de portugués en Florencia, Barbara imparte enseñanza individual y en grupos pequeños mediante plataformas en línea, de modo que el alumnado de toda la ciudad puede acceder fácilmente a educación de calidad. Para más detalles, visita [servicios](/es/servicios-clases-portugues/). Tanto si buscas clases de portugués cerca de Florencia como comenzar con una clase de prueba gratuita, el enfoque de Barbara garantiza una experiencia personalizada.
+Como tutora de portugués en Florencia, Barbara imparte enseñanza individual y en grupos pequeños mediante plataformas en línea, de modo que el alumnado de toda la ciudad puede acceder fácilmente a educación de calidad. Para más detalles, visita [servicios](/es/servicios-clases-portugues/). Tanto si buscas clases de portugués cerca de Florencia como comenzar con una clases de portugués, el enfoque de Barbara garantiza una experiencia personalizada.
 ## Comienza hoy tu camino con el portugués en Florencia
 
-¿Quieres aprender portugués en Florencia? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza tu camino hacia la fluidez. Tanto si buscas clases de conversación como instrucción para principiantes, está preparada para guiarte. Conoce más sobre sus propuestas en la página de [contacto](/es/contacto-profesora-portugues/). Con clases de portugués en línea en Florencia disponibles en formato particular y grupal, este es el momento perfecto para empezar tu aventura de aprendizaje.
+¿Quieres aprender portugués en Florencia? Contacta con Barbara Sharon para una clases de portugués y comienza tu camino hacia la fluidez. Tanto si buscas clases de conversación como instrucción para principiantes, está preparada para guiarte. Conoce más sobre sus propuestas en la página de [contacto](/es/contacto-profesora-portugues/). Con clases de portugués en línea en Florencia disponibles en formato particular y grupal, este es el momento perfecto para empezar tu aventura de aprendizaje.

@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Forest Hill with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Forest Hill, located on the vibrant Gold Coast, is a serene and multicultural suburb that provides an ideal setting for learning Portuguese. With a diverse population where over 40% are foreign-born, it’s a welcoming environment for language learners. The area’s growing connections to Brazil and Portugal make it perfect for students seeking immersive cultural experiences while mastering Brazilian Portuguese. Learners in Forest Hill can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Forest Hill is grouped in the Gold Coast regional time zone used for scheduling. Forest Hill is located in Australia. This page keeps the local reference specific to Forest Hill while the teaching service remains online-first."
 scheduling: "Scheduling from Forest Hill: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Forest Hill: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -36,7 +36,7 @@ Forest Hill, located on the vibrant Gold Coast, is a serene and multicultural su
 
 Whether you're looking for a Portuguese teacher in Forest Hill , Brazilian Portuguese lessons in Forest Hill , or engaging conversational Portuguese classes in Forest Hill , Barbara Sharon offers personalized instruction tailored to your unique goals. Her approach combines grammar, conversation practice, and cultural insights to make learning both effective and enjoyable.
 
-In-person lessons are conveniently available in Surfers Paradise, just a short distance from Forest Hill, while online options provide flexibility for students who prefer remote learning. Start your journey today with a free trial lesson and experience how Portuguese can open doors to new opportunities!
+In-person lessons are conveniently available in Surfers Paradise, just a short distance from Forest Hill, while online options provide flexibility for students who prefer remote learning. Start your journey today with a Portuguese lesson and experience how Portuguese can open doors to new opportunities!
 ## Why Choose Forest Hill for Learning Portuguese?
 
 Forest Hill’s multicultural community offers rich opportunities for cultural immersion. As one of the Gold Coast's most diverse areas, it creates a supportive environment where learners can engage with various languages and traditions.
@@ -59,9 +59,9 @@ Barbara Sharon provides a variety of learning options to suit your schedule and 
 - Online Sessions: Convenient remote learning from anywhere in the world.
 
 All levels are welcome - whether you're starting out or aiming for advanced fluency. In-person lessons are offered in Surfers Paradise, and online Portuguese tutoring ensures accessibility no matter where you live. You can explore more about her services on the [Services](/en/portuguese-teaching-services/)page.
-## Start Your Journey Today - Free Trial Lesson Available
+## Start Your Journey Today - Portuguese Lesson Available
 
-Ready to begin your Portuguese adventure in Forest Hill? Book a free trial lesson with Barbara Sharon and discover how effective and engaging Portuguese instruction can be. Whether you're searching for:
+Ready to begin your Portuguese adventure in Forest Hill? Book a Portuguese lesson with Barbara Sharon and discover how effective and engaging Portuguese instruction can be. Whether you're searching for:
 - A Portuguese teacher in Forest Hill
 - Brazilian Portuguese lessons in Forest Hill
 - Conversational Portuguese classes in Forest Hill

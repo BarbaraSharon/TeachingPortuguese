@@ -111,6 +111,6 @@ Yes. Brazilian Portuguese is very beginner-friendly. Everyone starts from the be
 
 Learning a few useful phrases is the fastest way to start speaking Portuguese confidently. Practice them every day, use them whenever you can, and focus on communication rather than perfection.
 
-[Book Your Free Trial Lesson](/en/contact-portuguese-teacher/)
+[Book Your Portuguese Lesson](/en/contact-portuguese-teacher/)
 
 [Explore Portuguese Services](/en/portuguese-teaching-services/)

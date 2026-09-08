@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Tokyo. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Tokyo forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Tokyo está situada en Japan. Esta página mantiene la referencia local específica de Tokyo, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Tokyo forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Tokyo está situada en Japan. Esta página mantiene la referencia local específica de Tokyo, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Tokyo: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Tokyo; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Tokyo: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,14 +43,14 @@ Brasil, hogar de la mayor población lusófona del mundo, permite conocer la evo
 La ciudad acoge varios eventos comunitarios brasileños, como Brazil & Latin Festival en Yoyogi Park y Brazil Samba Dance Festival, ambos organizados por CCBJ. Estas celebraciones ofrecen un contexto cultural vibrante para profundizar la comprensión de las comunidades lusófonas.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Barbara ayuda a comprender las diferencias entre el portugués brasileño y europeo, el contexto cultural y las destrezas de conversación para relacionarse auténticamente con hablantes nativos. Tanto si te interesan los negocios con Brasil como apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
+Barbara ayuda a comprender las diferencias entre el portugués brasileño, el contexto cultural y las destrezas de conversación para relacionarse auténticamente con hablantes nativos. Tanto si te interesan los negocios con Brasil como apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
 
 Ofrece clases particulares y grupales en línea para estudiantes de Tokyo. Consulta los [servicios](/es/servicios-clases-portugues/) o contacta desde la página de [contacto](/es/contacto-profesora-portugues/) para saber cómo puede acompañar tu recorrido.
 

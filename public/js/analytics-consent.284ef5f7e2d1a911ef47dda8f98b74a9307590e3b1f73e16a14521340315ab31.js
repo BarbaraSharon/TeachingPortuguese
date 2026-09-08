@@ -115,6 +115,41 @@
     });
   }
 
+  function getLessonFormat(pathname, anchor) {
+    const explicit = anchor?.dataset?.lessonFormat;
+    if (explicit) return explicit;
+
+    const path = pathname.toLowerCase();
+    if (path.includes("online")) return "online";
+    if (path.includes("group") || path.includes("school") || path.includes("escola") || path.includes("escuela")) return "group";
+    if (path.includes("tutoring") || path.includes("private") || path.includes("particular") || path.includes("particulares")) return "private";
+    return "unspecified";
+  }
+
+  function trackContactClick(anchor) {
+    const href = (anchor.getAttribute("href") || "").toLowerCase();
+    let channel = "";
+    if (href.startsWith("mailto:")) channel = "email";
+    if (href.startsWith("tel:")) channel = "phone";
+    if (href.includes("wa.me") || href.includes("whatsapp")) channel = "whatsapp";
+    if (!channel || typeof window.gtag !== "function") return;
+
+    const language = document.documentElement.lang || window.location.pathname.split("/").filter(Boolean)[0] || "unspecified";
+    window.gtag("event", "contact_click", {
+      lesson_format: getLessonFormat(window.location.pathname, anchor),
+      language,
+      channel,
+      page_path: window.location.pathname
+    });
+  }
+
+  function listenForContactClicks() {
+    document.addEventListener("click", (event) => {
+      const anchor = event.target?.closest?.("a[href]");
+      if (anchor) trackContactClick(anchor);
+    });
+  }
+
   function removeElement(id) {
     document.getElementById(id)?.remove();
   }
@@ -191,6 +226,7 @@
 
   function initialize() {
     if (currentChoice !== "rejected") loadAnalytics();
+    listenForContactClicks();
     renderPreferencesButton();
   }
 

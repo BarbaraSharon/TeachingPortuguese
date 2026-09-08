@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Copenhagen"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Copenhagen. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Copenhagen is located in Denmark. Copenhagen is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Copenhagen while the teaching service remains online-first."
+local_context: "Copenhagen is grouped in the Europe regional time zone used for scheduling. Copenhagen is located in Denmark. This page keeps the local reference specific to Copenhagen while the teaching service remains online-first."
 scheduling: "Scheduling from Copenhagen: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Copenhagen; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Copenhagen: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Barbara offers flexible formats including online private lessons and interactive
 As a Portuguese teacher in Copenhagen , Barbara adapts her teaching style to fit your schedule and preferences. She also offers structured group sessions for students at similar proficiency levels. Whether you're interested in Brazilian Portuguese lessons Copenhagen or need conversational Portuguese classes, these adaptable formats ensure effective learning no matter your preference.
 ## Start Your Portuguese Journey Today
 
-Ready to learn Portuguese in Copenhagen? Contact Barbara Sharon for a free trial lesson and begin your journey today! With online Portuguese lessons near you and a focus on both grammar and cultural fluency, she helps students achieve their goals through personalized instruction. For more information or to book a session, visit [Contact](/en/contact-portuguese-teacher/).
+Ready to learn Portuguese in Copenhagen? Contact Barbara Sharon for a Portuguese lesson and begin your journey today! With online Portuguese lessons near you and a focus on both grammar and cultural fluency, she helps students achieve their goals through personalized instruction. For more information or to book a session, visit [Contact](/en/contact-portuguese-teacher/).

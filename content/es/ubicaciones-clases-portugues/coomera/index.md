@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coomera con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coomera es un próspero suburbio del norte de Gold Coast, con más de 23.000 residentes y una comunidad multicultural vibrante. Con casi un 30 % de población nacida en el extranjero, Coomera ofrece el entorno perfecto para estudiantes que desean aprender portugués. Tanto si te interesa el portugués brasileño como explorar las diferencias entre los dialectos europeo y brasileño, esta dinámica zona brinda un marco ideal para comenzar tu recorrido lingüístico. El alumnado de Coomera puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Coomera forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Coomera está situada en Australia. Esta página mantiene la referencia local específica de Coomera, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Coomera: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coomera: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -61,6 +61,6 @@ Para estudiantes que quieren mejorar su expresión oral, Barbara también ofrece
 
 ## Empieza hoy tu recorrido: aprende portugués en Coomera
 
-Si te interesa aprender portugués en Coomera o zonas cercanas, Barbara Sharon está lista para guiarte en el camino para dominar el portugués brasileño. Reserva hoy una clase de prueba gratuita y disfruta de la alegría de aprender idiomas con enseñanza experta.
+Si te interesa aprender portugués en Coomera o zonas cercanas, Barbara Sharon está lista para guiarte en el camino para dominar el portugués brasileño. Reserva hoy una clases de portugués y disfruta de la alegría de aprender idiomas con enseñanza experta.
 
 Para conocer más sobre servicios como tutoría de portugués en Coomera, clases de portugués brasileño en Coomera o tutoría de portugués en línea en Coomera, visita nuestra página de [servicios](/es/servicios-clases-portugues/). Para consultas o para programar una sesión, usa el formulario de [contacto](/es/contacto-profesora-portugues/).

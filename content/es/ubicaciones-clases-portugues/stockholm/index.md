@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Stockholm. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Stockholm forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Stockholm está situada en Sweden. Esta página mantiene la referencia local específica de Stockholm, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Stockholm forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Stockholm está situada en Sweden. Esta página mantiene la referencia local específica de Stockholm, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Stockholm: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Stockholm; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Stockholm: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

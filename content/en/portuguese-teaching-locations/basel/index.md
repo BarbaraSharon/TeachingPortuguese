@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Basel. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Basel is grouped in the Europe location set used for local scheduling and learner guidance. Basel is located in Switzerland. This page keeps the local reference specific to Basel while the teaching service remains online-first."
+local_context: "Basel is grouped in the Europe regional time zone used for scheduling. Basel is located in Switzerland. This page keeps the local reference specific to Basel while the teaching service remains online-first."
 scheduling: "Scheduling from Basel: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Basel: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -61,9 +61,9 @@ Barbara Sharon offers both private and group lessons , all conducted online. Pri
 
 All levels are welcome-from absolute beginners to advanced speakers looking to refine their skills. With flexible scheduling options, it's easy to fit Portuguese learning into your busy life in Basel.
 
-To explore her services or book a free trial lesson , visit her [teaching services page](/en/portuguese-teaching-services/)or reach out via the [contact page](/en/contact-portuguese-teacher/).
+To explore her services or book a Portuguese lesson , visit her [teaching services page](/en/portuguese-teaching-services/)or reach out via the [contact page](/en/contact-portuguese-teacher/).
 ## Start Your Brazilian Portuguese Journey Today in Basel
 
-Ready to learn Brazilian Portuguese in Basel? Connect with Barbara Sharon for a free trial lesson and discover how easy and enjoyable language learning can be. Whether you're interested in conversational classes, beginner-friendly instruction, or advanced grammar, she provides customized support to help you succeed.
+Ready to learn Brazilian Portuguese in Basel? Connect with Barbara Sharon for a Portuguese lesson and discover how easy and enjoyable language learning can be. Whether you're interested in conversational classes, beginner-friendly instruction, or advanced grammar, she provides customized support to help you succeed.
 
 Online Portuguese lessons in Basel are now available through Barbara Sharon-start your journey today!

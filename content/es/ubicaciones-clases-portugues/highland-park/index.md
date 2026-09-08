@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Highland Park con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Highland Park es un suburbio dinámico y familiar de la Gold Coast, con 6.576 habitantes. Con una comunidad diversa -el 33,7 % de sus residentes nació en el extranjero-, existe un interés creciente por aprender portugués. Tanto si eres principiante como si quieres mejorar tus habilidades de conversación, Barbara Sharon ofrece clases de portugués adaptadas en Surfers Paradise para estudiantes de Highland Park. Hay opciones presenciales y en línea que se ajustan a tu horario. El alumnado de Highland Park puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Highland Park forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Highland Park está situada en Australia. Esta página mantiene la referencia local específica de Highland Park, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Highland Park: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Highland Park: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,6 +55,6 @@ Las clases presenciales de portugués se realizan en Surfers Paradise, lo que re
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Lista o listo para empezar a aprender portugués en Highland Park? Reserva una clase de prueba gratuita con Barbara Sharon y descubre lo fácil que es comenzar a hablar portugués brasileño. Tanto si buscas clases de portugués para principiantes en Highland Park como acompañamiento avanzado de conversación, su enfoque personalizado te ayuda a alcanzar tus metas.
+¿Lista o listo para empezar a aprender portugués en Highland Park? Reserva una clases de portugués con Barbara Sharon y descubre lo fácil que es comenzar a hablar portugués brasileño. Tanto si buscas clases de portugués para principiantes en Highland Park como acompañamiento avanzado de conversación, su enfoque personalizado te ayuda a alcanzar tus metas.
 
 Para conocer más sobre sus servicios, visita la página de [servicios](/es/servicios-clases-portugues/) o contacta con ella directamente mediante la página de [contacto](/es/contacto-profesora-portugues/). Encuentra una profesora de portugués cerca de ti en Highland Park que pueda guiarte hacia la fluidez y la comprensión cultural.

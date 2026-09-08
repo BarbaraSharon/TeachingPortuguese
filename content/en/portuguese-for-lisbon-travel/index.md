@@ -28,7 +28,7 @@ migration_schema:
 
 Planning a trip to Lisbon , Portugal's vibrant capital? Lisbon is a city of incredible charm, with its iconic yellow trams, pastel-coloured buildings, panoramic viewpoints (miradouros), and rich history dating back to Roman times. But to truly experience Lisbon, you need more than a phrasebook - you need to speak the local language.
 
-Barbara Sharon's Portuguese for Lisbon Travel course is a specialised European Portuguese programme designed specifically for travellers visiting Lisbon, Portugal, and other parts of Portugal. While Barbara is a native Brazilian Portuguese speaker, she is fully proficient in European Portuguese (pt-PT) and teaches the pronunciation, vocabulary, and expressions that differ between the two variants.
+Barbara Sharon's Lisbon travel guide helps Brazilian Portuguese learners prepare for common situations in Portugal. Barbara teaches Brazilian Portuguese and can explain useful differences in pronunciation, vocabulary, and expressions that travellers may encounter in Lisbon.
 
 Whether you are visiting for a few days or a few months, this course will give you the essential Portuguese phrases and cultural knowledge to navigate Lisbon with confidence.
 ## Why Learn European Portuguese for Lisbon?
@@ -78,7 +78,7 @@ Whether you are visiting for a few days or a few months, this course will give y
 - Onde fica a embaixada? (Where is the embassy?)
 ## European vs Brazilian Portuguese - Key Differences for Lisbon Topic Brazilian Portuguese European Portuguese Train Trem Comboio Bus Ônibus Autocarro I am doing (present continuous) Estou fazendo Estou a fazer You (formal) Você O senhor / A senhora Pocket Bolso Bolso (same word) Child Criança Criança (same word) Vowel sounds Open vowels, more syllables Closed vowels, reduced unstressed vowels
 
-Barbara Sharon will teach you the European Portuguese pronunciation and vocabulary specifically for Lisbon, so you sound like a local. She also explains the key differences with Brazilian Portuguese so you know what to expect.
+Barbara Sharon teaches Brazilian Portuguese and can explain the European Portuguese pronunciation and vocabulary you may hear in Lisbon, so you know what to expect without presenting this page as European Portuguese tuition.
 ## Course Formats to Suit Your Schedule
 ### Intensive Pre-Travel Program (Recommended for trips within 1-3 months)
 - Duration: 4-6 weeks of intensive study
@@ -95,14 +95,14 @@ Barbara Sharon will teach you the European Portuguese pronunciation and vocabula
 - Frequency: Weekly or bi-weekly sessions
 - Focus: Continuous learning with Lisbon-specific modules (neighbourhoods, transport, restaurants)
 
-[View All Service Options](/en/portuguese-teaching-services/)[Discuss Your Lisbon Plans with Barbara](/en/contact-portuguese-teacher/)
+[View All Service Options](/en/portuguese-teaching-services/)[Contact Barbara about your Lisbon plans](/en/contact-portuguese-teacher/)
 ## Why Choose Barbara Sharon for Your Lisbon Portuguese Course?
 ### Tailored to Lisbon and Portugal
 
 Not all Portuguese courses focus on Lisbon. Barbara's Lisbon travel course is specifically designed for visitors to Portugal's capital. Lessons include Lisbon-specific vocabulary (metro stations, tram lines, neighbourhood names, local dishes) and cultural insights about Portuguese etiquette and customs.
 ### European Portuguese Expertise
 
-Although Barbara is a native Brazilian Portuguese speaker, she is fully proficient in European Portuguese and teaches the pronunciation, vocabulary, and grammar differences between the two variants. You will learn authentic European Portuguese used in Lisbon, not Brazilian Portuguese with a European accent.
+Barbara is a Brazilian Portuguese teacher. She can help you recognise pronunciation, vocabulary, and grammar differences between Brazilian and European Portuguese before a Lisbon trip; this page provides travel guidance rather than European Portuguese lessons.
 ### Practical, Real-World Focus
 
 This is not about perfect grammar or literary Portuguese - it is about getting what you need and connecting with people. Every lesson emphasises phrases you will actually use in Lisbon, from ordering pastéis de nata at a bakery to asking a local for directions in Alfama.
@@ -124,13 +124,13 @@ Learn from anywhere in the world via Zoom. Morning, afternoon, and evening sessi
 I recommend starting at least 4-6 weeks before departure for a focused travel course. However, even shorter programs can help you learn essential survival phrases that will make your Lisbon trip much more enjoyable.
 ### Will learning European Portuguese be difficult if I only know Brazilian Portuguese?
 
-Brazilian and European Portuguese speakers can generally understand each other. The main differences are in pronunciation, some vocabulary, and verb usage. Barbara can teach you the European Portuguese variants while also explaining how they differ from Brazilian Portuguese. If you already know Brazilian Portuguese, the transition to European Portuguese is much easier.
+Brazilian and European Portuguese speakers can generally understand each other. The main differences are in pronunciation, some vocabulary, and verb usage. Barbara can explain these European Portuguese variants while teaching Brazilian Portuguese. If you already know Brazilian Portuguese, the transition to European Portuguese is much easier.
 ### What if I've never studied Portuguese before?
 
 Absolutely fine! The Lisbon travel course is designed for complete beginners. Barbara starts from the very basics and builds up gradually, focusing on the phrases and expressions you will need most in Lisbon.
 ### Do I need to learn European Portuguese or Brazilian Portuguese for Lisbon?
 
-European Portuguese is the natural choice for Lisbon since it is the local variant. Brazilian Portuguese speakers will be understood in Lisbon, but learning European Portuguese shows cultural respect and helps you sound more authentic. Barbara teaches European Portuguese specifically for Lisbon, including local vocabulary and pronunciation.
+European Portuguese is the natural choice for Lisbon since it is the local variant. Brazilian Portuguese speakers will be understood in Lisbon, and learning local vocabulary helps you communicate respectfully. Barbara teaches Brazilian Portuguese and can explain the local terms and pronunciation you may hear in Lisbon.
 ### Can you teach me Portuguese specific to my Lisbon itinerary?
 
 Yes! Before starting, we'll discuss your specific travel plans: Which neighbourhoods will you stay in? What activities do you have planned? Will you be exploring beyond Lisbon? I'll then tailor the curriculum to focus on those specific situations, from navigating the metro to ordering at local restaurants.
@@ -138,7 +138,7 @@ Yes! Before starting, we'll discuss your specific travel plans: Which neighbourh
 
 European Portuguese has more closed vowel sounds and unstressed vowel reduction, which makes it sound faster and more clipped than Brazilian Portuguese. Some learners find European Portuguese harder to understand at first, but the written language is very similar and the grammar differences are manageable. Barbara's teaching method makes both variants accessible.
 
-[View All Travel Courses](/en/portuguese-for-travel/)[Book Your Free Consultation](/en/contact-portuguese-teacher/)
+[View All Travel Courses](/en/portuguese-for-travel/)[Contact Barbara about lesson options](/en/contact-portuguese-teacher/)
 ## "Aprender é viver!" (Learning is living!)
 
 Don't let language barriers limit your Lisbon experience. With Portuguese for Lisbon Travel, you'll discover a richer, more authentic journey through Portugal's beautiful capital. Start your European Portuguese journey today.

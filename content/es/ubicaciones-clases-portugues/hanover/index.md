@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Hanover. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Hanover forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Hanover está situada en Germany. Esta página mantiene la referencia local específica de Hanover, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Hanover forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Hanover está situada en Germany. Esta página mantiene la referencia local específica de Hanover, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Hanover: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Hanover: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,6 +57,6 @@ En las sesiones particulares te concentrarás en tus necesidades y ritmo de apre
 
 ## Empieza hoy tu recorrido con el portugués en Hanover
 
-¿Lista o listo para empezar a aprender portugués brasileño en Hanover? Contacta con Barbara Sharon para una clase de prueba gratuita y da el primer paso hacia la fluidez. Tanto si prefieres clases particulares de portugués como enseñanza grupal, sus cursos de portugués en línea ofrecen flexibilidad y educación de calidad.
+¿Lista o listo para empezar a aprender portugués brasileño en Hanover? Contacta con Barbara Sharon para una clases de portugués y da el primer paso hacia la fluidez. Tanto si prefieres clases particulares de portugués como enseñanza grupal, sus cursos de portugués en línea ofrecen flexibilidad y educación de calidad.
 
 Explora sus [servicios](/es/servicios-clases-portugues/) para encontrar el recorrido de aprendizaje perfecto para ti. O contacta con ella directamente mediante la página de [contacto](/es/contacto-profesora-portugues/) para reservar hoy tu primera sesión.

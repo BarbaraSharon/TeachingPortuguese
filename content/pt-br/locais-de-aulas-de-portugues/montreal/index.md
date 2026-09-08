@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Montreal. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Montreal está localizada em Canada. Montreal faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Montreal, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Montreal faz parte do fuso horário regional de North America usado para organizar horários. Montreal fica em Canada. Esta página mantém a referência local específica de Montreal, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Montreal: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Montreal: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ Além disso, a comunidade portuguesa de Montreal é ativa e acolhedora, com orga
 
 ## Como Barbara Sharon pode ajudar você a aprender português em Montreal
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -54,7 +54,7 @@ Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla ex
 
 Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro e o europeu, entender o contexto cultural e desenvolver habilidades de conversação que permitirão a você interagir de forma autêntica com falantes nativos. Como dedicada professora de português em Montreal, ela oferece sessões particulares e em grupo online, facilitando o acesso de estudantes de toda a cidade a um ensino de qualidade.
 
-Para mais informações sobre seus serviços de ensino, visite a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pelo formulário de [contato](/pt-br/contato-professora-portugues/) para agendar uma aula experimental gratuita e descobrir como sua abordagem pode apoiar seus objetivos linguísticos.
+Para mais informações sobre seus serviços de ensino, visite a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pelo formulário de [contato](/pt-br/contato-professora-portugues/) para agendar uma aulas de português e descobrir como sua abordagem pode apoiar seus objetivos linguísticos.
 
 ## A importância global do português
 
@@ -68,6 +68,6 @@ Estudantes em Montreal podem se beneficiar de horários flexíveis e métodos in
 
 Nossas aulas online usam ferramentas interativas e recursos multimídia para tornar a aprendizagem envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem. Quer você procure aulas de conversação em português em Montreal ou aulas de português para iniciantes, nossa plataforma apoia um ensino personalizado que se adapta às suas necessidades. Com opções de sessões de tutoria particular de português em Montreal ou aulas de português em grupo em Montreal, estudantes podem escolher o formato que melhor se encaixa em seu estilo de vida.
 
-## Comece sua jornada com uma aula experimental gratuita
+## Comece sua jornada com uma aulas de português
 
-Tem interesse em aprender português em Montreal? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Você pode entrar em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão hoje.
+Tem interesse em aprender português em Montreal? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Você pode entrar em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão hoje.

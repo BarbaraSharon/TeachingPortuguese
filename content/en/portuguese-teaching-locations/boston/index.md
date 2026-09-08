@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Boston. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Boston is located in United States. Boston is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to Boston while the teaching service remains online-first."
+local_context: "Boston is grouped in the North America regional time zone used for scheduling. Boston is located in United States. This page keeps the local reference specific to Boston while the teaching service remains online-first."
 scheduling: "Scheduling from Boston: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Boston: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -57,7 +57,7 @@ Barbara Sharon provides flexible lesson formats to suit all learners. Whether yo
 
 Her online classes accommodate beginners through advanced learners, with personalized curricula designed around your interests and goals. Private lessons offer focused attention, while group sessions encourage peer interaction and real-life conversation practice.
 
-To explore services or schedule a free trial lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)section. Start your Brazilian Portuguese journey today!
+To explore services or schedule a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)section. Start your Brazilian Portuguese journey today!
 ## Begin Your Journey to Fluency in Boston Today
 
-Ready to learn or improve your Brazilian Portuguese? Contact Barbara Sharon for a free trial lesson and take the first step toward fluency with confidence. With expert instruction, engaging content, and a supportive learning environment, you'll be speaking naturally in no time!
+Ready to learn or improve your Brazilian Portuguese? Contact Barbara Sharon for a Portuguese lesson and take the first step toward fluency with confidence. With expert instruction, engaging content, and a supportive learning environment, you'll be speaking naturally in no time!

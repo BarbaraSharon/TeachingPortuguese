@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Rome. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Rome está situada en Italy. Rome forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Rome, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Rome forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Rome está situada en Italy. Esta página mantiene la referencia local específica de Rome, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Rome: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Rome: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -48,7 +48,7 @@ Barbara Sharon es una profesora apasionada y experimentada de portugués brasile
 - Dominio de portugués, inglés, italiano y español
 - Orientadora profesional y guía cultural
 
-Con su comprensión profunda de portugués brasileño y europeo, Barbara ayuda a desenvolverse entre matices de uso, ganar conocimiento cultural y generar confianza para comunicarse en el mundo real. Su enfoque hace que aprender sea agradable, eficaz y adaptado a tus metas personales.
+Con su comprensión profunda de portugués brasileño, Barbara ayuda a desenvolverse entre matices de uso, ganar conocimiento cultural y generar confianza para comunicarse en el mundo real. Su enfoque hace que aprender sea agradable, eficaz y adaptado a tus metas personales.
 
 Tanto si te interesa mejorar comunicación empresarial con Brasil como apreciar la riqueza de la cultura brasileña, sus clases ofrecen un camino hacia adelante. Puedes explorar las clases de portugués cerca de Roma o aprovechar opciones flexibles de tutoría en línea que se adapten a tu horario. Para conocer más sobre sus [servicios](/es/servicios-clases-portugues/), contacta con Barbara mediante el formulario de [contacto](/es/contacto-profesora-portugues/).
 ## El portugués como lengua global: beneficios de aprenderlo en Roma

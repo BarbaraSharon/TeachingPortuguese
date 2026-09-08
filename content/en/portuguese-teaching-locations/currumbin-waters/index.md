@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Currumbin Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Located on the southern Gold Coast, Currumbin Waters is a peaceful suburb known for its scenic waterways and family-friendly atmosphere. With approximately 9,800 residents, it offers an ideal setting for language learners seeking a calm environment to study Portuguese. The area’s growing Brazilian community provides unique cultural immersion opportunities through local events and festivals that celebrate Brazilian traditions. Learners in Currumbin Waters can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Currumbin Waters is grouped in the Gold Coast regional time zone used for scheduling. Currumbin Waters is located in Australia. This page keeps the local reference specific to Currumbin Waters while the teaching service remains online-first."
 scheduling: "Scheduling from Currumbin Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Currumbin Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -60,6 +60,6 @@ Flexible lesson formats include one-on-one online sessions, private tutoring, an
 Barbara Sharon’s in-person Portuguese lessons in Currumbin Waters take place in Surfers Paradise, making them easily accessible for local students. For those who prefer remote learning, online Portuguese classes are available as a convenient alternative. Whether you’re looking for conversational Portuguese classes near Currumbin Waters or structured lessons for beginners, Barbara’s services meet diverse needs.
 ## Start Your Brazilian Portuguese Journey Today!
 
-Ready to begin your journey in learning Brazilian Portuguese in Currumbin Waters? Book a free trial lesson with Barbara Sharon and discover how personalized instruction can help you reach your goals faster. Whether you're searching for a Portuguese tutor near you or want to explore what Brazilian Portuguese lessons have to offer, she’s here to guide you every step of the way.
+Ready to begin your journey in learning Brazilian Portuguese in Currumbin Waters? Book a Portuguese lesson with Barbara Sharon and discover how personalized instruction can help you reach your goals faster. Whether you're searching for a Portuguese tutor near you or want to explore what Brazilian Portuguese lessons have to offer, she’s here to guide you every step of the way.
 
 With access to local cultural events and a teaching approach designed to build confidence, mastering Portuguese in this area offers unique advantages. To learn more about her teaching style and services, visit the [Contact](/en/contact-portuguese-teacher/)page or call today for a consultation.

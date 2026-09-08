@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Currumbin Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Situado en el sur de Gold Coast, Currumbin Waters es un suburbio tranquilo, conocido por sus pintorescas vías de agua y su ambiente familiar. Con unos 9.800 residentes, ofrece un entorno ideal para quienes buscan un lugar sereno donde estudiar portugués. La creciente comunidad brasileña de la zona aporta oportunidades singulares de inmersión cultural mediante eventos y festivales que celebran las tradiciones brasileñas. El alumnado de Currumbin Waters puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Currumbin Waters forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Currumbin Waters está situada en Australia. Esta página mantiene la referencia local específica de Currumbin Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Currumbin Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Currumbin Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -61,6 +61,6 @@ Las clases presenciales de Barbara Sharon para Currumbin Waters se celebran en S
 
 ## Empieza hoy tu recorrido con el portugués brasileño
 
-¿Lista o listo para comenzar a aprender portugués brasileño en Currumbin Waters? Reserva una clase de prueba gratuita con Barbara Sharon y descubre cómo la enseñanza personalizada puede ayudarte a alcanzar antes tus objetivos. Tanto si buscas una profesora de portugués cerca de ti como si quieres explorar las clases de portugués brasileño, estará contigo en cada paso.
+¿Lista o listo para comenzar a aprender portugués brasileño en Currumbin Waters? Reserva una clases de portugués con Barbara Sharon y descubre cómo la enseñanza personalizada puede ayudarte a alcanzar antes tus objetivos. Tanto si buscas una profesora de portugués cerca de ti como si quieres explorar las clases de portugués brasileño, estará contigo en cada paso.
 
 El acceso a eventos culturales locales y un enfoque docente diseñado para desarrollar confianza ofrecen ventajas singulares para dominar portugués en esta zona. Para conocer su estilo de enseñanza y sus servicios, visita la página de [contacto](/es/contacto-profesora-portugues/) o llama hoy para una consulta.

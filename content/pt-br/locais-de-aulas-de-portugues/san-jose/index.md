@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de San Jose. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "San Jose está localizada em United States. San Jose faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de San Jose, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "San Jose faz parte do fuso horário regional de North America usado para organizar horários. San Jose fica em United States. Esta página mantém a referência local específica de San Jose, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para San Jose: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em San Jose: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em San Jose: aulas de português brasileiro e europeu
+## Aprenda português em San Jose: aulas de português brasileiro
 
 San Jose é uma cidade vibrante na Califórnia, lar de uma população diversificada de mais de 997.368 residentes. Com uma comunidade significativa de língua portuguesa de cerca de 4.172 pessoas, oferece oportunidades únicas para quem aprende idiomas mergulhar nas ricas tradições culturais do Brasil e de Portugal. Quer você tenha interesse em aulas de português brasileiro ou em explorar a herança linguística de Portugal, San Jose oferece um ambiente ideal para aprender português.
 
@@ -43,7 +43,7 @@ A presença de grupos comunitários portugueses e brasileiros, como a Portuguese
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

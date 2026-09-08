@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Philadelphia. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Philadelphia está situada en United States. Philadelphia forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Philadelphia, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Philadelphia forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Philadelphia está situada en United States. Esta página mantiene la referencia local específica de Philadelphia, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Philadelphia: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Philadelphia: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,9 +29,9 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño y europeo en Filadelfia
+## Aprende portugués brasileño en Filadelfia
 
-Filadelfia, una activa ciudad estadounidense con más de 1,5 millones de residentes, ofrece un entorno estimulante para sumergirse en las ricas culturas de Brasil y Portugal. Con aproximadamente 5.360 residentes nacidos en Brasil y más de 3.093 personas nacidas en Portugal, Filadelfia alberga una de las mayores comunidades lusófonas de Pensilvania. Esta comunidad dinámica brinda una oportunidad única para conectar con experiencias auténticas de portugués brasileño y europeo.
+Filadelfia, una activa ciudad estadounidense con más de 1,5 millones de residentes, ofrece un entorno estimulante para sumergirse en las ricas culturas de Brasil y Portugal. Con aproximadamente 5.360 residentes nacidos en Brasil y más de 3.093 personas nacidas en Portugal, Filadelfia alberga una de las mayores comunidades lusófonas de Pensilvania. Esta comunidad dinámica brinda una oportunidad única para conectar con experiencias auténticas de portugués brasileño.
 
 Tanto si quieres dominar el portugués brasileño como explorar los matices del portugués europeo, Barbara Sharon ofrece clases particulares y grupales en línea adaptadas a tus metas. Como profesora cualificada de portugués, aporta amplia experiencia en ambas variedades y ayuda a comprender los contextos culturales y estilos de comunicación que hacen que aprender sea significativo y atractivo.
 ## ¿Por qué aprender portugués en Philadelphia?
@@ -43,14 +43,14 @@ Brasil, hogar de la mayor población lusófona del mundo, permite entender cómo
 Las activas comunidades portuguesas de Filadelfia organizan celebraciones como Brazilian Day y Portugal Day, que ofrecen experiencias inmersivas y enriquecen tu aprendizaje. Actuaciones de capoeira, conciertos de música tradicional y festivales gastronómicos brindan oportunidades naturales para practicar portugués en situaciones reales.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora certificada de portugués con profundo conocimiento de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora certificada de portugués con profundo conocimiento de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora con experiencia en enseñanza de idiomas
 
-El enfoque de Barbara combina precisión lingüística e inmersión cultural. Guía al alumnado entre las diferencias entre el portugués brasileño y europeo, para comprender modismos, expresiones y estilos comunicativos locales. Tanto si te preparas para interactuar profesionalmente con Brasil como si deseas disfrutar más profundamente de su cultura, Barbara hace que aprender sea eficaz y agradable.
+El enfoque de Barbara combina precisión lingüística e inmersión cultural. Guía al alumnado entre las diferencias entre el portugués brasileño, para comprender modismos, expresiones y estilos comunicativos locales. Tanto si te preparas para interactuar profesionalmente con Brasil como si deseas disfrutar más profundamente de su cultura, Barbara hace que aprender sea eficaz y agradable.
 
 Ofrece clases particulares y grupales en línea flexibles, por lo que puedes aprender desde cualquier lugar a tu ritmo. Tanto si eres principiante como si buscas mejorar la fluidez conversacional, adapta las sesiones a tus necesidades.
 
@@ -66,7 +66,7 @@ Tanto si te interesa la comunicación empresarial con países lusófonos como el
 
 Barbara Sharon ofrece clases particulares y grupales de portugués en línea en Filadelfia, con acceso fácil a enseñanza de calidad sin importar la ubicación. Las sesiones son interactivas y atractivas, con herramientas multimedia y contenido auténtico acorde con tus intereses.
 
-Tanto si eres principiante absoluto como si buscas fluidez conversacional, las clases en línea desarrollan confianza y comunicación en portugués brasileño y europeo. El alumnado puede explorar temas culturales como música, literatura y gastronomía, para que aprender sea agradable y significativo.
+Tanto si eres principiante absoluto como si buscas fluidez conversacional, las clases en línea desarrollan confianza y comunicación en portugués brasileño. El alumnado puede explorar temas culturales como música, literatura y gastronomía, para que aprender sea agradable y significativo.
 
 Las clases en línea de Barbara Sharon en Filadelfia incluyen:
 

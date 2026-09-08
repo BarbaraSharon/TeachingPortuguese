@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Palm Beach. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Palm Beach está situada en Australia. Palm Beach forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Palm Beach, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Palm Beach forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Palm Beach está situada en Australia. Esta página mantiene la referencia local específica de Palm Beach, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Palm Beach: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Palm Beach: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -84,8 +84,8 @@ Además, organizaciones como la Portuguese American Cultural Society of Palm Bea
 
 La ubicación estratégica, cerca de grandes centros comerciales, también facilita el acceso a redes de negocios en las que se valora cada vez más el dominio del portugués. Tanto si buscas clases particulares como clases grupales de portugués en Palm Beach, Palm Beach County ofrece opciones diversas para las necesidades y objetivos de cada estudiante.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Lista o listo para empezar a aprender portugués en Palm Beach? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque docente puede ayudarte a alcanzar tus objetivos lingüísticos. Tanto si empiezas desde cero como si quieres avanzar en tu fluidez, adaptará las clases a tus necesidades.
+¿Lista o listo para empezar a aprender portugués en Palm Beach? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque docente puede ayudarte a alcanzar tus objetivos lingüísticos. Tanto si empiezas desde cero como si quieres avanzar en tu fluidez, adaptará las clases a tus necesidades.
 
 Conoce más sobre sus [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara en la página de [contacto](/es/contacto-profesora-portugues/). ¡Empieza hoy a hablar portugués con naturalidad!

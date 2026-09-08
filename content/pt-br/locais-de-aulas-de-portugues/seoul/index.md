@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Seoul"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Seoul. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Seoul faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Seoul está localizada em South Korea. Esta página mantém a referência local específica de Seoul, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Seoul faz parte do fuso horário regional de Asia usado para organizar horários. Seoul fica em South Korea. Esta página mantém a referência local específica de Seoul, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Seoul: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Seoul; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Seoul: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -31,7 +31,7 @@ editorial_reviewed: true
 
 ## Aprenda português em Seul: aulas online com Barbara Sharon
 
-Seul, a vibrante capital da Coreia do Sul, é um caldeirão de culturas e oferece um ambiente ideal para aprender português. Com mais de 9,6 milhões de residentes e uma comunidade internacional diversificada, Seul proporciona oportunidades únicas de se conectar com falantes nativos e mergulhar nas tradições do português brasileiro e europeu.
+Seul, a vibrante capital da Coreia do Sul, é um caldeirão de culturas e oferece um ambiente ideal para aprender português. Com mais de 9,6 milhões de residentes e uma comunidade internacional diversificada, Seul proporciona oportunidades únicas de se conectar com falantes nativos e mergulhar nas tradições do português brasileiro.
 
 Quer você tenha interesse em aprimorar sua comunicação profissional com o Brasil ou simplesmente queira apreciar a beleza dessa língua românica, as aulas de português online com Barbara Sharon facilitam o início da sua jornada de qualquer lugar da cidade. Seu ensino especializado garante que você adquirirá não apenas habilidades linguísticas, mas também percepções culturais essenciais para a comunicação autêntica.
 

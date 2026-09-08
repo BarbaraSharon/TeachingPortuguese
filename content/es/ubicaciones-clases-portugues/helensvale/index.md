@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Helensvale con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Helensvale, un vibrante suburbio del norte de Gold Coast con más de 18.000 habitantes, alberga una comunidad diversa donde prosperan influencias internacionales. Por sus fuertes vínculos con Brasil mediante eventos culturales y negocios locales, es una ubicación ideal para quienes desean aprender portugués brasileño en Helensvale. El alumnado de Helensvale puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Helensvale forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Helensvale está situada en Australia. Esta página mantiene la referencia local específica de Helensvale, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Helensvale: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Helensvale: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,6 +57,6 @@ Las clases presenciales se realizan en Surfers Paradise para el alumnado de Hele
 
 ## Empieza hoy tu recorrido con Barbara Sharon
 
-¿Listo para comenzar a aprender portugués brasileño en Helensvale? Reserva una clase de prueba gratuita con Barbara Sharon y experimenta de primera mano su enfoque atractivo y centrado en el alumnado. Para más información sobre los servicios, visita [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/).
+¿Listo para comenzar a aprender portugués brasileño en Helensvale? Reserva una clases de portugués con Barbara Sharon y experimenta de primera mano su enfoque atractivo y centrado en el alumnado. Para más información sobre los servicios, visita [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/).
 
 «¡Aprender portugués es un viaje emocionante!»

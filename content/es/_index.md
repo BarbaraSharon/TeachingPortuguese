@@ -15,13 +15,13 @@ sections:
     title: Clases de portugués brasileño con Barbara Sharon
     text: Clases particulares y grupales de portugués brasileño en línea en todo el mundo y presenciales en Gold Coast con una profesora cualificada.
     primary_action:
-      text: Contacta con Barbara
-      url: /es/contacto-profesora-portugues/
+      text: Clases online en todo el mundo
+      url: /es/servicios-clases-portugues/clases-portugues-online/
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Ver servicios
-      url: /es/servicios-clases-portugues/
+      text: Clases grupales en Gold Coast
+      url: /es/servicios-clases-portugues/escuela-portugues-gold-coast/
       icon: hero/academic-cap
       style: ghost
     media:
@@ -210,6 +210,25 @@ sections:
     - title: ¿Cómo aprendo portugués para viajes y conversación?
       text: Practica situaciones probables, respuestas realistas, pronunciación y contexto cultural.
       url: /es/respuestas/aprender-portugues-viajes-conversacion/
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Precios claros
+    title: Elige tu formato de clase
+    text: Los precios iniciales actuales de Barbara se aplican a las clases online y en Gold Coast.
+    offers:
+    - id: term_10_week
+      title: Curso grupal de 10 semanas
+      price_prefix: desde
+      text: Desde A$290 por estudiante. Contacta con Barbara para confirmar el próximo grupo y la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    - id: private_4_week
+      title: Paquete privado de 4 semanas
+      price_prefix: desde
+      text: Desde A$260. Contacta con Barbara para hablar de la opción privada adecuada para tus objetivos.
+      url: /es/contacto-profesora-portugues/
+    action_text: Consultar disponibilidad
+    currency_note: Todos los precios están en dólares australianos. Contacta con Barbara para confirmar el paquete y la disponibilidad.
 - block: cta-card
   content:
     title: ¿Listo para aprender portugués?

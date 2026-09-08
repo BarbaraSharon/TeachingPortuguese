@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Hanover. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Hanover faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Hanover está localizada em Germany. Esta página mantém a referência local específica de Hanover, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Hanover faz parte do fuso horário regional de Europe usado para organizar horários. Hanover fica em Germany. Esta página mantém a referência local específica de Hanover, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Hanover: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Hanover: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,6 +57,6 @@ Nas sessões particulares, você se concentrará em suas necessidades individuai
 
 ## Comece hoje sua jornada no português em Hanover!
 
-Está pronto para começar a aprender português brasileiro em Hanover? Entre em contato com Barbara Sharon para uma aula experimental gratuita e dê o primeiro passo rumo à fluência. Se você prefere aulas particulares de português ou instrução em grupo, seus cursos online de português oferecem flexibilidade e ensino de qualidade.
+Está pronto para começar a aprender português brasileiro em Hanover? Entre em contato com Barbara Sharon para uma aulas de português e dê o primeiro passo rumo à fluência. Se você prefere aulas particulares de português ou instrução em grupo, seus cursos online de português oferecem flexibilidade e ensino de qualidade.
 
 Conheça seus [serviços](/pt-br/aulas-de-portugues/) para encontrar o percurso de aprendizagem ideal para você. Ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua primeira sessão hoje!

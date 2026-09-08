@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Mudgeeraba com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Mudgeeraba é um bairro arborizado e acolhedor para famílias, localizado no interior da Gold Coast. Conhecida por sua vibrante comunidade multicultural e proximidade de Robina e Varsity Lakes, essa região tornou-se um local ideal para estudantes de idiomas se conectarem com famílias locais brasileiras e de língua portuguesa. Quer você esteja procurando aulas de português em Mudgeeraba, uma tutora de português brasileiro ou experiências imersivas de idioma, Barbara Sharon oferece soluções de aprendizagem adaptadas às suas necessidades. Os alunos de Mudgeeraba podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Mudgeeraba faz parte do fuso horário regional de Gold Coast usado para organizar horários. Mudgeeraba fica em Australia. Esta página mantém a referência local específica de Mudgeeraba, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Mudgeeraba: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mudgeeraba: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Mudgeeraba: sua porta de entrada para o português brasileiro e europeu
+## Aprenda português em Mudgeeraba: sua porta de entrada para o português brasileiro
 
 Mudgeeraba é um bairro arborizado e acolhedor para famílias, localizado no interior da Gold Coast. Conhecida por sua vibrante comunidade multicultural e proximidade de Robina e Varsity Lakes, essa região tornou-se um local ideal para estudantes de idiomas se conectarem com famílias locais brasileiras e de língua portuguesa. Quer você esteja procurando aulas de português em Mudgeeraba, uma tutora de português brasileiro ou experiências imersivas de idioma, Barbara Sharon oferece soluções de aprendizagem adaptadas às suas necessidades.
 
@@ -43,7 +43,7 @@ A região também apoia conexões comerciais entre Austrália e Brasil, particul
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora qualificada de português, com sólida formação no ensino de português brasileiro e europeu. Suas credenciais incluem:
+Barbara Sharon é uma professora qualificada de português, com sólida formação no ensino de português brasileiro. Suas credenciais incluem:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -66,6 +66,6 @@ Nossas aulas interativas incorporam ferramentas multimídia e conteúdo envolven
 
 ## Comece hoje sua jornada no português
 
-Você está pronto para começar a aprender português em Mudgeeraba? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como seus métodos de ensino podem apoiar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira melhorar suas habilidades de conversação, ela está aqui para orientar você a cada passo do caminho.
+Você está pronto para começar a aprender português em Mudgeeraba? Entre em contato com Barbara Sharon para uma aulas de português e descubra como seus métodos de ensino podem apoiar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira melhorar suas habilidades de conversação, ela está aqui para orientar você a cada passo do caminho.
 
 Saiba mais sobre [aulas de português perto de Mudgeeraba](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão.

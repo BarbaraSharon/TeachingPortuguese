@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Montreal. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Montreal is located in Canada. Montreal is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to Montreal while the teaching service remains online-first."
+local_context: "Montreal is grouped in the North America regional time zone used for scheduling. Montreal is located in Canada. This page keeps the local reference specific to Montreal while the teaching service remains online-first."
 scheduling: "Scheduling from Montreal: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Montreal: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ The area also offers excellent opportunities for those interested in business or
 Additionally, Montreal's Portuguese community is active and welcoming, with organizations like Clube Portugal de Montreal hosting cultural events that celebrate lusophone heritage. These activities provide real-world contexts for practicing your new language skills. Students can also engage with Brazilian-Portuguese meetup groups and festivals such as Forró Montréal and the Festival Portugal Internacional de Montreal.
 ## How Barbara Sharon Can Help You Learn Portuguese in Montreal
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -52,7 +52,7 @@ Barbara Sharon is a qualified Portuguese language instructor with extensive expe
 
 With her expertise, Barbara can help you navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that will allow you to engage authentically with native speakers. As a dedicated Portuguese teacher Montreal, she provides both private and group sessions online, making it easy for students from around the city to access quality instruction.
 
-For more information on her teaching services, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly through our [Contact](/en/contact-portuguese-teacher/)form to schedule a free trial lesson and discover how her approach can support your language goals.
+For more information on her teaching services, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly through our [Contact](/en/contact-portuguese-teacher/)form to schedule a Portuguese lesson and discover how her approach can support your language goals.
 ## The Global Importance of Portuguese
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally. Montreal's growing Portuguese-speaking community, with approximately 51,580 residents, reflects this significance.
@@ -63,6 +63,6 @@ Learning Portuguese in Montreal gives you access to a rich linguistic tradition 
 Students in Montreal can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Online private and group Portuguese lessons are available worldwide, including for those based in Montreal. Barbara Sharon offers Portuguese classes Montreal through her online platform, ensuring accessible and personalized instruction.
 
 Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals. Whether you're seeking conversational Portuguese classes Montreal or beginner Portuguese lessons, our platform supports personalized instruction that adapts to your needs. With options for private Portuguese tutor Montreal sessions or group Portuguese lessons Montreal, students can choose the format that best suits their lifestyle.
-## Start Your Journey with a Free Trial Lesson
+## Start Your Journey with a Portuguese Lesson
 
-Interested in learning Portuguese in Montreal? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can reach out via our [Contact](/en/contact-portuguese-teacher/)page to book your session today.
+Interested in learning Portuguese in Montreal? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can reach out via our [Contact](/en/contact-portuguese-teacher/)page to book your session today.

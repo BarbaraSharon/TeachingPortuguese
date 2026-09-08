@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Heidelberg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Heidelberg is located in Germany. Heidelberg is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Heidelberg while the teaching service remains online-first."
+local_context: "Heidelberg is grouped in the Europe regional time zone used for scheduling. Heidelberg is located in Germany. This page keeps the local reference specific to Heidelberg while the teaching service remains online-first."
 scheduling: "Scheduling from Heidelberg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Heidelberg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -51,7 +51,7 @@ Each lesson is carefully structured to include grammar, vocabulary, conversation
 
 Barbara Sharon provides flexible learning options including online classes, private tutoring, and small group sessions. All levels are welcome-from absolute beginners to advanced learners. Private lessons give you personalized attention, while group sessions offer a fun way to practice with others.
 
-All instruction is delivered through reliable online platforms, making it easy for students in Heidelberg to access quality Portuguese teaching without leaving their homes. Explore her full range of [Services](/en/portuguese-teaching-services/)or reach out directly via the [Contact](/en/contact-portuguese-teacher/)page to book a free trial lesson and start your journey today.
+All instruction is delivered through reliable online platforms, making it easy for students in Heidelberg to access quality Portuguese teaching without leaving their homes. Explore her full range of [Services](/en/portuguese-teaching-services/)or reach out directly via the [Contact](/en/contact-portuguese-teacher/)page to book a Portuguese lesson and start your journey today.
 ## Start Your Portuguese Journey in Heidelberg
 
-Ready to begin learning Brazilian Portuguese in Heidelberg? Contact Barbara Sharon for a free trial lesson and discover how expert guidance can transform your language skills. Whether you're searching for a Portuguese tutor near me in Heidelberg or looking for conversational Portuguese classes, she offers customized support tailored to your needs. Her online Portuguese tutor services cater to both individual learners and small groups, ensuring a personalized and engaging experience.
+Ready to begin learning Brazilian Portuguese in Heidelberg? Contact Barbara Sharon for a Portuguese lesson and discover how expert guidance can transform your language skills. Whether you're searching for a Portuguese tutor near me in Heidelberg or looking for conversational Portuguese classes, she offers customized support tailored to your needs. Her online Portuguese tutor services cater to both individual learners and small groups, ensuring a personalized and engaging experience.

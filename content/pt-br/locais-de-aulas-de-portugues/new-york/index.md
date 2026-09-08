@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de New York. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "New York está localizada em United States. New York faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de New York, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "New York faz parte do fuso horário regional de North America usado para organizar horários. New York fica em United States. Esta página mantém a referência local específica de New York, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para New York: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em New York: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ A cidade também abriga grandes conexões de negócios com o Brasil por meio de 
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma dedicada professora de português, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma dedicada professora de português, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -63,8 +63,8 @@ Aprender português em Nova York dá a você acesso a uma rica tradição lingu�
 
 Aulas particulares e em grupo de português online estão disponíveis em Nova York por meio dos serviços de Barbara Sharon. Essas aulas usam ferramentas interativas e recursos multimídia para tornar a aprendizagem envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, quer você tenha interesse em aulas de português brasileiro para iniciantes ou aulas avançadas de conversação.
 
-Barbara oferece horários flexíveis para seus [serviços de aulas de português](/pt-br/aulas-de-portugues/), permitindo que estudantes de toda a cidade participem de suas sessões. Para quem busca uma aula experimental gratuita, ela convida você a [entrar em contato diretamente](/pt-br/contato-professora-portugues/) e descobrir como sua abordagem pode apoiar sua jornada no idioma.
+Barbara oferece horários flexíveis para seus [serviços de aulas de português](/pt-br/aulas-de-portugues/), permitindo que estudantes de toda a cidade participem de suas sessões. Para quem busca uma aulas de português, ela convida você a [entrar em contato diretamente](/pt-br/contato-professora-portugues/) e descobrir como sua abordagem pode apoiar sua jornada no idioma.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Nova York? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com aulas personalizadas de português brasileiro perto de você.
+Tem interesse em aprender português em Nova York? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com aulas personalizadas de português brasileiro perto de você.

@@ -91,7 +91,43 @@ describe opciones particulares y grupales. Las clases pueden combinar conversaci
 &lt;p&gt;La
 recoge su formación. Usa la
 para organizar una rutina y
-con tu zona horaria, nivel y objetivo para preguntar por opciones actuales.&lt;/p&gt;</description></item><item><title>Preply, Superprof o profesora independiente de portugués</title><link>https://barbarasharon.com.au/es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><guid>https://barbarasharon.com.au/es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/</guid><description>&lt;h2 id="qué-ofrece-una-plataforma-de-tutores"&gt;Qué ofrece una plataforma de tutores&lt;/h2&gt;
+con tu zona horaria, nivel y objetivo para preguntar por opciones actuales.- block: lesson-pricing
+id: lesson-pricing
+content:
+eyebrow: Precios claros
+title: Opciones de clases online
+text: Los precios actuales de Barbara se aplican a las clases online y en Gold Coast.
+offers:
+- id: term_10_week
+title: Curso grupal de 10 semanas
+price_prefix: desde
+text: Una clase de 1 hora por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar el próximo grupo y la disponibilidad.
+related_offers:
+- id: book_digital
+label: Libro digital
+price_prefix: desde
+- id: book_hard_copy
+label: Libro impreso
+price_prefix: &amp;quot;&amp;quot;
+related_note: Las opciones y ediciones de los libros se confirman antes de la matrícula.
+url: /es/contacto-profesora-portugues/
+- id: term_10_week_1_5_hour
+title: Curso grupal de 1,5 horas
+price_prefix: &amp;quot;&amp;quot;
+text: Una clase de 1,5 horas por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar la disponibilidad.
+url: /es/contacto-profesora-portugues/
+- id: private_4_week
+title: Paquete privado de 4 clases
+price_prefix: desde
+text: Una clase de 1 hora por semana durante 4 semanas. Contacta con Barbara para confirmar la opción actual y la disponibilidad.
+url: /es/contacto-profesora-portugues/
+- id: private_casual
+title: Clase suelta
+price_prefix: &amp;quot;&amp;quot;
+text: Una clase de 1 hora. Contacta con Barbara para consultar la disponibilidad y el precio de clases de 1,5 o 2 horas.
+url: /es/contacto-profesora-portugues/
+action_text: Consultar disponibilidad
+currency_note: Todos los precios están en dólares australianos. Contacta con Barbara para confirmar la opción y la disponibilidad.&lt;/p&gt;</description></item><item><title>Preply, Superprof o profesora independiente de portugués</title><link>https://barbarasharon.com.au/es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/</link><pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate><guid>https://barbarasharon.com.au/es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/</guid><description>&lt;h2 id="qué-ofrece-una-plataforma-de-tutores"&gt;Qué ofrece una plataforma de tutores&lt;/h2&gt;
 &lt;p&gt;Una plataforma de tutores reúne en un sitio web o una aplicación muchos perfiles, filtros de búsqueda, calendarios, mensajes, opiniones y herramientas de pago. Así puede resultar cómodo comparar horarios, precios y estilos de enseñanza. Algunas plataformas también incluyen aulas de vídeo, asistencia o indicadores de credenciales.&lt;/p&gt;
 &lt;p&gt;Sin embargo, la plataforma es una intermediaria, no la clase. Sus reglas de selección, etiquetas y sistemas de cobro varían. Un perfil puede servir para crear una lista de opciones, pero aún debes averiguar quién te enseñará, qué significan sus credenciales y cómo apoyará tu progreso. En las plataformas trabajan docentes cualificados, y ser independiente tampoco convierte automáticamente a alguien en docente cualificado.&lt;/p&gt;
 &lt;h2 id="comparación-sencilla-plataforma-o-docente-directo"&gt;Comparación sencilla: ¿plataforma o docente directo?&lt;/h2&gt;
@@ -235,9 +271,19 @@ para hablar de un plan adaptado a tu viaje y nivel.&lt;/p&gt;</description></ite
 &lt;h2 id="elige-el-valor-según-tu-objetivo"&gt;Elige el valor según tu objetivo&lt;/h2&gt;
 &lt;p&gt;Una persona que prepara un viaje puede valorar más los juegos de rol y las correcciones de pronunciación. Un principiante quizá necesite una secuencia clara y comentarios regulares. Quien mantiene su nivel conversacional puede preferir un grupo con diferentes interlocutores. La guía sobre
 ayuda a escoger el formato antes de pedir precios.&lt;/p&gt;
-&lt;h2 id="consultar-precios-actuales-con-barbara"&gt;Consultar precios actuales con Barbara&lt;/h2&gt;
-&lt;p&gt;Barbara ofrece
-en directo para adultos de todo el mundo, en formatos privados y grupales. Las opciones presenciales en Gold Coast dependen de la disponibilidad actual. Como precios, horarios y formatos pueden cambiar, esta página no publica una cifra fija sin confirmar.&lt;/p&gt;
+&lt;h2 id="precios-actuales-de-barbara"&gt;Precios actuales de Barbara&lt;/h2&gt;
+&lt;p&gt;Los precios iniciales actuales de Barbara son:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Curso grupal de 1 hora — curso de 10 semanas, una clase por semana: desde A$290 por estudiante y curso.&lt;/li&gt;
+&lt;li&gt;Curso grupal de 1,5 horas — curso de 10 semanas, una clase por semana: A$370 por estudiante y curso.&lt;/li&gt;
+&lt;li&gt;Libro digital: desde A$25. Libro impreso: A$50.&lt;/li&gt;
+&lt;li&gt;Paquete privado de 4 clases — una clase de 1 hora por semana durante cuatro semanas: desde A$260.&lt;/li&gt;
+&lt;li&gt;Clase particular suelta — una hora: A$70 por clase.&lt;/li&gt;
+&lt;li&gt;Para clases particulares de 1,5 o 2 horas, contacta con Barbara para consultar disponibilidad y precio.&lt;/li&gt;
+&lt;li&gt;Club de conversación: FREE para estudiantes matriculados y A$20 por sesión para estudiantes no matriculados.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Todos los precios están en dólares australianos. Las
+están disponibles en todo el mundo, y las opciones presenciales en Gold Coast dependen de la disponibilidad actual. Contacta con Barbara para confirmar el paquete y sus detalles antes de reservar.&lt;/p&gt;
 &lt;p&gt;Al
 , indica tu nivel, objetivo, ciudad o zona horaria, formato preferido y disponibilidad general para consultar la opción correspondiente y su precio actual.&lt;/p&gt;</description></item><item><title>Clases de portugués privadas o grupales: ¿cuál elegir?</title><link>https://barbarasharon.com.au/es/respuestas/clases-portugues-privadas-o-grupales/</link><pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate><guid>https://barbarasharon.com.au/es/respuestas/clases-portugues-privadas-o-grupales/</guid><description>&lt;h2 id="compara-la-experiencia-no-solo-el-nombre-del-formato"&gt;Compara la experiencia, no solo el nombre del formato&lt;/h2&gt;
 &lt;p&gt;Tanto las clases privadas como las grupales pueden incluir conversación, comprensión oral, pronunciación, vocabulario, gramática y contexto cultural. La diferencia está en cómo se distribuyen el tiempo y la atención.&lt;/p&gt;

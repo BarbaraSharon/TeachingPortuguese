@@ -19,13 +19,13 @@ sections:
     text: Private and group Brazilian Portuguese lessons online worldwide and in-person on the Gold Coast with a qualified
       teacher.
     primary_action:
-      text: Contact Barbara
-      url: /en/contact-portuguese-teacher/
+      text: Online lessons worldwide
+      url: /en/portuguese-teaching-services/online-portuguese-lessons/
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: View services
-      url: /en/portuguese-teaching-services/
+      text: Gold Coast group classes
+      url: /en/portuguese-teaching-services/portuguese-school-gold-coast/
       icon: hero/academic-cap
       style: ghost
     media:
@@ -161,8 +161,8 @@ sections:
       rating: 5
       best_rating: 5
       review_date: 2016-11-23
-      course_id: advanced-portuguese
-      course_name: Advanced Portuguese Course
+      course_id: intermediate-portuguese
+      course_name: Intermediate Portuguese Course
       source: email
       source_label: Submitted by email
       text: Hello all, I did a Portuguese class (intermediate level) with Barbara to prepare my application to a Master of
@@ -174,8 +174,8 @@ sections:
       rating: 5
       best_rating: 5
       review_date: 2022-05-10
-      course_id: intermediate-portuguese
-      course_name: Intermediate Portuguese Course
+      course_id: portuguese-lessons
+      course_name: Portuguese Lessons
       source: email
       source_label: Submitted by email
       text: Having attended to Barbara's classes and seen her interacting with her peers and students, it was clear she was
@@ -228,6 +228,25 @@ sections:
     - title: How can I learn Portuguese for travel and conversation?
       text: Practise likely situations, realistic replies, pronunciation and cultural context.
       url: /en/answers/learn-portuguese-for-travel-and-conversation/
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Clear pricing
+    title: Choose your lesson format
+    text: Barbara's current starting prices apply to online and Gold Coast lessons.
+    offers:
+    - id: term_10_week
+      title: 10-week group term
+      price_prefix: from
+      text: From A$290 per student. Contact Barbara to confirm the next group and availability.
+      url: /en/contact-portuguese-teacher/
+    - id: private_4_week
+      title: Private 4-week package
+      price_prefix: from
+      text: From A$260. Contact Barbara to discuss the right private option for your goals.
+      url: /en/contact-portuguese-teacher/
+    action_text: Ask about availability
+    currency_note: All prices are in Australian dollars. Contact Barbara to confirm the applicable package and availability.
 - block: cta-card
   content:
     title: Ready to learn Portuguese?

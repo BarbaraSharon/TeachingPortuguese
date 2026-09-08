@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Freiburg Im Breisgau. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Freiburg Im Breisgau está localizada em Germany. Freiburg Im Breisgau faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Freiburg Im Breisgau, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Freiburg Im Breisgau faz parte do fuso horário regional de Europe usado para organizar horários. Freiburg Im Breisgau fica em Germany. Esta página mantém a referência local específica de Freiburg Im Breisgau, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Freiburg Im Breisgau: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Freiburg Im Breisgau: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Seus serviços incluem aulas de conversação em português e aulas estruturadas
 
 ## Comece hoje sua jornada no português
 
-Está pronto para começar a aprender português brasileiro em Freiburg im Breisgau? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Saiba mais sobre seus serviços na página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).
+Está pronto para começar a aprender português brasileiro em Freiburg im Breisgau? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Saiba mais sobre seus serviços na página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).

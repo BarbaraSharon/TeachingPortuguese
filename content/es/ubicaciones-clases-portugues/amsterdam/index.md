@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Amsterdam. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Amsterdam forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Amsterdam está situada en Netherlands. Esta página mantiene la referencia local específica de Amsterdam, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Amsterdam forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Amsterdam está situada en Netherlands. Esta página mantiene la referencia local específica de Amsterdam, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Amsterdam: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Amsterdam: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ Los formatos flexibles incluyen clases en línea, tutoría particular y sesiones
 Barbara imparte clases individuales y grupales de portugués para estudiantes de Ámsterdam, totalmente en línea. Tanto si buscas una [tutora de portugués](/es/contacto-profesora-portugues/) como una [profesora de portugués brasileño](/es/contacto-profesora-portugues/), adapta el método a tus necesidades. Explora todas sus opciones en [Servicios](/es/servicios-clases-portugues/).
 ## Empieza hoy tu camino con el portugués
 
-¿Te interesa aprender portugués en Ámsterdam? Contacta con Barbara Sharon para una clase de prueba gratuita y empieza hoy tu camino. Puedes escribirle mediante la página de [Contacto](/es/contacto-profesora-portugues/) para comenzar con clases particulares o grupales adaptadas a tus objetivos.
+¿Te interesa aprender portugués en Ámsterdam? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu camino. Puedes escribirle mediante la página de [Contacto](/es/contacto-profesora-portugues/) para comenzar con clases particulares o grupales adaptadas a tus objetivos.

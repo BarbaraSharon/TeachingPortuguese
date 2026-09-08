@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Rotterdam. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Rotterdam is grouped in the Europe location set used for local scheduling and learner guidance. Rotterdam is located in Netherlands. This page keeps the local reference specific to Rotterdam while the teaching service remains online-first."
+local_context: "Rotterdam is grouped in the Europe regional time zone used for scheduling. Rotterdam is located in Netherlands. This page keeps the local reference specific to Rotterdam while the teaching service remains online-first."
 scheduling: "Scheduling from Rotterdam: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Rotterdam: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Rotterdam - Brazilian & European Portuguese Online Lessons
+## Learn Portuguese in Rotterdam - Brazilian Portuguese Online Lessons
 
 Rotterdam, a city of over 1 million residents with approximately 50% of the population having a migration background, offers a vibrant multicultural environment for learning Portuguese. This diverse community includes Brazilian and Portuguese speakers, creating opportunities to practice the language in real-world settings. The city's international character makes it an ideal place to explore the rich linguistic heritage of Brazil and Portugal.
 
@@ -44,7 +44,7 @@ Brazil’s influence on global culture through music, cinema, and literature mak
 Rotterdam also maintains significant commercial connections with Portugal, facilitating trade in sectors like agriculture, technology, and logistics. These relationships make learning Portuguese relevant for both cultural appreciation and career development.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese tutor Gold Coast with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese tutor Gold Coast with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

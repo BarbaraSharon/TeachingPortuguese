@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bangalore. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bangalore forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Bangalore está situada en India. Esta página mantiene la referencia local específica de Bangalore, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Bangalore forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Bangalore está situada en India. Esta página mantiene la referencia local específica de Bangalore, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Bangalore: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Kolkata; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bangalore: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -51,4 +51,4 @@ Barbara ofrece clases particulares individuales y sesiones grupales interactivas
 Aprende con una hablante nativa que conoce tanto el idioma como sus matices culturales. El enfoque de Barbara se adapta a tus necesidades individuales y mantiene el estudio accesible, atractivo y orientado a la comunicación.
 ## Empieza hoy tu camino
 
-¿Lista o listo para empezar con portugués brasileño en Bangalore? Contacta con Barbara Sharon para una clase de prueba gratuita y da el primer paso para dominar uno de los idiomas más dinámicos del mundo. Ya sea por desarrollo profesional, viajes o enriquecimiento personal, estudiar con Barbara puede abrir puertas a la cultura brasileña y a oportunidades globales. [Contacta ahora](/es/contacto-profesora-portugues/) para empezar tu recorrido.
+¿Lista o listo para empezar con portugués brasileño en Bangalore? Contacta con Barbara Sharon para una clases de portugués y da el primer paso para dominar uno de los idiomas más dinámicos del mundo. Ya sea por desarrollo profesional, viajes o enriquecimiento personal, estudiar con Barbara puede abrir puertas a la cultura brasileña y a oportunidades globales. [Contacta ahora](/es/contacto-profesora-portugues/) para empezar tu recorrido.

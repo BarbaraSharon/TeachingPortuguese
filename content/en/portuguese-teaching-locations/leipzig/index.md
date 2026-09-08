@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Leipzig. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Leipzig is grouped in the Europe location set used for local scheduling and learner guidance. Leipzig is located in Germany. This page keeps the local reference specific to Leipzig while the teaching service remains online-first."
+local_context: "Leipzig is grouped in the Europe regional time zone used for scheduling. Leipzig is located in Germany. This page keeps the local reference specific to Leipzig while the teaching service remains online-first."
 scheduling: "Scheduling from Leipzig: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Leipzig: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Leipzig’s diverse community provides excellent opportunities for those interes
 As one of the world’s most widely spoken Romance languages, Portuguese opens doors to diverse cultures across Africa, Asia, and the Americas. With over 267 million native speakers globally, mastering this language enhances your travel experiences, business prospects, and personal connections with Portuguese-speaking communities in Germany and beyond.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a highly qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a highly qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, and Spanish
@@ -61,8 +61,8 @@ Whether you're interested in Brazilian Portuguese lessons or conversational Port
 Barbara Sharon delivers engaging and effective online Portuguese lessons that fit into your schedule. Whether you're a complete beginner or aiming for advanced conversation, she offers customized learning materials tailored to your interests and goals.
 
 Through interactive tools and multimedia resources, students enjoy an immersive learning experience from the comfort of their homes. Online group classes are also available for those who prefer collaborative learning, while private sessions offer personalized attention and feedback.
-## Book Your Free Trial Lesson in Leipzig Today!
+## Book Your Portuguese Lesson in Leipzig Today!
 
-Ready to start your Portuguese journey in Leipzig? Contact Barbara Sharon for a free trial lesson and discover how her dynamic teaching style can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your learning journey.
+Ready to start your Portuguese journey in Leipzig? Contact Barbara Sharon for a Portuguese lesson and discover how her dynamic teaching style can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your learning journey.
 
 [Book now](/en/contact-portuguese-teacher/)through our Contact page and take the first step towards becoming confident in Portuguese!

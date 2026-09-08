@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Singapore"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Singapore. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Singapore faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Singapore está localizada em Singapore. Esta página mantém a referência local específica de Singapore, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Singapore faz parte do fuso horário regional de Asia usado para organizar horários. Singapore fica em Singapore. Esta página mantém a referência local específica de Singapore, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Singapore: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Singapore; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Singapore: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ O Brasil, lar da maior comunidade de língua portuguesa do mundo, oferece ricas 
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é professora certificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é professora certificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

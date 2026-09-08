@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Ormeau. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Ormeau está situada en Australia. Ormeau forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Ormeau, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Ormeau forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Ormeau está situada en Australia. Esta página mantiene la referencia local específica de Ormeau, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Ormeau: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Ormeau: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ Para quienes se interesan por oportunidades de negocio o viaje entre Australia y
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia enseñando portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia enseñando portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -51,7 +51,7 @@ Barbara Sharon es una profesora cualificada de portugués, con amplia experienci
 - Orientadora
 - Maestría en Estudios Educativos y Gestión del Comportamiento, en curso
 
-Con su experiencia, Barbara puede ayudarte a desenvolverte en las diferencias entre portugués brasileño y europeo, comprender el contexto cultural y desarrollar habilidades de conversación que te permitirán relacionarte auténticamente con hablantes nativos. Ofrece clases particulares y grupales, además de un club de conversación para una práctica más interactiva.
+Con su experiencia, Barbara puede ayudarte a desenvolverte en las diferencias entre portugués brasileño, comprender el contexto cultural y desarrollar habilidades de conversación que te permitirán relacionarte auténticamente con hablantes nativos. Ofrece clases particulares y grupales, además de un club de conversación para una práctica más interactiva.
 
 Conoce más sobre [servicios de enseñanza de portugués](/es/servicios-clases-portugues/) o comunícate directamente mediante la página de [contacto](/es/contacto-profesora-portugues/).
 
@@ -67,6 +67,6 @@ Hay clases particulares y grupales de portugués en línea en Ormeau. Tanto si e
 
 Recibirás materiales adaptados a tus intereses y objetivos específicos, para que cada clase sea pertinente e impactante. Con opciones de horario flexibles, puedes integrar el estudio del portugués en tu vida ocupada sin importar dónde estés en Ormeau. Tanto si buscas una tutora de portugués brasileño en Ormeau, una profesora de portugués cerca de ti en Ormeau o clases de portugués para principiantes en Ormeau, el formato en línea hace que aprender sea accesible y cómodo.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Te interesa aprender portugués en Ormeau? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido. Aprende hoy portugués en Ormeau con una profesora nativa cualificada de portugués en Ormeau.
+¿Te interesa aprender portugués en Ormeau? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido. Aprende hoy portugués en Ormeau con una profesora nativa cualificada de portugués en Ormeau.

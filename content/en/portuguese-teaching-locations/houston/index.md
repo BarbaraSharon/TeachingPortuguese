@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Houston. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Houston is grouped in the North America location set used for local scheduling and learner guidance. Houston is located in United States. This page keeps the local reference specific to Houston while the teaching service remains online-first."
+local_context: "Houston is grouped in the North America regional time zone used for scheduling. Houston is located in United States. This page keeps the local reference specific to Houston while the teaching service remains online-first."
 scheduling: "Scheduling from Houston: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Chicago; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Houston: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -52,4 +52,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Explore her services at [Services](/en/portuguese-teaching-services/), or reach out through [Contact](/en/contact-portuguese-teacher/)to begin your journey. Whether you're looking for a Brazilian Portuguese tutor in Houston, conversational Portuguese classes, or online Portuguese tutor services, Barbara’s programs are designed to help you achieve fluency.
 ## Start Your Journey to Speaking Portuguese in Houston Today
 
-Ready to learn Brazilian Portuguese in Houston? Contact Barbara Sharon for a free trial lesson and begin your language journey today. With access to local Brazilian communities, practical business language skills, and rich cultural activities, Houston provides a dynamic setting for Portuguese learners. Whether you're looking for beginner Portuguese lessons in Houston or advanced conversational practice, Barbara offers tailored support to meet your goals.
+Ready to learn Brazilian Portuguese in Houston? Contact Barbara Sharon for a Portuguese lesson and begin your language journey today. With access to local Brazilian communities, practical business language skills, and rich cultural activities, Houston provides a dynamic setting for Portuguese learners. Whether you're looking for beginner Portuguese lessons in Houston or advanced conversational practice, Barbara offers tailored support to meet your goals.

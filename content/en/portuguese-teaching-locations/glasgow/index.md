@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Glasgow. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Glasgow is grouped in the Europe location set used for local scheduling and learner guidance. Glasgow is located in United Kingdom. This page keeps the local reference specific to Glasgow while the teaching service remains online-first."
+local_context: "Glasgow is grouped in the Europe regional time zone used for scheduling. Glasgow is located in United Kingdom. This page keeps the local reference specific to Glasgow while the teaching service remains online-first."
 scheduling: "Scheduling from Glasgow: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Glasgow: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -58,6 +58,6 @@ Private lessons offer personalized attention and a tailored curriculum, while gr
 Whether you prefer one-on-one instruction or the collaborative energy of group settings, Barbara's approach ensures meaningful progress. For beginners, her Portuguese lessons near Glasgow include foundational skills, while advanced learners can focus on refining their fluency and cultural understanding. Start your journey today and discover how Brazilian Portuguese can open doors to new opportunities!
 ## Begin Your Journey to Fluency Today
 
-Ready to start learning Portuguese in Glasgow? Contact Barbara Sharon for a free trial lesson and take the first step toward fluency. Whether you're seeking Brazilian Portuguese tutor Glasgow support, online Portuguese lessons Glasgow, or beginner-friendly classes, she is ready to guide you every step of the way.
+Ready to start learning Portuguese in Glasgow? Contact Barbara Sharon for a Portuguese lesson and take the first step toward fluency. Whether you're seeking Brazilian Portuguese tutor Glasgow support, online Portuguese lessons Glasgow, or beginner-friendly classes, she is ready to guide you every step of the way.
 
 With her expertise and focus on real-world application, you'll gain the confidence to use Portuguese in both personal and professional contexts. Let Barbara help you unlock the beauty of Brazilian Portuguese and embrace a new world of communication!

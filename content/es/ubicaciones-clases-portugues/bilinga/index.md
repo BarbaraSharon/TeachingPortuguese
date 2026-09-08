@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Bilinga con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Bilinga, un sereno suburbio costero de Gold Coast en Queensland, ofrece un entorno ideal para aprender idiomas con concentración. Con su tranquila atmósfera residencial y cercanía a Surfers Paradise, es perfecto para quienes buscan un lugar apacible y accesible donde estudiar portugués. Tanto si eres principiante como si quieres perfeccionar conversación, Bilinga ofrece una mezcla única de calma costera y vitalidad cultural. El alumnado de Bilinga puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Bilinga forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Bilinga está situada en Australia. Esta página mantiene la referencia local específica de Bilinga, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Bilinga: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bilinga: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,6 +63,6 @@ Sus clases se estructuran con gramática, vocabulario, conversación y contexto 
 
 ## Empieza hoy tu recorrido con el portugués en Bilinga
 
-¿Listo para empezar a aprender portugués en Bilinga? Reserva hoy una clase de prueba gratuita con Barbara Sharon y comprueba de primera mano cómo su estilo de enseñanza único puede ayudarte a alcanzar tus objetivos lingüísticos.
+¿Listo para empezar a aprender portugués en Bilinga? Reserva hoy una clases de portugués con Barbara Sharon y comprueba de primera mano cómo su estilo de enseñanza único puede ayudarte a alcanzar tus objetivos lingüísticos.
 
 Tanto si te interesan servicios de profesora de portugués brasileño, clases de conversación o simplemente mejorar tu expresión oral, Barbara está aquí para guiarte en cada paso. Encuentra una profesora de portugués local cerca de Bilinga o conéctate con una tutora de portugués en línea para oportunidades de aprendizaje flexibles.

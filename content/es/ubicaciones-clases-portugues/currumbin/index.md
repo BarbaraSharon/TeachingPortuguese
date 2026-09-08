@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Currumbin con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Currumbin es un suburbio sereno en el sur de Gold Coast, conocido por sus impresionantes paisajes naturales, playas vírgenes y santuario de fauna silvestre. Con una población aproximada de 3.278 habitantes, ofrece un entorno tranquilo ideal para estudiar un idioma con concentración. Según el censo de 2016, cerca del 0,4 % de la población de Currumbin hablaba portugués en casa: unas 170 personas. La zona atrae a muchas personas interesadas en aprender idiomas nuevos, incluido el portugués. El alumnado de Currumbin puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Currumbin forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Currumbin está situada en Australia. Esta página mantiene la referencia local específica de Currumbin, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Currumbin: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Currumbin: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ El alumnado de Currumbin puede asistir a clases presenciales de portugués en Su
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués brasileño en Currumbin? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza hoy tu recorrido. Tanto si buscas una tutora de portugués brasileño en Currumbin, clases de portugués en línea cerca de ti o clases de portugués para principiantes en Currumbin, ella está aquí para apoyar tus objetivos.
+¿Listo para aprender portugués brasileño en Currumbin? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido. Tanto si buscas una tutora de portugués brasileño en Currumbin, clases de portugués en línea cerca de ti o clases de portugués para principiantes en Currumbin, ella está aquí para apoyar tus objetivos.

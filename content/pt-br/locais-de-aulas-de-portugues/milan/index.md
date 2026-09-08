@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Milan. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Milan faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Milan está localizada em Italy. Esta página mantém a referência local específica de Milan, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Milan faz parte do fuso horário regional de Europe usado para organizar horários. Milan fica em Italy. Esta página mantém a referência local específica de Milan, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Milan: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Milan: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ Com a presença de marcas brasileiras em eventos como Micam Milano e atividades 
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma tutora de português apaixonada e experiente na Gold Coast, com profundo entendimento do português brasileiro e europeu. Sua abordagem de ensino combina rigor acadêmico e habilidades práticas de comunicação, garantindo que os estudantes ganhem confiança em situações reais.
+Barbara Sharon é uma tutora de português apaixonada e experiente na Gold Coast, com profundo entendimento do português brasileiro. Sua abordagem de ensino combina rigor acadêmico e habilidades práticas de comunicação, garantindo que os estudantes ganhem confiança em situações reais.
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -68,6 +68,6 @@ Quer você seja iniciante absoluto ou queira aprimorar suas habilidades, seus cu
 
 ## Comece hoje sua jornada no português
 
-Você está pronto para começar sua aventura no português em Milão? Entre em contato com Barbara Sharon hoje para uma aula experimental gratuita e conheça de perto seu estilo de ensino dinâmico. Quer você tenha interesse em dominar conversas básicas ou avançar sua fluência, ela está aqui para apoiar sua jornada.
+Você está pronto para começar sua aventura no português em Milão? Entre em contato com Barbara Sharon hoje para uma aulas de português e conheça de perto seu estilo de ensino dinâmico. Quer você tenha interesse em dominar conversas básicas ou avançar sua fluência, ela está aqui para apoiar sua jornada.
 
 Explore as páginas de [aulas de português](/pt-br/aulas-de-portugues/) e [contato](/pt-br/contato-professora-portugues/) para obter mais informações sobre como começar sua formação em português em Milão. Descubra por que tantos estudantes escolhem as aulas de português online de Barbara Sharon.

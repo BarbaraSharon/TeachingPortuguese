@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Vancouver. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Vancouver faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Vancouver está localizada em Canada. Esta página mantém a referência local específica de Vancouver, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Vancouver faz parte do fuso horário regional de North America usado para organizar horários. Vancouver fica em Canada. Esta página mantém a referência local específica de Vancouver, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Vancouver: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Vancouver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Vancouver: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Vancouver é uma cidade canadense dinâmica, conhecida por seu ambiente multicultural e população diversa. Com mais de 662.248 residentes e quase 41,8% de pessoas nascidas no exterior, ela oferece um cenário ideal para quem aprende idiomas e deseja mergulhar em culturas globais. A cidade abriga comunidades brasileiras e portuguesas vibrantes - com mais de 1.275 residentes permanentes nascidos no Brasil e 22.980 residentes nascidos em Portugal na região metropolitana de Vancouver em 2019.
 
-Barbara Sharon oferece aulas de português online, particulares e em grupo, adaptadas ao seu nível e aos seus objetivos. Quer você tenha interesse em aprender português brasileiro ou europeu, suas aulas são projetadas para oferecer ensino personalizado que conecta você à rica trama cultural dessas comunidades. Com mais de 8.715 falantes de português na região, Vancouver é um excelente lugar para praticar habilidades de conversação e explorar as nuances do idioma.
+Barbara Sharon oferece aulas de português online, particulares e em grupo, adaptadas ao seu nível e aos seus objetivos. Quer você tenha interesse em aprender português brasileiro, suas aulas são projetadas para oferecer ensino personalizado que conecta você à rica trama cultural dessas comunidades. Com mais de 8.715 falantes de português na região, Vancouver é um excelente lugar para praticar habilidades de conversação e explorar as nuances do idioma.
 
 ## Por que aprender português em Vancouver?
 
@@ -45,7 +45,7 @@ Organizações como a Brazilian Community Association BC (BCA-BC) e a Latincouve
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora certificada de português, com ampla experiência no ensino de português brasileiro e europeu. Suas qualificações incluem:
+Barbara Sharon é uma professora certificada de português, com ampla experiência no ensino de português brasileiro. Suas qualificações incluem:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -66,4 +66,4 @@ Aprender português em Vancouver abre portas para entender como esse idioma evol
 
 Aproveite aulas convenientes de português online, particulares e em grupo, com Barbara Sharon em Vancouver. Essas sessões interativas tornam a aprendizagem envolvente, eficaz e adaptável à sua rotina.
 
-Você receberá materiais personalizados e alinhados aos seus interesses e objetivos - seja explorar a música brasileira, assistir a filmes portugueses ou se preparar para interações de viagem ou negócios. Quer você tenha interesse em aprender português brasileiro ou europeu, ela oferece ensino especializado adaptado a cada variante. Comece sua jornada hoje e viva a alegria de se comunicar em português com confiança!
+Você receberá materiais personalizados e alinhados aos seus interesses e objetivos - seja explorar a música brasileira, assistir a filmes portugueses ou se preparar para interações de viagem ou negócios. Quer você tenha interesse em aprender português brasileiro, ela oferece ensino especializado adaptado a cada variante. Comece sua jornada hoje e viva a alegria de se comunicar em português com confiança!

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Madrid. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Madrid está localizada em Spain. Madrid faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Madrid, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Madrid faz parte do fuso horário regional de Europe usado para organizar horários. Madrid fica em Spain. Esta página mantém a referência local específica de Madrid, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Madrid: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Madrid; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Madrid: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,11 +29,11 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Madri | Aulas de português brasileiro e europeu
+## Aprenda português em Madri | Aulas de português brasileiro
 
 Madri, a vibrante capital da Espanha com uma população de 3,4 milhões de habitantes (2025), oferece um excelente ambiente para aprender português. Com 24% dos residentes nascidos no exterior, a cidade proporciona um cenário multicultural ideal para intercâmbio linguístico e imersão cultural. A comunidade diversa de Madri inclui populações brasileiras e portuguesas significativas, criando oportunidades de se conectar com falantes nativos e explorar a cultura ibérica.
 
-Aulas online particulares e em grupo de português estão disponíveis em Madri. Barbara Sharon oferece aulas online flexíveis, adaptadas às suas necessidades e objetivos. Todos os níveis são bem-vindos, de iniciantes completos a quem deseja aperfeiçoar suas habilidades de conversação. Se você tem interesse em português brasileiro ou europeu, ela fornece ensino personalizado, planejado para uma aprendizagem eficaz.
+Aulas online particulares e em grupo de português estão disponíveis em Madri. Barbara Sharon oferece aulas online flexíveis, adaptadas às suas necessidades e objetivos. Todos os níveis são bem-vindos, de iniciantes completos a quem deseja aperfeiçoar suas habilidades de conversação. Se você tem interesse em português brasileiro, ela fornece ensino personalizado, planejado para uma aprendizagem eficaz.
 
 ## Por que aprender português em Madri?
 
@@ -43,14 +43,14 @@ Aprender português em Madri dá acesso a uma rica tradição linguística que v
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação educacional inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação educacional inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação em TESOL
 - Fala português, inglês, italiano e espanhol
 - Conselheira
 
-Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro e europeu, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Ela oferece aulas online particulares e em grupo para estudantes em Madri, proporcionando uma experiência de aprendizagem flexível e envolvente.
+Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Ela oferece aulas online particulares e em grupo para estudantes em Madri, proporcionando uma experiência de aprendizagem flexível e envolvente.
 
 ## O português como língua global
 
@@ -64,10 +64,10 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Nossas aulas online utilizam ferramentas interativas e recursos multimídia para tornar o aprendizado envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem. Se você procura uma [tutora de português brasileiro em Madri](/pt-br/aulas-de-portugues/) ou uma professora geral de português em Madri, nossa abordagem se adapta às suas necessidades.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Madri? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Madri? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Para mais informações sobre [aulas de português em Madri](/pt-br/aulas-de-portugues/), [entre em contato com Barbara Sharon](/pt-br/contato-professora-portugues/) hoje e comece sua aventura de aprendizagem com uma experiência personalizada para estudantes em Madri.
 
-Agende uma aula experimental gratuita e dê o primeiro passo para aprender português brasileiro.
+Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.

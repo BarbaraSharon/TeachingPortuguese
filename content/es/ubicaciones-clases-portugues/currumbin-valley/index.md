@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Currumbin Valley con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Currumbin Valley es una zona tranquila y pintoresca del interior de Gold Coast, rodeada de exuberante selva tropical y belleza natural. Conocida por su estilo de vida sereno y su cercanía a Surfers Paradise, ofrece un entorno ideal para el aprendizaje concentrado. Con una población aproximada de 2.084 residentes, esta encantadora localidad proporciona un espacio apacible para aprender portugués con la atención personalizada de Barbara Sharon. El alumnado de Currumbin Valley puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Currumbin Valley forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Currumbin Valley está situada en Australia. Esta página mantiene la referencia local específica de Currumbin Valley, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Currumbin Valley: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Currumbin Valley: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -60,6 +60,6 @@ Tanto si buscas una profesora de portugués brasileño cerca de Currumbin Valley
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Lista o listo para aprender portugués brasileño en Currumbin Valley? Contacta hoy con Barbara Sharon para conocer las opciones de profesora de portugués en Gold Coast, clases grupales o enseñanza en línea. También puedes descubrir más sobre sus [servicios](/es/servicios-clases-portugues/) y reservar una clase de prueba gratuita desde la página de [contacto](/es/contacto-profesora-portugues/).
+¿Lista o listo para aprender portugués brasileño en Currumbin Valley? Contacta hoy con Barbara Sharon para conocer las opciones de profesora de portugués en Gold Coast, clases grupales o enseñanza en línea. También puedes descubrir más sobre sus [servicios](/es/servicios-clases-portugues/) y reservar una clases de portugués desde la página de [contacto](/es/contacto-profesora-portugues/).
 
 Con clases de portugués en Gold Coast disponibles tanto presencialmente como en línea, Barbara Sharon facilita el comienzo de tu recorrido. Tanto si buscas clases adecuadas para principiantes como conversación avanzada, su orientación experta apoyará tu éxito al dominar el portugués brasileño.

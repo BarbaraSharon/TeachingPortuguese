@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Abu Dhabi. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Abu Dhabi is grouped in the Asia location set used for local scheduling and learner guidance. Abu Dhabi is located in United Arab Emirates. This page keeps the local reference specific to Abu Dhabi while the teaching service remains online-first."
+local_context: "Abu Dhabi is grouped in the Asia regional time zone used for scheduling. Abu Dhabi is located in United Arab Emirates. This page keeps the local reference specific to Abu Dhabi while the teaching service remains online-first."
 scheduling: "Scheduling from Abu Dhabi: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Dubai; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Abu Dhabi: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -58,6 +58,6 @@ Private lessons provide one-on-one attention and personalized instruction, while
 From Brazilian Portuguese lessons to specialized conversational classes, Barbara's flexible approach makes it easy for anyone in Abu Dhabi to start or continue their journey toward fluency. Visit [Services](/en/portuguese-teaching-services/)to learn more about what she offers.
 ## Start Your Portuguese Journey Today in Abu Dhabi
 
-Ready to begin learning Portuguese in Abu Dhabi? Take advantage of a free trial lesson with Barbara Sharon and discover how easy it can be to gain confidence in speaking, listening, reading, and writing Portuguese. Contact her via the [Contact](/en/contact-portuguese-teacher/)page to book your session or ask any questions about her online Portuguese tutor services.
+Ready to begin learning Portuguese in Abu Dhabi? Take advantage of a Portuguese lesson with Barbara Sharon and discover how easy it can be to gain confidence in speaking, listening, reading, and writing Portuguese. Contact her via the [Contact](/en/contact-portuguese-teacher/)page to book your session or ask any questions about her online Portuguese tutor services.
 
 "Aprender é um caminho, não um destino." - Learning is a journey, not a destination.

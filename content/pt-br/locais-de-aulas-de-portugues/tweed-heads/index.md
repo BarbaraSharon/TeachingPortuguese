@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Tweed Heads. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Tweed Heads faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Tweed Heads está localizada em Australia. Esta página mantém a referência local específica de Tweed Heads, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Tweed Heads faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Tweed Heads fica em Australia. Esta página mantém a referência local específica de Tweed Heads, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Tweed Heads: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Tweed Heads: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ O Brasil, lar da maior população de falantes de português do mundo, oferece p
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma experiente professora de português, especializada em português brasileiro e europeu. Sua formação inclui bacharelado em Línguas e Literatura pela Universidade Federal do Rio de Janeiro (UFRJ), certificação TESOL e fluência em inglês, italiano, espanhol e português. Como conselheira qualificada, ela traz conhecimento acadêmico e apoio pessoal para sua abordagem de ensino.
+Barbara Sharon é uma experiente professora de português, especializada em português brasileiro. Sua formação inclui bacharelado em Línguas e Literatura pela Universidade Federal do Rio de Janeiro (UFRJ), certificação TESOL e fluência em inglês, italiano, espanhol e português. Como conselheira qualificada, ela traz conhecimento acadêmico e apoio pessoal para sua abordagem de ensino.
 
 Barbara ajuda os alunos a compreender as diferenças entre o português brasileiro e o europeu, desenvolver consciência cultural e criar as habilidades de conversação necessárias para uma comunicação autêntica com falantes nativos. Quer você tenha interesse em conexões empresariais com o Brasil ou queira apreciar mais profundamente a cultura portuguesa, seus métodos tornam a aprendizagem envolvente e eficaz. Ela oferece aulas particulares de português e aulas em grupo, incluindo uma opção de clube de conversação para alunos que desejam praticar suas habilidades de fala. Barbara ensina aulas presenciais em Surfers Paradise e aulas de português online, facilitando a conexão de alunos de Tweed Heads com ela. Para mais informações sobre seus serviços, visite a página de [Serviços](/pt-br/aulas-de-portugues/) ou entre diretamente em contato pela página de [Contato](/pt-br/contato-professora-portugues/).
 

@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Abu Dhabi. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Abu Dhabi faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Abu Dhabi está localizada em United Arab Emirates. Esta página mantém a referência local específica de Abu Dhabi, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Abu Dhabi faz parte do fuso horário regional de Asia usado para organizar horários. Abu Dhabi fica em United Arab Emirates. Esta página mantém a referência local específica de Abu Dhabi, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Abu Dhabi: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Dubai; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Abu Dhabi: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Abu Dhabi, a vibrante capital dos Emirados Árabes Unidos (EAU), é um próspero centro global onde mais de 4,1 milhões de residentes do mundo inteiro vivem e trabalham. Como cidade cosmopolita com fortes laços diplomáticos e empresariais com países de língua portuguesa, como Brasil e Portugal, aprender português em Abu Dhabi abre portas tanto para enriquecimento cultural quanto para oportunidades de carreira.
 
-Se você tem interesse em aulas de português brasileiro ou português europeu, Barbara Sharon oferece aulas online de português personalizadas de acordo com seus objetivos. Com sessões particulares e em grupo flexíveis, você pode aprender no seu próprio ritmo enquanto desenvolve habilidades de comunicação para a vida real e conhecimentos culturais. Descubra por que aprender português em Abu Dhabi é mais do que educação linguística - é uma porta de entrada para conexões globais.
+Barbara Sharon oferece aulas online personalizadas de português brasileiro, de acordo com seus objetivos. Com sessões particulares e em grupo flexíveis, você pode aprender no seu próprio ritmo enquanto desenvolve habilidades de comunicação para a vida real e conhecimentos culturais. Descubra por que aprender português em Abu Dhabi é mais do que educação linguística - é uma porta de entrada para conexões globais.
 
 ## Por que aprender português em Abu Dhabi?
 
@@ -61,6 +61,6 @@ De aulas de português brasileiro a aulas especializadas de conversação, a abo
 
 ## Comece hoje sua jornada no português em Abu Dhabi
 
-Pronto para começar a aprender português em Abu Dhabi? Aproveite uma aula experimental gratuita com Barbara Sharon e descubra como pode ser fácil ganhar confiança para falar, ouvir, ler e escrever em português. Entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão ou fazer perguntas sobre seus serviços de tutoria de português online.
+Pronto para começar a aprender português em Abu Dhabi? Aproveite uma aulas de português com Barbara Sharon e descubra como pode ser fácil ganhar confiança para falar, ouvir, ler e escrever em português. Entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão ou fazer perguntas sobre seus serviços de tutoria de português online.
 
 "Aprender é um caminho, não um destino." - Aprender é uma jornada, não um destino.

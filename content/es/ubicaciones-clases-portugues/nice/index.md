@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Nice. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Nice está situada en France. Nice forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Nice, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Nice forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Nice está situada en France. Esta página mantiene la referencia local específica de Nice, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Nice: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Paris; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Nice: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ Las clases de portugués de Barbara Sharon cerca de Niza aprovechan la diversida
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora dedicada de portugués, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora dedicada de portugués, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -65,8 +65,8 @@ Barbara Sharon ofrece clases de portugués en línea en Niza para principiantes 
 
 Aprende portugués en Niza con una profesora nativa que entiende los matices de las formas habladas y escritas. Puedes explorar clases de conversación en portugués en Niza o incluso encontrar opciones de tutoría de portugués en línea en Niza que se adapten a tu horario y estilo de aprendizaje.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Te interesa aprender portugués en Niza? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido.
+¿Te interesa aprender portugués en Niza? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido.
 
 Para saber más sobre sus clases, visita la página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/) para una consulta personalizada.

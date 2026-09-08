@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Abbotsford. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Abbotsford está situada en Canada. Abbotsford forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Abbotsford, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Abbotsford forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Abbotsford está situada en Canada. Esta página mantiene la referencia local específica de Abbotsford, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Abbotsford: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Abbotsford: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,6 +55,6 @@ Barbara Sharon ofrece opciones flexibles, como tutoría particular y clases grup
 Gracias a su plataforma de enseñanza en línea, puedes estudiar desde casa o desde cualquier lugar de Abbotsford. Para conocer mejor sus servicios, visita la página de [servicios](/es/servicios-clases-portugues/) o ponte en contacto mediante la página de [contacto](/es/contacto-profesora-portugues/).
 ## Empieza hoy tu camino con el portugués
 
-¿Listo para aprender portugués brasileño en Abbotsford? Reserva una clase de prueba gratuita con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti, clases de conversación en Abbotsford o clases estructuradas en línea, su método está diseñado para adaptarse a tus necesidades.
+¿Listo para aprender portugués brasileño en Abbotsford? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti, clases de conversación en Abbotsford o clases estructuradas en línea, su método está diseñado para adaptarse a tus necesidades.
 
 «¡Habla conmigo en portugués!»

@@ -87,11 +87,11 @@ Learn alongside other English-speaking Portuguese learners. Group classes provid
 
 Once you have basic Portuguese skills, the Speaking Club helps you transition from textbook Portuguese to real conversation. Regular group sessions focus on fluency, pronunciation, and expanding your vocabulary through discussion of topics relevant to English speakers.
 
-[View All Service Options](/en/portuguese-teaching-services/)[Book Your Free Consultation](/en/contact-portuguese-teacher/)
+[View All Service Options](/en/portuguese-teaching-services/)[Contact Barbara about lesson options](/en/contact-portuguese-teacher/)
 ## Frequently Asked Questions
 ### Is Brazilian Portuguese or European Portuguese better for English speakers?
 
-Brazilian Portuguese is generally easier for English speakers because Brazilian pronunciation is clearer and more consistent. Brazilian Portuguese is also more widely spoken (206 million speakers vs 10 million in European Portuguese), so there are more resources available. However, if you are planning to live in or travel frequently to Portugal, Barbara can teach European Portuguese.
+Brazilian Portuguese is generally easier for English speakers because Brazilian pronunciation is clearer and more consistent. Brazilian Portuguese is also more widely spoken (206 million speakers vs 10 million in European Portuguese), so there are more resources available. If you are planning to live in or travel frequently to Portugal, Barbara can explain the differences you may encounter while her lessons remain focused on Brazilian Portuguese.
 ### How long does it take an English speaker to learn Portuguese?
 
 With regular practice, most English speakers can hold basic conversations within three to six months. Reaching conversational fluency typically takes one to two years of consistent study. The key factors are practice frequency, immersion opportunities, and having a teacher who understands your native language challenges.

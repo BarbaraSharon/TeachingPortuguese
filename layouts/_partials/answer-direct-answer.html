@@ -1,0 +1,4 @@
+{{- $answer := .Params.direct_answer | default "" -}}
+{{- $answer = replace $answer "[[term_10_week_price]]" (partial "lesson-price.html" (dict "offer_id" "term_10_week")) -}}
+{{- $answer = replace $answer "[[private_4_week_price]]" (partial "lesson-price.html" (dict "offer_id" "private_4_week")) -}}
+{{- return $answer -}}

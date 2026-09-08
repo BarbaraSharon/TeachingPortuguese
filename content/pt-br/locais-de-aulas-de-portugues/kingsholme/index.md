@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Kingsholme com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Kingsholme, situado no norte da Gold Coast, é uma tranquila comunidade rural conhecida por suas propriedades espaçosas e clima de vizinhança unida. Com uma população de cerca de 782 residentes, essa região oferece um ambiente pacífico, no qual aprender idiomas se torna uma experiência pessoal e culturalmente recompensadora. A região tem uma população diversa, com 26,6% de pessoas nascidas no exterior, enriquecendo o tecido cultural que apoia a educação linguística. Os alunos de Kingsholme podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Kingsholme faz parte do fuso horário regional de Gold Coast usado para organizar horários. Kingsholme fica em Australia. Esta página mantém a referência local específica de Kingsholme, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Kingsholme: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kingsholme: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ Kingsholme também oferece excelentes conexões para quem se interessa por negó
 
 ## Como Barbara Sharon pode ajudar você a dominar o português
 
-Barbara Sharon é uma professora de língua portuguesa qualificada e apaixonada, com ampla experiência no ensino de português brasileiro e europeu. Sua formação educacional inclui:
+Barbara Sharon é uma professora de língua portuguesa qualificada e apaixonada, com ampla experiência no ensino de português brasileiro. Sua formação educacional inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação em TESOL
@@ -51,7 +51,7 @@ Barbara Sharon é uma professora de língua portuguesa qualificada e apaixonada,
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Com sua experiência, Barbara ajuda os estudantes a compreender as nuances entre o português brasileiro e europeu, entender o contexto cultural e desenvolver habilidades de comunicação no mundo real. Ela oferece sessões particulares e em grupo, incluindo um clube de conversação para quem busca fluência na fala.
+Com sua experiência, Barbara ajuda os estudantes a compreender as nuances entre o português brasileiro, entender o contexto cultural e desenvolver habilidades de comunicação no mundo real. Ela oferece sessões particulares e em grupo, incluindo um clube de conversação para quem busca fluência na fala.
 
 As aulas estão disponíveis presencialmente em Surfers Paradise, perto de Kingsholme, ou online, permitindo flexibilidade para agendas ocupadas. Para mais informações ou para agendar sua sessão, visite nossa página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).
 
@@ -67,4 +67,4 @@ Se você procura uma professora de português em Kingsholme ou uma tutora de por
 
 Você receberá materiais personalizados e alinhados aos seus interesses e objetivos - de aulas de português para iniciantes em Kingsholme a oficinas avançadas de conversação. Sessões em grupo também são oferecidas para aprendizagem colaborativa, enquanto um clube de conversação é perfeito para estudantes que desejam desenvolver fluência por meio da prática regular.
 
-Agende uma aula experimental gratuita e dê o primeiro passo para aprender português brasileiro.
+Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.

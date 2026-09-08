@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bologna. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bologna is grouped in the Europe location set used for local scheduling and learner guidance. Bologna is located in Italy. This page keeps the local reference specific to Bologna while the teaching service remains online-first."
+local_context: "Bologna is grouped in the Europe regional time zone used for scheduling. Bologna is located in Italy. This page keeps the local reference specific to Bologna while the teaching service remains online-first."
 scheduling: "Scheduling from Bologna: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bologna: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -60,4 +60,4 @@ Private lessons offer personalized attention, helping you progress at your own p
 Online Portuguese lessons in Bologna are available through [Services](/en/portuguese-teaching-services/). Barbara Sharon offers both Brazilian Portuguese and general Portuguese instruction tailored to your schedule. From conversational classes to grammar drills, her teaching style is adaptable and effective.
 ## Start Your Portuguese Journey Today
 
-Ready to learn Portuguese in Bologna? Book a free trial lesson with Barbara Sharon and take the first step toward mastering Brazilian Portuguese! Find out more about her teaching services on the [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.
+Ready to learn Portuguese in Bologna? Book a Portuguese lesson with Barbara Sharon and take the first step toward mastering Brazilian Portuguese! Find out more about her teaching services on the [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.

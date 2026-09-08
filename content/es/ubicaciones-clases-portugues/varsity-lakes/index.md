@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Varsity Lakes. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Varsity Lakes forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Varsity Lakes está situada en Australia. Esta página mantiene la referencia local específica de Varsity Lakes, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Varsity Lakes forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Varsity Lakes está situada en Australia. Esta página mantiene la referencia local específica de Varsity Lakes, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Varsity Lakes: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Varsity Lakes: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Utrecht. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Utrecht forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Utrecht está situada en Netherlands. Esta página mantiene la referencia local específica de Utrecht, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Utrecht forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Utrecht está situada en Netherlands. Esta página mantiene la referencia local específica de Utrecht, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Utrecht: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Utrecht: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -31,7 +31,7 @@ editorial_reviewed: true
 
 ## Aprende portugués en Utrecht: clases particulares y grupales en línea con Barbara Sharon
 
-Utrecht es una ciudad vibrante y multicultural de los Países Bajos, con más de 378.000 habitantes y una diversa comunidad internacional. Con una población nacida en el extranjero del 24 %, es un lugar ideal para quienes desean estudiar portugués en un entorno cosmopolita. Tanto si te interesa portugués brasileño como europeo, hay clases particulares y grupales en línea en Utrecht con Barbara Sharon. Estas sesiones ofrecen flexibilidad, atención personalizada y una atmósfera de aprendizaje de apoyo según tus objetivos individuales.
+Utrecht es una ciudad vibrante y multicultural de los Países Bajos, con más de 378.000 habitantes y una diversa comunidad internacional. Con una población nacida en el extranjero del 24 %, es un lugar ideal para quienes desean estudiar portugués en un entorno cosmopolita. Tanto si te interesa portugués brasileño, hay clases particulares y grupales en línea en Utrecht con Barbara Sharon. Estas sesiones ofrecen flexibilidad, atención personalizada y una atmósfera de aprendizaje de apoyo según tus objetivos individuales.
 
 ## ¿Por qué aprender portugués en Utrecht?
 
@@ -50,7 +50,7 @@ Barbara Sharon es una instructora de portugués experimentada con una sólida fo
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Barbara ayuda al alumnado a comprender las diferencias entre portugués brasileño y europeo, los matices culturales y las destrezas conversacionales que permiten comunicarse auténticamente con hablantes nativos. Tanto si te interesan conexiones de negocios con Brasil como si simplemente quieres disfrutar la riqueza de la cultura portuguesa, Barbara hace que aprender sea atractivo y eficaz.
+Barbara ayuda al alumnado a comprender las diferencias entre portugués brasileño, los matices culturales y las destrezas conversacionales que permiten comunicarse auténticamente con hablantes nativos. Tanto si te interesan conexiones de negocios con Brasil como si simplemente quieres disfrutar la riqueza de la cultura portuguesa, Barbara hace que aprender sea atractivo y eficaz.
 
 Barbara ofrece clases de portugués en línea para estudiantes de Utrecht, con sesiones individuales y grupales. Para conocer más sobre sus servicios, visita [Servicios](/es/servicios-clases-portugues/) o contacta desde [Contacto](/es/contacto-profesora-portugues/).
 

@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Sydney. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Sydney está localizada em Australia. Sydney faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Sydney, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Sydney faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Sydney fica em Australia. Esta página mantém a referência local específica de Sydney, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Sydney: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Sydney: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Sydney, que abriga mais de 5,5 milhões de pessoas, é uma cidade vibrante e multicultural que oferece oportunidades únicas para quem aprende idiomas. Com 48,6% da população nascida no exterior, a comunidade diversa da cidade inclui mais de 11.429 residentes nascidos no Brasil e 20.459 falantes de português registrados no censo de 2016. Isso faz de Sydney um lugar ideal para explorar a cultura portuguesa por meio do idioma. Seja para se interessar por [aulas de português brasileiro](/pt-br/aulas-de-portugues/) ou para se conectar às comunidades lusófonas, aprender português em Sydney pode abrir portas para experiências culturais e profissionais enriquecedoras.
 
-Barbara Sharon oferece serviços de tutoria de português online para alunos em Sydney. Com sua experiência tanto em português brasileiro quanto europeu, ela ajuda estudantes a compreender as nuances do idioma enquanto desenvolvem confiança na comunicação do dia a dia. Suas aulas particulares de português em Sydney e aulas em grupo atendem a todos os níveis de proficiência, oferecendo atenção personalizada e percursos de aprendizagem estruturados.
+Barbara Sharon oferece serviços de tutoria de português online para alunos em Sydney. Com sua experiência tanto em português brasileiro, ela ajuda estudantes a compreender as nuances do idioma enquanto desenvolvem confiança na comunicação do dia a dia. Suas aulas particulares de português em Sydney e aulas em grupo atendem a todos os níveis de proficiência, oferecendo atenção personalizada e percursos de aprendizagem estruturados.
 
 ## Por que aprender português em Sydney?
 
@@ -45,7 +45,7 @@ Como uma das línguas românicas mais faladas do mundo, o português dá acesso 
 
 ## Como Barbara Sharon pode ajudar você a aprender português em Sydney
 
-Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

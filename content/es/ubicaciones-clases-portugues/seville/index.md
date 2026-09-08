@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Seville. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Seville forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Seville está situada en Spain. Esta página mantiene la referencia local específica de Seville, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Seville forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Seville está situada en Spain. Esta página mantiene la referencia local específica de Seville, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Seville: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Madrid; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Seville: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Seville es una ciudad vibrante de España conocida por su rico patrimonio cultural y fuertes conexiones internacionales. Con una población de 687.488 habitantes en 2024, incluida una importante comunidad nacida en el extranjero del 48,5 %, la ciudad ofrece un entorno acogedor para aprender idiomas.
 
-Como puerto interior con profundos vínculos históricos con Portugal, Seville ofrece oportunidades únicas para explorar la cultura y la lengua portuguesas. Tanto si te interesa portugués brasileño como europeo, las clases en línea te ayudan a conectar auténticamente con hablantes nativos mientras disfrutas de aprendizaje flexible desde cualquier lugar de Australia.
+Como puerto interior con profundos vínculos históricos con Portugal, Seville ofrece oportunidades únicas para explorar la cultura y la lengua portuguesas. Tanto si te interesa portugués brasileño, las clases en línea te ayudan a conectar auténticamente con hablantes nativos mientras disfrutas de aprendizaje flexible desde cualquier lugar de Australia.
 
 ## ¿Por qué aprender portugués en Seville?
 
@@ -43,7 +43,7 @@ Aprender portugués en Seville es especialmente valioso para quienes se interesa
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués
 
-Barbara Sharon es una instructora de lengua portuguesa cualificada y cuenta con amplia experiencia docente en portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una instructora de lengua portuguesa cualificada y cuenta con amplia experiencia docente en portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura - Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

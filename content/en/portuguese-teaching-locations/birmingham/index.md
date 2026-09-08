@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Birmingham. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Birmingham is located in United Kingdom. Birmingham is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Birmingham while the teaching service remains online-first."
+local_context: "Birmingham is grouped in the Europe regional time zone used for scheduling. Birmingham is located in United Kingdom. This page keeps the local reference specific to Birmingham while the teaching service remains online-first."
 scheduling: "Scheduling from Birmingham: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Birmingham: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon provides both individual and group Portuguese lessons in Birmingham through online platforms. You can explore more about her teaching services [here](/en/portuguese-teaching-services/), or get in touch directly via the [Contact](/en/contact-portuguese-teacher/)page.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Birmingham? Contact Barbara Sharon for a free trial lesson and start your language journey today! Whether you're looking for conversational Portuguese classes Birmingham or beginner lessons, she offers tailored support to help you achieve your goals. Find out more about her offerings through the [Services](/en/portuguese-teaching-services/)section or reach out via the [Contact](/en/contact-portuguese-teacher/)page.
+Interested in learning Portuguese in Birmingham? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're looking for conversational Portuguese classes Birmingham or beginner lessons, she offers tailored support to help you achieve your goals. Find out more about her offerings through the [Services](/en/portuguese-teaching-services/)section or reach out via the [Contact](/en/contact-portuguese-teacher/)page.

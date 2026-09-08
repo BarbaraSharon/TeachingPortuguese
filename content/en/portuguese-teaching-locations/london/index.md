@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from London. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "London is located in United Kingdom. London is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to London while the teaching service remains online-first."
+local_context: "London is grouped in the Europe regional time zone used for scheduling. London is located in United Kingdom. This page keeps the local reference specific to London while the teaching service remains online-first."
 scheduling: "Scheduling from London: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in London: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in London - Brazilian & European Portuguese Classes with Barbara Sharon
+## Learn Portuguese in London - Brazilian Portuguese Classes with Barbara Sharon
 
 London, the vibrant capital of the United Kingdom with a population of over 8.9 million (mid-2023), is a melting pot of cultures that makes it an ideal place to learn Portuguese. With approximately 56,000 Brazilian-born residents and 56,963 Portuguese-born residents, London provides learners the opportunity to immerse themselves in the rich cultural traditions of both Brazil and Portugal. The city’s multicultural environment, with a 40.7% foreign-born population, enhances the learning experience for students seeking to connect with native speakers.
 
@@ -42,7 +42,7 @@ London's diverse and inclusive atmosphere creates an ideal setting for language 
 Notable celebrations like the Notting Hill Carnival, Vai Brasil Events, and the London Choro Festival bring together people from all walks of life, making the experience of learning Portuguese both fun and meaningful. In addition, strong business relationships between the UK and both Brazil and Portugal make knowledge of Portuguese particularly valuable in sectors such as healthcare, education, finance, and international business.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -60,8 +60,8 @@ Learning Portuguese in London opens doors to a rich linguistic tradition that sp
 Barbara Sharon provides dynamic online Portuguese lessons that are engaging and tailored to each student’s interests. Using multimedia tools, interactive materials, and real-life scenarios, she creates an immersive learning environment that helps students build confidence and fluency.
 
 Whether you're looking for a Brazilian Portuguese teacher in London or general Portuguese classes, her adaptable teaching style ensures that every session is both educational and enjoyable. You can start your journey today by visiting the [Services](/en/portuguese-teaching-services/)page or contacting her through the [Contact](/en/contact-portuguese-teacher/)page.
-## Book Your Free Trial Lesson Today!
+## Book Your Portuguese Lesson Today!
 
-Ready to begin your Portuguese learning journey in London? Book a free trial lesson with Barbara Sharon and experience her unique teaching approach firsthand. Whether you're a complete beginner or aiming for advanced proficiency, she's here to guide you every step of the way.
+Ready to begin your Portuguese learning journey in London? Book a Portuguese lesson with Barbara Sharon and experience her unique teaching approach firsthand. Whether you're a complete beginner or aiming for advanced proficiency, she's here to guide you every step of the way.
 
 "Aprender é viver!" (Learning is living!)

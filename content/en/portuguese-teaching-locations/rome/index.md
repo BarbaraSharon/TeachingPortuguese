@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Rome. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Rome is located in Italy. Rome is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Rome while the teaching service remains online-first."
+local_context: "Rome is grouped in the Europe regional time zone used for scheduling. Rome is located in Italy. This page keeps the local reference specific to Rome while the teaching service remains online-first."
 scheduling: "Scheduling from Rome: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Rome: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -48,7 +48,7 @@ Barbara Sharon is a passionate and experienced Brazilian Portuguese teacher who 
 - Fluent in Portuguese, English, Italian, Spanish
 - Professional counselor and cultural guide
 
-With her deep understanding of both Brazilian and European Portuguese, Barbara helps students navigate the nuances of language use, gain cultural insight, and build confidence for real-world communication. Her approach makes learning Portuguese enjoyable, effective, and tailored to your personal goals.
+With her deep understanding of Brazilian Portuguese, Barbara helps students navigate the nuances of language use, gain cultural insight, and build confidence for real-world communication. Her approach makes learning Portuguese enjoyable, effective, and tailored to your personal goals.
 
 Whether you're interested in improving business communication with Brazil or simply want to appreciate the richness of Brazilian culture, Barbara's lessons offer a path forward. You can explore Portuguese lessons near Rome or take advantage of flexible online Portuguese tutoring options that suit your schedule. For more information about services, visit our [Services](/en/portuguese-teaching-services/)page. To get in touch, please use the [Contact](/en/contact-portuguese-teacher/)form.
 ## Portuguese as a Global Language: The Benefits of Learning It in Rome

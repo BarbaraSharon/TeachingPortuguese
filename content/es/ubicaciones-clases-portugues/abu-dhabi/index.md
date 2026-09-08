@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Abu Dhabi. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Abu Dhabi forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Abu Dhabi está situada en United Arab Emirates. Esta página mantiene la referencia local específica de Abu Dhabi, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Abu Dhabi forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Abu Dhabi está situada en United Arab Emirates. Esta página mantiene la referencia local específica de Abu Dhabi, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Abu Dhabi: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Dubai; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Abu Dhabi: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Abu Dabi, la vibrante capital de los Emiratos Árabes Unidos (EAU), es un centro mundial en el que viven y trabajan más de 4,1 millones de personas de todo el mundo. Como ciudad cosmopolita con fuertes vínculos diplomáticos y empresariales con países lusófonos como Brasil y Portugal, aprender portugués en Abu Dabi abre puertas tanto al enriquecimiento cultural como a las oportunidades profesionales.
 
-Tanto si te interesan las clases de portugués brasileño como las de portugués europeo, Barbara Sharon ofrece clases personalizadas en línea adaptadas a tus objetivos. Con sesiones particulares y grupales flexibles, puedes aprender a tu ritmo mientras desarrollas habilidades de comunicación real y conocimientos culturales. Aprender portugués en Abu Dabi es más que estudiar un idioma: es una puerta a las conexiones internacionales.
+Barbara Sharon ofrece clases personalizadas de portugués brasileño en línea, adaptadas a tus objetivos. Con sesiones particulares y grupales flexibles, puedes aprender a tu ritmo mientras desarrollas habilidades de comunicación real y conocimientos culturales. Aprender portugués en Abu Dabi es más que estudiar un idioma: es una puerta a las conexiones internacionales.
 ## ¿Por qué aprender portugués en Abu Dabi?
 
 Las crecientes relaciones económicas de los EAU con los países lusófonos, especialmente Brasil, ofrecen ventajas únicas a los estudiantes. Abu Dabi cuenta con comunidades activas de expatriados de Brasil y Portugal, que crean entornos naturales para practicar el nuevo idioma.
@@ -57,6 +57,6 @@ Las clases particulares ofrecen atención individual y enseñanza personalizada,
 Desde clases de portugués brasileño hasta clases especializadas de conversación, el método flexible de Barbara facilita que cualquier persona en Abu Dabi avance hacia la fluidez. Visita [Servicios](/es/servicios-clases-portugues/) para saber más.
 ## Empieza hoy tu camino con el portugués en Abu Dabi
 
-¿Listo para empezar a aprender portugués en Abu Dabi? Aprovecha una clase de prueba gratuita con Barbara Sharon y descubre lo fácil que puede ser ganar confianza al hablar, escuchar, leer y escribir portugués. Contacta con ella mediante la página de [Contacto](/es/contacto-profesora-portugues/) para reservar tu sesión o resolver tus dudas sobre sus clases en línea.
+¿Listo para empezar a aprender portugués en Abu Dabi? Aprovecha una clases de portugués con Barbara Sharon y descubre lo fácil que puede ser ganar confianza al hablar, escuchar, leer y escribir portugués. Contacta con ella mediante la página de [Contacto](/es/contacto-profesora-portugues/) para reservar tu sesión o resolver tus dudas sobre sus clases en línea.
 
 «Aprender é um caminho, não um destino» - aprender es un camino, no un destino.

@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Miami. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Miami is grouped in the North America location set used for local scheduling and learner guidance. Miami is located in United States. This page keeps the local reference specific to Miami while the teaching service remains online-first."
+local_context: "Miami is grouped in the North America regional time zone used for scheduling. Miami is located in United States. This page keeps the local reference specific to Miami while the teaching service remains online-first."
 scheduling: "Scheduling from Miami: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Miami: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -64,8 +64,8 @@ Learning Portuguese in Miami gives you access to not only Brazilian culture but 
 Take advantage of flexible online Portuguese lessons in Miami designed to suit your schedule and learning style. Our platform features interactive tools, multimedia content, and personalized learning plans that adapt to your goals-whether you're preparing for travel, job interviews, or casual conversations.
 
 Whether you’re a beginner starting from scratch or someone looking to refine your speaking skills, our lessons are crafted to help you achieve meaningful progress. Barbara Sharon specializes in Brazilian Portuguese tutor services in Miami , offering both one-on-one and group sessions that focus on real-world communication.
-## Start Your Journey Today - Free Trial Lesson Available!
+## Start Your Journey Today - Portuguese Lesson Available!
 
-Ready to begin your journey in learning Portuguese? Contact Barbara Sharon today for a free trial lesson and discover how her personalized approach can help you reach your language goals. Whether you're new to the language or advancing your skills, she provides tailored support for learners at every level.
+Ready to begin your journey in learning Portuguese? Contact Barbara Sharon today for a Portuguese lesson and discover how her personalized approach can help you reach your language goals. Whether you're new to the language or advancing your skills, she provides tailored support for learners at every level.
 
 [Contact Barbara Sharon Now](/en/contact-portuguese-teacher/)

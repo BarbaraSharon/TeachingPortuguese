@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Helensvale with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Helensvale, a vibrant northern Gold Coast suburb with over 18,000 residents, is home to a diverse community where international influences thrive. With strong connections to Brazil through cultural events and local businesses, it’s an ideal location for students looking to learn Brazilian Portuguese in Helensvale. Learners in Helensvale can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Helensvale is grouped in the Gold Coast regional time zone used for scheduling. Helensvale is located in Australia. This page keeps the local reference specific to Helensvale while the teaching service remains online-first."
 scheduling: "Scheduling from Helensvale: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Helensvale: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Barbara Sharon provides flexible learning options including online classes, priv
 In-person lessons are held in Surfers Paradise for students in Helensvale, while remote options allow busy professionals or families to learn at their own pace. Whether you're seeking a private Portuguese tutor in Helensvale or looking for group classes that promote interaction and confidence, Barbara's personalized instruction fits your schedule and objectives.
 ## Start Your Journey with Barbara Sharon Today!
 
-Ready to begin learning Brazilian Portuguese in Helensvale? Book a free trial lesson with Barbara Sharon and experience her engaging, student-focused approach firsthand. For more information on services offered, visit the [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)page.
+Ready to begin learning Brazilian Portuguese in Helensvale? Book a Portuguese lesson with Barbara Sharon and experience her engaging, student-focused approach firsthand. For more information on services offered, visit the [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)page.
 
 "Aprender português é uma jornada emocionante!" (Learning Portuguese is an exciting journey!)

@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Orlando. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Orlando faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Orlando está localizada em United States. Esta página mantém a referência local específica de Orlando, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Orlando faz parte do fuso horário regional de North America usado para organizar horários. Orlando fica em United States. Esta página mantém a referência local específica de Orlando, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Orlando: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Orlando: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Orlando: aulas de português brasileiro e europeu
+## Aprenda português em Orlando: aulas de português brasileiro
 
 Orlando é uma cidade vibrante na Flórida, conhecida por sua comunidade diversa e riqueza cultural. Com uma população de mais de 311.000 residentes, a região abriga uma significativa presença brasileira, incluindo aproximadamente 66.000 pessoas nascidas no Brasil. Essa crescente comunidade brasileira faz de Orlando um excelente lugar para se conectar com a cultura e a língua brasileiras. Quer você esteja procurando aulas de português ou queira praticar com falantes nativos, Orlando oferece oportunidades únicas para mergulhar no idioma.
 
@@ -43,7 +43,7 @@ O português brasileiro é particularmente valioso para compreender a linguagem 
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -65,8 +65,8 @@ Aulas particulares e em grupo de português online estão disponíveis em Orland
 
 Barbara oferece sessões individuais e em pequenos grupos, ideais para praticar conversação e desenvolver confiança ao falar português. Com horários flexíveis, estudantes podem escolher opções de tutoria particular de português em Orlando ou participar de aulas em grupo para se conectar com outros estudantes. Sua plataforma online garante que residentes de Orlando possam acessar educação de português de alta qualidade sem precisar viajar.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Orlando? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com ensino personalizado.
+Tem interesse em aprender português em Orlando? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com ensino personalizado.
 
 Para mais detalhes sobre os serviços oferecidos, visite a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/) para agendar uma sessão. Explore opções como aulas de português brasileiro em Orlando ou tutoria de português online em Orlando e dê hoje o primeiro passo rumo à fluência.

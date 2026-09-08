@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de San Francisco. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "San Francisco faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. San Francisco está localizada em United States. Esta página mantém a referência local específica de San Francisco, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "San Francisco faz parte do fuso horário regional de North America usado para organizar horários. San Francisco fica em United States. Esta página mantém a referência local específica de San Francisco, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para San Francisco: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em San Francisco: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -31,7 +31,7 @@ editorial_reviewed: true
 
 ## Aprenda português brasileiro em San Francisco - aulas online com Barbara Sharon
 
-San Francisco é uma cidade vibrante e diversa na Califórnia, lar de mais de 800.000 residentes, com 34,1% da população nascida no exterior. Esse ambiente multicultural faz dela um lugar ideal para aprender português, pois a cidade abriga aproximadamente 5.000 residentes nascidos no Brasil e 4.254 pessoas nascidas em Portugal. A presença de comunidades de falantes de português brasileiro e europeu cria oportunidades únicas de imersão linguística e intercâmbio cultural.
+San Francisco é uma cidade vibrante e diversa na Califórnia, lar de mais de 800.000 residentes, com 34,1% da população nascida no exterior. Esse ambiente multicultural faz dela um lugar ideal para aprender português, pois a cidade abriga aproximadamente 5.000 residentes nascidos no Brasil e 4.254 pessoas nascidas em Portugal. A presença de comunidades de falantes de português brasileiro cria oportunidades únicas de imersão linguística e intercâmbio cultural.
 
 Barbara Sharon oferece aulas online de português brasileiro em San Francisco, com sessões particulares e em grupo adaptadas aos seus objetivos de aprendizagem. Quer você queira melhorar habilidades de conversação ou obter uma compreensão cultural mais profunda do Brasil, sua abordagem de ensino garante experiências de aprendizagem envolventes e eficazes. Com mais de 15.000 brasileiros contribuindo para a vida cultural da cidade por meio de eventos como BrazilianFestSF e Sambaxé Carnaval, San Francisco oferece um cenário dinâmico para quem aprende português.
 
@@ -43,7 +43,7 @@ Aprender português brasileiro em San Francisco permite que você se conecte a u
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora experiente de língua portuguesa, especializada em português brasileiro e europeu. Sua formação inclui Bacharelado em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), certificação TESOL e fluência em inglês, italiano, espanhol e português. Ela também atua como orientadora, apoiando os alunos em sua jornada no idioma.
+Barbara Sharon é uma professora experiente de língua portuguesa, especializada em português brasileiro. Sua formação inclui Bacharelado em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), certificação TESOL e fluência em inglês, italiano, espanhol e português. Ela também atua como orientadora, apoiando os alunos em sua jornada no idioma.
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

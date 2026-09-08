@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Brussels"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Brussels. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Brussels está localizada em Belgium. Brussels faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Brussels, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Brussels faz parte do fuso horário regional de Europe usado para organizar horários. Brussels fica em Belgium. Esta página mantém a referência local específica de Brussels, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Brussels: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Brussels; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Brussels: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,11 +29,11 @@ faq:
 editorial_reviewed: true
 ---
 
-## Domine o português brasileiro e europeu em Bruxelas - aulas online com Barbara Sharon
+## Domine o português brasileiro em Bruxelas - aulas online com Barbara Sharon
 
 Bruxelas, a vibrante capital da Bélgica e um caldeirão de culturas, abriga mais de 1,25 milhão de residentes, dos quais quase metade nasceu no exterior. Esta cidade diversa oferece oportunidades únicas para estudantes de idiomas, incluindo quem tem interesse em português. Embora falantes nativos de português não sejam comuns, Bruxelas abriga uma comunidade crescente de expatriados portugueses e brasileiros, com aproximadamente 19.000 residentes nascidos em Portugal e várias organizações culturais que apoiam o intercâmbio e a imersão linguística.
 
-Quer você esteja começando do zero ou buscando fluência avançada, aulas online de português particulares e em grupo estão disponíveis em Bruxelas com Barbara Sharon, uma dedicada professora de português especializada tanto em português europeu quanto brasileiro. Seu ensino personalizado combina gramática, conversação e conhecimentos culturais para ajudar você a dominar o idioma de forma eficaz. Com 46% dos residentes nascidos no exterior, Bruxelas oferece um ambiente ideal para alunos de português que buscam prática em situações reais.
+Quer você esteja começando do zero ou buscando fluência avançada, aulas online de português particulares e em grupo estão disponíveis em Bruxelas com Barbara Sharon, uma dedicada professora de português especializada tanto em português brasileiro. Seu ensino personalizado combina gramática, conversação e conhecimentos culturais para ajudar você a dominar o idioma de forma eficaz. Com 46% dos residentes nascidos no exterior, Bruxelas oferece um ambiente ideal para alunos de português que buscam prática em situações reais.
 
 ## Por que aprender português em Bruxelas?
 
@@ -59,6 +59,6 @@ As aulas particulares oferecem atenção personalizada, permitindo que você se 
 
 ## Comece hoje sua jornada no português em Bruxelas
 
-Você tem interesse em aprender português em Bruxelas? Entre em contato com Barbara Sharon hoje mesmo para agendar uma aula experimental gratuita e dar o primeiro passo para dominar o português brasileiro ou europeu. Explore sua variedade de [aulas de português perto de Bruxelas](/pt-br/aulas-de-portugues/), incluindo opções para iniciantes, e descubra como a tutoria online de português pode transformar sua jornada de aprendizagem.
+Você tem interesse em aprender português em Bruxelas? Entre em contato com Barbara Sharon hoje mesmo para agendar uma aulas de português e dar o primeiro passo para dominar o português brasileiro. Explore sua variedade de [aulas de português perto de Bruxelas](/pt-br/aulas-de-portugues/), incluindo opções para iniciantes, e descubra como a tutoria online de português pode transformar sua jornada de aprendizagem.
 
 Com oportunidades de se conectar com as comunidades locais portuguesa e brasileira por meio de eventos como as opções de comida de rua da Bossa Nova ou o festival anual “O Melhor de Portugal”, aprender português em Bruxelas oferece enriquecimento linguístico e cultural. Quer você procure uma professora de português em Bruxelas ou aulas de português brasileiro em Bruxelas, Barbara Sharon oferece um ensino especializado, adaptado aos seus objetivos.

@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Palm Beach. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Palm Beach está localizada em Australia. Palm Beach faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Palm Beach, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Palm Beach faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Palm Beach fica em Australia. Esta página mantém a referência local específica de Palm Beach, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Palm Beach: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Palm Beach: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -84,8 +84,8 @@ Além disso, organizações como Portuguese American Cultural Society of Palm Be
 
 A localização estratégica perto de grandes centros comerciais também proporciona acesso a redes de negócios onde a fluência em português é cada vez mais valorizada. Quer você esteja procurando uma tutora particular de português em Palm Beach ou aulas de português em grupo em Palm Beach, o Condado de Palm Beach oferece opções diversas, adequadas às necessidades e objetivos de cada estudante.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Você está pronto para iniciar sua jornada de aprendizagem de português em Palm Beach? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino única pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou tenha como objetivo avançar sua fluência, ela adaptará suas aulas às suas necessidades.
+Você está pronto para iniciar sua jornada de aprendizagem de português em Palm Beach? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino única pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou tenha como objetivo avançar sua fluência, ela adaptará suas aulas às suas necessidades.
 
 Saiba mais sobre seus serviços em [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela [página de contato](/pt-br/contato-professora-portugues/). Comece hoje a falar português como um nativo!

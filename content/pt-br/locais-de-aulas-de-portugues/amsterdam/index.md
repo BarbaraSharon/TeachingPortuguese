@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Amsterdam. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Amsterdam faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Amsterdam está localizada em Netherlands. Esta página mantém a referência local específica de Amsterdam, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Amsterdam faz parte do fuso horário regional de Europe usado para organizar horários. Amsterdam fica em Netherlands. Esta página mantém a referência local específica de Amsterdam, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Amsterdam: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Amsterdam: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,4 +61,4 @@ Barbara Sharon oferece aulas de português individuais e em grupo em Amsterdã, 
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Amsterdã? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Você pode falar com ela pela página de [contato](/pt-br/contato-professora-portugues/) para começar com ensino particular ou em grupo, adaptado aos seus objetivos.
+Tem interesse em aprender português em Amsterdã? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Você pode falar com ela pela página de [contato](/pt-br/contato-professora-portugues/) para começar com ensino particular ou em grupo, adaptado aos seus objetivos.

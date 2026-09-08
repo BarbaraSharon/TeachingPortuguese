@@ -244,7 +244,7 @@ Busca progresión desde destrezas básicas hasta avanzadas, equilibrio entre gra
 
 ## Empieza a aprender
 
-Si buscas clases de portugués en línea, apoyo para viajar o una profesora que entienda tus objetivos, [contacta con Barbara Sharon](/es/contacto-profesora-portugues/) y reserva una clase de prueba gratuita.
+Si buscas clases de portugués en línea, apoyo para viajar o una profesora que entienda tus objetivos, [contacta con Barbara Sharon](/es/contacto-profesora-portugues/) y reserva una clases de portugués.
 
 ## Más guías para decidir
 

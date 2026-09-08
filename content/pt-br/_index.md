@@ -15,13 +15,13 @@ sections:
     title: Aulas de português brasileiro com Barbara Sharon
     text: Aulas particulares e em grupo de português brasileiro, online para todo o mundo e presenciais na Gold Coast, com uma professora qualificada.
     primary_action:
-      text: Fale com a Barbara
-      url: /pt-br/contato-professora-portugues/
+      text: Aulas online para todo o mundo
+      url: /pt-br/aulas-de-portugues/aulas-online/
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Ver serviços
-      url: /pt-br/aulas-de-portugues/
+      text: Aulas em grupo na Gold Coast
+      url: /pt-br/aulas-de-portugues/escola-de-portugues-gold-coast/
       icon: hero/academic-cap
       style: ghost
     media:
@@ -212,6 +212,25 @@ sections:
     - title: Como aprender português para viagens e conversação?
       text: Pratique situações prováveis, respostas realistas, pronúncia e contexto cultural.
       url: /pt-br/respostas/aprender-portugues-viagens-conversacao/
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Preços claros
+    title: Escolha o formato da sua aula
+    text: Os preços iniciais atuais da Barbara valem para aulas online e na Gold Coast.
+    offers:
+    - id: term_10_week
+      title: Curso em grupo de 10 semanas
+      price_prefix: a partir de
+      text: A partir de A$290 por aluno. Fale com a Barbara para confirmar a próxima turma e a disponibilidade.
+      url: /pt-br/contato-professora-portugues/
+    - id: private_4_week
+      title: Pacote de 4 semanas de aulas particulares
+      price_prefix: a partir de
+      text: A partir de A$260. Fale com a Barbara para conversar sobre a opção particular adequada aos seus objetivos.
+      url: /pt-br/contato-professora-portugues/
+    action_text: Consultar disponibilidade
+    currency_note: Todos os preços estão em dólares australianos. Fale com a Barbara para confirmar o pacote e a disponibilidade.
 - block: cta-card
   content:
     title: Pronto para aprender português?

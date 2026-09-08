@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Duesseldorf. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Duesseldorf faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Duesseldorf está localizada em Germany. Esta página mantém a referência local específica de Duesseldorf, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Duesseldorf faz parte do fuso horário regional de Europe usado para organizar horários. Duesseldorf fica em Germany. Esta página mantém a referência local específica de Duesseldorf, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Duesseldorf: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Duesseldorf: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Suas aulas são cuidadosamente elaboradas para incluir gramática, vocabulário,
 
 ## Comece hoje sua jornada no português
 
-Está procurando uma professora de português brasileiro em Duesseldorf ou uma professora online de português na cidade? Entre em contato com Barbara Sharon hoje para agendar uma aula experimental gratuita e começar sua jornada rumo ao domínio da língua portuguesa. Quer você queira melhorar suas habilidades de conversação, se preparar para uma viagem ou se conectar à cultura brasileira, ela oferece experiências de aprendizagem completas e adequadas aos seus objetivos. Com foco em aulas de português particulares e em grupo em Duesseldorf, os alunos podem encontrar apoio personalizado, seja em um aprendizado colaborativo ou em uma instrução individualizada.
+Está procurando uma professora de português brasileiro em Duesseldorf ou uma professora online de português na cidade? Entre em contato com Barbara Sharon hoje para agendar uma aulas de português e começar sua jornada rumo ao domínio da língua portuguesa. Quer você queira melhorar suas habilidades de conversação, se preparar para uma viagem ou se conectar à cultura brasileira, ela oferece experiências de aprendizagem completas e adequadas aos seus objetivos. Com foco em aulas de português particulares e em grupo em Duesseldorf, os alunos podem encontrar apoio personalizado, seja em um aprendizado colaborativo ou em uma instrução individualizada.

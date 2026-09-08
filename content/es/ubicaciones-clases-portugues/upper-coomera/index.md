@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Upper Coomera. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Upper Coomera forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Upper Coomera está situada en Australia. Esta página mantiene la referencia local específica de Upper Coomera, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Upper Coomera forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Upper Coomera está situada en Australia. Esta página mantiene la referencia local específica de Upper Coomera, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Upper Coomera: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Upper Coomera: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -52,7 +52,7 @@ Barbara Sharon es una profesora de portugués experimentada, con una sólida for
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-La experiencia de Barbara le permite guiarte entre las diferencias entre portugués brasileño y europeo, comprender el contexto cultural y desarrollar fluidez conversacional para relacionarte auténticamente con hablantes nativos.
+La experiencia de Barbara le permite guiarte entre las diferencias entre portugués brasileño, comprender el contexto cultural y desarrollar fluidez conversacional para relacionarte auténticamente con hablantes nativos.
 
 Ofrece clases particulares individuales, clases en grupos pequeños y un club de conversación para quienes desean practicar en un entorno de apoyo. Para conocer más sobre sus [servicios](/es/servicios-clases-portugues/), contacta con Barbara directamente mediante la sección de [contacto](/es/contacto-profesora-portugues/).
 ## El portugués como lengua global

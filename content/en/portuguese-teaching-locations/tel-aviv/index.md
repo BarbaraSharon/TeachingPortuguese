@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Jerusalem"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Tel Aviv. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Tel Aviv is located in Israel. Tel Aviv is grouped in the Asia location set used for local scheduling and learner guidance. This page keeps the local reference specific to Tel Aviv while the teaching service remains online-first."
+local_context: "Tel Aviv is grouped in the Asia regional time zone used for scheduling. Tel Aviv is located in Israel. This page keeps the local reference specific to Tel Aviv while the teaching service remains online-first."
 scheduling: "Scheduling from Tel Aviv: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Jerusalem; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Tel Aviv: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -62,4 +62,4 @@ The city's cultural diversity and international connections make it an ideal pla
 
 Barbara Sharon delivers online Portuguese lessons to students in Tel Aviv. Her flexible format allows for both individual and group sessions, making it easy to fit language learning into your schedule. Whether you're seeking a private Portuguese tutor tel-aviv or prefer the collaborative environment of group classes, her approach ensures effective progress.
 
-Her online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, allowing you to explore Portuguese culture through authentic content. With a focus on both Brazilian and European Portuguese, her courses cater to diverse needs, from travel preparation to professional development.
+Her online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, allowing you to explore Portuguese culture through authentic content. With a focus on Brazilian Portuguese, her courses cater to diverse needs, from travel preparation to professional development.

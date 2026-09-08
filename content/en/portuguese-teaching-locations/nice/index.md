@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Nice. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Nice is located in France. Nice is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Nice while the teaching service remains online-first."
+local_context: "Nice is grouped in the Europe regional time zone used for scheduling. Nice is located in France. This page keeps the local reference specific to Nice while the teaching service remains online-first."
 scheduling: "Scheduling from Nice: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Nice: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Nice's multicultural environment provides an ideal setting for those interested 
 Barbara Sharon's Portuguese lessons near nice leverage the city's cultural diversity to create meaningful learning opportunities. From conversational Portuguese classes nice to structured private Portuguese tutor nice sessions, her approach helps students navigate regional dialects and cultural nuances. The language's global reach makes it valuable for understanding international communication, especially within sectors like healthcare and education.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a dedicated Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a dedicated Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -60,8 +60,8 @@ Learning Portuguese in Nice gives you access to a rich linguistic tradition that
 Barbara Sharon provides online Portuguese lessons in Nice for both beginners and advanced learners. These lessons include interactive tools and multimedia resources designed to make learning engaging and effective. Whether you're looking for Brazilian Portuguese lessons nice, private Portuguese tutor sessions, or group classes, she tailors materials to match your specific interests and goals.
 
 Learn Portuguese in Nice with a native Portuguese teacher who understands the nuances of both spoken and written forms. You can explore conversational Portuguese classes nice or even find online Portuguese tutor nice options that fit your schedule and learning style.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Nice? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
+Interested in learning Portuguese in Nice? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 To learn more about her services, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section for a personalized consultation.

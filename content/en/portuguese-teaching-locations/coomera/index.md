@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Coomera with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Coomera is a thriving northern Gold Coast suburb, home to over 23,000 residents and a vibrant multicultural community. With nearly 30% of its population being foreign-born, Coomera offers the perfect environment for language learners seeking to study Portuguese. Whether you’re interested in Brazilian Portuguese or want to explore the differences between European and Brazilian dialects, this dynamic area provides an ideal setting to begin your linguistic journey. Learners in Coomera can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Coomera is grouped in the Gold Coast regional time zone used for scheduling. Coomera is located in Australia. This page keeps the local reference specific to Coomera while the teaching service remains online-first."
 scheduling: "Scheduling from Coomera: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Coomera: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -58,6 +58,6 @@ Students in Coomera can attend in-person Portuguese lessons in Surfers Paradise,
 For students looking to improve their speaking skills, Barbara also provides a speaking club , offering a relaxed yet engaging environment to practice conversations. Whether you're searching for a Portuguese teacher Coomera , online Portuguese tutor Coomera , or private Portuguese tutor Coomera , she delivers tailored support to help you achieve fluency.
 ## Start Your Journey Today - Learn Portuguese in Coomera
 
-If you're interested in learning Portuguese in Coomera or nearby areas, Barbara Sharon is ready to guide you on your path to mastering Brazilian Portuguese. Book a free trial lesson today and experience the joy of language learning with expert instruction.
+If you're interested in learning Portuguese in Coomera or nearby areas, Barbara Sharon is ready to guide you on your path to mastering Brazilian Portuguese. Book a Portuguese lesson today and experience the joy of language learning with expert instruction.
 
 To learn more about services such as Portuguese tutor Coomera , Brazilian Portuguese lessons Coomera , or online Portuguese tutor Coomera , visit our [Services](/en/portuguese-teaching-services/)page. For inquiries or to schedule a session, please use the [Contact](/en/contact-portuguese-teacher/)form.

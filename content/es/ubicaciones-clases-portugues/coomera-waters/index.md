@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coomera Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coomera Waters es una próspera comunidad familiar del norte de Gold Coast, reconocida por sus barrios bien diseñados, parques exuberantes y animada marina. Con más de 23.000 residentes, incluida una población diversa de un 29,6 % de personas nacidas en el extranjero, esta zona ofrece un entorno excelente para estudiantes de idiomas. La presencia de eventos culturales brasileños locales y grupos comunitarios como Comunidade do Samba hace de Coomera Waters un lugar perfecto para sumergirse en la cultura lusófona. El alumnado de Coomera Waters puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Coomera Waters forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Coomera Waters está situada en Australia. Esta página mantiene la referencia local específica de Coomera Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Coomera Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coomera Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,10 +55,10 @@ Barbara Sharon ofrece enseñanza de portugués presencial y en línea en Coomera
 
 Las clases particulares en Coomera Waters ofrecen atención personalizada y ayudan a avanzar más rápido hacia tus metas lingüísticas. Para estudiantes cerca de Surfers Paradise, asistir a sesiones presenciales es sencillo: está a un corto trayecto en auto. Las opciones en línea garantizan que la distancia no sea una barrera para aprender.
 
-Para explorar los servicios disponibles o reservar una clase de prueba gratuita, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).
+Para explorar los servicios disponibles o reservar una clases de portugués, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).
 
 ## Empieza hoy tu recorrido de portugués
 
 Tanto si buscas clases de portugués brasileño en Coomera Waters como una profesora nativa de portugués cerca de ti, Barbara Sharon ofrece enseñanza de alta calidad diseñada para todos los niveles. Desde principiantes hasta hablantes avanzados, sus clases de conversación ayudan a desarrollar fluidez y conciencia cultural.
 
-Da el primer paso para dominar portugués brasileño con una profesora dedicada que valora el idioma y la cultura. Contacta hoy con Barbara Sharon para una clase de prueba gratuita y empieza tu recorrido para hablar portugués como una persona nativa.
+Da el primer paso para dominar portugués brasileño con una profesora dedicada que valora el idioma y la cultura. Contacta hoy con Barbara Sharon para una clases de portugués y empieza tu recorrido para hablar portugués como una persona nativa.

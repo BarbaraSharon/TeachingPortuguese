@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Austinville with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Austinville, nestled on the Gold Coast in Queensland, is a serene suburb that offers an ideal environment for learning Portuguese. With a population of 403 residents and over 1,248 Brazilian-born individuals calling it home, Austinville provides a rich cultural backdrop for language study. Learners in Austinville can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Austinville is grouped in the Gold Coast regional time zone used for scheduling. Austinville is located in Australia. This page keeps the local reference specific to Austinville while the teaching service remains online-first."
 scheduling: "Scheduling from Austinville: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Austinville: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -60,6 +60,6 @@ Her lessons are conveniently held in Surfers Paradise, making them accessible fo
 For additional speaking practice, Barbara also organizes a Brazilian Portuguese-speaking club that meets regularly. This informal setting helps build confidence and fluency through casual conversation and cultural exchange.
 ## Start Your Portuguese Journey Today
 
-Ready to learn Portuguese in Austinville? Contact Barbara Sharon for a free trial lesson and begin your language journey today! Explore her [services](/en/portuguese-teaching-services/)or reach out via the [contact page](/en/contact-portuguese-teacher/).
+Ready to learn Portuguese in Austinville? Contact Barbara Sharon for a Portuguese lesson and begin your language journey today! Explore her [services](/en/portuguese-teaching-services/)or reach out via the [contact page](/en/contact-portuguese-teacher/).
 
 “Aprender português é uma experiência transformadora. Comece hoje!”

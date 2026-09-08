@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Alberton con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Alberton, situado en Gold Coast, Queensland, ofrece un entorno tranquilo y culturalmente rico para aprender portugués brasileño. Con solo 297 habitantes según el censo de 2021, es un lugar apacible para comenzar tu camino en el vibrante mundo del portugués. A pesar de su tamaño, Alberton cuenta con una comunidad multicultural en crecimiento y eventos como Madeira Fest, celebrado en Casa Da Madeira, que dan vida a las tradiciones y celebraciones portuguesas. El alumnado de Alberton puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Alberton forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Alberton está situada en Australia. Esta página mantiene la referencia local específica de Alberton, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Alberton: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Alberton: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -54,7 +54,7 @@ Barbara ofrece formatos flexibles, incluidas clases en línea y presenciales, tu
 
 También facilita clubes de conversación donde puedes practicar con otros estudiantes en un entorno social relajado. Estas sesiones se centran en la comunicación real y son especialmente útiles para quienes buscan utilizar el portugués de forma práctica.
 
-Como hablante nativa, Barbara garantiza que las clases destaquen el uso natural del idioma y la fluidez cultural. Para conocer los servicios o reservar una clase de prueba gratuita, visita [Servicios](/es/servicios-clases-portugues/) o contacta con ella mediante [Contacto](/es/contacto-profesora-portugues/).
+Como hablante nativa, Barbara garantiza que las clases destaquen el uso natural del idioma y la fluidez cultural. Para conocer los servicios o reservar una clases de portugués, visita [Servicios](/es/servicios-clases-portugues/) o contacta con ella mediante [Contacto](/es/contacto-profesora-portugues/).
 ## Empieza hoy tu camino con el portugués brasileño
 
-¿Listo para aprender portugués brasileño en Alberton? Tanto si buscas una tutora local como clases flexibles en línea, Barbara Sharon ofrece enseñanza personalizada para ayudarte a lograr tus objetivos. Contacta hoy para reservar una clase de prueba gratuita y dar el primer paso hacia el dominio del hermoso y expresivo idioma de Brasil.
+¿Listo para aprender portugués brasileño en Alberton? Tanto si buscas una tutora local como clases flexibles en línea, Barbara Sharon ofrece enseñanza personalizada para ayudarte a lograr tus objetivos. Contacta hoy para reservar una clases de portugués y dar el primer paso hacia el dominio del hermoso y expresivo idioma de Brasil.

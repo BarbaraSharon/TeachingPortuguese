@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Kingsholme con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Kingsholme, situado en el norte de la Gold Coast, es una tranquila comunidad rural conocida por sus propiedades amplias y su ambiente de barrio unido. Con una población de aproximadamente 782 habitantes, esta zona ofrece un entorno tranquilo donde aprender idiomas se siente personal y culturalmente enriquecedor. La región tiene una población diversa, con un 26,6 % de personas nacidas en el extranjero, que enriquece el tejido cultural que favorece la educación lingüística. El alumnado de Kingsholme puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Kingsholme forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Kingsholme está situada en Australia. Esta página mantiene la referencia local específica de Kingsholme, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Kingsholme: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Kingsholme: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ Kingsholme también ofrece excelentes conexiones para quienes se interesan por l
 
 ## Cómo puede ayudarte Barbara Sharon a dominar el portugués
 
-Barbara Sharon es una profesora de portugués cualificada y apasionada, con amplia experiencia enseñando portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués cualificada y apasionada, con amplia experiencia enseñando portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura - Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

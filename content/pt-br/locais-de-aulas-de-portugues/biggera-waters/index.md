@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Biggera Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Biggera Waters, um subúrbio vibrante da Gold Coast, em Queensland, abriga quase 10.000 moradores, sendo mais de 43,5% nascidos no exterior. Esse ambiente multicultural oferece um cenário ideal para aprender português, especialmente português brasileiro, falado por mais de 200 milhões de pessoas no mundo. O estilo de vida descontraído da área e a proximidade de Surfers Paradise tornam conveniente para estudantes que vivem em Biggera Waters acessar aulas de português. Os alunos de Biggera Waters podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Biggera Waters faz parte do fuso horário regional de Gold Coast usado para organizar horários. Biggera Waters fica em Australia. Esta página mantém a referência local específica de Biggera Waters, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Biggera Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Biggera Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ Para alunos em Biggera Waters, aulas presenciais de português estão disponíve
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Biggera Waters? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como ela pode ajudar você a alcançar suas metas linguísticas.
+Tem interesse em aprender português em Biggera Waters? Entre em contato com Barbara Sharon para uma aulas de português e descubra como ela pode ajudar você a alcançar suas metas linguísticas.
 
 Se você procura uma tutora de português brasileiro em Biggera Waters ou quer explorar aulas de português perto de Biggera Waters, ela oferece apoio personalizado pela página de [serviços](/pt-br/aulas-de-portugues/). Entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/) para começar sua jornada hoje.

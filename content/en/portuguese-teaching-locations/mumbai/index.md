@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Mumbai. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Mumbai is located in India. Mumbai is grouped in the Asia location set used for local scheduling and learner guidance. This page keeps the local reference specific to Mumbai while the teaching service remains online-first."
+local_context: "Mumbai is grouped in the Asia regional time zone used for scheduling. Mumbai is located in India. This page keeps the local reference specific to Mumbai while the teaching service remains online-first."
 scheduling: "Scheduling from Mumbai: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Kolkata; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Mumbai: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Mumbai’s global outlook and increasing engagement with international markets m
 The city also hosts a growing number of multinational corporations and startups that value multilingualism. Strong trade agreements signed during President Lula’s visit have further emphasized cooperation in areas like tech transfer, supply chain resilience, and agro-business. Institutions like the World Trade Center Mumbai and India-Brazil Business Hub highlight the importance of effective communication in these sectors, making Portuguese an increasingly useful skill.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a certified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a certified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, Spanish
@@ -61,8 +61,8 @@ Learning Portuguese in Mumbai gives you access to a rich linguistic tradition th
 Students in Mumbai can enjoy flexible scheduling and interactive learning methods that make language acquisition both effective and enjoyable. Our online Portuguese lessons are available for both individual and group settings, allowing you to learn at your own pace.
 
 We utilize multimedia tools and customized materials tailored to your interests and learning objectives. Whether you’re looking for a Brazilian Portuguese tutor in Mumbai or conversational Portuguese classes near Mumbai, our platform supports learners at every level. With Barbara Sharon’s expertise, students can access private Portuguese tutor sessions in Mumbai or join group lessons for collaborative practice.
-## Contact for Your Free Trial Lesson
+## Contact for Your Portuguese Lesson
 
-Ready to start learning Portuguese in Mumbai? Schedule a free trial lesson with Barbara Sharon and discover how her teaching approach can help you reach your language goals. Whether you're new to Portuguese or looking to advance your skills, she’s here to support your journey.
+Ready to start learning Portuguese in Mumbai? Schedule a Portuguese lesson with Barbara Sharon and discover how her teaching approach can help you reach your language goals. Whether you're new to Portuguese or looking to advance your skills, she’s here to support your journey.
 
 Find out more about our services by visiting the [Services](/en/portuguese-teaching-services/)page or reaching out directly through the [Contact](/en/contact-portuguese-teacher/)page for inquiries regarding Brazilian Portuguese lessons in Mumbai, private Portuguese tutor in Mumbai, or online Portuguese tutor in Mumbai.

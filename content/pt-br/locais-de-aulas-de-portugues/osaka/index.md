@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Osaka. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Osaka faz parte do conjunto regional Asia usado para orientar horários e objetivos de aprendizagem. Osaka está localizada em Japan. Esta página mantém a referência local específica de Osaka, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Osaka faz parte do fuso horário regional de Asia usado para organizar horários. Osaka fica em Japan. Esta página mantém a referência local específica de Osaka, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Osaka: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Tokyo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Osaka: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -50,7 +50,7 @@ Barbara Sharon é uma experiente professora de português brasileiro, sediada em
 - Fluência em português, inglês, italiano e espanhol
 - Conselheira com profundo entendimento de nuances culturais
 
-Barbara é especializada no ensino de português brasileiro e europeu, ajudando estudantes a compreender as diferenças sutis entre os dialetos enquanto desenvolvem habilidades de comunicação para o mundo real. Sua abordagem combina aprendizagem estruturada com materiais interativos que tornam aprender português agradável e eficaz.
+Barbara é especializada no ensino de português brasileiro, ajudando estudantes a compreender as diferenças sutis entre os dialetos enquanto desenvolvem habilidades de comunicação para o mundo real. Sua abordagem combina aprendizagem estruturada com materiais interativos que tornam aprender português agradável e eficaz.
 
 Quer você tenha interesse em conexões de negócios com o Brasil ou simplesmente queira apreciar a cultura portuguesa, as aulas de Barbara oferecem um ambiente acolhedor e imersivo. Explore mais sobre seus serviços na página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
 
@@ -66,8 +66,8 @@ Nossas aulas de português online em Osaka são desenvolvidas para serem acessí
 
 Barbara Sharon oferece aulas particulares e em grupo adaptadas ao seu nível de proficiência. Das aulas de português para iniciantes, para quem é novo no idioma, às aulas avançadas de conversação em português, para falantes confiantes, seu estilo de ensino garante que cada estudante prospere. Aprenda português em Osaka com uma tutora que realmente entende tanto o idioma quanto a cultura.
 
-## Comece sua jornada hoje - aula experimental gratuita disponível
+## Comece sua jornada hoje - aulas de português disponível
 
-Você está pronto para começar sua jornada no português em Osaka? Entre em contato com Barbara Sharon para uma aula experimental gratuita e conheça de perto sua abordagem de ensino única. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar seus objetivos linguísticos.
+Você está pronto para começar sua jornada no português em Osaka? Entre em contato com Barbara Sharon para uma aulas de português e conheça de perto sua abordagem de ensino única. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar seus objetivos linguísticos.
 
 Para saber mais sobre nossas ofertas, visite a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/). ¡Vamos a aprender portugués! (Vamos aprender português!)

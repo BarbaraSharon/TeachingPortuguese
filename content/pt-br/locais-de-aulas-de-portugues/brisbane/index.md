@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Brisbane. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Brisbane está localizada em Australia. Brisbane faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Brisbane, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Brisbane faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Brisbane fica em Australia. Esta página mantém a referência local específica de Brisbane, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Brisbane: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Brisbane: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

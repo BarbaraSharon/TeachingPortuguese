@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bologna. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Bologna faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Bologna está localizada em Italy. Esta página mantém a referência local específica de Bologna, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Bologna faz parte do fuso horário regional de Europe usado para organizar horários. Bologna fica em Italy. Esta página mantém a referência local específica de Bologna, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Bologna: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bologna: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,4 +63,4 @@ Aulas online de português em Bolonha estão disponíveis em [serviços](/pt-br/
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português em Bolonha? Agende uma aula experimental gratuita com Barbara Sharon e dê o primeiro passo para dominar o português brasileiro! Saiba mais sobre seus serviços de ensino na página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
+Pronto para aprender português em Bolonha? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo para dominar o português brasileiro! Saiba mais sobre seus serviços de ensino na página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).

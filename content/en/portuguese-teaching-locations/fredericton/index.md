@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Fredericton. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Fredericton is grouped in the North America location set used for local scheduling and learner guidance. Fredericton is located in Canada. This page keeps the local reference specific to Fredericton while the teaching service remains online-first."
+local_context: "Fredericton is grouped in the North America regional time zone used for scheduling. Fredericton is located in Canada. This page keeps the local reference specific to Fredericton while the teaching service remains online-first."
 scheduling: "Scheduling from Fredericton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Fredericton: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,6 +56,6 @@ Barbara Sharon offers flexible learning options including online private tutorin
 With her online teaching platform, you can enjoy the convenience of studying from home or anywhere in Fredericton. To explore more about her services, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)page.
 ## Start Your Portuguese Journey Today
 
-Ready to learn Brazilian Portuguese in Fredericton? Book a free trial lesson with Barbara Sharon and take the first step toward fluency! Whether you're looking for a Portuguese tutor near me Fredericton , conversational Portuguese classes Fredericton , or structured online Portuguese lessons, her approach is designed to meet your individual needs.
+Ready to learn Brazilian Portuguese in Fredericton? Book a Portuguese lesson with Barbara Sharon and take the first step toward fluency! Whether you're looking for a Portuguese tutor near me Fredericton , conversational Portuguese classes Fredericton , or structured online Portuguese lessons, her approach is designed to meet your individual needs.
 
 "Fala comigo em português!" (Speak with me in Portuguese!)

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Barcelona. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Barcelona forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Barcelona está situada en Spain. Esta página mantiene la referencia local específica de Barcelona, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Barcelona forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Barcelona está situada en Spain. Esta página mantiene la referencia local específica de Barcelona, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Barcelona: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Madrid; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Barcelona: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,4 +55,4 @@ Tanto si prefieres enseñanza individual como aprendizaje colaborativo, los serv
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para empezar a aprender portugués en Barcelona? Contacta con Barbara Sharon para una clase de prueba gratuita y da el primer paso para dominar portugués brasileño. Con opciones de tutora de portugués en línea, tutoría particular o clases grupales en Barcelona, ofrece apoyo completo según tus necesidades. Tanto si buscas clases de conversación, clases para principiantes o formación avanzada, su experiencia garantiza un aprendizaje gratificante a través de [Contacto](/es/contacto-profesora-portugues/).
+¿Listo para empezar a aprender portugués en Barcelona? Contacta con Barbara Sharon para una clases de portugués y da el primer paso para dominar portugués brasileño. Con opciones de tutora de portugués en línea, tutoría particular o clases grupales en Barcelona, ofrece apoyo completo según tus necesidades. Tanto si buscas clases de conversación, clases para principiantes o formación avanzada, su experiencia garantiza un aprendizaje gratificante a través de [Contacto](/es/contacto-profesora-portugues/).

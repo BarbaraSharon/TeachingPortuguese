@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Wiesbaden. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Wiesbaden forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Wiesbaden está situada en Germany. Esta página mantiene la referencia local específica de Wiesbaden, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Wiesbaden forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Wiesbaden está situada en Germany. Esta página mantiene la referencia local específica de Wiesbaden, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Wiesbaden: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Wiesbaden: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -38,19 +38,19 @@ Barbara Sharon ofrece clases de portugués en línea adaptadas a alumnado de tod
 
 A pesar de estar en Alemania, el carácter internacional de Wiesbaden abre oportunidades singulares para aprender idiomas. La creciente comunidad brasileña y sus eventos culturales proporcionan un contexto real para practicar portugués.
 
-Aprender aquí te conecta con el vibrante patrimonio lingüístico de Brasil, incluidas las diferencias entre portugués brasileño y europeo. Explorarás matices presentes en música, cine, literatura y costumbres sociales que hacen del portugués un idioma fascinante.
+Aprender aquí te conecta con el vibrante patrimonio lingüístico de Brasil, incluidas las diferencias entre portugués brasileño. Explorarás matices presentes en música, cine, literatura y costumbres sociales que hacen del portugués un idioma fascinante.
 
 En Wiesbaden, el alumnado también puede disfrutar de celebraciones culturales como Rancho Folclórico Português de Wiesbaden y eventos vinculados a tradiciones portuguesas. El festival de cine exground en 2023 puso de relieve la influencia de Portugal y ofreció inmersión adicional en la relevancia global del idioma. Además, negocios locales como Pepé Ceramica de Portugal, en Bärenstr. 8, muestran cómo la cultura portuguesa se integra en la vida diaria, por lo que Wiesbaden es un lugar perfecto para buscar clases de portugués cerca de ti.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon aporta amplia experiencia como profesora certificada de portugués, con sólida formación en portugués brasileño y europeo. Sus cualificaciones incluyen:
+Barbara Sharon aporta amplia experiencia como profesora certificada de portugués, con sólida formación en portugués brasileño. Sus cualificaciones incluyen:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Entiende las diferencias sutiles entre portugués brasileño y europeo y ayuda al alumnado a desenvolverse con confianza. Tanto si te preparas para viajar a Brasil como si quieres comunicarte profesionalmente o apreciar más profundamente la cultura portuguesa, Barbara hace que aprender sea agradable y eficaz.
+Entiende las diferencias sutiles entre portugués brasileño y ayuda al alumnado a desenvolverse con confianza. Tanto si te preparas para viajar a Brasil como si quieres comunicarte profesionalmente o apreciar más profundamente la cultura portuguesa, Barbara hace que aprender sea agradable y eficaz.
 
 Barbara ofrece clases grupales y particulares en línea, por lo que es fácil acceder a enseñanza de calidad desde Wiesbaden. Visita [servicios](/es/servicios-clases-portugues/) para conocer más o contacta con Barbara mediante [contacto](/es/contacto-profesora-portugues/).
 ## Por qué importa el portugués: una lengua global

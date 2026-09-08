@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases de portugués brasileño en línea
   delivery: En línea en todo el mundo
+  delivery_modes: [online]
   audience: Estudiantes principiantes, intermedios, avanzados, de negocios y de viajes; no hay clases infantiles en línea
 sections:
 - block: hero
@@ -23,7 +24,7 @@ sections:
     text: Elige clases particulares o grupales en línea, con enseñanza práctica adaptada a tu nivel y objetivos. No hay clases infantiles en línea.
     primary_action:
       text: Consulta sobre las clases en línea
-      url: /es/contacto-profesora-portugues/
+      url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesan%20las%20clases%20online%20de%20portugu%C3%A9s%20brasile%C3%B1o.%20Mi%20nivel%20es%2C%20mi%20objetivo%20es%20y%20mi%20zona%20horaria%20es%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -86,6 +87,44 @@ sections:
     text: Contacta con Barbara sobre las clases en línea
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Precios claros
+    title: Opciones de clases online
+    text: Los precios actuales de Barbara se aplican a las clases online y en Gold Coast.
+    offers:
+    - id: term_10_week
+      title: Curso grupal de 10 semanas
+      price_prefix: desde
+      text: Una clase de 1 hora por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar el próximo grupo y la disponibilidad.
+      related_offers:
+      - id: book_digital
+        label: Libro digital
+        price_prefix: desde
+      - id: book_hard_copy
+        label: Libro impreso
+        price_prefix: ""
+      related_note: Las opciones y ediciones de los libros se confirman antes de la matrícula.
+      url: /es/contacto-profesora-portugues/
+    - id: term_10_week_1_5_hour
+      title: Curso grupal de 1,5 horas
+      price_prefix: ""
+      text: Una clase de 1,5 horas por semana durante un curso de 10 semanas. Disponible online o presencial. Contacta con Barbara para confirmar la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    - id: private_4_week
+      title: Paquete privado de 4 clases
+      price_prefix: desde
+      text: Una clase de 1 hora por semana durante 4 semanas. Contacta con Barbara para confirmar la opción actual y la disponibilidad.
+      url: /es/contacto-profesora-portugues/
+    - id: private_casual
+      title: Clase suelta
+      price_prefix: ""
+      text: Una clase de 1 hora. Contacta con Barbara para consultar la disponibilidad y el precio de clases de 1,5 o 2 horas.
+      url: /es/contacto-profesora-portugues/
+    action_text: Consultar disponibilidad
+    currency_note: Todos los precios están en dólares australianos. Contacta con Barbara para confirmar la opción y la disponibilidad.
+
 - block: answer-links
   content:
     eyebrow: Antes de elegir

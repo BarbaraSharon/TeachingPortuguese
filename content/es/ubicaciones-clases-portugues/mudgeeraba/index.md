@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Mudgeeraba con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Mudgeeraba es un suburbio frondoso y familiar situado en el interior de Gold Coast. Conocida por su vibrante comunidad multicultural y cercanía a Robina y Varsity Lakes, esta zona se ha convertido en un lugar ideal para que estudiantes de idiomas conecten con familias brasileñas y lusófonas locales. Tanto si buscas clases de portugués en Mudgeeraba, una tutora de portugués brasileño o experiencias inmersivas, Barbara Sharon ofrece soluciones de aprendizaje adaptadas a tus necesidades. El alumnado de Mudgeeraba puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Mudgeeraba forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Mudgeeraba está situada en Australia. Esta página mantiene la referencia local específica de Mudgeeraba, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Mudgeeraba: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Mudgeeraba: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ La zona también apoya conexiones comerciales entre Australia y Brasil, especial
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués
 
-Barbara Sharon es una profesora cualificada de portugués con sólida formación en portugués brasileño y europeo. Sus credenciales incluyen:
+Barbara Sharon es una profesora cualificada de portugués con sólida formación en portugués brasileño. Sus credenciales incluyen:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -66,6 +66,6 @@ Nuestras clases interactivas incorporan herramientas multimedia y contenido atra
 
 ## Empieza hoy tu recorrido de portugués
 
-¿Listo para comenzar a aprender portugués en Mudgeeraba? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo sus métodos pueden apoyar tus objetivos. Tanto si eres principiante absoluto como si quieres mejorar conversación, ella puede guiarte en cada paso.
+¿Listo para comenzar a aprender portugués en Mudgeeraba? Contacta con Barbara Sharon para una clases de portugués y descubre cómo sus métodos pueden apoyar tus objetivos. Tanto si eres principiante absoluto como si quieres mejorar conversación, ella puede guiarte en cada paso.
 
 Conoce más sobre [clases de portugués cerca de Mudgeeraba](/es/servicios-clases-portugues/) o comunícate mediante nuestra página de [contacto](/es/contacto-profesora-portugues/) para programar tu sesión.

@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Dubai. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Dubai forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Dubai está situada en United Arab Emirates. Esta página mantiene la referencia local específica de Dubai, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Dubai forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Dubai está situada en United Arab Emirates. Esta página mantiene la referencia local específica de Dubai, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Dubai: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Dubai; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Dubai: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Barbara Sharon ofrece clases individuales y de portugués en grupos pequeños en
 
 ## Empieza hoy tu recorrido de portugués
 
-¿Te interesa aprender portugués en Dubái? Contacta con Barbara Sharon para una clase de prueba gratuita y empieza hoy tu recorrido lingüístico. Tanto si buscas una profesora de portugués brasileño en Dubái como una tutora de portugués en línea, proporciona enseñanza de alta calidad adaptada a tus necesidades. Descubre cómo las clases de portugués en Dubái pueden ayudarte a conectar con la rica cultura y las oportunidades globales del mundo lusófono.
+¿Te interesa aprender portugués en Dubái? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu recorrido lingüístico. Tanto si buscas una profesora de portugués brasileño en Dubái como una tutora de portugués en línea, proporciona enseñanza de alta calidad adaptada a tus necesidades. Descubre cómo las clases de portugués en Dubái pueden ayudarte a conectar con la rica cultura y las oportunidades globales del mundo lusófono.

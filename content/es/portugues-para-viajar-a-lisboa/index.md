@@ -23,7 +23,7 @@ migration_schema:
 
 ¿Planeas viajar a Lisboa, la vibrante capital de Portugal? Lisboa es una ciudad de encanto extraordinario, con sus icónicos tranvías amarillos, edificios de colores pastel, miradores panorámicos y una rica historia que se remonta a la época romana. Pero para vivir Lisboa de verdad necesitas algo más que un libro de frases: necesitas hablar el idioma local.
 
-El curso de Barbara Sharon es un programa especializado de portugués europeo creado para viajeros que visitan Lisboa, Portugal y otras partes del país. Aunque Barbara es hablante nativa de portugués brasileño, domina el portugués europeo y enseña la pronunciación, el vocabulario y las expresiones que distinguen ambas variedades.
+La guía de Barbara Sharon para viajar a Lisboa ayuda a quienes aprenden portugués brasileño a prepararse para situaciones habituales en Portugal. Barbara enseña portugués brasileño y puede explicar las diferencias de pronunciación, vocabulario y expresiones que los viajeros pueden encontrar en Lisboa.
 
 Tanto si visitas Lisboa durante unos días como durante unos meses, este curso te proporciona las frases esenciales y los conocimientos culturales necesarios para moverte con confianza.
 ## ¿Por qué aprender portugués europeo para Lisboa?
@@ -83,7 +83,7 @@ Tanto si visitas Lisboa durante unos días como durante unos meses, este curso t
 | Niño | Criança | Criança |
 | Sonidos vocálicos | Vocales abiertas, más sílabas | Vocales cerradas, vocales átonas reducidas |
 
-Barbara Sharon te enseñará la pronunciación y el vocabulario europeos específicos de Lisboa para que suenes como una persona local. También explicará las diferencias principales con el portugués brasileño.
+Barbara Sharon enseña portugués brasileño y puede explicarte la pronunciación y el vocabulario europeos que puedes oír en Lisboa, para que sepas qué esperar sin presentar esta página como clases de portugués europeo.
 ## Formatos de curso para adaptarse a tus horarios
 ### Programa intensivo antes del viaje (recomendado para viajes en 1–3 meses)
 - Duración: 4–6 semanas de estudio intensivo
@@ -107,7 +107,7 @@ Barbara Sharon te enseñará la pronunciación y el vocabulario europeos especí
 No todos los cursos de portugués se centran en Lisboa. El curso de viajes de Barbara está diseñado específicamente para visitantes de la capital portuguesa. Incluye vocabulario lisboeta -estaciones de metro, líneas de tranvía, nombres de barrios y platos locales- y conocimientos sobre la etiqueta y las costumbres portuguesas.
 ### Experiencia en portugués europeo
 
-Aunque Barbara es hablante nativa de portugués brasileño, domina el portugués europeo y enseña las diferencias de pronunciación, vocabulario y gramática. Aprenderás el portugués europeo auténtico que se usa en Lisboa, no portugués brasileño con acento europeo.
+Barbara es profesora de portugués brasileño. Puede ayudarte a reconocer las diferencias de pronunciación, vocabulario y gramática entre las dos variedades antes de viajar a Lisboa; esta página ofrece orientación de viaje, no clases de portugués europeo.
 ### Enfoque práctico y real
 
 No se trata de gramática perfecta ni de portugués literario, sino de conseguir lo que necesitas y conectar con las personas. Cada clase destaca las frases que realmente usarás en Lisboa, desde pedir pastéis de nata hasta preguntar cómo llegar a un lugar en Alfama.
@@ -129,7 +129,7 @@ Aprende desde cualquier lugar del mundo mediante Zoom. Hay sesiones por la maña
 Recomiendo comenzar al menos 4–6 semanas antes de salir para realizar un curso de viajes enfocado. Sin embargo, incluso programas más cortos pueden ayudarte a aprender frases esenciales de supervivencia.
 ### ¿Será difícil aprender portugués europeo si solo conozco el brasileño?
 
-Los hablantes de portugués brasileño y europeo normalmente se entienden. Las diferencias principales están en la pronunciación, parte del vocabulario y el uso verbal. Barbara puede enseñarte las variantes europeas y explicar cómo se diferencian del brasileño; si ya conoces el brasileño, la transición es mucho más fácil.
+Los hablantes de portugués brasileño y europeo normalmente se entienden. Las diferencias principales están en la pronunciación, parte del vocabulario y el uso verbal. Barbara puede explicar las variantes europeas mientras enseña portugués brasileño; si ya conoces el brasileño, la transición es mucho más fácil.
 ### ¿Qué pasa si nunca he estudiado portugués?
 
 No pasa nada. El curso está diseñado para principiantes absolutos. Barbara empieza por lo más básico y avanza gradualmente, centrándose en las frases y expresiones que más necesitarás en Lisboa.
@@ -143,7 +143,7 @@ Sí. Antes de empezar, hablaréis de tus planes, los barrios donde estarás, tus
 
 El portugués europeo tiene sonidos vocálicos más cerrados y reduce más las vocales átonas, por lo que puede sonar más rápido y cortado. A algunos estudiantes les cuesta entenderlo al principio, pero la lengua escrita es muy parecida y las diferencias gramaticales son manejables. El método de Barbara hace accesibles ambas variedades.
 
-[Ver todos los cursos de viajes](/es/portugues-para-viajar/) [Reserva tu consulta gratuita](/es/contacto-profesora-portugues/)
+[Ver todos los cursos de viajes](/es/portugues-para-viajar/) [Contacta con Barbara sobre tu viaje a Lisboa](/es/contacto-profesora-portugues/)
 ## «Aprender é viver!» (¡Aprender es vivir!)
 
 No dejes que las barreras lingüísticas limiten tu experiencia en Lisboa. Con Portugués para viajar a Lisboa descubrirás un viaje más rico y auténtico por la hermosa capital de Portugal. Empieza hoy tu camino con el portugués europeo.

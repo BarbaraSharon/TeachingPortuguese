@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Southport. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Southport faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Southport está localizada em Australia. Esta página mantém a referência local específica de Southport, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Southport faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Southport fica em Australia. Esta página mantém a referência local específica de Southport, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Southport: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Southport: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Southport: aulas de português brasileiro e europeu
+## Aprenda português em Southport: aulas de português brasileiro
 
 Southport é um subúrbio vibrante na extremidade norte da Gold Coast, com mais de 36.786 residentes segundo o censo de 2021. Com 44,8% da população nascida no exterior, a área oferece uma atmosfera internacional que apoia o aprendizado de idiomas e o intercâmbio cultural. O ambiente multicultural faz dela um lugar ideal para alunos interessados em explorar a cultura e o idioma portugueses. Quer você esteja procurando aulas de português em Southport ou opções de professora particular de português online, Barbara Sharon oferece soluções flexíveis adaptadas às suas necessidades.
 
@@ -43,7 +43,7 @@ O Brasil, lar da maior população de falantes de português do mundo, oferece r
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de português brasileiro, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de português brasileiro, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -60,7 +60,7 @@ Para reservar uma sessão ou saber mais, visite a página [Contato](/pt-br/conta
 
 Como o quinto idioma mais falado do mundo, o português é uma importante língua franca global. Com mais de 267 milhões de falantes nativos, é uma das línguas românicas mais faladas globalmente.
 
-Aprender português em Southport dá a você acesso a uma rica tradição linguística que vai além do Brasil. O idioma influenciou e foi influenciado por diversas culturas da África, da Ásia e das Américas, tornando-se um tema fascinante de estudo. Quer você tenha interesse em português brasileiro ou europeu, esse conhecimento abre portas para intercâmbios culturais e oportunidades de negócios.
+Aprender português em Southport dá a você acesso a uma rica tradição linguística que vai além do Brasil. O idioma influenciou e foi influenciado por diversas culturas da África, da Ásia e das Américas, tornando-se um tema fascinante de estudo. Quer você tenha interesse em português brasileiro, esse conhecimento abre portas para intercâmbios culturais e oportunidades de negócios.
 
 ## Aulas de português online em Southport
 

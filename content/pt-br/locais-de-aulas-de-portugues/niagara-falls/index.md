@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Niagara Falls. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Niagara Falls faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Niagara Falls está localizada em Canada. Esta página mantém a referência local específica de Niagara Falls, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Niagara Falls faz parte do fuso horário regional de North America usado para organizar horários. Niagara Falls fica em Canada. Esta página mantém a referência local específica de Niagara Falls, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Niagara Falls: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Niagara Falls: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode aproveitar a conveniência de es
 
 ## Comece hoje sua jornada no português
 
-Você está pronto para aprender português brasileiro em Niagara Falls? Agende uma aula experimental gratuita com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma tutora de português perto de você em Niagara Falls, aulas de conversação em português em Niagara Falls ou aulas de português online estruturadas, sua abordagem é desenvolvida para atender às suas necessidades individuais.
+Você está pronto para aprender português brasileiro em Niagara Falls? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma tutora de português perto de você em Niagara Falls, aulas de conversação em português em Niagara Falls ou aulas de português online estruturadas, sua abordagem é desenvolvida para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (Fale comigo em português!)

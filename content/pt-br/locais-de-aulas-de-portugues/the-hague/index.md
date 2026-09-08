@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de The Hague. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "The Hague faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. The Hague está localizada em Netherlands. Esta página mantém a referência local específica de The Hague, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "The Hague faz parte do fuso horário regional de Europe usado para organizar horários. The Hague fica em Netherlands. Esta página mantém a referência local específica de The Hague, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para The Hague: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em The Hague: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ Aprender português em Haia abre portas para compreender a cultura brasileira po
 
 ## Como Barbara Sharon aprimora sua experiência de aprendizagem
 
-Barbara Sharon é uma apaixonada professora de português brasileiro, com ampla experiência no ensino de português brasileiro e europeu. Suas qualificações incluem:
+Barbara Sharon é uma apaixonada professora de português brasileiro, com ampla experiência no ensino de português brasileiro. Suas qualificações incluem:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Advancetown with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Advancetown, a peaceful and scenic suburb of the Gold Coast hinterland in Queensland, provides an ideal setting for focused language learning. With a small but vibrant community of around 528 residents, this quiet area offers tranquility while still being close to major cities like Brisbane and Surfers Paradise. Learners in Advancetown can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Advancetown is grouped in the Gold Coast regional time zone used for scheduling. Advancetown is located in Australia. This page keeps the local reference specific to Advancetown while the teaching service remains online-first."
 scheduling: "Scheduling from Advancetown: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Advancetown: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -52,8 +52,8 @@ Her lessons are carefully structured to blend grammar, vocabulary, conversation,
 Barbara Sharon offers versatile learning formats including online classes, private tutoring, and group sessions. All levels-from absolute beginners to advanced speakers-are welcome. Private lessons allow for one-on-one attention, while group classes provide interactive practice and peer support.
 
 For students in Advancetown, in-person Portuguese lessons are held in Surfers Paradise, just a short distance away. Alternatively, online lessons are available for those who prefer remote learning. Visit her [Services](/en/portuguese-teaching-services/)page to explore both group and individual tutoring options. Whether you're looking for a "Brazilian Portuguese teacher near me Advancetown" or want to book "Portuguese lessons in Surfers Paradise", Barbara has something for everyone.
-## Start Your Journey Today - Free Trial Lesson Available
+## Start Your Journey Today - Portuguese Lesson Available
 
-Ready to begin your journey in learning Brazilian Portuguese? Contact Barbara Sharon today for a complimentary trial lesson and discover how enjoyable and achievable language learning can be. With her expertise, personalized attention, and engaging teaching style, you'll quickly gain confidence in speaking Portuguese naturally.
+Ready to begin your journey in learning Brazilian Portuguese? Contact Barbara Sharon today for a lesson options and discover how enjoyable and achievable language learning can be. With her expertise, personalized attention, and engaging teaching style, you'll quickly gain confidence in speaking Portuguese naturally.
 
 Whether you're searching for a [Portuguese tutor near me](/en/portuguese-teaching-services/), or a [Brazilian Portuguese teacher in Advancetown](/en/contact-portuguese-teacher/), Barbara is here to guide you every step of the way. ¡Vamos a aprender! (Let's start learning!)

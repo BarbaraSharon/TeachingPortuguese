@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Paris. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Paris is grouped in the Europe location set used for local scheduling and learner guidance. Paris is located in France. This page keeps the local reference specific to Paris while the teaching service remains online-first."
+local_context: "Paris is grouped in the Europe regional time zone used for scheduling. Paris is located in France. This page keeps the local reference specific to Paris while the teaching service remains online-first."
 scheduling: "Scheduling from Paris: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Paris: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Paris: Brazilian & European Portuguese Classes
+## Learn Portuguese in Paris: Brazilian Portuguese Classes
 
 Paris, with a population of over 2.04 million people and 25% foreign-born residents, is a vibrant city that embraces cultural diversity. The presence of approximately 64,622 Brazilian-born residents and around 235,000 Portuguese-born individuals in the Paris region makes it an ideal environment for learning Portuguese. This rich multicultural setting offers unique opportunities to connect with native speakers and immerse yourself in the language and culture.
 
@@ -42,7 +42,7 @@ Paris’s global standing creates unique access to international communities and
 The city's thriving Brazilian community organizes events like the Grand Bal BrasilBrésil at Grand Palais (July 5, 2025), Le Lavage de la Madeleine festival (September 9-14, 2025), and Bloco Terreirada carnival celebrations in the 13th arrondissement. These gatherings offer rich opportunities to practice your listening comprehension and engage with native speakers in a relaxed setting. Portuguese learners can also attend festivals like Fête des Saints Populaires or explore cultural events organized by groups such as ADEPBA and InterNations .
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -61,8 +61,8 @@ In Paris, you can explore how Portuguese has influenced and been shaped by cultu
 Online Portuguese lessons provide flexibility for busy schedules and allow learners to access high-quality instruction from anywhere in Paris. With interactive tools and multimedia resources, these sessions are designed to make language learning engaging and effective.
 
 Barbara Sharon’s online lessons offer materials tailored to your interests, whether you're preparing for travel, want to improve your business communication skills, or simply enjoy exploring Portuguese culture through authentic content. Her services cater to learners seeking a Brazilian Portuguese tutor in Paris or European Portuguese teacher in Paris, with options for private Portuguese tutor sessions or group Portuguese classes.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Paris? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
+Interested in learning Portuguese in Paris? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 [Contact](/en/contact-portuguese-teacher/)now to book your first session and experience personalized Portuguese instruction from a qualified teacher in Paris.

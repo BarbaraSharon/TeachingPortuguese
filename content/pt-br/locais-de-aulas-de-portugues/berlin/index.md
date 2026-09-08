@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Berlin. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Berlin está localizada em Germany. Berlin faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Berlin, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Berlin faz parte do fuso horário regional de Europe usado para organizar horários. Berlin fica em Germany. Esta página mantém a referência local específica de Berlin, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Berlin: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Berlin: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Barbara Sharon é especialista em português brasileiro, oferecendo conhecimento
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Berlim? Fale com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada linguística! Com serviços de tutoria online de português em Berlim, você pode começar a melhorar suas habilidades de qualquer lugar. Se você procura uma professora de português brasileiro em Berlim ou quer participar de aulas interativas de português em Berlim, Barbara está pronta para ajudar. Explore oportunidades de conexão com as vibrantes comunidades de língua portuguesa em Berlim por meio de aulas estruturadas e imersão cultural.
+Tem interesse em aprender português em Berlim? Fale com Barbara Sharon para uma aulas de português e comece hoje sua jornada linguística! Com serviços de tutoria online de português em Berlim, você pode começar a melhorar suas habilidades de qualquer lugar. Se você procura uma professora de português brasileiro em Berlim ou quer participar de aulas interativas de português em Berlim, Barbara está pronta para ajudar. Explore oportunidades de conexão com as vibrantes comunidades de língua portuguesa em Berlim por meio de aulas estruturadas e imersão cultural.

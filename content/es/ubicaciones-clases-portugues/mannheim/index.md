@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Mannheim. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Mannheim está situada en Germany. Mannheim forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Mannheim, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Mannheim forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Mannheim está situada en Germany. Esta página mantiene la referencia local específica de Mannheim, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Mannheim: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Mannheim: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,14 +43,14 @@ La ciudad también se beneficia de los fuertes vínculos económicos de Alemania
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia enseñando portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia enseñando portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño y europeo, el contexto cultural y las habilidades de conversación para relacionarte auténticamente con hablantes nativos. Como tutora particular de portugués en Mannheim, ofrece sesiones individuales y grupales en línea, garantizando atención personalizada para cada estudiante. Conoce más sobre sus clases en la página de [servicios](/es/servicios-clases-portugues/).
+Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño, el contexto cultural y las habilidades de conversación para relacionarte auténticamente con hablantes nativos. Como tutora particular de portugués en Mannheim, ofrece sesiones individuales y grupales en línea, garantizando atención personalizada para cada estudiante. Conoce más sobre sus clases en la página de [servicios](/es/servicios-clases-portugues/).
 
 ## El portugués como lengua global
 
@@ -62,6 +62,6 @@ Hay clases particulares y grupales de portugués en línea disponibles mundialme
 
 Tanto si eres principiante como si buscas mejorar conversación, sus clases proporcionan apoyo estructurado en un entorno cómodo. Para más detalles sobre sus clases, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/).
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Te interesa aprender portugués en Mannheim? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si buscas desarrollar tus habilidades, está aquí para acompañar tu recorrido. Obtén más información sobre [clases de portugués cerca de Mannheim](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Mannheim? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si buscas desarrollar tus habilidades, está aquí para acompañar tu recorrido. Obtén más información sobre [clases de portugués cerca de Mannheim](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).

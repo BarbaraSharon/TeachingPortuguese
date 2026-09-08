@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Glasgow. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Glasgow faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Glasgow está localizada em United Kingdom. Esta página mantém a referência local específica de Glasgow, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Glasgow faz parte do fuso horário regional de Europe usado para organizar horários. Glasgow fica em United Kingdom. Esta página mantém a referência local específica de Glasgow, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Glasgow: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Glasgow: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,6 +61,6 @@ Quer você prefira ensino individual ou a energia colaborativa de grupos, a abor
 
 ## Comece hoje sua jornada rumo à fluência
 
-Está pronto para começar a aprender português em Glasgow? Entre em contato com Barbara Sharon para uma aula experimental gratuita e dê o primeiro passo rumo à fluência. Quer você procure o apoio de uma professora de português brasileiro em Glasgow, aulas de português online na cidade ou aulas adequadas para iniciantes, ela está pronta para orientar você em cada etapa.
+Está pronto para começar a aprender português em Glasgow? Entre em contato com Barbara Sharon para uma aulas de português e dê o primeiro passo rumo à fluência. Quer você procure o apoio de uma professora de português brasileiro em Glasgow, aulas de português online na cidade ou aulas adequadas para iniciantes, ela está pronta para orientar você em cada etapa.
 
 Com sua experiência e foco na aplicação em situações reais, você desenvolverá a confiança para usar português em contextos pessoais e profissionais. Deixe Barbara ajudar você a revelar a beleza do português brasileiro e a abraçar um novo mundo de comunicação!

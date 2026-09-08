@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Dresden. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Dresden is grouped in the Europe location set used for local scheduling and learner guidance. Dresden is located in Germany. This page keeps the local reference specific to Dresden while the teaching service remains online-first."
+local_context: "Dresden is grouped in the Europe regional time zone used for scheduling. Dresden is located in Germany. This page keeps the local reference specific to Dresden while the teaching service remains online-first."
 scheduling: "Scheduling from Dresden: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Dresden: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon specializes in Brazilian Portuguese lessons in Dresden, offering conversational Portuguese classes in Dresden and beginner-friendly instruction designed to build confidence. Her structured approach ensures effective progress, whether you're seeking a private Portuguese tutor in Dresden or want to join group lessons.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Dresden? Contact Barbara Sharon for a free trial lesson and start your language journey today! Whether you are seeking Brazilian Portuguese teacher in Dresden, conversational classes, or beginner-friendly instruction, she offers customized support to suit your goals.
+Interested in learning Portuguese in Dresden? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you are seeking Brazilian Portuguese teacher in Dresden, conversational classes, or beginner-friendly instruction, she offers customized support to suit your goals.
 
 With online Portuguese lessons near Dresden available through her platform, finding the right fit has never been easier. [Get in touch now](/en/contact-portuguese-teacher/)and discover how learning Portuguese can open doors to new experiences and opportunities.

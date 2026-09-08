@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Alberton com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Alberton, situado na Gold Coast, em Queensland, oferece um ambiente sereno e culturalmente rico para aprender português brasileiro. Com uma população de apenas 297 pessoas, segundo o censo de 2021, é um lugar tranquilo para começar sua jornada pelo vibrante mundo do português. Apesar de seu tamanho, Alberton abriga uma comunidade multicultural em crescimento, com eventos como o Madeira Fest na Casa Da Madeira, que dão vida às tradições e celebrações portuguesas. Os alunos de Alberton podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Alberton faz parte do fuso horário regional de Gold Coast usado para organizar horários. Alberton fica em Australia. Esta página mantém a referência local específica de Alberton, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Alberton: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Alberton: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,8 +59,8 @@ Além das aulas regulares, ela conduz clubes de conversação onde os alunos pod
 
 Como falante nativa de português, Barbara garante que suas aulas enfatizem o uso natural da língua e a fluência cultural. Ela oferece serviços de tutoria de português em Alberton e opções online para quem prefere a aprendizagem remota.
 
-Para explorar todos os serviços disponíveis ou agendar uma aula experimental gratuita, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
+Para explorar todos os serviços disponíveis ou agendar uma aulas de português, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
 
 ## Comece hoje sua jornada no português brasileiro!
 
-Pronto para aprender português brasileiro em Alberton? Quer você procure uma tutora local de português ou queira aulas online flexíveis, Barbara Sharon oferece ensino personalizado que ajuda você a alcançar seus objetivos linguísticos. Comece sua jornada entrando em contato hoje para uma aula experimental gratuita e dê o primeiro passo para dominar a bela e expressiva língua do Brasil.
+Pronto para aprender português brasileiro em Alberton? Quer você procure uma tutora local de português ou queira aulas online flexíveis, Barbara Sharon oferece ensino personalizado que ajuda você a alcançar seus objetivos linguísticos. Comece sua jornada entrando em contato hoje para uma aulas de português e dê o primeiro passo para dominar a bela e expressiva língua do Brasil.

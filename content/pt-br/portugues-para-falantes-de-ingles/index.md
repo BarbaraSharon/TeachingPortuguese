@@ -105,7 +105,7 @@ Aprenda ao lado de outros alunos de português que falam inglês. As aulas em gr
 
 Quando você já tiver habilidades básicas de português, o Clube de Conversação ajuda na transição do português de livro didático para a conversação real. As sessões regulares em grupo se concentram em fluência, pronúncia e ampliação do vocabulário por meio da discussão de temas relevantes para falantes de inglês.
 
-[Veja todas as opções de serviços](/pt-br/aulas-de-portugues/)[Agende sua consulta gratuita](/pt-br/contato-professora-portugues/)
+[Veja todas as opções de serviços](/pt-br/aulas-de-portugues/)[Agende sua opciones de clases](/pt-br/contato-professora-portugues/)
 
 ## Perguntas frequentes
 

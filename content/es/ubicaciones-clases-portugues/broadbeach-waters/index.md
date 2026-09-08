@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Broadbeach Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Broadbeach Waters es un suburbio vibrante y familiar de Gold Coast, conocido por sus canales pintorescos, parques exuberantes y fácil acceso a comercios y restaurantes. Con una comunidad diversa de residentes de distintos orígenes culturales, ofrece un entorno ideal para aprender idiomas. La relajada atmósfera suburbana permite concentrarte en el portugués mientras disfrutas del estilo de vida local. El alumnado de Broadbeach Waters puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Broadbeach Waters forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Broadbeach Waters está situada en Australia. Esta página mantiene la referencia local específica de Broadbeach Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Broadbeach Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Broadbeach Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -49,7 +49,7 @@ Su formación multilingüe incluye italiano y español, lo que ayuda a comparar 
 
 Barbara ofrece clases completas que combinan gramática, vocabulario, práctica de conversación y contexto cultural para que hables naturalmente y con confianza. Tanto si buscas tutoría particular como clases grupales de portugués, adapta su enfoque a tus necesidades. También facilita clubes de conversación donde el alumnado practica portugués conversacional de manera divertida y atractiva.
 
-Para quienes buscan [clases de portugués brasileño cerca de Broadbeach Waters](/es/servicios-clases-portugues/), sus servicios en Surfers Paradise proporcionan acceso conveniente. [Servicios](/es/servicios-clases-portugues/) incluye formatos presenciales y en línea, con opciones de clases individuales o grupales. Para comenzar, contacta desde [Contacto](/es/contacto-profesora-portugues/) para una clase de prueba gratuita.
+Para quienes buscan [clases de portugués brasileño cerca de Broadbeach Waters](/es/servicios-clases-portugues/), sus servicios en Surfers Paradise proporcionan acceso conveniente. [Servicios](/es/servicios-clases-portugues/) incluye formatos presenciales y en línea, con opciones de clases individuales o grupales. Para comenzar, contacta desde [Contacto](/es/contacto-profesora-portugues/) para una clases de portugués.
 
 ## Clases de portugués en Broadbeach Waters: opciones online y presenciales
 
@@ -61,4 +61,4 @@ El alumnado de Broadbeach Waters puede asistir a clases de portugués en Surfers
 
 Aprender portugués en Broadbeach Waters te da acceso a una comunidad de apoyo y a enseñanza experta. Tanto si consideras una [tutora de portugués en Gold Coast](/es/servicios-clases-portugues/), clases de portugués en línea o clases locales cerca de Broadbeach Waters, Barbara Sharon ofrece experiencias de aprendizaje de alta calidad adaptadas a tus objetivos.
 
-Contacta con [Barbara Sharon](/es/contacto-profesora-portugues/) hoy para una clase de prueba gratuita y descubre cómo puedes empezar a dominar portugués brasileño con confianza y fluidez. Con opciones como tutoría particular en Broadbeach Waters, clases grupales o sesiones de tutoría de portugués en línea, hay un camino de aprendizaje adecuado para ti.
+Contacta con [Barbara Sharon](/es/contacto-profesora-portugues/) hoy para una clases de portugués y descubre cómo puedes empezar a dominar portugués brasileño con confianza y fluidez. Con opciones como tutoría particular en Broadbeach Waters, clases grupales o sesiones de tutoría de portugués en línea, hay un camino de aprendizaje adecuado para ti.

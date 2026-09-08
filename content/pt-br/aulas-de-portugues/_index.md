@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Aulas de português brasileiro
   delivery: Online para todo o mundo; presenciais na Gold Coast
+  delivery_modes: [online, in_person]
   audience: Iniciantes, intermediários, avançados, negócios, viagens e crianças
 sections:
 - block: hero
@@ -22,13 +23,13 @@ sections:
     title: Aulas de português online e na Gold Coast
     text: Aulas particulares e em grupo online para todo o mundo, além de aulas presenciais na Gold Coast. Escolha seu nível, seu objetivo e a maneira como quer aprender.
     primary_action:
-      text: Fale com a Barbara
-      url: /pt-br/contato-professora-portugues/
+      text: Aulas online para todo o mundo
+      url: /pt-br/aulas-de-portugues/aulas-online/
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Compare as opções de aula
-      url: '#lesson-options'
+      text: Aulas em grupo na Gold Coast
+      url: /pt-br/aulas-de-portugues/escola-de-portugues-gold-coast/
       icon: hero/arrow-down
       style: ghost
     media:
@@ -176,6 +177,44 @@ sections:
       text: Fale com a Barbara sobre as aulas
       url: /pt-br/contato-professora-portugues/
       icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Preços claros
+    title: Escolha o formato da sua aula
+    text: Os preços atuais da Barbara valem para aulas online e na Gold Coast.
+    offers:
+    - id: term_10_week
+      title: Curso em grupo de 10 semanas
+      price_prefix: a partir de
+      text: Uma aula de 1 hora por semana durante um curso de 10 semanas. Disponível online ou presencial. Fale com a Barbara para confirmar a próxima turma e a disponibilidade.
+      related_offers:
+      - id: book_digital
+        label: Livro digital
+        price_prefix: a partir de
+      - id: book_hard_copy
+        label: Livro impresso
+        price_prefix: ""
+      related_note: As opções e edições dos livros serão confirmadas antes da matrícula.
+      url: /pt-br/contato-professora-portugues/
+    - id: term_10_week_1_5_hour
+      title: Curso em grupo de 1,5 hora
+      price_prefix: ""
+      text: Uma aula de 1,5 hora por semana durante um curso de 10 semanas. Disponível online ou presencial. Fale com a Barbara para confirmar a disponibilidade.
+      url: /pt-br/contato-professora-portugues/
+    - id: private_4_week
+      title: Pacote de 4 aulas particulares
+      price_prefix: a partir de
+      text: Uma aula de 1 hora por semana durante 4 semanas. Fale com a Barbara para confirmar a opção atual e a disponibilidade.
+      url: /pt-br/contato-professora-portugues/
+    - id: private_casual
+      title: Aula avulsa
+      price_prefix: ""
+      text: Uma aula de 1 hora. Fale com a Barbara para consultar a disponibilidade e o preço de aulas de 1,5 ou 2 horas.
+      url: /pt-br/contato-professora-portugues/
+    action_text: Consultar disponibilidade
+    currency_note: Todos os preços estão em dólares australianos. Fale com a Barbara para confirmar a opção e a disponibilidade.
+
 - block: answer-links
   id: respostas-escolha-aulas
   content:

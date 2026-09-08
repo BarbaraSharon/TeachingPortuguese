@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Jacobs Well con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Jacobs Well es un tranquilo suburbio costero del norte de Gold Coast, conocido por su belleza paisajística y comunidad unida. Con una población de alrededor de 2.882 residentes, es un apacible refugio que atrae a aficionados a la navegación y la pesca. La creciente presencia brasileña de la zona la convierte en un lugar ideal para conectar con la cultura y el idioma portugueses mediante clases inmersivas en Jacobs Well. El alumnado de Jacobs Well puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Jacobs Well forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Jacobs Well está situada en Australia. Esta página mantiene la referencia local específica de Jacobs Well, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Jacobs Well: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Jacobs Well: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -51,7 +51,7 @@ Barbara Sharon es una profesora de portugués experimentada y con sólida formac
 - Orientadora
 - Maestría en Estudios Educativos y Gestión del Comportamiento, en curso
 
-Con su experiencia, Barbara ayuda al alumnado a comprender las diferencias entre portugués brasileño y europeo, los matices culturales y habilidades de conversación auténticas. Tanto si buscas una tutora de portugués brasileño en Jacobs Well como una profesora particular de portugués en Jacobs Well, ofrece clases individuales y grupales adaptadas a tu estilo de aprendizaje.
+Con su experiencia, Barbara ayuda al alumnado a comprender las diferencias entre portugués brasileño, los matices culturales y habilidades de conversación auténticas. Tanto si buscas una tutora de portugués brasileño en Jacobs Well como una profesora particular de portugués en Jacobs Well, ofrece clases individuales y grupales adaptadas a tu estilo de aprendizaje.
 
 Barbara también dirige un club de conversación para estudiantes que desean practicar portugués en un ambiente relajado. Para más información, visita la página de [servicios](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).
 
@@ -67,8 +67,8 @@ Hay clases presenciales de portugués en Surfers Paradise y suburbios cercanos d
 
 Nuestras clases presenciales proporcionan un entorno estructurado y atractivo donde puedes practicar expresión oral con otros estudiantes. Recibirás materiales personalizados según tus intereses y metas, tanto si buscas clases de portugués para principiantes en Jacobs Well como orientación de conversación avanzada.
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Listo para empezar a aprender portugués en Jacobs Well? Contacta hoy con Barbara Sharon para una clase de prueba gratuita y experimenta de primera mano su enfoque único. Tanto si eres principiante absoluto como si buscas mejorar fluidez, está aquí para acompañar tu recorrido.
+¿Listo para empezar a aprender portugués en Jacobs Well? Contacta hoy con Barbara Sharon para una clases de portugués y experimenta de primera mano su enfoque único. Tanto si eres principiante absoluto como si buscas mejorar fluidez, está aquí para acompañar tu recorrido.
 
 Conoce más sobre sus [servicios de tutoría de portugués](/es/servicios-clases-portugues/) y comunícate mediante [contacto](/es/contacto-profesora-portugues/).

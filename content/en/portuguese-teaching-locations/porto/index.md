@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Porto. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Porto is grouped in the Europe location set used for local scheduling and learner guidance. Porto is located in Portugal. This page keeps the local reference specific to Porto while the teaching service remains online-first."
+local_context: "Porto is grouped in the Europe regional time zone used for scheduling. Porto is located in Portugal. This page keeps the local reference specific to Porto while the teaching service remains online-first."
 scheduling: "Scheduling from Porto: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Lisbon; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Porto: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Porto’s international character is one of its greatest assets for language lea
 The city hosts several notable events such as Forró Douro 2025, the Rhythms of the World Festival in Gaia, and Brasil Origem Week Porto 2025, all of which offer immersive experiences into Portuguese-speaking cultures. Learning Portuguese in Porto gives you access to a rich linguistic tradition that extends beyond Europe, with influences from Africa, Asia, and the Americas.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is an experienced Portuguese language instructor who specializes in both Brazilian and European Portuguese. Her educational background includes a Bachelor in Languages & Literature from the Federal University of Rio de Janeiro (UFRJ), TESOL certification, and fluency in Portuguese, English, Italian, and Spanish.
+Barbara Sharon is an experienced Portuguese language instructor who specializes in Brazilian Portuguese. Her educational background includes a Bachelor in Languages & Literature from the Federal University of Rio de Janeiro (UFRJ), TESOL certification, and fluency in Portuguese, English, Italian, and Spanish.
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

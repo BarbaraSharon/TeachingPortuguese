@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Hollywell with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Hollywell is a tranquil coastal suburb on the northern Gold Coast, renowned for its laid-back lifestyle and lively marinas. With a population of approximately 2,930 residents according to the 2021 census, this area offers an ideal environment for language learners seeking a peaceful yet culturally enriching setting. Students in Hollywell can take advantage of in-person Portuguese lessons in Surfers Paradise , as well as flexible online Portuguese classes that are accessible from anywhere. Learners in Hollywell can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Hollywell is grouped in the Gold Coast regional time zone used for scheduling. Hollywell is located in Australia. This page keeps the local reference specific to Hollywell while the teaching service remains online-first."
 scheduling: "Scheduling from Hollywell: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hollywell: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -58,7 +58,7 @@ In-person Portuguese lessons are available in Surfers Paradise for students base
 Whether you're looking for a native Portuguese teacher Hollywell or want to join a Brazilian Portuguese lesson Hollywell, Barbara's structured approach ensures progress and confidence in your language journey. Her offerings include both private Portuguese classes and online Portuguese lessons .
 ## Start Your Portuguese Journey Today
 
-If you're ready to begin your Portuguese learning journey in Hollywell, contact Barbara Sharon for a free trial lesson. With her expertise as a Brazilian Portuguese teacher and dedicated approach to language education, she can guide you toward achieving your goals whether you're aiming for conversational fluency or professional communication skills.
+If you're ready to begin your Portuguese learning journey in Hollywell, contact Barbara Sharon for a Portuguese lesson. With her expertise as a Brazilian Portuguese teacher and dedicated approach to language education, she can guide you toward achieving your goals whether you're aiming for conversational fluency or professional communication skills.
 
 Find out more about what she offers by checking our [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section to schedule your first session. Whether you're searching for a Portuguese tutor near me Hollywell or want to join a conversational Portuguese classes Hollywell , Barbara Sharon provides personalized support to help you succeed.
 

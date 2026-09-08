@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Leipzig. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Leipzig forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Leipzig está situada en Germany. Esta página mantiene la referencia local específica de Leipzig, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Leipzig forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Leipzig está situada en Germany. Esta página mantiene la referencia local específica de Leipzig, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Leipzig: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Leipzig: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,14 +43,14 @@ Como una de las lenguas romances más habladas del mundo, el portugués abre las
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués
 
-Barbara Sharon es una profesora de portugués muy cualificada, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués muy cualificada, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora, con una maestría en Estudios Educativos y Gestión del Comportamiento en curso
 
-Con su profundo conocimiento de ambos dialectos, Barbara ayuda al alumnado a desenvolverse en las diferencias entre portugués brasileño y europeo, comprender el contexto cultural y desarrollar habilidades de conversación para relacionarse auténticamente con hablantes nativos. Ofrece sesiones grupales y particulares de portugués en Leipzig mediante plataformas interactivas en línea.
+Con su profundo conocimiento de ambos dialectos, Barbara ayuda al alumnado a desenvolverse en las diferencias entre portugués brasileño, comprender el contexto cultural y desarrollar habilidades de conversación para relacionarse auténticamente con hablantes nativos. Ofrece sesiones grupales y particulares de portugués en Leipzig mediante plataformas interactivas en línea.
 
 Para obtener más información, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/) para reservar hoy tu sesión personalizada de tutoría de portugués.
 
@@ -66,8 +66,8 @@ Barbara Sharon ofrece clases de portugués en línea atractivas y eficaces que s
 
 Mediante herramientas interactivas y recursos multimedia, el alumnado disfruta de una experiencia inmersiva desde la comodidad de su hogar. También hay clases grupales en línea para quienes prefieren aprender colaborativamente, mientras que las sesiones particulares proporcionan atención y comentarios personalizados.
 
-## ¡Reserva hoy tu clase de prueba gratuita en Leipzig!
+## ¡Reserva hoy tu clases de portugués en Leipzig!
 
-¿Listo para empezar tu recorrido con el portugués en Leipzig? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su estilo dinámico de enseñanza puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu aprendizaje.
+¿Listo para empezar tu recorrido con el portugués en Leipzig? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su estilo dinámico de enseñanza puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu aprendizaje.
 
 [Reserva ahora](/es/contacto-profesora-portugues/) mediante nuestra página de contacto y da el primer paso para sentirte seguro al hablar portugués.

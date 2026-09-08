@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Heidelberg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Heidelberg está localizada em Germany. Heidelberg faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Heidelberg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Heidelberg faz parte do fuso horário regional de Europe usado para organizar horários. Heidelberg fica em Germany. Esta página mantém a referência local específica de Heidelberg, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Heidelberg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Heidelberg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -53,8 +53,8 @@ Cada aula é cuidadosamente estruturada para incluir gramática, vocabulário, c
 
 Barbara Sharon oferece opções flexíveis de aprendizagem, incluindo aulas online, tutoria particular e sessões em pequenos grupos. Todos os níveis são bem-vindos - de iniciantes absolutos a alunos avançados. As aulas particulares oferecem atenção personalizada, enquanto as sessões em grupo proporcionam uma forma divertida de praticar com outras pessoas.
 
-Toda a instrução é oferecida por plataformas online confiáveis, facilitando o acesso dos estudantes em Heidelberg a um ensino de português de qualidade sem sair de casa. Conheça toda a gama de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/) para agendar uma aula experimental gratuita e começar sua jornada hoje.
+Toda a instrução é oferecida por plataformas online confiáveis, facilitando o acesso dos estudantes em Heidelberg a um ensino de português de qualidade sem sair de casa. Conheça toda a gama de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/) para agendar uma aulas de português e começar sua jornada hoje.
 
 ## Comece sua jornada no português em Heidelberg
 
-Está pronto para começar a aprender português brasileiro em Heidelberg? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como a orientação especializada pode transformar suas habilidades linguísticas. Se você procura uma professora de português perto de você em Heidelberg ou aulas de conversação em português, ela oferece apoio personalizado de acordo com suas necessidades. Seus serviços de tutoria online de português atendem tanto alunos individuais quanto pequenos grupos, garantindo uma experiência personalizada e envolvente.
+Está pronto para começar a aprender português brasileiro em Heidelberg? Entre em contato com Barbara Sharon para uma aulas de português e descubra como a orientação especializada pode transformar suas habilidades linguísticas. Se você procura uma professora de português perto de você em Heidelberg ou aulas de conversação em português, ela oferece apoio personalizado de acordo com suas necessidades. Seus serviços de tutoria online de português atendem tanto alunos individuais quanto pequenos grupos, garantindo uma experiência personalizada e envolvente.

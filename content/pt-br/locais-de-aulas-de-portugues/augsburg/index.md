@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Augsburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Augsburg está localizada em Germany. Augsburg faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Augsburg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Augsburg faz parte do fuso horário regional de Europe usado para organizar horários. Augsburg fica em Germany. Esta página mantém a referência local específica de Augsburg, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Augsburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Augsburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,4 +55,4 @@ Se você procura uma professora de português em Augsburg, Barbara Sharon oferec
 
 ## Comece hoje sua jornada - Aprenda português brasileiro em Augsburg
 
-Pronto para avançar em sua jornada no português? Agende uma aula experimental gratuita com Barbara Sharon e experimente como um ensino eficaz pode acelerar seu crescimento linguístico. Com aulas online de português em Augsburg, nunca foi tão fácil começar ou continuar aprendendo. Visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para começar sua jornada hoje!
+Pronto para avançar em sua jornada no português? Agende uma aulas de português com Barbara Sharon e experimente como um ensino eficaz pode acelerar seu crescimento linguístico. Com aulas online de português em Augsburg, nunca foi tão fácil começar ou continuar aprendendo. Visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para começar sua jornada hoje!

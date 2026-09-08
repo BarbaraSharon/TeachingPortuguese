@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Southport. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Southport is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. Southport is located in Australia. This page keeps the local reference specific to Southport while the teaching service remains online-first."
+local_context: "Southport is grouped in the Australia & New Zealand regional time zone used for scheduling. Southport is located in Australia. This page keeps the local reference specific to Southport while the teaching service remains online-first."
 scheduling: "Scheduling from Southport: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Southport: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Southport: Brazilian & European Portuguese Classes
+## Learn Portuguese in Southport: Brazilian Portuguese Classes
 
 Southport is a vibrant suburb at the northern end of the Gold Coast, home to over 36,786 residents as of the 2021 census. With a foreign-born population of 44.8%, the area offers an international atmosphere that supports language learning and cultural exchange. The multicultural environment makes it an ideal place for students interested in exploring Portuguese culture and language. Whether you're looking for Portuguese lessons Southport or online Portuguese tutor options, Barbara Sharon provides flexible solutions tailored to your needs.
 
@@ -42,7 +42,7 @@ Southport's international character makes it an ideal place to start learning Po
 Brazil, home to the largest Portuguese-speaking population in the world, offers rich insights into the language's evolution and usage. Learning Portuguese in Southport gives you access to the vibrant cultural traditions of Brazil, including music, cinema, literature, and everyday communication styles that differ significantly from European Portuguese. Whether you're seeking Brazilian Portuguese lessons Southport or conversational Portuguese classes Southport, this location provides a dynamic learning environment.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Brazilian Portuguese teacher with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Brazilian Portuguese teacher with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

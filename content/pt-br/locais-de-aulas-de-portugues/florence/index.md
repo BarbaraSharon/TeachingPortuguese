@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Florence. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Florence está localizada em Italy. Florence faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Florence, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Florence faz parte do fuso horário regional de Europe usado para organizar horários. Florence fica em Italy. Esta página mantém a referência local específica de Florence, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Florence: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Florence: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português brasileiro e europeu em Florença - aulas online particulares e em grupo
+## Aprenda português brasileiro em Florença - aulas online particulares e em grupo
 
 Florença, uma cidade com mais de 362.000 habitantes, é um polo vibrante de história, arte e cultura. Embora dados específicos sobre o número de falantes de português brasileiro ou português em Florença possam ser limitados, seu caráter internacional faz dela um ambiente ideal para aprender idiomas. Como um cruzamento global, Florença oferece oportunidades singulares para mergulhar na língua e na cultura portuguesas. Quer você esteja procurando uma professora de português em Florença, aulas de português brasileiro em Florença ou ensino geral de português, Barbara Sharon oferece aulas personalizadas e de alta qualidade, adaptadas aos seus objetivos.
 
@@ -53,8 +53,8 @@ As aulas de Barbara são cuidadosamente estruturadas para incluir gramática, vo
 
 Barbara Sharon oferece formatos flexíveis de aula, incluindo tutoria particular online e sessões em grupo. Todos os níveis são bem-vindos, de iniciantes a alunos avançados. As aulas particulares oferecem atenção personalizada, enquanto as aulas em grupo proporcionam a oportunidade de praticar com outras pessoas em um ambiente descontraído. Para quem busca uma professora de português brasileiro em Florença ou uma professora nativa de português em Florença, sua plataforma online facilita a conexão.
 
-Como professora de português em Florença, Barbara oferece ensino individual e para pequenos grupos por plataformas online, facilitando o acesso de estudantes de toda a cidade a uma educação linguística de alta qualidade. Para mais detalhes sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/). Quer você procure aulas de português perto de Florença ou queira começar com uma aula experimental gratuita, a abordagem de Barbara Sharon garante uma experiência de aprendizagem personalizada.
+Como professora de português em Florença, Barbara oferece ensino individual e para pequenos grupos por plataformas online, facilitando o acesso de estudantes de toda a cidade a uma educação linguística de alta qualidade. Para mais detalhes sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/). Quer você procure aulas de português perto de Florença ou queira começar com uma aulas de português, a abordagem de Barbara Sharon garante uma experiência de aprendizagem personalizada.
 
 ## Comece hoje sua jornada no português em Florença
 
-Está pronto para aprender português em Florença? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece sua jornada rumo à fluência. Quer você procure aulas de conversação em português em Florença ou ensino para iniciantes, ela está pronta para orientar você. Conheça mais sobre suas opções na página de [contato](/pt-br/contato-professora-portugues/). Com aulas de português online em Florença disponíveis em formatos particulares e em grupo, este é o momento ideal para iniciar sua aventura de aprendizagem do idioma.
+Está pronto para aprender português em Florença? Entre em contato com Barbara Sharon para uma aulas de português e comece sua jornada rumo à fluência. Quer você procure aulas de conversação em português em Florença ou ensino para iniciantes, ela está pronta para orientar você. Conheça mais sobre suas opções na página de [contato](/pt-br/contato-professora-portugues/). Com aulas de português online em Florença disponíveis em formatos particulares e em grupo, este é o momento ideal para iniciar sua aventura de aprendizagem do idioma.

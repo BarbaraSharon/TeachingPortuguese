@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Victoria. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Victoria está situada en Canada. Victoria forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Victoria, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Victoria forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Victoria está situada en Canada. Esta página mantiene la referencia local específica de Victoria, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Victoria: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Victoria: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,7 +55,7 @@ Barbara Sharon ofrece opciones de aprendizaje flexibles, incluidas tutorías par
 Su plataforma de enseñanza en línea te permite estudiar cómodamente desde casa o desde cualquier punto de Victoria. Para explorar sus propuestas, visita [servicios](/es/servicios-clases-portugues/) o contacta con Barbara mediante la página de [contacto](/es/contacto-profesora-portugues/).
 ## Comienza hoy tu camino con el portugués
 
-¿Quieres aprender portugués brasileño en Victoria? Reserva una clase de prueba gratuita con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cercana, clases de conversación o clases estructuradas en línea, su enfoque está diseñado para responder a tus necesidades individuales.
+¿Quieres aprender portugués brasileño en Victoria? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cercana, clases de conversación o clases estructuradas en línea, su enfoque está diseñado para responder a tus necesidades individuales.
 
 “¡Habla conmigo en portugués!”
 ## Otras ubicaciones para aprender portugués en Canadá

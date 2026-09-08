@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Canberra. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Canberra está localizada em Australia. Canberra faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Canberra, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Canberra faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Canberra fica em Australia. Esta página mantém a referência local específica de Canberra, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Canberra: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Canberra: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,4 +63,4 @@ Barbara Sharon oferece experiências de aprendizagem individuais e em grupo por 
 
 ## Comece hoje sua jornada no português em Canberra
 
-Tem interesse em aprender português em Canberra? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Com sua experiência como professora nativa de português em Canberra, ela garante que todos os alunos recebam um ensino envolvente e eficaz. Explore as [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pela [página de contato](/pt-br/contato-professora-portugues/) para encontrar as aulas de português em Canberra ideais para você.
+Tem interesse em aprender português em Canberra? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Com sua experiência como professora nativa de português em Canberra, ela garante que todos os alunos recebam um ensino envolvente e eficaz. Explore as [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pela [página de contato](/pt-br/contato-professora-portugues/) para encontrar as aulas de português em Canberra ideais para você.

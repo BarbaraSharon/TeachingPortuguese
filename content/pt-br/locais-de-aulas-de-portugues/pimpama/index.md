@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Pimpama. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Pimpama faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Pimpama está localizada em Australia. Esta página mantém a referência local específica de Pimpama, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Pimpama faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Pimpama fica em Australia. Esta página mantém a referência local específica de Pimpama, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Pimpama: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Pimpama: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Pimpama: aulas de português brasileiro e europeu perto de você
+## Aprenda português em Pimpama: aulas de português brasileiro perto de você
 
 Pimpama é um subúrbio em rápido crescimento no norte da Gold Coast, com uma população diversificada de 24.601 residentes, conforme o censo de 2021. Com 33,7% de seus habitantes nascidos no exterior, a área reflete um ambiente multicultural que apoia o aprendizado de idiomas e o intercâmbio cultural. A proximidade do subúrbio com Surfers Paradise é conveniente para alunos que procuram serviços de professor particular de português em Pimpama ou opções de professora de português brasileiro em Pimpama. Barbara Sharon oferece aulas de português presenciais e online na Gold Coast, com aulas presenciais realizadas em Surfers Paradise, a pouca distância de Pimpama, enquanto as sessões online proporcionam flexibilidade para alunos de toda a região.
 
@@ -45,7 +45,7 @@ A presença do Oporto Pimpama, um restaurante de inspiração portuguesa, destac
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

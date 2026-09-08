@@ -24,6 +24,13 @@ Ready to take your Portuguese to the next level? The Portuguese Speaking Club is
 
 The Portuguese Speaking Club helps beginner and advanced learners practise Brazilian Portuguese, improve pronunciation, and expand vocabulary. Sessions may be online or in person, depending on availability. Barbara Sharon is a qualified Brazilian Portuguese teacher and mental health counsellor who creates a supportive space for real conversation.
 
+## Speaking Club fees
+
+- Enrolled students: {{< lesson-price "speaking_club_enrolled" >}}
+- Non-enrolled students: {{< lesson-price "speaking_club_non_enrolled" >}} per session
+
+The club is a relaxed opportunity to practise your Portuguese, build confidence and improve your conversation skills. Contact Barbara to confirm the current format and availability. All prices are in Australian dollars.
+
 <div class="speaking-club-gallery speaking-club-gallery--two" aria-label="Speaking Club moments">{{< figure src="/media/pages/portuguese-speaking-club/photos/community-group.jpg" alt="Speaking Club participants gathered together" class="speaking-club-gallery__item" >}}
 {{< figure src="/media/pages/portuguese-speaking-club/photos/conversation-questions.jpg" alt="Participants using conversation questions" class="speaking-club-gallery__item" >}}
 </div>

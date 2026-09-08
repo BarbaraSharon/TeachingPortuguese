@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Cologne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Cologne is grouped in the Europe location set used for local scheduling and learner guidance. Cologne is located in Germany. This page keeps the local reference specific to Cologne while the teaching service remains online-first."
+local_context: "Cologne is grouped in the Europe regional time zone used for scheduling. Cologne is located in Germany. This page keeps the local reference specific to Cologne while the teaching service remains online-first."
 scheduling: "Scheduling from Cologne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cologne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon’s online Portuguese tutor services in Cologne include both one-on-one and group settings, making it easy to find the right format for your goals. Students can choose between Brazilian Portuguese lessons in Cologne or standard Portuguese courses depending on their preferences. With options for private Portuguese tutor sessions and community-based group classes, there are multiple ways to engage with the language.
 ## Start Your Journey to Fluency Today
 
-Ready to learn Portuguese in Cologne? Contact Barbara Sharon for a free trial lesson and take the first step toward fluency! Whether you're searching for an online Portuguese tutor in Cologne or looking for Portuguese lessons near Cologne, her expertise as a native speaker and experienced instructor makes her an excellent choice. Discover the benefits of Brazilian Portuguese teaching in Cologne and begin your journey to becoming confident in Portuguese.
+Ready to learn Portuguese in Cologne? Contact Barbara Sharon for a Portuguese lesson and take the first step toward fluency! Whether you're searching for an online Portuguese tutor in Cologne or looking for Portuguese lessons near Cologne, her expertise as a native speaker and experienced instructor makes her an excellent choice. Discover the benefits of Brazilian Portuguese teaching in Cologne and begin your journey to becoming confident in Portuguese.

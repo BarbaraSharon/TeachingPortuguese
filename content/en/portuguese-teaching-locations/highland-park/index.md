@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Highland Park with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Highland Park is a vibrant and family-oriented suburb on the Gold Coast, home to 6,576 residents. With its diverse community-where 33.7% of residents are foreign-born-there’s growing interest in learning Portuguese. Whether you’re a beginner or looking to improve your conversational skills, Barbara Sharon offers tailored Portuguese lessons in Surfers Paradise for students in Highland Park. In-person and online options are available to suit your schedule. Learners in Highland Park can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Highland Park is grouped in the Gold Coast regional time zone used for scheduling. Highland Park is located in Australia. This page keeps the local reference specific to Highland Park while the teaching service remains online-first."
 scheduling: "Scheduling from Highland Park: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Highland Park: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -52,6 +52,6 @@ Barbara Sharon provides a range of lesson formats including private tutoring, gr
 In-person Portuguese lessons are held in Surfers Paradise, making it convenient for students in Highland Park. For added flexibility, online Portuguese lessons Highland Park allow you to study anytime from anywhere. Barbara also hosts a weekly speaking club where learners can practice conversation in a relaxed setting-perfect for improving your fluency and building confidence.
 ## Start Your Portuguese Journey Today
 
-Ready to begin learning Portuguese in Highland Park? Book a free trial lesson with Barbara Sharon and discover how easy it is to start speaking Brazilian Portuguese. Whether you want beginner Portuguese lessons Highland Park or advanced conversation coaching, her personalized approach helps you reach your goals.
+Ready to begin learning Portuguese in Highland Park? Book a Portuguese lesson with Barbara Sharon and discover how easy it is to start speaking Brazilian Portuguese. Whether you want beginner Portuguese lessons Highland Park or advanced conversation coaching, her personalized approach helps you reach your goals.
 
 To learn more about her services, visit the [Services](/en/portuguese-teaching-services/)page or contact her directly through the [Contact](/en/contact-portuguese-teacher/)page. Find a Portuguese tutor near me Highland Park who can guide you toward fluency and cultural understanding.

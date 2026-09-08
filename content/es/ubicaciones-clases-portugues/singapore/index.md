@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Singapore"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Singapore. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Singapore forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Singapore está situada en Singapore. Esta página mantiene la referencia local específica de Singapore, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Singapore forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Singapore está situada en Singapore. Esta página mantiene la referencia local específica de Singapore, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Singapore: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Singapore; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Singapore: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,14 +43,14 @@ Brasil, hogar de la mayor comunidad lusófona del mundo, ofrece ricas perspectiv
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una instructora certificada de lengua portuguesa con amplia experiencia docente en portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una instructora certificada de lengua portuguesa con amplia experiencia docente en portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura - Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora profesional
 
-El enfoque de Barbara ayuda al alumnado a entender las diferencias entre portugués brasileño y europeo mientras gana confianza para hablar, escuchar, leer y escribir. Tanto si tu objetivo es establecer contactos de negocios con Brasil como profundizar la apreciación cultural, sus clases están diseñadas para ser atractivas y eficaces.
+El enfoque de Barbara ayuda al alumnado a entender las diferencias entre portugués brasileño mientras gana confianza para hablar, escuchar, leer y escribir. Tanto si tu objetivo es establecer contactos de negocios con Brasil como profundizar la apreciación cultural, sus clases están diseñadas para ser atractivas y eficaces.
 
 Como tutora de portugués en línea radicada en Singapur, Barbara ofrece clases individuales y grupales adaptadas a tus necesidades específicas. Explora todos los servicios en [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/).
 

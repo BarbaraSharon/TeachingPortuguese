@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Guanaba. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Guanaba is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. Guanaba is located in Australia. This page keeps the local reference specific to Guanaba while the teaching service remains online-first."
+local_context: "Guanaba is grouped in the Australia & New Zealand regional time zone used for scheduling. Guanaba is located in Australia. This page keeps the local reference specific to Guanaba while the teaching service remains online-first."
 scheduling: "Scheduling from Guanaba: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Guanaba: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Barbara Sharon offers flexible learning formats including online classes, privat
 In addition to regular lessons, she also runs speaking clubs designed to improve conversational fluency in a relaxed setting. These sessions are perfect for students who want to apply what they've learned in a supportive environment. Both online Portuguese tutor Guanaba and in-person options are available through Surfers Paradise, making it easy for anyone living near Guanaba to take advantage of high-quality Portuguese instruction.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Guanaba? Contact Barbara Sharon for a free trial lesson and begin your language journey today. Whether you're looking for Brazilian Portuguese lessons Guanaba, conversational Portuguese classes Guanaba, or private Portuguese tutor Guanaba services, she's ready to help you reach your goals.
+Interested in learning Portuguese in Guanaba? Contact Barbara Sharon for a Portuguese lesson and begin your language journey today. Whether you're looking for Brazilian Portuguese lessons Guanaba, conversational Portuguese classes Guanaba, or private Portuguese tutor Guanaba services, she's ready to help you reach your goals.

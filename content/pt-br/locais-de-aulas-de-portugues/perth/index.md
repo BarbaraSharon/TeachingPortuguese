@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Perth"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Perth. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Perth faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Perth está localizada em Australia. Esta página mantém a referência local específica de Perth, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Perth faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Perth fica em Australia. Esta página mantém a referência local específica de Perth, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Perth: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Perth; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Perth: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Perth, a maior cidade do oeste da Austrália, abriga mais de 2,3 milhões de residentes e tem um rico ambiente multicultural. Com 54,1% de sua população nascida no exterior, a cidade oferece um cenário ideal para quem aprende idiomas. A crescente comunidade brasileira, com mais de 3.291 residentes nascidos no Brasil, proporciona experiências culturais vibrantes que enriquecem o aprendizado de idiomas.
 
-Seja você iniciante ou alguém que deseja aprimorar suas habilidades de conversação, nossas aulas de português online em Perth oferecem ensino flexível e personalizado. A abordagem especializada de Barbara Sharon garante um aprendizado eficaz, adaptado aos seus objetivos - seja estudando português brasileiro ou europeu.
+Seja você iniciante ou alguém que deseja aprimorar suas habilidades de conversação, nossas aulas de português online em Perth oferecem ensino flexível e personalizado. A abordagem especializada de Barbara Sharon garante um aprendizado eficaz, adaptado aos seus objetivos - seja estudando português brasileiro.
 
 ## Por que estudar português em Perth?
 
@@ -43,7 +43,7 @@ O Brasil abriga a maior população de falantes de português do mundo. Aprender
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora de português brasileiro altamente qualificada em Perth, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora de português brasileiro altamente qualificada em Perth, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

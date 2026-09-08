@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Copenhagen"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Copenhagen. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Copenhagen está situada en Denmark. Copenhagen forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Copenhagen, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Copenhagen forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Copenhagen está situada en Denmark. Esta página mantiene la referencia local específica de Copenhagen, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Copenhagen: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Copenhagen; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Copenhagen: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ Como profesora de portugués en Copenhague, Barbara adapta su estilo de enseñan
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués en Copenhague? Contacta con Barbara Sharon para una clase de prueba gratuita y comienza hoy tu recorrido. Con clases de portugués en línea cerca de ti y un enfoque en gramática y fluidez cultural, te ayuda a alcanzar tus objetivos mediante enseñanza personalizada. Para más información o para reservar una sesión, visita [Contacto](/es/contacto-profesora-portugues/).
+¿Listo para aprender portugués en Copenhague? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido. Con clases de portugués en línea cerca de ti y un enfoque en gramática y fluidez cultural, te ayuda a alcanzar tus objetivos mediante enseñanza personalizada. Para más información o para reservar una sesión, visita [Contacto](/es/contacto-profesora-portugues/).

@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Cedar Creek con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Cedar Creek es una localidad rural serena y pintoresca en el norte de Gold Coast, y ofrece un entorno ideal para aprender idiomas con concentración. Con una población de alrededor de 831 habitantes, proporciona un ambiente tranquilo donde el alumnado puede sumergirse en el estudio de portugués sin distracciones urbanas. Tanto si buscas una tutora de portugués en Cedar Creek, una profesora de portugués brasileño en Cedar Creek o clases de portugués en línea, Barbara Sharon ofrece enseñanza personalizada para tus metas específicas y nivel de dominio. El alumnado de Cedar Creek puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Cedar Creek forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Cedar Creek está situada en Australia. Esta página mantiene la referencia local específica de Cedar Creek, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Cedar Creek: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cedar Creek: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,6 +57,6 @@ El alumnado de Cedar Creek puede asistir a clases presenciales de portugués en 
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués en Cedar Creek? Contacta hoy con Barbara Sharon para una clase de prueba gratuita y descubre lo sencillo que es comenzar a hablar portugués brasileño con confianza. Tanto si buscas una tutora de portugués cerca de Cedar Creek como si quieres unirte a clases de conversación, ella está aquí para acompañarte en cada paso.
+¿Listo para aprender portugués en Cedar Creek? Contacta hoy con Barbara Sharon para una clases de portugués y descubre lo sencillo que es comenzar a hablar portugués brasileño con confianza. Tanto si buscas una tutora de portugués cerca de Cedar Creek como si quieres unirte a clases de conversación, ella está aquí para acompañarte en cada paso.
 
 [Servicios](/es/servicios-clases-portugues/) | [Contacto](/es/contacto-profesora-portugues/)

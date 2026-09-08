@@ -14,19 +14,20 @@ robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching services
 service:
-  service_type: In-person private Brazilian Portuguese lessons
-  delivery: Gold Coast, Australia
+  service_type: Private Brazilian Portuguese lessons online and in person
+  delivery: Online worldwide; in person on the Gold Coast
+  delivery_modes: [online, in_person]
   audience: Adult beginner, intermediate, and advanced learners; business and travel goals
   available_language: [pt-BR, en, es, it, fr]
 sections:
 - block: hero
   content:
-    eyebrow: In-person private lessons · Gold Coast
-    title: In-Person Private Portuguese Lessons on the Gold Coast
-    text: Build confidence with focused one-to-one Brazilian Portuguese lessons on the Gold Coast. Your level, pace, and goals guide every session.
+    eyebrow: Private lessons · online and Gold Coast
+    title: Private Brazilian Portuguese Lessons Online and on the Gold Coast
+    text: Build confidence with focused one-to-one Brazilian Portuguese lessons online worldwide or on the Gold Coast. Your level, pace, and goals guide every session.
     primary_action:
       text: Ask about private lessons
-      url: /en/contact-portuguese-teacher/
+      url: https://wa.me/61493837828?text=Hi%20Barbara%2C%20I%27m%20interested%20in%20private%20Brazilian%20Portuguese%20lessons.%20My%20level%20is%2C%20my%20goal%20is%2C%20and%20my%20preferred%20format%20is%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -44,7 +45,7 @@ sections:
   content:
     subtitle: Private tutoring
     title: A focused path from your starting point
-    text: Private lessons are available in person on the Gold Coast and can be adapted for adult learners.
+    text: Private lessons are available online worldwide and in person on the Gold Coast, and can be adapted for adult learners.
     items:
     - name: Beginner Portuguese
       icon: hero/academic-cap
@@ -93,6 +94,26 @@ sections:
     text: Contact Barbara about private lessons
     url: /en/contact-portuguese-teacher/
     icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Private lessons
+    title: Private Brazilian Portuguese lessons
+    text: Barbara's current private prices apply to online and Gold Coast lessons.
+    offers:
+    - id: private_4_week
+      title: Private 4-lesson package
+      price_prefix: from
+      text: One 1-hour lesson per week for 4 weeks. Contact Barbara to confirm the current arrangement and availability.
+      url: /en/contact-portuguese-teacher/
+    - id: private_casual
+      title: Casual lesson
+      price_prefix: ""
+      text: One 1-hour lesson. Contact Barbara to enquire about availability and pricing for 1.5- or 2-hour lessons.
+      url: /en/contact-portuguese-teacher/
+    action_text: Ask about availability
+    currency_note: All prices are in Australian dollars. Contact Barbara to confirm the applicable option and availability.
+
 - block: answer-links
   id: gold-coast-tutoring-answers
   content:

@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from New York. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "New York is located in United States. New York is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to New York while the teaching service remains online-first."
+local_context: "New York is grouped in the North America regional time zone used for scheduling. New York is located in United States. This page keeps the local reference specific to New York while the teaching service remains online-first."
 scheduling: "Scheduling from New York: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in New York: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ New York's thriving Brazilian community offers unique opportunities for cultural
 The city also hosts major business connections with Brazil through institutions like the Brazilian-American Chamber of Commerce and Banco do Brasil, making learning Brazilian Portuguese especially valuable for professionals. New York's strong ties to Portugal via the Portugal-US Chamber of Commerce and AICEP Global further highlight the importance of mastering this language for international opportunities.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a dedicated Portuguese teacher with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a dedicated Portuguese teacher with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -59,7 +59,7 @@ Learning Portuguese in New York gives you access to a rich linguistic tradition 
 
 Online private and group Portuguese lessons are available in New York through Barbara Sharon's services. These lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, whether you're interested in Brazilian Portuguese lessons for beginners or advanced conversational classes.
 
-Barbara offers flexible scheduling for her [Portuguese teaching services](/en/portuguese-teaching-services/), allowing students from all over the city to join her sessions. For those seeking a free trial lesson, she invites you to [contact her directly](/en/contact-portuguese-teacher/)and discover how her approach can support your language journey.
-## Contact for a Free Trial Lesson
+Barbara offers flexible scheduling for her [Portuguese teaching services](/en/portuguese-teaching-services/), allowing students from all over the city to join her sessions. For those seeking a Portuguese lesson, she invites you to [contact her directly](/en/contact-portuguese-teacher/)and discover how her approach can support your language journey.
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in New York? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey with personalized Brazilian Portuguese lessons near you.
+Interested in learning Portuguese in New York? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey with personalized Brazilian Portuguese lessons near you.

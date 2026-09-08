@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Coomera Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Coomera Waters é uma comunidade próspera e voltada para famílias no norte da Gold Coast, conhecida por seus bairros bem planejados, parques exuberantes e marina movimentada. Com mais de 23.000 residentes, incluindo uma população diversa de 29,6% de pessoas nascidas no exterior, esta região oferece um excelente ambiente para estudantes de idiomas. A presença de eventos culturais brasileiros locais e de grupos comunitários como a Comunidade do Samba torna Coomera Waters um lugar perfeito para mergulhar na cultura de língua portuguesa. Os alunos de Coomera Waters podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Coomera Waters faz parte do fuso horário regional de Gold Coast usado para organizar horários. Coomera Waters fica em Australia. Esta página mantém a referência local específica de Coomera Waters, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Coomera Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Coomera Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,10 +55,10 @@ Barbara Sharon oferece ensino de português presencial e online em Coomera Water
 
 As aulas particulares em Coomera Waters oferecem atenção personalizada, ajudando você a avançar mais rapidamente rumo a seus objetivos no idioma. Para os alunos que ficam perto de Surfers Paradise, participar de sessões presenciais é simples - fica a uma curta viagem de carro. As opções online garantem que a distância não seja uma barreira para aprender.
 
-Para explorar os serviços disponíveis ou agendar uma aula experimental gratuita, visite nossa página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
+Para explorar os serviços disponíveis ou agendar uma aulas de português, visite nossa página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
 
 ## Comece hoje sua jornada no português
 
 Quer você procure aulas de português brasileiro em Coomera Waters ou uma professora nativa de português nas proximidades, Barbara Sharon oferece ensino de alta qualidade, planejado para todos os níveis. De iniciantes a falantes avançados, suas aulas de conversação ajudam os alunos a desenvolver fluência e consciência cultural.
 
-Dê o primeiro passo para dominar o português brasileiro com uma professora dedicada que valoriza tanto o idioma quanto a cultura. Entre em contato com Barbara Sharon hoje mesmo para uma aula experimental gratuita e comece sua jornada para falar português como uma nativa!
+Dê o primeiro passo para dominar o português brasileiro com uma professora dedicada que valoriza tanto o idioma quanto a cultura. Entre em contato com Barbara Sharon hoje mesmo para uma aulas de português e comece sua jornada para falar português como uma nativa!

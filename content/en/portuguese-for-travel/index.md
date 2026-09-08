@@ -199,7 +199,7 @@ Yes! Before starting, we'll discuss your itinerary, planned activities, and any 
 
 I do! Group lessons can be a fun and cost-effective option for families traveling together. Please contact me to discuss your group's needs and scheduling options.
 
-[Explore All Portuguese Services](/en/portuguese-teaching-services/)[Book Your Free Consultation](/en/contact-portuguese-teacher/)
+[Explore All Portuguese Services](/en/portuguese-teaching-services/)[Contact Barbara about lesson options](/en/contact-portuguese-teacher/)
 ## "Aprender é viver!" (Learning is living!)
 
 Don't let language barriers limit your travel experiences. With Portuguese for Travel, you'll discover a richer, more authentic journey filled with meaningful connections and unforgettable moments.

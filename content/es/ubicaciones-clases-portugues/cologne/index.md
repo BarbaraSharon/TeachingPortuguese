@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Cologne. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Cologne forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Cologne está situada en Germany. Esta página mantiene la referencia local específica de Cologne, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Cologne forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Cologne está situada en Germany. Esta página mantiene la referencia local específica de Cologne, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Cologne: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cologne: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Los servicios de tutoría de portugués en línea de Barbara Sharon en Colonia i
 
 ## Empieza hoy tu camino hacia la fluidez
 
-¿Listo para aprender portugués en Colonia? Contacta con Barbara Sharon para una clase de prueba gratuita y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués en línea en Colonia como clases cerca de Colonia, su experiencia como hablante nativa e instructora la convierte en una excelente opción. Descubre los beneficios de la enseñanza de portugués brasileño en Colonia y comienza tu recorrido para sentirte seguro al hablar portugués.
+¿Listo para aprender portugués en Colonia? Contacta con Barbara Sharon para una clases de portugués y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués en línea en Colonia como clases cerca de Colonia, su experiencia como hablante nativa e instructora la convierte en una excelente opción. Descubre los beneficios de la enseñanza de portugués brasileño en Colonia y comienza tu recorrido para sentirte seguro al hablar portugués.

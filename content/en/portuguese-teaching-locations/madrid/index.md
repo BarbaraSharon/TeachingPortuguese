@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Madrid. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Madrid is located in Spain. Madrid is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Madrid while the teaching service remains online-first."
+local_context: "Madrid is grouped in the Europe regional time zone used for scheduling. Madrid is located in Spain. This page keeps the local reference specific to Madrid while the teaching service remains online-first."
 scheduling: "Scheduling from Madrid: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Madrid; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Madrid: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Madrid | Brazilian & European Portuguese Lessons
+## Learn Portuguese in Madrid | Brazilian Portuguese Lessons
 
 Madrid, the vibrant capital of Spain with a population of 3.4 million (2025), offers an excellent environment for learning Portuguese. With 24% of residents born abroad, the city provides a multicultural setting ideal for language exchange and cultural immersion. Madrid's diverse community includes significant Brazilian and Portuguese populations, creating opportunities to connect with native speakers and explore Iberian culture.
 
@@ -42,7 +42,7 @@ Madrid has a growing Brazilian community with many residents from various region
 Learning Portuguese in Madrid gives you access to a rich linguistic tradition that extends beyond Brazil. The language has influenced and been influenced by various cultures across Africa, Asia, and the Americas, making it a fascinating subject for study. Additionally, Madrid's proximity to Portugal and strong trade links between Spain and Portugal create opportunities to explore both dialects and cultural nuances. Key trade connections include Spain's role as Brazil's second-largest foreign investor and Madrid's position as a logistics hub for Southern Europe.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -59,8 +59,8 @@ Learning Portuguese in Madrid gives you access to a rich linguistic tradition th
 Online private and group Portuguese lessons are available worldwide. Students in Madrid can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective.
 
 Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals. Whether you're looking for a [Brazilian Portuguese tutor Madrid](/en/portuguese-teaching-services/)or a general Portuguese teacher Madrid, our approach adapts to your needs.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Madrid? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
+Interested in learning Portuguese in Madrid? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 For more information about [Portuguese lessons Madrid](/en/portuguese-teaching-services/), [contact Barbara Sharon](/en/contact-portuguese-teacher/)today and start your learning adventure with a personalized experience tailored for students in Madrid.

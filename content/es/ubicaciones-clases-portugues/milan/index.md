@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Milan. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Milan forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Milan está situada en Italy. Esta página mantiene la referencia local específica de Milan, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Milan forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Milan está situada en Italy. Esta página mantiene la referencia local específica de Milan, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Milan: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Milan: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -42,7 +42,7 @@ La influencia global de Milán en negocios, moda y cultura la convierte en un lu
 Con marcas brasileñas presentes en eventos como Micam Milano y actividades comunitarias crecientes, estudiar en Milán puede ser especialmente útil para personas interesadas en negocios internacionales, viajes o intercambio cultural. Tanto si te preparas para viajar a Brasil, buscas mejorar tus perspectivas profesionales o simplemente disfrutas aprender idiomas, Milán ofrece un entorno atractivo y de apoyo. Las clases en línea de Barbara Sharon están disponibles para estudiantes de Milán y de otros lugares.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués apasionada y con experiencia, con conocimiento profundo de portugués brasileño y europeo. Su enfoque combina rigor académico y comunicación práctica para que el alumnado gane confianza en situaciones reales.
+Barbara Sharon es una profesora de portugués apasionada y con experiencia, con conocimiento profundo de portugués brasileño. Su enfoque combina rigor académico y comunicación práctica para que el alumnado gane confianza en situaciones reales.
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -67,6 +67,6 @@ Tanto si empiezas como si quieres mejorar, los cursos se personalizan según int
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Lista o listo para empezar tu aventura lingüística en Milán? Contacta hoy con Barbara Sharon para una clase de prueba gratuita y conoce su estilo dinámico. Tanto si te interesa la conversación básica como avanzar hacia la fluidez, está aquí para acompañarte.
+¿Lista o listo para empezar tu aventura lingüística en Milán? Contacta hoy con Barbara Sharon para una clases de portugués y conoce su estilo dinámico. Tanto si te interesa la conversación básica como avanzar hacia la fluidez, está aquí para acompañarte.
 
 Consulta los [servicios](/es/servicios-clases-portugues/) y la página de [contacto](/es/contacto-profesora-portugues/) para comenzar tu educación en portugués en Milán. Descubre por qué tantas personas eligen las clases de portugués en línea de Barbara Sharon.

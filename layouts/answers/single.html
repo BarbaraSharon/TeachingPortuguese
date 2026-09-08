@@ -11,7 +11,7 @@
 
     <header class="mx-auto max-w-3xl">
       <h1 class="text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100 sm:text-5xl" data-pagefind-meta="title">{{ .Params.question | default .Title }}</h1>
-      <p class="mt-6 border-l-4 border-primary-500 pl-5 text-xl leading-8 text-slate-700 dark:text-slate-200" data-direct-answer>{{ .Params.direct_answer }}</p>
+      <p class="mt-6 border-l-4 border-primary-500 pl-5 text-xl leading-8 text-slate-700 dark:text-slate-200" data-direct-answer>{{ partial "answer-direct-answer.html" . }}</p>
       <div class="mt-6 flex flex-wrap gap-x-2 text-sm text-slate-600 dark:text-slate-300">
         <span>
           {{ i18n "answer_written_by" }}

@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Washington Dc. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Washington Dc forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Washington Dc está situada en United States. Esta página mantiene la referencia local específica de Washington Dc, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Washington Dc forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Washington Dc está situada en United States. Esta página mantiene la referencia local específica de Washington Dc, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Washington Dc: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Washington Dc: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -45,7 +45,7 @@ La influencia de Brasil se extiende globalmente, con 267 millones de hablantes n
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués
 
-Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

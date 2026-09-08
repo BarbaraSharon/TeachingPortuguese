@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde San Diego. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "San Diego forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. San Diego está situada en United States. Esta página mantiene la referencia local específica de San Diego, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "San Diego forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. San Diego está situada en United States. Esta página mantiene la referencia local específica de San Diego, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para San Diego: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en San Diego: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,9 +29,9 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués en San Diego: clases de portugués brasileño y europeo
+## Aprende portugués en San Diego: clases de portugués brasileño
 
-San Diego, California, es una ciudad vibrante conocida por su diverso paisaje cultural. Con más de 1,38 millones de residentes y una importante población nacida en el extranjero del 25,7 %, la ciudad ofrece un entorno ideal para que estudiantes de idiomas se sumerjan en el mundo del portugués. La presencia de más de 6.759 residentes nacidos en Brasil y otros 9.259 nacidos en Portugal crea una oportunidad única para estudiar portugués brasileño y europeo en un entorno multicultural.
+San Diego, California, es una ciudad vibrante conocida por su diverso paisaje cultural. Con más de 1,38 millones de residentes y una importante población nacida en el extranjero del 25,7 %, la ciudad ofrece un entorno ideal para que estudiantes de idiomas se sumerjan en el mundo del portugués. La presencia de más de 6.759 residentes nacidos en Brasil y otros 9.259 nacidos en Portugal crea una oportunidad única para estudiar portugués brasileño en un entorno multicultural.
 
 Tanto si te interesa dominar los ritmos del português brasileiro como explorar los matices del português europeu, hay clases particulares y grupales en línea con profesoras cualificadas como Barbara Sharon. Estas clases ofrecen flexibilidad, enseñanza personalizada y acceso a hablantes nativos, todo adaptado a tus objetivos de aprendizaje. Descubre cómo puedes aprender portugués en San Diego con la orientación experta de una educadora de idiomas certificada.
 
@@ -43,7 +43,7 @@ Aprender portugués en San Diego permite explorar no solo gramática y vocabular
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués en San Diego
 
-Barbara Sharon es una profesora apasionada de portugués, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora apasionada de portugués, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

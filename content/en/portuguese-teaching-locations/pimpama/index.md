@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Pimpama. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Pimpama is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. Pimpama is located in Australia. This page keeps the local reference specific to Pimpama while the teaching service remains online-first."
+local_context: "Pimpama is grouped in the Australia & New Zealand regional time zone used for scheduling. Pimpama is located in Australia. This page keeps the local reference specific to Pimpama while the teaching service remains online-first."
 scheduling: "Scheduling from Pimpama: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Pimpama: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Pimpama: Brazilian & European Portuguese Classes Near You
+## Learn Portuguese in Pimpama: Brazilian Portuguese Classes Near You
 
 Pimpama is a rapidly growing northern Gold Coast suburb, home to a diverse population of 24,601 residents as of the 2021 census. With 33.7% of its inhabitants born overseas, the area reflects a multicultural environment that supports language learning and cultural exchange. The suburb's proximity to Surfers Paradise makes it convenient for students seeking Portuguese tutor Pimpama services or Brazilian Portuguese teacher Pimpama options. Barbara Sharon offers both in-person and online Portuguese lessons Gold Coast , with in-person classes held in Surfers Paradise, a short distance from Pimpama, while online sessions provide flexibility for learners across the region.
 
@@ -44,7 +44,7 @@ Portuguese skills are particularly valuable for understanding Brazilian music, c
 The presence of Oporto Pimpama, a Portuguese-inspired restaurant, highlights the growing interest in Portuguese culture within the area. While there are no specific Portuguese community organisations listed in Pimpama, the suburb's multicultural atmosphere and access to Brazilian cultural events make it an excellent place to begin your journey with Portuguese tutor Pimpama services or Brazilian Portuguese teacher Pimpama options.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

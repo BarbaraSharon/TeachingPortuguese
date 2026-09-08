@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Benowa with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Benowa is a vibrant and multicultural suburb located on the Gold Coast, Queensland. With a population of around 10,665 residents, it’s known for its family-friendly environment, proximity to Surfers Paradise, and strong Brazilian cultural influence. This unique setting makes Benowa an ideal place for learning Portuguese - especially Brazilian Portuguese. Learners in Benowa can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Benowa is grouped in the Gold Coast regional time zone used for scheduling. Benowa is located in Australia. This page keeps the local reference specific to Benowa while the teaching service remains online-first."
 scheduling: "Scheduling from Benowa: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Benowa: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -62,6 +62,6 @@ Barbara Sharon delivers high-quality instruction through both formats, ensuring 
 If you're searching for a Brazilian Portuguese tutor near you , Barbara offers both individual and group sessions tailored to your schedule and learning objectives. You can explore more about her services or contact her directly via the [contact page](/en/contact-portuguese-teacher/).
 ## Start Your Portuguese Journey Today in Benowa
 
-Ready to begin learning Portuguese in Benowa? Take advantage of a free trial lesson with Barbara Sharon and experience her unique approach firsthand. Whether you're interested in Portuguese lessons for beginners Benowa or advanced conversational classes, her expert guidance will help you reach your language goals.
+Ready to begin learning Portuguese in Benowa? Take advantage of a Portuguese lesson with Barbara Sharon and experience her unique approach firsthand. Whether you're interested in Portuguese lessons for beginners Benowa or advanced conversational classes, her expert guidance will help you reach your language goals.
 
-Don't miss out on the opportunity to learn Brazilian Portuguese in a supportive and culturally rich environment - book your free trial today!
+Don't miss out on the opportunity to learn Brazilian Portuguese in a supportive and culturally rich environment - book your lesson options today!

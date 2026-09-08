@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cape Town. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Cape Town faz parte do conjunto regional Africa usado para orientar horários e objetivos de aprendizagem. Cape Town está localizada em South Africa. Esta página mantém a referência local específica de Cape Town, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Cape Town faz parte do fuso horário regional de Africa usado para organizar horários. Cape Town fica em South Africa. Esta página mantém a referência local específica de Cape Town, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Cape Town: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Africa/Johannesburg; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cape Town: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,4 +63,4 @@ Quer você tenha interesse em aulas de português perto da Cidade do Cabo ou pro
 
 ## Comece hoje sua jornada no português brasileiro na Cidade do Cabo
 
-Tem interesse em aprender português na Cidade do Cabo? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Com acesso a aulas de português brasileiro de qualidade na Cidade do Cabo e orientação especializada, você ganhará confiança e fluência rapidamente.
+Tem interesse em aprender português na Cidade do Cabo? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Com acesso a aulas de português brasileiro de qualidade na Cidade do Cabo e orientação especializada, você ganhará confiança e fluência rapidamente.

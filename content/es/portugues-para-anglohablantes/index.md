@@ -82,11 +82,11 @@ Aprende junto a otros angloparlantes que estudian portugués. Las clases grupale
 
 Cuando ya tienes unas bases, el Club de conversación te ayuda a pasar del portugués de los libros a la conversación real. Las sesiones grupales se centran en fluidez, pronunciación y vocabulario mediante temas relevantes para angloparlantes.
 
-[Ver todas las opciones de servicios](/es/servicios-clases-portugues/) [Reserva tu consulta gratuita](/es/contacto-profesora-portugues/)
+[Ver todas las opciones de servicios](/es/servicios-clases-portugues/) [Contacta con Barbara sobre las opciones de clases](/es/contacto-profesora-portugues/)
 ## Preguntas frecuentes
 ### ¿Es mejor el portugués brasileño o el europeo para angloparlantes?
 
-El brasileño suele ser más fácil porque su pronunciación es más clara y constante. También se habla más: unos 206 millones de hablantes frente a unos 10 millones del portugués europeo, por lo que hay más recursos. Sin embargo, si planeas vivir o viajar frecuentemente a Portugal, Barbara puede enseñarte portugués europeo.
+El brasileño suele ser más fácil porque su pronunciación es más clara y constante. También se habla más: unos 206 millones de hablantes frente a unos 10 millones del portugués europeo, por lo que hay más recursos. Si planeas vivir o viajar frecuentemente a Portugal, Barbara puede explicarte las diferencias que encontrarás, mientras sus clases se centran en el portugués brasileño.
 ### ¿Cuánto tarda un angloparlante en aprender portugués?
 
 Con práctica regular, la mayoría puede mantener conversaciones básicas en tres a seis meses. Alcanzar una fluidez conversacional suele requerir uno o dos años de estudio constante. Influyen la frecuencia de práctica, las oportunidades de inmersión y contar con una profesora que entienda las dificultades de tu idioma nativo.

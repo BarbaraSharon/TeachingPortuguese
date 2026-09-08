@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Oslo"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Oslo. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Oslo está situada en Norway. Oslo forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Oslo, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Oslo forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Oslo está situada en Norway. Esta página mantiene la referencia local específica de Oslo, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Oslo: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Oslo; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Oslo: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Oslo, la dinámica capital de Noruega, alberga una creciente comunidad brasileña y lusófona. Con más del 30 % de habitantes nacidos en el extranjero en 2022, ofrece un entorno inclusivo para aprender idiomas e intercambiar culturas. La rica diversidad de la ciudad la convierte en un lugar ideal para sumergirte en la cultura brasileña mientras mejoras tu portugués.
 
-Barbara Sharon ofrece clases de portugués en línea de alta calidad, adaptadas a quienes aprenden desde Oslo. Tanto si eres principiante como si quieres mejorar tu conversación, sus clases particulares y grupales aportan flexibilidad para cualquier horario ocupado. Consulta las [clases de portugués cerca de Oslo](/es/servicios-clases-portugues/) y reserva hoy una clase de prueba gratuita.
+Barbara Sharon ofrece clases de portugués en línea de alta calidad, adaptadas a quienes aprenden desde Oslo. Tanto si eres principiante como si quieres mejorar tu conversación, sus clases particulares y grupales aportan flexibilidad para cualquier horario ocupado. Consulta las [clases de portugués cerca de Oslo](/es/servicios-clases-portugues/) y reserva hoy una clases de portugués.
 ## ¿Por qué aprender portugués en Oslo?
 
 La comunidad brasileña de Oslo sigue creciendo y organiza numerosos eventos culturales, festivales y encuentros sociales que celebran tradiciones brasileñas. Aprender portugués aquí permite conectar directamente con esta comunidad dinámica.
@@ -75,6 +75,6 @@ Para residentes de Oslo, las clases en línea ofrecen flexibilidad y comodidad i
 
 Sus métodos interactivos y recursos multimedia hacen que aprender sea atractivo y eficaz. Recibirás materiales personalizados según tus intereses y metas. Aprende portugués en Oslo con una profesora cualificada a través de los [servicios](/es/servicios-clases-portugues/).
 
-## Contacta para una clase de prueba gratuita
+## Contacta para una clases de portugués
 
-¿Lista o listo para empezar a aprender portugués en Oslo? Contacta con Barbara Sharon para una clase de prueba gratuita y conoce cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si deseas mejorar tu fluidez, está aquí para acompañarte. Conoce las [clases de portugués cerca de Oslo](/es/servicios-clases-portugues/) y [contacta con la profesora](/es/contacto-profesora-portugues/).
+¿Lista o listo para empezar a aprender portugués en Oslo? Contacta con Barbara Sharon para una clases de portugués y conoce cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si deseas mejorar tu fluidez, está aquí para acompañarte. Conoce las [clases de portugués cerca de Oslo](/es/servicios-clases-portugues/) y [contacta con la profesora](/es/contacto-profesora-portugues/).

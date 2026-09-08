@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Mermaid Beach com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Mermaid Beach é um vibrante bairro litorâneo da Gold Coast, conhecido por seu estilo de vida descontraído, praias preservadas e comunidade diversa. Com uma população de 7.329 residentes e uma significativa parcela de pessoas nascidas no exterior, de 33,9%, a região favorece um ambiente internacional perfeito para aprender idiomas. A crescente comunidade brasileira em Mermaid Beach torna o local ideal para explorar a rica cultura e língua do Brasil. Os alunos de Mermaid Beach podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Mermaid Beach faz parte do fuso horário regional de Gold Coast usado para organizar horários. Mermaid Beach fica em Australia. Esta página mantém a referência local específica de Mermaid Beach, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Mermaid Beach: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mermaid Beach: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ O caráter internacional da região faz dela um excelente lugar para mergulhar n
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora qualificada de português brasileiro, sediada em Mermaid Beach, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de português brasileiro, sediada em Mermaid Beach, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -62,6 +62,6 @@ Barbara Sharon oferece serviços de tutoria de português online diretamente de 
 
 Barbara atende a diversas necessidades de aprendizagem com aulas de português em grupo em Mermaid Beach e sessões particulares de tutoria. Seus horários flexíveis permitem que os estudantes escolham entre opções de tutoria de português online ou aulas presenciais perto de Mermaid Beach. Para quem deseja praticar conversação, seu clube de conversação proporciona um ambiente informal para desenvolver confiança e fluência.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Mermaid Beach? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Você pode saber mais sobre seus serviços ou entrar em contato diretamente pela página de [serviços](/pt-br/aulas-de-portugues/) ou pela [página de contato](/pt-br/contato-professora-portugues/).
+Tem interesse em aprender português em Mermaid Beach? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Você pode saber mais sobre seus serviços ou entrar em contato diretamente pela página de [serviços](/pt-br/aulas-de-portugues/) ou pela [página de contato](/pt-br/contato-professora-portugues/).

@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Hanover. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Hanover is grouped in the Europe location set used for local scheduling and learner guidance. Hanover is located in Germany. This page keeps the local reference specific to Hanover while the teaching service remains online-first."
+local_context: "Hanover is grouped in the Europe regional time zone used for scheduling. Hanover is located in Germany. This page keeps the local reference specific to Hanover while the teaching service remains online-first."
 scheduling: "Scheduling from Hanover: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hanover: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Whether you're looking for a private Portuguese tutor in Hanover or a group conv
 In private sessions, you’ll focus on individual learning needs and pace, while group classes offer social interaction and collaborative practice. With her engaging teaching style and cultural insights, Barbara ensures that each lesson is both informative and enjoyable. Whether you want to improve your speaking, writing, or listening skills, she has the tools and expertise to guide you forward.
 ## Start Your Portuguese Journey in Hanover Today!
 
-Ready to begin learning Brazilian Portuguese in Hanover? Contact Barbara Sharon for a free trial lesson and take the first step toward fluency. Whether you prefer private Portuguese classes or group instruction, her online Portuguese courses offer flexibility and quality education.
+Ready to begin learning Brazilian Portuguese in Hanover? Contact Barbara Sharon for a Portuguese lesson and take the first step toward fluency. Whether you prefer private Portuguese classes or group instruction, her online Portuguese courses offer flexibility and quality education.
 
 Explore her [Services](/en/portuguese-teaching-services/)to find the perfect learning path for you. Or reach out directly via the [Contact](/en/contact-portuguese-teacher/)page to book your first session today!

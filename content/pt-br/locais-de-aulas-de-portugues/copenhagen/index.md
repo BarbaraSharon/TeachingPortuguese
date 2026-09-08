@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Copenhagen"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Copenhagen. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Copenhagen está localizada em Denmark. Copenhagen faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Copenhagen, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Copenhagen faz parte do fuso horário regional de Europe usado para organizar horários. Copenhagen fica em Denmark. Esta página mantém a referência local específica de Copenhagen, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Copenhagen: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Copenhagen; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Copenhagen: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Como professora de português em Copenhague, Barbara adapta seu estilo de ensino
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português em Copenhague? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece sua jornada hoje! Com aulas de português online perto de você e foco tanto na gramática quanto na fluência cultural, ela ajuda os alunos a alcançar seus objetivos por meio de ensino personalizado. Para mais informações ou para agendar uma sessão, visite a página de [contato](/pt-br/contato-professora-portugues/).
+Pronto para aprender português em Copenhague? Entre em contato com Barbara Sharon para uma aulas de português e comece sua jornada hoje! Com aulas de português online perto de você e foco tanto na gramática quanto na fluência cultural, ela ajuda os alunos a alcançar seus objetivos por meio de ensino personalizado. Para mais informações ou para agendar uma sessão, visite a página de [contato](/pt-br/contato-professora-portugues/).

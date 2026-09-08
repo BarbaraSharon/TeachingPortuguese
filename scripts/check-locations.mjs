@@ -25,8 +25,17 @@ const sharedTemplatePhrases = [
   'you might use an online lesson to prepare for travel', 'você pode usar uma aula online para se preparar para viagens', 'puedes usar una clase online para prepararte para viajes',
   'this page keeps the local reference specific', 'esta página mantém a referência local específica', 'esta página mantiene la referencia local específica',
   'is located in', 'is grouped in the', 'location set used for local scheduling and learner guidance',
+  'regional time zone used for scheduling',
+  'the local time-zone reference is', 'discuss a suitable online lesson time with barbara',
+  'teaching is available online worldwide', 'while any gold coast in-person option is confirmed separately',
   'está localizada em', 'faz parte do conjunto regional', 'usado para orientar horários e objetivos de aprendizagem',
   'está situada en', 'forma parte del conjunto regional', 'que se utiliza para orientar horarios y objetivos de aprendizaje',
+  'forma parte de la zona horaria regional de', 'que se utiliza para organizar horarios', 'esta página mantiene la referencia local específica',
+  'la referencia horaria local es', 'habla con barbara para acordar un horario adecuado para una clase online',
+  'la enseñanza está disponible online en todo el mundo', 'cualquier opción presencial en gold coast se confirma por separado',
+  'a referência de fuso horário é', 'fale com barbara para combinar um horário adequado para a aula online',
+  'o ensino está disponível online no mundo todo', 'qualquer opção presencial na gold coast é confirmada separadamente',
+  'faz parte do fuso horário regional de', 'usado para organizar horários', 'esta página mantém a referência local específica',
   'specific to', 'while the teaching service remains online first', 'esta página mantém a referência local', 'específica de', 'enquanto o serviço de ensino continua priorizando o formato online', 'esta página mantiene la referencia local', 'mientras que el servicio de enseñanza sigue priorizando el formato online',
 ];
 function localCorpus(raw) { return sharedTemplatePhrases.reduce((value, phrase) => value.replaceAll(phrase, ' '), raw.toLowerCase()); }

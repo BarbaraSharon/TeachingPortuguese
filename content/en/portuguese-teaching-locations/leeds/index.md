@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Leeds. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Leeds is grouped in the Europe location set used for local scheduling and learner guidance. Leeds is located in United Kingdom. This page keeps the local reference specific to Leeds while the teaching service remains online-first."
+local_context: "Leeds is grouped in the Europe regional time zone used for scheduling. Leeds is located in United Kingdom. This page keeps the local reference specific to Leeds while the teaching service remains online-first."
 scheduling: "Scheduling from Leeds: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Leeds: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Leeds - Brazilian & European Portuguese Classes
+## Learn Portuguese in Leeds - Brazilian Portuguese Classes
 
 Leeds, a vibrant city in the United Kingdom with a population of over 546,088 residents and a growing international community, is know for its diversity and cultural richness. Its welcoming atmosphere makes it an ideal place to learn Portuguese, whether you're a beginner or looking to refine your conversational skills. With a foreign-born population of 12.6%, Leeds offers opportunities to connect with global communities while studying Portuguese in Leeds.
 
@@ -42,7 +42,7 @@ Leeds has a thriving Brazilian community, supported by cultural organizations li
 The city also plays host to Portuguese expat communities through groups such as Portuguese Expats in Leeds and SLAPsoc Leeds, promoting cultural exchange and language learning. The Camões Centre at the University of Leeds supports Portuguese language studies and hosts cultural events that enhance linguistic and social engagement. Local festivals like the Festival of Languages and specialized workshops, such as the "Workshop: Discover the Art of Portuguese Tiles," further enrich the learning experience.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience in teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -60,6 +60,6 @@ Learning Portuguese in Leeds gives you access to a rich linguistic tradition tha
 Online private and group Portuguese lessons are available worldwide. As a professional Portuguese tutor leeds, Barbara Sharon delivers interactive and engaging online sessions that cater to your individual needs. You'll receive materials tailored to your specific interests and learning goals, whether you're preparing for exams or aiming to improve everyday communication.
 
 Barbara offers both group and private lessons through her online platform, making it easy to find a schedule that works for you. With options for Brazilian Portuguese lessons leeds and general Portuguese instruction, she ensures a personalized approach for learners at all levels. Explore more about her [Services](/en/portuguese-teaching-services/), or get in touch with her directly via the [Contact](/en/contact-portuguese-teacher/)page.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Leeds? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. With options for both Brazilian Portuguese tutor leeds and general Portuguese instruction, find the perfect fit for your learning objectives.
+Interested in learning Portuguese in Leeds? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. With options for both Brazilian Portuguese tutor leeds and general Portuguese instruction, find the perfect fit for your learning objectives.

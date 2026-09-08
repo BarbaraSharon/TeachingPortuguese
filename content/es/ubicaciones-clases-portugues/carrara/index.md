@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Carrara con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Carrara es un suburbio familiar de la Gold Coast, situado entre Nerang y Broadbeach. Con 13.138 residentes según el censo de 2021, Carrara ofrece un entorno suburbano tranquilo, perfecto para aprender idiomas. Su comunidad diversa y acogedora crea un marco ideal para que el alumnado se sumerja en la cultura y la conversación portuguesas. El alumnado de Carrara puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Carrara forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Carrara está situada en Australia. Esta página mantiene la referencia local específica de Carrara, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Carrara: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Carrara: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -51,9 +51,9 @@ Barbara ofrece enseñanza flexible para todos los niveles. Las clases presencial
 - Clases grupales: sesiones colaborativas que construyen confianza mediante conversación.
 - Tutoría en línea: clases interactivas desde cualquier lugar.
 
-Para más información o para reservar una clase de prueba gratuita, visita la página de [servicios](/es/servicios-clases-portugues/) o contacta mediante la sección de [contacto](/es/contacto-profesora-portugues/).
+Para más información o para reservar una clases de portugués, visita la página de [servicios](/es/servicios-clases-portugues/) o contacta mediante la sección de [contacto](/es/contacto-profesora-portugues/).
 ## Empieza hoy tu camino hacia el portugués brasileño
 
 Si estás lista o listo para aprender portugués brasileño en Carrara, Barbara Sharon está aquí para guiarte. Con enseñanza personalizada y pasión por el intercambio cultural, ayuda al alumnado a desarrollar habilidades prácticas de comunicación en un entorno de apoyo.
 
-«¡Vamos a aprender!» (Let’s learn!) es lo que dice a sus estudiantes al comenzar su aventura con el portugués. Tanto si planeas un viaje a Brasil como si simplemente quieres conectar con una cultura vibrante, ahora es el momento perfecto para empezar. Contacta con ella hoy para una clase de prueba gratuita y da el primer paso hacia la fluidez.
+«¡Vamos a aprender!» (Let’s learn!) es lo que dice a sus estudiantes al comenzar su aventura con el portugués. Tanto si planeas un viaje a Brasil como si simplemente quieres conectar con una cultura vibrante, ahora es el momento perfecto para empezar. Contacta con ella hoy para una clases de portugués y da el primer paso hacia la fluidez.

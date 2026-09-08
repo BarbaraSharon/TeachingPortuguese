@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Rotterdam. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Rotterdam forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Rotterdam está situada en Netherlands. Esta página mantiene la referencia local específica de Rotterdam, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Rotterdam forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Rotterdam está situada en Netherlands. Esta página mantiene la referencia local específica de Rotterdam, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Rotterdam: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Rotterdam: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Róterdam: clases en línea de portugués brasileño y europeo
+## Aprende portugués en Róterdam: clases en línea de portugués brasileño
 
 Róterdam, una ciudad de más de 1 millón de residentes con aproximadamente un 50 % de población de origen migrante, ofrece un vibrante entorno multicultural para aprender portugués. Esta comunidad diversa incluye hablantes brasileños y portugueses, y crea oportunidades para practicar el idioma en situaciones reales. El carácter internacional de la ciudad la convierte en un lugar ideal para explorar el rico patrimonio lingüístico de Brasil y Portugal.
 
@@ -45,7 +45,7 @@ Róterdam también mantiene importantes conexiones comerciales con Portugal, que
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una tutora cualificada de portugués en Gold Coast, con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una tutora cualificada de portugués en Gold Coast, con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

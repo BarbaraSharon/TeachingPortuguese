@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Toronto. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Toronto forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Toronto está situada en Canada. Esta página mantiene la referencia local específica de Toronto, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Toronto forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Toronto está situada en Canada. Esta página mantiene la referencia local específica de Toronto, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Toronto: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Toronto: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -39,7 +39,7 @@ Barbara Sharon ofrece clases particulares y grupales de portugués en línea de 
 
 La identidad multicultural de Toronto la convierte en un lugar excepcional para aprender portugués. Con más de 108.180 hablantes de portugués en la ciudad, el alumnado puede conectar fácilmente con hablantes nativos y experimentar un uso auténtico del idioma.
 
-Brasil, hogar de la mayor población lusófona del mundo, proporciona una rica perspectiva sobre la evolución del idioma. Aprender portugués en Toronto permite explorar las diferencias entre el portugués brasileño y europeo, desde modismos y jerga hasta referencias culturales y expresiones. Ya sea al entender el ritmo de la música samba o al apreciar los matices del diálogo de una telenovela, tus estudios se enriquecerán con contexto del mundo real.
+Brasil, hogar de la mayor población lusófona del mundo, proporciona una rica perspectiva sobre la evolución del idioma. Aprender portugués en Toronto permite explorar las diferencias entre el portugués brasileño, desde modismos y jerga hasta referencias culturales y expresiones. Ya sea al entender el ritmo de la música samba o al apreciar los matices del diálogo de una telenovela, tus estudios se enriquecerán con contexto del mundo real.
 
 La próspera comunidad brasileña de la ciudad organiza eventos como BrazilFest, una celebración de la cultura brasileña mediante comida, danza, música y arte. Organizaciones locales como Associação Cultural do Minho de Toronto y Portugal-Canada Chamber of Commerce también contribuyen al intercambio cultural y al aprendizaje de idiomas. Participar en Portugal Day Parade o Brazil Week puede mejorar tu comprensión de las culturas lusófonas más allá del aula.
 

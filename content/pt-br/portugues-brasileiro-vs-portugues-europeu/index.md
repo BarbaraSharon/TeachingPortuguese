@@ -142,6 +142,6 @@ Com certeza! Muitos alunos começam com uma variante e ampliam seus conhecimento
 
 O português brasileiro tem aproximadamente 206 milhões de falantes somente no Brasil, em comparação com cerca de 10 milhões em Portugal. O português brasileiro representa a vasta maioria dos falantes de português no mundo.
 
-[Explore meus serviços de português](/pt-br/aulas-de-portugues/)[Agende sua consulta gratuita](/pt-br/contato-professora-portugues/)
+[Explore meus serviços de português](/pt-br/aulas-de-portugues/)[Agende sua opciones de clases](/pt-br/contato-professora-portugues/)
 
 Se ainda está decidindo qual será sua variedade principal, leia [Devo aprender português brasileiro ou europeu?](/pt-br/respostas/aprender-portugues-brasileiro-ou-europeu/).

@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Broadbeach Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Broadbeach Waters is a vibrant and family-friendly suburb on the Gold Coast, known for its scenic canals, lush parks, and easy access to shopping and dining. With a diverse community of residents from various cultural backgrounds, it offers an ideal setting for language learning. The relaxed suburban atmosphere allows you to focus on your Portuguese studies while enjoying the local lifestyle. Learners in Broadbeach Waters can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Broadbeach Waters is grouped in the Gold Coast regional time zone used for scheduling. Broadbeach Waters is located in Australia. This page keeps the local reference specific to Broadbeach Waters while the teaching service remains online-first."
 scheduling: "Scheduling from Broadbeach Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Broadbeach Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -48,7 +48,7 @@ Her multilingual background includes Italian and Spanish, which helps in compari
 
 Barbara offers comprehensive lessons combining grammar, vocabulary, conversation practice, and cultural context so you can speak naturally and confidently. Whether you’re looking for private Portuguese tutor sessions or group classes, she adapts her approach to meet your needs. She also facilitates speaking clubs where students can practice conversational Portuguese in a fun and engaging way.
 
-For those seeking [Brazilian Portuguese lessons near Broadbeach Waters](/en/portuguese-teaching-services/), her services in Surfers Paradise provide convenient access. [Services](/en/portuguese-teaching-services/)include both in-person and online formats with options for individual or group lessons. To get started, reach out through the [Contact](/en/contact-portuguese-teacher/)page for a free trial lesson.
+For those seeking [Brazilian Portuguese lessons near Broadbeach Waters](/en/portuguese-teaching-services/), her services in Surfers Paradise provide convenient access. [Services](/en/portuguese-teaching-services/)include both in-person and online formats with options for individual or group lessons. To get started, reach out through the [Contact](/en/contact-portuguese-teacher/)page for a Portuguese lesson.
 ## Portuguese lessons in Broadbeach Waters: online and in-person options
 
 Barbara Sharon provides flexible Portuguese learning formats including in-person classes, private tutoring, and group sessions. All levels are welcome, from complete beginners to advanced learners. Private lessons offer personalized attention and a customized curriculum, while group sessions allow for social interaction and collaborative practice.
@@ -58,4 +58,4 @@ Students in Broadbeach Waters can attend Portuguese lessons in Surfers Paradise,
 
 Learning Portuguese in Broadbeach Waters gives you access to a supportive community and expert instruction. Whether you're considering [Portuguese tutor Gold Coast](/en/portuguese-teaching-services/), online Portuguese lessons, or local Portuguese classes near Broadbeach Waters, Barbara Sharon provides high-quality learning experiences tailored to your goals.
 
-Contact [Barbara Sharon](/en/contact-portuguese-teacher/)today for a free trial lesson and discover how you can begin mastering Brazilian Portuguese with confidence and fluency. With options like private Portuguese tutor Broadbeach Waters, group lessons, or online Portuguese tutor sessions, there's a learning path that suits your needs.
+Contact [Barbara Sharon](/en/contact-portuguese-teacher/)today for a Portuguese lesson and discover how you can begin mastering Brazilian Portuguese with confidence and fluency. With options like private Portuguese tutor Broadbeach Waters, group lessons, or online Portuguese tutor sessions, there's a learning path that suits your needs.

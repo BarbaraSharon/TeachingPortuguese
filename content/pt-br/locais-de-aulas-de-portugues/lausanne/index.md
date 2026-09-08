@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lausanne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Lausanne está localizada em Switzerland. Lausanne faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Lausanne, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Lausanne faz parte do fuso horário regional de Europe usado para organizar horários. Lausanne fica em Switzerland. Esta página mantém a referência local específica de Lausanne, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Lausanne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lausanne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ O português brasileiro é especialmente valioso para compreender o idioma utili
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação educacional inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação educacional inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação em TESOL
@@ -51,7 +51,7 @@ Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla ex
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro e europeu, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Como profissional dedicada ao ensino de português em Lausanne, ela oferece instrução personalizada por meio de sessões online particulares e em grupo. Saiba mais sobre aulas de português perto de Lausanne e como Barbara Sharon pode adaptar sua abordagem aos seus objetivos.
+Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você se relacione de forma autêntica com falantes nativos. Como profissional dedicada ao ensino de português em Lausanne, ela oferece instrução personalizada por meio de sessões online particulares e em grupo. Saiba mais sobre aulas de português perto de Lausanne e como Barbara Sharon pode adaptar sua abordagem aos seus objetivos.
 
 ## O português como língua global
 
@@ -65,4 +65,4 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, seja para aulas de conversação em português em Lausanne ou instrução adequada a iniciantes. Essas sessões são ideais para profissionais ocupados ou estudantes que preferem a flexibilidade da aprendizagem a distância. Explore mais sobre aulas de português brasileiro em Lausanne e entre em contato pela nossa página de contato para começar.
 
-Agende uma aula experimental gratuita e dê o primeiro passo para aprender português brasileiro.
+Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.

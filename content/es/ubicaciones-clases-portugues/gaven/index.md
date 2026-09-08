@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Gaven con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Gaven es un tranquilo suburbio residencial del norte de Gold Coast, conocido por su ambiente apacible y fácil acceso a las carreteras principales. Con una población aproximada de 1.638 residentes, ofrece un entorno ideal para el aprendizaje concentrado. Aunque los datos específicos sobre hablantes portugueses o brasileños en Gaven son limitados, la región de Gold Coast se beneficia de una diversidad cultural creciente. La presencia de comunidades brasileñas activas en zonas cercanas como Brisbane hace de Gaven un excelente lugar para conectar con la cultura y el idioma de Brasil. El alumnado de Gaven puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Gaven forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Gaven está situada en Australia. Esta página mantiene la referencia local específica de Gaven, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Gaven: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Gaven: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Tanto si buscas clases de portugués cerca de Gaven como una profesora nativa, l
 
 ## Empieza hoy tu recorrido con el portugués
 
-Si te interesa aprender portugués en Gaven, Barbara Sharon ofrece una clase de prueba gratuita para comenzar. Tanto si buscas una profesora de portugués brasileño como una profesora en línea, ofrece enseñanza flexible y eficaz.
+Si te interesa aprender portugués en Gaven, Barbara Sharon ofrece una clases de portugués para comenzar. Tanto si buscas una profesora de portugués brasileño como una profesora en línea, ofrece enseñanza flexible y eficaz.
 
 Empieza hoy desde la página de [contacto](/es/contacto-profesora-portugues/). Las clases para principiantes y de conversación en Gaven están diseñadas para ayudarte a alcanzar tus objetivos, ya sea que viajes, estudies o establezcas vínculos comerciales.

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Dresden. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Dresden faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Dresden está localizada em Germany. Esta página mantém a referência local específica de Dresden, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Dresden faz parte do fuso horário regional de Europe usado para organizar horários. Dresden fica em Germany. Esta página mantém a referência local específica de Dresden, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Dresden: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Dresden: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,6 +57,6 @@ Barbara Sharon é especialista em aulas de português brasileiro em Dresden, ofe
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Dresden? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Quer você procure uma professora de português brasileiro em Dresden, aulas de conversação ou ensino adequado para iniciantes, ela oferece apoio personalizado para atender aos seus objetivos.
+Tem interesse em aprender português em Dresden? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Quer você procure uma professora de português brasileiro em Dresden, aulas de conversação ou ensino adequado para iniciantes, ela oferece apoio personalizado para atender aos seus objetivos.
 
 Com aulas online de português perto de Dresden disponíveis por meio de sua plataforma, encontrar a opção certa nunca foi tão fácil. [Entre em contato agora](/pt-br/contato-professora-portugues/) e descubra como aprender português pode abrir portas para novas experiências e oportunidades.

@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Reedy Creek. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Reedy Creek is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. Reedy Creek is located in Australia. This page keeps the local reference specific to Reedy Creek while the teaching service remains online-first."
+local_context: "Reedy Creek is grouped in the Australia & New Zealand regional time zone used for scheduling. Reedy Creek is located in Australia. This page keeps the local reference specific to Reedy Creek while the teaching service remains online-first."
 scheduling: "Scheduling from Reedy Creek: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Reedy Creek: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Although Reedy Creek is nestled within Australia’s Gold Coast, its internation
 Brazil, home to the largest Portuguese-speaking population in the world, offers insights into how the language evolves and is used in everyday life. From Brazilian music and cinema to literature and informal communication styles, Portuguese spoken in Brazil differs from European Portuguese. Learning Portuguese here allows you to explore these nuances with personalized instruction designed around your interests.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a certified Portuguese tutor Gold Coast with extensive experience teaching both Brazilian and European Portuguese. Her background includes:
+Barbara Sharon is a certified Portuguese tutor Gold Coast with extensive experience teaching Brazilian Portuguese. Her background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Toulouse. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Toulouse is located in France. Toulouse is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Toulouse while the teaching service remains online-first."
+local_context: "Toulouse is grouped in the Europe regional time zone used for scheduling. Toulouse is located in France. This page keeps the local reference specific to Toulouse while the teaching service remains online-first."
 scheduling: "Scheduling from Toulouse: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Toulouse: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Toulouse’s strategic location in France allows learners to benefit from both E
 Brazil, home to the largest Portuguese-speaking population globally, offers a unique perspective on how the language evolves in everyday life. From music and cinema to literature and social customs, Brazilian culture provides rich insights that distinguish it from European Portuguese. Learning Portuguese in Toulouse gives you access to both traditions and helps you understand the cultural nuances of each variant.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

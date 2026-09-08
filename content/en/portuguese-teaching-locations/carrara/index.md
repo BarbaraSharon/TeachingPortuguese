@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Carrara with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Carrara is a family-friendly suburb on the Gold Coast, nestled between Nerang and Broadbeach. With a population of 13,138 residents (2021 census), Carrara offers a peaceful suburban environment perfect for language learning. The area’s diverse and welcoming community creates an ideal setting for students to immerse themselves in Portuguese culture and conversation. Learners in Carrara can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Carrara is grouped in the Gold Coast regional time zone used for scheduling. Carrara is located in Australia. This page keeps the local reference specific to Carrara while the teaching service remains online-first."
 scheduling: "Scheduling from Carrara: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Carrara: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,9 +56,9 @@ She provides:
 - Group classes : Collaborative sessions that build confidence through conversation
 - Online tutoring : Interactive remote lessons from anywhere in the world
 
-For more information or to book a free trial lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact us via the [Contact](/en/contact-portuguese-teacher/)section.
+For more information or to book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact us via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Journey to Mastering Brazilian Portuguese Today
 
 If you're ready to learn Brazilian Portuguese in Carrara, Barbara Sharon is here to guide you. With personalized instruction and a passion for cultural exchange, she helps students develop practical communication skills in a supportive environment.
 
-"Vamos aprender!" (Let's learn!) - that's what she says to her students when starting their Portuguese adventure. Whether you're planning a trip to Brazil or simply want to connect with a vibrant culture, now is the perfect time to begin your journey. Contact her today for a free trial lesson and take the first step toward fluency!
+"Vamos aprender!" (Let's learn!) - that's what she says to her students when starting their Portuguese adventure. Whether you're planning a trip to Brazil or simply want to connect with a vibrant culture, now is the perfect time to begin your journey. Contact her today for a Portuguese lesson and take the first step toward fluency!

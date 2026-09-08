@@ -22,6 +22,13 @@ service:
 
 El Club ayuda a estudiantes principiantes y avanzados a practicar portugués brasileño, mejorar la pronunciación y ampliar el vocabulario. Las sesiones pueden ser en línea o presenciales, según la disponibilidad. Barbara Sharon es profesora cualificada de portugués brasileño y consejera de salud mental, y crea un espacio seguro para conversar de verdad.
 
+## Precios del Club de conversación
+
+- Estudiantes matriculados: {{< lesson-price "speaking_club_enrolled" >}}
+- Estudiantes no matriculados: {{< lesson-price "speaking_club_non_enrolled" >}} por sesión
+
+Es una oportunidad relajada para practicar portugués, ganar confianza y mejorar tus habilidades de conversación. Contacta con Barbara para confirmar el formato y la disponibilidad actuales. Todos los precios están en dólares australianos.
+
 <div class="speaking-club-gallery speaking-club-gallery--two" aria-label="Momentos del Club de conversación">{{< figure src="/media/pages/portuguese-speaking-club/photos/community-group.jpg" alt="Participantes del Club de conversación reunidos" class="speaking-club-gallery__item" >}}
 {{< figure src="/media/pages/portuguese-speaking-club/photos/conversation-questions.jpg" alt="Participantes utilizando preguntas de conversación" class="speaking-club-gallery__item" >}}
 </div>

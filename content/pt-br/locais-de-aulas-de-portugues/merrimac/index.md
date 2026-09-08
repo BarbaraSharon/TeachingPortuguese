@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Merrimac com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Merrimac é um bairro centralmente localizado na Gold Coast, conhecido por suas escolas, parques e fácil acesso às principais estradas. A região tem uma população diversa, com 40% dos residentes nascidos no exterior, incluindo um número crescente de famílias de língua portuguesa. Esse ambiente multicultural faz de Merrimac um local ideal para estudar português. Com uma população de aproximadamente 30.251 pessoas, Merrimac abriga 1.240 residentes nascidos em Portugal, que contribuem para a riqueza cultural da comunidade local. Os alunos de Merrimac podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Merrimac faz parte do fuso horário regional de Gold Coast usado para organizar horários. Merrimac fica em Australia. Esta página mantém a referência local específica de Merrimac, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Merrimac: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Merrimac: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Merrimac: aulas de português brasileiro e europeu
+## Aprenda português em Merrimac: aulas de português brasileiro
 
 Merrimac é um bairro centralmente localizado na Gold Coast, conhecido por suas escolas, parques e fácil acesso às principais estradas. A região tem uma população diversa, com 40% dos residentes nascidos no exterior, incluindo um número crescente de famílias de língua portuguesa. Esse ambiente multicultural faz de Merrimac um local ideal para estudar português. Com uma população de aproximadamente 30.251 pessoas, Merrimac abriga 1.240 residentes nascidos em Portugal, que contribuem para a riqueza cultural da comunidade local.
 
@@ -43,7 +43,7 @@ A presença de uma crescente comunidade portuguesa enriquece as experiências de
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -66,8 +66,8 @@ Barbara Sharon oferece opções flexíveis para aprender português, incluindo a
 
 Os estudantes podem escolher entre sessões particulares ou em grupo, conforme suas necessidades e preferências. Para quem busca uma experiência mais imersiva, sessões de clube de conversação também estão disponíveis. Aprenda português em Merrimac com uma professora profissional de português que oferece ensino individual e em grupo. Quer você prefira serviços de tutoria de português online ou aulas presenciais de português perto de Merrimac, a abordagem de Barbara se adapta à sua agenda e ao seu estilo de aprendizagem.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Tem interesse em aprender português em Merrimac? Entre em contato com Barbara Sharon para uma aula experimental gratuita e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Merrimac? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Para saber mais sobre seus serviços, visite a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).

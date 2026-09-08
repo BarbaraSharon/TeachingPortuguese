@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Pimpama. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Pimpama forma parte del conjunto regional Australia & New Zealand, que se utiliza para orientar horarios y objetivos de aprendizaje. Pimpama está situada en Australia. Esta página mantiene la referencia local específica de Pimpama, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Pimpama forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Pimpama está situada en Australia. Esta página mantiene la referencia local específica de Pimpama, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Pimpama: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Pimpama: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Pimpama: clases de portugués brasileño y europeo cerca de ti
+## Aprende portugués en Pimpama: clases de portugués brasileño cerca de ti
 
 Pimpama es un suburbio del norte de Gold Coast de rápido crecimiento, con una población diversa de 24.601 residentes según el censo de 2021. Con un 33,7 % de habitantes nacidos en el extranjero, la zona refleja un entorno multicultural que favorece el aprendizaje de idiomas y el intercambio cultural. La cercanía a Surfers Paradise resulta práctica para estudiantes que buscan una tutora de portugués o una profesora de portugués brasileño en Pimpama. Barbara Sharon ofrece clases de portugués presenciales y en línea en Gold Coast: las presenciales se realizan en Surfers Paradise, a poca distancia de Pimpama, y las sesiones en línea aportan flexibilidad al alumnado de toda la región.
 
@@ -43,14 +43,14 @@ El portugués es especialmente valioso para comprender la música, el cine, la l
 La presencia de Oporto Pimpama, restaurante de inspiración portuguesa, pone de relieve el creciente interés por la cultura portuguesa en la zona. Aunque no se enumeran organizaciones comunitarias portuguesas específicas en Pimpama, el ambiente multicultural y el acceso a eventos culturales brasileños lo convierten en un lugar excelente para comenzar con una tutora de portugués o profesora de portugués brasileño.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués cualificada y con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués cualificada y con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
 
-Con su experiencia, Barbara puede ayudarte a desenvolverte entre diferencias entre el portugués brasileño y europeo, comprender el contexto cultural y desarrollar conversación para relacionarte auténticamente con hablantes nativos. Tanto si te interesan relaciones comerciales con Brasil como apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
+Con su experiencia, Barbara puede ayudarte a desenvolverte entre diferencias entre el portugués brasileño, comprender el contexto cultural y desarrollar conversación para relacionarte auténticamente con hablantes nativos. Tanto si te interesan relaciones comerciales con Brasil como apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
 
 Barbara ofrece clases cerca de Pimpama, incluidas sesiones particulares y grupales, además de opciones de club de conversación. Para conocer más sobre sus [servicios](/es/servicios-clases-portugues/), contacta con Barbara mediante la página de [contacto](/es/contacto-profesora-portugues/).
 ## El portugués como lengua global

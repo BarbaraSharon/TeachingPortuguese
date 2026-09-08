@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Kingsholme with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Kingsholme, nestled on the northern Gold Coast, is a tranquil rural community known for its spacious properties and close-knit neighborhood vibe. With a population of around 782 residents, this area offers a peaceful setting where language learning feels personal and culturally rewarding. The region has a diverse population with a 26.6% foreign-born presence, enriching the cultural fabric that supports language education. Learners in Kingsholme can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Kingsholme is grouped in the Gold Coast regional time zone used for scheduling. Kingsholme is located in Australia. This page keeps the local reference specific to Kingsholme while the teaching service remains online-first."
 scheduling: "Scheduling from Kingsholme: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kingsholme: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ The vibrant Brazilian community in Kingsholme contributes to a rich cultural env
 Kingsholme also offers excellent connections for those interested in business or travel between Australia and Brazil. Brazilian Portuguese is particularly valuable for understanding international contexts within sectors like healthcare and education-areas prominent in the local community. Learning Portuguese here gives you access to a global language tradition that extends far beyond Brazil’s borders.
 ## How Barbara Sharon Can Help You Master Portuguese
 
-Barbara Sharon is a qualified and passionate Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified and passionate Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

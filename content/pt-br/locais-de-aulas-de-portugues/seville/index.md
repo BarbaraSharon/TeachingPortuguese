@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Seville. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Seville faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Seville está localizada em Spain. Esta página mantém a referência local específica de Seville, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Seville faz parte do fuso horário regional de Europe usado para organizar horários. Seville fica em Spain. Esta página mantém a referência local específica de Seville, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Seville: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Madrid; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Seville: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Sevilha é uma cidade vibrante na Espanha, conhecida por sua rica herança cultural e fortes conexões internacionais. Com uma população de 687.488 residentes em 2024, incluindo uma comunidade significativa de 48,5% de pessoas nascidas no exterior, a cidade oferece um ambiente acolhedor para quem aprende idiomas.
 
-Como porto interior com profundos laços históricos com Portugal, Sevilha oferece oportunidades únicas para explorar a cultura e o idioma portugueses. Quer você tenha interesse em português brasileiro ou europeu, nossas aulas online ajudam você a se conectar de forma autêntica com falantes nativos enquanto desfruta de aprendizagem flexível de qualquer lugar na Austrália.
+Como porto interior com profundos laços históricos com Portugal, Sevilha oferece oportunidades únicas para explorar a cultura e o idioma portugueses. Quer você tenha interesse em português brasileiro, nossas aulas online ajudam você a se conectar de forma autêntica com falantes nativos enquanto desfruta de aprendizagem flexível de qualquer lugar na Austrália.
 
 ## Por que aprender português em Sevilha?
 
@@ -43,7 +43,7 @@ Aprender português em Sevilha é especialmente valioso para quem se interessa p
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de língua portuguesa, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

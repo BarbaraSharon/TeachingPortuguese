@@ -1,0 +1,65 @@
+currency: AUD
+currency_symbol: A$
+offers:
+  term_10_week:
+    format: group
+    duration_weeks: 10
+    lesson_hours: 1
+    lessons_per_week: 1
+    starting_price: 290
+    price_basis: per_term_per_student
+    delivery_modes:
+      - online
+      - in_person
+  term_10_week_1_5_hour:
+    format: group
+    duration_weeks: 10
+    lesson_hours: 1.5
+    lessons_per_week: 1
+    starting_price: 370
+    price_basis: per_term_per_student
+    delivery_modes:
+      - online
+      - in_person
+  private_4_week:
+    format: private
+    duration_weeks: 4
+    lesson_hours: 1
+    lessons_per_week: 1
+    starting_price: 260
+    price_basis: per_4_lesson_package
+    delivery_modes:
+      - online
+      - in_person
+  private_casual:
+    format: private
+    lesson_hours: 1
+    starting_price: 70
+    price_basis: per_lesson
+    delivery_modes:
+      - online
+      - in_person
+  speaking_club_enrolled:
+    format: speaking_club
+    display_price: FREE
+    price_basis: per_session
+    audience: enrolled_students
+    delivery_modes:
+      - online
+      - in_person
+  speaking_club_non_enrolled:
+    format: speaking_club
+    starting_price: 20
+    price_basis: per_session
+    audience: non_enrolled_students
+    delivery_modes:
+      - online
+      - in_person
+  book_digital:
+    format: course_book
+    starting_price: 25
+    price_basis: per_book
+  book_hard_copy:
+    format: course_book
+    starting_price: 50
+    price_basis: per_book

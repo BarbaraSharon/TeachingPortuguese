@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Burleigh Heads con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Burleigh Heads es un suburbio dinámico de Gold Coast con unos 10.572 habitantes según el censo de 2021, conocido por sus hermosas playas y relajado estilo de vida costero. El 30,7 % de sus residentes nació en el extranjero, una mezcla cultural diversa que lo convierte en un lugar ideal para estudiar portugués, especialmente portugués brasileño. Aunque solo el 0,8 % de los residentes hablaba portugués en casa en 2016, el interés creciente por los idiomas globales y la diversidad cultural crea un entorno acogedor para aprender. El alumnado de Burleigh Heads puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Burleigh Heads forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Burleigh Heads está situada en Australia. Esta página mantiene la referencia local específica de Burleigh Heads, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Burleigh Heads: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Burleigh Heads: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Para mayor comodidad, los servicios de profesora de portugués en línea están 
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Estás lista o listo para empezar o mejorar tu portugués en Burleigh Heads? Barbara Sharon ofrece una clase de prueba gratuita para que conozcas su manera de enseñar. Tanto si te interesan las clases de portugués brasileño, la conversación o encontrar una profesora de portugués de confianza cerca de ti, está aquí para guiarte en tu recorrido lingüístico.
+¿Estás lista o listo para empezar o mejorar tu portugués en Burleigh Heads? Barbara Sharon ofrece una clases de portugués para que conozcas su manera de enseñar. Tanto si te interesan las clases de portugués brasileño, la conversación o encontrar una profesora de portugués de confianza cerca de ti, está aquí para guiarte en tu recorrido lingüístico.

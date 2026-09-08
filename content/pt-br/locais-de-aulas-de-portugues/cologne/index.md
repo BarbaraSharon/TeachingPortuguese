@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cologne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Cologne faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Cologne está localizada em Germany. Esta página mantém a referência local específica de Cologne, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Cologne faz parte do fuso horário regional de Europe usado para organizar horários. Cologne fica em Germany. Esta página mantém a referência local específica de Cologne, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Cologne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cologne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Os serviços online de professora de português de Barbara Sharon em Colônia in
 
 ## Comece hoje sua jornada rumo à fluência
 
-Pronto para aprender português em Colônia? Entre em contato com Barbara Sharon para uma aula experimental gratuita e dê o primeiro passo rumo à fluência! Quer você procure uma professora online de português em Colônia ou aulas de português perto de Colônia, sua especialização como falante nativa e instrutora experiente faz dela uma excelente escolha. Descubra os benefícios do ensino de português brasileiro em Colônia e comece sua jornada para ganhar confiança em português.
+Pronto para aprender português em Colônia? Entre em contato com Barbara Sharon para uma aulas de português e dê o primeiro passo rumo à fluência! Quer você procure uma professora online de português em Colônia ou aulas de português perto de Colônia, sua especialização como falante nativa e instrutora experiente faz dela uma excelente escolha. Descubra os benefícios do ensino de português brasileiro em Colônia e comece sua jornada para ganhar confiança em português.

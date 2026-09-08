@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Turin. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Turin forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Turin está situada en Italy. Esta página mantiene la referencia local específica de Turin, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Turin forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Turin está situada en Italy. Esta página mantiene la referencia local específica de Turin, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Turin: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Turin: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Domina portugués brasileño y europeo en Turin: clases en línea con Barbara Sharon
+## Domina portugués brasileño en Turin: clases en línea con Barbara Sharon
 
 Turin, una ciudad vibrante de más de 1,8 millones de habitantes en el norte de Italia, es conocida por su rico patrimonio cultural y carácter internacional. Aunque tiene profundas raíces en las tradiciones italianas, también proporciona un entorno único para explorar idiomas globales como el portugués. Con un 16,1 % de población nacida en el extranjero, Turin recibe culturas diversas, incluido un interés creciente en portugués brasileño.
 
@@ -43,7 +43,7 @@ Además, Solidarity network for Brazilians in Italy incluye Turin y ofrece oport
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués
 
-Barbara Sharon es una instructora de portugués experimentada y especializada en portugués brasileño y europeo. Sus cualificaciones incluyen:
+Barbara Sharon es una instructora de portugués experimentada y especializada en portugués brasileño. Sus cualificaciones incluyen:
 
 - Licenciatura en Lenguas y Literatura - Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -64,4 +64,4 @@ Al aprender portugués en Turin, obtienes valiosas perspectivas sobre la cultura
 
 Barbara Sharon ofrece clases de portugués en línea individuales y grupales, diseñadas para horarios ocupados y preferencias de aprendizaje. Con herramientas de enseñanza modernas, recursos multimedia y contenido de la vida real, estas clases ofrecen una forma inmersiva y eficaz de desarrollar destrezas lingüísticas.
 
-Tanto si comienzas desde cero como si mejoras comunicación avanzada, el programa se adapta a tus necesidades. Ofrecemos enseñanza de portugués brasileño y europeo según tu enfoque; tanto si sueñas con viajar a São Paulo como con comunicarte en Lisboa, te guiaremos hasta allí.
+Tanto si comienzas desde cero como si mejoras comunicación avanzada, el programa se adapta a tus necesidades. Ofrecemos enseñanza de portugués brasileño según tu enfoque; tanto si sueñas con viajar a São Paulo como con comunicarte en Lisboa, te guiaremos hasta allí.

@@ -167,7 +167,7 @@ Sí. Antes de empezar hablaremos de tu itinerario, actividades previstas y dudas
 
 Sí. Las clases grupales pueden ser una opción agradable y rentable para familias que viajan juntas. Contacta con Barbara para hablar de las necesidades y horarios del grupo.
 
-[Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva una consulta gratuita](/es/contacto-profesora-portugues/)
+[Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva una opciones de clases](/es/contacto-profesora-portugues/)
 
 ## «Aprender é viver!» (¡Aprender es vivir!)
 
@@ -175,7 +175,7 @@ No dejes que las barreras lingüísticas limiten tus experiencias de viaje. Con 
 
 ## Empieza antes de tu viaje
 
-No dejes que la barrera del idioma limite tu experiencia. [Contacta con Barbara](/es/contacto-profesora-portugues/) para organizar una clase de prueba y preparar el portugués que necesitas para tu viaje.
+No dejes que la barrera del idioma limite tu experiencia. [Contacta con Barbara](/es/contacto-profesora-portugues/) para organizar una clase de portugués y preparar el portugués que necesitas para tu viaje.
 
 ## Una respuesta rápida para viajes y conversación
 

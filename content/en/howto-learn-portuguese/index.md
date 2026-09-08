@@ -71,9 +71,9 @@ Start exposing yourself to Portuguese in a fun, low-pressure way:
 Nothing heavy, just enjoyment! Let your brain get used to the sounds and rhythm of the language.
 ## 4. Find the Right Teacher
 
-Take your time. Over the course of a month, try free trial lessons whenever possible. No rush, this is about finding a teacher you connect with. Once you find the right fit, commit to a 10-week learning journey.
+Take your time. Over the course of a month, try Portuguese lesson options whenever possible. No rush, this is about finding a teacher you connect with. Once you find the right fit, commit to a 10-week learning journey.
 
-Book Your Free Trial Lesson Today! [Contact Barbara Sharon](/en/contact-portuguese-teacher/)
+Book Your Portuguese Lesson Today! [Contact Barbara Sharon](/en/contact-portuguese-teacher/)
 ## 5. Create Your Learning Ritual
 
 Pick a day that's most relaxing for you, your "Portuguese day." On this day, prepare your brain to think in Portuguese:
@@ -109,7 +109,7 @@ Learning Portuguese doesn't have to be stressful. With a clear reason, understan
 
 Whether you're interested in online Portuguese lessons , Portuguese teacher Australia , or want to know about the best way to learn Portuguese , Barbara Sharon's approach can help you achieve your goals.
 
-[Book Your Free Trial Lesson Today](/en/contact-portuguese-teacher/)
+[Book Your Portuguese Lesson Today](/en/contact-portuguese-teacher/)
 
 ## Related Portuguese learning answer
 
@@ -166,6 +166,6 @@ Learning Portuguese as a second language doesn't have to be overwhelming. By fol
 - Create consistent learning rituals that make Portuguese part of your daily routine
 - Focus on active speaking practice and real communication skills
 
-Ready to begin your Portuguese journey? Contact Barbara Sharon today for a free trial lesson and discover how effective Portuguese learning can be when you have the right approach and guidance.
+Ready to begin your Portuguese journey? Contact Barbara Sharon today for a Portuguese lesson and discover how effective Portuguese learning can be when you have the right approach and guidance.
 
-[Book Your Free Trial Lesson Today](/en/contact-portuguese-teacher/)
+[Book Your Portuguese Lesson Today](/en/contact-portuguese-teacher/)

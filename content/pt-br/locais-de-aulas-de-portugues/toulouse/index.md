@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Toulouse. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Toulouse está localizada em France. Toulouse faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Toulouse, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Toulouse faz parte do fuso horário regional de Europe usado para organizar horários. Toulouse fica em France. Esta página mantém a referência local específica de Toulouse, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Toulouse: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Toulouse: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -37,20 +37,20 @@ Barbara Sharon oferece aulas de português online em Toulouse, incluindo sessõe
 
 ## Por que aprender português em Toulouse?
 
-A localização estratégica de Toulouse na França permite que os alunos se beneficiem de influências do português europeu e brasileiro. Embora a cidade faça parte da França, sua atmosfera cosmopolita facilita a conexão com comunidades de língua portuguesa de todo o mundo. A presença de organizações como a ABC Toulouse e eventos culturais como o Printemps du Brésil destaca as vibrantes conexões lusófonas da cidade.
+A localização estratégica de Toulouse na França permite que os alunos se beneficiem de influências do português brasileiro. Embora a cidade faça parte da França, sua atmosfera cosmopolita facilita a conexão com comunidades de língua portuguesa de todo o mundo. A presença de organizações como a ABC Toulouse e eventos culturais como o Printemps du Brésil destaca as vibrantes conexões lusófonas da cidade.
 
 O Brasil, lar da maior população de falantes de português do mundo, oferece uma perspectiva singular sobre a evolução do idioma na vida cotidiana. Da música e do cinema à literatura e aos costumes sociais, a cultura brasileira oferece ricas perspectivas que a distinguem do português europeu. Aprender português em Toulouse dá a você acesso às duas tradições e ajuda a entender as nuances culturais de cada variante.
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
 - Fala português, inglês, italiano e espanhol
 - Conselheira
 
-Como uma dedicada professora de português brasileiro sediada em Toulouse, Barbara oferece aulas online flexíveis, adaptadas às suas necessidades. Ela oferece sessões em grupo e particulares, assegurando atenção personalizada para cada aluno. Quer você queira aprimorar suas habilidades de conversação ou se preparar para a comunicação profissional com falantes de português brasileiro ou europeu, a abordagem de Barbara combina diversão, praticidade e consciência cultural.
+Como uma dedicada professora de português brasileiro sediada em Toulouse, Barbara oferece aulas online flexíveis, adaptadas às suas necessidades. Ela oferece sessões em grupo e particulares, assegurando atenção personalizada para cada aluno. Quer você queira aprimorar suas habilidades de conversação ou se preparar para a comunicação profissional com falantes de português brasileiro, a abordagem de Barbara combina diversão, praticidade e consciência cultural.
 
 Para saber mais sobre seus serviços, visite nossa página de [Serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [Contato](/pt-br/contato-professora-portugues/).
 

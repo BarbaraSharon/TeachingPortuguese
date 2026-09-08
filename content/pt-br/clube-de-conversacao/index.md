@@ -22,6 +22,13 @@ Pronto para levar o seu português ao próximo nível? O Clube de Conversação 
 
 O Clube de Conversação em Português ajuda alunos iniciantes e avançados a praticar português brasileiro, melhorar a pronúncia e ampliar o vocabulário. As sessões podem ser online ou presenciais, conforme a disponibilidade. Barbara Sharon é professora qualificada de português brasileiro e conselheira de saúde mental, e cria um espaço acolhedor para conversas reais.
 
+## Preços do Clube de Conversação
+
+- Alunos matriculados: {{< lesson-price "speaking_club_enrolled" >}}
+- Alunos não matriculados: {{< lesson-price "speaking_club_non_enrolled" >}} por sessão
+
+Uma oportunidade descontraída para praticar português, ganhar confiança e melhorar suas habilidades de conversação. Fale com a Barbara para confirmar o formato e a disponibilidade atuais. Todos os preços estão em dólares australianos.
+
 <div class="speaking-club-gallery speaking-club-gallery--two" aria-label="Momentos do Clube de Conversação">{{< figure src="/media/pages/portuguese-speaking-club/photos/community-group.jpg" alt="Participantes do Clube de Conversação reunidos" class="speaking-club-gallery__item" >}}
 {{< figure src="/media/pages/portuguese-speaking-club/photos/conversation-questions.jpg" alt="Participantes usando perguntas de conversação" class="speaking-club-gallery__item" >}}
 </div>

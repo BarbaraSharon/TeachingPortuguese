@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Duesseldorf. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Duesseldorf forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Duesseldorf está situada en Germany. Esta página mantiene la referencia local específica de Duesseldorf, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Duesseldorf forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Duesseldorf está situada en Germany. Esta página mantiene la referencia local específica de Duesseldorf, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Duesseldorf: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Duesseldorf: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,4 +55,4 @@ Las clases incorporan gramática, vocabulario, práctica de conversación y cont
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Buscas una profesora de portugués brasileño o una profesora de portugués en línea en Düsseldorf? Contacta hoy con Barbara Sharon para reservar una clase de prueba gratuita y empezar a dominar el portugués. Tanto si quieres mejorar la conversación, prepararte para viajar o conectar con la cultura brasileña, ofrece experiencias de aprendizaje completas adaptadas a tus objetivos. Su atención a las clases particulares y grupales permite encontrar apoyo personalizado o aprendizaje colaborativo según prefieras.
+¿Buscas una profesora de portugués brasileño o una profesora de portugués en línea en Düsseldorf? Contacta hoy con Barbara Sharon para reservar una clases de portugués y empezar a dominar el portugués. Tanto si quieres mejorar la conversación, prepararte para viajar o conectar con la cultura brasileña, ofrece experiencias de aprendizaje completas adaptadas a tus objetivos. Su atención a las clases particulares y grupales permite encontrar apoyo personalizado o aprendizaje colaborativo según prefieras.

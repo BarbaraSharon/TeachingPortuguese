@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Porto. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Porto faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Porto está localizada em Portugal. Esta página mantém a referência local específica de Porto, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Porto faz parte do fuso horário regional de Europe usado para organizar horários. Porto fica em Portugal. Esta página mantém a referência local específica de Porto, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Porto: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Lisbon; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Porto: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -43,7 +43,7 @@ A cidade recebe vários eventos importantes, como Forró Douro 2025, o Rhythms o
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora experiente de língua portuguesa, especializada em português brasileiro e europeu. Sua formação inclui Bacharelado em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), certificação TESOL e fluência em português, inglês, italiano e espanhol.
+Barbara Sharon é uma professora experiente de língua portuguesa, especializada em português brasileiro. Sua formação inclui Bacharelado em Letras pela Universidade Federal do Rio de Janeiro (UFRJ), certificação TESOL e fluência em português, inglês, italiano e espanhol.
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

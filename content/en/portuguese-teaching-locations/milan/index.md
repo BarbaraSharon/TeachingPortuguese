@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Milan. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Milan is grouped in the Europe location set used for local scheduling and learner guidance. Milan is located in Italy. This page keeps the local reference specific to Milan while the teaching service remains online-first."
+local_context: "Milan is grouped in the Europe regional time zone used for scheduling. Milan is located in Italy. This page keeps the local reference specific to Milan while the teaching service remains online-first."
 scheduling: "Scheduling from Milan: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Milan: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Milan's global influence in business, fashion, and culture makes it a prime loca
 With the presence of Brazilian brands at events like Micam Milano and growing community activities, studying Portuguese in Milan can be particularly beneficial for those interested in international business, travel, or cultural exchange. Whether you're preparing for a trip to Brazil, aiming to improve your career prospects, or simply enjoy language learning, Milan provides an engaging and supportive environment for Portuguese learners. Barbara Sharon’s online Portuguese lessons are accessible to students in Milan and beyond.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a passionate and experienced Portuguese tutor Gold Coast with a deep understanding of both Brazilian and European Portuguese. Her teaching approach combines academic rigor with practical communication skills, ensuring learners gain confidence in real-world situations.
+Barbara Sharon is a passionate and experienced Portuguese tutor Gold Coast with a deep understanding of Brazilian Portuguese. Her teaching approach combines academic rigor with practical communication skills, ensuring learners gain confidence in real-world situations.
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, and Spanish
@@ -63,6 +63,6 @@ Learning Portuguese doesn't have to be limited by geography. Students in Milan c
 Whether you're a complete beginner or looking to enhance your skills, her courses are customized to suit your personal interests and learning objectives. From travel phrases to business jargon, you'll receive materials that align with real-life applications. Choose between one-on-one private lessons or join a small group for collaborative learning.
 ## Start Your Portuguese Journey Today
 
-Ready to begin your Portuguese adventure in Milan? Contact Barbara Sharon today for a free trial lesson and experience her dynamic teaching style firsthand. Whether you're interested in mastering basic conversation or advancing your fluency, she’s here to support your journey.
+Ready to begin your Portuguese adventure in Milan? Contact Barbara Sharon today for a Portuguese lesson and experience her dynamic teaching style firsthand. Whether you're interested in mastering basic conversation or advancing your fluency, she’s here to support your journey.
 
 Explore our [Services](/en/portuguese-teaching-services/)and [Contact](/en/contact-portuguese-teacher/)pages for more information on how to get started with your Portuguese education in Milan. Find out why so many students choose Online Portuguese lessons from Barbara Sharon.

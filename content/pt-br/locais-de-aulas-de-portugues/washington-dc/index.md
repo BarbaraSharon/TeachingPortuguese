@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Washington Dc. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Washington Dc faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Washington Dc está localizada em United States. Esta página mantém a referência local específica de Washington Dc, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Washington Dc faz parte do fuso horário regional de North America usado para organizar horários. Washington Dc fica em United States. Esta página mantém a referência local específica de Washington Dc, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Washington Dc: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Washington Dc: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -45,7 +45,7 @@ A influência do Brasil se estende globalmente, com 267 milhões de falantes nat
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora qualificada de português, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Línguas e Literatura - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

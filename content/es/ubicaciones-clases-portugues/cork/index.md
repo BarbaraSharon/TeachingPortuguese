@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Cork. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Cork está situada en Ireland. Cork forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Cork, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Cork forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Cork está situada en Ireland. Esta página mantiene la referencia local específica de Cork, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Cork: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Dublin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cork: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -56,4 +56,4 @@ Los servicios de Barbara se adaptan tanto a quienes prefieren apoyo individual c
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Te interesa aprender portugués en Cork? Contacta con Barbara Sharon para una clase de prueba gratuita y empieza hoy tu recorrido lingüístico. Como profesora de portugués brasileño, te ayuda a desarrollar confianza y fluidez en conversación, gramática y cultura. Tanto si buscas clases para principiantes como una profesora nativa de portugués, la plataforma en línea facilita el acceso a una enseñanza de calidad desde cualquier lugar.
+¿Te interesa aprender portugués en Cork? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu recorrido lingüístico. Como profesora de portugués brasileño, te ayuda a desarrollar confianza y fluidez en conversación, gramática y cultura. Tanto si buscas clases para principiantes como una profesora nativa de portugués, la plataforma en línea facilita el acceso a una enseñanza de calidad desde cualquier lugar.

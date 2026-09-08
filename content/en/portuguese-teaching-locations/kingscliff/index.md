@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Kingscliff with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Kingscliff is a vibrant coastal town located near the border of Queensland and New South Wales, known for its pristine beaches, lush national parklands, and relaxed lifestyle. With a population of 8,355 (7,464 according to some sources), the area offers a welcoming environment for language learners seeking to connect with Brazilian culture. Residents often choose to learn Portuguese as it opens doors to understanding Brazil’s rich traditions and fosters meaningful cultural exchanges. The town’s diverse community includes families from various cultural backgrounds, with 21.1% of residents foreign-born, creating an ideal setting for language learning. Learners in Kingscliff can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Kingscliff is grouped in the Gold Coast regional time zone used for scheduling. Kingscliff is located in Australia. This page keeps the local reference specific to Kingscliff while the teaching service remains online-first."
 scheduling: "Scheduling from Kingscliff: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kingscliff: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Kingscliff's diverse community includes many residents from various cultural bac
 Learning Portuguese here gives you access to a global language spoken by over 267 million people worldwide. It's especially valuable in sectors like healthcare and education, which are prominent in Kingscliff. Whether you're planning to visit Brazil or engage with its growing expat community, Portuguese can be a powerful tool for connection. For those seeking Brazilian Portuguese lessons kingscliff or conversational Portuguese classes kingscliff, the local environment supports immersive learning opportunities.
 ## How Barbara Sharon Can Help You Master Portuguese
 
-Barbara Sharon is an experienced Portuguese language instructor who teaches both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is an experienced Portuguese language instructor who teaches Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -60,8 +60,8 @@ Learning Portuguese in Kingscliff gives you access to this rich linguistic herit
 Barbara Sharon offers in-person Portuguese lessons in Surfers Paradise, just a short distance from Kingscliff. She also provides online Portuguese tutoring for those who prefer remote learning. Both group and private sessions are available to meet your learning style and schedule.
 
 Her classes focus on practical conversation skills, cultural context, and personalized materials that align with your interests and goals. Additionally, she runs a speaking club for students looking to practice in a relaxed, supportive setting. Whether you're searching for a native Portuguese teacher kingscliff or a Brazilian Portuguese tutor kingscliff, Barbara's services cater to a range of learning preferences.
-## Start Your Portuguese Journey Today - Free Trial Lesson
+## Start Your Portuguese Journey Today - Portuguese Lesson
 
-Ready to begin your journey in Portuguese? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can support your language journey. Whether you're a complete beginner or aiming to advance your skills, she offers tailored instruction to help you succeed.
+Ready to begin your journey in Portuguese? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can support your language journey. Whether you're a complete beginner or aiming to advance your skills, she offers tailored instruction to help you succeed.
 
 To learn more about her services, visit [Services](/en/portuguese-teaching-services/)or get in touch through the [Contact](/en/contact-portuguese-teacher/)page.

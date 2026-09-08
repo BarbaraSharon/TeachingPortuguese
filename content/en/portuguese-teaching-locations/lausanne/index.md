@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Lausanne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Lausanne is located in Switzerland. Lausanne is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Lausanne while the teaching service remains online-first."
+local_context: "Lausanne is grouped in the Europe regional time zone used for scheduling. Lausanne is located in Switzerland. This page keeps the local reference specific to Lausanne while the teaching service remains online-first."
 scheduling: "Scheduling from Lausanne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Lausanne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Lausanne's diverse population includes over 10,000 Portuguese-born residents and
 Brazilian Portuguese is particularly valuable for understanding the language used in international business contexts, especially within healthcare and education sectors which are prominent in Lausanne. Learning Portuguese in Lausanne allows you to tap into these global connections through structured lessons led by a qualified instructor. Explore Brazilian Portuguese lessons Lausanne and connect with Barbara Sharon for personalized guidance.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish

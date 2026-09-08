@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Pacific/Auckland"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Auckland. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Auckland está localizada em New Zealand. Auckland faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Auckland, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Auckland faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Auckland fica em New Zealand. Esta página mantém a referência local específica de Auckland, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Auckland: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Pacific/Auckland; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Auckland: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,10 +55,10 @@ Barbara oferece opções flexíveis de aprendizagem, incluindo aulas online part
 
 As aulas particulares permitem foco individual, enquanto as sessões em grupo incentivam a interação social e a aprendizagem colaborativa. Todas as sessões são realizadas online, tornando-as acessíveis a alunos em qualquer lugar de Auckland ou além.
 
-Com [serviços de tutoria de português brasileiro](/pt-br/aulas-de-portugues/) e [aulas gerais de português perto de Auckland](/pt-br/aulas-de-portugues/), Barbara adapta seu estilo de ensino às necessidades individuais. Comece hoje sua jornada com uma aula experimental gratuita!
+Com [serviços de tutoria de português brasileiro](/pt-br/aulas-de-portugues/) e [aulas gerais de português perto de Auckland](/pt-br/aulas-de-portugues/), Barbara adapta seu estilo de ensino às necessidades individuais. Comece hoje sua jornada com uma aulas de português!
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português em Auckland? Entre em contato com Barbara Sharon para uma aula experimental gratuita e dê o primeiro passo rumo à fluência. Se você procura uma [professora de português em Auckland](/pt-br/contato-professora-portugues/), aulas de conversação ou aulas estruturadas, sua abordagem online garante acessibilidade e conveniência.
+Pronto para aprender português em Auckland? Entre em contato com Barbara Sharon para uma aulas de português e dê o primeiro passo rumo à fluência. Se você procura uma [professora de português em Auckland](/pt-br/contato-professora-portugues/), aulas de conversação ou aulas estruturadas, sua abordagem online garante acessibilidade e conveniência.
 
 “Aprender português é mais do que memorizar palavras - é vivenciar uma cultura.” (Aprender português é mais do que memorizar palavras - é vivenciar uma cultura.)

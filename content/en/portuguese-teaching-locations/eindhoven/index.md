@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Eindhoven. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Eindhoven is grouped in the Europe location set used for local scheduling and learner guidance. Eindhoven is located in Netherlands. This page keeps the local reference specific to Eindhoven while the teaching service remains online-first."
+local_context: "Eindhoven is grouped in the Europe regional time zone used for scheduling. Eindhoven is located in Netherlands. This page keeps the local reference specific to Eindhoven while the teaching service remains online-first."
 scheduling: "Scheduling from Eindhoven: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Eindhoven: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,4 +54,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon delivers both individual and small-group Portuguese lessons through online platforms, making it easy for students in Eindhoven to access quality instruction. Whether you're seeking a private Portuguese tutor Eindhoven or looking to join conversational Portuguese classes Eindhoven, her flexible format accommodates your schedule and learning preferences.
 ## Start Your Journey to Fluency Today
 
-Interested in learning Portuguese in Eindhoven? Barbara Sharon offers online Portuguese lessons for beginners and advanced learners alike. Contact her today to book a free trial lesson and begin your journey toward fluency with a native Portuguese teacher in Eindhoven.
+Interested in learning Portuguese in Eindhoven? Barbara Sharon offers online Portuguese lessons for beginners and advanced learners alike. Contact her today to book a Portuguese lesson and begin your journey toward fluency with a native Portuguese teacher in Eindhoven.

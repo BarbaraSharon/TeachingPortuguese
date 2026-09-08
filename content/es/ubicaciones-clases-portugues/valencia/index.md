@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Valencia. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Valencia está situada en Spain. Valencia forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Valencia, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Valencia forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Valencia está situada en Spain. Esta página mantiene la referencia local específica de Valencia, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Valencia: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Madrid; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Valencia: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -39,7 +39,7 @@ Aprender portugués en Valencia permite acceder a las variantes europea y brasil
 
 La posición estratégica de Valencia como gran ciudad portuaria refuerza sus conexiones con Brasil y Portugal. El Puerto de Valencia mantiene vínculos comerciales activos con Brasil, particularmente en sectores de agricultura, logística y energía. En 2023, el comercio bilateral entre España y Brasil alcanzó 11.800 millones de dólares, y Valencia desempeñó un papel clave como centro logístico para exportaciones como petróleo crudo, soja y maíz.
 
-La proximidad de la ciudad a Portugal también crea oportunidades para aprender portugués, en especial dados los vínculos históricos y económicos entre ambas regiones. Para quienes se interesan por clases de portugués brasileño en Valencia, comprender las diferencias entre portugués brasileño y europeo es esencial. Las ricas contribuciones culturales de Brasil en música, cine, literatura y estilos de comunicación cotidianos hacen que aprender el idioma resulte significativo y atractivo.
+La proximidad de la ciudad a Portugal también crea oportunidades para aprender portugués, en especial dados los vínculos históricos y económicos entre ambas regiones. Para quienes se interesan por clases de portugués brasileño en Valencia, comprender las diferencias entre portugués brasileño es esencial. Las ricas contribuciones culturales de Brasil en música, cine, literatura y estilos de comunicación cotidianos hacen que aprender el idioma resulte significativo y atractivo.
 
 ## Cómo puede ayudarte Barbara Sharon
 

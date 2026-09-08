@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Cork. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Cork is located in Ireland. Cork is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Cork while the teaching service remains online-first."
+local_context: "Cork is grouped in the Europe regional time zone used for scheduling. Cork is located in Ireland. This page keeps the local reference specific to Cork while the teaching service remains online-first."
 scheduling: "Scheduling from Cork: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Dublin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cork: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara's services cater to students who prefer one-on-one support or enjoy collaborative learning environments. With options for Brazilian Portuguese tutor cork and online Portuguese tutor cork, her classes are designed to accommodate diverse schedules and learning preferences. For those new to the language, beginner-friendly Portuguese lessons cork are available, while advanced learners can benefit from conversational Portuguese classes cork tailored to their proficiency level.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Cork? Contact Barbara Sharon for a free trial lesson and start your language journey today! With her expertise as a Brazilian Portuguese teacher cork, she helps students develop confidence and fluency in conversation, grammar, and culture. Whether you're seeking Portuguese lessons for beginners cork or looking for a native Portuguese teacher cork, Barbara's online platform makes it easy to access quality instruction from anywhere.
+Interested in learning Portuguese in Cork? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! With her expertise as a Brazilian Portuguese teacher cork, she helps students develop confidence and fluency in conversation, grammar, and culture. Whether you're seeking Portuguese lessons for beginners cork or looking for a native Portuguese teacher cork, Barbara's online platform makes it easy to access quality instruction from anywhere.

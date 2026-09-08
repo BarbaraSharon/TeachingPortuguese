@@ -199,6 +199,18 @@ function scalar(raw, key) {
   return value;
 }
 
+const answerPriceTokens = {
+  '[[term_10_week_price]]': 'A$290',
+  '[[private_4_week_price]]': 'A$260',
+};
+
+function resolveAnswerPriceTokens(value) {
+  return Object.entries(answerPriceTokens).reduce(
+    (resolved, [token, price]) => resolved.replaceAll(token, price),
+    value,
+  );
+}
+
 function decodeHtml(value) {
   const named = { amp: '&', quot: '"', apos: "'", '#39': "'", nbsp: ' ' };
   return value.replace(/&(?:#x([0-9a-f]+)|#(\d+)|(amp|quot|apos|#39|nbsp));/gi, (entity, hexadecimal, decimal, name) => {
@@ -263,7 +275,8 @@ for (const [language, config] of Object.entries(languages)) {
     const description = scalar(raw, 'description');
     const question = scalar(raw, 'question');
     const directAnswer = scalar(raw, 'direct_answer');
-    const wordCount = directAnswer.trim().split(/\s+/).length;
+    const renderedDirectAnswer = resolveAnswerPriceTokens(directAnswer);
+    const wordCount = renderedDirectAnswer.trim().split(/\s+/).length;
     const route = `/${language}/${config.section}/${slug}/`;
     const canonical = `${origin}${route}`;
 
@@ -272,6 +285,7 @@ for (const [language, config] of Object.entries(languages)) {
     assert.equal(title, expectedTitle, `${sourcePath}: title does not match the approved localized answer title`);
     assert.equal(question, expectedTitle, `${sourcePath}: question must match the H1`);
     assert.ok(description, `${sourcePath}: description is required`);
+    assert.ok(!renderedDirectAnswer.includes('[['), `${sourcePath}: direct answer contains an unresolved price token`);
     assert.ok(wordCount >= 40 && wordCount <= 80, `${sourcePath}: direct answer has ${wordCount} words; expected 40–80`);
     assert.match(raw, /^authors:\s*\[me\]$/m, `${sourcePath}: authors must be [me]`);
     assert.match(raw, /^date:\s*\d{4}-\d{2}-\d{2}$/m, `${sourcePath}: date is required`);
@@ -292,7 +306,7 @@ for (const [language, config] of Object.entries(languages)) {
     assert.equal(h1s.length, 1, `${outputPath}: expected exactly one H1`);
     assert.equal(normalize(h1s[0][1]), expectedTitle, `${outputPath}: rendered H1 is incorrect`);
     assert.match(html, /<\/h1>\s*<p\b[^>]*data-direct-answer[^>]*>/i, `${outputPath}: direct answer must immediately follow the H1`);
-    assert.ok(normalize(html).includes(directAnswer), `${outputPath}: direct answer is not visible`);
+    assert.ok(normalize(html).includes(renderedDirectAnswer), `${outputPath}: direct answer is not visible`);
     assertCanonical(html, canonical, outputPath);
     assert.match(html, /<meta\s+name=["']?robots["']?\s+content=["']?index, follow, max-image-preview:large["']?/i, `${outputPath}: robots meta is incorrect`);
     assert.ok(html.includes('data-pagefind-body'), `${outputPath}: Pagefind body marker is missing`);

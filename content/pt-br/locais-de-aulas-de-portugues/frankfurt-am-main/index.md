@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Frankfurt Am Main. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Frankfurt Am Main faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Frankfurt Am Main está localizada em Germany. Esta página mantém a referência local específica de Frankfurt Am Main, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Frankfurt Am Main faz parte do fuso horário regional de Europe usado para organizar horários. Frankfurt Am Main fica em Germany. Esta página mantém a referência local específica de Frankfurt Am Main, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Frankfurt Am Main: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Frankfurt Am Main: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,7 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português brasileiro e europeu em Frankfurt am Main | Aulas online
+## Aprenda português brasileiro em Frankfurt am Main | Aulas online
 
 Frankfurt am Main, onde vivem mais de 778.589 habitantes e mais de 51,2% das pessoas nasceram no exterior, é um polo internacional dinâmico que oferece oportunidades singulares para estudantes de idiomas. Como um importante centro financeiro europeu, é um lugar ideal para mergulhar na vibrante cultura de língua portuguesa do Brasil e de Portugal. Quer você queira ampliar sua rede profissional, conectar-se às comunidades locais ou explorar a riqueza da herança portuguesa, aprender português aqui abre portas para possibilidades empolgantes.
 
@@ -65,6 +65,6 @@ Barbara Sharon é especializada em aulas de português brasileiro em Frankfurt a
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Frankfurt am Main? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Quer você tenha interesse em conexões de negócios com o Brasil ou simplesmente queira apreciar a cultura portuguesa, a abordagem de Barbara torna o aprendizado agradável e eficaz.
+Tem interesse em aprender português em Frankfurt am Main? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Quer você tenha interesse em conexões de negócios com o Brasil ou simplesmente queira apreciar a cultura portuguesa, a abordagem de Barbara torna o aprendizado agradável e eficaz.
 
 Para mais informações sobre os serviços oferecidos, visite a página de [serviços](/pt-br/aulas-de-portugues/). Para entrar em contato, use o formulário de [contato](/pt-br/contato-professora-portugues/) para agendar sua primeira aula.

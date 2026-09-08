@@ -12,19 +12,20 @@ robots: index, follow, max-image-preview:large
 categories:
 - Serviços de ensino de português
 service:
-  service_type: Aulas particulares presenciais de português brasileiro
-  delivery: Gold Coast, Austrália
+  service_type: Aulas particulares de português brasileiro online e presenciais
+  delivery: Online para todo o mundo; presenciais na Gold Coast
+  delivery_modes: [online, in_person]
   audience: Alunos adultos iniciantes, intermediários e avançados; objetivos de negócios e viagens
   available_language: [pt-BR, en, es, it, fr]
 sections:
 - block: hero
   content:
-    eyebrow: Aulas particulares presenciais · Gold Coast
-    title: Aulas particulares presenciais de português na Gold Coast
-    text: Desenvolva confiança com aulas individuais e direcionadas de português brasileiro na Gold Coast. Seu nível, ritmo e objetivos orientam cada sessão.
+    eyebrow: Aulas particulares · online e Gold Coast
+    title: Aulas particulares de português brasileiro online e na Gold Coast
+    text: Desenvolva confiança com aulas individuais e direcionadas de português brasileiro online para todo o mundo ou na Gold Coast. Seu nível, ritmo e objetivos orientam cada sessão.
     primary_action:
       text: Pergunte sobre aulas particulares
-      url: /pt-br/contato-professora-portugues/
+      url: https://wa.me/61493837828?text=Oi%20Barbara%2C%20tenho%20interesse%20em%20aulas%20particulares%20de%20portugu%C3%AAs%20brasileiro.%20Meu%20n%C3%ADvel%20%C3%A9%2C%20meu%20objetivo%20%C3%A9%20e%20meu%20formato%20preferido%20%C3%A9%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -42,7 +43,7 @@ sections:
   content:
     subtitle: Aulas particulares
     title: Um caminho direcionado a partir do seu ponto de partida
-    text: As aulas particulares estão disponíveis presencialmente na Gold Coast e podem ser adaptadas para alunos adultos.
+    text: As aulas particulares estão disponíveis online para todo o mundo e presencialmente na Gold Coast, e podem ser adaptadas para alunos adultos.
     items:
     - name: Português para iniciantes
       icon: hero/academic-cap
@@ -91,6 +92,26 @@ sections:
     text: Fale com a Barbara sobre aulas particulares
     url: /pt-br/contato-professora-portugues/
     icon: hero/chat-bubble-left-right
+- block: lesson-pricing
+  id: lesson-pricing
+  content:
+    eyebrow: Aulas particulares
+    title: Aulas particulares de português brasileiro
+    text: Os preços atuais da Barbara valem para aulas online e na Gold Coast.
+    offers:
+    - id: private_4_week
+      title: Pacote de 4 aulas particulares
+      price_prefix: a partir de
+      text: Uma aula de 1 hora por semana durante 4 semanas. Fale com a Barbara para confirmar a opção atual e a disponibilidade.
+      url: /pt-br/contato-professora-portugues/
+    - id: private_casual
+      title: Aula avulsa
+      price_prefix: ""
+      text: Uma aula de 1 hora. Fale com a Barbara para consultar a disponibilidade e o preço de aulas de 1,5 ou 2 horas.
+      url: /pt-br/contato-professora-portugues/
+    action_text: Consultar disponibilidade
+    currency_note: Todos os preços estão em dólares australianos. Fale com a Barbara para confirmar a opção e a disponibilidade.
+
 - block: answer-links
   content:
     eyebrow: Antes de escolher

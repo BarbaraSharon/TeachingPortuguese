@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Cedar Creek com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Cedar Creek é uma localidade rural serena e pitoresca no norte da Gold Coast, oferecendo um ambiente ideal para o estudo focado de idiomas. Com uma população de cerca de 831 residentes, proporciona um ambiente tranquilo no qual os alunos podem mergulhar nos estudos de português sem distrações urbanas. Quer você procure uma professora de português em Cedar Creek, uma professora de português brasileiro em Cedar Creek ou aulas de português online em Cedar Creek, Barbara Sharon oferece ensino personalizado e adaptado aos seus objetivos específicos e nível de proficiência. Os alunos de Cedar Creek podem escolher aulas online ou participar de aulas presenciales na Gold Coast em um local adequado confirmado antes da reserva."
+local_context: "Cedar Creek faz parte do fuso horário regional de Gold Coast usado para organizar horários. Cedar Creek fica em Australia. Esta página mantém a referência local específica de Cedar Creek, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Cedar Creek: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cedar Creek: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,6 +57,6 @@ Os alunos de Cedar Creek podem frequentar aulas presenciais de português em Sur
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português em Cedar Creek? Entre em contato com Barbara Sharon hoje mesmo para uma aula experimental gratuita e descubra como é fácil começar a falar português brasileiro com confiança. Quer você procure uma professora de português perto de você em Cedar Creek ou queira participar de aulas de conversação em Cedar Creek, ela está aqui para orientar você em cada etapa do caminho.
+Pronto para aprender português em Cedar Creek? Entre em contato com Barbara Sharon hoje mesmo para uma aulas de português e descubra como é fácil começar a falar português brasileiro com confiança. Quer você procure uma professora de português perto de você em Cedar Creek ou queira participar de aulas de conversação em Cedar Creek, ela está aqui para orientar você em cada etapa do caminho.
 
 [Aulas](/pt-br/aulas-de-portugues/) | [Contato](/pt-br/contato-professora-portugues/)

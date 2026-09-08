@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Montreal. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Montreal está situada en Canada. Montreal forma parte del conjunto regional North America, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Montreal, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Montreal forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Montreal está situada en Canada. Esta página mantiene la referencia local específica de Montreal, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Montreal: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Montreal: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ La zona también ofrece excelentes oportunidades para quienes se interesan por l
 Además, la comunidad portuguesa de Montreal es activa y acogedora. Organizaciones como Clube Portugal de Montreal organizan eventos que celebran la herencia lusófona y ofrecen contextos reales para practicar. También puedes participar en grupos de encuentro brasileño-portugueses y festivales como Forró Montréal y Festival Portugal Internacional de Montreal.
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora cualificada de portugués con amplia experiencia en la enseñanza de portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL
@@ -52,7 +52,7 @@ Barbara Sharon es una profesora cualificada de portugués con amplia experiencia
 
 Barbara ayuda a comprender las diferencias entre el portugués brasileño y el europeo, el contexto cultural y las destrezas de conversación para relacionarse auténticamente con hablantes nativos. Como profesora de portugués en Montreal, ofrece sesiones particulares y grupales en línea, para que el alumnado de toda la ciudad acceda fácilmente a una enseñanza de calidad.
 
-Para más información, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/) para reservar una clase de prueba gratuita y descubrir cómo su enfoque puede apoyar tus metas.
+Para más información, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/) para reservar una clases de portugués y descubrir cómo su enfoque puede apoyar tus metas.
 
 ## La importancia global del portugués
 
@@ -66,6 +66,6 @@ Quienes estudian desde Montreal pueden aprovechar horarios flexibles y métodos 
 
 Las clases utilizan herramientas interactivas y recursos multimedia. Recibirás materiales adaptados a tus intereses y metas. Tanto si buscas conversación como clases para principiantes, la plataforma se adapta a tus necesidades. Con tutorías particulares y clases grupales, puedes elegir el formato que mejor se ajuste a tu estilo de vida.
 
-## Empieza con una clase de prueba gratuita
+## Empieza con una clases de portugués
 
-¿Te interesa aprender portugués en Montreal? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante total como si buscas avanzar, está aquí para acompañarte. Reserva tu sesión desde la página de [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Montreal? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante total como si buscas avanzar, está aquí para acompañarte. Reserva tu sesión desde la página de [contacto](/es/contacto-profesora-portugues/).

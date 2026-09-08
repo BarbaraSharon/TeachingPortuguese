@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Vancouver. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Vancouver is grouped in the North America location set used for local scheduling and learner guidance. Vancouver is located in Canada. This page keeps the local reference specific to Vancouver while the teaching service remains online-first."
+local_context: "Vancouver is grouped in the North America regional time zone used for scheduling. Vancouver is located in Canada. This page keeps the local reference specific to Vancouver while the teaching service remains online-first."
 scheduling: "Scheduling from Vancouver: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Vancouver: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ Brazil, home to the largest Portuguese-speaking population globally, offers a un
 Organizations like the Brazilian Community Association BC (BCA-BC) and Latincouver regularly host cultural events that offer practical language practice and real-world exposure to Portuguese-speaking communities.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a certified Portuguese teacher with extensive experience teaching both Brazilian and European Portuguese. Her qualifications include:
+Barbara Sharon is a certified Portuguese teacher with extensive experience teaching Brazilian Portuguese. Her qualifications include:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, Spanish

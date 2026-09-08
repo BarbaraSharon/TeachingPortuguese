@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Oslo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Oslo. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Oslo está localizada em Norway. Oslo faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Oslo, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Oslo faz parte do fuso horário regional de Europe usado para organizar horários. Oslo fica em Norway. Esta página mantém a referência local específica de Oslo, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Oslo: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Oslo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Oslo: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -33,7 +33,7 @@ editorial_reviewed: true
 
 Oslo, a vibrante capital da Noruega, abriga uma crescente comunidade brasileira e de língua portuguesa. Com mais de 30% dos residentes nascidos no exterior em 2022, Oslo oferece um ambiente inclusivo para a aprendizagem de idiomas e o intercâmbio cultural. A rica diversidade da cidade faz dela um lugar ideal para mergulhar na cultura brasileira enquanto você aprimora suas habilidades em português.
 
-Barbara Sharon oferece aulas de português online de alta qualidade, adaptadas a estudantes em Oslo. Quer você seja iniciante ou queira aprimorar suas habilidades de conversação, suas aulas particulares e em grupo oferecem uma flexibilidade que se encaixa em qualquer agenda ocupada. Explore mais sobre [aulas de português perto de Oslo](/pt-br/aulas-de-portugues/) e agende uma aula experimental gratuita hoje.
+Barbara Sharon oferece aulas de português online de alta qualidade, adaptadas a estudantes em Oslo. Quer você seja iniciante ou queira aprimorar suas habilidades de conversação, suas aulas particulares e em grupo oferecem uma flexibilidade que se encaixa em qualquer agenda ocupada. Explore mais sobre [aulas de português perto de Oslo](/pt-br/aulas-de-portugues/) e agende uma aulas de português hoje.
 
 ## Por que aprender português em Oslo?
 
@@ -77,6 +77,6 @@ Para residentes de Oslo, aulas online oferecem flexibilidade e conveniência inc
 
 Seus métodos interativos de ensino e recursos multimídia tornam a aprendizagem envolvente e eficaz. Os estudantes recebem materiais personalizados, adaptados aos seus interesses e objetivos. Aprenda português em Oslo com uma professora qualificada por meio de [aulas de português](/pt-br/aulas-de-portugues/).
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Você está pronto para começar sua jornada de aprendizagem de português em Oslo? Entre em contato com Barbara Sharon para uma aula experimental gratuita e conheça como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou tenha como objetivo melhorar sua fluência, ela está aqui para apoiar seu caminho de aprendizagem. Saiba mais sobre [aulas de português perto de Oslo](/pt-br/aulas-de-portugues/) e [entre em contato com a professora](/pt-br/contato-professora-portugues/).
+Você está pronto para começar sua jornada de aprendizagem de português em Oslo? Entre em contato com Barbara Sharon para uma aulas de português e conheça como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou tenha como objetivo melhorar sua fluência, ela está aqui para apoiar seu caminho de aprendizagem. Saiba mais sobre [aulas de português perto de Oslo](/pt-br/aulas-de-portugues/) e [entre em contato com a professora](/pt-br/contato-professora-portugues/).

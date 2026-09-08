@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Philadelphia. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Philadelphia is located in United States. Philadelphia is grouped in the North America location set used for local scheduling and learner guidance. This page keeps the local reference specific to Philadelphia while the teaching service remains online-first."
+local_context: "Philadelphia is grouped in the North America regional time zone used for scheduling. Philadelphia is located in United States. This page keeps the local reference specific to Philadelphia while the teaching service remains online-first."
 scheduling: "Scheduling from Philadelphia: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Philadelphia: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Brazilian & European Portuguese in Philadelphia
+## Learn Brazilian Portuguese in Philadelphia
 
 Philadelphia, a bustling American city with over 1.5 million residents, offers an exciting environment for language learners to immerse themselves in the rich cultures of Brazil and Portugal. With approximately 5,360 Brazilian-born residents and more than 3,093 Portuguese-born individuals, Philadelphia hosts one of the largest Portuguese-speaking communities in Pennsylvania. This thriving community creates a unique opportunity for learners to connect with authentic Brazilian and European Portuguese experiences.
 
@@ -44,7 +44,7 @@ Brazil, home to the largest Portuguese-speaking population globally, provides in
 Philadelphia’s vibrant Portuguese communities organize cultural celebrations such as Brazilian Day and Portugal Day, offering immersive experiences that enhance your language learning journey. Events like capoeira performances, traditional music shows, and food festivals provide natural opportunities to practice your Portuguese skills in real-life settings.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a certified Portuguese language instructor with deep expertise in both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a certified Portuguese language instructor with deep expertise in Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, and Spanish

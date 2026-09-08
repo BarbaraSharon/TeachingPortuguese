@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Nuremberg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Nuremberg is grouped in the Europe location set used for local scheduling and learner guidance. Nuremberg is located in Germany. This page keeps the local reference specific to Nuremberg while the teaching service remains online-first."
+local_context: "Nuremberg is grouped in the Europe regional time zone used for scheduling. Nuremberg is located in Germany. This page keeps the local reference specific to Nuremberg while the teaching service remains online-first."
 scheduling: "Scheduling from Nuremberg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Nuremberg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Portuguese in Nuremberg - Brazilian & European Portuguese Lessons
+## Learn Portuguese in Nuremberg - Brazilian Portuguese Lessons
 
 Nuremberg is a vibrant city in Bavaria, Germany, known for its rich cultural heritage and diverse community. With a population of over 544,000 residents, the area hosts a growing number of international expatriates, including Portuguese and Brazilian speakers. The presence of organizations like the Associação Portuguesa De Nuremberg and various InterNations events shows an active Portuguese community in the city. There are 466 Portuguese language speakers reported in Nuremberg, reflecting the city's multicultural environment.
 
@@ -42,7 +42,7 @@ Nuremberg's multicultural environment provides an ideal setting for learning Por
 The area also presents excellent business links with Brazil, especially in sectors such as pharmaceuticals, cosmetics, and biotechnology. These connections make Brazilian Portuguese particularly valuable for international communication in fields like healthcare and education, where Nuremberg's institutions are active. NürnbergMesse Brasil facilitates business connections through trade fairs and events in these key industries.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -60,8 +60,8 @@ Learning Portuguese in Nuremberg gives you access to a rich linguistic tradition
 ## Online Portuguese Lessons in Nuremberg
 
 Online private and group Portuguese lessons are available in Nuremberg through Barbara Sharon. These sessions use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, whether you're starting from scratch or aiming to improve your conversational skills. Her platform offers Brazilian Portuguese tutor Nuremberg services and private Portuguese tutor Nuremberg options for learners of all levels.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Nuremberg? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
+Interested in learning Portuguese in Nuremberg? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 Find out more about the [services](/en/portuguese-teaching-services/)she offers or reach out via the [contact page](/en/contact-portuguese-teacher/)to get started today.

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Dublin. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Dublin está situada en Ireland. Dublin forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Dublin, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Dublin forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Dublin está situada en Ireland. Esta página mantiene la referencia local específica de Dublin, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Dublin: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Dublin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Dublin: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Como profesora de portugués en Dublín, proporciona clases individuales y en gr
 
 Aprender portugués en Dublín te conecta con una comunidad creciente de hablantes y eventos culturales que enriquecen tu experiencia de aprendizaje. Tanto si te interesan clases de portugués brasileño en Dublín como clases generales de portugués, Barbara Sharon está aquí para acompañar tu recorrido.
 
-¿Listo para empezar? Contacta con Barbara Sharon para una clase de prueba gratuita y descubre cómo la tutoría de portugués en línea eficaz en Dublín puede mejorar tus habilidades y confianza. ¡Aprende hoy portugués en Dublín con una hablante nativa cualificada y experta cultural!
+¿Listo para empezar? Contacta con Barbara Sharon para una clases de portugués y descubre cómo la tutoría de portugués en línea eficaz en Dublín puede mejorar tus habilidades y confianza. ¡Aprende hoy portugués en Dublín con una hablante nativa cualificada y experta cultural!

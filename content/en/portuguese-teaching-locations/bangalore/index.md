@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bangalore. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bangalore is grouped in the Asia location set used for local scheduling and learner guidance. Bangalore is located in India. This page keeps the local reference specific to Bangalore while the teaching service remains online-first."
+local_context: "Bangalore is grouped in the Asia regional time zone used for scheduling. Bangalore is located in India. This page keeps the local reference specific to Bangalore while the teaching service remains online-first."
 scheduling: "Scheduling from Bangalore: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Kolkata; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bangalore: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -54,6 +54,6 @@ Barbara Sharon provides flexible lesson formats including one-on-one private cla
 As a trusted Portuguese teacher in Bangalore, she delivers instruction through online platforms, ensuring convenience and accessibility for students across the city. Learn Portuguese in Bangalore with a native speaker who understands both the language and its cultural nuances. Whether you're interested in structured lessons or casual conversation practice, Barbara’s teaching approach is designed to meet your individual needs.
 ## Start Your Portuguese Journey Today
 
-Ready to begin learning Brazilian Portuguese in Bangalore? Contact Barbara Sharon today for a free trial lesson and take the first step toward mastering one of the world's most dynamic languages. With online Portuguese tutor options available, learning Portuguese has never been more accessible or engaging.
+Ready to begin learning Brazilian Portuguese in Bangalore? Contact Barbara Sharon today for a Portuguese lesson and take the first step toward mastering one of the world's most dynamic languages. With online Portuguese tutor options available, learning Portuguese has never been more accessible or engaging.
 
 Whether you’re aiming for career advancement, travel experiences, or personal enrichment, studying Portuguese in Bangalore with Barbara Sharon will open new doors to Brazilian culture and global opportunities. [Get in touch now](/en/contact-portuguese-teacher/)to start your journey!

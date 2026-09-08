@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Karlsruhe. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Karlsruhe is grouped in the Europe location set used for local scheduling and learner guidance. Karlsruhe is located in Germany. This page keeps the local reference specific to Karlsruhe while the teaching service remains online-first."
+local_context: "Karlsruhe is grouped in the Europe regional time zone used for scheduling. Karlsruhe is located in Germany. This page keeps the local reference specific to Karlsruhe while the teaching service remains online-first."
 scheduling: "Scheduling from Karlsruhe: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Karlsruhe: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Karlsruhe has a growing Brazilian community, which makes it an excellent environ
 The presence of organizations like Conexão KulturA , Forró in Karlsruhe e.V. , and Brazil Events further enriches the cultural experience, offering learners opportunities to connect with native speakers and engage in real-world language practice. Additionally, knowing Portuguese can open doors in business and travel-especially since Germany is Portugal's second-largest trading partner. This makes learning Brazilian Portuguese particularly relevant for professionals in healthcare, education, and international business.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a highly qualified instructor with extensive experience teaching both Brazilian and European Portuguese . Her educational background includes:
+Barbara Sharon is a highly qualified instructor with extensive experience teaching Brazilian Portuguese . Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, and Spanish
@@ -59,9 +59,9 @@ Learning Portuguese in Karlsruhe gives you access to a linguistic heritage that 
 
 Barbara Sharon offers engaging online Portuguese lessons that are perfect for learners anywhere in the world. Using interactive multimedia tools, personalized materials, and a focus on real-life communication, she ensures each session is both educational and enjoyable.
 
-Whether you're just starting out or aiming to improve your speaking skills, Barbara customizes her curriculum to match your interests and goals. To learn more about her teaching services, visit our [Services](/en/portuguese-teaching-services/)page. Or, get started with a [free trial lesson](/en/contact-portuguese-teacher/)and see how her approach can help you achieve your language objectives.
-## Contact for a Free Trial Lesson
+Whether you're just starting out or aiming to improve your speaking skills, Barbara customizes her curriculum to match your interests and goals. To learn more about her teaching services, visit our [Services](/en/portuguese-teaching-services/)page. Or, get started with a [Portuguese lesson](/en/contact-portuguese-teacher/)and see how her approach can help you achieve your language objectives.
+## Contact for a Portuguese Lesson
 
-Ready to begin your journey in learning Portuguese in Karlsruhe? Contact Barbara Sharon today for a free trial lesson and discover how her teaching style supports your personal goals. Whether you're a complete beginner or looking to enhance your existing skills, she's here to guide you every step of the way.
+Ready to begin your journey in learning Portuguese in Karlsruhe? Contact Barbara Sharon today for a Portuguese lesson and discover how her teaching style supports your personal goals. Whether you're a complete beginner or looking to enhance your existing skills, she's here to guide you every step of the way.
 
 Find out more about [Portuguese lessons near Karlsruhe](/en/portuguese-teaching-services/), including options for Brazilian Portuguese teacher Karlsruhe and private Portuguese tutor Karlsruhe.

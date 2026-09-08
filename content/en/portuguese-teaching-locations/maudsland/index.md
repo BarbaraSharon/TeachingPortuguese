@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Maudsland with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Maudsland is a peaceful, semi-rural suburb located in the Gold Coast hinterland, known for its spacious properties and family-friendly atmosphere. With a population of 8,073 as of the 2021 census, the area has a diverse community, with 35.1% of residents born overseas. This international character makes it an ideal place for Portuguese learners to connect with different cultures and languages. Learners in Maudsland can choose online lessons or attend in-person Gold Coast classes at a suitable venue confirmed before booking."
+local_context: "Maudsland is grouped in the Gold Coast regional time zone used for scheduling. Maudsland is located in Australia. This page keeps the local reference specific to Maudsland while the teaching service remains online-first."
 scheduling: "Scheduling from Maudsland: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Maudsland: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -44,7 +44,7 @@ Learning Portuguese in Maudsland gives you access to a rich linguistic tradition
 Whether you are a complete beginner or aiming for fluency, you can take advantage of flexible [Portuguese lessons for beginners maudsland](/en/portuguese-teaching-services/), or join a [Conversational Portuguese classes maudsland](/en/portuguese-teaching-services/)to build confidence in speaking. "Aprender português é como abrir uma porta para o mundo." (Learning Portuguese is like opening a door to the world.)
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -63,6 +63,6 @@ As the world's fifth-most spoken language, Portuguese is an important global lin
 Students in Maudsland can benefit from flexible scheduling and interactive learning methods that make language acquisition engaging and effective. Online private and group Portuguese lessons are available worldwide, allowing you to learn at your own pace from the comfort of your home.
 
 Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals. Whether you're a beginner or aiming for fluency, our approach ensures a personalized and dynamic learning experience. Explore [Portuguese lessons near maudsland](/en/portuguese-teaching-services/)or find a [Portuguese tutor near me maudsland](/en/contact-portuguese-teacher/)through our service.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Maudsland? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. Learn Portuguese with a qualified [Portuguese teacher maudsland](/en/contact-portuguese-teacher/), or explore available [Portuguese lessons maudsland](/en/portuguese-teaching-services/).
+Interested in learning Portuguese in Maudsland? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. Learn Portuguese with a qualified [Portuguese teacher maudsland](/en/contact-portuguese-teacher/), or explore available [Portuguese lessons maudsland](/en/portuguese-teaching-services/).

@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Lausanne. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Lausanne está situada en Switzerland. Lausanne forma parte del conjunto regional Europe, que se utiliza para orientar horarios y objetivos de aprendizaje. Esta página mantiene la referencia local específica de Lausanne, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Lausanne forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Lausanne está situada en Switzerland. Esta página mantiene la referencia local específica de Lausanne, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Lausanne: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Zurich; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Lausanne: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -43,7 +43,7 @@ El portugués brasileño es particularmente valioso para comprender el idioma ut
 
 ## Cómo puede ayudarte Barbara Sharon
 
-Barbara Sharon es una profesora de portugués cualificada con amplia experiencia enseñando portugués brasileño y europeo. Su formación incluye:
+Barbara Sharon es una profesora de portugués cualificada con amplia experiencia enseñando portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura - Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

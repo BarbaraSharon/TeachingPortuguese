@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Nerang. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Nerang está localizada em Australia. Nerang faz parte do conjunto regional Australia & New Zealand usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Nerang, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Nerang faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Nerang fica em Australia. Esta página mantém a referência local específica de Nerang, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Nerang: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Nerang: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -49,7 +49,7 @@ Barbara Sharon é uma professora de língua portuguesa apaixonada e experiente, 
 - Conselheira
 - Mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
 
-Ela é especializada no ensino de português brasileiro e europeu, ajudando estudantes a compreender as nuances entre os dialetos e a apreciar os contextos culturais que moldam o uso do idioma. Quer você seja iniciante ou tenha como objetivo a fluência, Barbara oferece formatos flexíveis de aprendizagem, incluindo:
+Ela é especializada no ensino de português brasileiro, ajudando estudantes a compreender as nuances entre os dialetos e a apreciar os contextos culturais que moldam o uso do idioma. Quer você seja iniciante ou tenha como objetivo a fluência, Barbara oferece formatos flexíveis de aprendizagem, incluindo:
 
 - Aulas particulares individuais
 - Aulas em grupo para estudantes que gostam de socializar
@@ -70,8 +70,8 @@ Quer flexibilidade? Aproveite aulas de português online no conforto da sua casa
 
 Quer você seja iniciante absoluto ou queira aperfeiçoar sua fluência, nossas aulas são adaptadas aos seus interesses e ritmo de aprendizagem. Explore nossas [aulas de português](/pt-br/aulas-de-portugues/) para mais informações sobre aulas de português brasileiro em Nerang e opções de tutoria particular de português em Nerang.
 
-## Entre em contato para uma aula experimental gratuita
+## Entre em contato para uma aulas de português
 
-Você está pronto para começar sua jornada de aprendizagem de português? Entre em contato com Barbara Sharon hoje para uma aula experimental gratuita e conheça de perto sua abordagem de ensino única. Quer você esteja começando do zero ou tenha como objetivo avançar suas habilidades, ela está aqui para orientar você.
+Você está pronto para começar sua jornada de aprendizagem de português? Entre em contato com Barbara Sharon hoje para uma aulas de português e conheça de perto sua abordagem de ensino única. Quer você esteja começando do zero ou tenha como objetivo avançar suas habilidades, ela está aqui para orientar você.
 
 Descubra mais sobre a variedade de [aulas de português perto de Nerang](/pt-br/aulas-de-portugues/), incluindo ensino adequado para iniciantes e aulas focadas em conversação. Entre em contato agora pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão.

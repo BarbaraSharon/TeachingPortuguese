@@ -4,7 +4,7 @@ translationKey: answer-portuguese-lesson-cost-australia
 type: answers
 description: "Conoce qué influye en el precio de las clases de portugués en Australia y cómo comparar formatos privados, grupales y online."
 question: "¿Cuánto cuestan las clases de portugués en Australia?"
-direct_answer: "El precio de las clases de portugués en Australia varía según el formato privado o grupal, la duración, la experiencia docente, la ubicación y lo incluido entre sesiones. Compara la propuesta completa, no solo una tarifa por hora: tiempo en directo, correcciones, materiales, tamaño del grupo, cancelaciones y frecuencia. Pide siempre el precio actual antes de decidir."
+direct_answer: "Los precios actuales de Barbara parten de [[term_10_week_price]] por estudiante para un curso grupal de 10 semanas y de [[private_4_week_price]] para un paquete privado de 4 semanas. Ambas opciones están disponibles online en todo el mundo y dependen de la disponibilidad actual en Gold Coast. Todos los precios están en dólares australianos; confirma el paquete y sus detalles con Barbara antes de reservar."
 authors: [me]
 date: 2026-08-20
 lastmod: 2026-08-26
@@ -61,8 +61,18 @@ Así podrás comparar propuestas sin depender de una tarifa antigua publicada en
 
 Una persona que prepara un viaje puede valorar más los juegos de rol y las correcciones de pronunciación. Un principiante quizá necesite una secuencia clara y comentarios regulares. Quien mantiene su nivel conversacional puede preferir un grupo con diferentes interlocutores. La guía sobre [clases privadas o grupales](/es/respuestas/clases-portugues-privadas-o-grupales/) ayuda a escoger el formato antes de pedir precios.
 
-## Consultar precios actuales con Barbara
+## Precios actuales de Barbara
 
-Barbara ofrece [clases de portugués online](/es/servicios-clases-portugues/clases-portugues-online/) en directo para adultos de todo el mundo, en formatos privados y grupales. Las opciones presenciales en Gold Coast dependen de la disponibilidad actual. Como precios, horarios y formatos pueden cambiar, esta página no publica una cifra fija sin confirmar.
+Los precios iniciales actuales de Barbara son:
+
+- Curso grupal de 1 hora — curso de 10 semanas, una clase por semana: desde {{< lesson-price "term_10_week" >}} por estudiante y curso.
+- Curso grupal de 1,5 horas — curso de 10 semanas, una clase por semana: {{< lesson-price "term_10_week_1_5_hour" >}} por estudiante y curso.
+- Libro digital: desde {{< lesson-price "book_digital" >}}. Libro impreso: {{< lesson-price "book_hard_copy" >}}.
+- Paquete privado de 4 clases — una clase de 1 hora por semana durante cuatro semanas: desde {{< lesson-price "private_4_week" >}}.
+- Clase particular suelta — una hora: {{< lesson-price "private_casual" >}} por clase.
+- Para clases particulares de 1,5 o 2 horas, contacta con Barbara para consultar disponibilidad y precio.
+- Club de conversación: {{< lesson-price "speaking_club_enrolled" >}} para estudiantes matriculados y {{< lesson-price "speaking_club_non_enrolled" >}} por sesión para estudiantes no matriculados.
+
+Todos los precios están en dólares australianos. Las [clases de portugués online](/es/servicios-clases-portugues/clases-portugues-online/) están disponibles en todo el mundo, y las opciones presenciales en Gold Coast dependen de la disponibilidad actual. Contacta con Barbara para confirmar el paquete y sus detalles antes de reservar.
 
 Al [contactar con Barbara](/es/contacto-profesora-portugues/), indica tu nivel, objetivo, ciudad o zona horaria, formato preferido y disponibilidad general para consultar la opción correspondiente y su precio actual.

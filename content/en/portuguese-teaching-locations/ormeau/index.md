@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Ormeau. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Ormeau is located in Australia. Ormeau is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Ormeau while the teaching service remains online-first."
+local_context: "Ormeau is grouped in the Australia & New Zealand regional time zone used for scheduling. Ormeau is located in Australia. This page keeps the local reference specific to Ormeau while the teaching service remains online-first."
 scheduling: "Scheduling from Ormeau: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Ormeau: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ The multicultural nature of Ormeau allows learners to immerse themselves in a co
 For those interested in business or travel opportunities between Australia and Brazil, learning Portuguese offers significant advantages. Brazilian Portuguese is widely used in international business contexts, especially within healthcare, education, and tourism sectors, which are prominent in the Gold Coast region. Whether you're looking to enhance your career prospects or prepare for travel, studying Portuguese in Ormeau provides practical benefits.
 ## How Barbara Sharon can help
 
-Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Speaks Portuguese, English, Italian, Spanish
@@ -62,6 +62,6 @@ Learning Portuguese in Ormeau gives you access to a rich linguistic tradition th
 Online private and group Portuguese lessons are available in Ormeau. Whether you're a complete beginner or looking to advance your skills, our online lessons use interactive tools and multimedia resources to make learning engaging and effective.
 
 You'll receive materials tailored to your specific interests and learning goals, ensuring that each lesson is relevant and impactful. With flexible scheduling options, you can fit Portuguese study into your busy life no matter where you are in Ormeau. Whether you're searching for a Brazilian Portuguese tutor ormeau , a Portuguese teacher near me ormeau, or Portuguese lessons for beginners ormeau, our online format makes learning accessible and convenient.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Ormeau? Contact Barbara Sharon for a free trial lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. Learn Portuguese in ormeau with a qualified native Portuguese teacher ormeau today.
+Interested in learning Portuguese in Ormeau? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. Learn Portuguese in ormeau with a qualified native Portuguese teacher ormeau today.

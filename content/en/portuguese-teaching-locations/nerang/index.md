@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Nerang. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Nerang is located in Australia. Nerang is grouped in the Australia & New Zealand location set used for local scheduling and learner guidance. This page keeps the local reference specific to Nerang while the teaching service remains online-first."
+local_context: "Nerang is grouped in the Australia & New Zealand regional time zone used for scheduling. Nerang is located in Australia. This page keeps the local reference specific to Nerang while the teaching service remains online-first."
 scheduling: "Scheduling from Nerang: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Nerang: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -47,7 +47,7 @@ Barbara Sharon is a passionate and experienced Portuguese language instructor wh
 - Counsellor
 - Master’s in Educational Studies & Behaviour Management (in progress)
 
-She specialises in teaching both Brazilian and European Portuguese, helping students understand the nuances between dialects and appreciate cultural contexts that shape how the language is used. Whether you’re a beginner or aiming for fluency, Barbara offers flexible learning formats including:
+She specialises in teaching Brazilian Portuguese, helping students understand the nuances between dialects and appreciate cultural contexts that shape how the language is used. Whether you’re a beginner or aiming for fluency, Barbara offers flexible learning formats including:
 - One-on-one private lessons
 - Group classes for social learners
 - Speaking clubs for practice in a supportive environment
@@ -64,8 +64,8 @@ Whether you're interested in becoming a Portuguese tutor nerang, taking beginner
 Want flexibility? Take advantage of online Portuguese classes from the comfort of your home, whether you're based in Nerang or elsewhere. Our interactive platform supports multimedia content and engaging tools that make every lesson dynamic and effective.
 
 Whether you’re a complete beginner or looking to refine your fluency, our lessons are tailored to match your interests and learning pace. Explore our [services](/en/portuguese-teaching-services/)for more information on Brazilian Portuguese lessons nerang and private Portuguese tutor nerang options.
-## Contact for a Free Trial Lesson
+## Contact for a Portuguese Lesson
 
-Ready to begin your journey in learning Portuguese? Contact Barbara Sharon today for a free trial lesson and experience her unique teaching approach firsthand. Whether you're starting from scratch or aiming to advance your skills, she’s here to guide you.
+Ready to begin your journey in learning Portuguese? Contact Barbara Sharon today for a Portuguese lesson and experience her unique teaching approach firsthand. Whether you're starting from scratch or aiming to advance your skills, she’s here to guide you.
 
 Discover more about the range of [Portuguese lessons near Nerang](/en/portuguese-teaching-services/), including beginner-friendly instruction and conversation-focused classes. Get in touch now through our [Contact](/en/contact-portuguese-teacher/)page to book your session.

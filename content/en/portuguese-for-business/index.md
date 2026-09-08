@@ -204,7 +204,7 @@ All my business courses are available online via Zoom, with professional-quality
 
 The business course emphasizes workplace vocabulary, professional communication styles, cultural competence for corporate settings, and practical scenarios you'll encounter in your career. General Portuguese courses focus more on everyday conversation and social interactions.
 
-[Explore All Portuguese Services](/en/portuguese-teaching-services/)[Book Your Free Consultation](/en/contact-portuguese-teacher/)
+[Explore All Portuguese Services](/en/portuguese-teaching-services/)[Contact Barbara about lesson options](/en/contact-portuguese-teacher/)
 ## "Aprender é viver!" (Learning is living!)
 
 Invest in your professional future with Portuguese for Business. Whether you're expanding into new markets, building international relationships, or advancing your career, the ability to communicate in Portuguese gives you a decisive competitive advantage.

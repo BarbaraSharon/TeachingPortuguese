@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Broadbeach con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Broadbeach es un vibrante suburbio costero de Gold Coast, conocido por sus impresionantes playas, animados centros comerciales y escena gastronómica multicultural. Con una población diversa de 8.655 habitantes y una importante comunidad nacida en el extranjero del 49,0 %, Broadbeach ofrece un entorno inclusivo y acogedor. Según el censo australiano de 2016, aproximadamente el 1,7 % de la población de Broadbeach hablaba portugués en casa: alrededor de 115 hablantes según la cifra de población de 2021 de 6.786 personas. El alumnado de Broadbeach puede elegir clases online o asistir a clases presenciales en Gold Coast en un lugar adecuado confirmado antes de reservar."
+local_context: "Broadbeach forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Broadbeach está situada en Australia. Esta página mantiene la referencia local específica de Broadbeach, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Broadbeach: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Broadbeach: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,6 +57,6 @@ Las clases particulares proporcionan atención individual adaptada a objetivos e
 
 ## Empieza hoy tu camino hacia la fluidez en portugués brasileño
 
-¿Listo para iniciar tu recorrido de aprendizaje de portugués en Broadbeach? Contacta con Barbara Sharon para una clase de prueba gratuita y da el primer paso para dominar portugués brasileño. Tanto si te interesan una profesora de portugués brasileño, clases de conversación o clases generales de portugués en Broadbeach, ofrece enseñanza personalizada para tu estilo de vida y objetivos.
+¿Listo para iniciar tu recorrido de aprendizaje de portugués en Broadbeach? Contacta con Barbara Sharon para una clases de portugués y da el primer paso para dominar portugués brasileño. Tanto si te interesan una profesora de portugués brasileño, clases de conversación o clases generales de portugués en Broadbeach, ofrece enseñanza personalizada para tu estilo de vida y objetivos.
 
 Con una creciente comunidad brasileña y emocionantes eventos culturales frecuentes en la zona, ahora es un excelente momento para comenzar tu aventura lingüística. Visita hoy [Contacto](/es/contacto-profesora-portugues/) para reservar tu sesión o conocer más sobre cómo Barbara puede ayudarte a lograr fluidez en portugués.

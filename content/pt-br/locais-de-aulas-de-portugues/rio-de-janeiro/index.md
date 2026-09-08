@@ -17,7 +17,7 @@ region_group: "South America"
 time_zone: "America/Sao_Paulo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Rio De Janeiro. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Rio De Janeiro está localizada em Brazil. Rio De Janeiro faz parte do conjunto regional South America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Rio De Janeiro, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Rio De Janeiro faz parte do fuso horário regional de South America usado para organizar horários. Rio De Janeiro fica em Brazil. Esta página mantém a referência local específica de Rio De Janeiro, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Rio De Janeiro: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Sao_Paulo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Rio De Janeiro: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

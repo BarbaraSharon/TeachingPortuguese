@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bonn. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bonn is located in Germany. Bonn is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Bonn while the teaching service remains online-first."
+local_context: "Bonn is grouped in the Europe regional time zone used for scheduling. Bonn is located in Germany. This page keeps the local reference specific to Bonn while the teaching service remains online-first."
 scheduling: "Scheduling from Bonn: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bonn: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ All lessons are conducted online, offering flexibility for students living in Bo
 Whether you’re looking for beginner-friendly Portuguese lessons Bonn or advanced conversational Portuguese classes bonn, Barbara’s adaptable teaching style ensures that each student receives the right level of support. Her curriculum includes natural communication techniques, so students gain confidence using Portuguese in everyday situations.
 ## Start Your Portuguese Journey Today in Bonn
 
-Discover the joy and benefits of learning Portuguese in Bonn with Barbara Sharon. As a native speaker and experienced instructor, she provides expert guidance for students seeking Brazilian Portuguese lessons bonn or online Portuguese tutor bonn support. Schedule a free trial lesson to begin your journey and connect with the vibrant cultural community in Bonn.
+Discover the joy and benefits of learning Portuguese in Bonn with Barbara Sharon. As a native speaker and experienced instructor, she provides expert guidance for students seeking Brazilian Portuguese lessons bonn or online Portuguese tutor bonn support. Schedule a Portuguese lesson to begin your journey and connect with the vibrant cultural community in Bonn.

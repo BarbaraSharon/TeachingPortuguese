@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Dublin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Dublin is located in Ireland. Dublin is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Dublin while the teaching service remains online-first."
+local_context: "Dublin is grouped in the Europe regional time zone used for scheduling. Dublin is located in Ireland. This page keeps the local reference specific to Dublin while the teaching service remains online-first."
 scheduling: "Scheduling from Dublin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Dublin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Dublin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ As a Portuguese teacher in Dublin, she offers both one-on-one and small group se
 
 Learning Portuguese in Dublin gives you access to a growing community of speakers and cultural events that enrich your learning experience. Whether you're interested in Brazilian Portuguese lessons in Dublin or general Portuguese classes, Barbara Sharon is here to support your journey.
 
-Ready to begin? Contact Barbara Sharon for a free trial lesson and discover how effective online Portuguese tutoring in Dublin can boost your language skills and confidence. Learn Portuguese in Dublin with a qualified native speaker and cultural expert today!
+Ready to begin? Contact Barbara Sharon for a Portuguese lesson and discover how effective online Portuguese tutoring in Dublin can boost your language skills and confidence. Learn Portuguese in Dublin with a qualified native speaker and cultural expert today!

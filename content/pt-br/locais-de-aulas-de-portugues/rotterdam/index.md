@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Rotterdam. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Rotterdam faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Rotterdam está localizada em Netherlands. Esta página mantém a referência local específica de Rotterdam, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Rotterdam faz parte do fuso horário regional de Europe usado para organizar horários. Rotterdam fica em Netherlands. Esta página mantém a referência local específica de Rotterdam, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Rotterdam: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Rotterdam: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,11 +29,11 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Roterdã - aulas online de português brasileiro e europeu
+## Aprenda português em Roterdã - aulas online de português brasileiro
 
-Roterdã, uma cidade com mais de 1 milhão de residentes e aproximadamente 50% da população com histórico migratório, oferece um ambiente multicultural vibrante para aprender português. Essa comunidade diversificada inclui falantes de português brasileiro e europeu, criando oportunidades de praticar o idioma em situações reais. O caráter internacional da cidade faz dela um lugar ideal para explorar a rica herança linguística do Brasil e de Portugal.
+Roterdã, uma cidade com mais de 1 milhão de residentes e aproximadamente 50% da população com histórico migratório, oferece um ambiente multicultural vibrante para aprender português. Essa comunidade diversificada inclui falantes de português brasileiro, criando oportunidades de praticar o idioma em situações reais. O caráter internacional da cidade faz dela um lugar ideal para explorar a rica herança linguística do Brasil e de Portugal.
 
-Há aulas de português online, particulares e em grupo, disponíveis em Roterdã com Barbara Sharon, oferecendo opções flexíveis para alunos de todos os níveis. Quer você tenha interesse em português brasileiro ou europeu, nossas sessões online são adaptadas às suas necessidades e objetivos específicos. Com foco em habilidades de conversação e percepções culturais, essas aulas de português em Roterdã atendem tanto iniciantes quanto falantes avançados.
+Há aulas de português online, particulares e em grupo, disponíveis em Roterdã com Barbara Sharon, oferecendo opções flexíveis para alunos de todos os níveis. Quer você tenha interesse em português brasileiro, nossas sessões online são adaptadas às suas necessidades e objetivos específicos. Com foco em habilidades de conversação e percepções culturais, essas aulas de português em Roterdã atendem tanto iniciantes quanto falantes avançados.
 
 ## Por que aprender português em Roterdã?
 
@@ -45,7 +45,7 @@ Roterdã também mantém conexões comerciais significativas com Portugal, facil
 
 ## Como Barbara Sharon pode ajudar
 
-Barbara Sharon é uma professora particular qualificada de português na Gold Coast, com ampla experiência no ensino de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora particular qualificada de português na Gold Coast, com ampla experiência no ensino de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL

@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Osaka. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Osaka forma parte del conjunto regional Asia, que se utiliza para orientar horarios y objetivos de aprendizaje. Osaka está situada en Japan. Esta página mantiene la referencia local específica de Osaka, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Osaka forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Osaka está situada en Japan. Esta página mantiene la referencia local específica de Osaka, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Osaka: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Tokyo; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Osaka: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -48,7 +48,7 @@ Barbara Sharon es una profesora experimentada de portugués brasileño radicada 
 - Dominio de portugués, inglés, italiano y español
 - Orientadora con profunda comprensión de los matices culturales
 
-Barbara se especializa en la enseñanza de portugués brasileño y europeo, y ayuda a comprender las diferencias sutiles entre variedades mientras se desarrollan habilidades comunicativas para el mundo real. Su enfoque combina aprendizaje estructurado y materiales interactivos para que aprender portugués sea agradable y eficaz.
+Barbara se especializa en la enseñanza de portugués brasileño, y ayuda a comprender las diferencias sutiles entre variedades mientras se desarrollan habilidades comunicativas para el mundo real. Su enfoque combina aprendizaje estructurado y materiales interactivos para que aprender portugués sea agradable y eficaz.
 
 Tanto si te interesan los vínculos empresariales con Brasil como si simplemente deseas apreciar la cultura portuguesa, las clases de Barbara proporcionan un entorno de apoyo e inmersión. Conoce más sobre sus [servicios](/es/servicios-clases-portugues/) o contacta con Barbara directamente mediante la sección de [contacto](/es/contacto-profesora-portugues/).
 ## El portugués como lengua global: oportunidades en Osaka
@@ -61,8 +61,8 @@ La creciente relación de Osaka con las naciones lusófonas, mediante iniciativa
 Nuestras clases de portugués en línea en Osaka están diseñadas para ser accesibles y atractivas. Con herramientas interactivas, recursos multimedia y materiales personalizados, aprenderás portugués de una manera que se ajuste a tu estilo de vida e intereses. Tanto si recién empiezas como si ya hablas con fluidez, los horarios flexibles te permiten incorporar clases de portugués cerca de Osaka a tu rutina diaria.
 
 Barbara Sharon ofrece clases particulares y grupales adaptadas a tu nivel. Desde clases de portugués para principiantes hasta clases avanzadas de conversación para hablantes seguros, su estilo de enseñanza favorece que cada estudiante avance. Aprende portugués en Osaka con una profesora que comprende verdaderamente tanto la lengua como la cultura.
-## Comienza hoy tu camino: clase de prueba gratuita disponible
+## Comienza hoy tu camino: clases de portugués disponible
 
-¿Quieres iniciar tu camino con el portugués en Osaka? Contacta con Barbara Sharon para una clase de prueba gratuita y conoce de primera mano su enfoque de enseñanza único. Tanto si eres principiante absoluto como si buscas mejorar tus habilidades, está aquí para acompañar tus metas lingüísticas.
+¿Quieres iniciar tu camino con el portugués en Osaka? Contacta con Barbara Sharon para una clases de portugués y conoce de primera mano su enfoque de enseñanza único. Tanto si eres principiante absoluto como si buscas mejorar tus habilidades, está aquí para acompañar tus metas lingüísticas.
 
 Para conocer más sobre nuestras propuestas, visita la página de [servicios](/es/servicios-clases-portugues/) o contacta con Barbara mediante la sección de [contacto](/es/contacto-profesora-portugues/). ¡Vamos a aprender portugués!

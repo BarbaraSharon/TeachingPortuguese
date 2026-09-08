@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Philadelphia. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Philadelphia está localizada em United States. Philadelphia faz parte do conjunto regional North America usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Philadelphia, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Philadelphia faz parte do fuso horário regional de North America usado para organizar horários. Philadelphia fica em United States. Esta página mantém a referência local específica de Philadelphia, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Philadelphia: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Philadelphia: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -29,9 +29,9 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português brasileiro e europeu em Philadelphia
+## Aprenda português brasileiro em Philadelphia
 
-Philadelphia, uma movimentada cidade americana com mais de 1,5 milhão de residentes, oferece um ambiente estimulante para quem aprende idiomas mergulhar nas ricas culturas do Brasil e de Portugal. Com aproximadamente 5.360 residentes nascidos no Brasil e mais de 3.093 pessoas nascidas em Portugal, Philadelphia abriga uma das maiores comunidades de língua portuguesa da Pensilvânia. Essa comunidade próspera cria uma oportunidade única para os alunos se conectarem a experiências autênticas de português brasileiro e europeu.
+Philadelphia, uma movimentada cidade americana com mais de 1,5 milhão de residentes, oferece um ambiente estimulante para quem aprende idiomas mergulhar nas ricas culturas do Brasil e de Portugal. Com aproximadamente 5.360 residentes nascidos no Brasil e mais de 3.093 pessoas nascidas em Portugal, Philadelphia abriga uma das maiores comunidades de língua portuguesa da Pensilvânia. Essa comunidade próspera cria uma oportunidade única para os alunos se conectarem a experiências autênticas de português brasileiro.
 
 Quer você esteja interessado em dominar o português brasileiro ou em explorar as nuances do português europeu, Barbara Sharon oferece aulas online particulares e em grupo adaptadas aos seus objetivos específicos de aprendizagem. Como professora qualificada de língua portuguesa, ela traz ampla experiência nos dois dialetos, ajudando os alunos a compreender contextos culturais e estilos de comunicação que tornam o aprendizado significativo e envolvente.
 
@@ -45,7 +45,7 @@ As vibrantes comunidades portuguesas de Philadelphia organizam celebrações cul
 
 ## Como Barbara Sharon pode ajudar você a aprender português
 
-Barbara Sharon é uma professora certificada de língua portuguesa, com profundo conhecimento de português brasileiro e europeu. Sua formação inclui:
+Barbara Sharon é uma professora certificada de língua portuguesa, com profundo conhecimento de português brasileiro. Sua formação inclui:
 
 - Bacharelado em Letras - Universidade Federal do Rio de Janeiro (UFRJ)
 - Certificação TESOL
@@ -70,7 +70,7 @@ Quer você tenha interesse em comunicação profissional com países de língua 
 
 Barbara Sharon oferece aulas online particulares e em grupo de português em Philadelphia, facilitando o acesso dos alunos a um ensino de qualidade, independentemente de onde estejam. Essas aulas são concebidas para serem interativas e envolventes, usando ferramentas multimídia e conteúdo autêntico alinhados aos seus interesses.
 
-Quer você seja iniciante absoluto ou esteja buscando fluência na conversação, nossas aulas online ajudam a desenvolver confiança e habilidades de comunicação em português brasileiro e europeu. Os alunos podem explorar temas culturais como música, literatura e gastronomia, tornando o processo de aprendizagem agradável e significativo.
+Quer você seja iniciante absoluto ou esteja buscando fluência na conversação, nossas aulas online ajudam a desenvolver confiança e habilidades de comunicação em português brasileiro. Os alunos podem explorar temas culturais como música, literatura e gastronomia, tornando o processo de aprendizagem agradável e significativo.
 
 As aulas online de português de Barbara Sharon em Philadelphia incluem:
 

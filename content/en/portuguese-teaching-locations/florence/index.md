@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Florence. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Florence is located in Italy. Florence is grouped in the Europe location set used for local scheduling and learner guidance. This page keeps the local reference specific to Florence while the teaching service remains online-first."
+local_context: "Florence is grouped in the Europe regional time zone used for scheduling. Florence is located in Italy. This page keeps the local reference specific to Florence while the teaching service remains online-first."
 scheduling: "Scheduling from Florence: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Florence: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -30,7 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Brazilian & European Portuguese in Florence - Private & Group Online Lessons
+## Learn Brazilian Portuguese in Florence - Private & Group Online Lessons
 
 Florence, a city of over 362,000 residents, is a vibrant hub of history, art, and culture. While specific data on the number of Brazilian or Portuguese speakers in Florence may be limited, its international character makes it an ideal environment for language learning. As a global crossroads, Florence offers unique opportunities to immerse yourself in Portuguese language and culture. Whether you're searching for a Portuguese tutor in Florence , Brazilian Portuguese lessons in Florence , or general Portuguese instruction, Barbara Sharon delivers personalized, high-quality lessons tailored to your goals.
 
@@ -51,7 +51,7 @@ Barbara’s lessons are carefully structured to include grammar, vocabulary, con
 
 Barbara Sharon offers flexible lesson formats including online private tutoring and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons provide personalized attention, while group classes offer a chance to practice with others in a relaxed setting. For those seeking a Brazilian Portuguese teacher in Florence or a native Portuguese teacher in Florence, her online platform makes it easy to connect.
 
-As a Portuguese tutor in Florence, Barbara delivers both individual and small group instruction via online platforms, making it easy for students throughout the city to access high-quality language education. For more details on her services, visit the [Services](/en/portuguese-teaching-services/)page. Whether you're looking for Portuguese lessons near Florence or want to start with a free trial lesson, Barbara Sharon’s approach ensures a personalized learning experience.
+As a Portuguese tutor in Florence, Barbara delivers both individual and small group instruction via online platforms, making it easy for students throughout the city to access high-quality language education. For more details on her services, visit the [Services](/en/portuguese-teaching-services/)page. Whether you're looking for Portuguese lessons near Florence or want to start with a Portuguese lesson, Barbara Sharon’s approach ensures a personalized learning experience.
 ## Start Your Portuguese Journey Today in Florence
 
-Ready to learn Portuguese in Florence? Contact Barbara Sharon for a free trial lesson and begin your journey toward fluency. Whether you're seeking conversational Portuguese classes in Florence or beginner-level instruction, she is ready to guide you. Learn more about her offerings on the [Contact](/en/contact-portuguese-teacher/)page. With online Portuguese lessons in Florence available for both private and group settings, now is the perfect time to start your language learning adventure.
+Ready to learn Portuguese in Florence? Contact Barbara Sharon for a Portuguese lesson and begin your journey toward fluency. Whether you're seeking conversational Portuguese classes in Florence or beginner-level instruction, she is ready to guide you. Learn more about her offerings on the [Contact](/en/contact-portuguese-teacher/)page. With online Portuguese lessons in Florence available for both private and group settings, now is the perfect time to start your language learning adventure.

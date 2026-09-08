@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cork. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Cork está localizada em Ireland. Cork faz parte do conjunto regional Europe usado para orientar horários e objetivos de aprendizagem. Esta página mantém a referência local específica de Cork, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Cork faz parte do fuso horário regional de Europe usado para organizar horários. Cork fica em Ireland. Esta página mantém a referência local específica de Cork, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Cork: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Dublin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cork: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Os serviços de Barbara atendem a alunos que preferem apoio individual ou gostam
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Cork? Entre em contato com Barbara Sharon para uma aula experimental gratuita e comece hoje sua jornada no idioma! Com sua experiência como professora de português brasileiro em Cork, ela ajuda os alunos a desenvolver confiança e fluência em conversação, gramática e cultura. Quer você procure aulas de português para iniciantes em Cork ou uma professora nativa de português em Cork, a plataforma online de Barbara facilita o acesso a um ensino de qualidade de qualquer lugar.
+Tem interesse em aprender português em Cork? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Com sua experiência como professora de português brasileiro em Cork, ela ajuda os alunos a desenvolver confiança e fluência em conversação, gramática e cultura. Quer você procure aulas de português para iniciantes em Cork ou uma professora nativa de português em Cork, a plataforma online de Barbara facilita o acesso a um ensino de qualidade de qualquer lugar.

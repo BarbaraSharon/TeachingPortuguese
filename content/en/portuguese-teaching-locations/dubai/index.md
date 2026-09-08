@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Dubai. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Dubai is grouped in the Asia location set used for local scheduling and learner guidance. Dubai is located in United Arab Emirates. This page keeps the local reference specific to Dubai while the teaching service remains online-first."
+local_context: "Dubai is grouped in the Asia regional time zone used for scheduling. Dubai is located in United Arab Emirates. This page keeps the local reference specific to Dubai while the teaching service remains online-first."
 scheduling: "Scheduling from Dubai: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Dubai; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Dubai: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon offers both individual and small group Portuguese lessons in Dubai through online platforms. You can explore her services via the [Services](/en/portuguese-teaching-services/)page or get in touch directly using the [Contact](/en/contact-portuguese-teacher/)form to schedule your first session.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Dubai? Contact Barbara Sharon for a free trial lesson and start your language journey today! Whether you're looking for a Brazilian Portuguese teacher in Dubai or an online Portuguese tutor, she provides high-quality instruction tailored to your needs. Discover how Portuguese classes in Dubai can help you connect with the rich culture and global opportunities of the Lusophone world.
+Interested in learning Portuguese in Dubai? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're looking for a Brazilian Portuguese teacher in Dubai or an online Portuguese tutor, she provides high-quality instruction tailored to your needs. Discover how Portuguese classes in Dubai can help you connect with the rich culture and global opportunities of the Lusophone world.

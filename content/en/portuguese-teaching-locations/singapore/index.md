@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Singapore"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Singapore. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Singapore is grouped in the Asia location set used for local scheduling and learner guidance. Singapore is located in Singapore. This page keeps the local reference specific to Singapore while the teaching service remains online-first."
+local_context: "Singapore is grouped in the Asia regional time zone used for scheduling. Singapore is located in Singapore. This page keeps the local reference specific to Singapore while the teaching service remains online-first."
 scheduling: "Scheduling from Singapore: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Singapore; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Singapore: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
@@ -42,7 +42,7 @@ Singapore's multicultural environment makes it an excellent place for language l
 Brazil, home to the largest Portuguese-speaking community globally, provides rich insights into the evolution and usage of Portuguese. Unlike European Portuguese, Brazilian Portuguese features distinct accents, idioms, and expressions that are essential for authentic communication. In Singapore, you can experience these cultural nuances through local events such as Ritmo Do Brasil, SINGAIAL Brazilian Country Festival, and various Brazilian expat gatherings.
 ## How Barbara Sharon Can Help
 
-Barbara Sharon is a certified Portuguese language instructor with extensive experience teaching both Brazilian and European Portuguese. Her educational background includes:
+Barbara Sharon is a certified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
 - Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
 - TESOL certified
 - Fluent in Portuguese, English, Italian, Spanish
