@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Melbourne"
 description: "Clases online de portugués brasileño en Melbourne, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/melbourne/melbourne-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Melbourne | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Melbourne. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Melbourne forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Melbourne está situada en Australia. Local goals: Para Melbourne, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Melbourne, define Melbourne viajes; practica Melbourne trabajo; explora Melbourne familia; mejora Melbourne pronunciación; confirma Melbourne horario."
+local_context: "Clases online de portugués brasileño para Melbourne; confirma un horario para Melbourne usando Australia/Melbourne."
 scheduling: "Horarios para Melbourne: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Melbourne; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Melbourne: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

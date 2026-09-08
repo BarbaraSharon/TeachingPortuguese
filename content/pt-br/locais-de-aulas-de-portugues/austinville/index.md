@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Austinville: Presenciais e Online"
 description: "Aulas de português brasileiro em Austinville, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/austinville/austinville-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Austinville: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Austinville com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Austinville faz parte da região de Gold Coast usada como referência para organizar horários. Austinville fica em Australia. Local goals: Em Austinville, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Austinville, defina Austinville viagens; pratique Austinville carreira; explore Austinville família; melhore Austinville pronúncia; treine Austinville conversa; confirme Austinville horário."
+local_context: "Aulas online de português brasileiro para Austinville; opções presenciais em Gold Coast podem ser confirmadas para Austinville usando Australia/Brisbane."
 scheduling: "Horários para Austinville: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Austinville: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

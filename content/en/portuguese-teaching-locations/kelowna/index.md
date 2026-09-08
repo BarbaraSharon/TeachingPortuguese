@@ -3,7 +3,7 @@ translationKey: location-kelowna
 title: "Online Brazilian Portuguese Lessons in Kelowna"
 description: "Online Brazilian Portuguese lessons in Kelowna, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/kelowna/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Kelowna"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Kelowna. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Kelowna is in the North America scheduling region. Kelowna is located in Canada. Local goals: Barbara adapts lessons for Kelowna to travel, work, or family goals; Kelowna availability is checked before booking. Local focus: Reference for Kelowna: ask Barbara about Kelowna pronunciation, Kelowna listening, Kelowna conversation, and Kelowna travel vocabulary goals."
-scheduling: "Scheduling from Kelowna: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Kelowna; flexible scheduling can be confirmed for Kelowna using America/Vancouver."
+scheduling: "Scheduling from Kelowna: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kelowna: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Kelowna"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Kelowna?"
-    answer: "Yes. Lessons are online, so you can study from Kelowna. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Kelowna. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

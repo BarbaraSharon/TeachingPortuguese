@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Fredericton"
 description: "Aulas online de português brasileiro em Fredericton, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/fredericton/fredericton-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Fredericton | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Fredericton"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Fredericton. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Fredericton faz parte da região de North America usada como referência para organizar horários. Fredericton fica em Canada. Local goals: Barbara adapta as aulas para Fredericton a objetivos de viagem, trabalho ou família; a disponibilidade de Fredericton é consultada antes da reserva. Local focus: Em Fredericton, defina Fredericton viagens; pratique Fredericton carreira; explore Fredericton família; melhore Fredericton pronúncia; treine Fredericton conversa; confirme Fredericton horário."
-scheduling: "Horários para Fredericton: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Fredericton; confirme um horário para Fredericton usando America/Halifax."
+scheduling: "Horários para Fredericton: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Halifax; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Fredericton: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Fredericton"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Fredericton?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Fredericton. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Fredericton. Os horários são combinados com antecedência usando America/Halifax e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

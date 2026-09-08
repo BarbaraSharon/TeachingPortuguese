@@ -3,7 +3,7 @@ translationKey: location-hamburg
 title: "Online Brazilian Portuguese Lessons in Hamburg"
 description: "Online Brazilian Portuguese lessons in Hamburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/hamburg/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Hamburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Hamburg is in the Europe scheduling region. Hamburg is located in Germany. Local goals: Learners in Hamburg can start with travel dialogues, then practise work and family; the Hamburg time is confirmed before enrolment. Local focus: Reference for Hamburg: ask Barbara about Hamburg pronunciation, Hamburg listening, Hamburg conversation, and Hamburg travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Hamburg; flexible scheduling can be confirmed for Hamburg using Europe/Berlin."
 scheduling: "Scheduling from Hamburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hamburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -3,7 +3,7 @@ translationKey: location-coombabah
 title: "Portuguese in Coombabah: In-Person & Online"
 description: "Brazilian Portuguese lessons in Coombabah, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/coombabah/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Coombabah with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Coombabah is in the Gold Coast scheduling region. Coombabah is located in Australia. Local goals: In Coombabah, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Coombabah: ask Barbara about Coombabah pronunciation, Coombabah listening, Coombabah conversation, and Coombabah travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Coombabah; Gold Coast in-person options can be confirmed for Coombabah using Australia/Brisbane."
 scheduling: "Scheduling from Coombabah: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Coombabah: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

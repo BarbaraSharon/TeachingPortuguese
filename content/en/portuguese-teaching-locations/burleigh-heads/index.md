@@ -3,7 +3,7 @@ translationKey: location-burleigh-heads
 title: "Portuguese in Burleigh Heads: In-Person & Online"
 description: "Portuguese lessons in Burleigh Heads: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/burleigh-heads/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Burleigh Heads with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Burleigh Heads is in the Gold Coast scheduling region. Burleigh Heads is located in Australia. Local goals: Learners in Burleigh Heads can start with travel dialogues, then practise work and family; the Burleigh Heads time is confirmed before enrolment. Local focus: Reference for Burleigh Heads: ask Barbara about Burleigh Heads pronunciation, Burleigh Heads listening, Burleigh Heads conversation, and Burleigh Heads travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Burleigh Heads; Gold Coast in-person options can be confirmed for Burleigh Heads using Australia/Brisbane."
 scheduling: "Scheduling from Burleigh Heads: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Burleigh Heads: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

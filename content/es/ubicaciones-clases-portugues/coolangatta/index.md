@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Coolangatta: Presenciales y Online"
 description: "Clases de portugués en Coolangatta: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/coolangatta/coolangatta-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Coolangatta: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coolangatta con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coolangatta forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Coolangatta está situada en Australia. Local goals: Estudiar portugués en Coolangatta puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Coolangatta, define Coolangatta viajes; practica Coolangatta trabajo; explora Coolangatta familia; mejora Coolangatta pronunciación; confirma Coolangatta horario."
+local_context: "Clases online de portugués brasileño para Coolangatta; las opciones presenciales en Gold Coast se confirman para Coolangatta usando Australia/Brisbane."
 scheduling: "Horarios para Coolangatta: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coolangatta: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -3,7 +3,7 @@ translationKey: location-saskatoon
 title: "Online Brazilian Portuguese Lessons in Saskatoon"
 description: "Online Brazilian Portuguese lessons in Saskatoon, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/saskatoon/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Saskatoon"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Regina"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Saskatoon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Saskatoon is in the North America scheduling region. Saskatoon is located in Canada. Local goals: For Saskatoon, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Saskatoon: ask Barbara about Saskatoon pronunciation, Saskatoon listening, Saskatoon conversation, and Saskatoon travel vocabulary goals."
-scheduling: "Scheduling from Saskatoon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Saskatoon; flexible scheduling can be confirmed for Saskatoon using America/Regina."
+scheduling: "Scheduling from Saskatoon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Regina; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Saskatoon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Saskatoon"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Saskatoon?"
-    answer: "Yes. Lessons are online, so you can study from Saskatoon. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Saskatoon. Times are agreed in advance using America/Regina and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

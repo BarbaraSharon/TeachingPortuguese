@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bologna"
 description: "Aulas online de português brasileiro em Bologna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/bologna/bologna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bologna. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Bologna faz parte da região de Europe usada como referência para organizar horários. Bologna fica em Italy. Local goals: Em Bologna, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Bologna, defina Bologna viagens; pratique Bologna carreira; explore Bologna família; melhore Bologna pronúncia; treine Bologna conversa; confirme Bologna horário."
+local_context: "Aulas online de português brasileiro para Bologna; confirme um horário para Bologna usando Europe/Rome."
 scheduling: "Horários para Bologna: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bologna: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

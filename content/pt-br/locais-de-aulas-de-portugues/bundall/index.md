@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Bundall: Presenciais e Online"
 description: "Aulas de português brasileiro em Bundall, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/bundall/bundall-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Bundall: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Bundall com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Bundall faz parte da região de Gold Coast usada como referência para organizar horários. Bundall fica em Australia. Local goals: Em Bundall, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Bundall, defina Bundall viagens; pratique Bundall carreira; explore Bundall família; melhore Bundall pronúncia; treine Bundall conversa; confirme Bundall horário."
+local_context: "Aulas online de português brasileiro para Bundall; opções presenciais em Gold Coast podem ser confirmadas para Bundall usando Australia/Brisbane."
 scheduling: "Horários para Bundall: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bundall: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

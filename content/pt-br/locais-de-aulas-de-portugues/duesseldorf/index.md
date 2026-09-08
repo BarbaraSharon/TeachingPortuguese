@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Duesseldorf"
 description: "Aulas online de português brasileiro em Duesseldorf, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/duesseldorf/duesseldorf-location-portuguese-lesson.png
   alt_text: Aprenda português em Duesseldorf | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Duesseldorf. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Duesseldorf faz parte da região de Europe usada como referência para organizar horários. Duesseldorf fica em Germany. Local goals: Em Duesseldorf, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Duesseldorf, defina Duesseldorf viagens; pratique Duesseldorf carreira; explore Duesseldorf família; melhore Duesseldorf pronúncia; treine Duesseldorf conversa; confirme Duesseldorf horário."
+local_context: "Aulas online de português brasileiro para Duesseldorf; confirme um horário para Duesseldorf usando Europe/Berlin."
 scheduling: "Horários para Duesseldorf: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Duesseldorf: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

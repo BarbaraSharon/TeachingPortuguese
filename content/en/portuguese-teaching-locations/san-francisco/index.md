@@ -3,7 +3,7 @@ translationKey: location-san-francisco
 title: "Online Brazilian Portuguese Lessons in San Francisco"
 description: "Online Brazilian Portuguese lessons in San Francisco, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/san-francisco/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from San Francisco. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "San Francisco is in the North America scheduling region. San Francisco is located in United States. Local goals: For San Francisco, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for San Francisco: ask Barbara about San Francisco pronunciation, San Francisco listening, San Francisco conversation, and San Francisco travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for San Francisco; flexible scheduling can be confirmed for San Francisco using America/Los_Angeles."
 scheduling: "Scheduling from San Francisco: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in San Francisco: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

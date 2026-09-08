@@ -14,7 +14,7 @@ categories:
 service:
   service_type: Clases particulares de portugués brasileño online y presenciales
   delivery: Online en todo el mundo; presenciales en Gold Coast
-  delivery_modes: [in_person]
+  delivery_modes: [online, in_person]
   audience: Adultos principiantes, intermedios y avanzados; objetivos de negocios y viajes
   available_language: [pt-BR, en, es, it, fr]
 sections:

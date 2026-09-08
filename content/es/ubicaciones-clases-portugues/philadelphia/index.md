@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Philadelphia"
 description: "Clases online de portugués brasileño en Philadelphia, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/philadelphia/philadelphia-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Philadelphia. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Philadelphia forma parte de la región de North America utilizada como referencia para organizar horarios. Philadelphia está situada en United States. Local goals: Barbara adapta las clases para Philadelphia a objetivos de viaje, trabajo o familia; la disponibilidad en Philadelphia se comprueba antes de reservar. Local focus: En Philadelphia, define Philadelphia viajes; practica Philadelphia trabajo; explora Philadelphia familia; mejora Philadelphia pronunciación; confirma Philadelphia horario."
+local_context: "Clases online de portugués brasileño para Philadelphia; confirma un horario para Philadelphia usando America/New_York."
 scheduling: "Horarios para Philadelphia: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Philadelphia: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

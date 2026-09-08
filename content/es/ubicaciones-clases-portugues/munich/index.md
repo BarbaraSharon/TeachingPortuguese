@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Munich"
 description: "Clases online de portugués brasileño en Munich, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/munich/munich-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Munich. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Munich forma parte de la región de Europe utilizada como referencia para organizar horarios. Munich está situada en Germany. Local goals: En Munich, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Munich, define Munich viajes; practica Munich trabajo; explora Munich familia; mejora Munich pronunciación; confirma Munich horario."
+local_context: "Clases online de portugués brasileño para Munich; confirma un horario para Munich usando Europe/Berlin."
 scheduling: "Horarios para Munich: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Munich: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

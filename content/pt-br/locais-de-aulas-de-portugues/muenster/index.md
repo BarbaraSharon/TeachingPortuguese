@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Münster"
 description: "Aulas online de português brasileiro em Münster, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/muenster/muenster-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Münster. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Münster faz parte da região de Europe usada como referência para organizar horários. Münster fica em Germany. Local goals: Barbara adapta as aulas para Münster a objetivos de viagem, trabalho ou família; a disponibilidade de Münster é consultada antes da reserva. Local focus: Em Münster, defina Münster viagens; pratique Münster carreira; explore Münster família; melhore Münster pronúncia; treine Münster conversa; confirme Münster horário."
+local_context: "Aulas online de português brasileiro para Münster; confirme um horário para Münster usando Europe/Berlin."
 scheduling: "Horários para Münster: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Münster: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

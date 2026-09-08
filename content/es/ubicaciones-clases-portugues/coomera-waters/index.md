@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Coomera Waters: Presenciales y Online"
 description: "Clases de portugués en Coomera Waters: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/coomera-waters/coomera-waters-online-speaking-club.png
   alt_text: "Clases de portugués brasileño en Coomera Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coomera Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coomera Waters forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Coomera Waters está situada en Australia. Local goals: Para Coomera Waters, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Coomera Waters, define Coomera Waters viajes; practica Coomera Waters trabajo; explora Coomera Waters familia; mejora Coomera Waters pronunciación; confirma Coomera Waters horario."
+local_context: "Clases online de portugués brasileño para Coomera Waters, un suburbio de Gold Coast; confirma la modalidad para Coomera Waters usando Australia/Brisbane."
 scheduling: "Horarios para Coomera Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coomera Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

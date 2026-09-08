@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Burnaby"
 description: "Aulas online de português brasileiro em Burnaby, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/burnaby/burnaby-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Burnaby | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Burnaby"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Burnaby. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Burnaby faz parte da região de North America usada como referência para organizar horários. Burnaby fica em Canada. Local goals: Estudar português em Burnaby pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Burnaby, defina Burnaby viagens; pratique Burnaby carreira; explore Burnaby família; melhore Burnaby pronúncia; treine Burnaby conversa; confirme Burnaby horário."
-scheduling: "Horários para Burnaby: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Burnaby; confirme um horário para Burnaby usando America/Vancouver."
+scheduling: "Horários para Burnaby: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Vancouver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Burnaby: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Burnaby"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Burnaby?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Burnaby. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Burnaby. Os horários são combinados com antecedência usando America/Vancouver e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

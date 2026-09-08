@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Hamburg"
 description: "Clases online de portugués brasileño en Hamburg, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/hamburg/hamburg-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Hamburgo | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Hamburg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Hamburg forma parte de la región de Europe utilizada como referencia para organizar horarios. Hamburg está situada en Germany. Local goals: Las personas de Hamburg pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Hamburg se confirma antes de la matrícula. Local focus: En Hamburg, define Hamburg viajes; practica Hamburg trabajo; explora Hamburg familia; mejora Hamburg pronunciación; confirma Hamburg horario."
+local_context: "Clases online de portugués brasileño para Hamburg; confirma un horario para Hamburg usando Europe/Berlin."
 scheduling: "Horarios para Hamburg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Hamburg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

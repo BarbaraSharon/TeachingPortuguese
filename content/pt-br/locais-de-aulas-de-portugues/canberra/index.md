@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Canberra"
 description: "Aulas online de português brasileiro em Canberra, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/canberra/canberra-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Canberra | Professora brasileira nativa - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Canberra. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Canberra faz parte da região de Australia & New Zealand usada como referência para organizar horários. Canberra fica em Australia. Local goals: Em Canberra, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Canberra, defina Canberra viagens; pratique Canberra carreira; explore Canberra família; melhore Canberra pronúncia; treine Canberra conversa; confirme Canberra horário."
+local_context: "Aulas online de português brasileiro para Canberra; confirme um horário para Canberra usando Australia/Sydney."
 scheduling: "Horários para Canberra: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Canberra: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

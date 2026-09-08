@@ -3,7 +3,7 @@ translationKey: location-coomera-waters
 title: "Portuguese in Coomera Waters: In-Person & Online"
 description: "Portuguese lessons in Coomera Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/coomera-waters/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Coomera Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Coomera Waters is in the Gold Coast scheduling region. Coomera Waters is located in Australia. Local goals: For Coomera Waters, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Coomera Waters: ask Barbara about Coomera Waters pronunciation, Coomera Waters listening, Coomera Waters conversation, and Coomera Waters travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Coomera Waters; Gold Coast in-person options can be confirmed for Coomera Waters using Australia/Brisbane."
 scheduling: "Scheduling from Coomera Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Coomera Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Broadbeach Waters: Presenciais e Online"
 description: "Aulas de português em Broadbeach Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/broadbeach-waters/broadbeach-waters-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Broadbeach Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Broadbeach Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Broadbeach Waters faz parte da região de Gold Coast usada como referência para organizar horários. Broadbeach Waters fica em Australia. Local goals: Para Broadbeach Waters, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Broadbeach Waters, defina Broadbeach Waters viagens; pratique Broadbeach Waters carreira; explore Broadbeach Waters família; melhore Broadbeach Waters pronúncia; treine Broadbeach Waters conversa; confirme Broadbeach Waters horário."
+local_context: "Aulas online de português brasileiro para Broadbeach Waters, um subúrbio de Gold Coast; confirme a modalidade para Broadbeach Waters usando Australia/Brisbane."
 scheduling: "Horários para Broadbeach Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Broadbeach Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

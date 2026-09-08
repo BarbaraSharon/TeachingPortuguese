@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Tokyo"
 description: "Clases online de portugués brasileño en Tokyo, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/tokyo/tokyo-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Tokyo | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Tokyo. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Tokyo forma parte de la región de Asia utilizada como referencia para organizar horarios. Tokyo está situada en Japan. Local goals: Para Tokyo, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Tokyo, define Tokyo viajes; practica Tokyo trabajo; explora Tokyo familia; mejora Tokyo pronunciación; confirma Tokyo horario."
+local_context: "Clases online de portugués brasileño para Tokyo; confirma un horario para Tokyo usando Asia/Tokyo."
 scheduling: "Horarios para Tokyo: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Tokyo; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Tokyo: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

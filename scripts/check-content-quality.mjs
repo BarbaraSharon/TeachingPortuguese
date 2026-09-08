@@ -34,7 +34,7 @@ const services = sourceFiles.filter((file) => /^service:\s*$/m.test(fs.readFileS
 const expectedModes = {
   "aulas-de-portugues": "online, in_person",
   "aulas-online": "online",
-  "aulas-particulares-portugues-gold-coast": "in_person",
+  "aulas-particulares-portugues-gold-coast": "online, in_person",
   "escola-de-portugues-gold-coast": "in_person",
   "ensino-de-portugues-gold-coast": "in_person",
   "portugues-para-iniciantes": "online, in_person",

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Cedar Creek: Presenciales y Online"
 description: "Clases de portugués en Cedar Creek: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/cedar-creek/cedar-creek-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Cedar Creek: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Cedar Creek con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Cedar Creek forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Cedar Creek está situada en Australia. Local goals: En Cedar Creek, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Cedar Creek, define Cedar Creek viajes; practica Cedar Creek trabajo; explora Cedar Creek familia; mejora Cedar Creek pronunciación; confirma Cedar Creek horario."
+local_context: "Clases online de portugués brasileño para Cedar Creek; las opciones presenciales en Gold Coast se confirman para Cedar Creek usando Australia/Brisbane."
 scheduling: "Horarios para Cedar Creek: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cedar Creek: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

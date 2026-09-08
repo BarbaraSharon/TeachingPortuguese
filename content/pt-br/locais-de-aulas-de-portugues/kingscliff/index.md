@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Kingscliff: Presenciais e Online"
 description: "Aulas de português brasileiro em Kingscliff, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/kingscliff/kingscliff-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Kingscliff: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -14,18 +14,18 @@ categories:
 city: "Kingscliff"
 country: "Australia"
 region_group: "Gold Coast"
-time_zone: "Australia/Brisbane"
+time_zone: "Australia/Sydney"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Kingscliff com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Kingscliff faz parte da região de Gold Coast usada como referência para organizar horários. Kingscliff fica em Australia. Local goals: Para Kingscliff, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Kingscliff, defina Kingscliff viagens; pratique Kingscliff carreira; explore Kingscliff família; melhore Kingscliff pronúncia; treine Kingscliff conversa; confirme Kingscliff horário."
-scheduling: "Horários para Kingscliff: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Kingscliff; opções presenciais em Gold Coast podem ser confirmadas para Kingscliff usando Australia/Sydney."
+scheduling: "Horários para Kingscliff: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kingscliff: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Kingscliff"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Kingscliff?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Sydney. Fale com Barbara para escolher o melhor formato."
 editorial_reviewed: true
 ---
 

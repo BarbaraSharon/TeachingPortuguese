@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Kelowna"
 description: "Clases online de portugués brasileño en Kelowna, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/kelowna/kelowna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -14,18 +14,18 @@ categories:
 city: "Kelowna"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Kelowna. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Kelowna forma parte de la región de North America utilizada como referencia para organizar horarios. Kelowna está situada en Canada. Local goals: Barbara adapta las clases para Kelowna a objetivos de viaje, trabajo o familia; la disponibilidad en Kelowna se comprueba antes de reservar. Local focus: En Kelowna, define Kelowna viajes; practica Kelowna trabajo; explora Kelowna familia; mejora Kelowna pronunciación; confirma Kelowna horario."
-scheduling: "Horarios para Kelowna: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Kelowna; confirma un horario para Kelowna usando America/Vancouver."
+scheduling: "Horarios para Kelowna: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Vancouver; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Kelowna: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Kelowna"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Kelowna?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Kelowna. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Kelowna. Los horarios se acuerdan con antelación usando America/Vancouver y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Coolangatta: Presenciais e Online"
 description: "Aulas de português brasileiro em Coolangatta, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/coolangatta/coolangatta-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Coolangatta: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Coolangatta com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Coolangatta faz parte da região de Gold Coast usada como referência para organizar horários. Coolangatta fica em Australia. Local goals: Estudar português em Coolangatta pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Coolangatta, defina Coolangatta viagens; pratique Coolangatta carreira; explore Coolangatta família; melhore Coolangatta pronúncia; treine Coolangatta conversa; confirme Coolangatta horário."
+local_context: "Aulas online de português brasileiro para Coolangatta; opções presenciais em Gold Coast podem ser confirmadas para Coolangatta usando Australia/Brisbane."
 scheduling: "Horários para Coolangatta: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Coolangatta: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

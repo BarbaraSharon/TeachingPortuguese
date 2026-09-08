@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Oslo"
 description: "Aulas online de português brasileiro em Oslo, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/oslo/oslo-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Oslo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Oslo. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Oslo faz parte da região de Europe usada como referência para organizar horários. Oslo fica em Norway. Local goals: Estudar português em Oslo pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Oslo, defina Oslo viagens; pratique Oslo carreira; explore Oslo família; melhore Oslo pronúncia; treine Oslo conversa; confirme Oslo horário."
+local_context: "Aulas online de português brasileiro para Oslo; confirme um horário para Oslo usando Europe/Oslo."
 scheduling: "Horários para Oslo: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Oslo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Oslo: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

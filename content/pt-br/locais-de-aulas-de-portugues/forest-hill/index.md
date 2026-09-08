@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Forest Hill: Presenciais e Online"
 description: "Aulas de português brasileiro em Forest Hill, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/forest-hill/forest-hill-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Forest Hill: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Forest Hill com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Forest Hill faz parte da região de Gold Coast usada como referência para organizar horários. Forest Hill fica em Australia. Local goals: Para Forest Hill, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Forest Hill, defina Forest Hill viagens; pratique Forest Hill carreira; explore Forest Hill família; melhore Forest Hill pronúncia; treine Forest Hill conversa; confirme Forest Hill horário."
+local_context: "Aulas online de português brasileiro para Forest Hill; opções presenciais em Gold Coast podem ser confirmadas para Forest Hill usando Australia/Brisbane."
 scheduling: "Horários para Forest Hill: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Forest Hill: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

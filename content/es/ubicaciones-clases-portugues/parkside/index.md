@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Parkside"
 description: "Clases online de portugués brasileño en Parkside, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/parkside/parkside-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Parkside. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Parkside forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Parkside está situada en Australia. Local goals: Quienes aprenden en Parkside pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Parkside, define Parkside viajes; practica Parkside trabajo; explora Parkside familia; mejora Parkside pronunciación; confirma Parkside horario."
+local_context: "Clases online de portugués brasileño para Parkside; confirma un horario para Parkside usando Australia/Brisbane."
 scheduling: "Horarios para Parkside: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Parkside: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

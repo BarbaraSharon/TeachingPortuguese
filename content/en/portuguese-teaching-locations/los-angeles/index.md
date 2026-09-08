@@ -3,7 +3,7 @@ translationKey: location-los-angeles
 title: "Online Brazilian Portuguese Lessons in Los Angeles"
 description: "Online Brazilian Portuguese lessons in Los Angeles, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/los-angeles/
 image:
@@ -13,20 +13,20 @@ robots: index, follow, max-image-preview:large
 categories:
 - Portuguese teaching locations
 city: "Los Angeles"
-country: "Canada"
+country: "United States"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Los Angeles. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Los Angeles is in the North America scheduling region. Los Angeles is located in Canada. Local goals: In Los Angeles, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Los Angeles: ask Barbara about Los Angeles pronunciation, Los Angeles listening, Los Angeles conversation, and Los Angeles travel vocabulary goals."
-scheduling: "Scheduling from Los Angeles: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Los Angeles; flexible scheduling can be confirmed for Los Angeles using America/Los_Angeles."
+scheduling: "Scheduling from Los Angeles: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Los Angeles: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Los Angeles"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Los Angeles?"
-    answer: "Yes. Lessons are online, so you can study from Los Angeles. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Los Angeles. Times are agreed in advance using America/Los_Angeles and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

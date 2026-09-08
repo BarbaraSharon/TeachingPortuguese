@@ -3,7 +3,7 @@ translationKey: location-birmingham
 title: "Online Brazilian Portuguese Lessons in Birmingham"
 description: "Online Brazilian Portuguese lessons in Birmingham, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/birmingham/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Birmingham. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Birmingham is in the Europe scheduling region. Birmingham is located in United Kingdom. Local goals: In Birmingham, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Birmingham: ask Barbara about Birmingham pronunciation, Birmingham listening, Birmingham conversation, and Birmingham travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Birmingham; flexible scheduling can be confirmed for Birmingham using Europe/London."
 scheduling: "Scheduling from Birmingham: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Birmingham: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

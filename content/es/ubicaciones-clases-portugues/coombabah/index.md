@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Coombabah: Presenciales y Online"
 description: "Clases de portugués brasileño en Coombabah, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/coombabah/coombabah-location-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Coombabah: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coombabah con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coombabah forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Coombabah está situada en Australia. Local goals: En Coombabah, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Coombabah, define Coombabah viajes; practica Coombabah trabajo; explora Coombabah familia; mejora Coombabah pronunciación; confirma Coombabah horario."
+local_context: "Clases online de portugués brasileño para Coombabah; las opciones presenciales en Gold Coast se confirman para Coombabah usando Australia/Brisbane."
 scheduling: "Horarios para Coombabah: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coombabah: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

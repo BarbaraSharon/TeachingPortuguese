@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Atlanta"
 description: "Clases online de portugués brasileño en Atlanta, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/atlanta/atlanta-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Atlanta | Clases en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Atlanta. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Atlanta forma parte de la región de North America utilizada como referencia para organizar horarios. Atlanta está situada en United States. Local goals: Quienes aprenden en Atlanta pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Atlanta, define Atlanta viajes; practica Atlanta trabajo; explora Atlanta familia; mejora Atlanta pronunciación; confirma Atlanta horario."
+local_context: "Clases online de portugués brasileño para Atlanta; confirma un horario para Atlanta usando America/New_York."
 scheduling: "Horarios para Atlanta: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Atlanta: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

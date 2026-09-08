@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Bangalore"
 description: "Clases online de portugués brasileño en Bangalore, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/bangalore/bangalore-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Bangalore | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bangalore. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bangalore forma parte de la región de Asia utilizada como referencia para organizar horarios. Bangalore está situada en India. Local goals: Para Bangalore, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Bangalore, define Bangalore viajes; practica Bangalore trabajo; explora Bangalore familia; mejora Bangalore pronunciación; confirma Bangalore horario."
+local_context: "Clases online de portugués brasileño para Bangalore; confirma un horario para Bangalore usando Asia/Kolkata."
 scheduling: "Horarios para Bangalore: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Kolkata; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bangalore: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

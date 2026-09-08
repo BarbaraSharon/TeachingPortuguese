@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Chilliwack"
 description: "Clases online de portugués brasileño en Chilliwack, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/chilliwack/chilliwack-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Chilliwack | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Chilliwack"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Chilliwack. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Chilliwack forma parte de la región de North America utilizada como referencia para organizar horarios. Chilliwack está situada en Canada. Local goals: Quienes aprenden en Chilliwack pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Chilliwack, define Chilliwack viajes; practica Chilliwack trabajo; explora Chilliwack familia; mejora Chilliwack pronunciación; confirma Chilliwack horario."
-scheduling: "Horarios para Chilliwack: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Chilliwack; confirma un horario para Chilliwack usando America/Vancouver."
+scheduling: "Horarios para Chilliwack: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Vancouver; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Chilliwack: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Chilliwack"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Chilliwack?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Chilliwack. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Chilliwack. Los horarios se acuerdan con antelación usando America/Vancouver y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

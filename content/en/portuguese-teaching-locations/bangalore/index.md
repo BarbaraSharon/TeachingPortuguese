@@ -3,7 +3,7 @@ translationKey: location-bangalore
 title: "Online Brazilian Portuguese Lessons in Bangalore"
 description: "Online Brazilian Portuguese lessons in Bangalore, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/bangalore/
 image:
@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bangalore. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bangalore is in the Asia scheduling region. Bangalore is located in India. Local goals: For Bangalore, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Bangalore: ask Barbara about Bangalore pronunciation, Bangalore listening, Bangalore conversation, and Bangalore travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Bangalore; flexible scheduling can be confirmed for Bangalore using Asia/Kolkata."
 scheduling: "Scheduling from Bangalore: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Kolkata; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bangalore: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

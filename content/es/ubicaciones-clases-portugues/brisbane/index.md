@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Brisbane"
 description: "Clases online de portugués brasileño en Brisbane, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/brisbane/brisbane-brazilian-portuguese-lesson.png
   alt_text: Clases de portugués brasileño en línea para estudiantes de Brisbane con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Brisbane. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Brisbane forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Brisbane está situada en Australia. Local goals: En Brisbane, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Brisbane, define Brisbane viajes; practica Brisbane trabajo; explora Brisbane familia; mejora Brisbane pronunciación; confirma Brisbane horario."
+local_context: "Clases online de portugués brasileño para Brisbane; confirma un horario para Brisbane usando Australia/Brisbane."
 scheduling: "Horarios para Brisbane: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Brisbane: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

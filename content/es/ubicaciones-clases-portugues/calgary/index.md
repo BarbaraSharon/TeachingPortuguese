@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Calgary"
 description: "Clases online de portugués brasileño en Calgary, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/calgary/calgary-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Calgary | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Edmonton"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Calgary. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Calgary forma parte de la región de North America utilizada como referencia para organizar horarios. Calgary está situada en Canada. Local goals: Para Calgary, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Calgary, define Calgary viajes; practica Calgary trabajo; explora Calgary familia; mejora Calgary pronunciación; confirma Calgary horario."
+local_context: "Clases online de portugués brasileño para Calgary; confirma un horario para Calgary usando America/Edmonton."
 scheduling: "Horarios para Calgary: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Edmonton; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Calgary: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

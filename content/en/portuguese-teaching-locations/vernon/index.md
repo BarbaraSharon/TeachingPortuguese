@@ -3,7 +3,7 @@ translationKey: location-vernon
 title: "Online Brazilian Portuguese Lessons in Vernon"
 description: "Online Brazilian Portuguese lessons in Vernon, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/vernon/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Vernon"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Vernon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Vernon is in the North America scheduling region. Vernon is located in Canada. Local goals: In Vernon, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Vernon: ask Barbara about Vernon pronunciation, Vernon listening, Vernon conversation, and Vernon travel vocabulary goals."
-scheduling: "Scheduling from Vernon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Vernon; flexible scheduling can be confirmed for Vernon using America/Vancouver."
+scheduling: "Scheduling from Vernon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Vernon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Vernon"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Vernon?"
-    answer: "Yes. Lessons are online, so you can study from Vernon. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Vernon. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

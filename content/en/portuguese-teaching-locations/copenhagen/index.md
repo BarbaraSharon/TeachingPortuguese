@@ -3,7 +3,7 @@ translationKey: location-copenhagen
 title: "Online Brazilian Portuguese Lessons in Copenhagen"
 description: "Online Brazilian Portuguese lessons in Copenhagen, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/copenhagen/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Copenhagen"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Copenhagen. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Copenhagen is in the Europe scheduling region. Copenhagen is located in Denmark. Local goals: In Copenhagen, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Copenhagen: ask Barbara about Copenhagen pronunciation, Copenhagen listening, Copenhagen conversation, and Copenhagen travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Copenhagen; flexible scheduling can be confirmed for Copenhagen using Europe/Copenhagen."
 scheduling: "Scheduling from Copenhagen: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Copenhagen; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Copenhagen: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

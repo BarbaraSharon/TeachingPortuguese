@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Calgary"
 description: "Aulas online de português brasileiro em Calgary, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/calgary/calgary-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Calgary | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Edmonton"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Calgary. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Calgary faz parte da região de North America usada como referência para organizar horários. Calgary fica em Canada. Local goals: Para Calgary, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Calgary, defina Calgary viagens; pratique Calgary carreira; explore Calgary família; melhore Calgary pronúncia; treine Calgary conversa; confirme Calgary horário."
+local_context: "Aulas online de português brasileiro para Calgary; confirme um horário para Calgary usando America/Edmonton."
 scheduling: "Horários para Calgary: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Edmonton; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Calgary: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

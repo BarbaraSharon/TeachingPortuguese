@@ -14,7 +14,7 @@ categories:
 service:
   service_type: Aulas particulares de português brasileiro online e presenciais
   delivery: Online para todo o mundo; presenciais na Gold Coast
-  delivery_modes: [in_person]
+  delivery_modes: [online, in_person]
   audience: Alunos adultos iniciantes, intermediários e avançados; objetivos de negócios e viagens
   available_language: [pt-BR, en, es, it, fr]
 sections:

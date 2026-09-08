@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Copenhagen"
 description: "Aulas online de português brasileiro em Copenhagen, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/copenhagen/copenhagen-online-pronunciation-microphone.png
   alt_text: Aprenda português brasileiro em Copenhague | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Copenhagen"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Copenhagen. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Copenhagen faz parte da região de Europe usada como referência para organizar horários. Copenhagen fica em Denmark. Local goals: Em Copenhagen, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Copenhagen, defina Copenhagen viagens; pratique Copenhagen carreira; explore Copenhagen família; melhore Copenhagen pronúncia; treine Copenhagen conversa; confirme Copenhagen horário."
+local_context: "Aulas online de português brasileiro para Copenhagen; confirme um horário para Copenhagen usando Europe/Copenhagen."
 scheduling: "Horários para Copenhagen: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Copenhagen; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Copenhagen: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -3,7 +3,7 @@ translationKey: location-yellowknife
 title: "Online Brazilian Portuguese Lessons in Yellowknife"
 description: "Online Brazilian Portuguese lessons in Yellowknife, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/yellowknife/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Yellowknife"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Yellowknife"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Yellowknife. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Yellowknife is in the North America scheduling region. Yellowknife is located in Canada. Local goals: Barbara adapts lessons for Yellowknife to travel, work, or family goals; Yellowknife availability is checked before booking. Local focus: Reference for Yellowknife: ask Barbara about Yellowknife pronunciation, Yellowknife listening, Yellowknife conversation, and Yellowknife travel vocabulary goals."
-scheduling: "Scheduling from Yellowknife: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Yellowknife; flexible scheduling can be confirmed for Yellowknife using America/Yellowknife."
+scheduling: "Scheduling from Yellowknife: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Yellowknife; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Yellowknife: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Yellowknife"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Yellowknife?"
-    answer: "Yes. Lessons are online, so you can study from Yellowknife. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Yellowknife. Times are agreed in advance using America/Yellowknife and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

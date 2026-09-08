@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Isle Of Capri: Presenciais e Online"
 description: "Aulas de português brasileiro em Isle Of Capri, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/isle-of-capri/isle-of-capri-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Isle Of Capri: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Isle Of Capri com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Isle Of Capri faz parte da região de Gold Coast usada como referência para organizar horários. Isle Of Capri fica em Australia. Local goals: Para Isle Of Capri, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Isle Of Capri, defina Isle Of Capri viagens; pratique Isle Of Capri carreira; explore Isle Of Capri família; melhore Isle Of Capri pronúncia; treine Isle Of Capri conversa; confirme Isle Of Capri horário."
+local_context: "Aulas online de português brasileiro para Isle Of Capri; opções presenciais em Gold Coast podem ser confirmadas para Isle Of Capri usando Australia/Brisbane."
 scheduling: "Horários para Isle Of Capri: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Isle Of Capri: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

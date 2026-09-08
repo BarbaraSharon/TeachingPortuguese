@@ -3,7 +3,7 @@ translationKey: location-toulouse
 title: "Online Brazilian Portuguese Lessons in Toulouse"
 description: "Online Brazilian Portuguese lessons in Toulouse, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/toulouse/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Toulouse. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Toulouse is in the Europe scheduling region. Toulouse is located in France. Local goals: For Toulouse, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Toulouse: ask Barbara about Toulouse pronunciation, Toulouse listening, Toulouse conversation, and Toulouse travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Toulouse; flexible scheduling can be confirmed for Toulouse using Europe/Paris."
 scheduling: "Scheduling from Toulouse: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Toulouse: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

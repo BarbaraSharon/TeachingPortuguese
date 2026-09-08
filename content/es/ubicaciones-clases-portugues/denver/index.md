@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Denver"
 description: "Clases online de portugués brasileño en Denver, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/denver/denver-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Denver"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Denver. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Denver forma parte de la región de North America utilizada como referencia para organizar horarios. Denver está situada en United States. Local goals: En Denver, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Denver, define Denver viajes; practica Denver trabajo; explora Denver familia; mejora Denver pronunciación; confirma Denver horario."
+local_context: "Clases online de portugués brasileño para Denver; confirma un horario para Denver usando America/Denver."
 scheduling: "Horarios para Denver: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Denver; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Denver: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

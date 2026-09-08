@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Dubai"
 description: "Aulas online de português brasileiro em Dubai, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/dubai/dubai-portuguese-lesson.png
   alt_text: Aprenda português em Dubai | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Dubai. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Dubai faz parte da região de Asia usada como referência para organizar horários. Dubai fica em United Arab Emirates. Local goals: Alunos de Dubai podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Dubai, defina Dubai viagens; pratique Dubai carreira; explore Dubai família; melhore Dubai pronúncia; treine Dubai conversa; confirme Dubai horário."
+local_context: "Aulas online de português brasileiro para Dubai; confirme um horário para Dubai usando Asia/Dubai."
 scheduling: "Horários para Dubai: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Dubai; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Dubai: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

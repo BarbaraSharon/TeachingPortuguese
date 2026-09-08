@@ -3,7 +3,7 @@ translationKey: location-basel
 title: "Online Brazilian Portuguese Lessons in Basel"
 description: "Online Brazilian Portuguese lessons in Basel, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/basel/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Basel. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Basel is in the Europe scheduling region. Basel is located in Switzerland. Local goals: For Basel, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Basel: ask Barbara about Basel pronunciation, Basel listening, Basel conversation, and Basel travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Basel; flexible scheduling can be confirmed for Basel using Europe/Zurich."
 scheduling: "Scheduling from Basel: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Basel: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

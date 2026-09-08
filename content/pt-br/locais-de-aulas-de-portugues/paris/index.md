@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Paris"
 description: "Aulas online de português brasileiro em Paris, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/paris/paris-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Paris. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Paris faz parte da região de Europe usada como referência para organizar horários. Paris fica em France. Local goals: Barbara adapta as aulas para Paris a objetivos de viagem, trabalho ou família; a disponibilidade de Paris é consultada antes da reserva. Local focus: Em Paris, defina Paris viagens; pratique Paris carreira; explore Paris família; melhore Paris pronúncia; treine Paris conversa; confirme Paris horário."
+local_context: "Aulas online de português brasileiro para Paris; confirme um horário para Paris usando Europe/Paris."
 scheduling: "Horários para Paris: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Paris: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

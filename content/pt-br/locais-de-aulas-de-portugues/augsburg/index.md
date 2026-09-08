@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Augsburg"
 description: "Aulas online de português brasileiro em Augsburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/augsburg/augsburg-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Augsburg | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Augsburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Augsburg faz parte da região de Europe usada como referência para organizar horários. Augsburg fica em Germany. Local goals: Em Augsburg, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Augsburg, defina Augsburg viagens; pratique Augsburg carreira; explore Augsburg família; melhore Augsburg pronúncia; treine Augsburg conversa; confirme Augsburg horário."
+local_context: "Aulas online de português brasileiro para Augsburg; confirme um horário para Augsburg usando Europe/Berlin."
 scheduling: "Horários para Augsburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Augsburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

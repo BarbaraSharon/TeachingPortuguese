@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Brussels"
 description: "Clases online de portugués brasileño en Brussels, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/brussels/brussels-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Bruselas | Clases en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Brussels"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Brussels. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Brussels forma parte de la región de Europe utilizada como referencia para organizar horarios. Brussels está situada en Belgium. Local goals: Barbara adapta las clases para Brussels a objetivos de viaje, trabajo o familia; la disponibilidad en Brussels se comprueba antes de reservar. Local focus: En Brussels, define Brussels viajes; practica Brussels trabajo; explora Brussels familia; mejora Brussels pronunciación; confirma Brussels horario."
+local_context: "Clases online de portugués brasileño para Brussels; confirma un horario para Brussels usando Europe/Brussels."
 scheduling: "Horarios para Brussels: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Brussels; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Brussels: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Carrara: Presenciales y Online"
 description: "Clases de portugués brasileño en Carrara, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/carrara/carrara-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Carrara: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Carrara con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Carrara forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Carrara está situada en Australia. Local goals: Las personas de Carrara pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Carrara se confirma antes de la matrícula. Local focus: En Carrara, define Carrara viajes; practica Carrara trabajo; explora Carrara familia; mejora Carrara pronunciación; confirma Carrara horario."
+local_context: "Clases online de portugués brasileño para Carrara; las opciones presenciales en Gold Coast se confirman para Carrara usando Australia/Brisbane."
 scheduling: "Horarios para Carrara: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Carrara: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

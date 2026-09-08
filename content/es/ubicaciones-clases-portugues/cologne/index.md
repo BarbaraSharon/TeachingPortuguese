@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Cologne"
 description: "Clases online de portugués brasileño en Cologne, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/cologne/cologne-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Colonia | Clases particulares y grupales en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Cologne. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Cologne forma parte de la región de Europe utilizada como referencia para organizar horarios. Cologne está situada en Germany. Local goals: Barbara adapta las clases para Cologne a objetivos de viaje, trabajo o familia; la disponibilidad en Cologne se comprueba antes de reservar. Local focus: En Cologne, define Cologne viajes; practica Cologne trabajo; explora Cologne familia; mejora Cologne pronunciación; confirma Cologne horario."
+local_context: "Clases online de portugués brasileño para Cologne; confirma un horario para Cologne usando Europe/Berlin."
 scheduling: "Horarios para Cologne: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cologne: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

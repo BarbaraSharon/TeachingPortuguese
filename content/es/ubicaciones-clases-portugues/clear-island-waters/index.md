@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Clear Island Waters: Presenciales y Online"
 description: "Clases de portugués en Clear Island Waters: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/clear-island-waters/clear-island-waters-online-canal-lesson.png
   alt_text: "Clases de portugués brasileño en Clear Island Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Clear Island Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clear Island Waters forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Clear Island Waters está situada en Australia. Local goals: Para Clear Island Waters, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Clear Island Waters, define Clear Island Waters viajes; practica Clear Island Waters trabajo; explora Clear Island Waters familia; mejora Clear Island Waters pronunciación; confirma Clear Island Waters horario."
+local_context: "Clases online de portugués brasileño para Clear Island Waters; las opciones presenciales en Gold Coast se confirman para Clear Island Waters usando Australia/Brisbane."
 scheduling: "Horarios para Clear Island Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Clear Island Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

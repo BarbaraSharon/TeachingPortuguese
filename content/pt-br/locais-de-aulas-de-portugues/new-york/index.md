@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em New York"
 description: "Aulas online de português brasileiro em New York, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/new-york/new-york-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de New York. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "New York faz parte da região de North America usada como referência para organizar horários. New York fica em United States. Local goals: Em New York, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em New York, defina New York viagens; pratique New York carreira; explore New York família; melhore New York pronúncia; treine New York conversa; confirme New York horário."
+local_context: "Aulas online de português brasileiro para New York; confirme um horário para New York usando America/New_York."
 scheduling: "Horários para New York: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em New York: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Austin"
 description: "Clases online de portugués brasileño en Austin, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/austin/austin-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Austin | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Austin. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Austin forma parte de la región de North America utilizada como referencia para organizar horarios. Austin está situada en United States. Local goals: En Austin, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Austin, define Austin viajes; practica Austin trabajo; explora Austin familia; mejora Austin pronunciación; confirma Austin horario."
+local_context: "Clases online de portugués brasileño para Austin; confirma un horario para Austin usando America/Chicago."
 scheduling: "Horarios para Austin: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Chicago; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Austin: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

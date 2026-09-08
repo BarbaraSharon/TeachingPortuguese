@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Florence"
 description: "Clases online de portugués brasileño en Florence, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/florence/florence-location-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Florencia | Clases en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Florence. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Florence forma parte de la región de Europe utilizada como referencia para organizar horarios. Florence está situada en Italy. Local goals: Para Florence, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Florence, define Florence viajes; practica Florence trabajo; explora Florence familia; mejora Florence pronunciación; confirma Florence horario."
+local_context: "Clases online de portugués brasileño para Florence; confirma un horario para Florence usando Europe/Rome."
 scheduling: "Horarios para Florence: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Florence: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

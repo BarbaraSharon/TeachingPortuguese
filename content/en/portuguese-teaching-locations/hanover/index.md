@@ -3,7 +3,7 @@ translationKey: location-hanover
 title: "Online Brazilian Portuguese Lessons in Hanover"
 description: "Online Brazilian Portuguese lessons in Hanover, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/hanover/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Hanover. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Hanover is in the Europe scheduling region. Hanover is located in Germany. Local goals: Portuguese study in Hanover can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Hanover: ask Barbara about Hanover pronunciation, Hanover listening, Hanover conversation, and Hanover travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Hanover; flexible scheduling can be confirmed for Hanover using Europe/Berlin."
 scheduling: "Scheduling from Hanover: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hanover: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

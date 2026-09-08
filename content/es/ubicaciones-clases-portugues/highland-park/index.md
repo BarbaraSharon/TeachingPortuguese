@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Highland Park: Presenciales y Online"
 description: "Clases de portugués en Highland Park: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/highland-park/highland-park-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Highland Park: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Highland Park con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Highland Park forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Highland Park está situada en Australia. Local goals: Para Highland Park, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Highland Park, define Highland Park viajes; practica Highland Park trabajo; explora Highland Park familia; mejora Highland Park pronunciación; confirma Highland Park horario."
+local_context: "Clases online de portugués brasileño para Highland Park; las opciones presenciales en Gold Coast se confirman para Highland Park usando Australia/Brisbane."
 scheduling: "Horarios para Highland Park: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Highland Park: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

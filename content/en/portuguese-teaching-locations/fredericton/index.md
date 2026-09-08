@@ -3,7 +3,7 @@ translationKey: location-fredericton
 title: "Online Brazilian Portuguese Lessons in Fredericton"
 description: "Online Brazilian Portuguese lessons in Fredericton, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/fredericton/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Fredericton"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Fredericton. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Fredericton is in the North America scheduling region. Fredericton is located in Canada. Local goals: Barbara adapts lessons for Fredericton to travel, work, or family goals; Fredericton availability is checked before booking. Local focus: Reference for Fredericton: ask Barbara about Fredericton pronunciation, Fredericton listening, Fredericton conversation, and Fredericton travel vocabulary goals."
-scheduling: "Scheduling from Fredericton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Fredericton; flexible scheduling can be confirmed for Fredericton using America/Halifax."
+scheduling: "Scheduling from Fredericton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Halifax; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Fredericton: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Fredericton"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Fredericton?"
-    answer: "Yes. Lessons are online, so you can study from Fredericton. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Fredericton. Times are agreed in advance using America/Halifax and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

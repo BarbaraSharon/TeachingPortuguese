@@ -3,7 +3,7 @@ translationKey: location-prince-george
 title: "Online Brazilian Portuguese Lessons in Prince George"
 description: "Online Brazilian Portuguese lessons in Prince George, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/prince-george/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Prince George"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Prince George. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Prince George is in the North America scheduling region. Prince George is located in Canada. Local goals: For Prince George, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Prince George: ask Barbara about Prince George pronunciation, Prince George listening, Prince George conversation, and Prince George travel vocabulary goals."
-scheduling: "Scheduling from Prince George: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Prince George; flexible scheduling can be confirmed for Prince George using America/Vancouver."
+scheduling: "Scheduling from Prince George: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Prince George: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Prince George"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Prince George?"
-    answer: "Yes. Lessons are online, so you can study from Prince George. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Prince George. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

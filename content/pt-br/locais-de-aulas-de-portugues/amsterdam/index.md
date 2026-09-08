@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Amsterdam"
 description: "Aulas online de português brasileiro em Amsterdam, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/amsterdam/amsterdam-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Amsterdã | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Amsterdam. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Amsterdam faz parte da região de Europe usada como referência para organizar horários. Amsterdam fica em Netherlands. Local goals: Em Amsterdam, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Amsterdam, defina Amsterdam viagens; pratique Amsterdam carreira; explore Amsterdam família; melhore Amsterdam pronúncia; treine Amsterdam conversa; confirme Amsterdam horário."
+local_context: "Aulas online de português brasileiro para Amsterdam; confirme um horário para Amsterdam usando Europe/Amsterdam."
 scheduling: "Horários para Amsterdam: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Amsterdam: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

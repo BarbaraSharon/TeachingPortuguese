@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Adelaide"
 description: "Aulas online de português brasileiro em Adelaide, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/adelaide/adelaide-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Adelaide | Aulas online e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Adelaide"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Adelaide. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Adelaide faz parte da região de Australia & New Zealand usada como referência para organizar horários. Adelaide fica em Australia. Local goals: Para Adelaide, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Adelaide, defina Adelaide viagens; pratique Adelaide carreira; explore Adelaide família; melhore Adelaide pronúncia; treine Adelaide conversa; confirme Adelaide horário."
+local_context: "Aulas online de português brasileiro para Adelaide; confirme um horário para Adelaide usando Australia/Adelaide."
 scheduling: "Horários para Adelaide: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Adelaide; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Adelaide: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

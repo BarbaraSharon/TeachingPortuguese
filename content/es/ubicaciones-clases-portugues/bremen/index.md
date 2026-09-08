@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Bremen"
 description: "Clases online de portugués brasileño en Bremen, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/bremen/bremen-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Bremen | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bremen. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bremen forma parte de la región de Europe utilizada como referencia para organizar horarios. Bremen está situada en Germany. Local goals: Barbara adapta las clases para Bremen a objetivos de viaje, trabajo o familia; la disponibilidad en Bremen se comprueba antes de reservar. Local focus: En Bremen, define Bremen viajes; practica Bremen trabajo; explora Bremen familia; mejora Bremen pronunciación; confirma Bremen horario."
+local_context: "Clases online de portugués brasileño para Bremen; confirma un horario para Bremen usando Europe/Berlin."
 scheduling: "Horarios para Bremen: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bremen: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

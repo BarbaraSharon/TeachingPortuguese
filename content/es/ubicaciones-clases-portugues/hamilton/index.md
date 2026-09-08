@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Hamilton"
 description: "Clases online de portugués brasileño en Hamilton, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/hamilton/hamilton-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Hamilton | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Hamilton. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Hamilton forma parte de la región de North America utilizada como referencia para organizar horarios. Hamilton está situada en Canada. Local goals: En Hamilton, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Hamilton, define Hamilton viajes; practica Hamilton trabajo; explora Hamilton familia; mejora Hamilton pronunciación; confirma Hamilton horario."
+local_context: "Clases online de portugués brasileño para Hamilton; confirma un horario para Hamilton usando America/Toronto."
 scheduling: "Horarios para Hamilton: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Hamilton: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

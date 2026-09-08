@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Nuremberg"
 description: "Clases online de portugués brasileño en Nuremberg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/nuremberg/nuremberg-portuguese-lesson.png
   alt_text: Aprende portugués en Núremberg | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Nuremberg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Nuremberg forma parte de la región de Europe utilizada como referencia para organizar horarios. Nuremberg está situada en Germany. Local goals: Quienes estudian en Nuremberg pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Nuremberg, define Nuremberg viajes; practica Nuremberg trabajo; explora Nuremberg familia; mejora Nuremberg pronunciación; confirma Nuremberg horario."
+local_context: "Clases online de portugués brasileño para Nuremberg; confirma un horario para Nuremberg usando Europe/Berlin."
 scheduling: "Horarios para Nuremberg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Nuremberg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

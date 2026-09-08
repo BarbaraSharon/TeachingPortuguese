@@ -3,7 +3,7 @@ translationKey: location-abbotsford
 title: "Online Brazilian Portuguese Lessons in Abbotsford"
 description: "Online Brazilian Portuguese lessons in Abbotsford, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/abbotsford/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Abbotsford"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Abbotsford. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Abbotsford is in the North America scheduling region. Abbotsford is located in Canada. Local goals: Learners in Abbotsford can start with travel dialogues, then practise work and family; the Abbotsford time is confirmed before enrolment. Local focus: Reference for Abbotsford: ask Barbara about Abbotsford pronunciation, Abbotsford listening, Abbotsford conversation, and Abbotsford travel vocabulary goals."
-scheduling: "Scheduling from Abbotsford: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Abbotsford; flexible scheduling can be confirmed for Abbotsford using America/Vancouver."
+scheduling: "Scheduling from Abbotsford: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Abbotsford: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Abbotsford"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Abbotsford?"
-    answer: "Yes. Lessons are online, so you can study from Abbotsford. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Abbotsford. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

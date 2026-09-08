@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Victoria"
 description: "Clases online de portugués brasileño en Victoria, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/victoria/victoria-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -14,18 +14,18 @@ categories:
 city: "Victoria"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Victoria. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Victoria forma parte de la región de North America utilizada como referencia para organizar horarios. Victoria está situada en Canada. Local goals: Estudiar portugués en Victoria puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Victoria, define Victoria viajes; practica Victoria trabajo; explora Victoria familia; mejora Victoria pronunciación; confirma Victoria horario."
-scheduling: "Horarios para Victoria: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Victoria; confirma un horario para Victoria usando America/Vancouver."
+scheduling: "Horarios para Victoria: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Vancouver; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Victoria: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Victoria"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Victoria?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Victoria. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Victoria. Los horarios se acuerdan con antelación usando America/Vancouver y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

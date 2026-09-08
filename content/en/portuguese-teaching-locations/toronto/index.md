@@ -3,7 +3,7 @@ translationKey: location-toronto
 title: "Online Brazilian Portuguese Lessons in Toronto"
 description: "Online Brazilian Portuguese lessons in Toronto, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/toronto/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Toronto. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Toronto is in the North America scheduling region. Toronto is located in Canada. Local goals: For Toronto, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Toronto: ask Barbara about Toronto pronunciation, Toronto listening, Toronto conversation, and Toronto travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Toronto; flexible scheduling can be confirmed for Toronto using America/Toronto."
 scheduling: "Scheduling from Toronto: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Toronto: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

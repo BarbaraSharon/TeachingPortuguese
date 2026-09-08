@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Tel Aviv"
 description: "Aulas online de português brasileiro em Tel Aviv, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/tel-aviv/tel-aviv-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Jerusalem"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Tel Aviv. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Tel Aviv faz parte da região de Asia usada como referência para organizar horários. Tel Aviv fica em Israel. Local goals: Em Tel Aviv, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Tel Aviv, defina Tel Aviv viagens; pratique Tel Aviv carreira; explore Tel Aviv família; melhore Tel Aviv pronúncia; treine Tel Aviv conversa; confirme Tel Aviv horário."
+local_context: "Aulas online de português brasileiro para Tel Aviv; confirme um horário para Tel Aviv usando Asia/Jerusalem."
 scheduling: "Horários para Tel Aviv: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Jerusalem; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Tel Aviv: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

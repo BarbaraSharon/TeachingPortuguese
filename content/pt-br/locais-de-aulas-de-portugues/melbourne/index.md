@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Melbourne"
 description: "Aulas online de português brasileiro em Melbourne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/melbourne/melbourne-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Melbourne | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Melbourne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Melbourne faz parte da região de Australia & New Zealand usada como referência para organizar horários. Melbourne fica em Australia. Local goals: Para Melbourne, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Melbourne, defina Melbourne viagens; pratique Melbourne carreira; explore Melbourne família; melhore Melbourne pronúncia; treine Melbourne conversa; confirme Melbourne horário."
+local_context: "Aulas online de português brasileiro para Melbourne; confirme um horário para Melbourne usando Australia/Melbourne."
 scheduling: "Horários para Melbourne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Melbourne; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Melbourne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

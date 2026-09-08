@@ -3,7 +3,7 @@ translationKey: location-upper-coomera
 title: "Online Brazilian Portuguese Lessons in Upper Coomera"
 description: "Online Brazilian Portuguese lessons in Upper Coomera, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/upper-coomera/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Upper Coomera. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Upper Coomera is in the Australia & New Zealand scheduling region. Upper Coomera is located in Australia. Local goals: Barbara adapts lessons for Upper Coomera to travel, work, or family goals; Upper Coomera availability is checked before booking. Local focus: Reference for Upper Coomera: ask Barbara about Upper Coomera pronunciation, Upper Coomera listening, Upper Coomera conversation, and Upper Coomera travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Upper Coomera; flexible scheduling can be confirmed for Upper Coomera using Australia/Brisbane."
 scheduling: "Scheduling from Upper Coomera: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Upper Coomera: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

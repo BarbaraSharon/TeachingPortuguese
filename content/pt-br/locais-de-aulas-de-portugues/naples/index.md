@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Naples"
 description: "Aulas online de português brasileiro em Naples, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/naples/naples-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Naples | Tutora particular online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Naples. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Naples faz parte da região de Europe usada como referência para organizar horários. Naples fica em Italy. Local goals: Barbara adapta as aulas para Naples a objetivos de viagem, trabalho ou família; a disponibilidade de Naples é consultada antes da reserva. Local focus: Em Naples, defina Naples viagens; pratique Naples carreira; explore Naples família; melhore Naples pronúncia; treine Naples conversa; confirme Naples horário."
+local_context: "Aulas online de português brasileiro para Naples; confirme um horário para Naples usando Europe/Rome."
 scheduling: "Horários para Naples: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Naples: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

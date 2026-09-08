@@ -3,7 +3,7 @@ translationKey: location-alberton
 title: "Portuguese in Alberton: In-Person & Online"
 description: "Brazilian Portuguese lessons in Alberton, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-25
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/alberton/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Alberton with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Alberton is in the Gold Coast scheduling region. Alberton is located in Australia. Local goals: Portuguese study in Alberton can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Alberton: ask Barbara about Alberton pronunciation, Alberton listening, Alberton conversation, and Alberton travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Alberton; Gold Coast in-person options can be confirmed for Alberton using Australia/Brisbane."
 scheduling: "Scheduling from Alberton: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Alberton: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

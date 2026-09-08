@@ -3,7 +3,7 @@ translationKey: location-kamloops
 title: "Online Brazilian Portuguese Lessons in Kamloops"
 description: "Online Brazilian Portuguese lessons in Kamloops, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/kamloops/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Kamloops"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Kamloops. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Kamloops is in the North America scheduling region. Kamloops is located in Canada. Local goals: For Kamloops, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Kamloops: ask Barbara about Kamloops pronunciation, Kamloops listening, Kamloops conversation, and Kamloops travel vocabulary goals."
-scheduling: "Scheduling from Kamloops: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Kamloops; flexible scheduling can be confirmed for Kamloops using America/Vancouver."
+scheduling: "Scheduling from Kamloops: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kamloops: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Kamloops"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Kamloops?"
-    answer: "Yes. Lessons are online, so you can study from Kamloops. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Kamloops. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

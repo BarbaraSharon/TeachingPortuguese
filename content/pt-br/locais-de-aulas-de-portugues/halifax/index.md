@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Halifax"
 description: "Aulas online de português brasileiro em Halifax, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/halifax/halifax-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Halifax | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Halifax"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Halifax. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Halifax faz parte da região de North America usada como referência para organizar horários. Halifax fica em Canada. Local goals: Barbara adapta as aulas para Halifax a objetivos de viagem, trabalho ou família; a disponibilidade de Halifax é consultada antes da reserva. Local focus: Em Halifax, defina Halifax viagens; pratique Halifax carreira; explore Halifax família; melhore Halifax pronúncia; treine Halifax conversa; confirme Halifax horário."
-scheduling: "Horários para Halifax: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Halifax; confirme um horário para Halifax usando America/Halifax."
+scheduling: "Horários para Halifax: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Halifax; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Halifax: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Halifax"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Halifax?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Halifax. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Halifax. Os horários são combinados com antecedência usando America/Halifax e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

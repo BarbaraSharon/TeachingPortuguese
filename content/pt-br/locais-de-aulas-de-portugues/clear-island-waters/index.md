@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Clear Island Waters: Presenciais e Online"
 description: "Aulas de português em Clear Island Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/clear-island-waters/clear-island-waters-online-canal-lesson.png
   alt_text: "Aulas de português brasileiro em Clear Island Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Clear Island Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Clear Island Waters faz parte da região de Gold Coast usada como referência para organizar horários. Clear Island Waters fica em Australia. Local goals: Para Clear Island Waters, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Clear Island Waters, defina Clear Island Waters viagens; pratique Clear Island Waters carreira; explore Clear Island Waters família; melhore Clear Island Waters pronúncia; treine Clear Island Waters conversa; confirme Clear Island Waters horário."
+local_context: "Aulas online de português brasileiro para Clear Island Waters; opções presenciais em Gold Coast podem ser confirmadas para Clear Island Waters usando Australia/Brisbane."
 scheduling: "Horários para Clear Island Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Clear Island Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

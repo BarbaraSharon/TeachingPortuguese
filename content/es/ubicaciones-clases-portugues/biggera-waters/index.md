@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Biggera Waters: Presenciales y Online"
 description: "Clases de portugués en Biggera Waters: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/biggera-waters/biggera-waters-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Biggera Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Biggera Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Biggera Waters forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Biggera Waters está situada en Australia. Local goals: En Biggera Waters, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Biggera Waters, define Biggera Waters viajes; practica Biggera Waters trabajo; explora Biggera Waters familia; mejora Biggera Waters pronunciación; confirma Biggera Waters horario."
+local_context: "Clases online de portugués brasileño para Biggera Waters; las opciones presenciales en Gold Coast se confirman para Biggera Waters usando Australia/Brisbane."
 scheduling: "Horarios para Biggera Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Biggera Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

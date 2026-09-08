@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Surrey"
 description: "Clases online de portugués brasileño en Surrey, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/surrey/surrey-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -14,18 +14,18 @@ categories:
 city: "Surrey"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Surrey. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Surrey forma parte de la región de North America utilizada como referencia para organizar horarios. Surrey está situada en Canada. Local goals: Las personas de Surrey pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Surrey se confirma antes de la matrícula. Local focus: En Surrey, define Surrey viajes; practica Surrey trabajo; explora Surrey familia; mejora Surrey pronunciación; confirma Surrey horario."
-scheduling: "Horarios para Surrey: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Surrey; confirma un horario para Surrey usando America/Vancouver."
+scheduling: "Horarios para Surrey: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Vancouver; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Surrey: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Surrey"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Surrey?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Surrey. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Surrey. Los horarios se acuerdan con antelación usando America/Vancouver y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

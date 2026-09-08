@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Birmingham"
 description: "Clases online de portugués brasileño en Birmingham, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/birmingham/birmingham-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Birmingham | Clases en línea con Barbara Sharon - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Birmingham. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Birmingham forma parte de la región de Europe utilizada como referencia para organizar horarios. Birmingham está situada en United Kingdom. Local goals: En Birmingham, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Birmingham, define Birmingham viajes; practica Birmingham trabajo; explora Birmingham familia; mejora Birmingham pronunciación; confirma Birmingham horario."
+local_context: "Clases online de portugués brasileño para Birmingham; confirma un horario para Birmingham usando Europe/London."
 scheduling: "Horarios para Birmingham: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/London; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Birmingham: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

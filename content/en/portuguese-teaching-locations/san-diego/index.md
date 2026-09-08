@@ -3,7 +3,7 @@ translationKey: location-san-diego
 title: "Online Brazilian Portuguese Lessons in San Diego"
 description: "Online Brazilian Portuguese lessons in San Diego, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/san-diego/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from San Diego. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "San Diego is in the North America scheduling region. San Diego is located in United States. Local goals: Learners in San Diego can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for San Diego: ask Barbara about San Diego pronunciation, San Diego listening, San Diego conversation, and San Diego travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for San Diego; flexible scheduling can be confirmed for San Diego using America/Los_Angeles."
 scheduling: "Scheduling from San Diego: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in San Diego: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

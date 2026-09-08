@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Vancouver"
 description: "Aulas online de português brasileiro em Vancouver, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/vancouver/vancouver-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Vancouver. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Vancouver faz parte da região de North America usada como referência para organizar horários. Vancouver fica em Canada. Local goals: Estudar português em Vancouver pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Vancouver, defina Vancouver viagens; pratique Vancouver carreira; explore Vancouver família; melhore Vancouver pronúncia; treine Vancouver conversa; confirme Vancouver horário."
+local_context: "Aulas online de português brasileiro para Vancouver; confirme um horário para Vancouver usando America/Vancouver."
 scheduling: "Horários para Vancouver: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Vancouver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Vancouver: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

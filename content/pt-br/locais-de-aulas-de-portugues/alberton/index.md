@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Alberton: Presenciais e Online"
 description: "Aulas de português brasileiro em Alberton, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/alberton/alberton-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Alberton: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Alberton com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Alberton faz parte da região de Gold Coast usada como referência para organizar horários. Alberton fica em Australia. Local goals: Estudar português em Alberton pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Alberton, defina Alberton viagens; pratique Alberton carreira; explore Alberton família; melhore Alberton pronúncia; treine Alberton conversa; confirme Alberton horário."
+local_context: "Aulas online de português brasileiro para Alberton; opções presenciais em Gold Coast podem ser confirmadas para Alberton usando Australia/Brisbane."
 scheduling: "Horários para Alberton: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Alberton: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

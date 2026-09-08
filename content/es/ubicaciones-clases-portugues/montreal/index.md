@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Montreal"
 description: "Clases online de portugués brasileño en Montreal, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/montreal/montreal-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Montreal | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Montreal. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Montreal forma parte de la región de North America utilizada como referencia para organizar horarios. Montreal está situada en Canada. Local goals: Para Montreal, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Montreal, define Montreal viajes; practica Montreal trabajo; explora Montreal familia; mejora Montreal pronunciación; confirma Montreal horario."
+local_context: "Clases online de portugués brasileño para Montreal; confirma un horario para Montreal usando America/Toronto."
 scheduling: "Horarios para Montreal: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Montreal: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

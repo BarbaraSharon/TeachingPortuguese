@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Ciudad de Quebec"
 description: "Clases online de portugués brasileño en Ciudad de Quebec, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/quebec-city/quebec-city-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Ciudad de Quebec. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Ciudad de Quebec forma parte de la región de North America utilizada como referencia para organizar horarios. Ciudad de Quebec está situada en Canada. Local goals: Estudiar portugués en Ciudad de Quebec puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Ciudad de Quebec, define Ciudad de Quebec viajes; practica Ciudad de Quebec trabajo; explora Ciudad de Quebec familia; mejora Ciudad de Quebec pronunciación; confirma Ciudad de Quebec horario."
+local_context: "Clases online de portugués brasileño para Ciudad de Quebec; confirma un horario para Ciudad de Quebec usando America/Toronto."
 scheduling: "Horarios para Ciudad de Quebec: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Ciudad de Quebec: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Canberra"
 description: "Clases online de portugués brasileño en Canberra, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/canberra/canberra-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Canberra | Tutora brasileña nativa - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Canberra. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Canberra forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Canberra está situada en Australia. Local goals: En Canberra, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Canberra, define Canberra viajes; practica Canberra trabajo; explora Canberra familia; mejora Canberra pronunciación; confirma Canberra horario."
+local_context: "Clases online de portugués brasileño para Canberra; confirma un horario para Canberra usando Australia/Sydney."
 scheduling: "Horarios para Canberra: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Sydney; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Canberra: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

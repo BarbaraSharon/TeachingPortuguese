@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Nuremberg"
 description: "Aulas online de português brasileiro em Nuremberg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/nuremberg/nuremberg-portuguese-lesson.png
   alt_text: Aprenda português em Nuremberg | Aulas de português brasileiro - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Nuremberg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Nuremberg faz parte da região de Europe usada como referência para organizar horários. Nuremberg fica em Germany. Local goals: Alunos de Nuremberg podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Nuremberg, defina Nuremberg viagens; pratique Nuremberg carreira; explore Nuremberg família; melhore Nuremberg pronúncia; treine Nuremberg conversa; confirme Nuremberg horário."
+local_context: "Aulas online de português brasileiro para Nuremberg; confirme um horário para Nuremberg usando Europe/Berlin."
 scheduling: "Horários para Nuremberg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Nuremberg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Prince George"
 description: "Aulas online de português brasileiro em Prince George, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/prince-george/prince-george-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -14,18 +14,18 @@ categories:
 city: "Prince George"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Prince George. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Prince George faz parte da região de North America usada como referência para organizar horários. Prince George fica em Canada. Local goals: Para Prince George, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Prince George, defina Prince George viagens; pratique Prince George carreira; explore Prince George família; melhore Prince George pronúncia; treine Prince George conversa; confirme Prince George horário."
-scheduling: "Horários para Prince George: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Prince George; confirme um horário para Prince George usando America/Vancouver."
+scheduling: "Horários para Prince George: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Vancouver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Prince George: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Prince George"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Prince George?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Prince George. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Prince George. Os horários são combinados com antecedência usando America/Vancouver e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

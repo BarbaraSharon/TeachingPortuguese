@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Wiesbaden"
 description: "Clases online de portugués brasileño en Wiesbaden, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/wiesbaden/wiesbaden-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Wiesbaden | Clases en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Wiesbaden. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Wiesbaden forma parte de la región de Europe utilizada como referencia para organizar horarios. Wiesbaden está situada en Germany. Local goals: Para Wiesbaden, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Wiesbaden, define Wiesbaden viajes; practica Wiesbaden trabajo; explora Wiesbaden familia; mejora Wiesbaden pronunciación; confirma Wiesbaden horario."
+local_context: "Clases online de portugués brasileño para Wiesbaden; confirma un horario para Wiesbaden usando Europe/Berlin."
 scheduling: "Horarios para Wiesbaden: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Wiesbaden: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

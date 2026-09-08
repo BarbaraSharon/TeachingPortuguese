@@ -3,7 +3,7 @@ translationKey: location-jacobs-well
 title: "Portuguese in Jacobs Well: In-Person & Online"
 description: "Brazilian Portuguese lessons in Jacobs Well, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/jacobs-well/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Jacobs Well with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Jacobs Well is in the Gold Coast scheduling region. Jacobs Well is located in Australia. Local goals: Learners in Jacobs Well can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Jacobs Well: ask Barbara about Jacobs Well pronunciation, Jacobs Well listening, Jacobs Well conversation, and Jacobs Well travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Jacobs Well; Gold Coast in-person options can be confirmed for Jacobs Well using Australia/Brisbane."
 scheduling: "Scheduling from Jacobs Well: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Jacobs Well: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

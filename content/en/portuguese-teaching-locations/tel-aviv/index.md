@@ -3,7 +3,7 @@ translationKey: location-tel-aviv
 title: "Online Brazilian Portuguese Lessons in Tel Aviv"
 description: "Online Brazilian Portuguese lessons in Tel Aviv, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/tel-aviv/
 image:
@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Jerusalem"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Tel Aviv. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Tel Aviv is in the Asia scheduling region. Tel Aviv is located in Israel. Local goals: In Tel Aviv, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Tel Aviv: ask Barbara about Tel Aviv pronunciation, Tel Aviv listening, Tel Aviv conversation, and Tel Aviv travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Tel Aviv; flexible scheduling can be confirmed for Tel Aviv using Asia/Jerusalem."
 scheduling: "Scheduling from Tel Aviv: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Jerusalem; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Tel Aviv: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

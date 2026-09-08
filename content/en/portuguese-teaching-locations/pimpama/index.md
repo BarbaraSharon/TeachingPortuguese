@@ -3,7 +3,7 @@ translationKey: location-pimpama
 title: "Online Brazilian Portuguese Lessons in Pimpama"
 description: "Online Brazilian Portuguese lessons in Pimpama, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/pimpama/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Pimpama. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Pimpama is in the Australia & New Zealand scheduling region. Pimpama is located in Australia. Local goals: Learners in Pimpama can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Pimpama: ask Barbara about Pimpama pronunciation, Pimpama listening, Pimpama conversation, and Pimpama travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Pimpama; flexible scheduling can be confirmed for Pimpama using Australia/Brisbane."
 scheduling: "Scheduling from Pimpama: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Pimpama: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

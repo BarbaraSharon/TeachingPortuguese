@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Cork"
 description: "Aulas online de português brasileiro em Cork, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/cork/cork-online-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Cork | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cork. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Cork faz parte da região de Europe usada como referência para organizar horários. Cork fica em Ireland. Local goals: Quem aprende em Cork pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Cork, defina Cork viagens; pratique Cork carreira; explore Cork família; melhore Cork pronúncia; treine Cork conversa; confirme Cork horário."
+local_context: "Aulas online de português brasileiro para Cork; confirme um horário para Cork usando Europe/Dublin."
 scheduling: "Horários para Cork: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Dublin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cork: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

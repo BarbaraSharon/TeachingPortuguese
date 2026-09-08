@@ -3,7 +3,7 @@ translationKey: location-sydney
 title: "Online Brazilian Portuguese Lessons in Sydney"
 description: "Online Brazilian Portuguese lessons in Sydney, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/sydney/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Sydney. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Sydney is in the Australia & New Zealand scheduling region. Sydney is located in Australia. Local goals: In Sydney, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Sydney: ask Barbara about Sydney pronunciation, Sydney listening, Sydney conversation, and Sydney travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Sydney; flexible scheduling can be confirmed for Sydney using Australia/Sydney."
 scheduling: "Scheduling from Sydney: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Sydney: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

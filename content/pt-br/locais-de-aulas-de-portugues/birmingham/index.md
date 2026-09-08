@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Birmingham"
 description: "Aulas online de português brasileiro em Birmingham, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/birmingham/birmingham-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Birmingham | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Birmingham. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Birmingham faz parte da região de Europe usada como referência para organizar horários. Birmingham fica em United Kingdom. Local goals: Em Birmingham, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Birmingham, defina Birmingham viagens; pratique Birmingham carreira; explore Birmingham família; melhore Birmingham pronúncia; treine Birmingham conversa; confirme Birmingham horário."
+local_context: "Aulas online de português brasileiro para Birmingham; confirme um horário para Birmingham usando Europe/London."
 scheduling: "Horários para Birmingham: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Birmingham: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

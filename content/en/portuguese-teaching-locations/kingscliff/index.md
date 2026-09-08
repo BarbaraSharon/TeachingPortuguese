@@ -3,7 +3,7 @@ translationKey: location-kingscliff
 title: "Portuguese in Kingscliff: In-Person & Online"
 description: "Brazilian Portuguese lessons in Kingscliff, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/kingscliff/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Kingscliff"
 country: "Australia"
 region_group: "Gold Coast"
-time_zone: "Australia/Brisbane"
+time_zone: "Australia/Sydney"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Kingscliff with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Kingscliff is in the Gold Coast scheduling region. Kingscliff is located in Australia. Local goals: For Kingscliff, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Kingscliff: ask Barbara about Kingscliff pronunciation, Kingscliff listening, Kingscliff conversation, and Kingscliff travel vocabulary goals."
-scheduling: "Scheduling from Kingscliff: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Kingscliff; Gold Coast in-person options can be confirmed for Kingscliff using Australia/Sydney."
+scheduling: "Scheduling from Kingscliff: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kingscliff: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Kingscliff"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Kingscliff?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Sydney. Contact Barbara to discuss the best format."
 editorial_reviewed: true
 ---
 

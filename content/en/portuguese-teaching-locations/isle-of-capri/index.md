@@ -3,7 +3,7 @@ translationKey: location-isle-of-capri
 title: "Portuguese in Isle Of Capri: In-Person & Online"
 description: "Portuguese lessons in Isle Of Capri: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/isle-of-capri/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Isle Of Capri with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Isle Of Capri is in the Gold Coast scheduling region. Isle Of Capri is located in Australia. Local goals: For Isle Of Capri, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Isle Of Capri: ask Barbara about Isle Of Capri pronunciation, Isle Of Capri listening, Isle Of Capri conversation, and Isle Of Capri travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Isle Of Capri; Gold Coast in-person options can be confirmed for Isle Of Capri using Australia/Brisbane."
 scheduling: "Scheduling from Isle Of Capri: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Isle Of Capri: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

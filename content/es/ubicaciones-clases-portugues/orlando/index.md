@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Orlando"
 description: "Clases online de portugués brasileño en Orlando, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/orlando/orlando-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Orlando | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Orlando. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Orlando forma parte de la región de North America utilizada como referencia para organizar horarios. Orlando está situada en United States. Local goals: Quienes aprenden en Orlando pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Orlando, define Orlando viajes; practica Orlando trabajo; explora Orlando familia; mejora Orlando pronunciación; confirma Orlando horario."
+local_context: "Clases online de portugués brasileño para Orlando; confirma un horario para Orlando usando America/New_York."
 scheduling: "Horarios para Orlando: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Orlando: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

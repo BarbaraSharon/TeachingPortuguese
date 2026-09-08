@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Tweed Heads"
 description: "Aulas online de português brasileiro em Tweed Heads, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/tweed-heads/tweed-heads-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -14,18 +14,18 @@ categories:
 city: "Tweed Heads"
 country: "Australia"
 region_group: "Australia & New Zealand"
-time_zone: "Australia/Brisbane"
+time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Tweed Heads. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Tweed Heads faz parte da região de Australia & New Zealand usada como referência para organizar horários. Tweed Heads fica em Australia. Local goals: Para Tweed Heads, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Tweed Heads, defina Tweed Heads viagens; pratique Tweed Heads carreira; explore Tweed Heads família; melhore Tweed Heads pronúncia; treine Tweed Heads conversa; confirme Tweed Heads horário."
-scheduling: "Horários para Tweed Heads: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Tweed Heads; confirme um horário para Tweed Heads usando Australia/Sydney."
+scheduling: "Horários para Tweed Heads: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Tweed Heads: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Tweed Heads"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Tweed Heads?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Tweed Heads. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Tweed Heads. Os horários são combinados com antecedência usando Australia/Sydney e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

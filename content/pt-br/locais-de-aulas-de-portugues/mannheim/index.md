@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Mannheim"
 description: "Aulas online de português brasileiro em Mannheim, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/mannheim/mannheim-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Mannheim. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Mannheim faz parte da região de Europe usada como referência para organizar horários. Mannheim fica em Germany. Local goals: Estudar português em Mannheim pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Mannheim, defina Mannheim viagens; pratique Mannheim carreira; explore Mannheim família; melhore Mannheim pronúncia; treine Mannheim conversa; confirme Mannheim horário."
+local_context: "Aulas online de português brasileiro para Mannheim; confirme um horário para Mannheim usando Europe/Berlin."
 scheduling: "Horários para Mannheim: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mannheim: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

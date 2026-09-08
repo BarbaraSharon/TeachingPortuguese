@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Hamburg"
 description: "Aulas online de português brasileiro em Hamburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/hamburg/hamburg-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Hamburgo | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Hamburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Hamburg faz parte da região de Europe usada como referência para organizar horários. Hamburg fica em Germany. Local goals: Quem estuda em Hamburg pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Hamburg é confirmado antes da matrícula. Local focus: Em Hamburg, defina Hamburg viagens; pratique Hamburg carreira; explore Hamburg família; melhore Hamburg pronúncia; treine Hamburg conversa; confirme Hamburg horário."
+local_context: "Aulas online de português brasileiro para Hamburg; confirme um horário para Hamburg usando Europe/Berlin."
 scheduling: "Horários para Hamburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Hamburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

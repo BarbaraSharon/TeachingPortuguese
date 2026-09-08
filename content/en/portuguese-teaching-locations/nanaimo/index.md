@@ -3,7 +3,7 @@ translationKey: location-nanaimo
 title: "Online Brazilian Portuguese Lessons in Nanaimo"
 description: "Online Brazilian Portuguese lessons in Nanaimo, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/nanaimo/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Nanaimo"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Nanaimo. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Nanaimo is in the North America scheduling region. Nanaimo is located in Canada. Local goals: For Nanaimo, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Nanaimo: ask Barbara about Nanaimo pronunciation, Nanaimo listening, Nanaimo conversation, and Nanaimo travel vocabulary goals."
-scheduling: "Scheduling from Nanaimo: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Nanaimo; flexible scheduling can be confirmed for Nanaimo using America/Vancouver."
+scheduling: "Scheduling from Nanaimo: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Nanaimo: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Nanaimo"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Nanaimo?"
-    answer: "Yes. Lessons are online, so you can study from Nanaimo. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Nanaimo. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

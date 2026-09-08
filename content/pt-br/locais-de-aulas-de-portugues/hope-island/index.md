@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Hope Island: Presenciais e Online"
 description: "Aulas de português brasileiro em Hope Island, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/hope-island/hope-island-location-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Hope Island: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Hope Island com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Hope Island faz parte da região de Gold Coast usada como referência para organizar horários. Hope Island fica em Australia. Local goals: Em Hope Island, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Hope Island, defina Hope Island viagens; pratique Hope Island carreira; explore Hope Island família; melhore Hope Island pronúncia; treine Hope Island conversa; confirme Hope Island horário."
+local_context: "Aulas online de português brasileiro para Hope Island; opções presenciais em Gold Coast podem ser confirmadas para Hope Island usando Australia/Brisbane."
 scheduling: "Horários para Hope Island: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Hope Island: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

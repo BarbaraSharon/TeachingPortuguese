@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Forest Hill: Presenciales y Online"
 description: "Clases de portugués en Forest Hill: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/forest-hill/forest-hill-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Forest Hill: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Forest Hill con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Forest Hill forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Forest Hill está situada en Australia. Local goals: Para Forest Hill, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Forest Hill, define Forest Hill viajes; practica Forest Hill trabajo; explora Forest Hill familia; mejora Forest Hill pronunciación; confirma Forest Hill horario."
+local_context: "Clases online de portugués brasileño para Forest Hill; las opciones presenciales en Gold Coast se confirman para Forest Hill usando Australia/Brisbane."
 scheduling: "Horarios para Forest Hill: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Forest Hill: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

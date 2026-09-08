@@ -3,7 +3,7 @@ translationKey: location-barcelona
 title: "Online Brazilian Portuguese Lessons in Barcelona"
 description: "Online Brazilian Portuguese lessons in Barcelona, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/barcelona/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Barcelona. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Barcelona is in the Europe scheduling region. Barcelona is located in Spain. Local goals: Portuguese study in Barcelona can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Barcelona: ask Barbara about Barcelona pronunciation, Barcelona listening, Barcelona conversation, and Barcelona travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Barcelona; flexible scheduling can be confirmed for Barcelona using Europe/Madrid."
 scheduling: "Scheduling from Barcelona: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Madrid; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Barcelona: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

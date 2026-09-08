@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Foxwell: Presenciales y Online"
 description: "Clases de portugués brasileño en Foxwell, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/foxwell/foxwell-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Foxwell: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Foxwell con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Foxwell forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Foxwell está situada en Australia. Local goals: Para Foxwell, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Foxwell, define Foxwell viajes; practica Foxwell trabajo; explora Foxwell familia; mejora Foxwell pronunciación; confirma Foxwell horario."
+local_context: "Clases online de portugués brasileño para Foxwell; las opciones presenciales en Gold Coast se confirman para Foxwell usando Australia/Brisbane."
 scheduling: "Horarios para Foxwell: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Foxwell: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

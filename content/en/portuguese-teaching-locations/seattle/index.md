@@ -3,7 +3,7 @@ translationKey: location-seattle
 title: "Online Brazilian Portuguese Lessons in Seattle"
 description: "Online Brazilian Portuguese lessons in Seattle, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/seattle/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Seattle. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Seattle is in the North America scheduling region. Seattle is located in United States. Local goals: In Seattle, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Seattle: ask Barbara about Seattle pronunciation, Seattle listening, Seattle conversation, and Seattle travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Seattle; flexible scheduling can be confirmed for Seattle using America/Los_Angeles."
 scheduling: "Scheduling from Seattle: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Los_Angeles; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Seattle: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

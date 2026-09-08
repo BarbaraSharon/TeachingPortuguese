@@ -3,7 +3,7 @@ translationKey: location-singapore
 title: "Online Brazilian Portuguese Lessons in Singapore"
 description: "Online Brazilian Portuguese lessons in Singapore, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/singapore/
 image:
@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Singapore"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Singapore. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Singapore is in the Asia scheduling region. Singapore is located in Singapore. Local goals: In Singapore, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Singapore: ask Barbara about Singapore pronunciation, Singapore listening, Singapore conversation, and Singapore travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Singapore; flexible scheduling can be confirmed for Singapore using Asia/Singapore."
 scheduling: "Scheduling from Singapore: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Singapore; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Singapore: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

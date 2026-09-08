@@ -3,7 +3,7 @@ translationKey: location-denver
 title: "Online Brazilian Portuguese Lessons in Denver"
 description: "Online Brazilian Portuguese lessons in Denver, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/denver/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Denver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Denver. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Denver is in the North America scheduling region. Denver is located in United States. Local goals: In Denver, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Denver: ask Barbara about Denver pronunciation, Denver listening, Denver conversation, and Denver travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Denver; flexible scheduling can be confirmed for Denver using America/Denver."
 scheduling: "Scheduling from Denver: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Denver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Denver: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Richmond"
 description: "Aulas online de português brasileiro em Richmond, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/richmond/richmond-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -14,18 +14,18 @@ categories:
 city: "Richmond"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Richmond. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Richmond faz parte da região de North America usada como referência para organizar horários. Richmond fica em Canada. Local goals: Quem estuda em Richmond pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Richmond é confirmado antes da matrícula. Local focus: Em Richmond, defina Richmond viagens; pratique Richmond carreira; explore Richmond família; melhore Richmond pronúncia; treine Richmond conversa; confirme Richmond horário."
-scheduling: "Horários para Richmond: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Richmond; confirme um horário para Richmond usando America/Vancouver."
+scheduling: "Horários para Richmond: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Vancouver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Richmond: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Richmond"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Richmond?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Richmond. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Richmond. Os horários são combinados com antecedência usando America/Vancouver e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

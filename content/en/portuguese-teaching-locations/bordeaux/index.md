@@ -3,7 +3,7 @@ translationKey: location-bordeaux
 title: "Online Brazilian Portuguese Lessons in Bordeaux"
 description: "Online Brazilian Portuguese lessons in Bordeaux, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/bordeaux/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bordeaux. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bordeaux is in the Europe scheduling region. Bordeaux is located in France. Local goals: In Bordeaux, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Bordeaux: ask Barbara about Bordeaux pronunciation, Bordeaux listening, Bordeaux conversation, and Bordeaux travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Bordeaux; flexible scheduling can be confirmed for Bordeaux using Europe/Paris."
 scheduling: "Scheduling from Bordeaux: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bordeaux: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

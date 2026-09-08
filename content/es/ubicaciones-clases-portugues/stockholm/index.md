@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Stockholm"
 description: "Clases online de portugués brasileño en Stockholm, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/stockholm/stockholm-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Stockholm. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Stockholm forma parte de la región de Europe utilizada como referencia para organizar horarios. Stockholm está situada en Sweden. Local goals: En Stockholm, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Stockholm, define Stockholm viajes; practica Stockholm trabajo; explora Stockholm familia; mejora Stockholm pronunciación; confirma Stockholm horario."
+local_context: "Clases online de portugués brasileño para Stockholm; confirma un horario para Stockholm usando Europe/Stockholm."
 scheduling: "Horarios para Stockholm: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Stockholm; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Stockholm: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

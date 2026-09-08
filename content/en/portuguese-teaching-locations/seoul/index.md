@@ -3,7 +3,7 @@ translationKey: location-seoul
 title: "Online Brazilian Portuguese Lessons in Seoul"
 description: "Online Brazilian Portuguese lessons in Seoul, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/seoul/
 image:
@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Seoul"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Seoul. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Seoul is in the Asia scheduling region. Seoul is located in South Korea. Local goals: Learners in Seoul can start with travel dialogues, then practise work and family; the Seoul time is confirmed before enrolment. Local focus: Reference for Seoul: ask Barbara about Seoul pronunciation, Seoul listening, Seoul conversation, and Seoul travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Seoul; flexible scheduling can be confirmed for Seoul using Asia/Seoul."
 scheduling: "Scheduling from Seoul: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Seoul; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Seoul: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

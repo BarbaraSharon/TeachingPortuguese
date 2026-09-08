@@ -3,7 +3,7 @@ translationKey: location-dublin
 title: "Online Brazilian Portuguese Lessons in Dublin"
 description: "Online Brazilian Portuguese lessons in Dublin, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/dublin/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Dublin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Dublin is in the Europe scheduling region. Dublin is located in Ireland. Local goals: In Dublin, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Dublin: ask Barbara about Dublin pronunciation, Dublin listening, Dublin conversation, and Dublin travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Dublin; flexible scheduling can be confirmed for Dublin using Europe/Dublin."
 scheduling: "Scheduling from Dublin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Dublin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Dublin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

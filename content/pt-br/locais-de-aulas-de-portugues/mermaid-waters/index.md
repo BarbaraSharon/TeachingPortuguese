@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Mermaid Waters: Presenciais e Online"
 description: "Aulas de português brasileiro em Mermaid Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/mermaid-waters/mermaid-waters-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Mermaid Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Mermaid Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Mermaid Waters faz parte da região de Gold Coast usada como referência para organizar horários. Mermaid Waters fica em Australia. Local goals: Quem estuda em Mermaid Waters pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Mermaid Waters é confirmado antes da matrícula. Local focus: Em Mermaid Waters, defina Mermaid Waters viagens; pratique Mermaid Waters carreira; explore Mermaid Waters família; melhore Mermaid Waters pronúncia; treine Mermaid Waters conversa; confirme Mermaid Waters horário."
+local_context: "Aulas online de português brasileiro para Mermaid Waters; opções presenciais em Gold Coast podem ser confirmadas para Mermaid Waters usando Australia/Brisbane."
 scheduling: "Horários para Mermaid Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mermaid Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

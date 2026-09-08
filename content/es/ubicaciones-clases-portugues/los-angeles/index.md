@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Los Angeles"
 description: "Clases online de portugués brasileño en Los Angeles, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/los-angeles/los-angeles-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Los Ángeles | Clases de portugués brasileño con Barbara Sharon
@@ -12,20 +12,20 @@ robots: index, follow, max-image-preview:large
 categories:
 - Ubicaciones para aprender portugués
 city: "Los Angeles"
-country: "Canada"
+country: "United States"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Los Angeles. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Los Angeles forma parte de la región de North America utilizada como referencia para organizar horarios. Los Angeles está situada en Canada. Local goals: En Los Angeles, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Los Angeles, define Los Angeles viajes; practica Los Angeles trabajo; explora Los Angeles familia; mejora Los Angeles pronunciación; confirma Los Angeles horario."
-scheduling: "Horarios para Los Angeles: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Los Angeles; confirma un horario para Los Angeles usando America/Los_Angeles."
+scheduling: "Horarios para Los Angeles: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Los Angeles: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Los Angeles"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Los Angeles?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Los Angeles. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Los Angeles. Los horarios se acuerdan con antelación usando America/Los_Angeles y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

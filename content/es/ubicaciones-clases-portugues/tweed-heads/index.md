@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Tweed Heads"
 description: "Clases online de portugués brasileño en Tweed Heads, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/tweed-heads/tweed-heads-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -14,18 +14,18 @@ categories:
 city: "Tweed Heads"
 country: "Australia"
 region_group: "Australia & New Zealand"
-time_zone: "Australia/Brisbane"
+time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Tweed Heads. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Tweed Heads forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Tweed Heads está situada en Australia. Local goals: Para Tweed Heads, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Tweed Heads, define Tweed Heads viajes; practica Tweed Heads trabajo; explora Tweed Heads familia; mejora Tweed Heads pronunciación; confirma Tweed Heads horario."
-scheduling: "Horarios para Tweed Heads: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Tweed Heads; confirma un horario para Tweed Heads usando Australia/Sydney."
+scheduling: "Horarios para Tweed Heads: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Sydney; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Tweed Heads: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Tweed Heads"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Tweed Heads?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Tweed Heads. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Tweed Heads. Los horarios se acuerdan con antelación usando Australia/Sydney y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

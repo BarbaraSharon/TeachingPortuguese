@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Copenhagen"
 description: "Clases online de portugués brasileño en Copenhagen, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/copenhagen/copenhagen-online-pronunciation-microphone.png
   alt_text: Aprende portugués brasileño en Copenhague | Clases en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Copenhagen"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Copenhagen. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Copenhagen forma parte de la región de Europe utilizada como referencia para organizar horarios. Copenhagen está situada en Denmark. Local goals: En Copenhagen, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Copenhagen, define Copenhagen viajes; practica Copenhagen trabajo; explora Copenhagen familia; mejora Copenhagen pronunciación; confirma Copenhagen horario."
+local_context: "Clases online de portugués brasileño para Copenhagen; confirma un horario para Copenhagen usando Europe/Copenhagen."
 scheduling: "Horarios para Copenhagen: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Copenhagen; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Copenhagen: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

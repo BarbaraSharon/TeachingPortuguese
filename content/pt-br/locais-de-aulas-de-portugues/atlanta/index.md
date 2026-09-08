@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Atlanta"
 description: "Aulas online de português brasileiro em Atlanta, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/atlanta/atlanta-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Atlanta | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Atlanta. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Atlanta faz parte da região de North America usada como referência para organizar horários. Atlanta fica em United States. Local goals: Quem aprende em Atlanta pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Atlanta, defina Atlanta viagens; pratique Atlanta carreira; explore Atlanta família; melhore Atlanta pronúncia; treine Atlanta conversa; confirme Atlanta horário."
+local_context: "Aulas online de português brasileiro para Atlanta; confirme um horário para Atlanta usando America/New_York."
 scheduling: "Horários para Atlanta: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Atlanta: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

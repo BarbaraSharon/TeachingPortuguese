@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Madrid"
 description: "Clases online de portugués brasileño en Madrid, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/madrid/madrid-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Madrid | Clases particulares y grupales de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Madrid. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Madrid forma parte de la región de Europe utilizada como referencia para organizar horarios. Madrid está situada en Spain. Local goals: Estudiar portugués en Madrid puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Madrid, define Madrid viajes; practica Madrid trabajo; explora Madrid familia; mejora Madrid pronunciación; confirma Madrid horario."
+local_context: "Clases online de portugués brasileño para Madrid; confirma un horario para Madrid usando Europe/Madrid."
 scheduling: "Horarios para Madrid: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Madrid; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Madrid: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

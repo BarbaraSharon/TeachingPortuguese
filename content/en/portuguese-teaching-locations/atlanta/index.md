@@ -3,7 +3,7 @@ translationKey: location-atlanta
 title: "Online Brazilian Portuguese Lessons in Atlanta"
 description: "Online Brazilian Portuguese lessons in Atlanta, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/atlanta/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Atlanta. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Atlanta is in the North America scheduling region. Atlanta is located in United States. Local goals: Learners in Atlanta can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Atlanta: ask Barbara about Atlanta pronunciation, Atlanta listening, Atlanta conversation, and Atlanta travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Atlanta; flexible scheduling can be confirmed for Atlanta using America/New_York."
 scheduling: "Scheduling from Atlanta: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Atlanta: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

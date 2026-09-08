@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Dublin"
 description: "Clases online de portugués brasileño en Dublin, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/dublin/dublin-location-portuguese-lesson.png
   alt_text: Aprende portugués en Dublín | Clases en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Dublin. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Dublin forma parte de la región de Europe utilizada como referencia para organizar horarios. Dublin está situada en Ireland. Local goals: En Dublin, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Dublin, define Dublin viajes; practica Dublin trabajo; explora Dublin familia; mejora Dublin pronunciación; confirma Dublin horario."
+local_context: "Clases online de portugués brasileño para Dublin; confirma un horario para Dublin usando Europe/Dublin."
 scheduling: "Horarios para Dublin: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Dublin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Dublin: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

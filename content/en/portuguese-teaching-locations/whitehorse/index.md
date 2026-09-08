@@ -3,7 +3,7 @@ translationKey: location-whitehorse
 title: "Online Brazilian Portuguese Lessons in Whitehorse"
 description: "Online Brazilian Portuguese lessons in Whitehorse, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/whitehorse/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Whitehorse"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Whitehorse"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Whitehorse. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Whitehorse is in the North America scheduling region. Whitehorse is located in Canada. Local goals: For Whitehorse, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Whitehorse: ask Barbara about Whitehorse pronunciation, Whitehorse listening, Whitehorse conversation, and Whitehorse travel vocabulary goals."
-scheduling: "Scheduling from Whitehorse: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Whitehorse; flexible scheduling can be confirmed for Whitehorse using America/Whitehorse."
+scheduling: "Scheduling from Whitehorse: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Whitehorse; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Whitehorse: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Whitehorse"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Whitehorse?"
-    answer: "Yes. Lessons are online, so you can study from Whitehorse. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Whitehorse. Times are agreed in advance using America/Whitehorse and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

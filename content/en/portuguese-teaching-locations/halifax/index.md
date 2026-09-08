@@ -3,7 +3,7 @@ translationKey: location-halifax
 title: "Online Brazilian Portuguese Lessons in Halifax"
 description: "Online Brazilian Portuguese lessons in Halifax, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/halifax/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Halifax"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Halifax. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Halifax is in the North America scheduling region. Halifax is located in Canada. Local goals: Barbara adapts lessons for Halifax to travel, work, or family goals; Halifax availability is checked before booking. Local focus: Reference for Halifax: ask Barbara about Halifax pronunciation, Halifax listening, Halifax conversation, and Halifax travel vocabulary goals."
-scheduling: "Scheduling from Halifax: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Halifax; flexible scheduling can be confirmed for Halifax using America/Halifax."
+scheduling: "Scheduling from Halifax: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Halifax; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Halifax: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Halifax"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Halifax?"
-    answer: "Yes. Lessons are online, so you can study from Halifax. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Halifax. Times are agreed in advance using America/Halifax and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Gothenburg"
 description: "Clases online de portugués brasileño en Gothenburg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/gothenburg/gothenburg-portuguese-lesson.png
   alt_text: Aprende portugués en Gotemburgo | Clases de portugués brasileño - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Gothenburg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Gothenburg forma parte de la región de Europe utilizada como referencia para organizar horarios. Gothenburg está situada en Sweden. Local goals: Quienes estudian en Gothenburg pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Gothenburg, define Gothenburg viajes; practica Gothenburg trabajo; explora Gothenburg familia; mejora Gothenburg pronunciación; confirma Gothenburg horario."
+local_context: "Clases online de portugués brasileño para Gothenburg; confirma un horario para Gothenburg usando Europe/Stockholm."
 scheduling: "Horarios para Gothenburg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Stockholm; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Gothenburg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

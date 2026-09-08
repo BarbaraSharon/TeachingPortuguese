@@ -3,7 +3,7 @@ translationKey: location-melbourne
 title: "Online Brazilian Portuguese Lessons in Melbourne"
 description: "Online Brazilian Portuguese lessons in Melbourne, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/melbourne/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Melbourne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Melbourne is in the Australia & New Zealand scheduling region. Melbourne is located in Australia. Local goals: For Melbourne, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Melbourne: ask Barbara about Melbourne pronunciation, Melbourne listening, Melbourne conversation, and Melbourne travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Melbourne; flexible scheduling can be confirmed for Melbourne using Australia/Melbourne."
 scheduling: "Scheduling from Melbourne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Melbourne; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Melbourne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

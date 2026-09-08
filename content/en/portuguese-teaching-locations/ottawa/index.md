@@ -3,7 +3,7 @@ translationKey: location-ottawa
 title: "Online Brazilian Portuguese Lessons in Ottawa"
 description: "Online Brazilian Portuguese lessons in Ottawa, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/ottawa/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Ottawa. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Ottawa is in the North America scheduling region. Ottawa is located in Canada. Local goals: For Ottawa, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Ottawa: ask Barbara about Ottawa pronunciation, Ottawa listening, Ottawa conversation, and Ottawa travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Ottawa; flexible scheduling can be confirmed for Ottawa using America/Toronto."
 scheduling: "Scheduling from Ottawa: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Ottawa: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

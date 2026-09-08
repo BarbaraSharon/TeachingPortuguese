@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Edinburgh"
 description: "Clases online de portugués brasileño en Edinburgh, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/edinburgh/edinburgh-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Edimburgo | Clases particulares y grupales
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Edinburgh. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Edinburgh forma parte de la región de Europe utilizada como referencia para organizar horarios. Edinburgh está situada en United Kingdom. Local goals: Las personas de Edinburgh pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Edinburgh se confirma antes de la matrícula. Local focus: En Edinburgh, define Edinburgh viajes; practica Edinburgh trabajo; explora Edinburgh familia; mejora Edinburgh pronunciación; confirma Edinburgh horario."
+local_context: "Clases online de portugués brasileño para Edinburgh; confirma un horario para Edinburgh usando Europe/London."
 scheduling: "Horarios para Edinburgh: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/London; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Edinburgh: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

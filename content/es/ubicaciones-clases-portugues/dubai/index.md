@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Dubai"
 description: "Clases online de portugués brasileño en Dubai, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/dubai/dubai-portuguese-lesson.png
   alt_text: Aprende portugués en Dubái | Clases en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Dubai. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Dubai forma parte de la región de Asia utilizada como referencia para organizar horarios. Dubai está situada en United Arab Emirates. Local goals: Quienes estudian en Dubai pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Dubai, define Dubai viajes; practica Dubai trabajo; explora Dubai familia; mejora Dubai pronunciación; confirma Dubai horario."
+local_context: "Clases online de portugués brasileño para Dubai; confirma un horario para Dubai usando Asia/Dubai."
 scheduling: "Horarios para Dubai: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Dubai; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Dubai: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

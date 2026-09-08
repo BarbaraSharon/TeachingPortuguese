@@ -3,7 +3,7 @@ translationKey: location-boston
 title: "Online Brazilian Portuguese Lessons in Boston"
 description: "Online Brazilian Portuguese lessons in Boston, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/boston/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Boston. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Boston is in the North America scheduling region. Boston is located in United States. Local goals: Learners in Boston can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Boston: ask Barbara about Boston pronunciation, Boston listening, Boston conversation, and Boston travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Boston; flexible scheduling can be confirmed for Boston using America/New_York."
 scheduling: "Scheduling from Boston: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Boston: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

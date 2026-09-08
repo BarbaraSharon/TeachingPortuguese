@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Advancetown: Presenciais e Online"
 description: "Aulas de português brasileiro em Advancetown, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/advancetown/advancetown-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Advancetown: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Advancetown com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Advancetown faz parte da região de Gold Coast usada como referência para organizar horários. Advancetown fica em Australia. Local goals: Em Advancetown, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Advancetown, defina Advancetown viagens; pratique Advancetown carreira; explore Advancetown família; melhore Advancetown pronúncia; treine Advancetown conversa; confirme Advancetown horário."
+local_context: "Aulas online de português brasileiro para Advancetown; opções presenciais em Gold Coast podem ser confirmadas para Advancetown usando Australia/Brisbane."
 scheduling: "Horários para Advancetown: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Advancetown: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

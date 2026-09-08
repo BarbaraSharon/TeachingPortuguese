@@ -3,7 +3,7 @@ translationKey: location-manchester
 title: "Online Brazilian Portuguese Lessons in Manchester"
 description: "Online Brazilian Portuguese lessons in Manchester, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/manchester/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Manchester. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Manchester is in the Europe scheduling region. Manchester is located in United Kingdom. Local goals: For Manchester, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Manchester: ask Barbara about Manchester pronunciation, Manchester listening, Manchester conversation, and Manchester travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Manchester; flexible scheduling can be confirmed for Manchester using Europe/London."
 scheduling: "Scheduling from Manchester: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Manchester: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

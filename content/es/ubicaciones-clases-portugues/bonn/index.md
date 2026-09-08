@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Bonn"
 description: "Clases online de portugués brasileño en Bonn, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/bonn/bonn-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Bonn | Clases en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bonn. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bonn forma parte de la región de Europe utilizada como referencia para organizar horarios. Bonn está situada en Germany. Local goals: Para Bonn, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Bonn, define Bonn viajes; practica Bonn trabajo; explora Bonn familia; mejora Bonn pronunciación; confirma Bonn horario."
+local_context: "Clases online de portugués brasileño para Bonn; confirma un horario para Bonn usando Europe/Berlin."
 scheduling: "Horarios para Bonn: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bonn: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

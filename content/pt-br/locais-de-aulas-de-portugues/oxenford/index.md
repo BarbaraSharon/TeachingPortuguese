@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Oxenford"
 description: "Aulas online de português brasileiro em Oxenford, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/oxenford/oxenford-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Oxenford. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Oxenford faz parte da região de Australia & New Zealand usada como referência para organizar horários. Oxenford fica em Australia. Local goals: Para Oxenford, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Oxenford, defina Oxenford viagens; pratique Oxenford carreira; explore Oxenford família; melhore Oxenford pronúncia; treine Oxenford conversa; confirme Oxenford horário."
+local_context: "Aulas online de português brasileiro para Oxenford; confirme um horário para Oxenford usando Australia/Brisbane."
 scheduling: "Horários para Oxenford: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Oxenford: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

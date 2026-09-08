@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Basel"
 description: "Aulas online de português brasileiro em Basel, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/basel/basel-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Basel | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Basel. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Basel faz parte da região de Europe usada como referência para organizar horários. Basel fica em Switzerland. Local goals: Para Basel, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Basel, defina Basel viagens; pratique Basel carreira; explore Basel família; melhore Basel pronúncia; treine Basel conversa; confirme Basel horário."
+local_context: "Aulas online de português brasileiro para Basel; confirme um horário para Basel usando Europe/Zurich."
 scheduling: "Horários para Basel: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Basel: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

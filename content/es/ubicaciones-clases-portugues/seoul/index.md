@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Seoul"
 description: "Clases online de portugués brasileño en Seoul, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/seoul/seoul-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Seoul"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Seoul. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Seoul forma parte de la región de Asia utilizada como referencia para organizar horarios. Seoul está situada en South Korea. Local goals: Las personas de Seoul pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Seoul se confirma antes de la matrícula. Local focus: En Seoul, define Seoul viajes; practica Seoul trabajo; explora Seoul familia; mejora Seoul pronunciación; confirma Seoul horario."
+local_context: "Clases online de portugués brasileño para Seoul; confirma un horario para Seoul usando Asia/Seoul."
 scheduling: "Horarios para Seoul: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Seoul; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Seoul: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

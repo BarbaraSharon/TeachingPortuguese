@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Lisbon"
 description: "Clases online de portugués brasileño en Lisbon, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/lisbon/lisbon-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Lisboa | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Lisbon. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Lisbon forma parte de la región de Europe utilizada como referencia para organizar horarios. Lisbon está situada en Portugal. Local goals: Quienes estudian en Lisbon pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Lisbon, define Lisbon viajes; practica Lisbon trabajo; explora Lisbon familia; mejora Lisbon pronunciación; confirma Lisbon horario."
+local_context: "Clases online de portugués brasileño para Lisbon; confirma un horario para Lisbon usando Europe/Lisbon."
 scheduling: "Horarios para Lisbon: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Lisbon; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Lisbon: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

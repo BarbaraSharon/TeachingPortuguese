@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Currumbin: Presenciais e Online"
 description: "Aulas de português brasileiro em Currumbin, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/currumbin/currumbin-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Currumbin: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin faz parte da região de Gold Coast usada como referência para organizar horários. Currumbin fica em Australia. Local goals: Barbara adapta as aulas para Currumbin a objetivos de viagem, trabalho ou família; a disponibilidade de Currumbin é consultada antes da reserva. Local focus: Em Currumbin, defina Currumbin viagens; pratique Currumbin carreira; explore Currumbin família; melhore Currumbin pronúncia; treine Currumbin conversa; confirme Currumbin horário."
+local_context: "Aulas online de português brasileiro para Currumbin; opções presenciais em Gold Coast podem ser confirmadas para Currumbin usando Australia/Brisbane."
 scheduling: "Horários para Currumbin: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

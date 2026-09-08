@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Burleigh Waters: Presenciais e Online"
 description: "Aulas de português em Burleigh Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/burleigh-waters/burleigh-waters-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Burleigh Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Burleigh Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Burleigh Waters faz parte da região de Gold Coast usada como referência para organizar horários. Burleigh Waters fica em Australia. Local goals: Alunos de Burleigh Waters podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Burleigh Waters, defina Burleigh Waters viagens; pratique Burleigh Waters carreira; explore Burleigh Waters família; melhore Burleigh Waters pronúncia; treine Burleigh Waters conversa; confirme Burleigh Waters horário."
+local_context: "Aulas online de português brasileiro para Burleigh Waters; opções presenciais em Gold Coast podem ser confirmadas para Burleigh Waters usando Australia/Brisbane."
 scheduling: "Horários para Burleigh Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Burleigh Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

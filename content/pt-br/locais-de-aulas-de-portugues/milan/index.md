@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Milan"
 description: "Aulas online de português brasileiro em Milan, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/milan/milan-location-portuguese-lesson.png
   alt_text: Aprenda português em Milão | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Milan. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Milan faz parte da região de Europe usada como referência para organizar horários. Milan fica em Italy. Local goals: Para Milan, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Milan, defina Milan viagens; pratique Milan carreira; explore Milan família; melhore Milan pronúncia; treine Milan conversa; confirme Milan horário."
+local_context: "Aulas online de português brasileiro para Milan; confirme um horário para Milan usando Europe/Rome."
 scheduling: "Horários para Milan: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Milan: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

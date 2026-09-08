@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Coomera Waters: Presenciais e Online"
 description: "Aulas de português brasileiro em Coomera Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/coomera-waters/coomera-waters-online-speaking-club.png
   alt_text: "Aulas de português brasileiro em Coomera Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Coomera Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Coomera Waters faz parte da região de Gold Coast usada como referência para organizar horários. Coomera Waters fica em Australia. Local goals: Para Coomera Waters, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Coomera Waters, defina Coomera Waters viagens; pratique Coomera Waters carreira; explore Coomera Waters família; melhore Coomera Waters pronúncia; treine Coomera Waters conversa; confirme Coomera Waters horário."
+local_context: "Aulas online de português brasileiro para Coomera Waters, um subúrbio de Gold Coast; confirme a modalidade para Coomera Waters usando Australia/Brisbane."
 scheduling: "Horários para Coomera Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Coomera Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

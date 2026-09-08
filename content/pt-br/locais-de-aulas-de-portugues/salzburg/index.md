@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Salzburg"
 description: "Aulas online de português brasileiro em Salzburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/salzburg/salzburg-portuguese-lesson.png
   alt_text: Aprenda português em Salzburgo | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Vienna"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Salzburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Salzburg faz parte da região de Europe usada como referência para organizar horários. Salzburg fica em Austria. Local goals: Em Salzburg, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Salzburg, defina Salzburg viagens; pratique Salzburg carreira; explore Salzburg família; melhore Salzburg pronúncia; treine Salzburg conversa; confirme Salzburg horário."
+local_context: "Aulas online de português brasileiro para Salzburg; confirme um horário para Salzburg usando Europe/Vienna."
 scheduling: "Horários para Salzburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Vienna; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Salzburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -3,7 +3,7 @@ translationKey: location-the-hague
 title: "Online Brazilian Portuguese Lessons in The Hague"
 description: "Online Brazilian Portuguese lessons in The Hague, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/the-hague/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from The Hague. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "The Hague is in the Europe scheduling region. The Hague is located in Netherlands. Local goals: In The Hague, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for The Hague: ask Barbara about The Hague pronunciation, The Hague listening, The Hague conversation, and The Hague travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for The Hague; flexible scheduling can be confirmed for The Hague using Europe/Amsterdam."
 scheduling: "Scheduling from The Hague: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in The Hague: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

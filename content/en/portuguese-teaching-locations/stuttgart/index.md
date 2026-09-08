@@ -3,7 +3,7 @@ translationKey: location-stuttgart
 title: "Online Brazilian Portuguese Lessons in Stuttgart"
 description: "Online Brazilian Portuguese lessons in Stuttgart, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/stuttgart/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Stuttgart. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Stuttgart is in the Europe scheduling region. Stuttgart is located in Germany. Local goals: For Stuttgart, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Stuttgart: ask Barbara about Stuttgart pronunciation, Stuttgart listening, Stuttgart conversation, and Stuttgart travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Stuttgart; flexible scheduling can be confirmed for Stuttgart using Europe/Berlin."
 scheduling: "Scheduling from Stuttgart: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Stuttgart: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

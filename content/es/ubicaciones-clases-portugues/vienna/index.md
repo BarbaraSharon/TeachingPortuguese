@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Vienna"
 description: "Clases online de portugués brasileño en Vienna, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/vienna/vienna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Vienna"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Vienna. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Vienna forma parte de la región de Europe utilizada como referencia para organizar horarios. Vienna está situada en Austria. Local goals: Quienes aprenden en Vienna pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Vienna, define Vienna viajes; practica Vienna trabajo; explora Vienna familia; mejora Vienna pronunciación; confirma Vienna horario."
+local_context: "Clases online de portugués brasileño para Vienna; confirma un horario para Vienna usando Europe/Vienna."
 scheduling: "Horarios para Vienna: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Vienna; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Vienna: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

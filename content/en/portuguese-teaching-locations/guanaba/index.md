@@ -3,7 +3,7 @@ translationKey: location-guanaba
 title: "Online Brazilian Portuguese Lessons in Guanaba"
 description: "Online Brazilian Portuguese lessons in Guanaba, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/guanaba/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Guanaba. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Guanaba is in the Australia & New Zealand scheduling region. Guanaba is located in Australia. Local goals: For Guanaba, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Guanaba: ask Barbara about Guanaba pronunciation, Guanaba listening, Guanaba conversation, and Guanaba travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Guanaba; flexible scheduling can be confirmed for Guanaba using Australia/Brisbane."
 scheduling: "Scheduling from Guanaba: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Guanaba: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

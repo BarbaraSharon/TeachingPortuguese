@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Geneva"
 description: "Aulas online de português brasileiro em Geneva, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/geneva/geneva-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Genebra | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Geneva. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Geneva faz parte da região de Europe usada como referência para organizar horários. Geneva fica em Switzerland. Local goals: Em Geneva, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Geneva, defina Geneva viagens; pratique Geneva carreira; explore Geneva família; melhore Geneva pronúncia; treine Geneva conversa; confirme Geneva horário."
+local_context: "Aulas online de português brasileiro para Geneva; confirme um horário para Geneva usando Europe/Zurich."
 scheduling: "Horários para Geneva: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Geneva: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

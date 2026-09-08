@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Cape Town"
 description: "Clases online de portugués brasileño en Cape Town, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/cape-town/cape-town-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Cape Town | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Cape Town. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Cape Town forma parte de la región de Africa utilizada como referencia para organizar horarios. Cape Town está situada en South Africa. Local goals: En Cape Town, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Cape Town, define Cape Town viajes; practica Cape Town trabajo; explora Cape Town familia; mejora Cape Town pronunciación; confirma Cape Town horario."
+local_context: "Clases online de portugués brasileño para Cape Town; confirma un horario para Cape Town usando Africa/Johannesburg."
 scheduling: "Horarios para Cape Town: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Africa/Johannesburg; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Cape Town: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

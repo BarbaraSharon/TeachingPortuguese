@@ -3,7 +3,7 @@ translationKey: location-cape-town
 title: "Online Brazilian Portuguese Lessons in Cape Town"
 description: "Online Brazilian Portuguese lessons in Cape Town, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/cape-town/
 image:
@@ -18,7 +18,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Cape Town. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Cape Town is in the Africa scheduling region. Cape Town is located in South Africa. Local goals: For Cape Town, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Cape Town: ask Barbara about Cape Town pronunciation, Cape Town listening, Cape Town conversation, and Cape Town travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Cape Town; flexible scheduling can be confirmed for Cape Town using Africa/Johannesburg."
 scheduling: "Scheduling from Cape Town: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Africa/Johannesburg; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cape Town: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

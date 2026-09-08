@@ -16,7 +16,7 @@ categories:
 service:
   service_type: Private Brazilian Portuguese lessons online and in person
   delivery: Online worldwide; in person on the Gold Coast
-  delivery_modes: [in_person]
+  delivery_modes: [online, in_person]
   audience: Adult beginner, intermediate, and advanced learners; business and travel goals
   available_language: [pt-BR, en, es, it, fr]
 sections:

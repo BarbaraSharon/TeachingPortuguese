@@ -3,7 +3,7 @@ translationKey: location-niagara-falls
 title: "Online Brazilian Portuguese Lessons in Niagara Falls"
 description: "Online Brazilian Portuguese lessons in Niagara Falls, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/niagara-falls/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Niagara Falls. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Niagara Falls is in the North America scheduling region. Niagara Falls is located in Canada. Local goals: In Niagara Falls, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Niagara Falls: ask Barbara about Niagara Falls pronunciation, Niagara Falls listening, Niagara Falls conversation, and Niagara Falls travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Niagara Falls; flexible scheduling can be confirmed for Niagara Falls using America/Toronto."
 scheduling: "Scheduling from Niagara Falls: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Niagara Falls: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

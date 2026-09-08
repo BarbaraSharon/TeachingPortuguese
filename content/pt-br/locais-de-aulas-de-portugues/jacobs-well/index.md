@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Jacobs Well: Presenciais e Online"
 description: "Aulas de português brasileiro em Jacobs Well, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/jacobs-well/jacobs-well-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Jacobs Well: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Jacobs Well com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Jacobs Well faz parte da região de Gold Coast usada como referência para organizar horários. Jacobs Well fica em Australia. Local goals: Alunos de Jacobs Well podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Jacobs Well, defina Jacobs Well viagens; pratique Jacobs Well carreira; explore Jacobs Well família; melhore Jacobs Well pronúncia; treine Jacobs Well conversa; confirme Jacobs Well horário."
+local_context: "Aulas online de português brasileiro para Jacobs Well; opções presenciais em Gold Coast podem ser confirmadas para Jacobs Well usando Australia/Brisbane."
 scheduling: "Horários para Jacobs Well: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Jacobs Well: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

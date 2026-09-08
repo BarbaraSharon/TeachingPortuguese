@@ -3,7 +3,7 @@ translationKey: location-moncton
 title: "Online Brazilian Portuguese Lessons in Moncton"
 description: "Online Brazilian Portuguese lessons in Moncton, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/moncton/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Moncton"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Moncton. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Moncton is in the North America scheduling region. Moncton is located in Canada. Local goals: For Moncton, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Moncton: ask Barbara about Moncton pronunciation, Moncton listening, Moncton conversation, and Moncton travel vocabulary goals."
-scheduling: "Scheduling from Moncton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Moncton; flexible scheduling can be confirmed for Moncton using America/Halifax."
+scheduling: "Scheduling from Moncton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Halifax; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Moncton: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Moncton"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Moncton?"
-    answer: "Yes. Lessons are online, so you can study from Moncton. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Moncton. Times are agreed in advance using America/Halifax and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

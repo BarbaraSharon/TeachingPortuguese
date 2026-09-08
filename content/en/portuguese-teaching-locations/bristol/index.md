@@ -3,7 +3,7 @@ translationKey: location-bristol
 title: "Online Brazilian Portuguese Lessons in Bristol"
 description: "Online Brazilian Portuguese lessons in Bristol, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/bristol/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bristol. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bristol is in the Europe scheduling region. Bristol is located in United Kingdom. Local goals: Learners in Bristol can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Bristol: ask Barbara about Bristol pronunciation, Bristol listening, Bristol conversation, and Bristol travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Bristol; flexible scheduling can be confirmed for Bristol using Europe/London."
 scheduling: "Scheduling from Bristol: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bristol: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

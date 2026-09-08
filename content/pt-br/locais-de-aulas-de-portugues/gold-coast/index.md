@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Gold Coast: Presenciais e Online"
 description: "Aulas de português brasileiro em Gold Coast, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/gold-coast/gold-coast-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Gold Coast: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Gold Coast com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Gold Coast faz parte da região de Gold Coast usada como referência para organizar horários. Gold Coast fica em Australia. Local goals: Estudar português em Gold Coast pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Gold Coast, defina Gold Coast viagens; pratique Gold Coast carreira; explore Gold Coast família; melhore Gold Coast pronúncia; treine Gold Coast conversa; confirme Gold Coast horário."
+local_context: "Aulas online de português brasileiro para Gold Coast; opções presenciais podem ser confirmadas para esta localidade usando Australia/Brisbane."
 scheduling: "Horários para Gold Coast: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Gold Coast: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Charlottetown"
 description: "Clases online de portugués brasileño en Charlottetown, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/charlottetown/charlottetown-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Charlottetown | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Charlottetown"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Charlottetown. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Charlottetown forma parte de la región de North America utilizada como referencia para organizar horarios. Charlottetown está situada en Canada. Local goals: Las personas de Charlottetown pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Charlottetown se confirma antes de la matrícula. Local focus: En Charlottetown, define Charlottetown viajes; practica Charlottetown trabajo; explora Charlottetown familia; mejora Charlottetown pronunciación; confirma Charlottetown horario."
-scheduling: "Horarios para Charlottetown: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Charlottetown; confirma un horario para Charlottetown usando America/Halifax."
+scheduling: "Horarios para Charlottetown: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Halifax; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Charlottetown: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Charlottetown"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Charlottetown?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Charlottetown. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Charlottetown. Los horarios se acuerdan con antelación usando America/Halifax y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

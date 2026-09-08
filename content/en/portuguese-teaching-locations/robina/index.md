@@ -3,7 +3,7 @@ translationKey: location-robina
 title: "Online Brazilian Portuguese Lessons in Robina"
 description: "Online Brazilian Portuguese lessons in Robina, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/robina/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Robina. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Robina is in the Australia & New Zealand scheduling region. Robina is located in Australia. Local goals: Portuguese study in Robina can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Robina: ask Barbara about Robina pronunciation, Robina listening, Robina conversation, and Robina travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Robina; flexible scheduling can be confirmed for Robina using Australia/Brisbane."
 scheduling: "Scheduling from Robina: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Robina: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

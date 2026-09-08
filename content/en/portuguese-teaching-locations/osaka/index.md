@@ -3,7 +3,7 @@ translationKey: location-osaka
 title: "Online Brazilian Portuguese Lessons in Osaka"
 description: "Online Brazilian Portuguese lessons in Osaka, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/osaka/
 image:
@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Osaka. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Osaka is in the Asia scheduling region. Osaka is located in Japan. Local goals: Learners in Osaka can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Osaka: ask Barbara about Osaka pronunciation, Osaka listening, Osaka conversation, and Osaka travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Osaka; flexible scheduling can be confirmed for Osaka using Asia/Tokyo."
 scheduling: "Scheduling from Osaka: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Tokyo; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Osaka: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

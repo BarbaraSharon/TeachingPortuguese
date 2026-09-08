@@ -95,6 +95,88 @@ for (const service of locationServices) {
   assert.ok(service.availableChannel?.serviceUrl?.startsWith(`${origin}/`), `Location Service ${service.name} must link to an online lesson page.`);
 }
 
+const serviceOfferCases = [
+  {
+    name: 'private lessons',
+    routes: {
+      en: '/en/portuguese-teaching-services/portuguese-tutoring-gold-coast/index.html',
+      es: '/es/servicios-clases-portugues/clases-particulares-portugues-gold-coast/index.html',
+      'pt-br': '/pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/index.html',
+    },
+    modes: ['online', 'in_person'],
+  },
+  {
+    name: 'online lessons',
+    routes: {
+      en: '/en/portuguese-teaching-services/online-portuguese-lessons/index.html',
+      es: '/es/servicios-clases-portugues/clases-portugues-online/index.html',
+      'pt-br': '/pt-br/aulas-de-portugues/aulas-online/index.html',
+    },
+    modes: ['online'],
+  },
+  {
+    name: 'Gold Coast group classes',
+    routes: {
+      en: '/en/portuguese-teaching-services/portuguese-school-gold-coast/index.html',
+      es: '/es/servicios-clases-portugues/escuela-portugues-gold-coast/index.html',
+      'pt-br': '/pt-br/aulas-de-portugues/escola-de-portugues-gold-coast/index.html',
+    },
+    modes: ['in_person'],
+  },
+  {
+    name: 'service overview',
+    routes: {
+      en: '/en/portuguese-teaching-services/index.html',
+      es: '/es/servicios-clases-portugues/index.html',
+      'pt-br': '/pt-br/aulas-de-portugues/index.html',
+    },
+    modes: ['online', 'in_person'],
+  },
+  {
+    name: 'children lessons',
+    routes: {
+      en: '/en/portuguese-for-children/index.html',
+      es: '/es/portugues-para-ninos/index.html',
+      'pt-br': '/pt-br/portugues-para-criancas/index.html',
+    },
+    modes: ['in_person'],
+  },
+];
+
+const localizedOfferNames = {
+  en: {
+    online: 'Online lessons',
+    in_person: 'In-person Brazilian Portuguese lessons',
+  },
+  es: {
+    online: 'Clases online',
+    in_person: 'Clases presenciales de portugués brasileño',
+  },
+  'pt-br': {
+    online: 'Aulas online',
+    in_person: 'Aulas presenciais de português brasileiro',
+  },
+};
+
+for (const serviceCase of serviceOfferCases) {
+  for (const [language, outputPath] of Object.entries(serviceCase.routes)) {
+    const canonical = `${origin}${outputPath.replace(/index\.html$/, '')}`;
+    const nodes = jsonLdObjects(readOutput(outputPath)).flatMap((object) => object['@graph'] || [object]);
+    const services = nodes.filter((node) => hasType(node, 'Service'));
+    assert.equal(services.length, 1, `${serviceCase.name} ${language} page must contain exactly one Service node.`);
+
+    const service = services[0];
+    assert.equal(service['@id'], `${canonical}#service`, `${serviceCase.name} ${language} Service ID is not stable.`);
+    assert.equal(service.url, canonical, `${serviceCase.name} ${language} Service URL must match its canonical URL.`);
+    const offers = service.offers;
+    assert.ok(Array.isArray(offers), `${serviceCase.name} ${language} Service offers must be an array.`);
+    const names = offers.map((offer) => offer.name);
+    const expectedNames = serviceCase.modes.map((mode) => localizedOfferNames[language][mode]);
+    assert.equal(new Set(names).size, names.length, `${serviceCase.name} ${language} Service must not duplicate offers.`);
+    assert.deepEqual([...names].sort(), [...expectedNames].sort(), `${serviceCase.name} ${language} Service offers are incorrect.`);
+  }
+}
+
 const renderedPages = outputFiles(fileURLToPath(new URL('../public/', import.meta.url))).map((file) => ({
   file,
   html: fs.readFileSync(file, 'utf8'),

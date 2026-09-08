@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Turin"
 description: "Clases online de portugués brasileño en Turin, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/turin/turin-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Turin. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Turin forma parte de la región de Europe utilizada como referencia para organizar horarios. Turin está situada en Italy. Local goals: Las personas de Turin pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Turin se confirma antes de la matrícula. Local focus: En Turin, define Turin viajes; practica Turin trabajo; explora Turin familia; mejora Turin pronunciación; confirma Turin horario."
+local_context: "Clases online de portugués brasileño para Turin; confirma un horario para Turin usando Europe/Rome."
 scheduling: "Horarios para Turin: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Turin: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

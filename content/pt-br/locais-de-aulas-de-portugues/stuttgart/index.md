@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Stuttgart"
 description: "Aulas online de português brasileiro em Stuttgart, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/stuttgart/stuttgart-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Stuttgart. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Stuttgart faz parte da região de Europe usada como referência para organizar horários. Stuttgart fica em Germany. Local goals: Em Stuttgart, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Stuttgart, defina Stuttgart viagens; pratique Stuttgart carreira; explore Stuttgart família; melhore Stuttgart pronúncia; treine Stuttgart conversa; confirme Stuttgart horário."
+local_context: "Aulas online de português brasileiro para Stuttgart; confirme um horário para Stuttgart usando Europe/Berlin."
 scheduling: "Horários para Stuttgart: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Stuttgart: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

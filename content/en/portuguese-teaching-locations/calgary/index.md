@@ -3,7 +3,7 @@ translationKey: location-calgary
 title: "Online Brazilian Portuguese Lessons in Calgary"
 description: "Online Brazilian Portuguese lessons in Calgary, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/calgary/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Edmonton"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Calgary. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Calgary is in the North America scheduling region. Calgary is located in Canada. Local goals: For Calgary, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Calgary: ask Barbara about Calgary pronunciation, Calgary listening, Calgary conversation, and Calgary travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Calgary; flexible scheduling can be confirmed for Calgary using America/Edmonton."
 scheduling: "Scheduling from Calgary: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Edmonton; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Calgary: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

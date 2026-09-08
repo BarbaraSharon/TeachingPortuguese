@@ -3,7 +3,7 @@ translationKey: location-clear-island-waters
 title: "Portuguese in Clear Island Waters: In-Person & Online"
 description: "Portuguese lessons in Clear Island Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/clear-island-waters/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Clear Island Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Clear Island Waters is in the Gold Coast scheduling region. Clear Island Waters is located in Australia. Local goals: For Clear Island Waters, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Clear Island Waters: ask Barbara about Clear Island Waters pronunciation, Clear Island Waters listening, Clear Island Waters conversation, and Clear Island Waters travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Clear Island Waters; Gold Coast in-person options can be confirmed for Clear Island Waters using Australia/Brisbane."
 scheduling: "Scheduling from Clear Island Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Clear Island Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

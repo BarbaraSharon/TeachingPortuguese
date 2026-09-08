@@ -3,7 +3,7 @@ translationKey: location-saint-john
 title: "Online Brazilian Portuguese Lessons in Saint John"
 description: "Online Brazilian Portuguese lessons in Saint John, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/saint-john/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Saint John"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Moncton"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Saint John. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Saint John is in the North America scheduling region. Saint John is located in Canada. Local goals: For Saint John, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Saint John: ask Barbara about Saint John pronunciation, Saint John listening, Saint John conversation, and Saint John travel vocabulary goals."
-scheduling: "Scheduling from Saint John: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Saint John; flexible scheduling can be confirmed for Saint John using America/Moncton."
+scheduling: "Scheduling from Saint John: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Moncton; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Saint John: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Saint John"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Saint John?"
-    answer: "Yes. Lessons are online, so you can study from Saint John. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Saint John. Times are agreed in advance using America/Moncton and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

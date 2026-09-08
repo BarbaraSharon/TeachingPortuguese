@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Florence"
 description: "Aulas online de português brasileiro em Florence, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/florence/florence-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Florença | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Florence. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Florence faz parte da região de Europe usada como referência para organizar horários. Florence fica em Italy. Local goals: Para Florence, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Florence, defina Florence viagens; pratique Florence carreira; explore Florence família; melhore Florence pronúncia; treine Florence conversa; confirme Florence horário."
+local_context: "Aulas online de português brasileiro para Florence; confirme um horário para Florence usando Europe/Rome."
 scheduling: "Horários para Florence: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Florence: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

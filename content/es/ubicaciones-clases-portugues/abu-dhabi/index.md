@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Abu Dhabi"
 description: "Clases online de portugués brasileño en Abu Dhabi, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/abu-dhabi/abu-dhabi-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Abu Dabi | Clases en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Abu Dhabi. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Abu Dhabi forma parte de la región de Asia utilizada como referencia para organizar horarios. Abu Dhabi está situada en United Arab Emirates. Local goals: Quienes aprenden en Abu Dhabi pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Abu Dhabi, define Abu Dhabi viajes; practica Abu Dhabi trabajo; explora Abu Dhabi familia; mejora Abu Dhabi pronunciación; confirma Abu Dhabi horario."
+local_context: "Clases online de portugués brasileño para Abu Dhabi; confirma un horario para Abu Dhabi usando Asia/Dubai."
 scheduling: "Horarios para Abu Dhabi: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Dubai; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Abu Dhabi: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

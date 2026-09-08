@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Auckland"
 description: "Aulas online de português brasileiro em Auckland, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/auckland/auckland-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Auckland | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Pacific/Auckland"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Auckland. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Auckland faz parte da região de Australia & New Zealand usada como referência para organizar horários. Auckland fica em New Zealand. Local goals: Estudar português em Auckland pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Auckland, defina Auckland viagens; pratique Auckland carreira; explore Auckland família; melhore Auckland pronúncia; treine Auckland conversa; confirme Auckland horário."
+local_context: "Aulas online de português brasileiro para Auckland; confirme um horário para Auckland usando Pacific/Auckland."
 scheduling: "Horários para Auckland: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Pacific/Auckland; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Auckland: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

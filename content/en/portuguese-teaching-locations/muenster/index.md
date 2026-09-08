@@ -3,7 +3,7 @@ translationKey: location-muenster
 title: "Online Brazilian Portuguese Lessons in Münster"
 description: "Online Brazilian Portuguese lessons in Münster, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/muenster/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Münster. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Münster is in the Europe scheduling region. Münster is located in Germany. Local goals: Barbara adapts lessons for Münster to travel, work, or family goals; Münster availability is checked before booking. Local focus: Reference for Münster: ask Barbara about Münster pronunciation, Münster listening, Münster conversation, and Münster travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Münster; flexible scheduling can be confirmed for Münster using Europe/Berlin."
 scheduling: "Scheduling from Münster: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Münster: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

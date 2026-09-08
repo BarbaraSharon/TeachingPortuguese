@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Chicago"
 description: "Clases online de portugués brasileño en Chicago, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/chicago/chicago-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Chicago | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Chicago. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Chicago forma parte de la región de North America utilizada como referencia para organizar horarios. Chicago está situada en United States. Local goals: En Chicago, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Chicago, define Chicago viajes; practica Chicago trabajo; explora Chicago familia; mejora Chicago pronunciación; confirma Chicago horario."
+local_context: "Clases online de portugués brasileño para Chicago; confirma un horario para Chicago usando America/Chicago."
 scheduling: "Horarios para Chicago: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Chicago; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Chicago: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -3,7 +3,7 @@ translationKey: location-canberra
 title: "Online Brazilian Portuguese Lessons in Canberra"
 description: "Online Brazilian Portuguese lessons in Canberra, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/canberra/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Canberra. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Canberra is in the Australia & New Zealand scheduling region. Canberra is located in Australia. Local goals: For Canberra, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Canberra: ask Barbara about Canberra pronunciation, Canberra listening, Canberra conversation, and Canberra travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Canberra; flexible scheduling can be confirmed for Canberra using Australia/Sydney."
 scheduling: "Scheduling from Canberra: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Canberra: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

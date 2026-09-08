@@ -3,7 +3,7 @@ translationKey: location-dubai
 title: "Online Brazilian Portuguese Lessons in Dubai"
 description: "Online Brazilian Portuguese lessons in Dubai, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/dubai/
 image:
@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Dubai. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Dubai is in the Asia scheduling region. Dubai is located in United Arab Emirates. Local goals: Learners in Dubai can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Dubai: ask Barbara about Dubai pronunciation, Dubai listening, Dubai conversation, and Dubai travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Dubai; flexible scheduling can be confirmed for Dubai using Asia/Dubai."
 scheduling: "Scheduling from Dubai: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Dubai; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Dubai: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

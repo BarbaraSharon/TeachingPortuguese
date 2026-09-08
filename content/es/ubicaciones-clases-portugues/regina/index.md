@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Regina"
 description: "Clases online de portugués brasileño en Regina, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/regina/regina-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Regina"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Regina. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Regina forma parte de la región de North America utilizada como referencia para organizar horarios. Regina está situada en Canada. Local goals: En Regina, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Regina, define Regina viajes; practica Regina trabajo; explora Regina familia; mejora Regina pronunciación; confirma Regina horario."
+local_context: "Clases online de portugués brasileño para Regina; confirma un horario para Regina usando America/Regina."
 scheduling: "Horarios para Regina: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Regina; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Regina: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

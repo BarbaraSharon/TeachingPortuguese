@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Yellowknife"
 description: "Aulas online de português brasileiro em Yellowknife, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/yellowknife/barbara-yellowknife.png
   alt_text: Aprenda português brasileiro em Yellowknife | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Yellowknife"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Yellowknife"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Yellowknife. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Yellowknife faz parte da região de North America usada como referência para organizar horários. Yellowknife fica em Canada. Local goals: Barbara adapta as aulas para Yellowknife a objetivos de viagem, trabalho ou família; a disponibilidade de Yellowknife é consultada antes da reserva. Local focus: Em Yellowknife, defina Yellowknife viagens; pratique Yellowknife carreira; explore Yellowknife família; melhore Yellowknife pronúncia; treine Yellowknife conversa; confirme Yellowknife horário."
-scheduling: "Horários para Yellowknife: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Yellowknife; confirme um horário para Yellowknife usando America/Yellowknife."
+scheduling: "Horários para Yellowknife: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Yellowknife; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Yellowknife: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Yellowknife"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Yellowknife?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Yellowknife. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Yellowknife. Os horários são combinados com antecedência usando America/Yellowknife e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

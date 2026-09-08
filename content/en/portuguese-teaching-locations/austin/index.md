@@ -3,7 +3,7 @@ translationKey: location-austin
 title: "Online Brazilian Portuguese Lessons in Austin"
 description: "Online Brazilian Portuguese lessons in Austin, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/austin/
 image:
@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Austin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Austin is in the North America scheduling region. Austin is located in United States. Local goals: For Austin, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Austin: ask Barbara about Austin pronunciation, Austin listening, Austin conversation, and Austin travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Austin; flexible scheduling can be confirmed for Austin using America/Chicago."
 scheduling: "Scheduling from Austin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Chicago; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Austin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

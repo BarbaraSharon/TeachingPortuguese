@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Osaka"
 description: "Aulas online de português brasileiro em Osaka, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/osaka/osaka-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Osaka. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Osaka faz parte da região de Asia usada como referência para organizar horários. Osaka fica em Japan. Local goals: Alunos de Osaka podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Osaka, defina Osaka viagens; pratique Osaka carreira; explore Osaka família; melhore Osaka pronúncia; treine Osaka conversa; confirme Osaka horário."
+local_context: "Aulas online de português brasileiro para Osaka; confirme um horário para Osaka usando Asia/Tokyo."
 scheduling: "Horários para Osaka: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Tokyo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Osaka: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

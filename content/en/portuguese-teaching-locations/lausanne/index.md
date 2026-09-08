@@ -3,7 +3,7 @@ translationKey: location-lausanne
 title: "Online Brazilian Portuguese Lessons in Lausanne"
 description: "Online Brazilian Portuguese lessons in Lausanne, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/lausanne/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Lausanne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Lausanne is in the Europe scheduling region. Lausanne is located in Switzerland. Local goals: Portuguese study in Lausanne can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Lausanne: ask Barbara about Lausanne pronunciation, Lausanne listening, Lausanne conversation, and Lausanne travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Lausanne; flexible scheduling can be confirmed for Lausanne using Europe/Zurich."
 scheduling: "Scheduling from Lausanne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Lausanne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Ormeau"
 description: "Aulas online de português brasileiro em Ormeau, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/ormeau/ormeau-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Ormeau. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Ormeau faz parte da região de Australia & New Zealand usada como referência para organizar horários. Ormeau fica em Australia. Local goals: Para Ormeau, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Ormeau, defina Ormeau viagens; pratique Ormeau carreira; explore Ormeau família; melhore Ormeau pronúncia; treine Ormeau conversa; confirme Ormeau horário."
+local_context: "Aulas online de português brasileiro para Ormeau; confirme um horário para Ormeau usando Australia/Brisbane."
 scheduling: "Horários para Ormeau: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ormeau: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

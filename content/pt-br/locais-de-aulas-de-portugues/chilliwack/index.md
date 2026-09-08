@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Chilliwack"
 description: "Aulas online de português brasileiro em Chilliwack, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/chilliwack/chilliwack-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Chilliwack | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -14,18 +14,18 @@ categories:
 city: "Chilliwack"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Chilliwack. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Chilliwack faz parte da região de North America usada como referência para organizar horários. Chilliwack fica em Canada. Local goals: Quem aprende em Chilliwack pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Chilliwack, defina Chilliwack viagens; pratique Chilliwack carreira; explore Chilliwack família; melhore Chilliwack pronúncia; treine Chilliwack conversa; confirme Chilliwack horário."
-scheduling: "Horários para Chilliwack: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
+local_context: "Aulas online de português brasileiro para Chilliwack; confirme um horário para Chilliwack usando America/Vancouver."
+scheduling: "Horários para Chilliwack: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Vancouver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Chilliwack: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
   label: "Converse sobre aulas para Chilliwack"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Chilliwack?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Chilliwack. Os horários são combinados com antecedência usando America/Toronto e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. As aulas são online, então você pode estudar a partir de Chilliwack. Os horários são combinados com antecedência usando America/Vancouver e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
 

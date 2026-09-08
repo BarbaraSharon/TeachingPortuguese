@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Currumbin Waters: Presenciais e Online"
 description: "Aulas de português em Currumbin Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/currumbin-waters/currumbin-waters-location-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Currumbin Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin Waters faz parte da região de Gold Coast usada como referência para organizar horários. Currumbin Waters fica em Australia. Local goals: Em Currumbin Waters, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Currumbin Waters, defina Currumbin Waters viagens; pratique Currumbin Waters carreira; explore Currumbin Waters família; melhore Currumbin Waters pronúncia; treine Currumbin Waters conversa; confirme Currumbin Waters horário."
+local_context: "Aulas online de português brasileiro para Currumbin Waters, um subúrbio de Gold Coast; confirme a modalidade para Currumbin Waters usando Australia/Brisbane."
 scheduling: "Horários para Currumbin Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -3,7 +3,7 @@ translationKey: location-carrara
 title: "Portuguese in Carrara: In-Person & Online"
 description: "Brazilian Portuguese lessons in Carrara, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/carrara/
 image:
@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Carrara with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Carrara is in the Gold Coast scheduling region. Carrara is located in Australia. Local goals: Learners in Carrara can start with travel dialogues, then practise work and family; the Carrara time is confirmed before enrolment. Local focus: Reference for Carrara: ask Barbara about Carrara pronunciation, Carrara listening, Carrara conversation, and Carrara travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Carrara; Gold Coast in-person options can be confirmed for Carrara using Australia/Brisbane."
 scheduling: "Scheduling from Carrara: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Carrara: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

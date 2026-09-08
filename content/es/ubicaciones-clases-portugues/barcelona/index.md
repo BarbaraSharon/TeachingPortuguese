@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Barcelona"
 description: "Clases online de portugués brasileño en Barcelona, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/barcelona/barcelona-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Barcelona | Clases en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Barcelona. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Barcelona forma parte de la región de Europe utilizada como referencia para organizar horarios. Barcelona está situada en Spain. Local goals: Estudiar portugués en Barcelona puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Barcelona, define Barcelona viajes; practica Barcelona trabajo; explora Barcelona familia; mejora Barcelona pronunciación; confirma Barcelona horario."
+local_context: "Clases online de portugués brasileño para Barcelona; confirma un horario para Barcelona usando Europe/Madrid."
 scheduling: "Horarios para Barcelona: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Madrid; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Barcelona: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

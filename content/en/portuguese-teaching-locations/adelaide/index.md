@@ -3,7 +3,7 @@ translationKey: location-adelaide
 title: "Online Brazilian Portuguese Lessons in Adelaide"
 description: "Online Brazilian Portuguese lessons in Adelaide, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/adelaide/
 image:
@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Adelaide"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Adelaide. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Adelaide is in the Australia & New Zealand scheduling region. Adelaide is located in Australia. Local goals: For Adelaide, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Adelaide: ask Barbara about Adelaide pronunciation, Adelaide listening, Adelaide conversation, and Adelaide travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Adelaide; flexible scheduling can be confirmed for Adelaide using Australia/Adelaide."
 scheduling: "Scheduling from Adelaide: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Adelaide; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Adelaide: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

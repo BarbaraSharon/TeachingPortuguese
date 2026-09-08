@@ -3,7 +3,7 @@ translationKey: location-johannesburg
 title: "Online Brazilian Portuguese Lessons in Johannesburg"
 description: "Online Brazilian Portuguese lessons in Johannesburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/johannesburg/
 image:
@@ -18,7 +18,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Johannesburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Johannesburg is in the Africa scheduling region. Johannesburg is located in South Africa. Local goals: For Johannesburg, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Johannesburg: ask Barbara about Johannesburg pronunciation, Johannesburg listening, Johannesburg conversation, and Johannesburg travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Johannesburg; flexible scheduling can be confirmed for Johannesburg using Africa/Johannesburg."
 scheduling: "Scheduling from Johannesburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Africa/Johannesburg; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Johannesburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

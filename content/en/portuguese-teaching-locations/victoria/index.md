@@ -3,7 +3,7 @@ translationKey: location-victoria
 title: "Online Brazilian Portuguese Lessons in Victoria"
 description: "Online Brazilian Portuguese lessons in Victoria, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/victoria/
 image:
@@ -15,18 +15,18 @@ categories:
 city: "Victoria"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Victoria. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Victoria is in the North America scheduling region. Victoria is located in Canada. Local goals: Portuguese study in Victoria can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Victoria: ask Barbara about Victoria pronunciation, Victoria listening, Victoria conversation, and Victoria travel vocabulary goals."
-scheduling: "Scheduling from Victoria: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
+local_context: "Online Brazilian Portuguese lessons for Victoria; flexible scheduling can be confirmed for Victoria using America/Vancouver."
+scheduling: "Scheduling from Victoria: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Victoria: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
   label: "Discuss lessons for Victoria"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Victoria?"
-    answer: "Yes. Lessons are online, so you can study from Victoria. Times are agreed in advance using America/Toronto and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. Lessons are online, so you can study from Victoria. Times are agreed in advance using America/Vancouver and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
 

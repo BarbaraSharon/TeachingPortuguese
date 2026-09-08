@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Whitehorse"
 description: "Clases online de portugués brasileño en Whitehorse, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/whitehorse/whitehorse-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -14,18 +14,18 @@ categories:
 city: "Whitehorse"
 country: "Canada"
 region_group: "North America"
-time_zone: "America/Toronto"
+time_zone: "America/Whitehorse"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Whitehorse. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Whitehorse forma parte de la región de North America utilizada como referencia para organizar horarios. Whitehorse está situada en Canada. Local goals: En Whitehorse, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Whitehorse, define Whitehorse viajes; practica Whitehorse trabajo; explora Whitehorse familia; mejora Whitehorse pronunciación; confirma Whitehorse horario."
-scheduling: "Horarios para Whitehorse: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
+local_context: "Clases online de portugués brasileño para Whitehorse; confirma un horario para Whitehorse usando America/Whitehorse."
+scheduling: "Horarios para Whitehorse: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Whitehorse; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Whitehorse: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
   label: "Habla sobre clases para Whitehorse"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Whitehorse?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Whitehorse. Los horarios se acuerdan con antelación usando America/Toronto y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Whitehorse. Los horarios se acuerdan con antelación usando America/Whitehorse y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
 

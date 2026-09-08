@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Frankfurt Am Main"
 description: "Aulas online de português brasileiro em Frankfurt Am Main, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/frankfurt-am-main/frankfurt-am-main-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Frankfurt am Main | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Frankfurt Am Main. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Frankfurt Am Main faz parte da região de Europe usada como referência para organizar horários. Frankfurt Am Main fica em Germany. Local goals: Para Frankfurt Am Main, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Frankfurt Am Main, defina Frankfurt Am Main viagens; pratique Frankfurt Am Main carreira; explore Frankfurt Am Main família; melhore Frankfurt Am Main pronúncia; treine Frankfurt Am Main conversa; confirme Frankfurt Am Main horário."
+local_context: "Aulas online de português brasileiro para Frankfurt Am Main; confirme um horário para Frankfurt Am Main usando Europe/Berlin."
 scheduling: "Horários para Frankfurt Am Main: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Frankfurt Am Main: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

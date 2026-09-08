@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Merrimac: Presenciais e Online"
 description: "Aulas de português brasileiro em Merrimac, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/merrimac/merrimac-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Merrimac: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Merrimac com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Merrimac faz parte da região de Gold Coast usada como referência para organizar horários. Merrimac fica em Australia. Local goals: Em Merrimac, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Merrimac, defina Merrimac viagens; pratique Merrimac carreira; explore Merrimac família; melhore Merrimac pronúncia; treine Merrimac conversa; confirme Merrimac horário."
+local_context: "Aulas online de português brasileiro para Merrimac; opções presenciais em Gold Coast podem ser confirmadas para Merrimac usando Australia/Brisbane."
 scheduling: "Horários para Merrimac: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Merrimac: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

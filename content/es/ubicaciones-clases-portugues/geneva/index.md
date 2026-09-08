@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Geneva"
 description: "Clases online de portugués brasileño en Geneva, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/geneva/geneva-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Ginebra | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Geneva. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Geneva forma parte de la región de Europe utilizada como referencia para organizar horarios. Geneva está situada en Switzerland. Local goals: En Geneva, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Geneva, define Geneva viajes; practica Geneva trabajo; explora Geneva familia; mejora Geneva pronunciación; confirma Geneva horario."
+local_context: "Clases online de portugués brasileño para Geneva; confirma un horario para Geneva usando Europe/Zurich."
 scheduling: "Horarios para Geneva: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Zurich; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Geneva: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

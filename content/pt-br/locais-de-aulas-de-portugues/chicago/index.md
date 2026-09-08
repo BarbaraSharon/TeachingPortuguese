@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Chicago"
 description: "Aulas online de português brasileiro em Chicago, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/chicago/chicago-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Chicago | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Chicago. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Chicago faz parte da região de North America usada como referência para organizar horários. Chicago fica em United States. Local goals: Em Chicago, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Chicago, defina Chicago viagens; pratique Chicago carreira; explore Chicago família; melhore Chicago pronúncia; treine Chicago conversa; confirme Chicago horário."
+local_context: "Aulas online de português brasileiro para Chicago; confirme um horário para Chicago usando America/Chicago."
 scheduling: "Horários para Chicago: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Chicago; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Chicago: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

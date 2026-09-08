@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Upper Coomera"
 description: "Aulas online de português brasileiro em Upper Coomera, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/upper-coomera/upper-coomera-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Upper Coomera. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Upper Coomera faz parte da região de Australia & New Zealand usada como referência para organizar horários. Upper Coomera fica em Australia. Local goals: Barbara adapta as aulas para Upper Coomera a objetivos de viagem, trabalho ou família; a disponibilidade de Upper Coomera é consultada antes da reserva. Local focus: Em Upper Coomera, defina Upper Coomera viagens; pratique Upper Coomera carreira; explore Upper Coomera família; melhore Upper Coomera pronúncia; treine Upper Coomera conversa; confirme Upper Coomera horário."
+local_context: "Aulas online de português brasileiro para Upper Coomera; confirme um horário para Upper Coomera usando Australia/Brisbane."
 scheduling: "Horários para Upper Coomera: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Upper Coomera: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

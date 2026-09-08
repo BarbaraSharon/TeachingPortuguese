@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Palm Beach"
 description: "Clases online de portugués brasileño en Palm Beach, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/palm-beach/palm-beach-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Palm Beach | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Palm Beach. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Palm Beach forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Palm Beach está situada en Australia. Local goals: En Palm Beach, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Palm Beach, define Palm Beach viajes; practica Palm Beach trabajo; explora Palm Beach familia; mejora Palm Beach pronunciación; confirma Palm Beach horario."
+local_context: "Clases online de portugués brasileño para Palm Beach; confirma un horario para Palm Beach usando Australia/Brisbane."
 scheduling: "Horarios para Palm Beach: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Palm Beach: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

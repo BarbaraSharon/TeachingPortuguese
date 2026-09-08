@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Winnipeg"
 description: "Aulas online de português brasileiro em Winnipeg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-09-08"
 image:
   filename: pages/portuguese-teaching-locations/winnipeg/barbara-winnipeg.png
   alt_text: Aprenda português brasileiro em Winnipeg | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Winnipeg"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Winnipeg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Winnipeg faz parte da região de North America usada como referência para organizar horários. Winnipeg fica em Canada. Local goals: Estudar português em Winnipeg pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Winnipeg, defina Winnipeg viagens; pratique Winnipeg carreira; explore Winnipeg família; melhore Winnipeg pronúncia; treine Winnipeg conversa; confirme Winnipeg horário."
+local_context: "Aulas online de português brasileiro para Winnipeg; confirme um horário para Winnipeg usando America/Winnipeg."
 scheduling: "Horários para Winnipeg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Winnipeg; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Winnipeg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

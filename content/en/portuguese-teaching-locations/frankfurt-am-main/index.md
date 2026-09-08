@@ -3,7 +3,7 @@ translationKey: location-frankfurt-am-main
 title: "Online Brazilian Portuguese Lessons in Frankfurt Am Main"
 description: "Online Brazilian Portuguese lessons in Frankfurt Am Main, with Barbara Sharon. Private and group formats available online."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-09-08"
 aliases:
 - /portuguese-teaching-locations/frankfurt-am-main/
 image:
@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Frankfurt Am Main. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Frankfurt Am Main is in the Europe scheduling region. Frankfurt Am Main is located in Germany. Local goals: For Frankfurt Am Main, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Frankfurt Am Main: ask Barbara about Frankfurt Am Main pronunciation, Frankfurt Am Main listening, Frankfurt Am Main conversation, and Frankfurt Am Main travel vocabulary goals."
+local_context: "Online Brazilian Portuguese lessons for Frankfurt Am Main; flexible scheduling can be confirmed for Frankfurt Am Main using Europe/Berlin."
 scheduling: "Scheduling from Frankfurt Am Main: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Frankfurt Am Main: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:
