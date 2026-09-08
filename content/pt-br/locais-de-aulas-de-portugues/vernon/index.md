@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Vernon"
 description: "Aulas online de português brasileiro em Vernon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/vernon/barbara-vernon.png
   alt_text: Aprenda português brasileiro em Vernon | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Vernon. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Vernon faz parte do fuso horário regional de North America usado para organizar horários. Vernon fica em Canada. Esta página mantém a referência local específica de Vernon, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Vernon faz parte da região de North America usada como referência para organizar horários. Vernon fica em Canada. Local goals: Em Vernon, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Vernon, defina Vernon viagens; pratique Vernon carreira; explore Vernon família; melhore Vernon pronúncia; treine Vernon conversa; confirme Vernon horário."
 scheduling: "Horários para Vernon: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Vernon: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada de português hoje
 
-Está pronto para aprender português brasileiro em Vernon? Reserve uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Vernon, aulas de conversação em português em Vernon ou aulas estruturadas de português online, sua abordagem foi projetada para atender às suas necessidades individuais.
+Está pronto para aprender português brasileiro em Vernon? Reserve uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Vernon, aulas de conversação em português em Vernon ou aulas estruturadas de português online, sua abordagem foi projetada para atender às suas necessidades individuais.
 
 “Fala comigo em português!”

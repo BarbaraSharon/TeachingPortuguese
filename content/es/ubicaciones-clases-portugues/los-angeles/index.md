@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Los Angeles"
 description: "Clases online de portugués brasileño en Los Angeles, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/los-angeles/los-angeles-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Los Ángeles | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Los Angeles. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Los Angeles forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Los Angeles está situada en Canada. Esta página mantiene la referencia local específica de Los Angeles, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Los Angeles forma parte de la región de North America utilizada como referencia para organizar horarios. Los Angeles está situada en Canada. Local goals: En Los Angeles, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Los Angeles, define Los Angeles viajes; practica Los Angeles trabajo; explora Los Angeles familia; mejora Los Angeles pronunciación; confirma Los Angeles horario."
 scheduling: "Horarios para Los Angeles: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Los Angeles: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -64,8 +64,8 @@ Aprender portugués en Los Ángeles te da acceso a una rica tradición lingüís
 Barbara Sharon imparte atractivas clases particulares y grupales de portugués en línea a las que puedes acceder desde cualquier parte del mundo. Con recursos multimedia y herramientas interactivas, procura que el aprendizaje sea eficaz y agradable.
 
 El alumnado recibe materiales adaptados a sus intereses y metas de aprendizaje, tanto si busca clases de portugués cerca de Los Ángeles como una tutora de portugués cercana en Los Ángeles. Su formato flexible permite atención individualizada y aprendizaje colaborativo, y acompaña todos los niveles, desde principiantes hasta alumnado avanzado.
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Quieres iniciar tu camino hacia la fluidez en portugués? Contacta con Barbara Sharon hoy para una clases de portugués y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si buscas avanzar, Barbara está aquí para acompañarte.
+¿Quieres iniciar tu camino hacia la fluidez en portugués? Contacta con Barbara Sharon hoy para una clase de portugués y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si buscas avanzar, Barbara está aquí para acompañarte.
 
 Barbara ofrece clases grupales y clases particulares en línea, por lo que es fácil para el alumnado de Los Ángeles encontrar la opción adecuada a sus necesidades. Explora sus propuestas en [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/) hoy mismo.

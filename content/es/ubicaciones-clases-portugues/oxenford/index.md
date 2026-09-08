@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Oxenford"
 description: "Clases online de portugués brasileño en Oxenford, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/oxenford/oxenford-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Oxenford | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Oxenford. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Oxenford forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Oxenford está situada en Australia. Esta página mantiene la referencia local específica de Oxenford, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Oxenford forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Oxenford está situada en Australia. Local goals: Para Oxenford, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Oxenford, define Oxenford viajes; practica Oxenford trabajo; explora Oxenford familia; mejora Oxenford pronunciación; confirma Oxenford horario."
 scheduling: "Horarios para Oxenford: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Oxenford: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -68,6 +68,6 @@ Explora clases de portugués brasileño mediante plataformas digitales que dan v
 
 ## Empieza hoy: clases de portugués disponible
 
-¿Lista o listo para aprender portugués en Oxenford? Reserva una clases de portugués con Barbara Sharon y conoce de primera mano su estilo atractivo. Tanto si te interesan las [clases de portugués para principiantes](/es/servicios-clases-portugues/), las [clases de conversación](/es/servicios-clases-portugues/) o conectar con una [profesora nativa de portugués](/es/contacto-profesora-portugues/), está aquí para acompañarte.
+¿Lista o listo para aprender portugués en Oxenford? Reserva una clase de portugués con Barbara Sharon y conoce de primera mano su estilo atractivo. Tanto si te interesan las [clases de portugués para principiantes](/es/servicios-clases-portugues/), las [clases de conversación](/es/servicios-clases-portugues/) o conectar con una [profesora nativa de portugués](/es/contacto-profesora-portugues/), está aquí para acompañarte.
 
 Para más información, visita la página de [contacto](/es/contacto-profesora-portugues/) o explora todos los [servicios](/es/servicios-clases-portugues/).

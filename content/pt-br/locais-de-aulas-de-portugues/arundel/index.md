@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Arundel: Presenciais e Online"
 description: "Aulas de português brasileiro em Arundel, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/arundel/arundel-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Arundel: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Arundel com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Arundel faz parte do fuso horário regional de Gold Coast usado para organizar horários. Arundel fica em Australia. Esta página mantém a referência local específica de Arundel, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Arundel faz parte da região de Gold Coast usada como referência para organizar horários. Arundel fica em Australia. Local goals: Alunos de Arundel podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Arundel, defina Arundel viagens; pratique Arundel carreira; explore Arundel família; melhore Arundel pronúncia; treine Arundel conversa; confirme Arundel horário."
 scheduling: "Horários para Arundel: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Arundel: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ Todos os níveis são bem-vindos, de iniciantes absolutos a alunos avançados. B
 
 ## Comece hoje sua jornada no português
 
-Está pronto para começar a aprender português em Arundel? Agende sua aulas de português com Barbara Sharon e descubra como é fácil começar a falar português brasileiro. Conheça toda a sua gama de serviços na página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
+Está pronto para começar a aprender português em Arundel? Agende suas aulas de português com Barbara Sharon e descubra como é fácil começar a falar português brasileiro. Conheça toda a sua gama de serviços na página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
 
 "Aprender é viver" - aprender é viver. Deixe Barbara Sharon orientar você em sua jornada no português em Arundel, QLD.

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em New York"
 description: "Aulas online de português brasileiro em New York, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/new-york/new-york-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de New York. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "New York faz parte do fuso horário regional de North America usado para organizar horários. New York fica em United States. Esta página mantém a referência local específica de New York, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "New York faz parte da região de North America usada como referência para organizar horários. New York fica em United States. Local goals: Em New York, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em New York, defina New York viagens; pratique New York carreira; explore New York família; melhore New York pronúncia; treine New York conversa; confirme New York horário."
 scheduling: "Horários para New York: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em New York: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,8 +63,8 @@ Aprender português em Nova York dá a você acesso a uma rica tradição lingu�
 
 Aulas particulares e em grupo de português online estão disponíveis em Nova York por meio dos serviços de Barbara Sharon. Essas aulas usam ferramentas interativas e recursos multimídia para tornar a aprendizagem envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, quer você tenha interesse em aulas de português brasileiro para iniciantes ou aulas avançadas de conversação.
 
-Barbara oferece horários flexíveis para seus [serviços de aulas de português](/pt-br/aulas-de-portugues/), permitindo que estudantes de toda a cidade participem de suas sessões. Para quem busca uma aulas de português, ela convida você a [entrar em contato diretamente](/pt-br/contato-professora-portugues/) e descobrir como sua abordagem pode apoiar sua jornada no idioma.
+Barbara oferece horários flexíveis para seus [serviços de aulas de português](/pt-br/aulas-de-portugues/), permitindo que estudantes de toda a cidade participem de suas sessões. Para quem busca uma aula de português, ela convida você a [entrar em contato diretamente](/pt-br/contato-professora-portugues/) e descobrir como sua abordagem pode apoiar sua jornada no idioma.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Nova York? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com aulas personalizadas de português brasileiro perto de você.
+Tem interesse em aprender português em Nova York? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com aulas personalizadas de português brasileiro perto de você.

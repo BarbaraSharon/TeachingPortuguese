@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Denver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Denver. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Denver is grouped in the North America regional time zone used for scheduling. Denver is located in United States. This page keeps the local reference specific to Denver while the teaching service remains online-first."
+local_context: "Denver is in the North America scheduling region. Denver is located in United States. Local goals: In Denver, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Denver: ask Barbara about Denver pronunciation, Denver listening, Denver conversation, and Denver travel vocabulary goals."
 scheduling: "Scheduling from Denver: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Denver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Denver: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

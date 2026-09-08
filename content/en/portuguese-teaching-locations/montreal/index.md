@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Montreal. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Montreal is grouped in the North America regional time zone used for scheduling. Montreal is located in Canada. This page keeps the local reference specific to Montreal while the teaching service remains online-first."
+local_context: "Montreal is in the North America scheduling region. Montreal is located in Canada. Local goals: For Montreal, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Montreal: ask Barbara about Montreal pronunciation, Montreal listening, Montreal conversation, and Montreal travel vocabulary goals."
 scheduling: "Scheduling from Montreal: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Montreal: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

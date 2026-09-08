@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Regina"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Regina. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Regina is grouped in the North America regional time zone used for scheduling. Regina is located in Canada. This page keeps the local reference specific to Regina while the teaching service remains online-first."
+local_context: "Regina is in the North America scheduling region. Regina is located in Canada. Local goals: For Regina, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Regina: ask Barbara about Regina pronunciation, Regina listening, Regina conversation, and Regina travel vocabulary goals."
 scheduling: "Scheduling from Regina: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Regina; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Regina: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

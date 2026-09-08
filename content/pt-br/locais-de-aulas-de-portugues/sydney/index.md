@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Sydney"
 description: "Aulas online de português brasileiro em Sydney, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/sydney/sydney-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Sydney. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Sydney faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Sydney fica em Australia. Esta página mantém a referência local específica de Sydney, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Sydney faz parte da região de Australia & New Zealand usada como referência para organizar horários. Sydney fica em Australia. Local goals: Em Sydney, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Sydney, defina Sydney viagens; pratique Sydney carreira; explore Sydney família; melhore Sydney pronúncia; treine Sydney conversa; confirme Sydney horário."
 scheduling: "Horários para Sydney: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Sydney: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

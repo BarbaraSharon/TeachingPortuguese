@@ -256,11 +256,13 @@
     </h2>
     {{ end }}
     
-    {{ with $subtitle }}
+  {{ with $subtitle }}
     <p class="text-lg sm:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
       {{ . }}
     </p>
-    {{ end }}
+  {{ end }}
+  <p data-enquiry-fallback-instruction class="mx-auto mt-3 max-w-2xl text-sm text-gray-500 dark:text-gray-400">{{ i18n "enquiry_fallback_instruction" }}</p>
+  <p data-enquiry-context-summary hidden class="mx-auto mt-3 max-w-2xl rounded-lg bg-primary-50 px-4 py-3 text-sm text-primary-800 dark:bg-primary-900/20 dark:text-primary-200"></p>
   </div>
 
   {{/* Contact Cards Grid */}}
@@ -378,13 +380,13 @@
           </div>
           
           {{/* Primary CTA Button */}}
-          <a href="{{ (printf "mailto:%s" .) | safeURL }}" 
+          <a href="{{ (printf "mailto:%s" .) | safeURL }}" data-contact-action="email"
              class="inline-flex items-center px-6 py-3 bg-primary-600 hover:bg-primary-500 text-white font-medium rounded-xl shadow-lg shadow-primary-500/25 hover:shadow-xl hover:shadow-primary-500/30 transition-all">
             {{ partial "functions/get_icon" (dict "name" "hero/paper-airplane" "attributes" "class=\"w-5 h-5 mr-2\"") }}
             {{ $email_button_text }}
           </a>
           {{ if $whatsapp_url }}
-          <a href="{{ $whatsapp_url | safeURL }}" target="_blank" rel="noopener"
+          <a href="{{ $whatsapp_url | safeURL }}" data-contact-action="whatsapp" target="_blank" rel="noopener"
              class="mt-3 inline-flex items-center px-6 py-3 bg-emerald-600 hover:bg-emerald-500 text-white font-medium rounded-xl shadow-lg shadow-emerald-500/25 hover:shadow-xl hover:shadow-emerald-500/30 transition-all">
             {{ partial "functions/get_icon" (dict "name" "brands/whatsapp" "attributes" "class=\"w-5 h-5 mr-2\"") }}
             {{ $whatsapp_button_text }}
@@ -393,7 +395,7 @@
           {{ end }}
           
           {{ with $phone }}
-          <a href="{{ (printf "tel:%s" .) | safeURL }}" class="flex items-center group">
+          <a href="{{ (printf "tel:%s" .) | safeURL }}" data-contact-action="phone" class="flex items-center group">
             <div class="w-12 h-12 flex items-center justify-center rounded-xl bg-primary-100 dark:bg-primary-500/10 border border-primary-200 dark:border-primary-500/20 group-hover:bg-primary-200 dark:group-hover:bg-primary-500/20 group-hover:border-primary-300 dark:group-hover:border-primary-500/40 transition-all mr-3">
               {{ partial "functions/get_icon" (dict "name" "hero/phone" "attributes" "class=\"w-6 h-6 text-primary-600 dark:text-primary-400\"") }}
             </div>
@@ -452,7 +454,7 @@
         {{/* Contact Methods */}}
         <div class="space-y-3">
           {{ with $email }}
-          <a href="{{ (printf "mailto:%s" .) | safeURL }}" class="flex items-center group p-3 -mx-3 rounded-lg hover:bg-gray-100 dark:hover:bg-white/5 transition-colors">
+          <a href="{{ (printf "mailto:%s" .) | safeURL }}" data-contact-action="email" class="flex items-center group p-3 -mx-3 rounded-lg hover:bg-gray-100 dark:hover:bg-white/5 transition-colors">
             <div class="w-10 h-10 flex items-center justify-center rounded-full bg-primary-100 dark:bg-primary-500/10 border border-primary-200 dark:border-primary-500/20 mr-4">
               {{ partial "functions/get_icon" (dict "name" "hero/envelope" "attributes" "class=\"w-5 h-5 text-primary-600 dark:text-primary-400\"") }}
             </div>
@@ -464,7 +466,7 @@
           {{ end }}
           
           {{ with $phone }}
-          <a href="{{ (printf "tel:%s" .) | safeURL }}" class="flex items-center group p-3 -mx-3 rounded-lg hover:bg-gray-100 dark:hover:bg-white/5 transition-colors">
+          <a href="{{ (printf "tel:%s" .) | safeURL }}" data-contact-action="phone" class="flex items-center group p-3 -mx-3 rounded-lg hover:bg-gray-100 dark:hover:bg-white/5 transition-colors">
             <div class="w-10 h-10 flex items-center justify-center rounded-full bg-primary-100 dark:bg-primary-500/10 border border-primary-200 dark:border-primary-500/20 mr-4">
               {{ partial "functions/get_icon" (dict "name" "hero/phone" "attributes" "class=\"w-5 h-5 text-primary-600 dark:text-primary-400\"") }}
             </div>

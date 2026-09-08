@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Lyon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Lyon is grouped in the Europe regional time zone used for scheduling. Lyon is located in France. This page keeps the local reference specific to Lyon while the teaching service remains online-first."
+local_context: "Lyon is in the Europe scheduling region. Lyon is located in France. Local goals: For Lyon, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Lyon: ask Barbara about Lyon pronunciation, Lyon listening, Lyon conversation, and Lyon travel vocabulary goals."
 scheduling: "Scheduling from Lyon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Lyon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

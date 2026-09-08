@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from London. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "London is grouped in the Europe regional time zone used for scheduling. London is located in United Kingdom. This page keeps the local reference specific to London while the teaching service remains online-first."
+local_context: "London is in the Europe scheduling region. London is located in United Kingdom. Local goals: For London, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for London: ask Barbara about London pronunciation, London listening, London conversation, and London travel vocabulary goals."
 scheduling: "Scheduling from London: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in London: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -89,6 +89,12 @@
   translation: "Estas páginas podem ser úteis:"
 - id: user_profile_latest
   translation: Mais recentes
+
+- id: price_free
+  translation: GRÁTIS
+
+- id: pricing_book_options_apply
+  translation: As opções e edições dos livros também se aplicam a este curso em grupo e serão confirmadas antes da matrícula.
 - id: published_with
   translation: "Publicado com {hugoblox}"
 - id: poweredby_button
@@ -264,3 +270,35 @@
   translation: Enviar e-mail para Barbara
 - id: author_whatsapp_label
   translation: Falar com a Barbara pelo WhatsApp
+- id: enquiry_fallback_instruction
+  translation: Ao entrar em contato com a Barbara, mencione o pacote escolhido e sua disponibilidade.
+- id: enquiry_offer_term_10_week_1_hour
+  translation: Curso em grupo de 1 hora, período de 10 semanas
+- id: enquiry_offer_term_10_week_1_5_hour
+  translation: Curso em grupo de 1,5 hora, período de 10 semanas
+- id: enquiry_offer_private_4_lesson_package
+  translation: Pacote particular de 4 aulas
+- id: enquiry_offer_private_casual_lesson
+  translation: Aula particular avulsa
+- id: enquiry_offer_speaking_club
+  translation: Clube de conversação em português
+- id: enquiry_online_instruction
+  translation: Informe seu nível, objetivo, preferência por aulas particulares ou em grupo, fuso horário e disponibilidade.
+- id: enquiry_gold_coast_group_instruction
+  translation: Informe seu nível, se é para adulto ou criança, seu subúrbio e sua disponibilidade.
+- id: enquiry_gold_coast_private_instruction
+  translation: Informe seu nível, objetivos, subúrbio e disponibilidade.
+- id: enquiry_group_instruction
+  translation: Informe seu nível, se é para adulto ou criança, preferência de formato e disponibilidade.
+- id: enquiry_private_instruction
+  translation: Informe seu nível, objetivos, preferência de formato e disponibilidade.
+- id: enquiry_speaking_club_instruction
+  translation: Informe seu nível atual e sua disponibilidade para o clube de conversação.
+- id: enquiry_unspecified_instruction
+  translation: Informe o formato preferido, seus objetivos e sua disponibilidade.
+- id: enquiry_selected_prefix
+  translation: "Pacote escolhido:"
+- id: enquiry_greeting
+  translation: Olá Barbara,
+- id: enquiry_email_subject
+  translation: "Consulta sobre aulas de português"

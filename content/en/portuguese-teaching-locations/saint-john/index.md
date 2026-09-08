@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Saint John. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Saint John is grouped in the North America regional time zone used for scheduling. Saint John is located in Canada. This page keeps the local reference specific to Saint John while the teaching service remains online-first."
+local_context: "Saint John is in the North America scheduling region. Saint John is located in Canada. Local goals: For Saint John, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Saint John: ask Barbara about Saint John pronunciation, Saint John listening, Saint John conversation, and Saint John travel vocabulary goals."
 scheduling: "Scheduling from Saint John: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Saint John: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Naples"
 description: "Aulas online de português brasileiro em Naples, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/naples/naples-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Naples | Tutora particular online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Naples. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Naples faz parte do fuso horário regional de Europe usado para organizar horários. Naples fica em Italy. Esta página mantém a referência local específica de Naples, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Naples faz parte da região de Europe usada como referência para organizar horários. Naples fica em Italy. Local goals: Barbara adapta as aulas para Naples a objetivos de viagem, trabalho ou família; a disponibilidade de Naples é consultada antes da reserva. Local focus: Em Naples, defina Naples viagens; pratique Naples carreira; explore Naples família; melhore Naples pronúncia; treine Naples conversa; confirme Naples horário."
 scheduling: "Horários para Naples: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Naples: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,10 +65,10 @@ Barbara Sharon oferece aulas de português online particulares e em grupo flexí
 
 Usando ferramentas interativas, recursos multimídia e materiais personalizados, cada sessão é elaborada para apoiar seus interesses e objetivos únicos. As aulas são realizadas por plataformas de vídeo seguras para garantir interação fluida e total envolvimento.
 
-Para saber mais sobre os serviços oferecidos ou agendar uma aulas de português, visite nossa página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente com Barbara pela página de [contato](/pt-br/contato-professora-portugues/).
+Para saber mais sobre os serviços oferecidos ou agendar uma aula de português, visite nossa página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente com Barbara pela página de [contato](/pt-br/contato-professora-portugues/).
 
 ## Comece sua jornada hoje - aulas de português disponível
 
-Você está pronto para começar a aprender português brasileiro em Naples? Entre em contato com Barbara Sharon hoje para uma aulas de português e descubra como sua abordagem personalizada pode ajudar você a alcançar seus objetivos linguísticos.
+Você está pronto para começar a aprender português brasileiro em Naples? Entre em contato com Barbara Sharon hoje para uma aula de português e descubra como sua abordagem personalizada pode ajudar você a alcançar seus objetivos linguísticos.
 
 Com foco em comunicação real, imersão cultural e uso prático do idioma, você não apenas melhorará seu português, como também ganhará confiança para se conectar de forma autêntica com falantes nativos. Comece sua jornada hoje com uma tutora profissional de português brasileiro que oferece aulas online particulares e em grupo.

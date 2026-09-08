@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Fredericton"
 description: "Clases online de portugués brasileño en Fredericton, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/fredericton/fredericton-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Fredericton | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Fredericton. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Fredericton forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Fredericton está situada en Canada. Esta página mantiene la referencia local específica de Fredericton, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Fredericton forma parte de la región de North America utilizada como referencia para organizar horarios. Fredericton está situada en Canada. Local goals: Barbara adapta las clases para Fredericton a objetivos de viaje, trabajo o familia; la disponibilidad en Fredericton se comprueba antes de reservar. Local focus: En Fredericton, define Fredericton viajes; practica Fredericton trabajo; explora Fredericton familia; mejora Fredericton pronunciación; confirma Fredericton horario."
 scheduling: "Horarios para Fredericton: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Fredericton: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués brasileño en Fredericton? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Fredericton, clases de conversación en Fredericton o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
+¿Listo para aprender portugués brasileño en Fredericton? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Fredericton, clases de conversación en Fredericton o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
 
 «¡Habla conmigo en portugués!»

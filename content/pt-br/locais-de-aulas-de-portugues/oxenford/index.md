@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Oxenford"
 description: "Aulas online de português brasileiro em Oxenford, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/oxenford/oxenford-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Oxenford. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Oxenford faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Oxenford fica em Australia. Esta página mantém a referência local específica de Oxenford, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Oxenford faz parte da região de Australia & New Zealand usada como referência para organizar horários. Oxenford fica em Australia. Local goals: Para Oxenford, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Oxenford, defina Oxenford viagens; pratique Oxenford carreira; explore Oxenford família; melhore Oxenford pronúncia; treine Oxenford conversa; confirme Oxenford horário."
 scheduling: "Horários para Oxenford: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Oxenford: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -66,10 +66,10 @@ Em Oxenford, os estudantes têm acesso a uma mistura dinâmica de influências c
 
 Leve sua jornada no português mais longe com aulas online desenvolvidas especificamente para estudantes em Oxenford. Essas sessões virtuais oferecem a mesma qualidade e personalização das aulas presenciais, usando ferramentas interativas e recursos multimídia para aprimorar a aprendizagem. Quer você seja iniciante absoluto ou esteja avançando suas habilidades, nossos cursos online de português se adaptam aos seus objetivos.
 
-Explore aulas de português brasileiro em Oxenford ou aulas de português europeu por meio de plataformas digitais que dão vida ao idioma. Aprenda português em Oxenford com confiança e conveniência - em qualquer lugar, a qualquer hora.
+Explore aulas de português brasileiro em Oxenford ou comparações com o português europeu por meio de plataformas digitais que dão vida ao idioma. Aprenda português em Oxenford com confiança e conveniência - em qualquer lugar, a qualquer hora.
 
 ## Comece sua jornada hoje - aulas de português disponível
 
-Você está pronto para começar a aprender português em Oxenford? Agende uma aulas de português com Barbara Sharon e conheça de perto seu estilo de ensino envolvente. Quer você esteja interessado em [aulas de português para iniciantes em Oxenford](/pt-br/aulas-de-portugues/), [aulas de conversação em português em Oxenford](/pt-br/aulas-de-portugues/) ou em se conectar com uma [professora nativa de português em Oxenford](/pt-br/contato-professora-portugues/), ela está aqui para apoiar sua jornada no idioma.
+Você está pronto para começar a aprender português em Oxenford? Agende uma aula de português com Barbara Sharon e conheça de perto seu estilo de ensino envolvente. Quer você esteja interessado em [aulas de português para iniciantes em Oxenford](/pt-br/aulas-de-portugues/), [aulas de conversação em português em Oxenford](/pt-br/aulas-de-portugues/) ou em se conectar com uma [professora nativa de português em Oxenford](/pt-br/contato-professora-portugues/), ela está aqui para apoiar sua jornada no idioma.
 
 Para mais informações, visite a [página de contato](/pt-br/contato-professora-portugues/) ou explore nossa gama completa de serviços na página de [aulas de português](/pt-br/aulas-de-portugues/).

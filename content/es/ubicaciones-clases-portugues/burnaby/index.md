@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Burnaby"
 description: "Clases online de portugués brasileño en Burnaby, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/burnaby/burnaby-brazilian-portuguese-lesson.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Burnaby. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Burnaby forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Burnaby está situada en Canada. Esta página mantiene la referencia local específica de Burnaby, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Burnaby forma parte de la región de North America utilizada como referencia para organizar horarios. Burnaby está situada en Canada. Local goals: Estudiar portugués en Burnaby puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Burnaby, define Burnaby viajes; practica Burnaby trabajo; explora Burnaby familia; mejora Burnaby pronunciación; confirma Burnaby horario."
 scheduling: "Horarios para Burnaby: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Burnaby: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Lista o listo para aprender portugués brasileño en Burnaby? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una profesora de portugués cerca de ti en Burnaby, clases de portugués conversacional en Burnaby o clases estructuradas de portugués en línea, su enfoque está diseñado para responder a tus necesidades individuales.
+¿Lista o listo para aprender portugués brasileño en Burnaby? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una profesora de portugués cerca de ti en Burnaby, clases de portugués conversacional en Burnaby o clases estructuradas de portugués en línea, su enfoque está diseñado para responder a tus necesidades individuales.
 
 «¡Fala comigo em português!» (¡Habla conmigo en portugués!).

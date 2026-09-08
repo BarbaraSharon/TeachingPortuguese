@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Naples"
 description: "Clases online de portugués brasileño en Naples, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/naples/naples-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Naples | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Naples. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Naples forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Naples está situada en Italy. Esta página mantiene la referencia local específica de Naples, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Naples forma parte de la región de Europe utilizada como referencia para organizar horarios. Naples está situada en Italy. Local goals: Barbara adapta las clases para Naples a objetivos de viaje, trabajo o familia; la disponibilidad en Naples se comprueba antes de reservar. Local focus: En Naples, define Naples viajes; practica Naples trabajo; explora Naples familia; mejora Naples pronunciación; confirma Naples horario."
 scheduling: "Horarios para Naples: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Naples: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -65,10 +65,10 @@ Barbara Sharon ofrece clases particulares y grupales de portugués en línea fle
 
 Mediante herramientas interactivas, recursos multimedia y materiales personalizados, cada sesión se prepara para apoyar tus intereses y objetivos. Las clases se imparten mediante plataformas de video seguras para garantizar interacción fluida y plena participación.
 
-Para saber más sobre los servicios disponibles o programar una clases de portugués, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara mediante [contacto](/es/contacto-profesora-portugues/).
+Para saber más sobre los servicios disponibles o programar una clase de portugués, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara mediante [contacto](/es/contacto-profesora-portugues/).
 
-## Empieza hoy tu recorrido: hay una clases de portugués
+## Empieza hoy tu recorrido: hay una clase de portugués
 
-¿Listo para empezar a aprender portugués brasileño en Naples? Contacta hoy con Barbara Sharon para una clases de portugués y descubre cómo su enfoque personalizado puede ayudarte a alcanzar tus metas.
+¿Listo para empezar a aprender portugués brasileño en Naples? Contacta hoy con Barbara Sharon para una clase de portugués y descubre cómo su enfoque personalizado puede ayudarte a alcanzar tus metas.
 
 Con atención a comunicación real, inmersión cultural y uso práctico del idioma, no solo mejorarás tu portugués sino que también ganarás confianza para conectar auténticamente con hablantes nativos. Empieza hoy tu recorrido con una profesora profesional de portugués brasileño que imparte clases grupales y particulares en línea.

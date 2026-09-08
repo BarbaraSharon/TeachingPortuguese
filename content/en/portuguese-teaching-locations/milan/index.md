@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Milan. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Milan is grouped in the Europe regional time zone used for scheduling. Milan is located in Italy. This page keeps the local reference specific to Milan while the teaching service remains online-first."
+local_context: "Milan is in the Europe scheduling region. Milan is located in Italy. Local goals: For Milan, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Milan: ask Barbara about Milan pronunciation, Milan listening, Milan conversation, and Milan travel vocabulary goals."
 scheduling: "Scheduling from Milan: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Milan: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

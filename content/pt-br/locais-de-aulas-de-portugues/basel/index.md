@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Basel"
 description: "Aulas online de português brasileiro em Basel, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/basel/basel-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Basel | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Basel. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Basel faz parte do fuso horário regional de Europe usado para organizar horários. Basel fica em Switzerland. Esta página mantém a referência local específica de Basel, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Basel faz parte da região de Europe usada como referência para organizar horários. Basel fica em Switzerland. Local goals: Para Basel, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Basel, defina Basel viagens; pratique Basel carreira; explore Basel família; melhore Basel pronúncia; treine Basel conversa; confirme Basel horário."
 scheduling: "Horários para Basel: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Basel: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,10 +65,10 @@ Barbara Sharon oferece aulas particulares e em grupo, todas realizadas online. A
 
 Todos os níveis são bem-vindos - de iniciantes absolutos a falantes avançados que desejam aperfeiçoar suas habilidades. Com opções de horários flexíveis, é fácil incluir a aprendizagem do português na sua vida ocupada em Basel.
 
-Para explorar seus serviços ou agendar uma aulas de português, visite a [página de serviços de ensino](/pt-br/aulas-de-portugues/) ou entre em contato pela [página de contato](/pt-br/contato-professora-portugues/).
+Para explorar seus serviços ou agendar uma aula de português, visite a [página de serviços de ensino](/pt-br/aulas-de-portugues/) ou entre em contato pela [página de contato](/pt-br/contato-professora-portugues/).
 
 ## Comece hoje sua jornada no português brasileiro em Basel
 
-Pronto para aprender português brasileiro em Basel? Conecte-se com Barbara Sharon para uma aulas de português e descubra como a aprendizagem de idiomas pode ser fácil e agradável. Se você se interessa por aulas de conversação, ensino acolhedor para iniciantes ou gramática avançada, ela oferece apoio personalizado para ajudar você a ter sucesso.
+Pronto para aprender português brasileiro em Basel? Conecte-se com Barbara Sharon para uma aula de português e descubra como a aprendizagem de idiomas pode ser fácil e agradável. Se você se interessa por aulas de conversação, ensino acolhedor para iniciantes ou gramática avançada, ela oferece apoio personalizado para ajudar você a ter sucesso.
 
 Aulas online de português em Basel já estão disponíveis com Barbara Sharon - comece sua jornada hoje!

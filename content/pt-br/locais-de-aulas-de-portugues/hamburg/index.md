@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Hamburg"
 description: "Aulas online de português brasileiro em Hamburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/hamburg/hamburg-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Hamburgo | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Hamburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Hamburg faz parte do fuso horário regional de Europe usado para organizar horários. Hamburg fica em Germany. Esta página mantém a referência local específica de Hamburg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Hamburg faz parte da região de Europe usada como referência para organizar horários. Hamburg fica em Germany. Local goals: Quem estuda em Hamburg pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Hamburg é confirmado antes da matrícula. Local focus: Em Hamburg, defina Hamburg viagens; pratique Hamburg carreira; explore Hamburg família; melhore Hamburg pronúncia; treine Hamburg conversa; confirme Hamburg horário."
 scheduling: "Horários para Hamburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Hamburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -69,6 +69,6 @@ Cada aula enfatiza habilidades práticas de comunicação, tornando-as perfeitas
 
 ## Comece hoje sua jornada no português
 
-Está pronto para começar a aprender português em Hamburgo? Entre em contato com Barbara Sharon para uma aulas de português e dê seu primeiro passo rumo ao domínio do português brasileiro. Quer você tenha interesse em aulas de conversação em português em Hamburgo ou ensino estruturado do idioma, ela está aqui para orientar você em cada etapa.
+Está pronto para começar a aprender português em Hamburgo? Entre em contato com Barbara Sharon para uma aula de português e dê seu primeiro passo rumo ao domínio do português brasileiro. Quer você tenha interesse em aulas de conversação em português em Hamburgo ou ensino estruturado do idioma, ela está aqui para orientar você em cada etapa.
 
 Para agendar sua sessão ou perguntar sobre os serviços de professora de português online em Hamburgo, entre em contato pela página de [contato](/pt-br/contato-professora-portugues/). Comece hoje a explorar a beleza da língua portuguesa!

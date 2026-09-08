@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Ernest: Presenciales y Online"
 description: "Clases de portugués brasileño en Ernest, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/ernest/ernest-location-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Ernest: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Ernest con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Ernest forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Ernest está situada en Australia. Esta página mantiene la referencia local específica de Ernest, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Ernest forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Ernest está situada en Australia. Local goals: Quienes estudian en Ernest pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Ernest, define Ernest viajes; practica Ernest trabajo; explora Ernest familia; mejora Ernest pronunciación; confirma Ernest horario."
 scheduling: "Horarios para Ernest: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Ernest: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,6 +57,6 @@ Los formatos flexibles incluyen clases en línea, tutorías particulares y sesio
 Las clases presenciales de portugués están disponibles en Surfers Paradise y los suburbios cercanos de Gold Coast. También hay clases en línea, lo que permite a estudiantes de Ernest acceder fácilmente a enseñanza de calidad. Los servicios de Barbara Sharon incluyen formatos individuales y grupales, además de un club de conversación que respalda la práctica oral y la creación de comunidad. Explora sus servicios de profesora de portugués en Ernest en [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde [contacto](/es/contacto-profesora-portugues/).
 ## Comienza hoy tu camino con el portugués
 
-¿Te interesa aprender portugués en Ernest? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu camino lingüístico. Tanto si buscas una tutora de portugués brasileño, tutoría de portugués en línea o clases de portugués brasileño en Ernest, la experiencia de Barbara asegura una experiencia gratificante. Explora más sobre sus [servicios](/es/servicios-clases-portugues/) o contacta con Barbara directamente desde [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Ernest? Contacta con Barbara Sharon para una clase de portugués y comienza hoy tu camino lingüístico. Tanto si buscas una tutora de portugués brasileño, tutoría de portugués en línea o clases de portugués brasileño en Ernest, la experiencia de Barbara asegura una experiencia gratificante. Explora más sobre sus [servicios](/es/servicios-clases-portugues/) o contacta con Barbara directamente desde [contacto](/es/contacto-profesora-portugues/).
 
 “Aprender é viver”: ¡aprender es vivir!

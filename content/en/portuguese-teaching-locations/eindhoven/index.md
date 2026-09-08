@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Eindhoven. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Eindhoven is grouped in the Europe regional time zone used for scheduling. Eindhoven is located in Netherlands. This page keeps the local reference specific to Eindhoven while the teaching service remains online-first."
+local_context: "Eindhoven is in the Europe scheduling region. Eindhoven is located in Netherlands. Local goals: For Eindhoven, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Eindhoven: ask Barbara about Eindhoven pronunciation, Eindhoven listening, Eindhoven conversation, and Eindhoven travel vocabulary goals."
 scheduling: "Scheduling from Eindhoven: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Eindhoven: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

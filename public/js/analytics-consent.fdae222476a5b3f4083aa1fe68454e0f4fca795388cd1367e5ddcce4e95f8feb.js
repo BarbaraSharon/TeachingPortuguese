@@ -116,14 +116,7 @@
   }
 
   function getLessonFormat(pathname, anchor) {
-    const explicit = anchor?.dataset?.lessonFormat;
-    if (explicit) return explicit;
-
-    const path = pathname.toLowerCase();
-    if (path.includes("online")) return "online";
-    if (path.includes("group") || path.includes("school") || path.includes("escola") || path.includes("escuela")) return "group";
-    if (path.includes("tutoring") || path.includes("private") || path.includes("particular") || path.includes("particulares")) return "private";
-    return "unspecified";
+    return anchor?.dataset?.lessonFormat || "unspecified";
   }
 
   function trackContactClick(anchor) {

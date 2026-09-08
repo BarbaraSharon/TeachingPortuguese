@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Prince George"
 description: "Aulas online de português brasileiro em Prince George, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/prince-george/prince-george-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Prince George. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Prince George faz parte do fuso horário regional de North America usado para organizar horários. Prince George fica em Canada. Esta página mantém a referência local específica de Prince George, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Prince George faz parte da região de North America usada como referência para organizar horários. Prince George fica em Canada. Local goals: Para Prince George, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Prince George, defina Prince George viagens; pratique Prince George carreira; explore Prince George família; melhore Prince George pronúncia; treine Prince George conversa; confirme Prince George horário."
 scheduling: "Horários para Prince George: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Prince George: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada em português hoje
 
-Pronto para aprender português brasileiro em Prince-George? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Prince-George, aulas de português conversacional em Prince-George ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
+Pronto para aprender português brasileiro em Prince-George? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Prince-George, aulas de português conversacional em Prince-George ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (Converse comigo em português!)

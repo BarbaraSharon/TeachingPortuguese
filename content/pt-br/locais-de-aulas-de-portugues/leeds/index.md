@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Leeds"
 description: "Aulas online de português brasileiro em Leeds, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/leeds/leeds-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Leeds. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Leeds faz parte do fuso horário regional de Europe usado para organizar horários. Leeds fica em United Kingdom. Esta página mantém a referência local específica de Leeds, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Leeds faz parte da região de Europe usada como referência para organizar horários. Leeds fica em United Kingdom. Local goals: Estudar português em Leeds pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Leeds, defina Leeds viagens; pratique Leeds carreira; explore Leeds família; melhore Leeds pronúncia; treine Leeds conversa; confirme Leeds horário."
 scheduling: "Horários para Leeds: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Leeds: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,8 +65,8 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Barbara oferece aulas particulares e em grupo por sua plataforma online, facilitando encontrar uma agenda adequada a você. Com opções de aulas de português brasileiro em Leeds e ensino geral de português, ela garante uma abordagem personalizada para estudantes de todos os níveis. Conheça mais sobre seus [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Leeds? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Com opções de tutoria de português brasileiro em Leeds e ensino geral de português, encontre o formato ideal para seus objetivos de aprendizagem.
+Tem interesse em aprender português em Leeds? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Com opções de tutoria de português brasileiro em Leeds e ensino geral de português, encontre o formato ideal para seus objetivos de aprendizagem.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

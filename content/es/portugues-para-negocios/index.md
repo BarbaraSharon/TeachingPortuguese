@@ -3,7 +3,7 @@ translationKey: portugues-para-negocios
 title: "Portugués para negocios: clases prácticas"
 description: "Desarrolla portugués brasileño para el trabajo con lenguaje práctico para reuniones, presentaciones y comunicación profesional internacional."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-for-business/portuguese-for-business-brazilian-portuguese-lessons.jpg
   alt_text: Portugués brasileño para negocios y comunicación profesional
@@ -249,7 +249,7 @@ Todos los cursos están disponibles en línea por Zoom, con vídeo y audio de ca
 
 El curso de negocios se centra en vocabulario laboral, estilos de comunicación profesional, competencia cultural para entornos corporativos y situaciones prácticas de carrera. Los cursos generales se orientan más a conversación cotidiana e interacción social.
 
-[Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva una opciones de clases](/es/contacto-profesora-portugues/)
+[Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva unas opciones de clases](/es/contacto-profesora-portugues/)
 
 ## «Aprender é viver!» (¡Aprender es vivir!)
 

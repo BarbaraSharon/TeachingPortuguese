@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Coolangatta: Presenciales y Online"
 description: "Clases de portugués en Coolangatta: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/coolangatta/coolangatta-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Coolangatta: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Coolangatta con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Coolangatta forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Coolangatta está situada en Australia. Esta página mantiene la referencia local específica de Coolangatta, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Coolangatta forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Coolangatta está situada en Australia. Local goals: Estudiar portugués en Coolangatta puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Coolangatta, define Coolangatta viajes; practica Coolangatta trabajo; explora Coolangatta familia; mejora Coolangatta pronunciación; confirma Coolangatta horario."
 scheduling: "Horarios para Coolangatta: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Coolangatta: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ El alumnado de Coolangatta puede asistir a clases presenciales de portugués en 
 
 ## Empieza hoy tu recorrido
 
-¿Listo para aprender portugués en Coolangatta? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido lingüístico. Aprende portugués brasileño con una hablante nativa que comprende el contexto cultural. Explora opciones como clases de conversación en Coolangatta o clases para principiantes cerca de Coolangatta en [Servicios](/es/servicios-clases-portugues/) y [contacta](/es/contacto-profesora-portugues/) con ella directamente.
+¿Listo para aprender portugués en Coolangatta? Contacta con Barbara Sharon para una clase de portugués y comienza hoy tu recorrido lingüístico. Aprende portugués brasileño con una hablante nativa que comprende el contexto cultural. Explora opciones como clases de conversación en Coolangatta o clases para principiantes cerca de Coolangatta en [Servicios](/es/servicios-clases-portugues/) y [contacta](/es/contacto-profesora-portugues/) con ella directamente.

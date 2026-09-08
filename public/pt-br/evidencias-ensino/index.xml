@@ -36,52 +36,7 @@
 &lt;li&gt;Resultados verificáveis (por exemplo, melhoria de confiança oral ou competências específicas).&lt;/li&gt;
 &lt;li&gt;Sinais de retenção observados em feedback recorrente.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Última revisão: 9 de agosto de 2026.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;block: lesson-pricing
-id: lesson-pricing
-content:
-eyebrow: Preços claros
-title: Opções de aulas online
-text: Os preços atuais da Barbara valem para aulas online e na Gold Coast.
-offers:
-&lt;ul&gt;
-&lt;li&gt;id: term_10_week
-title: Curso em grupo de 10 semanas
-price_prefix: a partir de
-text: Uma aula de 1 hora por semana durante um curso de 10 semanas. Disponível online ou presencial. Fale com a Barbara para confirmar a próxima turma e a disponibilidade.
-related_offers:
-&lt;ul&gt;
-&lt;li&gt;id: book_digital
-label: Livro digital
-price_prefix: a partir de&lt;/li&gt;
-&lt;li&gt;id: book_hard_copy
-label: Livro impresso
-price_prefix: &amp;quot;&amp;quot;
-related_note: As opções e edições dos livros serão confirmadas antes da matrícula.
-url: /pt-br/contato-professora-portugues/&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;id: term_10_week_1_5_hour
-title: Curso em grupo de 1,5 hora
-price_prefix: &amp;quot;&amp;quot;
-text: Uma aula de 1,5 hora por semana durante um curso de 10 semanas. Disponível online ou presencial. Fale com a Barbara para confirmar a disponibilidade.
-url: /pt-br/contato-professora-portugues/&lt;/li&gt;
-&lt;li&gt;id: private_4_week
-title: Pacote de 4 aulas particulares
-price_prefix: a partir de
-text: Uma aula de 1 hora por semana durante 4 semanas. Fale com a Barbara para confirmar a opção atual e a disponibilidade.
-url: /pt-br/contato-professora-portugues/&lt;/li&gt;
-&lt;li&gt;id: private_casual
-title: Aula avulsa
-price_prefix: &amp;quot;&amp;quot;
-text: Uma aula de 1 hora. Fale com a Barbara para consultar a disponibilidade e o preço de aulas de 1,5 ou 2 horas.
-url: /pt-br/contato-professora-portugues/
-action_text: Consultar disponibilidade
-currency_note: Todos os preços estão em dólares australianos. Fale com a Barbara para confirmar a opção e a disponibilidade.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>Feedback e progresso nas aulas de português</title><link>https://barbarasharon.com.au/pt-br/evidencias-ensino/validacao-feedback-progresso/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://barbarasharon.com.au/pt-br/evidencias-ensino/validacao-feedback-progresso/</guid><description>&lt;h2 id="estrutura-de-validação-de-progresso"&gt;Estrutura de validação de progresso&lt;/h2&gt;
+&lt;p&gt;Última revisão: 9 de agosto de 2026.&lt;/p&gt;</description></item><item><title>Feedback e progresso nas aulas de português</title><link>https://barbarasharon.com.au/pt-br/evidencias-ensino/validacao-feedback-progresso/</link><pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate><guid>https://barbarasharon.com.au/pt-br/evidencias-ensino/validacao-feedback-progresso/</guid><description>&lt;h2 id="estrutura-de-validação-de-progresso"&gt;Estrutura de validação de progresso&lt;/h2&gt;
 &lt;p&gt;Critérios claros melhoram a credibilidade para leitura humana e de IA.&lt;/p&gt;
 &lt;h3 id="sinais-centrais"&gt;Sinais centrais&lt;/h3&gt;
 &lt;ul&gt;

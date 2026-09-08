@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Austinville: Presenciales y Online"
 description: "Clases de portugués en Austinville: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/austinville/austinville-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Austinville: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Austinville con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Austinville forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Austinville está situada en Australia. Esta página mantiene la referencia local específica de Austinville, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Austinville forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Austinville está situada en Australia. Local goals: En Austinville, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Austinville, define Austinville viajes; practica Austinville trabajo; explora Austinville familia; mejora Austinville pronunciación; confirma Austinville horario."
 scheduling: "Horarios para Austinville: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Austinville: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -53,6 +53,6 @@ Barbara ofrece clases en línea, tutorías particulares y sesiones grupales para
 Las clases presenciales se realizan convenientemente en Surfers Paradise; para quienes prefieren estudiar a distancia, hay opciones en línea. También organiza un club de conversación de portugués brasileño que se reúne regularmente. Este espacio informal desarrolla confianza y fluidez mediante conversación cotidiana e intercambio cultural.
 ## Empieza hoy tu camino
 
-¿Lista o listo para aprender portugués en Austinville? Contacta con Barbara Sharon para una clases de portugués. Consulta sus [servicios](/es/servicios-clases-portugues/) o escribe mediante la página de [contacto](/es/contacto-profesora-portugues/).
+¿Lista o listo para aprender portugués en Austinville? Contacta con Barbara Sharon para una clase de portugués. Consulta sus [servicios](/es/servicios-clases-portugues/) o escribe mediante la página de [contacto](/es/contacto-profesora-portugues/).
 
 «Aprender português é uma experiência transformadora. Comece hoje!»

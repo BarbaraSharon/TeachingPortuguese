@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Elanora: Presenciales y Online"
 description: "Clases de portugués brasileño en Elanora, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/elanora/elanora-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Elanora: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Elanora con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Elanora forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Elanora está situada en Australia. Esta página mantiene la referencia local específica de Elanora, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Elanora forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Elanora está situada en Australia. Local goals: En Elanora, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Elanora, define Elanora viajes; practica Elanora trabajo; explora Elanora familia; mejora Elanora pronunciación; confirma Elanora horario."
 scheduling: "Horarios para Elanora: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Elanora: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Las clases presenciales de portugués están disponibles en Surfers Paradise y l
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Te interesa aprender portugués en Elanora? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido lingüístico. Encuentra más información sobre sus servicios o ponte en contacto directamente mediante la página de [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Elanora? Contacta con Barbara Sharon para una clase de portugués y comienza hoy tu recorrido lingüístico. Encuentra más información sobre sus servicios o ponte en contacto directamente mediante la página de [contacto](/es/contacto-profesora-portugues/).

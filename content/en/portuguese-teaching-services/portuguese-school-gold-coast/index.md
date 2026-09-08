@@ -3,7 +3,7 @@ translationKey: escola-de-portugues-gold-coast
 title: "Group Portuguese Classes on the Gold Coast"
 description: "Join Gold Coast Brazilian Portuguese group classes for conversation, guided practice, and structured learning across different levels."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 aliases:
 - /portuguese-teaching-services/portuguese-school-gold-coast/
@@ -25,6 +25,8 @@ sections:
     eyebrow: In-person group classes · Gold Coast
     title: In-Person Group Portuguese Classes on the Gold Coast
     text: Barbara is organising the next Gold Coast group. Register your interest with your level, age group, preferred suburb and availability; the current venue and level are confirmed before booking. The classroom image is illustrative.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Register interest in the next group
       url: https://wa.me/61493837828?text=Hi%20Barbara%2C%20I%27m%20interested%20in%20the%20next%20Gold%20Coast%20group.%20My%20level%20is%2C%20my%20age%20group%20is%2C%20my%20preferred%20suburb%20is%2C%20and%20my%20availability%20is%2E

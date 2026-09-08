@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Rotterdam. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Rotterdam is grouped in the Europe regional time zone used for scheduling. Rotterdam is located in Netherlands. This page keeps the local reference specific to Rotterdam while the teaching service remains online-first."
+local_context: "Rotterdam is in the Europe scheduling region. Rotterdam is located in Netherlands. Local goals: In Rotterdam, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Rotterdam: ask Barbara about Rotterdam pronunciation, Rotterdam listening, Rotterdam conversation, and Rotterdam travel vocabulary goals."
 scheduling: "Scheduling from Rotterdam: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Rotterdam: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

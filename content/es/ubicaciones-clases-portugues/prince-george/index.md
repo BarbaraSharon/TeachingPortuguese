@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Prince George"
 description: "Clases online de portugués brasileño en Prince George, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/prince-george/prince-george-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Prince George. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Prince George forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Prince George está situada en Canada. Esta página mantiene la referencia local específica de Prince George, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Prince George forma parte de la región de North America utilizada como referencia para organizar horarios. Prince George está situada en Canada. Local goals: Para Prince George, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Prince George, define Prince George viajes; practica Prince George trabajo; explora Prince George familia; mejora Prince George pronunciación; confirma Prince George horario."
 scheduling: "Horarios para Prince George: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Prince George: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués brasileño en Prince-George? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Prince-George, clases de conversación en Prince-George o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
+¿Listo para aprender portugués brasileño en Prince-George? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Prince-George, clases de conversación en Prince-George o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
 
 «¡Habla conmigo en portugués!»

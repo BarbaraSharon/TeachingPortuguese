@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Perth"
 description: "Clases online de portugués brasileño en Perth, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/perth/perth-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Perth"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Perth. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Perth forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Perth está situada en Australia. Esta página mantiene la referencia local específica de Perth, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Perth forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Perth está situada en Australia. Local goals: Quienes estudian en Perth pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Perth, define Perth viajes; practica Perth trabajo; explora Perth familia; mejora Perth pronunciación; confirma Perth horario."
 scheduling: "Horarios para Perth: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Perth; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Perth: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

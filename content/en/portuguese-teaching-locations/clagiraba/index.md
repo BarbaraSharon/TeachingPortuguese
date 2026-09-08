@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Clagiraba with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Clagiraba is grouped in the Gold Coast regional time zone used for scheduling. Clagiraba is located in Australia. This page keeps the local reference specific to Clagiraba while the teaching service remains online-first."
+local_context: "Clagiraba is in the Gold Coast scheduling region. Clagiraba is located in Australia. Local goals: In Clagiraba, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Clagiraba: ask Barbara about Clagiraba pronunciation, Clagiraba listening, Clagiraba conversation, and Clagiraba travel vocabulary goals."
 scheduling: "Scheduling from Clagiraba: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Clagiraba: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

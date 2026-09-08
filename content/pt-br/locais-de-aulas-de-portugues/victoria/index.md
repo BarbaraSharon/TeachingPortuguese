@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Victoria"
 description: "Aulas online de português brasileiro em Victoria, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/victoria/victoria-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Victoria. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Victoria faz parte do fuso horário regional de North America usado para organizar horários. Victoria fica em Canada. Esta página mantém a referência local específica de Victoria, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Victoria faz parte da região de North America usada como referência para organizar horários. Victoria fica em Canada. Local goals: Estudar português em Victoria pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Victoria, defina Victoria viagens; pratique Victoria carreira; explore Victoria família; melhore Victoria pronúncia; treine Victoria conversa; confirme Victoria horário."
 scheduling: "Horários para Victoria: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Victoria: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,7 +59,7 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada de português hoje
 
-Está pronto para aprender português brasileiro em Victoria? Reserve uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Victoria, aulas de conversação em português em Victoria ou aulas estruturadas de português online, sua abordagem foi projetada para atender às suas necessidades individuais.
+Está pronto para aprender português brasileiro em Victoria? Reserve uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Victoria, aulas de conversação em português em Victoria ou aulas estruturadas de português online, sua abordagem foi projetada para atender às suas necessidades individuais.
 
 “Fala comigo em português!”
 

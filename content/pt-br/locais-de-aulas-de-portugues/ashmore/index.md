@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Ashmore: Presenciais e Online"
 description: "Aulas de português brasileiro em Ashmore, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/ashmore/ashmore-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Ashmore: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Ashmore com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Ashmore faz parte do fuso horário regional de Gold Coast usado para organizar horários. Ashmore fica em Australia. Esta página mantém a referência local específica de Ashmore, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Ashmore faz parte da região de Gold Coast usada como referência para organizar horários. Ashmore fica em Australia. Local goals: Quem aprende em Ashmore pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Ashmore, defina Ashmore viagens; pratique Ashmore carreira; explore Ashmore família; melhore Ashmore pronúncia; treine Ashmore conversa; confirme Ashmore horário."
 scheduling: "Horários para Ashmore: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ashmore: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

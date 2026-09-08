@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Dublin"
 description: "Aulas online de português brasileiro em Dublin, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/dublin/dublin-location-portuguese-lesson.png
   alt_text: Aprenda português em Dublin | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Dublin. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Dublin faz parte do fuso horário regional de Europe usado para organizar horários. Dublin fica em Ireland. Esta página mantém a referência local específica de Dublin, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Dublin faz parte da região de Europe usada como referência para organizar horários. Dublin fica em Ireland. Local goals: Em Dublin, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Dublin, defina Dublin viagens; pratique Dublin carreira; explore Dublin família; melhore Dublin pronúncia; treine Dublin conversa; confirme Dublin horário."
 scheduling: "Horários para Dublin: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Dublin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Dublin: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Como professora de português em Dublin, ela oferece formatos individuais e em p
 
 Aprender português em Dublin dá acesso a uma comunidade crescente de falantes e eventos culturais que enriquecem sua experiência de aprendizagem. Quer você tenha interesse em aulas de português brasileiro em Dublin ou aulas gerais de português, Barbara Sharon está aqui para apoiar sua jornada.
 
-Pronto para começar? Entre em contato com Barbara Sharon para uma aulas de português e descubra como a tutoria online eficaz de português em Dublin pode ampliar suas habilidades e confiança no idioma. Aprenda português em Dublin hoje com uma falante nativa qualificada e especialista em cultura!
+Pronto para começar? Entre em contato com Barbara Sharon para uma aula de português e descubra como a tutoria online eficaz de português em Dublin pode ampliar suas habilidades e confiança no idioma. Aprenda português em Dublin hoje com uma falante nativa qualificada e especialista em cultura!

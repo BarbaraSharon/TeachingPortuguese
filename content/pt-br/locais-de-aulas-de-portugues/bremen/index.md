@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bremen"
 description: "Aulas online de português brasileiro em Bremen, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/bremen/bremen-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Bremen | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bremen. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Bremen faz parte do fuso horário regional de Europe usado para organizar horários. Bremen fica em Germany. Esta página mantém a referência local específica de Bremen, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Bremen faz parte da região de Europe usada como referência para organizar horários. Bremen fica em Germany. Local goals: Barbara adapta as aulas para Bremen a objetivos de viagem, trabalho ou família; a disponibilidade de Bremen é consultada antes da reserva. Local focus: Em Bremen, defina Bremen viagens; pratique Bremen carreira; explore Bremen família; melhore Bremen pronúncia; treine Bremen conversa; confirme Bremen horário."
 scheduling: "Horários para Bremen: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bremen: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,4 +61,4 @@ Os serviços de professora de português online em Bremen incluem ensino individ
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Bremen? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Você pode falar com ela pela página de [contato](/pt-br/contato-professora-portugues/) para conversar sobre suas necessidades e agendar sua primeira sessão.
+Tem interesse em aprender português em Bremen? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma! Você pode falar com ela pela página de [contato](/pt-br/contato-professora-portugues/) para conversar sobre suas necessidades e agendar sua primeira sessão.

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Orlando"
 description: "Clases online de portugués brasileño en Orlando, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/orlando/orlando-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Orlando | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Orlando. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Orlando forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Orlando está situada en United States. Esta página mantiene la referencia local específica de Orlando, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Orlando forma parte de la región de North America utilizada como referencia para organizar horarios. Orlando está situada en United States. Local goals: Quienes aprenden en Orlando pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Orlando, define Orlando viajes; practica Orlando trabajo; explora Orlando familia; mejora Orlando pronunciación; confirma Orlando horario."
 scheduling: "Horarios para Orlando: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Orlando: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,8 +63,8 @@ Barbara Sharon ofrece clases particulares y grupales en línea en Orlando. Estas
 
 Barbara imparte sesiones individuales y de grupos pequeños, ideales para practicar conversación y ganar confianza al hablar. Con horarios flexibles, puedes elegir tutoría particular o clases grupales para conectar con otras personas que aprenden. La plataforma en línea permite acceder a educación de calidad sin necesidad de desplazarse.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Orlando? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte con enseñanza personalizada.
+¿Te interesa aprender portugués en Orlando? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte con enseñanza personalizada.
 
 Para conocer más sobre los servicios, consulta los [servicios](/es/servicios-clases-portugues/) o contacta directamente desde la página de [contacto](/es/contacto-profesora-portugues/) para programar una sesión. Explora las clases de portugués brasileño o la tutoría en línea en Orlando y da hoy el primer paso hacia la fluidez.

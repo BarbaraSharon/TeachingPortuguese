@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Advanced Brazilian Portuguese Lessons"
 description: "Refine advanced Brazilian Portuguese through conversation, pronunciation, grammar, vocabulary, and cultural nuance in lessons shaped around your goals."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Advanced Brazilian Portuguese lessons
   delivery: Online worldwide; in person on the Gold Coast
+  delivery_modes: [online, in_person]
   audience: Advanced adult learners
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Advanced Portuguese
     title: Advanced Portuguese Lessons with Barbara Sharon
     text: Develop more confident advanced conversation through focused work on pronunciation, complex grammar, vocabulary, listening, and cultural nuance. Choose from available private, group, online, or Gold Coast options.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about advanced lessons
       url: /en/contact-portuguese-teacher/

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Guanaba"
 description: "Aulas online de português brasileiro em Guanaba, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/guanaba/guanaba-hinterland-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Guanaba | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Guanaba. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Guanaba faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Guanaba fica em Australia. Esta página mantém a referência local específica de Guanaba, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Guanaba faz parte da região de Australia & New Zealand usada como referência para organizar horários. Guanaba fica em Australia. Local goals: Para Guanaba, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Guanaba, defina Guanaba viagens; pratique Guanaba carreira; explore Guanaba família; melhore Guanaba pronúncia; treine Guanaba conversa; confirme Guanaba horário."
 scheduling: "Horários para Guanaba: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Guanaba: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Além das aulas regulares, ela também organiza clubes de conversação criados 
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Guanaba? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma. Quer você procure aulas de português brasileiro em Guanaba, aulas de conversação em português na localidade ou os serviços de uma professora particular de português, ela está pronta para ajudar você a alcançar seus objetivos.
+Tem interesse em aprender português em Guanaba? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma. Quer você procure aulas de português brasileiro em Guanaba, aulas de conversação em português na localidade ou os serviços de uma professora particular de português, ela está pronta para ajudar você a alcançar seus objetivos.

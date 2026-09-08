@@ -3,7 +3,7 @@ translationKey: ensino-de-portugues-gold-coast
 title: "In-Person Portuguese Lessons on the Gold Coast"
 description: "Learn Brazilian Portuguese in private or group lessons, with in-person teaching on the Gold Coast and online options for learners elsewhere in the world."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 aliases:
 - /portuguese-teaching-services/teaching-portuguese-gold-coast/
@@ -16,6 +16,7 @@ categories:
 service:
   service_type: Face-to-face Brazilian Portuguese lessons
   delivery: Gold Coast, Australia
+  delivery_modes: [in_person]
   audience: Beginner, intermediate, advanced, business, travel, and children
 sections:
 - block: hero
@@ -23,6 +24,8 @@ sections:
     eyebrow: Face-to-face Portuguese teaching · Gold Coast
     title: Learn Portuguese in person on the Gold Coast
     text: Choose private tutoring or a local group class for practical Brazilian Portuguese, from first conversations to advanced fluency.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Contact Barbara
       url: /en/contact-portuguese-teacher/

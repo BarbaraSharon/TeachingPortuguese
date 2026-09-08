@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Club de conversación en portugués brasileño"
 description: "Practica conversación en portugués brasileño con Barbara Sharon en un club de apoyo que anima a hablar, escuchar y comunicarse con naturalidad."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-speaking-club/portuguese-speaking-club-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -13,8 +13,12 @@ categories:
 service:
   service_type: Club de conversación en portugués brasileño
   delivery: En línea o presencial en Gold Coast, según disponibilidad
+  delivery_modes: [online, in_person]
   audience: Estudiantes de portugués principiantes, intermedios y avanzados que buscan practicar conversación
 ---
+
+<p class="service-credentials">Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.</p>
+
 
 ## Club de conversación en portugués: desarrolla fluidez y confianza
 

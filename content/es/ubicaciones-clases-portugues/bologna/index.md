@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Bologna"
 description: "Clases online de portugués brasileño en Bologna, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/bologna/bologna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bologna. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bologna forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Bologna está situada en Italy. Esta página mantiene la referencia local específica de Bologna, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Bologna forma parte de la región de Europe utilizada como referencia para organizar horarios. Bologna está situada en Italy. Local goals: En Bologna, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Bologna, define Bologna viajes; practica Bologna trabajo; explora Bologna familia; mejora Bologna pronunciación; confirma Bologna horario."
 scheduling: "Horarios para Bologna: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bologna: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,4 +55,4 @@ Elige entre formatos flexibles en línea, con tutoría particular y clases grupa
 Las clases en línea están disponibles mediante [Servicios](/es/servicios-clases-portugues/). Barbara ofrece enseñanza de portugués brasileño y general adaptada a tu horario, desde conversación hasta ejercicios de gramática.
 ## Empieza hoy tu camino con el portugués
 
-¿Listo para aprender portugués en Bolonia? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia el portugués brasileño. Conoce sus servicios en [Servicios](/es/servicios-clases-portugues/) o contacta mediante [Contacto](/es/contacto-profesora-portugues/).
+¿Listo para aprender portugués en Bolonia? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia el portugués brasileño. Conoce sus servicios en [Servicios](/es/servicios-clases-portugues/) o contacta mediante [Contacto](/es/contacto-profesora-portugues/).

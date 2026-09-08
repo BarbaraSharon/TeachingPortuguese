@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Clases de portugués brasileño online"
 description: "Estudia portugués brasileño online desde cualquier lugar, en clases particulares o grupales para distintos niveles, negocios o viajes."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png
@@ -22,6 +22,8 @@ sections:
     eyebrow: Clases de portugués en línea en todo el mundo
     title: Clases de portugués en línea en todo el mundo
     text: Elige clases particulares o grupales en línea, con enseñanza práctica adaptada a tu nivel y objetivos. No hay clases infantiles en línea.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Consulta sobre las clases en línea
       url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesan%20las%20clases%20online%20de%20portugu%C3%A9s%20brasile%C3%B1o.%20Mi%20nivel%20es%2C%20mi%20objetivo%20es%20y%20mi%20zona%20horaria%20es%2E

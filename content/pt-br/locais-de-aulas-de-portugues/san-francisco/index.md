@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em San Francisco"
 description: "Aulas online de português brasileiro em San Francisco, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/san-francisco/san-francisco-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de San Francisco. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "San Francisco faz parte do fuso horário regional de North America usado para organizar horários. San Francisco fica em United States. Esta página mantém a referência local específica de San Francisco, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "San Francisco faz parte da região de North America usada como referência para organizar horários. San Francisco fica em United States. Local goals: Para San Francisco, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em San Francisco, defina San Francisco viagens; pratique San Francisco carreira; explore San Francisco família; melhore San Francisco pronúncia; treine San Francisco conversa; confirme San Francisco horário."
 scheduling: "Horários para San Francisco: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em San Francisco: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

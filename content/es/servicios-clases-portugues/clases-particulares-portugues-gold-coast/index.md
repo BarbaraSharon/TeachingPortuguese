@@ -3,7 +3,7 @@ translationKey: aulas-particulares-portugues-gold-coast
 title: "Clases particulares de portugués en Gold Coast"
 description: "Elige clases particulares de portugués brasileño online en todo el mundo o en Gold Coast, con apoyo centrado en tu nivel, intereses y objetivos."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/portuguese-tutoring-gold-coast/portuguese-tutoring-gold-coast-brazilian-portuguese-lessons.png
@@ -14,7 +14,7 @@ categories:
 service:
   service_type: Clases particulares de portugués brasileño online y presenciales
   delivery: Online en todo el mundo; presenciales en Gold Coast
-  delivery_modes: [online, in_person]
+  delivery_modes: [in_person]
   audience: Adultos principiantes, intermedios y avanzados; objetivos de negocios y viajes
   available_language: [pt-BR, en, es, it, fr]
 sections:
@@ -23,6 +23,8 @@ sections:
     eyebrow: Clases particulares · online y Gold Coast
     title: Clases particulares de portugués brasileño online y en Gold Coast
     text: Gana confianza con clases individuales y concentradas de portugués brasileño online en todo el mundo o en Gold Coast. Tu nivel, ritmo y objetivos guían cada sesión.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Consulta sobre las clases particulares
       url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesan%20las%20clases%20particulares%20de%20portugu%C3%A9s%20brasile%C3%B1o.%20Mi%20nivel%20es%2C%20mi%20objetivo%20es%20y%20mi%20formato%20preferido%20es%2E

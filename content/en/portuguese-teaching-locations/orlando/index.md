@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Orlando. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Orlando is grouped in the North America regional time zone used for scheduling. Orlando is located in United States. This page keeps the local reference specific to Orlando while the teaching service remains online-first."
+local_context: "Orlando is in the North America scheduling region. Orlando is located in United States. Local goals: Learners in Orlando can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Orlando: ask Barbara about Orlando pronunciation, Orlando listening, Orlando conversation, and Orlando travel vocabulary goals."
 scheduling: "Scheduling from Orlando: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Orlando: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

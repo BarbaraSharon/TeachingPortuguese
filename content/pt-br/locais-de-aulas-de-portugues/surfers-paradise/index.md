@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Surfers Paradise: Presenciais e Online"
 description: "Aulas de português em Surfers Paradise: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/surfers-paradise/surfers-paradise-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Surfers Paradise: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Surfers Paradise com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Surfers Paradise faz parte do fuso horário regional de Gold Coast usado para organizar horários. Surfers Paradise fica em Australia. Esta página mantém a referência local específica de Surfers Paradise, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Surfers Paradise faz parte da região de Gold Coast usada como referência para organizar horários. Surfers Paradise fica em Australia. Local goals: Em Surfers Paradise, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Surfers Paradise, defina Surfers Paradise viagens; pratique Surfers Paradise carreira; explore Surfers Paradise família; melhore Surfers Paradise pronúncia; treine Surfers Paradise conversa; confirme Surfers Paradise horário."
 scheduling: "Horários para Surfers Paradise: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Surfers Paradise: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

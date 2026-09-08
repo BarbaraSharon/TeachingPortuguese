@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Aulas de português intermediário para avançar"
 description: "Vá além do básico com aulas de português brasileiro intermediário para conversação, pronúncia, vocabulário, gramática e comunicação cotidiana."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Aulas de português brasileiro de nível intermediário
   delivery: Online para todo o mundo; presenciais na Gold Coast
+  delivery_modes: [online, in_person]
   audience: Alunos adultos de nível intermediário
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Português intermediário
     title: Aulas de português intermediário com Barbara Sharon
     text: Amplie seu vocabulário, melhore a precisão e transforme o português que você já conhece em uma conversação mais natural. A aprendizagem de nível intermediário está disponível em opções particulares e em grupo, online para todo o mundo e na Gold Coast.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Pergunte sobre aulas de nível intermediário
       url: /pt-br/contato-professora-portugues/

@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Frankfurt Am Main. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Frankfurt Am Main is grouped in the Europe regional time zone used for scheduling. Frankfurt Am Main is located in Germany. This page keeps the local reference specific to Frankfurt Am Main while the teaching service remains online-first."
+local_context: "Frankfurt Am Main is in the Europe scheduling region. Frankfurt Am Main is located in Germany. Local goals: For Frankfurt Am Main, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Frankfurt Am Main: ask Barbara about Frankfurt Am Main pronunciation, Frankfurt Am Main listening, Frankfurt Am Main conversation, and Frankfurt Am Main travel vocabulary goals."
 scheduling: "Scheduling from Frankfurt Am Main: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Frankfurt Am Main: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

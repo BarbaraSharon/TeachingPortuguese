@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Adelaide"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Adelaide. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Adelaide is grouped in the Australia & New Zealand regional time zone used for scheduling. Adelaide is located in Australia. This page keeps the local reference specific to Adelaide while the teaching service remains online-first."
+local_context: "Adelaide is in the Australia & New Zealand scheduling region. Adelaide is located in Australia. Local goals: For Adelaide, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Adelaide: ask Barbara about Adelaide pronunciation, Adelaide listening, Adelaide conversation, and Adelaide travel vocabulary goals."
 scheduling: "Scheduling from Adelaide: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Adelaide; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Adelaide: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

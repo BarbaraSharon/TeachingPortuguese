@@ -88,7 +88,13 @@
 - id: 404_recommendations
   translation: "Estas páginas pueden serte útiles:"
 - id: user_profile_latest
-  translation: Más reciente
+  translation: Últimas
+
+- id: price_free
+  translation: GRATIS
+
+- id: pricing_book_options_apply
+  translation: Las opciones y ediciones de los libros también se aplican a este curso grupal y se confirmarán antes de la matrícula.
 - id: published_with
   translation: "Publicado con {hugoblox}"
 - id: poweredby_button
@@ -264,3 +270,35 @@
   translation: Enviar un correo electrónico a Barbara
 - id: author_whatsapp_label
   translation: Contactar con Barbara por WhatsApp
+- id: enquiry_fallback_instruction
+  translation: Al contactar con Barbara, menciona el paquete elegido y tu disponibilidad.
+- id: enquiry_offer_term_10_week_1_hour
+  translation: Curso grupal de 1 hora, trimestre de 10 semanas
+- id: enquiry_offer_term_10_week_1_5_hour
+  translation: Curso grupal de 1,5 horas, trimestre de 10 semanas
+- id: enquiry_offer_private_4_lesson_package
+  translation: Paquete particular de 4 clases
+- id: enquiry_offer_private_casual_lesson
+  translation: Clase particular ocasional
+- id: enquiry_offer_speaking_club
+  translation: Club de conversación en portugués
+- id: enquiry_online_instruction
+  translation: Indica tu nivel, objetivo, preferencia por clases particulares o grupales, zona horaria y disponibilidad.
+- id: enquiry_gold_coast_group_instruction
+  translation: Indica tu nivel, si es para una persona adulta o menor, tu suburbio y tu disponibilidad.
+- id: enquiry_gold_coast_private_instruction
+  translation: Indica tu nivel, objetivos, suburbio y disponibilidad.
+- id: enquiry_group_instruction
+  translation: Indica tu nivel, si es para una persona adulta o menor, preferencia de formato y disponibilidad.
+- id: enquiry_private_instruction
+  translation: Indica tu nivel, objetivos, preferencia de formato y disponibilidad.
+- id: enquiry_speaking_club_instruction
+  translation: Indica tu nivel actual y tu disponibilidad para el club de conversación.
+- id: enquiry_unspecified_instruction
+  translation: Indica tu formato preferido, objetivos y disponibilidad.
+- id: enquiry_selected_prefix
+  translation: "Paquete elegido:"
+- id: enquiry_greeting
+  translation: Hola Barbara,
+- id: enquiry_email_subject
+  translation: "Consulta sobre clases de portugués"

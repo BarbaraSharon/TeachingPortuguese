@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Boston"
 description: "Clases online de portugués brasileño en Boston, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/boston/boston-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Boston | Clases en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Boston. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Boston forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Boston está situada en United States. Esta página mantiene la referencia local específica de Boston, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Boston forma parte de la región de North America utilizada como referencia para organizar horarios. Boston está situada en United States. Local goals: Quienes aprenden en Boston pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Boston, define Boston viajes; practica Boston trabajo; explora Boston familia; mejora Boston pronunciación; confirma Boston horario."
 scheduling: "Horarios para Boston: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Boston: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,8 +59,8 @@ Barbara Sharon ofrece formatos flexibles para todo tipo de estudiantes. Tanto si
 
 Sus clases en línea abarcan desde principiantes hasta estudiantes avanzados, con programas personalizados basados en tus intereses y objetivos. Las clases particulares ofrecen atención concentrada, mientras que las sesiones grupales fomentan interacción entre pares y práctica de conversación real.
 
-Para explorar servicios o programar una clases de portugués, visita [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/). ¡Empieza hoy tu recorrido con el portugués brasileño!
+Para explorar servicios o programar una clase de portugués, visita [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/). ¡Empieza hoy tu recorrido con el portugués brasileño!
 
 ## Empieza hoy tu camino hacia la fluidez en Boston
 
-¿Listo para aprender o mejorar tu portugués brasileño? Contacta con Barbara Sharon para una clases de portugués y da el primer paso hacia la fluidez con confianza. Con enseñanza experta, contenido atractivo y un entorno de aprendizaje de apoyo, hablarás naturalmente en poco tiempo.
+¿Listo para aprender o mejorar tu portugués brasileño? Contacta con Barbara Sharon para una clase de portugués y da el primer paso hacia la fluidez con confianza. Con enseñanza experta, contenido atractivo y un entorno de aprendizaje de apoyo, hablarás naturalmente en poco tiempo.

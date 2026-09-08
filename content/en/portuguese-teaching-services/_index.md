@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Brazilian Portuguese Lessons: Course Options"
 description: "Explore Brazilian Portuguese lesson options for different goals and levels, with online formats worldwide and private or group learning on the Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: services
 aliases:
 - /portuguese-teaching-services/
@@ -24,6 +24,8 @@ sections:
     eyebrow: Brazilian Portuguese lessons
     title: Portuguese Lessons Online and on the Gold Coast
     text: Private and group lessons online worldwide, plus in-person classes on the Gold Coast. Choose your level, your goal, and the way you want to learn.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Online lessons worldwide
       url: /en/portuguese-teaching-services/online-portuguese-lessons/

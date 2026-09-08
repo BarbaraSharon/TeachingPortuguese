@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Boston"
 description: "Aulas online de português brasileiro em Boston, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/boston/boston-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Boston | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Boston. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Boston faz parte do fuso horário regional de North America usado para organizar horários. Boston fica em United States. Esta página mantém a referência local específica de Boston, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Boston faz parte da região de North America usada como referência para organizar horários. Boston fica em United States. Local goals: Quem aprende em Boston pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Boston, defina Boston viagens; pratique Boston carreira; explore Boston família; melhore Boston pronúncia; treine Boston conversa; confirme Boston horário."
 scheduling: "Horários para Boston: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Boston: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,8 +59,8 @@ Barbara Sharon oferece formatos de aula flexíveis para atender a todos os aluno
 
 Suas aulas online atendem alunos de iniciantes a avançados, com currículos personalizados e elaborados de acordo com seus interesses e objetivos. As aulas particulares oferecem atenção focada, enquanto as sessões em grupo estimulam a interação entre colegas e a prática de conversação em situações reais.
 
-Para conhecer os serviços ou agendar uma aulas de português, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/). Comece hoje sua jornada no português brasileiro!
+Para conhecer os serviços ou agendar uma aula de português, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/). Comece hoje sua jornada no português brasileiro!
 
 ## Comece hoje sua jornada rumo à fluência em Boston
 
-Está pronto para aprender ou aprimorar seu português brasileiro? Entre em contato com Barbara Sharon para uma aulas de português e dê o primeiro passo rumo à fluência com confiança. Com ensino especializado, conteúdo envolvente e um ambiente de aprendizagem acolhedor, você falará de forma natural em pouco tempo!
+Está pronto para aprender ou aprimorar seu português brasileiro? Entre em contato com Barbara Sharon para uma aula de português e dê o primeiro passo rumo à fluência com confiança. Com ensino especializado, conteúdo envolvente e um ambiente de aprendizagem acolhedor, você falará de forma natural em pouco tempo!

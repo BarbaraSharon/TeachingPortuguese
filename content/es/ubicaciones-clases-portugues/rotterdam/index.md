@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Rotterdam"
 description: "Clases online de portugués brasileño en Rotterdam, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/rotterdam/rotterdam-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Rotterdam. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Rotterdam forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Rotterdam está situada en Netherlands. Esta página mantiene la referencia local específica de Rotterdam, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Rotterdam forma parte de la región de Europe utilizada como referencia para organizar horarios. Rotterdam está situada en Netherlands. Local goals: En Rotterdam, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Rotterdam, define Rotterdam viajes; practica Rotterdam trabajo; explora Rotterdam familia; mejora Rotterdam pronunciación; confirma Rotterdam horario."
 scheduling: "Horarios para Rotterdam: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Rotterdam: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -68,4 +68,4 @@ Para estudiantes de Róterdam, las clases de portugués en Gold Coast pueden mej
 
 Barbara Sharon ofrece clases de portugués en línea en Róterdam. Estas sesiones brindan flexibilidad y atención personalizada, de modo que puedes aprender a tu propio ritmo mientras utilizas herramientas interactivas y recursos multimedia. Tanto si buscas clases para principiantes como enseñanza avanzada de conversación, el formato en línea facilita conectarte con una profesora cualificada de portugués brasileño en Róterdam, sin importar dónde estés.
 
-El enfoque de Barbara combina conocimientos culturales y competencias prácticas de idioma, por lo que las clases se adaptan a tus intereses. Desde sesiones de tutoría de portugués brasileño centradas en ritmos de samba y gastronomía hasta clases de portugués europeo que exploran la historia de Lisboa, cada clase ofrece oportunidades de aprendizaje singulares. Con su experiencia, ganarás confianza para hablar, escuchar y comprender el idioma en contextos reales.
+El enfoque de Barbara combina conocimientos culturales y competencias prácticas de idioma, por lo que las clases se adaptan a tus intereses. Desde sesiones de tutoría de portugués brasileño centradas en ritmos de samba y gastronomía hasta comparaciones con el portugués europeo que exploran la historia de Lisboa, cada clase ofrece oportunidades de aprendizaje singulares. Con su experiencia, ganarás confianza para hablar, escuchar y comprender el idioma en contextos reales.

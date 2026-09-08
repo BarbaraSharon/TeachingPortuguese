@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Reedy Creek. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Reedy Creek is grouped in the Australia & New Zealand regional time zone used for scheduling. Reedy Creek is located in Australia. This page keeps the local reference specific to Reedy Creek while the teaching service remains online-first."
+local_context: "Reedy Creek is in the Australia & New Zealand scheduling region. Reedy Creek is located in Australia. Local goals: In Reedy Creek, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Reedy Creek: ask Barbara about Reedy Creek pronunciation, Reedy Creek listening, Reedy Creek conversation, and Reedy Creek travel vocabulary goals."
 scheduling: "Scheduling from Reedy Creek: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Reedy Creek: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Ottawa"
 description: "Aulas online de português brasileiro em Ottawa, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/ottawa/ottawa-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Ottawa. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Ottawa faz parte do fuso horário regional de North America usado para organizar horários. Ottawa fica em Canada. Esta página mantém a referência local específica de Ottawa, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Ottawa faz parte da região de North America usada como referência para organizar horários. Ottawa fica em Canada. Local goals: Para Ottawa, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Ottawa, defina Ottawa viagens; pratique Ottawa carreira; explore Ottawa família; melhore Ottawa pronúncia; treine Ottawa conversa; confirme Ottawa horário."
 scheduling: "Horários para Ottawa: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ottawa: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode aproveitar a conveniência de es
 
 ## Comece hoje sua jornada no português
 
-Você está pronto para aprender português brasileiro em Ottawa? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma tutora de português perto de você em Ottawa, aulas de conversação em português em Ottawa ou aulas de português online estruturadas, sua abordagem é desenvolvida para atender às suas necessidades individuais.
+Você está pronto para aprender português brasileiro em Ottawa? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma tutora de português perto de você em Ottawa, aulas de conversação em português em Ottawa ou aulas de português online estruturadas, sua abordagem é desenvolvida para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (Fale comigo em português!)

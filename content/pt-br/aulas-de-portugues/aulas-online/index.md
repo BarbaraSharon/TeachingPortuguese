@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Aulas online de português brasileiro"
 description: "Estude português brasileiro online de qualquer lugar, em aulas particulares ou em grupo para vários níveis, negócios ou viagens."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png
@@ -22,6 +22,8 @@ sections:
     eyebrow: Aulas de português online para todo o mundo
     title: Aulas de português online para todo o mundo
     text: Escolha aulas particulares ou em grupo online, com ensino prático adaptado ao seu nível e objetivos. Aulas online para crianças não estão disponíveis.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Pergunte sobre aulas online
       url: https://wa.me/61493837828?text=Oi%20Barbara%2C%20tenho%20interesse%20em%20aulas%20online%20de%20portugu%C3%AAs%20brasileiro.%20Meu%20n%C3%ADvel%20%C3%A9%2C%20meu%20objetivo%20%C3%A9%20e%20meu%20fuso%20hor%C3%A1rio%20%C3%A9%2E

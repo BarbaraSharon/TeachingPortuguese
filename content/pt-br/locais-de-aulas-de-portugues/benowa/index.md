@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Benowa: Presenciais e Online"
 description: "Aulas de português brasileiro em Benowa, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/benowa/benowa-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Benowa: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Benowa com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Benowa faz parte do fuso horário regional de Gold Coast usado para organizar horários. Benowa fica em Australia. Esta página mantém a referência local específica de Benowa, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Benowa faz parte da região de Gold Coast usada como referência para organizar horários. Benowa fica em Australia. Local goals: Para Benowa, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Benowa, defina Benowa viagens; pratique Benowa carreira; explore Benowa família; melhore Benowa pronúncia; treine Benowa conversa; confirme Benowa horário."
 scheduling: "Horários para Benowa: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Benowa: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,6 +65,6 @@ Se você procura uma tutora de português brasileiro perto de você, Barbara ofe
 
 ## Comece hoje sua jornada no português em Benowa
 
-Pronto para começar a aprender português em Benowa? Aproveite uma aulas de português com Barbara Sharon e experimente sua abordagem singular em primeira mão. Se você tem interesse em aulas de português para iniciantes em Benowa ou aulas de conversação avançada, sua orientação especializada ajudará você a alcançar suas metas linguísticas.
+Pronto para começar a aprender português em Benowa? Aproveite uma aula de português com Barbara Sharon e experimente sua abordagem singular em primeira mão. Se você tem interesse em aulas de português para iniciantes em Benowa ou aulas de conversação avançada, sua orientação especializada ajudará você a alcançar suas metas linguísticas.
 
-Não perca a oportunidade de aprender português brasileiro em um ambiente acolhedor e culturalmente rico - agende hoje sua aulas de português!
+Não perca a oportunidade de aprender português brasileiro em um ambiente acolhedor e culturalmente rico - agende hoje suas aulas de português!

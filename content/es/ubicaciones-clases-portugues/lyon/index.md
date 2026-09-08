@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Lyon"
 description: "Clases online de portugués brasileño en Lyon, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/lyon/lyon-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Lyon. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Lyon forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Lyon está situada en France. Esta página mantiene la referencia local específica de Lyon, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Lyon forma parte de la región de Europe utilizada como referencia para organizar horarios. Lyon está situada en France. Local goals: En Lyon, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Lyon, define Lyon viajes; practica Lyon trabajo; explora Lyon familia; mejora Lyon pronunciación; confirma Lyon horario."
 scheduling: "Horarios para Lyon: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Paris; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Lyon: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -58,6 +58,6 @@ Como quinta lengua más hablada del mundo, el portugués es una importante lengu
 Hay clases particulares y grupales de portugués en línea disponibles en todo el mundo. El alumnado de Lyon puede beneficiarse de horarios flexibles y métodos interactivos que hacen que aprender sea atractivo y eficaz. Las clases en línea de Barbara Sharon incluyen materiales personalizados según intereses y objetivos. Como tutora certificada, ofrece atención individualizada y espacios grupales colaborativos.
 
 Las clases usan herramientas interactivas y recursos multimedia. Tanto si buscas clases de portugués brasileño como general, la plataforma se adapta a tu ritmo y preferencias. Las páginas de [servicios](/es/servicios-clases-portugues/) y [contacto](/es/contacto-profesora-portugues/) ofrecen más información para comenzar.
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Lyon? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte. Con experiencia como profesora de portugués brasileño y tutora en línea en Lyon, ofrece experiencias de aprendizaje personalizadas según cada necesidad.
+¿Te interesa aprender portugués en Lyon? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte. Con experiencia como profesora de portugués brasileño y tutora en línea en Lyon, ofrece experiencias de aprendizaje personalizadas según cada necesidad.

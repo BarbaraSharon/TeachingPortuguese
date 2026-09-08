@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Whitehorse. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Whitehorse is grouped in the North America regional time zone used for scheduling. Whitehorse is located in Canada. This page keeps the local reference specific to Whitehorse while the teaching service remains online-first."
+local_context: "Whitehorse is in the North America scheduling region. Whitehorse is located in Canada. Local goals: For Whitehorse, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Whitehorse: ask Barbara about Whitehorse pronunciation, Whitehorse listening, Whitehorse conversation, and Whitehorse travel vocabulary goals."
 scheduling: "Scheduling from Whitehorse: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Whitehorse: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

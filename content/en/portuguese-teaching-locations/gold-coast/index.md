@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Gold Coast with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Gold Coast is grouped in the Gold Coast regional time zone used for scheduling. Gold Coast is located in Australia. This page keeps the local reference specific to Gold Coast while the teaching service remains online-first."
+local_context: "Gold Coast is in the Gold Coast scheduling region. Gold Coast is located in Australia. Local goals: Portuguese study in Gold Coast can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Gold Coast: ask Barbara about Gold Coast pronunciation, Gold Coast listening, Gold Coast conversation, and Gold Coast travel vocabulary goals."
 scheduling: "Scheduling from Gold Coast: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Gold Coast: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

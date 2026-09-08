@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Currumbin: Presenciales y Online"
 description: "Clases de portugués brasileño en Currumbin, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/currumbin/currumbin-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Currumbin: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Currumbin con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Currumbin forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Currumbin está situada en Australia. Esta página mantiene la referencia local específica de Currumbin, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Currumbin forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Currumbin está situada en Australia. Local goals: Barbara adapta las clases para Currumbin a objetivos de viaje, trabajo o familia; la disponibilidad en Currumbin se comprueba antes de reservar. Local focus: En Currumbin, define Currumbin viajes; practica Currumbin trabajo; explora Currumbin familia; mejora Currumbin pronunciación; confirma Currumbin horario."
 scheduling: "Horarios para Currumbin: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Currumbin: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ El alumnado de Currumbin puede asistir a clases presenciales de portugués en Su
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués brasileño en Currumbin? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido. Tanto si buscas una tutora de portugués brasileño en Currumbin, clases de portugués en línea cerca de ti o clases de portugués para principiantes en Currumbin, ella está aquí para apoyar tus objetivos.
+¿Listo para aprender portugués brasileño en Currumbin? Contacta con Barbara Sharon para una clase de portugués y comienza hoy tu recorrido. Tanto si buscas una tutora de portugués brasileño en Currumbin, clases de portugués en línea cerca de ti o clases de portugués para principiantes en Currumbin, ella está aquí para apoyar tus objetivos.

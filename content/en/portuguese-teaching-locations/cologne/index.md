@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Cologne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Cologne is grouped in the Europe regional time zone used for scheduling. Cologne is located in Germany. This page keeps the local reference specific to Cologne while the teaching service remains online-first."
+local_context: "Cologne is in the Europe scheduling region. Cologne is located in Germany. Local goals: Barbara adapts lessons for Cologne to travel, work, or family goals; Cologne availability is checked before booking. Local focus: Reference for Cologne: ask Barbara about Cologne pronunciation, Cologne listening, Cologne conversation, and Cologne travel vocabulary goals."
 scheduling: "Scheduling from Cologne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cologne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

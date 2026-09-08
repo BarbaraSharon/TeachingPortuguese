@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Rotterdam"
 description: "Aulas online de português brasileiro em Rotterdam, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/rotterdam/rotterdam-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Rotterdam. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Rotterdam faz parte do fuso horário regional de Europe usado para organizar horários. Rotterdam fica em Netherlands. Esta página mantém a referência local específica de Rotterdam, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Rotterdam faz parte da região de Europe usada como referência para organizar horários. Rotterdam fica em Netherlands. Local goals: Em Rotterdam, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Rotterdam, defina Rotterdam viagens; pratique Rotterdam carreira; explore Rotterdam família; melhore Rotterdam pronúncia; treine Rotterdam conversa; confirme Rotterdam horário."
 scheduling: "Horários para Rotterdam: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Rotterdam: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -68,4 +68,4 @@ Para os alunos de Roterdã, aulas de português na Gold Coast podem enriquecer e
 
 Há aulas de português online disponíveis em Roterdã com Barbara Sharon. Essas sessões oferecem flexibilidade e atenção personalizada, permitindo que você aprenda no seu ritmo enquanto interage com ferramentas interativas e recursos multimídia. Quer você esteja procurando aulas de português para iniciantes ou instrução avançada de conversação, nosso formato online facilita a conexão com uma professora qualificada de português brasileiro em Roterdã, independentemente de onde você esteja.
 
-A abordagem de Barbara combina percepções culturais com habilidades práticas de idioma, garantindo que as aulas sejam adaptadas aos seus interesses. De sessões de professora particular de português brasileiro focadas em ritmos de samba e gastronomia a aulas de português europeu que exploram a história de Lisboa, cada aula oferece oportunidades únicas de aprendizagem. Com sua experiência, você desenvolverá confiança para falar, ouvir e compreender o idioma em contextos reais.
+A abordagem de Barbara combina percepções culturais com habilidades práticas de idioma, garantindo que as aulas sejam adaptadas aos seus interesses. De sessões de professora particular de português brasileiro focadas em ritmos de samba e gastronomia a comparações com o português europeu que exploram a história de Lisboa, cada aula oferece oportunidades únicas de aprendizagem. Com sua experiência, você desenvolverá confiança para falar, ouvir e compreender o idioma em contextos reais.

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Brisbane"
 description: "Aulas online de português brasileiro em Brisbane, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/brisbane/brisbane-brazilian-portuguese-lesson.png
   alt_text: Aulas online de português brasileiro para alunos em Brisbane com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Brisbane. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Brisbane faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Brisbane fica em Australia. Esta página mantém a referência local específica de Brisbane, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Brisbane faz parte da região de Australia & New Zealand usada como referência para organizar horários. Brisbane fica em Australia. Local goals: Em Brisbane, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Brisbane, defina Brisbane viagens; pratique Brisbane carreira; explore Brisbane família; melhore Brisbane pronúncia; treine Brisbane conversa; confirme Brisbane horário."
 scheduling: "Horários para Brisbane: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Brisbane: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

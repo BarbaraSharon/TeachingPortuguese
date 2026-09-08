@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Robina"
 description: "Aulas online de português brasileiro em Robina, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/robina/robina-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Robina. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Robina faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Robina fica em Australia. Esta página mantém a referência local específica de Robina, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Robina faz parte da região de Australia & New Zealand usada como referência para organizar horários. Robina fica em Australia. Local goals: Estudar português em Robina pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Robina, defina Robina viagens; pratique Robina carreira; explore Robina família; melhore Robina pronúncia; treine Robina conversa; confirme Robina horário."
 scheduling: "Horários para Robina: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Robina: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

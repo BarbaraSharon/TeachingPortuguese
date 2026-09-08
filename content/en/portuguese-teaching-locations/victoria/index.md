@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Victoria. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Victoria is grouped in the North America regional time zone used for scheduling. Victoria is located in Canada. This page keeps the local reference specific to Victoria while the teaching service remains online-first."
+local_context: "Victoria is in the North America scheduling region. Victoria is located in Canada. Local goals: Portuguese study in Victoria can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Victoria: ask Barbara about Victoria pronunciation, Victoria listening, Victoria conversation, and Victoria travel vocabulary goals."
 scheduling: "Scheduling from Victoria: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Victoria: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Currumbin: Presenciais e Online"
 description: "Aulas de português brasileiro em Currumbin, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/currumbin/currumbin-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Currumbin: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin faz parte do fuso horário regional de Gold Coast usado para organizar horários. Currumbin fica em Australia. Esta página mantém a referência local específica de Currumbin, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Currumbin faz parte da região de Gold Coast usada como referência para organizar horários. Currumbin fica em Australia. Local goals: Barbara adapta as aulas para Currumbin a objetivos de viagem, trabalho ou família; a disponibilidade de Currumbin é consultada antes da reserva. Local focus: Em Currumbin, defina Currumbin viagens; pratique Currumbin carreira; explore Currumbin família; melhore Currumbin pronúncia; treine Currumbin conversa; confirme Currumbin horário."
 scheduling: "Horários para Currumbin: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Os alunos de Currumbin podem frequentar aulas presenciais de português em Surfe
 
 ## Comece hoje sua jornada no português!
 
-Pronto para aprender português brasileiro em Currumbin? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma. Quer você procure uma professora de português brasileiro em Currumbin, aulas online de português perto de você ou aulas de português para iniciantes em Currumbin, ela está aqui para apoiar seus objetivos.
+Pronto para aprender português brasileiro em Currumbin? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma. Quer você procure uma professora de português brasileiro em Currumbin, aulas online de português perto de você ou aulas de português para iniciantes em Currumbin, ela está aqui para apoiar seus objetivos.

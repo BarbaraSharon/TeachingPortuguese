@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Dresden"
 description: "Clases online de portugués brasileño en Dresden, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/dresden/dresden-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Dresden. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Dresden forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Dresden está situada en Germany. Esta página mantiene la referencia local específica de Dresden, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Dresden forma parte de la región de Europe utilizada como referencia para organizar horarios. Dresden está situada en Germany. Local goals: Quienes aprenden en Dresden pueden centrarse en viajes, conversaciones de trabajo o comunicación familiar; consulta la disponibilidad con Barbara. Local focus: En Dresden, define Dresden viajes; practica Dresden trabajo; explora Dresden familia; mejora Dresden pronunciación; confirma Dresden horario."
 scheduling: "Horarios para Dresden: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Dresden: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,6 +57,6 @@ Barbara Sharon se especializa en clases de portugués brasileño en Dresde y ofr
 
 ## Empieza hoy tu recorrido de portugués
 
-¿Te interesa aprender portugués en Dresde? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu recorrido lingüístico. Tanto si buscas una profesora de portugués brasileño en Dresde, clases de conversación o enseñanza adecuada para principiantes, ofrece apoyo personalizado según tus metas.
+¿Te interesa aprender portugués en Dresde? Contacta con Barbara Sharon para una clase de portugués y empieza hoy tu recorrido lingüístico. Tanto si buscas una profesora de portugués brasileño en Dresde, clases de conversación o enseñanza adecuada para principiantes, ofrece apoyo personalizado según tus metas.
 
 Con clases de portugués en línea cerca de Dresde disponibles mediante su plataforma, encontrar la opción adecuada nunca ha sido más fácil. [Contacta ahora](/es/contacto-profesora-portugues/) y descubre cómo aprender portugués puede abrir puertas a nuevas experiencias y oportunidades.

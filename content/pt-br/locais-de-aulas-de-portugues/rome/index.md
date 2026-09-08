@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Rome"
 description: "Aulas online de português brasileiro em Rome, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/rome/rome-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Rome. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Rome faz parte do fuso horário regional de Europe usado para organizar horários. Rome fica em Italy. Esta página mantém a referência local específica de Rome, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Rome faz parte da região de Europe usada como referência para organizar horários. Rome fica em Italy. Local goals: Estudar português em Rome pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Rome, defina Rome viagens; pratique Rome carreira; explore Rome família; melhore Rome pronúncia; treine Rome conversa; confirme Rome horário."
 scheduling: "Horários para Rome: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Rome; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Rome: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

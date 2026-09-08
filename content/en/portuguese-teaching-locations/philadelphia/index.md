@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Philadelphia. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Philadelphia is grouped in the North America regional time zone used for scheduling. Philadelphia is located in United States. This page keeps the local reference specific to Philadelphia while the teaching service remains online-first."
+local_context: "Philadelphia is in the North America scheduling region. Philadelphia is located in United States. Local goals: Barbara adapts lessons for Philadelphia to travel, work, or family goals; Philadelphia availability is checked before booking. Local focus: Reference for Philadelphia: ask Barbara about Philadelphia pronunciation, Philadelphia listening, Philadelphia conversation, and Philadelphia travel vocabulary goals."
 scheduling: "Scheduling from Philadelphia: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Philadelphia: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

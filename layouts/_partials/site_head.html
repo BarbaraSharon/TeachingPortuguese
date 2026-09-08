@@ -335,6 +335,31 @@
     integrity="{{ $js_bundle.Data.Integrity }}"
   ></script>
 
+  {{ $enquiryRegistry := dict
+    "greeting" (i18n "enquiry_greeting")
+    "selectedPrefix" (i18n "enquiry_selected_prefix")
+    "emailSubject" (i18n "enquiry_email_subject")
+    "offers" (dict
+      "term_10_week_1_hour" (i18n "enquiry_offer_term_10_week_1_hour")
+      "term_10_week_1_5_hour" (i18n "enquiry_offer_term_10_week_1_5_hour")
+      "private_4_week" (i18n "enquiry_offer_private_4_lesson_package")
+      "private_casual" (i18n "enquiry_offer_private_casual_lesson")
+      "speaking_club_enrolled" (i18n "enquiry_offer_speaking_club")
+      "speaking_club_non_enrolled" (i18n "enquiry_offer_speaking_club")
+    )
+    "instructions" (dict
+      "online" (i18n "enquiry_online_instruction")
+      "gold_coast_group" (i18n "enquiry_gold_coast_group_instruction")
+      "gold_coast_private" (i18n "enquiry_gold_coast_private_instruction")
+      "group" (i18n "enquiry_group_instruction")
+      "private" (i18n "enquiry_private_instruction")
+      "speaking_club" (i18n "enquiry_speaking_club_instruction")
+      "unspecified" (i18n "enquiry_unspecified_instruction")
+    )
+  }}
+  {{ $enquiryScript := resources.Get "js/enquiry-context.js" | fingerprint }}
+  <script src="{{ $enquiryScript.RelPermalink }}" integrity="{{ $enquiryScript.Data.Integrity }}" defer data-registry="{{ $enquiryRegistry | jsonify | safeHTMLAttr }}"></script>
+
   {{/* Load Third-Party Libraries */}}
   {{ partial "libraries.html" . }}
 

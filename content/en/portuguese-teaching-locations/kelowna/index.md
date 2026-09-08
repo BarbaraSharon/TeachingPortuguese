@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Kelowna. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Kelowna is grouped in the North America regional time zone used for scheduling. Kelowna is located in Canada. This page keeps the local reference specific to Kelowna while the teaching service remains online-first."
+local_context: "Kelowna is in the North America scheduling region. Kelowna is located in Canada. Local goals: Barbara adapts lessons for Kelowna to travel, work, or family goals; Kelowna availability is checked before booking. Local focus: Reference for Kelowna: ask Barbara about Kelowna pronunciation, Kelowna listening, Kelowna conversation, and Kelowna travel vocabulary goals."
 scheduling: "Scheduling from Kelowna: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kelowna: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

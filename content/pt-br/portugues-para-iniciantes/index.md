@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Aulas de português para quem inicia"
 description: "Comece português brasileiro com conversação prática, pronúncia, vocabulário, gramática e contexto cultural em aulas particulares ou em grupo."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Aulas de português brasileiro para iniciantes
   delivery: Online para todo o mundo; presenciais na Gold Coast
+  delivery_modes: [online, in_person]
   audience: Alunos adultos iniciantes
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Português para iniciantes
     title: Aulas de português para iniciantes com Barbara Sharon
     text: Desenvolva confiança desde suas primeiras palavras com conversação prática, pronúncia, vocabulário, gramática e contexto cultural. As aulas para iniciantes podem ser particulares ou em grupo, online para todo o mundo ou presenciais na Gold Coast.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Pergunte sobre aulas para iniciantes
       url: /pt-br/contato-professora-portugues/

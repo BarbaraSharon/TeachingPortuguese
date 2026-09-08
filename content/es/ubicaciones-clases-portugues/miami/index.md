@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Miami"
 description: "Clases online de portugués brasileño en Miami, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/miami/miami-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Miami. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Miami forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Miami está situada en United States. Esta página mantiene la referencia local específica de Miami, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Miami forma parte de la región de North America utilizada como referencia para organizar horarios. Miami está situada en United States. Local goals: Estudiar portugués en Miami puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Miami, define Miami viajes; practica Miami trabajo; explora Miami familia; mejora Miami pronunciación; confirma Miami horario."
 scheduling: "Horarios para Miami: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Miami: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -66,6 +66,6 @@ Disfruta de clases de portugués en línea flexibles en Miami, diseñadas según
 Tanto si empiezas desde cero como si quieres perfeccionar la expresión oral, las clases están creadas para lograr un progreso significativo. Barbara Sharon se especializa en tutorías de portugués brasileño en Miami, con sesiones individuales y grupales centradas en comunicación real.
 ## ¡Comienza hoy tu camino: clases de portugués disponible!
 
-¿Quieres comenzar a aprender portugués? Contacta con Barbara Sharon hoy para una clases de portugués y descubre cómo su enfoque personalizado puede ayudarte a alcanzar tus metas. Tanto si eres nuevo en el idioma como si avanzas tus habilidades, ofrece apoyo adaptado a estudiantes de todos los niveles.
+¿Quieres comenzar a aprender portugués? Contacta con Barbara Sharon hoy para una clase de portugués y descubre cómo su enfoque personalizado puede ayudarte a alcanzar tus metas. Tanto si eres nuevo en el idioma como si avanzas tus habilidades, ofrece apoyo adaptado a estudiantes de todos los niveles.
 
 [Contacta ahora con Barbara Sharon](/es/contacto-profesora-portugues/)

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Manchester"
 description: "Clases online de portugués brasileño en Manchester, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/manchester/manchester-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Manchester | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Manchester. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Manchester forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Manchester está situada en United Kingdom. Esta página mantiene la referencia local específica de Manchester, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Manchester forma parte de la región de Europe utilizada como referencia para organizar horarios. Manchester está situada en United Kingdom. Local goals: Para Manchester, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Manchester, define Manchester viajes; practica Manchester trabajo; explora Manchester familia; mejora Manchester pronunciación; confirma Manchester horario."
 scheduling: "Horarios para Manchester: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/London; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Manchester: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -64,8 +64,8 @@ Hay clases particulares y grupales de portugués en línea disponibles en todo e
 
 Recibirás materiales adaptados a tus intereses y objetivos. Las clases en línea de Barbara Sharon ofrecen un ambiente de apoyo para todos los niveles, desde quienes empiezan hasta personas que buscan conversación avanzada. Consulta los [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara en la página de [contacto](/es/contacto-profesora-portugues/).
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Manchester? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte.
+¿Te interesa aprender portugués en Manchester? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte.
 
 Barbara ofrece clases de portugués cerca de Manchester, con sesiones grupales y particulares mediante plataformas en línea. Como profesora dedicada, garantiza una enseñanza personalizada según las necesidades y ambiciones de cada estudiante. Explora todos los [servicios](/es/servicios-clases-portugues/) o contacta directamente desde la página de [contacto](/es/contacto-profesora-portugues/).

@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Birmingham. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Birmingham is grouped in the Europe regional time zone used for scheduling. Birmingham is located in United Kingdom. This page keeps the local reference specific to Birmingham while the teaching service remains online-first."
+local_context: "Birmingham is in the Europe scheduling region. Birmingham is located in United Kingdom. Local goals: In Birmingham, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Birmingham: ask Barbara about Birmingham pronunciation, Birmingham listening, Birmingham conversation, and Birmingham travel vocabulary goals."
 scheduling: "Scheduling from Birmingham: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Birmingham: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

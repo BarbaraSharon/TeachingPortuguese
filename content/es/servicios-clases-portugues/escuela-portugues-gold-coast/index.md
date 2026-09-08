@@ -3,7 +3,7 @@ translationKey: escola-de-portugues-gold-coast
 title: "Clases grupales de portugués en Gold Coast"
 description: "Participa en clases grupales de portugués brasileño en Gold Coast, con conversación, práctica guiada y aprendizaje estructurado para distintos niveles."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/portuguese-school-gold-coast/portuguese-school-gold-coast-brazilian-portuguese-lessons.png
@@ -23,6 +23,8 @@ sections:
     eyebrow: Clases grupales presenciales · Gold Coast
     title: Clases grupales presenciales de portugués en Gold Coast
     text: Barbara está organizando el próximo grupo de Gold Coast. Registra tu interés con tu nivel, grupo de edad, suburbio preferido y disponibilidad; el lugar y el nivel actuales se confirman antes de reservar. La imagen del aula es ilustrativa.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Registrar interés en el próximo grupo
       url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesa%20el%20pr%C3%B3ximo%20grupo%20de%20Gold%20Coast.%20Mi%20nivel%20es%2C%20mi%20grupo%20de%20edad%20es%2C%20mi%20suburbio%20preferido%20es%20y%20mi%20disponibilidad%20es%2E

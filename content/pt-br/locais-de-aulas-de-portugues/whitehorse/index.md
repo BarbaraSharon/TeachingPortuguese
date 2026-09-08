@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Whitehorse"
 description: "Aulas online de português brasileiro em Whitehorse, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/whitehorse/whitehorse-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Whitehorse. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Whitehorse faz parte do fuso horário regional de North America usado para organizar horários. Whitehorse fica em Canada. Esta página mantém a referência local específica de Whitehorse, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Whitehorse faz parte da região de North America usada como referência para organizar horários. Whitehorse fica em Canada. Local goals: Em Whitehorse, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Whitehorse, defina Whitehorse viagens; pratique Whitehorse carreira; explore Whitehorse família; melhore Whitehorse pronúncia; treine Whitehorse conversa; confirme Whitehorse horário."
 scheduling: "Horários para Whitehorse: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Whitehorse: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada de português hoje
 
-Está pronto para aprender português brasileiro em Whitehorse? Reserve uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Whitehorse, aulas de conversação em português em Whitehorse ou aulas estruturadas de português online, sua abordagem foi projetada para atender às suas necessidades individuais.
+Está pronto para aprender português brasileiro em Whitehorse? Reserve uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Whitehorse, aulas de conversação em português em Whitehorse ou aulas estruturadas de português online, sua abordagem foi projetada para atender às suas necessidades individuais.
 
 “Fala comigo em português!”

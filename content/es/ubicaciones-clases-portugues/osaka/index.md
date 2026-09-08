@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Osaka"
 description: "Clases online de portugués brasileño en Osaka, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/osaka/osaka-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Osaka. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Osaka forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Osaka está situada en Japan. Esta página mantiene la referencia local específica de Osaka, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Osaka forma parte de la región de Asia utilizada como referencia para organizar horarios. Osaka está situada en Japan. Local goals: Quienes estudian en Osaka pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Osaka, define Osaka viajes; practica Osaka trabajo; explora Osaka familia; mejora Osaka pronunciación; confirma Osaka horario."
 scheduling: "Horarios para Osaka: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Tokyo; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Osaka: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,6 +63,6 @@ Nuestras clases de portugués en línea en Osaka están diseñadas para ser acce
 Barbara Sharon ofrece clases particulares y grupales adaptadas a tu nivel. Desde clases de portugués para principiantes hasta clases avanzadas de conversación para hablantes seguros, su estilo de enseñanza favorece que cada estudiante avance. Aprende portugués en Osaka con una profesora que comprende verdaderamente tanto la lengua como la cultura.
 ## Comienza hoy tu camino: clases de portugués disponible
 
-¿Quieres iniciar tu camino con el portugués en Osaka? Contacta con Barbara Sharon para una clases de portugués y conoce de primera mano su enfoque de enseñanza único. Tanto si eres principiante absoluto como si buscas mejorar tus habilidades, está aquí para acompañar tus metas lingüísticas.
+¿Quieres iniciar tu camino con el portugués en Osaka? Contacta con Barbara Sharon para una clase de portugués y conoce de primera mano su enfoque de enseñanza único. Tanto si eres principiante absoluto como si buscas mejorar tus habilidades, está aquí para acompañar tus metas lingüísticas.
 
 Para conocer más sobre nuestras propuestas, visita la página de [servicios](/es/servicios-clases-portugues/) o contacta con Barbara mediante la sección de [contacto](/es/contacto-profesora-portugues/). ¡Vamos a aprender portugués!

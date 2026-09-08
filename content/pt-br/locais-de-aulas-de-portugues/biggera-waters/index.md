@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Biggera Waters: Presenciais e Online"
 description: "Aulas de português brasileiro em Biggera Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/biggera-waters/biggera-waters-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Biggera Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Biggera Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Biggera Waters faz parte do fuso horário regional de Gold Coast usado para organizar horários. Biggera Waters fica em Australia. Esta página mantém a referência local específica de Biggera Waters, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Biggera Waters faz parte da região de Gold Coast usada como referência para organizar horários. Biggera Waters fica em Australia. Local goals: Em Biggera Waters, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Biggera Waters, defina Biggera Waters viagens; pratique Biggera Waters carreira; explore Biggera Waters família; melhore Biggera Waters pronúncia; treine Biggera Waters conversa; confirme Biggera Waters horário."
 scheduling: "Horários para Biggera Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Biggera Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ Para alunos em Biggera Waters, aulas presenciais de português estão disponíve
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Biggera Waters? Entre em contato com Barbara Sharon para uma aulas de português e descubra como ela pode ajudar você a alcançar suas metas linguísticas.
+Tem interesse em aprender português em Biggera Waters? Entre em contato com Barbara Sharon para uma aula de português e descubra como ela pode ajudar você a alcançar suas metas linguísticas.
 
 Se você procura uma tutora de português brasileiro em Biggera Waters ou quer explorar aulas de português perto de Biggera Waters, ela oferece apoio personalizado pela página de [serviços](/pt-br/aulas-de-portugues/). Entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/) para começar sua jornada hoje.

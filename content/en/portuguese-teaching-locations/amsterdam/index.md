@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Amsterdam. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Amsterdam is grouped in the Europe regional time zone used for scheduling. Amsterdam is located in Netherlands. This page keeps the local reference specific to Amsterdam while the teaching service remains online-first."
+local_context: "Amsterdam is in the Europe scheduling region. Amsterdam is located in Netherlands. Local goals: In Amsterdam, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Amsterdam: ask Barbara about Amsterdam pronunciation, Amsterdam listening, Amsterdam conversation, and Amsterdam travel vocabulary goals."
 scheduling: "Scheduling from Amsterdam: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Amsterdam: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

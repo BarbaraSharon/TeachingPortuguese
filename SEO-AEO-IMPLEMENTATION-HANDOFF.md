@@ -51,17 +51,22 @@ Checks: generated pages contain the relevant A$290, A$370, A$260, A$70, A$25, A$
 
 - Homepage primary actions now lead to online lessons and secondary actions to Gold Coast group classes.
 - Gold Coast group pages prominently invite visitors to register interest in the next group and request level, age-group preference, suburb and availability.
-- Online/private/group actions use localized WhatsApp and email prefills and retain the current language contact paths.
+- Added a shared enquiry-action resolver with the allowlisted intents `online`, `gold_coast_group`, `gold_coast_private`, `group`, `private`, `speaking_club` and `unspecified`.
+- Pricing and service actions carry validated fragments such as `#enquiry-online-term_10_week_1_hour`; the contact page reads them without query parameters or persistent storage.
+- Added one translated context registry for package labels and prefills. Email and WhatsApp messages request the fields appropriate to online, Gold Coast and mixed-format enquiries; phone links remain unchanged.
+- Context is restored for missing or invalid fragments, updates on fragment changes and browser navigation, and remains available in the server-rendered fallback and hydrated Preact buttons.
 - No booking system was added and opening WhatsApp is not described as completed registration.
 
 Checks: generated desktop/mobile templates use direct, language-appropriate enquiry links and retain the existing layout and language chooser.
 
 ## Stage 6 — Structured data and identity
 
-- Added `delivery_modes` to the service pages and updated service schema for `online` and `in_person`.
+- Added and validated explicit `delivery_modes` to all 30 service pages and updated service schema for `online` and `in_person` without a silent in-person fallback.
 - Organization coverage now describes worldwide online teaching and Gold Coast in-person provision.
 - Byline and Person/Article identity links use each language's indexed About page.
-- Corrected the review/course association that did not match its text while preserving genuine testimonial wording.
+- All 30 service-bearing pages show the verified UFRJ degree and TESOL qualification beside their enquiry action, linked to the indexed localized About page.
+- Converted the three Lisbon pages from Course to Article structured data and removed their old tuition formats and schedules while retaining travel guidance and language comparisons.
+- Associated Nicolas's review with the intermediate course in all languages, removed Angus's unsupported course association, and retained all six visible genuine testimonials.
 
 Checks: generated metadata and schema checks passed for all languages; Spanish online lessons are classified as online; identity links resolve.
 
@@ -70,7 +75,7 @@ Checks: generated metadata and schema checks passed for all languages; Spanish o
 - Improved the existing beginner, private/group, Brazilian-partner and Gold Coast answers and linked them to priced services.
 - Reused verified About-page qualifications near service enquiry actions.
 - Kept genuine testimonials and did not invent reviews, placeholders or recent feedback.
-- Removed internal location-set wording and kept city pages focused on online study and regional scheduling.
+- Removed internal location-set wording and continent-as-time-zone claims. Added translated, page-specific local learner context so the restored similarity threshold passes without new exclusions.
 - Preserved city URLs and indexing settings. Consolidation candidates remain a later Search Console review task.
 
 Checks: the location checker passed all 191 pages/language; no editorial location wording remains in the edited pages.
@@ -79,7 +84,7 @@ Checks: the location checker passed all 191 pages/language; no editorial locatio
 
 - Added consent-aware `contact_click` tracking for WhatsApp, email and telephone actions.
 - Events include only `lesson_format`, `language`, `channel` and `page_path`; unselected formats use `unspecified` and no personal message/contact data is sent.
-- Smoke tests confirmed one event per approved action and no event when consent is rejected.
+- Analytics now uses explicit action metadata instead of URL-substring classification. The generated checks assert the consent-aware event payload shape and reject URL inference; browser event confirmation remains a visual/manual follow-up because the desktop was locked during this run.
 - The reporting split is online enquiries, Gold Coast group interest and completed enrolments; a contact click is not treated as an enrolment.
 
 ## Stage 9 — Validation and release preparation
@@ -89,6 +94,8 @@ Checks: the location checker passed all 191 pages/language; no editorial locatio
 - Generated HTML checks passed for prices, answer links, enquiry calls to action, canonicals, reciprocal language links and sitemap coverage.
 - `git diff HEAD --check` passed.
 - The generated public directory was rebuilt. Deployment remains separate and was not triggered.
+- Static route smoke inspection passed for 21 homepage, service, contact and pricing routes across all three languages, including viewport, canonical, heading and reciprocal-language markup.
+- The desktop/mobile visual inspection could not be opened because the host Mac was locked; no code or content change is blocked by that access condition.
 
 ## Stage 10 — External follow-up dependencies
 
@@ -103,4 +110,3 @@ These were deliberately left for account access and a separate authorization ste
 - Dates, venue, schedule, seat availability, materials/editions and cancellation terms for future groups.
 - Pricing and availability for 1.5-hour and 2-hour private lessons.
 - Which authentic classroom image and recent feedback may be supplied for publication.
-

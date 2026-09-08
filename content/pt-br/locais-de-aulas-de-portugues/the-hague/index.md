@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em The Hague"
 description: "Aulas online de português brasileiro em The Hague, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/the-hague/the-hague-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de The Hague. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "The Hague faz parte do fuso horário regional de Europe usado para organizar horários. The Hague fica em Netherlands. Esta página mantém a referência local específica de The Hague, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "The Hague faz parte da região de Europe usada como referência para organizar horários. The Hague fica em Netherlands. Local goals: Em The Hague, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em The Hague, defina The Hague viagens; pratique The Hague carreira; explore The Hague família; melhore The Hague pronúncia; treine The Hague conversa; confirme The Hague horário."
 scheduling: "Horários para The Hague: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em The Hague: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Chicago"
 description: "Clases online de portugués brasileño en Chicago, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/chicago/chicago-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Chicago | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Chicago. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Chicago forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Chicago está situada en United States. Esta página mantiene la referencia local específica de Chicago, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Chicago forma parte de la región de North America utilizada como referencia para organizar horarios. Chicago está situada en United States. Local goals: En Chicago, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Chicago, define Chicago viajes; practica Chicago trabajo; explora Chicago familia; mejora Chicago pronunciación; confirma Chicago horario."
 scheduling: "Horarios para Chicago: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Chicago; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Chicago: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -57,4 +57,4 @@ Para quienes buscan una tutora de portugués brasileño en Chicago o una profeso
 
 ## Empieza hoy tu recorrido de portugués
 
-¿Te interesa aprender portugués en Chicago? Tanto si eres principiante como si quieres mejorar conversación, Barbara Sharon proporciona enseñanza experta mediante clases de portugués en línea en Chicago. Contacta hoy para una clases de portugués y empieza tu recorrido para dominar el portugués brasileño. Con opciones de tutoría particular y clases grupales de portugués en Chicago, nunca ha sido mejor momento para empezar.
+¿Te interesa aprender portugués en Chicago? Tanto si eres principiante como si quieres mejorar conversación, Barbara Sharon proporciona enseñanza experta mediante clases de portugués en línea en Chicago. Contacta hoy para una clase de portugués y empieza tu recorrido para dominar el portugués brasileño. Con opciones de tutoría particular y clases grupales de portugués en Chicago, nunca ha sido mejor momento para empezar.

@@ -3,7 +3,7 @@ translationKey: ensino-de-portugues-gold-coast
 title: "Aulas presenciais de português na Gold Coast"
 description: "Aprenda português brasileiro em aulas particulares ou em grupo, com ensino presencial na Gold Coast e opções online para alunos de outros lugares."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/teaching-portuguese-gold-coast/teaching-portuguese-gold-coast-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Aulas presenciais de português brasileiro
   delivery: Gold Coast, Austrália
+  delivery_modes: [in_person]
   audience: Iniciante, intermediário, avançado, negócios, viagens e crianças
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Ensino presencial de português · Gold Coast
     title: Aprenda português presencialmente na Gold Coast
     text: Escolha tutoria particular ou uma aula em grupo local para praticar português brasileiro, das primeiras conversas à fluência avançada.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Fale com a Barbara
       url: /pt-br/contato-professora-portugues/

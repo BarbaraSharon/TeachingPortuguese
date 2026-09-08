@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Clases de portugués intermedio para avanzar"
 description: "Avanza desde lo básico con clases de portugués brasileño intermedio para conversación, pronunciación, vocabulario, gramática y comunicación cotidiana."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases intermedias de portugués brasileño
   delivery: En línea en todo el mundo; presenciales en Gold Coast
+  delivery_modes: [online, in_person]
   audience: Adultos con nivel intermedio
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Portugués intermedio
     title: Clases de portugués intermedio con Barbara Sharon
     text: Amplía tu vocabulario, mejora tu precisión y convierte el portugués que ya conoces en una conversación más natural. El aprendizaje intermedio está disponible mediante opciones particulares y grupales, en línea en todo el mundo y en Gold Coast.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Consulta sobre las clases intermedias
       url: /es/contacto-profesora-portugues/

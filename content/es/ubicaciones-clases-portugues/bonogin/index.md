@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Bonogin: Presenciales y Online"
 description: "Clases de portugués brasileño en Bonogin, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/bonogin/bonogin-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Bonogin: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Bonogin con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Bonogin forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Bonogin está situada en Australia. Esta página mantiene la referencia local específica de Bonogin, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Bonogin forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Bonogin está situada en Australia. Local goals: En Bonogin, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Bonogin, define Bonogin viajes; practica Bonogin trabajo; explora Bonogin familia; mejora Bonogin pronunciación; confirma Bonogin horario."
 scheduling: "Horarios para Bonogin: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bonogin: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -65,4 +65,4 @@ La opción de club de conversación proporciona un ambiente relajado para practi
 
 Si buscas una tutora de portugués cualificada en Bonogin o una profesora de portugués brasileño cerca de ti, Barbara Sharon está lista para ayudarte. Ofrece clases flexibles, incluidas opciones de tutoría de portugués en línea en Bonogin y clases presenciales en Surfers Paradise.
 
-Contacta hoy para programar una clases de portugués y da el primer paso para dominar portugués brasileño. ¡Comienza tu recorrido hacia la fluidez en uno de los idiomas más dinámicos del mundo!
+Contacta hoy para programar una clase de portugués y da el primer paso para dominar portugués brasileño. ¡Comienza tu recorrido hacia la fluidez en uno de los idiomas más dinámicos del mundo!

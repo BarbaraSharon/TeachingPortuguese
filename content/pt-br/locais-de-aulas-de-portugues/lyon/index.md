@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lyon"
 description: "Aulas online de português brasileiro em Lyon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/lyon/lyon-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lyon. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Lyon faz parte do fuso horário regional de Europe usado para organizar horários. Lyon fica em France. Esta página mantém a referência local específica de Lyon, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Lyon faz parte da região de Europe usada como referência para organizar horários. Lyon fica em France. Local goals: Em Lyon, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Lyon, defina Lyon viagens; pratique Lyon carreira; explore Lyon família; melhore Lyon pronúncia; treine Lyon conversa; confirme Lyon horário."
 scheduling: "Horários para Lyon: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lyon: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -62,8 +62,8 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Nossas aulas online utilizam ferramentas interativas e recursos multimídia para tornar o aprendizado envolvente e eficaz. Se você procura aulas de português brasileiro em Lyon ou aulas gerais de português em Lyon, nossa plataforma se adapta ao seu ritmo e às suas preferências. As páginas de [serviços](/pt-br/aulas-de-portugues/) e [contato](/pt-br/contato-professora-portugues/) fornecem mais informações sobre como começar.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Lyon? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Com sua experiência como professora de português brasileiro em Lyon e tutora online de português em Lyon, ela oferece experiências de aprendizagem personalizadas, que atendem necessidades individuais.
+Tem interesse em aprender português em Lyon? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Com sua experiência como professora de português brasileiro em Lyon e tutora online de português em Lyon, ela oferece experiências de aprendizagem personalizadas, que atendem necessidades individuais.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

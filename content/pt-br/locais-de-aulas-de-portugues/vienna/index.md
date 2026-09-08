@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Vienna"
 description: "Aulas online de português brasileiro em Vienna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/vienna/vienna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Vienna"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Vienna. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Vienna faz parte do fuso horário regional de Europe usado para organizar horários. Vienna fica em Austria. Esta página mantém a referência local específica de Vienna, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Vienna faz parte da região de Europe usada como referência para organizar horários. Vienna fica em Austria. Local goals: Quem aprende em Vienna pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Vienna, defina Vienna viagens; pratique Vienna carreira; explore Vienna família; melhore Vienna pronúncia; treine Vienna conversa; confirme Vienna horário."
 scheduling: "Horários para Vienna: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Vienna; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Vienna: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

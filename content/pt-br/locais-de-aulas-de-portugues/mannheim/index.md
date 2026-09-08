@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Mannheim"
 description: "Aulas online de português brasileiro em Mannheim, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/mannheim/mannheim-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Mannheim. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Mannheim faz parte do fuso horário regional de Europe usado para organizar horários. Mannheim fica em Germany. Esta página mantém a referência local específica de Mannheim, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Mannheim faz parte da região de Europe usada como referência para organizar horários. Mannheim fica em Germany. Local goals: Estudar português em Mannheim pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Mannheim, defina Mannheim viagens; pratique Mannheim carreira; explore Mannheim família; melhore Mannheim pronúncia; treine Mannheim conversa; confirme Mannheim horário."
 scheduling: "Horários para Mannheim: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mannheim: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -62,8 +62,8 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Seja você iniciante ou queira melhorar suas habilidades de conversação, suas aulas oferecem apoio estruturado em um ambiente confortável. Para mais detalhes sobre seus serviços de ensino, visite nossa página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Mannheim? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Encontre mais informações sobre [aulas de português perto de Mannheim](/pt-br/aulas-de-portugues/) ou fale com ela diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
+Tem interesse em aprender português em Mannheim? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Encontre mais informações sobre [aulas de português perto de Mannheim](/pt-br/aulas-de-portugues/) ou fale com ela diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

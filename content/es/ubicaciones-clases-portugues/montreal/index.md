@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Montreal"
 description: "Clases online de portugués brasileño en Montreal, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/montreal/montreal-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Montreal | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Montreal. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Montreal forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Montreal está situada en Canada. Esta página mantiene la referencia local específica de Montreal, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Montreal forma parte de la región de North America utilizada como referencia para organizar horarios. Montreal está situada en Canada. Local goals: Para Montreal, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Montreal, define Montreal viajes; practica Montreal trabajo; explora Montreal familia; mejora Montreal pronunciación; confirma Montreal horario."
 scheduling: "Horarios para Montreal: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Montreal: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -52,7 +52,7 @@ Barbara Sharon es una profesora cualificada de portugués con amplia experiencia
 
 Barbara ayuda a comprender las diferencias entre el portugués brasileño y el europeo, el contexto cultural y las destrezas de conversación para relacionarse auténticamente con hablantes nativos. Como profesora de portugués en Montreal, ofrece sesiones particulares y grupales en línea, para que el alumnado de toda la ciudad acceda fácilmente a una enseñanza de calidad.
 
-Para más información, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/) para reservar una clases de portugués y descubrir cómo su enfoque puede apoyar tus metas.
+Para más información, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/) para reservar una clase de portugués y descubrir cómo su enfoque puede apoyar tus metas.
 
 ## La importancia global del portugués
 
@@ -66,6 +66,6 @@ Quienes estudian desde Montreal pueden aprovechar horarios flexibles y métodos 
 
 Las clases utilizan herramientas interactivas y recursos multimedia. Recibirás materiales adaptados a tus intereses y metas. Tanto si buscas conversación como clases para principiantes, la plataforma se adapta a tus necesidades. Con tutorías particulares y clases grupales, puedes elegir el formato que mejor se ajuste a tu estilo de vida.
 
-## Empieza con una clases de portugués
+## Empieza con una clase de portugués
 
-¿Te interesa aprender portugués en Montreal? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante total como si buscas avanzar, está aquí para acompañarte. Reserva tu sesión desde la página de [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Montreal? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante total como si buscas avanzar, está aquí para acompañarte. Reserva tu sesión desde la página de [contacto](/es/contacto-profesora-portugues/).

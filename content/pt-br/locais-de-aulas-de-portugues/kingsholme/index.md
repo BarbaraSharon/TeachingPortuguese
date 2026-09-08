@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Kingsholme: Presenciais e Online"
 description: "Aulas de português brasileiro em Kingsholme, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/kingsholme/kingsholme-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Kingsholme: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Kingsholme com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Kingsholme faz parte do fuso horário regional de Gold Coast usado para organizar horários. Kingsholme fica em Australia. Esta página mantém a referência local específica de Kingsholme, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Kingsholme faz parte da região de Gold Coast usada como referência para organizar horários. Kingsholme fica em Australia. Local goals: Barbara adapta as aulas para Kingsholme a objetivos de viagem, trabalho ou família; a disponibilidade de Kingsholme é consultada antes da reserva. Local focus: Em Kingsholme, defina Kingsholme viagens; pratique Kingsholme carreira; explore Kingsholme família; melhore Kingsholme pronúncia; treine Kingsholme conversa; confirme Kingsholme horário."
 scheduling: "Horários para Kingsholme: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kingsholme: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -67,4 +67,4 @@ Se você procura uma professora de português em Kingsholme ou uma tutora de por
 
 Você receberá materiais personalizados e alinhados aos seus interesses e objetivos - de aulas de português para iniciantes em Kingsholme a oficinas avançadas de conversação. Sessões em grupo também são oferecidas para aprendizagem colaborativa, enquanto um clube de conversação é perfeito para estudantes que desejam desenvolver fluência por meio da prática regular.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Birmingham"
 description: "Aulas online de português brasileiro em Birmingham, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/birmingham/birmingham-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Birmingham | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Birmingham. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Birmingham faz parte do fuso horário regional de Europe usado para organizar horários. Birmingham fica em United Kingdom. Esta página mantém a referência local específica de Birmingham, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Birmingham faz parte da região de Europe usada como referência para organizar horários. Birmingham fica em United Kingdom. Local goals: Em Birmingham, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Birmingham, defina Birmingham viagens; pratique Birmingham carreira; explore Birmingham família; melhore Birmingham pronúncia; treine Birmingham conversa; confirme Birmingham horário."
 scheduling: "Horários para Birmingham: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Birmingham: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Barbara Sharon oferece aulas de português individuais e em grupo em Birmingham 
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Birmingham? Fale com Barbara Sharon para uma aulas de português e comece hoje sua jornada linguística! Se você procura aulas de conversação em português em Birmingham ou aulas para iniciantes, ela oferece apoio personalizado para ajudar você a alcançar seus objetivos. Saiba mais sobre suas ofertas na seção de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/).
+Tem interesse em aprender português em Birmingham? Fale com Barbara Sharon para uma aula de português e comece hoje sua jornada linguística! Se você procura aulas de conversação em português em Birmingham ou aulas para iniciantes, ela oferece apoio personalizado para ajudar você a alcançar seus objetivos. Saiba mais sobre suas ofertas na seção de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/).

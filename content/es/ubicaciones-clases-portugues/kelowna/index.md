@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Kelowna"
 description: "Clases online de portugués brasileño en Kelowna, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/kelowna/kelowna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Kelowna. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Kelowna forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Kelowna está situada en Canada. Esta página mantiene la referencia local específica de Kelowna, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Kelowna forma parte de la región de North America utilizada como referencia para organizar horarios. Kelowna está situada en Canada. Local goals: Barbara adapta las clases para Kelowna a objetivos de viaje, trabajo o familia; la disponibilidad en Kelowna se comprueba antes de reservar. Local focus: En Kelowna, define Kelowna viajes; practica Kelowna trabajo; explora Kelowna familia; mejora Kelowna pronunciación; confirma Kelowna horario."
 scheduling: "Horarios para Kelowna: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Kelowna: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,7 +55,7 @@ Barbara Sharon ofrece opciones de aprendizaje flexibles, incluidas tutorías par
 Su plataforma de enseñanza en línea te permite estudiar cómodamente desde casa o desde cualquier punto de Kelowna. Para explorar sus propuestas, visita [servicios](/es/servicios-clases-portugues/) o contacta con Barbara mediante la página de [contacto](/es/contacto-profesora-portugues/).
 ## Comienza hoy tu camino con el portugués
 
-¿Quieres aprender portugués brasileño en Kelowna? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cercana, clases de conversación o clases estructuradas en línea, su enfoque está diseñado para responder a tus necesidades individuales.
+¿Quieres aprender portugués brasileño en Kelowna? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cercana, clases de conversación o clases estructuradas en línea, su enfoque está diseñado para responder a tus necesidades individuales.
 
 “¡Habla conmigo en portugués!”
 ## Otras ubicaciones para aprender portugués

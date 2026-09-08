@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Abbotsford"
 description: "Aulas online de português brasileiro em Abbotsford, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/abbotsford/abbotsford-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Abbotsford | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Abbotsford. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Abbotsford faz parte do fuso horário regional de North America usado para organizar horários. Abbotsford fica em Canada. Esta página mantém a referência local específica de Abbotsford, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Abbotsford faz parte da região de North America usada como referência para organizar horários. Abbotsford fica em Canada. Local goals: Quem estuda em Abbotsford pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Abbotsford é confirmado antes da matrícula. Local focus: Em Abbotsford, defina Abbotsford viagens; pratique Abbotsford carreira; explore Abbotsford família; melhore Abbotsford pronúncia; treine Abbotsford conversa; confirme Abbotsford horário."
 scheduling: "Horários para Abbotsford: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Abbotsford: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece hoje sua jornada no português
 
-Pronto para aprender português brasileiro em Abbotsford? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Abbotsford, aulas de conversação em português em Abbotsford ou aulas online estruturadas de português, a abordagem dela foi criada para atender às suas necessidades individuais.
+Pronto para aprender português brasileiro em Abbotsford? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma tutora de português perto de você em Abbotsford, aulas de conversação em português em Abbotsford ou aulas online estruturadas de português, a abordagem dela foi criada para atender às suas necessidades individuais.
 
 "Fala comigo em português!" (Fale comigo em português!)

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Kamloops"
 description: "Clases online de portugués brasileño en Kamloops, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/kamloops/kamloops-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Kamloops. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Kamloops forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Kamloops está situada en Canada. Esta página mantiene la referencia local específica de Kamloops, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Kamloops forma parte de la región de North America utilizada como referencia para organizar horarios. Kamloops está situada en Canada. Local goals: En Kamloops, define objetivos de viaje; Barbara también puede practicar situaciones laborales y familiares antes de confirmar un horario. Local focus: En Kamloops, define Kamloops viajes; practica Kamloops trabajo; explora Kamloops familia; mejora Kamloops pronunciación; confirma Kamloops horario."
 scheduling: "Horarios para Kamloops: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Kamloops: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Lista o listo para aprender portugués brasileño en Kamloops? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una profesora de portugués cerca de ti en Kamloops, clases de portugués conversacional en Kamloops o clases estructuradas de portugués en línea, su enfoque está diseñado para responder a tus necesidades individuales.
+¿Lista o listo para aprender portugués brasileño en Kamloops? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una profesora de portugués cerca de ti en Kamloops, clases de portugués conversacional en Kamloops o clases estructuradas de portugués en línea, su enfoque está diseñado para responder a tus necesidades individuales.
 
 «¡Fala comigo em português!» (¡Habla conmigo en portugués!).

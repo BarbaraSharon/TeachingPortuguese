@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Brazilian Portuguese Conversation Club"
 description: "Practise Brazilian Portuguese conversation with Barbara Sharon in a supportive club format that encourages speaking, listening, and everyday communication."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 aliases:
 - /portuguese-speaking-club/
 image:
@@ -15,8 +15,12 @@ categories:
 service:
   service_type: Brazilian Portuguese conversation club
   delivery: Online or in person on the Gold Coast, subject to availability
+  delivery_modes: [online, in_person]
   audience: Beginner, intermediate, and advanced Portuguese learners seeking conversation practice
 ---
+
+<p class="service-credentials">Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.</p>
+
 
 ## Portuguese Speaking Club - Build Fluency and Confidence
 

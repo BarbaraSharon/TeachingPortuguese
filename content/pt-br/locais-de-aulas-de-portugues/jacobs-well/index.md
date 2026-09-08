@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Jacobs Well: Presenciais e Online"
 description: "Aulas de português brasileiro em Jacobs Well, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/jacobs-well/jacobs-well-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Jacobs Well: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Jacobs Well com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Jacobs Well faz parte do fuso horário regional de Gold Coast usado para organizar horários. Jacobs Well fica em Australia. Esta página mantém a referência local específica de Jacobs Well, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Jacobs Well faz parte da região de Gold Coast usada como referência para organizar horários. Jacobs Well fica em Australia. Local goals: Alunos de Jacobs Well podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Jacobs Well, defina Jacobs Well viagens; pratique Jacobs Well carreira; explore Jacobs Well família; melhore Jacobs Well pronúncia; treine Jacobs Well conversa; confirme Jacobs Well horário."
 scheduling: "Horários para Jacobs Well: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Jacobs Well: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -67,10 +67,10 @@ Aulas presenciais de português estão disponíveis em Surfers Paradise e nos su
 
 Nossas aulas presenciais proporcionam um ambiente estruturado e envolvente, no qual você pode praticar a fala com outros alunos. Você receberá materiais personalizados e alinhados aos seus interesses e objetivos - sejam aulas de português para iniciantes em Jacobs Well ou orientação avançada de conversação.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Está pronto para começar a aprender português em Jacobs Well? Entre em contato com Barbara Sharon hoje para uma aulas de português e vivencie de perto sua abordagem singular de ensino. Quer você seja iniciante completo ou queira melhorar sua fluência, ela está aqui para apoiar sua jornada.
+Está pronto para começar a aprender português em Jacobs Well? Entre em contato com Barbara Sharon hoje para uma aula de português e vivencie de perto sua abordagem singular de ensino. Quer você seja iniciante completo ou queira melhorar sua fluência, ela está aqui para apoiar sua jornada.
 
 Saiba mais sobre seus [serviços de tutoria de português](/pt-br/aulas-de-portugues/) e entre em contato pela página de [contato](/pt-br/contato-professora-portugues/).
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

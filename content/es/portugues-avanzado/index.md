@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Clases de portugués avanzado para progresar"
 description: "Perfecciona tu portugués brasileño avanzado con conversación, pronunciación, gramática, vocabulario y matices culturales adaptados a tus objetivos."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases avanzadas de portugués brasileño
   delivery: En línea en todo el mundo; presenciales en Gold Coast
+  delivery_modes: [online, in_person]
   audience: Adultos con nivel avanzado
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Portugués avanzado
     title: Clases de portugués avanzado con Barbara Sharon
     text: Desarrolla una conversación avanzada con más confianza mediante un trabajo centrado en pronunciación, gramática compleja, vocabulario, comprensión auditiva y matices culturales. Elige entre las opciones particulares, grupales, en línea o en Gold Coast disponibles.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Consulta sobre las clases avanzadas
       url: /es/contacto-profesora-portugues/

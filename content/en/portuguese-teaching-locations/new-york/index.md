@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from New York. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "New York is grouped in the North America regional time zone used for scheduling. New York is located in United States. This page keeps the local reference specific to New York while the teaching service remains online-first."
+local_context: "New York is in the North America scheduling region. New York is located in United States. Local goals: In New York, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for New York: ask Barbara about New York pronunciation, New York listening, New York conversation, and New York travel vocabulary goals."
 scheduling: "Scheduling from New York: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in New York: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

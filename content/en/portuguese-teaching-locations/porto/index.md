@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Porto. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Porto is grouped in the Europe regional time zone used for scheduling. Porto is located in Portugal. This page keeps the local reference specific to Porto while the teaching service remains online-first."
+local_context: "Porto is in the Europe scheduling region. Porto is located in Portugal. Local goals: In Porto, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Porto: ask Barbara about Porto pronunciation, Porto listening, Porto conversation, and Porto travel vocabulary goals."
 scheduling: "Scheduling from Porto: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Lisbon; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Porto: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

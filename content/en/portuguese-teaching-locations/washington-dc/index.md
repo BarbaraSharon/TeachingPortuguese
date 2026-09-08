@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Washington Dc. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Washington Dc is grouped in the North America regional time zone used for scheduling. Washington Dc is located in United States. This page keeps the local reference specific to Washington Dc while the teaching service remains online-first."
+local_context: "Washington Dc is in the North America scheduling region. Washington Dc is located in United States. Local goals: In Washington Dc, bring examples from family messages or work meetings; Barbara can confirm how those goals fit the plan. Local focus: Reference for Washington Dc: ask Barbara about Washington Dc pronunciation, Washington Dc listening, Washington Dc conversation, and Washington Dc travel vocabulary goals."
 scheduling: "Scheduling from Washington Dc: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/New_York; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Washington Dc: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

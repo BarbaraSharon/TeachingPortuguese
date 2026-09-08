@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Calgary"
 description: "Clases online de portugués brasileño en Calgary, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/calgary/calgary-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Calgary | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Edmonton"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Calgary. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Calgary forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Calgary está situada en Canada. Esta página mantiene la referencia local específica de Calgary, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Calgary forma parte de la región de North America utilizada como referencia para organizar horarios. Calgary está situada en Canada. Local goals: Para Calgary, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Calgary, define Calgary viajes; practica Calgary trabajo; explora Calgary familia; mejora Calgary pronunciación; confirma Calgary horario."
 scheduling: "Horarios para Calgary: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Edmonton; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Calgary: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Listo para aprender portugués brasileño en Calgary? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Calgary, clases de conversación en Calgary o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
+¿Listo para aprender portugués brasileño en Calgary? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una tutora de portugués cerca de ti en Calgary, clases de conversación en Calgary o clases estructuradas de portugués en línea, su método está diseñado para responder a tus necesidades individuales.
 
 «¡Habla conmigo en portugués!»

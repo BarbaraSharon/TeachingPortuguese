@@ -11,7 +11,7 @@ const origin = 'https://barbarasharon.com.au';
 const languages = {
   en: {
     section: 'answers',
-    profilePath: 'about-barbara-sharon',
+    profilePath: 'about-learning-portuguese',
     hubTitle: 'Portuguese Learning Answers and Lesson Guidance',
     hreflang: 'en-au',
     authorLabel: 'About the author',
@@ -61,7 +61,7 @@ const languages = {
   },
   es: {
     section: 'respuestas',
-    profilePath: 'sobre-barbara-sharon',
+    profilePath: 'sobre-aprender-portugues',
     hubTitle: 'Respuestas para aprender portugués brasileño',
     hreflang: 'es',
     authorLabel: 'Sobre la autora',
@@ -111,7 +111,7 @@ const languages = {
   },
   'pt-br': {
     section: 'respostas',
-    profilePath: 'sobre-barbara-sharon',
+    profilePath: 'sobre-aprendizagem-portuguesa',
     hubTitle: 'Respostas para aprender português brasileiro',
     hreflang: 'pt-BR',
     authorLabel: 'Sobre a autora',

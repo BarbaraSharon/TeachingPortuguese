@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Nerang"
 description: "Clases online de portugués brasileño en Nerang, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/nerang/nerang-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Nerang. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Nerang forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Nerang está situada en Australia. Esta página mantiene la referencia local específica de Nerang, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Nerang forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Nerang está situada en Australia. Local goals: Estudiar portugués en Nerang puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Nerang, define Nerang viajes; practica Nerang trabajo; explora Nerang familia; mejora Nerang pronunciación; confirma Nerang horario."
 scheduling: "Horarios para Nerang: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Nerang: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -70,8 +70,8 @@ Tanto si te interesa convertirte en tutora de portugués en Nerang, recibir inst
 
 Tanto si eres principiante absoluto como si quieres perfeccionar fluidez, las clases se adaptan a tus intereses y ritmo de aprendizaje. Explora nuestros [servicios](/es/servicios-clases-portugues/) para obtener más información sobre clases de portugués brasileño en Nerang y tutoría particular de portugués en Nerang.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Listo para empezar tu recorrido de aprendizaje de portugués? Contacta hoy con Barbara Sharon para una clases de portugués y experimenta de primera mano su enfoque único de enseñanza. Tanto si empiezas desde cero como si quieres desarrollar tus habilidades, ella puede guiarte.
+¿Listo para empezar tu recorrido de aprendizaje de portugués? Contacta hoy con Barbara Sharon para una clase de portugués y experimenta de primera mano su enfoque único de enseñanza. Tanto si empiezas desde cero como si quieres desarrollar tus habilidades, ella puede guiarte.
 
 Descubre más sobre la gama de [clases de portugués cerca de Nerang](/es/servicios-clases-portugues/), incluidas clases para principiantes y centradas en conversación. Comunícate ahora mediante nuestra página de [contacto](/es/contacto-profesora-portugues/) para reservar tu sesión.

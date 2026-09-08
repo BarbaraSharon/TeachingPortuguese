@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Chilliwack. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Chilliwack is grouped in the North America regional time zone used for scheduling. Chilliwack is located in Canada. This page keeps the local reference specific to Chilliwack while the teaching service remains online-first."
+local_context: "Chilliwack is in the North America scheduling region. Chilliwack is located in Canada. Local goals: Learners in Chilliwack can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Chilliwack: ask Barbara about Chilliwack pronunciation, Chilliwack listening, Chilliwack conversation, and Chilliwack travel vocabulary goals."
 scheduling: "Scheduling from Chilliwack: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Chilliwack: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

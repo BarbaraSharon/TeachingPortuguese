@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Hollywell: Presenciales y Online"
 description: "Clases de portugués brasileño en Hollywell, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/hollywell/hollywell-brazilian-portuguese-tutor.png
   alt_text: "Clases de portugués brasileño en Hollywell: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Hollywell con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Hollywell forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Hollywell está situada en Australia. Esta página mantiene la referencia local específica de Hollywell, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Hollywell forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Hollywell está situada en Australia. Local goals: En Hollywell, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Hollywell, define Hollywell viajes; practica Hollywell trabajo; explora Hollywell familia; mejora Hollywell pronunciación; confirma Hollywell horario."
 scheduling: "Horarios para Hollywell: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Hollywell: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,7 +59,7 @@ Tanto si buscas una profesora nativa de portugués como unirte a una clase de po
 
 ## Empieza hoy tu recorrido con el portugués
 
-Si estás lista o listo para comenzar a aprender portugués en Hollywell, contacta con Barbara Sharon para una clases de portugués. Con su experiencia como profesora de portugués brasileño y su dedicación a la educación lingüística, puede guiarte hacia tus metas, tanto si buscas fluidez conversacional como comunicación profesional.
+Si estás lista o listo para comenzar a aprender portugués en Hollywell, contacta con Barbara Sharon para una clase de portugués. Con su experiencia como profesora de portugués brasileño y su dedicación a la educación lingüística, puede guiarte hacia tus metas, tanto si buscas fluidez conversacional como comunicación profesional.
 
 Conoce sus opciones en los [servicios](/es/servicios-clases-portugues/) o contacta directamente con Barbara en la página de [contacto](/es/contacto-profesora-portugues/) para programar tu primera sesión. Tanto si buscas una profesora de portugués cerca de Hollywell como clases de conversación, Barbara Sharon ofrece apoyo personalizado para ayudarte a avanzar.
 

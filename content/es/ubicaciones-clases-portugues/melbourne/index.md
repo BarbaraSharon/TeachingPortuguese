@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Melbourne"
 description: "Clases online de portugués brasileño en Melbourne, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/melbourne/melbourne-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Melbourne | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Melbourne. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Melbourne forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Melbourne está situada en Australia. Esta página mantiene la referencia local específica de Melbourne, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Melbourne forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Melbourne está situada en Australia. Local goals: Para Melbourne, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En Melbourne, define Melbourne viajes; practica Melbourne trabajo; explora Melbourne familia; mejora Melbourne pronunciación; confirma Melbourne horario."
 scheduling: "Horarios para Melbourne: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Melbourne; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Melbourne: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -72,8 +72,8 @@ El alumnado de Melbourne puede disfrutar horarios flexibles y métodos de aprend
 
 Sus clases utilizan herramientas multimedia y contenido atractivo adaptado a tus intereses específicos, tanto si buscas clases de portugués para principiantes en Melbourne como clases avanzadas de conversación. Tanto si aprendes portugués brasileño como si estudias portugués europeo, sus servicios facilitan encontrar la clase de portugués adecuada en Melbourne.
 
-## Empieza hoy tu recorrido: ¡hay una clases de portugués!
+## Empieza hoy tu recorrido: ¡hay una clase de portugués!
 
-¿Listo para comenzar tu recorrido de aprendizaje de portugués en Melbourne? Contacta con Barbara Sharon para una clases de portugués y experimenta de primera mano su enfoque único. Tanto si eres principiante absoluto como si quieres mejorar tu fluidez, ella puede guiarte hacia el éxito.
+¿Listo para comenzar tu recorrido de aprendizaje de portugués en Melbourne? Contacta con Barbara Sharon para una clase de portugués y experimenta de primera mano su enfoque único. Tanto si eres principiante absoluto como si quieres mejorar tu fluidez, ella puede guiarte hacia el éxito.
 
 Con opciones de tutoría particular de portugués en Melbourne y clases grupales de portugués en Melbourne, hay una alternativa para cada estudiante. ¡Empieza hoy y descubre la belleza de la lengua y cultura portuguesas!

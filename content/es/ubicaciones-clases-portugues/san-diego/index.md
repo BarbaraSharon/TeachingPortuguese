@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en San Diego"
 description: "Clases online de portugués brasileño en San Diego, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/san-diego/san-diego-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en San Diego | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde San Diego. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "San Diego forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. San Diego está situada en United States. Esta página mantiene la referencia local específica de San Diego, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "San Diego forma parte de la región de North America utilizada como referencia para organizar horarios. San Diego está situada en United States. Local goals: Quienes estudian en San Diego pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En San Diego, define San Diego viajes; practica San Diego trabajo; explora San Diego familia; mejora San Diego pronunciación; confirma San Diego horario."
 scheduling: "Horarios para San Diego: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en San Diego: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

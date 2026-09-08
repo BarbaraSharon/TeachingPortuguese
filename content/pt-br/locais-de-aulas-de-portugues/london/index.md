@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em London"
 description: "Aulas online de português brasileiro em London, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/london/london-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de London. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "London faz parte do fuso horário regional de Europe usado para organizar horários. London fica em United Kingdom. Esta página mantém a referência local específica de London, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "London faz parte da região de Europe usada como referência para organizar horários. London fica em United Kingdom. Local goals: Em London, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em London, defina London viagens; pratique London carreira; explore London família; melhore London pronúncia; treine London conversa; confirme London horário."
 scheduling: "Horários para London: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em London: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,10 +65,10 @@ Barbara Sharon oferece aulas online dinâmicas de português, envolventes e adap
 
 Se você procura uma professora de português brasileiro em Londres ou aulas gerais de português, seu estilo de ensino adaptável garante que cada sessão seja educativa e agradável. Você pode começar sua jornada hoje visitando a página de [serviços](/pt-br/aulas-de-portugues/) ou entrando em contato pela página de [contato](/pt-br/contato-professora-portugues/).
 
-## Agende hoje sua aulas de português!
+## Agende hoje suas aulas de português!
 
-Está pronto para iniciar sua jornada de aprendizagem de português em Londres? Agende uma aulas de português com Barbara Sharon e conheça de perto sua abordagem singular de ensino. Quer você seja iniciante completo ou busque proficiência avançada, ela está aqui para orientar você em cada etapa.
+Está pronto para iniciar sua jornada de aprendizagem de português em Londres? Agende uma aula de português com Barbara Sharon e conheça de perto sua abordagem singular de ensino. Quer você seja iniciante completo ou busque proficiência avançada, ela está aqui para orientar você em cada etapa.
 
 "Aprender é viver!" (Aprender é viver!)
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

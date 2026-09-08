@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Karlsruhe"
 description: "Aulas online de português brasileiro em Karlsruhe, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/karlsruhe/karlsruhe-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Karlsruhe | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Karlsruhe. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Karlsruhe faz parte do fuso horário regional de Europe usado para organizar horários. Karlsruhe fica em Germany. Esta página mantém a referência local específica de Karlsruhe, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Karlsruhe faz parte da região de Europe usada como referência para organizar horários. Karlsruhe fica em Germany. Local goals: Alunos de Karlsruhe podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Karlsruhe, defina Karlsruhe viagens; pratique Karlsruhe carreira; explore Karlsruhe família; melhore Karlsruhe pronúncia; treine Karlsruhe conversa; confirme Karlsruhe horário."
 scheduling: "Horários para Karlsruhe: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Karlsruhe: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,10 +65,10 @@ Barbara Sharon oferece aulas online de português envolventes, perfeitas para es
 
 Quer você esteja começando ou buscando melhorar suas habilidades de fala, Barbara personaliza seu currículo para corresponder aos seus interesses e objetivos. Para saber mais sobre seus serviços de ensino, visite nossa página de [serviços](/pt-br/aulas-de-portugues/). Ou comece com uma [aulas de português](/pt-br/contato-professora-portugues/) e veja como sua abordagem pode ajudar você a alcançar seus objetivos linguísticos.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Está pronto para iniciar sua jornada de aprendizagem de português em Karlsruhe? Entre em contato com Barbara Sharon hoje para uma aulas de português e descubra como seu estilo de ensino apoia seus objetivos pessoais. Quer você seja iniciante completo ou queira aprimorar suas habilidades atuais, ela está aqui para orientar você em cada etapa.
+Está pronto para iniciar sua jornada de aprendizagem de português em Karlsruhe? Entre em contato com Barbara Sharon hoje para uma aula de português e descubra como seu estilo de ensino apoia seus objetivos pessoais. Quer você seja iniciante completo ou queira aprimorar suas habilidades atuais, ela está aqui para orientar você em cada etapa.
 
 Saiba mais sobre [aulas de português perto de Karlsruhe](/pt-br/aulas-de-portugues/), incluindo opções de professora de português brasileiro em Karlsruhe e tutoria particular de português em Karlsruhe.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

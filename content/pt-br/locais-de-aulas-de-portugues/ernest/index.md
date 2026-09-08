@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Ernest: Presenciais e Online"
 description: "Aulas de português brasileiro em Ernest, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/ernest/ernest-location-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Ernest: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Ernest com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Ernest faz parte do fuso horário regional de Gold Coast usado para organizar horários. Ernest fica em Australia. Esta página mantém a referência local específica de Ernest, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Ernest faz parte da região de Gold Coast usada como referência para organizar horários. Ernest fica em Australia. Local goals: Alunos de Ernest podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Ernest, defina Ernest viagens; pratique Ernest carreira; explore Ernest família; melhore Ernest pronúncia; treine Ernest conversa; confirme Ernest horário."
 scheduling: "Horários para Ernest: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ernest: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,6 +61,6 @@ As aulas presenciais de português estão disponíveis em Surfers Paradise e nos
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Ernest? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Quer você procure uma professora de português brasileiro em Ernest, uma professora online de português em Ernest ou aulas de português brasileiro na localidade, a experiência de Barbara garante uma vivência gratificante. Você pode conhecer mais sobre seus serviços de ensino na página de [serviços](/pt-br/aulas-de-portugues/) ou entrar em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
+Tem interesse em aprender português em Ernest? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma! Quer você procure uma professora de português brasileiro em Ernest, uma professora online de português em Ernest ou aulas de português brasileiro na localidade, a experiência de Barbara garante uma vivência gratificante. Você pode conhecer mais sobre seus serviços de ensino na página de [serviços](/pt-br/aulas-de-portugues/) ou entrar em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
 
 "Aprender é viver" - aprender é viver!

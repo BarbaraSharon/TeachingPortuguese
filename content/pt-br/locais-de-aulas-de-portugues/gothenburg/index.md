@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Gothenburg"
 description: "Aulas online de português brasileiro em Gothenburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/gothenburg/gothenburg-portuguese-lesson.png
   alt_text: Aprenda português em Gotemburgo | Aulas de português brasileiro - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Gothenburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Gothenburg faz parte do fuso horário regional de Europe usado para organizar horários. Gothenburg fica em Sweden. Esta página mantém a referência local específica de Gothenburg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Gothenburg faz parte da região de Europe usada como referência para organizar horários. Gothenburg fica em Sweden. Local goals: Alunos de Gothenburg podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Gothenburg, defina Gothenburg viagens; pratique Gothenburg carreira; explore Gothenburg família; melhore Gothenburg pronúncia; treine Gothenburg conversa; confirme Gothenburg horário."
 scheduling: "Horários para Gothenburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Stockholm; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Gothenburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Barbara Sharon oferece aulas de português em Gotemburgo por meio de ensino tota
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Gotemburgo? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma. Você pode conhecer mais sobre seus serviços de ensino na página de [serviços](/pt-br/aulas-de-portugues/) ou entrar em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
+Tem interesse em aprender português em Gotemburgo? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma. Você pode conhecer mais sobre seus serviços de ensino na página de [serviços](/pt-br/aulas-de-portugues/) ou entrar em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).

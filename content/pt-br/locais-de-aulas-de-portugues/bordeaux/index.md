@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bordeaux"
 description: "Aulas online de português brasileiro em Bordeaux, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/bordeaux/bordeaux-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bordeaux. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Bordeaux faz parte do fuso horário regional de Europe usado para organizar horários. Bordeaux fica em France. Esta página mantém a referência local específica de Bordeaux, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Bordeaux faz parte da região de Europe usada como referência para organizar horários. Bordeaux fica em France. Local goals: Em Bordeaux, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Bordeaux, defina Bordeaux viagens; pratique Bordeaux carreira; explore Bordeaux família; melhore Bordeaux pronúncia; treine Bordeaux conversa; confirme Bordeaux horário."
 scheduling: "Horários para Bordeaux: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bordeaux: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,4 +55,4 @@ Se você procura aulas de português brasileiro em Bordeaux ou aulas de conversa
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Bordeaux? Fale com Barbara Sharon para uma aulas de português e comece hoje sua jornada linguística! Se você procura aulas de português para iniciantes em Bordeaux ou aulas avançadas de conversação em português, suas sessões online oferecem apoio personalizado. Como tutora online experiente de português em Bordeaux, ela ajuda os alunos a alcançar suas metas linguísticas com ensino personalizado.
+Tem interesse em aprender português em Bordeaux? Fale com Barbara Sharon para uma aula de português e comece hoje sua jornada linguística! Se você procura aulas de português para iniciantes em Bordeaux ou aulas avançadas de conversação em português, suas sessões online oferecem apoio personalizado. Como tutora online experiente de português em Bordeaux, ela ajuda os alunos a alcançar suas metas linguísticas com ensino personalizado.

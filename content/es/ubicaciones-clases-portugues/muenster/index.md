@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Münster"
 description: "Clases online de portugués brasileño en Münster, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/muenster/muenster-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Münster. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Münster forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Münster está situada en Germany. Esta página mantiene la referencia local específica de Münster, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Münster forma parte de la región de Europe utilizada como referencia para organizar horarios. Münster está situada en Germany. Local goals: Barbara adapta las clases para Münster a objetivos de viaje, trabajo o familia; la disponibilidad en Münster se comprueba antes de reservar. Local focus: En Münster, define Münster viajes; practica Münster trabajo; explora Münster familia; mejora Münster pronunciación; confirma Münster horario."
 scheduling: "Horarios para Münster: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Münster: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -66,6 +66,6 @@ El alumnado de Münster puede beneficiarse de horarios flexibles y métodos inte
 
 Nuestras clases en línea emplean herramientas interactivas y recursos multimedia para que aprender resulte atractivo y eficaz. Recibirás materiales adaptados a tus intereses y objetivos específicos, tanto si buscas clases de conversación como enseñanza adecuada para principiantes. Barbara Sharon ofrece sesiones de tutoría particular de portugués que se adaptan a tu horario y nivel de dominio.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Münster? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido. Puedes obtener más información sobre [clases de portugués cerca de Münster](/es/servicios-clases-portugues/) o comunicarte mediante [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Münster? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido. Puedes obtener más información sobre [clases de portugués cerca de Münster](/es/servicios-clases-portugues/) o comunicarte mediante [contacto](/es/contacto-profesora-portugues/).

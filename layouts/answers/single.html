@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{- $authors := partialCached "functions/get_authors_data" . site.Language.Lang -}}
 {{- $author := index $authors "me" -}}
-{{- $authorPage := site.GetPage "/authors" -}}
+{{- $authorPage := partial "teacher-page.html" . -}}
 {{- $contactURL := site.Params.hugoblox.header.cta.url -}}
 <main class="mx-auto max-w-5xl px-6 py-12 lg:px-8 lg:py-20">
   <article data-pagefind-body>

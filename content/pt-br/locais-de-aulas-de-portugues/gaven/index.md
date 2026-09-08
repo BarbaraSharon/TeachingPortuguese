@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Gaven: Presenciais e Online"
 description: "Aulas de português brasileiro em Gaven, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/gaven/gaven-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Gaven: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Gaven com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Gaven faz parte do fuso horário regional de Gold Coast usado para organizar horários. Gaven fica em Australia. Esta página mantém a referência local específica de Gaven, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Gaven faz parte da região de Gold Coast usada como referência para organizar horários. Gaven fica em Australia. Local goals: Para Gaven, pratique português para viagens, conversas profissionais ou relações familiares antes de confirmar a disponibilidade. Local focus: Em Gaven, defina Gaven viagens; pratique Gaven carreira; explore Gaven família; melhore Gaven pronúncia; treine Gaven conversa; confirme Gaven horário."
 scheduling: "Horários para Gaven: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Gaven: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ Quer você procure aulas de português perto de Gaven ou uma professora nativa d
 
 ## Comece hoje sua jornada no português
 
-Se você tem interesse em aprender português em Gaven, Barbara Sharon oferece uma aulas de português para ajudar você a começar. Quer você procure uma professora de português brasileiro em Gaven ou uma professora de português online na localidade, ela oferece ensino flexível e eficaz.
+Se você tem interesse em aprender português em Gaven, Barbara Sharon oferece uma aula de português para ajudar você a começar. Quer você procure uma professora de português brasileiro em Gaven ou uma professora de português online na localidade, ela oferece ensino flexível e eficaz.
 
 Comece hoje sua jornada entrando em contato com ela pela página de [contato](/pt-br/contato-professora-portugues/). Suas aulas de português para iniciantes em Gaven e aulas de conversação em português na localidade foram planejadas para ajudar você a atingir seus objetivos linguísticos com eficiência - seja viajando, estudando ou construindo conexões de negócios.

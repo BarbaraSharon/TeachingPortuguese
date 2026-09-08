@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Winnipeg"
 description: "Clases online de portugués brasileño en Winnipeg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/winnipeg/barbara-winnipeg.png
   alt_text: Aprende portugués brasileño en Winnipeg | Clases particulares y grupales en línea - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Winnipeg"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Winnipeg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Winnipeg forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Winnipeg está situada en Canada. Esta página mantiene la referencia local específica de Winnipeg, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Winnipeg forma parte de la región de North America utilizada como referencia para organizar horarios. Winnipeg está situada en Canada. Local goals: Estudiar portugués en Winnipeg puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Winnipeg, define Winnipeg viajes; practica Winnipeg trabajo; explora Winnipeg familia; mejora Winnipeg pronunciación; confirma Winnipeg horario."
 scheduling: "Horarios para Winnipeg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Winnipeg; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Winnipeg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,6 +59,6 @@ Con su plataforma de enseñanza en línea, puedes disfrutar de la comodidad de e
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Lista o listo para aprender portugués brasileño en Winnipeg? Reserva una clases de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una profesora de portugués cerca de ti en Winnipeg, clases de portugués conversacional en Winnipeg o clases estructuradas de portugués en línea, su enfoque está diseñado para responder a tus necesidades individuales.
+¿Lista o listo para aprender portugués brasileño en Winnipeg? Reserva una clase de portugués con Barbara Sharon y da el primer paso hacia la fluidez. Tanto si buscas una profesora de portugués cerca de ti en Winnipeg, clases de portugués conversacional en Winnipeg o clases estructuradas de portugués en línea, su enfoque está diseñado para responder a tus necesidades individuales.
 
 «¡Fala comigo em português!» (¡Habla conmigo en portugués!).

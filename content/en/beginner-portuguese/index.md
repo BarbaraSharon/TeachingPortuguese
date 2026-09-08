@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Beginner Brazilian Portuguese Lessons"
 description: "Start Brazilian Portuguese with practical conversation, pronunciation, vocabulary, grammar, and cultural guidance in private or group lessons."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Beginner Brazilian Portuguese lessons
   delivery: Online worldwide; in person on the Gold Coast
+  delivery_modes: [online, in_person]
   audience: Beginner adult learners
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Beginner Portuguese
     title: Beginner Portuguese Lessons with Barbara Sharon
     text: Build confidence from your first words through practical conversation, pronunciation, vocabulary, grammar, and cultural context. Beginner lessons can be private or group-based, online worldwide or in person on the Gold Coast.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about beginner lessons
       url: /en/contact-portuguese-teacher/

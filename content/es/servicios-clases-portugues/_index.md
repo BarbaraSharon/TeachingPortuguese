@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Clases de portugués: opciones y formatos"
 description: "Explora clases de portugués brasileño para distintos niveles y objetivos, online en todo el mundo y privadas o grupales en Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: services
 image:
   filename: pages/portuguese-teaching-services/portuguese-teaching-services-brazilian-portuguese-lessons.png
@@ -22,6 +22,8 @@ sections:
     eyebrow: Clases de portugués brasileño
     title: Clases de portugués en línea y en Gold Coast
     text: Clases particulares y grupales en línea en todo el mundo, además de clases presenciales en Gold Coast. Elige tu nivel, tu objetivo y la forma en que quieres aprender.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Clases online en todo el mundo
       url: /es/servicios-clases-portugues/clases-portugues-online/

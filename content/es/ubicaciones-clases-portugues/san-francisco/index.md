@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en San Francisco"
 description: "Clases online de portugués brasileño en San Francisco, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/san-francisco/san-francisco-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde San Francisco. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "San Francisco forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. San Francisco está situada en United States. Esta página mantiene la referencia local específica de San Francisco, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "San Francisco forma parte de la región de North America utilizada como referencia para organizar horarios. San Francisco está situada en United States. Local goals: Para San Francisco, practica portugués para viajes, conversaciones laborales o vínculos familiares antes de confirmar la disponibilidad. Local focus: En San Francisco, define San Francisco viajes; practica San Francisco trabajo; explora San Francisco familia; mejora San Francisco pronunciación; confirma San Francisco horario."
 scheduling: "Horarios para San Francisco: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en San Francisco: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

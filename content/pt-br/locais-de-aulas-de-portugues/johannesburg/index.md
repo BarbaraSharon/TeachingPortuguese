@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Johannesburg"
 description: "Aulas online de português brasileiro em Johannesburg, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/johannesburg/johannesburg-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Johannesburg. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Johannesburg faz parte do fuso horário regional de Africa usado para organizar horários. Johannesburg fica em South Africa. Esta página mantém a referência local específica de Johannesburg, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Johannesburg faz parte da região de Africa usada como referência para organizar horários. Johannesburg fica em South Africa. Local goals: Para Johannesburg, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Johannesburg, defina Johannesburg viagens; pratique Johannesburg carreira; explore Johannesburg família; melhore Johannesburg pronúncia; treine Johannesburg conversa; confirme Johannesburg horário."
 scheduling: "Horários para Johannesburg: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Africa/Johannesburg; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Johannesburg: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -67,8 +67,8 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Os estudantes se beneficiam de experiências de aprendizagem personalizadas, elaboradas para apoiar sua jornada de desenvolvimento linguístico. Para mais informações sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar uma aula.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Está pronto para começar a aprender português em Johannesburg? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem singular de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Está pronto para começar a aprender português em Johannesburg? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem singular de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Encontre uma professora de português perto de você em Johannesburg ou explore aulas de conversação em português em Johannesburg por meio de sua plataforma online. Comece a falar português hoje!

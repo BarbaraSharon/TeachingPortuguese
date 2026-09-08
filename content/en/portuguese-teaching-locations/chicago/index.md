@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Chicago. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Chicago is grouped in the North America regional time zone used for scheduling. Chicago is located in United States. This page keeps the local reference specific to Chicago while the teaching service remains online-first."
+local_context: "Chicago is in the North America scheduling region. Chicago is located in United States. Local goals: In Chicago, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Chicago: ask Barbara about Chicago pronunciation, Chicago listening, Chicago conversation, and Chicago travel vocabulary goals."
 scheduling: "Scheduling from Chicago: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Chicago; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Chicago: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

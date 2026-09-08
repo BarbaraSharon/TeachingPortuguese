@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Cape Town"
 description: "Aulas online de português brasileiro em Cape Town, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/cape-town/cape-town-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Cidade do Cabo | Aulas particulares e em grupo online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Africa"
 time_zone: "Africa/Johannesburg"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cape Town. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Cape Town faz parte do fuso horário regional de Africa usado para organizar horários. Cape Town fica em South Africa. Esta página mantém a referência local específica de Cape Town, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Cape Town faz parte da região de Africa usada como referência para organizar horários. Cape Town fica em South Africa. Local goals: Em Cape Town, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Cape Town, defina Cape Town viagens; pratique Cape Town carreira; explore Cape Town família; melhore Cape Town pronúncia; treine Cape Town conversa; confirme Cape Town horário."
 scheduling: "Horários para Cape Town: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Africa/Johannesburg; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cape Town: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,4 +63,4 @@ Quer você tenha interesse em aulas de português perto da Cidade do Cabo ou pro
 
 ## Comece hoje sua jornada no português brasileiro na Cidade do Cabo
 
-Tem interesse em aprender português na Cidade do Cabo? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Com acesso a aulas de português brasileiro de qualidade na Cidade do Cabo e orientação especializada, você ganhará confiança e fluência rapidamente.
+Tem interesse em aprender português na Cidade do Cabo? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma! Com acesso a aulas de português brasileiro de qualidade na Cidade do Cabo e orientação especializada, você ganhará confiança e fluência rapidamente.

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Denver"
 description: "Aulas online de português brasileiro em Denver, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/denver/denver-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Denver"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Denver. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Denver faz parte do fuso horário regional de North America usado para organizar horários. Denver fica em United States. Esta página mantém a referência local específica de Denver, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Denver faz parte da região de North America usada como referência para organizar horários. Denver fica em United States. Local goals: Em Denver, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Denver, defina Denver viagens; pratique Denver carreira; explore Denver família; melhore Denver pronúncia; treine Denver conversa; confirme Denver horário."
 scheduling: "Horários para Denver: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Denver; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Denver: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Barbara Sharon oferece aulas de português em Denver tanto individuais quanto em
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Denver? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Quer você procure aulas de português perto de Denver ou ajuda com aulas de português para iniciantes em Denver, ela pode orientar você rumo à fluência.
+Tem interesse em aprender português em Denver? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma! Quer você procure aulas de português perto de Denver ou ajuda com aulas de português para iniciantes em Denver, ela pode orientar você rumo à fluência.
 
 Para mais informações sobre seus serviços ou para agendar uma sessão, entre em contato pela nossa página de [contato](/pt-br/contato-professora-portugues/). Com especialização como professora nativa de português em Denver e compromisso com o sucesso dos alunos, Barbara é sua escolha ideal para serviços de professora online de português em Denver.

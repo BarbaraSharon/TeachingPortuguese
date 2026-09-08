@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Ikaluit"
 description: "Aulas online de português brasileiro em Ikaluit, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/ikaluit/ikaluit-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Ikaluit. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Ikaluit faz parte do fuso horário regional de North America usado para organizar horários. Ikaluit fica em Canada. Esta página mantém a referência local específica de Ikaluit, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Ikaluit faz parte da região de North America usada como referência para organizar horários. Ikaluit fica em Canada. Local goals: Estudar português em Ikaluit pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Ikaluit, defina Ikaluit viagens; pratique Ikaluit carreira; explore Ikaluit família; melhore Ikaluit pronúncia; treine Ikaluit conversa; confirme Ikaluit horário."
 scheduling: "Horários para Ikaluit: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Ikaluit: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode aproveitar a conveniência de es
 
 ## Comece hoje sua jornada no português
 
-Está pronto para aprender português brasileiro em Ikaluit? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma professora de português perto de você em Ikaluit, aulas de conversação em português em Ikaluit ou aulas estruturadas de português online, sua abordagem foi planejada para atender às suas necessidades individuais.
+Está pronto para aprender português brasileiro em Ikaluit? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma professora de português perto de você em Ikaluit, aulas de conversação em português em Ikaluit ou aulas estruturadas de português online, sua abordagem foi planejada para atender às suas necessidades individuais.
 
 "Fala comigo em português!" (Fale comigo em português!)

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Karlsruhe"
 description: "Clases online de portugués brasileño en Karlsruhe, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/karlsruhe/karlsruhe-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Karlsruhe | Clases particulares y grupales de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Karlsruhe. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Karlsruhe forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Karlsruhe está situada en Germany. Esta página mantiene la referencia local específica de Karlsruhe, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Karlsruhe forma parte de la región de Europe utilizada como referencia para organizar horarios. Karlsruhe está situada en Germany. Local goals: Quienes estudian en Karlsruhe pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Karlsruhe, define Karlsruhe viajes; practica Karlsruhe trabajo; explora Karlsruhe familia; mejora Karlsruhe pronunciación; confirma Karlsruhe horario."
 scheduling: "Horarios para Karlsruhe: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Karlsruhe: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -65,8 +65,8 @@ Barbara Sharon ofrece clases de portugués en línea atractivas, perfectas para 
 
 Tanto si empiezas como si buscas mejorar expresión oral, Barbara personaliza el currículo según tus intereses y objetivos. Para conocer más sobre sus clases, visita nuestra página de [servicios](/es/servicios-clases-portugues/). O comienza con una [clases de portugués](/es/contacto-profesora-portugues/) y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos lingüísticos.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Listo para comenzar tu recorrido de aprendizaje de portugués en Karlsruhe? Contacta hoy con Barbara Sharon para una clases de portugués y descubre cómo su estilo de enseñanza acompaña tus metas personales. Tanto si eres principiante absoluto como si quieres mejorar habilidades existentes, está aquí para guiarte en cada paso.
+¿Listo para comenzar tu recorrido de aprendizaje de portugués en Karlsruhe? Contacta hoy con Barbara Sharon para una clase de portugués y descubre cómo su estilo de enseñanza acompaña tus metas personales. Tanto si eres principiante absoluto como si quieres mejorar habilidades existentes, está aquí para guiarte en cada paso.
 
 Conoce más sobre [clases de portugués cerca de Karlsruhe](/es/servicios-clases-portugues/), incluidas opciones de profesora de portugués brasileño en Karlsruhe y tutoría particular de portugués en Karlsruhe.

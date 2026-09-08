@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Surrey. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Surrey is grouped in the North America regional time zone used for scheduling. Surrey is located in Canada. This page keeps the local reference specific to Surrey while the teaching service remains online-first."
+local_context: "Surrey is in the North America scheduling region. Surrey is located in Canada. Local goals: Learners in Surrey can start with travel dialogues, then practise work and family; the Surrey time is confirmed before enrolment. Local focus: Reference for Surrey: ask Barbara about Surrey pronunciation, Surrey listening, Surrey conversation, and Surrey travel vocabulary goals."
 scheduling: "Scheduling from Surrey: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Surrey: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

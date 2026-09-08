@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Regina"
 description: "Aulas online de português brasileiro em Regina, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/regina/regina-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Regina"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Regina. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Regina faz parte do fuso horário regional de North America usado para organizar horários. Regina fica em Canada. Esta página mantém a referência local específica de Regina, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Regina faz parte da região de North America usada como referência para organizar horários. Regina fica em Canada. Local goals: Em Regina, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Regina, defina Regina viagens; pratique Regina carreira; explore Regina família; melhore Regina pronúncia; treine Regina conversa; confirme Regina horário."
 scheduling: "Horários para Regina: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Regina; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Regina: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada em português hoje
 
-Pronto para aprender português brasileiro em Regina? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Regina, aulas de português conversacional em Regina ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
+Pronto para aprender português brasileiro em Regina? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Regina, aulas de português conversacional em Regina ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (Converse comigo em português!)

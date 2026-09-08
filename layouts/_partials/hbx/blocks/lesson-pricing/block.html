@@ -1,4 +1,5 @@
 {{- $content := .wcBlock.content | default dict -}}
+{{- $page := index . "wcPage" -}}
 <div class="mx-auto max-w-7xl px-6 lg:px-8">
   <header class="mx-auto max-w-3xl text-center">
     {{ with $content.eyebrow }}<p class="font-semibold text-primary-600 dark:text-primary-300">{{ . }}</p>{{ end }}
@@ -22,7 +23,12 @@
             </ul>
           {{ end }}
           {{ with .related_note }}<p class="mt-2 text-sm text-gray-600 dark:text-gray-300">{{ . }}</p>{{ end }}
-          {{ with .url }}<a class="mt-5 inline-block rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white hover:bg-primary-700" href="{{ . }}">{{ $.wcBlock.content.action_text }}</a>{{ end }}
+          {{ if eq .id "term_10_week_1_5_hour" }}<p class="mt-2 text-sm text-gray-600 dark:text-gray-300">{{ i18n "pricing_book_options_apply" }}</p>{{ end }}
+          {{ $offerID := .id }}
+          {{ with .url }}
+            {{ $action := partial "resolve-enquiry-action.html" (dict "action" (dict "url" . "text" $.wcBlock.content.action_text) "page" $page "offer_id" $offerID) }}
+            <a class="mt-5 inline-block rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white hover:bg-primary-700" href="{{ $action.url }}" data-enquiry-intent="{{ $action.enquiry.intent }}" data-enquiry-offer="{{ $action.enquiry.offer_id }}" data-lesson-format="{{ $action.lesson_format }}">{{ $action.text }}</a>
+          {{ end }}
         </article>
       {{ end }}
     {{ end }}

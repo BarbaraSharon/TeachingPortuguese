@@ -30,11 +30,14 @@
   {{- $authorName := $author.name.display | default "Barbara Sharon" -}}
   {{- $authorRole := $author.role | default "Brazilian Portuguese Teacher" -}}
   {{- $authorBio := $author.bio | default "Qualified Brazilian Portuguese teacher offering private and group lessons online worldwide and in-person options on the Gold Coast." -}}
-  {{- $authorPage := site.GetPage "/authors" -}}
+  {{- $teacherPage := partial "teacher-page.html" $page -}}
+  {{- $authorProfilePage := site.GetPage "/authors" -}}
   {{- $authorURL := "" -}}
   {{- $authorImageURL := "" -}}
-  {{- with $authorPage -}}
+  {{- with $teacherPage -}}
     {{- $authorURL = .Permalink -}}
+  {{- end -}}
+  {{- with $authorProfilePage -}}
     {{- with .Params.image.filename -}}
       {{- with resources.Get (printf "media/%s" .) -}}
         {{- $authorImageURL = .Permalink -}}

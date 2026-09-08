@@ -3,7 +3,7 @@ translationKey: escola-de-portugues-gold-coast
 title: "Aulas de português em grupo na Gold Coast"
 description: "Participe de aulas em grupo de português brasileiro na Gold Coast, com conversação, prática orientada e aprendizagem estruturada para diferentes níveis."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/portuguese-school-gold-coast/portuguese-school-gold-coast-brazilian-portuguese-lessons.png
@@ -23,6 +23,8 @@ sections:
     eyebrow: Aulas presenciais em grupo · Gold Coast
     title: Aulas presenciais de português em grupo na Gold Coast
     text: Barbara está organizando a próxima turma na Gold Coast. Registre seu interesse informando nível, faixa etária, região preferida e disponibilidade; local e nível atuais são confirmados antes da reserva. A imagem da sala é ilustrativa.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Registre seu interesse na próxima turma
       url: https://wa.me/61493837828?text=Oi%20Barbara%2C%20tenho%20interesse%20na%20pr%C3%B3xima%20turma%20da%20Gold%20Coast.%20Meu%20n%C3%ADvel%20%C3%A9%2C%20minha%20faixa%20et%C3%A1ria%20%C3%A9%2C%20minha%20regi%C3%A3o%20preferida%20%C3%A9%20e%20minha%20disponibilidade%20%C3%A9%2E

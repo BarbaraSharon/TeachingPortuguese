@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Berlin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Berlin is grouped in the Europe regional time zone used for scheduling. Berlin is located in Germany. This page keeps the local reference specific to Berlin while the teaching service remains online-first."
+local_context: "Berlin is in the Europe scheduling region. Berlin is located in Germany. Local goals: For Berlin, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Berlin: ask Barbara about Berlin pronunciation, Berlin listening, Berlin conversation, and Berlin travel vocabulary goals."
 scheduling: "Scheduling from Berlin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Berlin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

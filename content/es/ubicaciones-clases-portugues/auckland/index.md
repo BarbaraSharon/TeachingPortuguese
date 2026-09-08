@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Auckland"
 description: "Clases online de portugués brasileño en Auckland, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/auckland/auckland-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués en Auckland | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Pacific/Auckland"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Auckland. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Auckland forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Auckland está situada en New Zealand. Esta página mantiene la referencia local específica de Auckland, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Auckland forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Auckland está situada en New Zealand. Local goals: Estudiar portugués en Auckland puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Auckland, define Auckland viajes; practica Auckland trabajo; explora Auckland familia; mejora Auckland pronunciación; confirma Auckland horario."
 scheduling: "Horarios para Auckland: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Pacific/Auckland; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Auckland: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -50,9 +50,9 @@ Cada sesión combina gramática, conversación, contexto cultural y vocabulario 
 
 Barbara ofrece clases particulares y grupales en línea. Tanto si eres principiante como si tienes un nivel avanzado, su método personalizado proporciona la atención que necesitas.
 
-Las clases particulares permiten centrarse en ti y las grupales fomentan la interacción. Todas se imparten en línea, por lo que están disponibles para estudiantes de Auckland y alrededores. Con servicios de [tutoría de portugués brasileño](/es/servicios-clases-portugues/) y clases generales, Barbara adapta su estilo a cada estudiante. Empieza hoy con una clases de portugués.
+Las clases particulares permiten centrarse en ti y las grupales fomentan la interacción. Todas se imparten en línea, por lo que están disponibles para estudiantes de Auckland y alrededores. Con servicios de [tutoría de portugués brasileño](/es/servicios-clases-portugues/) y clases generales, Barbara adapta su estilo a cada estudiante. Empieza hoy con una clase de portugués.
 ## Empieza hoy tu camino con el portugués
 
-¿Listo para aprender portugués en Auckland? Contacta con Barbara Sharon para una clases de portugués y da el primer paso hacia la fluidez. Tanto si buscas una profesora en Auckland, conversación o clases estructuradas, su método en línea ofrece acceso y comodidad.
+¿Listo para aprender portugués en Auckland? Contacta con Barbara Sharon para una clase de portugués y da el primer paso hacia la fluidez. Tanto si buscas una profesora en Auckland, conversación o clases estructuradas, su método en línea ofrece acceso y comodidad.
 
 «Aprender português é mais do que memorizar palavras - é vivenciar uma cultura.» (Aprender portugués es más que memorizar palabras: es vivir una cultura.)

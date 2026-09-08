@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Cidade de Quebec"
 description: "Aulas online de português brasileiro em Cidade de Quebec, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/quebec-city/quebec-city-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cidade de Quebec. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Cidade de Quebec faz parte do fuso horário regional de North America usado para organizar horários. Cidade de Quebec fica em Canada. Esta página mantém a referência local específica de Cidade de Quebec, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Cidade de Quebec faz parte da região de North America usada como referência para organizar horários. Cidade de Quebec fica em Canada. Local goals: Estudar português em Cidade de Quebec pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Cidade de Quebec, defina Cidade de Quebec viagens; pratique Cidade de Quebec carreira; explore Cidade de Quebec família; melhore Cidade de Quebec pronúncia; treine Cidade de Quebec conversa; confirme Cidade de Quebec horário."
 scheduling: "Horários para Cidade de Quebec: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cidade de Quebec: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada em português hoje
 
-Pronto para aprender português brasileiro em Quebec-City? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Quebec-City, aulas de português conversacional em Quebec-City ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
+Pronto para aprender português brasileiro em Quebec-City? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Quebec-City, aulas de português conversacional em Quebec-City ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (Converse comigo em português!)

@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Tokyo"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Tokyo. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Tokyo is grouped in the Asia regional time zone used for scheduling. Tokyo is located in Japan. This page keeps the local reference specific to Tokyo while the teaching service remains online-first."
+local_context: "Tokyo is in the Asia scheduling region. Tokyo is located in Japan. Local goals: For Tokyo, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Tokyo: ask Barbara about Tokyo pronunciation, Tokyo listening, Tokyo conversation, and Tokyo travel vocabulary goals."
 scheduling: "Scheduling from Tokyo: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Tokyo; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Tokyo: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

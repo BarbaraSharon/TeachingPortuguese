@@ -12,11 +12,17 @@ const origin = "https://barbarasharon.com.au";
 const organizationId = `${origin}#organization`;
 const expectedCourseIds = [
   "intensive-portuguese",
-  "advanced-portuguese",
   "intermediate-portuguese",
   "beginner-portuguese",
   "beginner-intermediate-portuguese",
 ];
+const expectedAssignments = {
+  "Mariano J. Ponce": "intensive-portuguese",
+  "Helena Jose": "intensive-portuguese",
+  "Nicolas Germain": "intermediate-portuguese",
+  "Amy Eagle": "beginner-portuguese",
+  "Zoe Lec": "beginner-intermediate-portuguese",
+};
 
 function jsonLdObjects(html, file) {
   return [...html.matchAll(/<script[^>]+type=["']?application\/ld\+json["']?[^>]*>([\s\S]*?)<\/script>/gi)].map((match) => {
@@ -72,8 +78,8 @@ for (const language of languages) {
     if (!video?.[property]) errors.push(`${language}: VideoObject is missing ${property}`);
   }
 
-  if (courseNodes.length !== 5) errors.push(`${language}: expected five review Course nodes, found ${courseNodes.length}`);
-  if (reviews.length !== 6) errors.push(`${language}: expected six nested Review nodes, found ${reviews.length}`);
+  if (courseNodes.length !== 4) errors.push(`${language}: expected four review Course nodes, found ${courseNodes.length}`);
+  if (reviews.length !== 5) errors.push(`${language}: expected five nested Review nodes, found ${reviews.length}`);
   for (const courseId of expectedCourseIds) {
     if (!courseNodes.some((course) => course["@id"] === `${origin}/${language}/#course-review-${courseId}`)) {
       errors.push(`${language}: missing review Course node for ${courseId}`);
@@ -105,6 +111,11 @@ for (const language of languages) {
     if (!/^\d{4}-\d{2}-\d{2}$/.test(review.datePublished || "")) errors.push(`${language}: ${review.author?.name || "review"} has an invalid ISO review date`);
     if (!html.includes(course.name)) errors.push(`${language}: course name is not visible in the rendered testimonials`);
     if (!html.includes(`${review.reviewRating.ratingValue}/${review.reviewRating.bestRating}`)) errors.push(`${language}: rating is not visible in the rendered testimonials`);
+    const expectedCourse = expectedAssignments[review.author?.name];
+    if (expectedCourse && !course["@id"].endsWith(`#course-review-${expectedCourse}`)) {
+      errors.push(`${language}: ${review.author.name} is attached to ${course["@id"]}, expected ${expectedCourse}`);
+    }
+    if (review.author?.name === "Angus Robert") errors.push(`${language}: Angus Robert must not be nested under a Course`);
   }
 
   for (const node of nodes.filter((candidate) => hasType(candidate, "Organization") || hasType(candidate, "ProfessionalService") || hasType(candidate, "LocalBusiness"))) {
@@ -112,10 +123,10 @@ for (const language of languages) {
   }
 }
 
-if (totalReviews !== 18) errors.push(`Expected eighteen translated Review nodes, found ${totalReviews}`);
-if (totalAggregateRatings !== 15) errors.push(`Expected five AggregateRating objects per language, found ${totalAggregateRatings}`);
+if (totalReviews !== 15) errors.push(`Expected fifteen translated Review nodes, found ${totalReviews}`);
+if (totalAggregateRatings !== 12) errors.push(`Expected four AggregateRating objects per language, found ${totalAggregateRatings}`);
 if (errors.length) {
   console.error(`Review structured-data check failed with ${errors.length} issue(s):\n${errors.join("\n")}`);
   process.exit(1);
 }
-console.log("Homepage JSON-LD check passed: complete Organization, Person, VideoObject, and five reviewed Course nodes per language, with AggregateRating on every Course.");
+console.log("Homepage JSON-LD check passed: complete Organization, Person, VideoObject, and four reviewed Course nodes per language, with AggregateRating on every Course.");

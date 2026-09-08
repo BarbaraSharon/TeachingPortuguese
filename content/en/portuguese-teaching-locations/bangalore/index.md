@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bangalore. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Bangalore is grouped in the Asia regional time zone used for scheduling. Bangalore is located in India. This page keeps the local reference specific to Bangalore while the teaching service remains online-first."
+local_context: "Bangalore is in the Asia scheduling region. Bangalore is located in India. Local goals: For Bangalore, use Portuguese practice for travel plans, workplace conversations, or family connections before confirming availability. Local focus: Reference for Bangalore: ask Barbara about Bangalore pronunciation, Bangalore listening, Bangalore conversation, and Bangalore travel vocabulary goals."
 scheduling: "Scheduling from Bangalore: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Kolkata; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bangalore: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

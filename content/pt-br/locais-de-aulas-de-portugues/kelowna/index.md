@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Kelowna"
 description: "Aulas online de português brasileiro em Kelowna, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/kelowna/kelowna-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Kelowna. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Kelowna faz parte do fuso horário regional de North America usado para organizar horários. Kelowna fica em Canada. Esta página mantém a referência local específica de Kelowna, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Kelowna faz parte da região de North America usada como referência para organizar horários. Kelowna fica em Canada. Local goals: Barbara adapta as aulas para Kelowna a objetivos de viagem, trabalho ou família; a disponibilidade de Kelowna é consultada antes da reserva. Local focus: Em Kelowna, defina Kelowna viagens; pratique Kelowna carreira; explore Kelowna família; melhore Kelowna pronúncia; treine Kelowna conversa; confirme Kelowna horário."
 scheduling: "Horários para Kelowna: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kelowna: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,7 +59,7 @@ Com sua plataforma de ensino online, você pode aproveitar a conveniência de es
 
 ## Comece hoje sua jornada no português
 
-Está pronto para aprender português brasileiro em Kelowna? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma professora de português perto de você em Kelowna, aulas de conversação em português em Kelowna ou aulas estruturadas de português online, sua abordagem foi planejada para atender às suas necessidades individuais.
+Está pronto para aprender português brasileiro em Kelowna? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você procure uma professora de português perto de você em Kelowna, aulas de conversação em português em Kelowna ou aulas estruturadas de português online, sua abordagem foi planejada para atender às suas necessidades individuais.
 
 "Fala comigo em português!" (Fale comigo em português!)
 

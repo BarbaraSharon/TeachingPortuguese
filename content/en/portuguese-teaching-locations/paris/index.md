@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Paris. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Paris is grouped in the Europe regional time zone used for scheduling. Paris is located in France. This page keeps the local reference specific to Paris while the teaching service remains online-first."
+local_context: "Paris is in the Europe scheduling region. Paris is located in France. Local goals: Barbara adapts lessons for Paris to travel, work, or family goals; Paris availability is checked before booking. Local focus: Reference for Paris: ask Barbara about Paris pronunciation, Paris listening, Paris conversation, and Paris travel vocabulary goals."
 scheduling: "Scheduling from Paris: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Paris: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Aulas de português: formatos e opções"
 description: "Explore aulas de português brasileiro para diferentes níveis e objetivos, online no mundo todo e particulares ou em grupo na Gold Coast."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: services
 image:
   filename: pages/portuguese-teaching-services/portuguese-teaching-services-brazilian-portuguese-lessons.png
@@ -22,6 +22,8 @@ sections:
     eyebrow: Aulas de português brasileiro
     title: Aulas de português online e na Gold Coast
     text: Aulas particulares e em grupo online para todo o mundo, além de aulas presenciais na Gold Coast. Escolha seu nível, seu objetivo e a maneira como quer aprender.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Aulas online para todo o mundo
       url: /pt-br/aulas-de-portugues/aulas-online/

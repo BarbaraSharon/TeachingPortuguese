@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Edmonton"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Edmonton. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Edmonton is grouped in the North America regional time zone used for scheduling. Edmonton is located in Canada. This page keeps the local reference specific to Edmonton while the teaching service remains online-first."
+local_context: "Edmonton is in the North America scheduling region. Edmonton is located in Canada. Local goals: In Edmonton, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Edmonton: ask Barbara about Edmonton pronunciation, Edmonton listening, Edmonton conversation, and Edmonton travel vocabulary goals."
 scheduling: "Scheduling from Edmonton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Edmonton; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Edmonton: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

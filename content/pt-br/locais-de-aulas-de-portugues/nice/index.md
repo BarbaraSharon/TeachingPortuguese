@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Nice"
 description: "Aulas online de português brasileiro em Nice, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/nice/nice-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Nice. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Nice faz parte do fuso horário regional de Europe usado para organizar horários. Nice fica em France. Esta página mantém a referência local específica de Nice, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Nice faz parte da região de Europe usada como referência para organizar horários. Nice fica em France. Local goals: Estudar português em Nice pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Nice, defina Nice viagens; pratique Nice carreira; explore Nice família; melhore Nice pronúncia; treine Nice conversa; confirme Nice horário."
 scheduling: "Horários para Nice: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Nice: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,8 +65,8 @@ Barbara Sharon oferece aulas de português online em Nice para iniciantes e estu
 
 Aprenda português em Nice com uma professora nativa de português que entende as nuances das formas faladas e escritas. Você pode explorar aulas de conversação em português em Nice ou até encontrar opções de tutoria de português online em Nice que se adequem à sua agenda e ao seu estilo de aprendizagem.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Nice? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Nice? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Para saber mais sobre seus serviços, visite a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/) para uma consulta personalizada.

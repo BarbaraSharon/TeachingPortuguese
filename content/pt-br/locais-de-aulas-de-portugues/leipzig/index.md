@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Leipzig"
 description: "Aulas online de português brasileiro em Leipzig, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/leipzig/leipzig-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Leipzig. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Leipzig faz parte do fuso horário regional de Europe usado para organizar horários. Leipzig fica em Germany. Esta página mantém a referência local específica de Leipzig, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Leipzig faz parte da região de Europe usada como referência para organizar horários. Leipzig fica em Germany. Local goals: Para Leipzig, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Leipzig, defina Leipzig viagens; pratique Leipzig carreira; explore Leipzig família; melhore Leipzig pronúncia; treine Leipzig conversa; confirme Leipzig horário."
 scheduling: "Horários para Leipzig: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Berlin; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Leipzig: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -66,10 +66,10 @@ Barbara Sharon oferece aulas online de português envolventes e eficazes, que se
 
 Com ferramentas interativas e recursos multimídia, os alunos desfrutam de uma experiência de aprendizagem imersiva no conforto de suas casas. Aulas online em grupo também estão disponíveis para quem prefere aprendizagem colaborativa, enquanto sessões particulares oferecem atenção e feedback personalizados.
 
-## Agende hoje sua aulas de português em Leipzig!
+## Agende hoje suas aulas de português em Leipzig!
 
-Está pronto para iniciar sua jornada no português em Leipzig? Entre em contato com Barbara Sharon para uma aulas de português e descubra como seu estilo de ensino dinâmico pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada de aprendizagem.
+Está pronto para iniciar sua jornada no português em Leipzig? Entre em contato com Barbara Sharon para uma aula de português e descubra como seu estilo de ensino dinâmico pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada de aprendizagem.
 
 [Agende agora](/pt-br/contato-professora-portugues/) pela nossa página de contato e dê o primeiro passo para ganhar confiança em português!
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Mudgeeraba with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Mudgeeraba is grouped in the Gold Coast regional time zone used for scheduling. Mudgeeraba is located in Australia. This page keeps the local reference specific to Mudgeeraba while the teaching service remains online-first."
+local_context: "Mudgeeraba is in the Gold Coast scheduling region. Mudgeeraba is located in Australia. Local goals: Learners in Mudgeeraba can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Mudgeeraba: ask Barbara about Mudgeeraba pronunciation, Mudgeeraba listening, Mudgeeraba conversation, and Mudgeeraba travel vocabulary goals."
 scheduling: "Scheduling from Mudgeeraba: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Mudgeeraba: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

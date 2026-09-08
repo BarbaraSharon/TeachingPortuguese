@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Paris"
 description: "Aulas online de português brasileiro em Paris, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/paris/paris-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Paris. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Paris faz parte do fuso horário regional de Europe usado para organizar horários. Paris fica em France. Esta página mantém a referência local específica de Paris, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Paris faz parte da região de Europe usada como referência para organizar horários. Paris fica em France. Local goals: Barbara adapta as aulas para Paris a objetivos de viagem, trabalho ou família; a disponibilidade de Paris é consultada antes da reserva. Local focus: Em Paris, defina Paris viagens; pratique Paris carreira; explore Paris família; melhore Paris pronúncia; treine Paris conversa; confirme Paris horário."
 scheduling: "Horários para Paris: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Paris: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -66,8 +66,8 @@ Aulas de português online proporcionam flexibilidade para agendas ocupadas e pe
 
 As aulas online de Barbara Sharon oferecem materiais adaptados aos seus interesses, quer você esteja se preparando para viajar, queira melhorar suas habilidades de comunicação empresarial ou simplesmente goste de explorar a cultura portuguesa por meio de conteúdo autêntico. Seus serviços atendem estudantes que procuram uma tutora de português brasileiro em Paris, com opções de sessões de tutoria particular ou aulas em grupo.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Paris? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Paris? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 [Entre em contato](/pt-br/contato-professora-portugues/) agora para agendar sua primeira sessão e experimentar um ensino de português personalizado com uma professora qualificada em Paris.

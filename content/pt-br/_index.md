@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-08-25
+lastmod: 2026-09-08
 translationKey: home
 title: "Aprenda português com Barbara Sharon"
 summary: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."
@@ -152,8 +152,8 @@ sections:
       rating: 5
       best_rating: 5
       review_date: 2016-11-23
-      course_id: advanced-portuguese
-      course_name: Curso avançado de português
+      course_id: intermediate-portuguese
+      course_name: Curso intermediário de português
       source: email
       source_label: Enviado por email
       text: Olá a todos, fiz uma aula de português de nível intermediário com a Barbara para preparar minha candidatura a um mestrado em Ciências na Universidade Federal do Rio de Janeiro. Foi eficiente e agradável. Recomendo muito; divertida e profissional, a melhor professora que já tive. Passei no teste de ingresso e estou prestes a concluir o curso, obrigado, Barbs!
@@ -162,8 +162,6 @@ sections:
       rating: 5
       best_rating: 5
       review_date: 2022-05-10
-      course_id: intermediate-portuguese
-      course_name: Curso intermediário de português
       source: email
       source_label: Enviado por email
       text: Ao frequentar as aulas da Barbara e vê-la interagir com colegas e alunos, ficou claro o quanto ela era respeitada por sua experiência, conhecimento e escuta atenciosa. Ela também é simplesmente uma ótima pessoa e tem joie de vivre.
@@ -222,12 +220,12 @@ sections:
     - id: term_10_week
       title: Curso em grupo de 10 semanas
       price_prefix: a partir de
-      text: A partir de A$290 por aluno. Fale com a Barbara para confirmar a próxima turma e a disponibilidade.
+      text: O preço inicial atual aparece abaixo. Fale com a Barbara para confirmar a próxima turma e a disponibilidade.
       url: /pt-br/contato-professora-portugues/
     - id: private_4_week
       title: Pacote de 4 semanas de aulas particulares
       price_prefix: a partir de
-      text: A partir de A$260. Fale com a Barbara para conversar sobre a opção particular adequada aos seus objetivos.
+      text: O preço inicial atual aparece abaixo. Fale com a Barbara para conversar sobre a opção particular adequada aos seus objetivos.
       url: /pt-br/contato-professora-portugues/
     action_text: Consultar disponibilidade
     currency_note: Todos os preços estão em dólares australianos. Fale com a Barbara para confirmar o pacote e a disponibilidade.

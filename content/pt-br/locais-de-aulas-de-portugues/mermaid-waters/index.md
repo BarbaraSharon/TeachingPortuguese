@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Mermaid Waters: Presenciais e Online"
 description: "Aulas de português brasileiro em Mermaid Waters, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/mermaid-waters/mermaid-waters-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Mermaid Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Mermaid Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Mermaid Waters faz parte do fuso horário regional de Gold Coast usado para organizar horários. Mermaid Waters fica em Australia. Esta página mantém a referência local específica de Mermaid Waters, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Mermaid Waters faz parte da região de Gold Coast usada como referência para organizar horários. Mermaid Waters fica em Australia. Local goals: Quem estuda em Mermaid Waters pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Mermaid Waters é confirmado antes da matrícula. Local focus: Em Mermaid Waters, defina Mermaid Waters viagens; pratique Mermaid Waters carreira; explore Mermaid Waters família; melhore Mermaid Waters pronúncia; treine Mermaid Waters conversa; confirme Mermaid Waters horário."
 scheduling: "Horários para Mermaid Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mermaid Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,8 +61,8 @@ Aulas presenciais de português estão disponíveis em Surfers Paradise, o que �
 
 As aulas de português online de Barbara Sharon são adaptadas aos seus interesses específicos e objetivos de aprendizagem, quer você esteja procurando aulas para iniciantes ou prática avançada de conversação. Você receberá materiais desenvolvidos para seu nível e objetivos pessoais. Saiba mais sobre aulas de português perto de Mermaid Waters ou conecte-se a uma professora nativa de português em Mermaid Waters por meio de suas opções flexíveis de ensino.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Mermaid Waters? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Mermaid Waters? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Saiba mais sobre [aulas de português perto de Mermaid Waters](/pt-br/aulas-de-portugues/), incluindo opções de [tutoria particular de português em Mermaid Waters](/pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/) e [aulas de conversação](/pt-br/clube-de-conversacao/). Entre em contato hoje pela página de [contato](/pt-br/contato-professora-portugues/) para começar sua jornada de aprendizagem de português.

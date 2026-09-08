@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Berlin"
 description: "Clases online de portugués brasileño en Berlin, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/berlin/berlin-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Berlin. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Berlin forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Berlin está situada en Germany. Esta página mantiene la referencia local específica de Berlin, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Berlin forma parte de la región de Europe utilizada como referencia para organizar horarios. Berlin está situada en Germany. Local goals: Para Berlin, Barbara puede organizar práctica de aeropuerto, trabajo o familia y confirmar el próximo horario disponible. Local focus: En Berlin, define Berlin viajes; practica Berlin trabajo; explora Berlin familia; mejora Berlin pronunciación; confirma Berlin horario."
 scheduling: "Horarios para Berlin: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Berlin: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -53,4 +53,4 @@ Los formatos flexibles incluyen tutoría particular y sesiones grupales en líne
 Barbara se especializa en portugués brasileño y aporta información sobre sus variaciones regionales y contextos culturales. Sus clases en línea atienden a estudiantes de todo Berlín y facilitan el acceso a clases de portugués para principiantes en Berlín o a hablantes avanzados que buscan fluidez. Con opciones grupales y particulares, cada estudiante puede elegir el formato que mejor se adapte a su estilo de aprendizaje y horario.
 ## Empieza hoy tu camino con el portugués
 
-¿Te interesa aprender portugués en Berlín? Contacta con Barbara Sharon para una clases de portugués y empieza hoy. Con los servicios de una profesora de portugués en línea en Berlín puedes mejorar desde cualquier lugar. Tanto si buscas una profesora de portugués brasileño en Berlín como si quieres participar en clases interactivas de portugués en Berlín, Barbara está preparada para ayudarte. Explora las oportunidades de conectar con las dinámicas comunidades lusófonas de Berlín mediante clases estructuradas e inmersión cultural.
+¿Te interesa aprender portugués en Berlín? Contacta con Barbara Sharon para una clase de portugués y empieza hoy. Con los servicios de una profesora de portugués en línea en Berlín puedes mejorar desde cualquier lugar. Tanto si buscas una profesora de portugués brasileño en Berlín como si quieres participar en clases interactivas de portugués en Berlín, Barbara está preparada para ayudarte. Explora las oportunidades de conectar con las dinámicas comunidades lusófonas de Berlín mediante clases estructuradas e inmersión cultural.

@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Hamilton. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Hamilton is grouped in the North America regional time zone used for scheduling. Hamilton is located in Canada. This page keeps the local reference specific to Hamilton while the teaching service remains online-first."
+local_context: "Hamilton is in the North America scheduling region. Hamilton is located in Canada. Local goals: For Hamilton, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Hamilton: ask Barbara about Hamilton pronunciation, Hamilton listening, Hamilton conversation, and Hamilton travel vocabulary goals."
 scheduling: "Scheduling from Hamilton: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Hamilton: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

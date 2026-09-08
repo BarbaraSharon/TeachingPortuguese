@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Clube de conversação em português brasileiro"
 description: "Pratique conversação em português brasileiro com Barbara Sharon em um clube acolhedor que incentiva a fala, a escuta e a comunicação natural."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-speaking-club/portuguese-speaking-club-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -13,8 +13,12 @@ categories:
 service:
   service_type: Clube de conversação em português brasileiro
   delivery: Online ou presencial na Gold Coast, conforme a disponibilidade
+  delivery_modes: [online, in_person]
   audience: Alunos de português iniciantes, intermediários e avançados que desejam praticar conversação
 ---
+
+<p class="service-credentials">Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.</p>
+
 
 ## Clube de Conversação em Português - Desenvolva fluência e confiança
 

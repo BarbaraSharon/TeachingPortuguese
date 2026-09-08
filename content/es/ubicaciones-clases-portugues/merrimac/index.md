@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Merrimac: Presenciales y Online"
 description: "Clases de portugués brasileño en Merrimac, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/merrimac/merrimac-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Merrimac: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Merrimac con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Merrimac forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Merrimac está situada en Australia. Esta página mantiene la referencia local específica de Merrimac, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Merrimac forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Merrimac está situada en Australia. Local goals: En Merrimac, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Merrimac, define Merrimac viajes; practica Merrimac trabajo; explora Merrimac familia; mejora Merrimac pronunciación; confirma Merrimac horario."
 scheduling: "Horarios para Merrimac: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Merrimac: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -64,8 +64,8 @@ Barbara Sharon ofrece opciones flexibles para aprender portugués, incluidas cla
 
 Puedes elegir sesiones particulares o grupales según tus necesidades y preferencias. Para una experiencia más inmersiva, también hay clubes de conversación. Aprende portugués en Merrimac con una profesora profesional que ofrece enseñanza individual y grupal. Tanto si prefieres una profesora de portugués en línea como clases presenciales cerca de Merrimac, Barbara adapta su enfoque a tu horario y forma de aprender.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Merrimac? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque docente puede ayudarte a alcanzar tus objetivos lingüísticos. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañar tu recorrido.
+¿Te interesa aprender portugués en Merrimac? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque docente puede ayudarte a alcanzar tus objetivos lingüísticos. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañar tu recorrido.
 
 Para conocer más sobre los servicios, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/).

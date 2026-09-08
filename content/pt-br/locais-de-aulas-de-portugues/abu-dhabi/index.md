@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Abu Dhabi"
 description: "Aulas online de português brasileiro em Abu Dhabi, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/abu-dhabi/abu-dhabi-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Abu Dhabi | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Abu Dhabi. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Abu Dhabi faz parte do fuso horário regional de Asia usado para organizar horários. Abu Dhabi fica em United Arab Emirates. Esta página mantém a referência local específica de Abu Dhabi, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Abu Dhabi faz parte da região de Asia usada como referência para organizar horários. Abu Dhabi fica em United Arab Emirates. Local goals: Quem aprende em Abu Dhabi pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Abu Dhabi, defina Abu Dhabi viagens; pratique Abu Dhabi carreira; explore Abu Dhabi família; melhore Abu Dhabi pronúncia; treine Abu Dhabi conversa; confirme Abu Dhabi horário."
 scheduling: "Horários para Abu Dhabi: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Dubai; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Abu Dhabi: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,6 +61,6 @@ De aulas de português brasileiro a aulas especializadas de conversação, a abo
 
 ## Comece hoje sua jornada no português em Abu Dhabi
 
-Pronto para começar a aprender português em Abu Dhabi? Aproveite uma aulas de português com Barbara Sharon e descubra como pode ser fácil ganhar confiança para falar, ouvir, ler e escrever em português. Entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão ou fazer perguntas sobre seus serviços de tutoria de português online.
+Pronto para começar a aprender português em Abu Dhabi? Aproveite uma aula de português com Barbara Sharon e descubra como pode ser fácil ganhar confiança para falar, ouvir, ler e escrever em português. Entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão ou fazer perguntas sobre seus serviços de tutoria de português online.
 
 "Aprender é um caminho, não um destino." - Aprender é uma jornada, não um destino.

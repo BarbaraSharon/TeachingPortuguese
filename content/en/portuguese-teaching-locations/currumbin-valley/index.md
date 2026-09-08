@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Currumbin Valley with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Currumbin Valley is grouped in the Gold Coast regional time zone used for scheduling. Currumbin Valley is located in Australia. This page keeps the local reference specific to Currumbin Valley while the teaching service remains online-first."
+local_context: "Currumbin Valley is in the Gold Coast scheduling region. Currumbin Valley is located in Australia. Local goals: Learners in Currumbin Valley can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Currumbin Valley: ask Barbara about Currumbin Valley pronunciation, Currumbin Valley listening, Currumbin Valley conversation, and Currumbin Valley travel vocabulary goals."
 scheduling: "Scheduling from Currumbin Valley: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Currumbin Valley: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

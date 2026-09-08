@@ -106,8 +106,8 @@ const pageNodes = renderedPages.map(({ file, html }) => ({
 }));
 const countType = (type) => pageNodes.flatMap((page) => page.nodes).filter((node) => hasType(node, type)).length;
 
-assert.equal(countType('Article'), 102, 'Expected 102 rendered Article nodes.');
-assert.equal(countType('Course'), 27, 'Expected twelve page Course nodes plus fifteen homepage review Course nodes.');
+assert.equal(countType('Article'), 105, 'Expected 105 rendered Article nodes.');
+assert.equal(countType('Course'), 21, 'Expected six page Course nodes plus fifteen homepage review Course nodes.');
 assert.equal(countType('FAQPage'), 39, 'Expected thirty-nine rendered FAQPage nodes.');
 assert.equal(countType('WebPage'), 93, 'Expected 93 rendered answer WebPage nodes.');
 assert.equal(countType('ProfilePage'), 3, 'Expected one localized ProfilePage node per language.');
@@ -154,6 +154,7 @@ for (const page of pageNodes) {
 const authorProfiles = [
   {
     language: 'en',
+    indexedAbout: '/en/about-learning-portuguese/',
     route: '/en/about-barbara-sharon/',
     hreflang: 'en-au',
     inLanguage: 'en-AU',
@@ -169,6 +170,7 @@ const authorProfiles = [
   },
   {
     language: 'es',
+    indexedAbout: '/es/sobre-aprender-portugues/',
     route: '/es/sobre-barbara-sharon/',
     hreflang: 'es',
     inLanguage: 'es',
@@ -184,6 +186,7 @@ const authorProfiles = [
   },
   {
     language: 'pt-br',
+    indexedAbout: '/pt-br/sobre-aprendizagem-portuguesa/',
     route: '/pt-br/sobre-barbara-sharon/',
     hreflang: 'pt-BR',
     inLanguage: 'pt-BR',
@@ -234,7 +237,7 @@ for (const profile of authorProfiles) {
   assert.ok(profilePage.dateCreated, `${outputPath}: ProfilePage dateCreated is missing.`);
   assert.ok(profilePage.dateModified, `${outputPath}: ProfilePage dateModified is missing.`);
   assert.ok(person, `${outputPath}: Barbara's Person node is missing.`);
-  assert.equal(person.url, canonical, `${outputPath}: Person URL is incorrect.`);
+  assert.equal(person.url, `${origin}${profile.indexedAbout}`, `${outputPath}: Person URL is incorrect.`);
   assert.equal(person.jobTitle, profile.jobTitle, `${outputPath}: Person job title is not localized.`);
   assert.equal(person.image, authorImage, `${outputPath}: Person image is incorrect.`);
   assert.deepEqual(person.sameAs, authorSameAs, `${outputPath}: Person sameAs profiles changed.`);

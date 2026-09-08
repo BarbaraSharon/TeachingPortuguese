@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Mumbai"
 description: "Aulas online de português brasileiro em Mumbai, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/mumbai/mumbai-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Mumbai | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Mumbai. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Mumbai faz parte do fuso horário regional de Asia usado para organizar horários. Mumbai fica em India. Esta página mantém a referência local específica de Mumbai, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Mumbai faz parte da região de Asia usada como referência para organizar horários. Mumbai fica em India. Local goals: Estudar português em Mumbai pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Mumbai, defina Mumbai viagens; pratique Mumbai carreira; explore Mumbai família; melhore Mumbai pronúncia; treine Mumbai conversa; confirme Mumbai horário."
 scheduling: "Horários para Mumbai: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Kolkata; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mumbai: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -66,8 +66,8 @@ Estudantes em Mumbai podem aproveitar horários flexíveis e métodos interativo
 
 Utilizamos ferramentas multimídia e materiais personalizados, adaptados aos seus interesses e objetivos de aprendizagem. Quer você esteja procurando uma tutora de português brasileiro em Mumbai ou aulas de conversação em português perto de Mumbai, nossa plataforma apoia estudantes de todos os níveis. Com a experiência de Barbara Sharon, estudantes podem acessar sessões de tutoria particular de português em Mumbai ou participar de aulas em grupo para prática colaborativa.
 
-## Entre em contato para sua aulas de português
+## Entre em contato para suas aulas de português
 
-Você está pronto para começar a aprender português em Mumbai? Agende uma aulas de português com Barbara Sharon e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja novo no português ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Você está pronto para começar a aprender português em Mumbai? Agende uma aula de português com Barbara Sharon e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja novo no português ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Saiba mais sobre nossos serviços visitando a página de [aulas de português](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/) para perguntas sobre aulas de português brasileiro em Mumbai, tutoria particular de português em Mumbai ou tutoria de português online em Mumbai.

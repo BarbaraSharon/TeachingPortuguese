@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Burleigh Heads: Presenciales y Online"
 description: "Clases de portugués en Burleigh Heads: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/burleigh-heads/burleigh-heads-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Burleigh Heads: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Burleigh Heads con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Burleigh Heads forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Burleigh Heads está situada en Australia. Esta página mantiene la referencia local específica de Burleigh Heads, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Burleigh Heads forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Burleigh Heads está situada en Australia. Local goals: Las personas de Burleigh Heads pueden empezar con diálogos de viaje y después practicar trabajo y familia; el horario de Burleigh Heads se confirma antes de la matrícula. Local focus: En Burleigh Heads, define Burleigh Heads viajes; practica Burleigh Heads trabajo; explora Burleigh Heads familia; mejora Burleigh Heads pronunciación; confirma Burleigh Heads horario."
 scheduling: "Horarios para Burleigh Heads: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Burleigh Heads: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Para mayor comodidad, los servicios de profesora de portugués en línea están 
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Estás lista o listo para empezar o mejorar tu portugués en Burleigh Heads? Barbara Sharon ofrece una clases de portugués para que conozcas su manera de enseñar. Tanto si te interesan las clases de portugués brasileño, la conversación o encontrar una profesora de portugués de confianza cerca de ti, está aquí para guiarte en tu recorrido lingüístico.
+¿Estás lista o listo para empezar o mejorar tu portugués en Burleigh Heads? Barbara Sharon ofrece una clase de portugués para que conozcas su manera de enseñar. Tanto si te interesan las clases de portugués brasileño, la conversación o encontrar una profesora de portugués de confianza cerca de ti, está aquí para guiarte en tu recorrido lingüístico.

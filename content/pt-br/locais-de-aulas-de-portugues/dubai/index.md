@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Dubai"
 description: "Aulas online de português brasileiro em Dubai, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/dubai/dubai-portuguese-lesson.png
   alt_text: Aprenda português em Dubai | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Dubai"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Dubai. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Dubai faz parte do fuso horário regional de Asia usado para organizar horários. Dubai fica em United Arab Emirates. Esta página mantém a referência local específica de Dubai, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Dubai faz parte da região de Asia usada como referência para organizar horários. Dubai fica em United Arab Emirates. Local goals: Alunos de Dubai podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Dubai, defina Dubai viagens; pratique Dubai carreira; explore Dubai família; melhore Dubai pronúncia; treine Dubai conversa; confirme Dubai horário."
 scheduling: "Horários para Dubai: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Dubai; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Dubai: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,4 +59,4 @@ Barbara Sharon oferece aulas de português em Dubai tanto individuais quanto em 
 
 ## Comece hoje sua jornada no português
 
-Tem interesse em aprender português em Dubai? Entre em contato com Barbara Sharon para uma aulas de português e comece hoje sua jornada no idioma! Quer você procure uma professora de português brasileiro em Dubai ou uma professora de português online, ela oferece ensino de alta qualidade adaptado às suas necessidades. Descubra como as aulas de português em Dubai podem ajudar você a se conectar com a rica cultura e as oportunidades globais do mundo lusófono.
+Tem interesse em aprender português em Dubai? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma! Quer você procure uma professora de português brasileiro em Dubai ou uma professora de português online, ela oferece ensino de alta qualidade adaptado às suas necessidades. Descubra como as aulas de português em Dubai podem ajudar você a se conectar com a rica cultura e as oportunidades globais do mundo lusófono.

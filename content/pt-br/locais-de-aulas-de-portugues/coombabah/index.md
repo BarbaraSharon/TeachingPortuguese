@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Coombabah: Presenciais e Online"
 description: "Aulas de português brasileiro em Coombabah, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/coombabah/coombabah-location-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Coombabah: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Coombabah com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Coombabah faz parte do fuso horário regional de Gold Coast usado para organizar horários. Coombabah fica em Australia. Esta página mantém a referência local específica de Coombabah, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Coombabah faz parte da região de Gold Coast usada como referência para organizar horários. Coombabah fica em Australia. Local goals: Em Coombabah, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Coombabah, defina Coombabah viagens; pratique Coombabah carreira; explore Coombabah família; melhore Coombabah pronúncia; treine Coombabah conversa; confirme Coombabah horário."
 scheduling: "Horários para Coombabah: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Coombabah: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ As aulas particulares oferecem orientação individual adaptada aos seus objetiv
 
 ## Comece hoje sua jornada no português
 
-Pronto para começar a aprender português em Coombabah? Agende uma aulas de português com Barbara Sharon e descubra como nossas aulas de português podem abrir portas para novas oportunidades. Explore nossas [aulas](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
+Pronto para começar a aprender português em Coombabah? Agende uma aula de português com Barbara Sharon e descubra como nossas aulas de português podem abrir portas para novas oportunidades. Explore nossas [aulas](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).

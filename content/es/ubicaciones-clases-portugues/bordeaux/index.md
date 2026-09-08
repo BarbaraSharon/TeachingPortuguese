@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Bordeaux"
 description: "Clases online de portugués brasileño en Bordeaux, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/bordeaux/bordeaux-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en línea con Barbara Sharon - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Bordeaux. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Bordeaux forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Bordeaux está situada en France. Esta página mantiene la referencia local específica de Bordeaux, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Bordeaux forma parte de la región de Europe utilizada como referencia para organizar horarios. Bordeaux está situada en France. Local goals: En Bordeaux, convierte situaciones de viaje, trabajo y familia en objetivos de portugués y acuerda un horario con Barbara. Local focus: En Bordeaux, define Bordeaux viajes; practica Bordeaux trabajo; explora Bordeaux familia; mejora Bordeaux pronunciación; confirma Bordeaux horario."
 scheduling: "Horarios para Bordeaux: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Paris; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Bordeaux: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -55,4 +55,4 @@ Tanto si buscas clases de portugués brasileño como clases de conversación en 
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Te interesa aprender portugués en Bordeaux? Contacta con Barbara Sharon para una clases de portugués y empieza hoy tu recorrido. Tanto si buscas clases de portugués para principiantes como clases avanzadas de conversación, sus sesiones en línea proporcionan apoyo a medida. Como tutora de portugués en línea con experiencia en Bordeaux, ayuda al alumnado a alcanzar sus objetivos lingüísticos mediante enseñanza personalizada.
+¿Te interesa aprender portugués en Bordeaux? Contacta con Barbara Sharon para una clase de portugués y empieza hoy tu recorrido. Tanto si buscas clases de portugués para principiantes como clases avanzadas de conversación, sus sesiones en línea proporcionan apoyo a medida. Como tutora de portugués en línea con experiencia en Bordeaux, ayuda al alumnado a alcanzar sus objetivos lingüísticos mediante enseñanza personalizada.

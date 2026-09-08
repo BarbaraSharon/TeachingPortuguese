@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Gothenburg. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Gothenburg is grouped in the Europe regional time zone used for scheduling. Gothenburg is located in Sweden. This page keeps the local reference specific to Gothenburg while the teaching service remains online-first."
+local_context: "Gothenburg is in the Europe scheduling region. Gothenburg is located in Sweden. Local goals: Learners in Gothenburg can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Gothenburg: ask Barbara about Gothenburg pronunciation, Gothenburg listening, Gothenburg conversation, and Gothenburg travel vocabulary goals."
 scheduling: "Scheduling from Gothenburg: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Stockholm; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Gothenburg: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

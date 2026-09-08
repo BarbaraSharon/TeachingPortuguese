@@ -89,6 +89,12 @@
   translation: "Here are some pages you may find helpful:"
 - id: user_profile_latest
   translation: Latest
+
+- id: price_free
+  translation: FREE
+
+- id: pricing_book_options_apply
+  translation: Book options and editions also apply to this group course and will be confirmed before enrolment.
 - id: published_with
   translation: "Published with {hugoblox}"
 - id: poweredby_button
@@ -264,3 +270,35 @@
   translation: Email Barbara
 - id: author_whatsapp_label
   translation: Chat with Barbara on WhatsApp
+- id: enquiry_fallback_instruction
+  translation: When you contact Barbara, mention your selected lesson package and availability.
+- id: enquiry_offer_term_10_week_1_hour
+  translation: 1-hour group course, 10-week term
+- id: enquiry_offer_term_10_week_1_5_hour
+  translation: 1.5-hour group course, 10-week term
+- id: enquiry_offer_private_4_lesson_package
+  translation: 4-lesson private package
+- id: enquiry_offer_private_casual_lesson
+  translation: Casual private lesson
+- id: enquiry_offer_speaking_club
+  translation: Portuguese speaking club
+- id: enquiry_online_instruction
+  translation: Please share your level, goal, private or group preference, time zone and availability.
+- id: enquiry_gold_coast_group_instruction
+  translation: Please share your level, adult or child preference, suburb and availability.
+- id: enquiry_gold_coast_private_instruction
+  translation: Please share your level, goals, suburb and availability.
+- id: enquiry_group_instruction
+  translation: Please share your level, adult or child preference, delivery preference and availability.
+- id: enquiry_private_instruction
+  translation: Please share your level, goals, delivery preference and availability.
+- id: enquiry_speaking_club_instruction
+  translation: Please share your current level and availability for the speaking club.
+- id: enquiry_unspecified_instruction
+  translation: Please mention your preferred lesson format, goals and availability.
+- id: enquiry_selected_prefix
+  translation: "Selected package:"
+- id: enquiry_greeting
+  translation: Hi Barbara,
+- id: enquiry_email_subject
+  translation: "Portuguese lesson enquiry"

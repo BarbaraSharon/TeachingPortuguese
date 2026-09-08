@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-08-27
+lastmod: 2026-09-08
 video_publication_date: 2024-01-15T00:00:00+00:00
 translationKey: home
 title: "Brazilian Portuguese Lessons with Barbara Sharon"
@@ -174,8 +174,6 @@ sections:
       rating: 5
       best_rating: 5
       review_date: 2022-05-10
-      course_id: portuguese-lessons
-      course_name: Portuguese Lessons
       source: email
       source_label: Submitted by email
       text: Having attended to Barbara's classes and seen her interacting with her peers and students, it was clear she was
@@ -238,12 +236,12 @@ sections:
     - id: term_10_week
       title: 10-week group term
       price_prefix: from
-      text: From A$290 per student. Contact Barbara to confirm the next group and availability.
+      text: The current starting price is shown below. Contact Barbara to confirm the next group and availability.
       url: /en/contact-portuguese-teacher/
     - id: private_4_week
       title: Private 4-week package
       price_prefix: from
-      text: From A$260. Contact Barbara to discuss the right private option for your goals.
+      text: The current starting price is shown below. Contact Barbara to discuss the right private option for your goals.
       url: /en/contact-portuguese-teacher/
     action_text: Ask about availability
     currency_note: All prices are in Australian dollars. Contact Barbara to confirm the applicable package and availability.

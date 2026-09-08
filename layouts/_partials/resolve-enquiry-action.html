@@ -1,0 +1,39 @@
+{{- $action := .action | default dict -}}
+{{- $page := .page -}}
+{{- $offerID := .offer_id | default "" -}}
+{{- $intent := .intent | default "" -}}
+{{- $path := "" -}}
+{{- with $page }}{{ $path = lower .RelPermalink }}{{ end -}}
+{{- with index $action "url" }}{{ $path = printf "%s %s" $path (lower (printf "%v" .)) }}{{ end -}}
+{{- if not $intent -}}
+  {{- if in $path "online" -}}
+    {{- $intent = "online" -}}
+  {{- else if or (in $path "school") (in $path "group") (in $path "escola") (in $path "escuela") -}}
+    {{- $intent = "gold_coast_group" -}}
+  {{- else if or (in $path "tutoring") (in $path "private") (in $path "particular") (in $path "particulares") -}}
+    {{- $intent = "gold_coast_private" -}}
+  {{- else if hasPrefix $offerID "term_" -}}
+    {{- $intent = "group" -}}
+  {{- else if hasPrefix $offerID "private_" -}}
+    {{- $intent = "private" -}}
+  {{- else if hasPrefix $offerID "speaking_club" -}}
+    {{- $intent = "speaking_club" -}}
+  {{- else -}}
+    {{- $intent = "unspecified" -}}
+  {{- end -}}
+{{- end -}}
+{{- $allowed := slice "online" "gold_coast_group" "gold_coast_private" "group" "private" "speaking_club" "unspecified" -}}
+{{- if and $offerID (not (index site.Data.lesson_pricing.offers $offerID)) -}}
+  {{- errorf "Unknown enquiry offer ID %q" $offerID -}}
+{{- end -}}
+{{- if not (in $allowed $intent) -}}
+  {{- errorf "Unknown enquiry intent %q for offer %q" $intent $offerID -}}
+{{- end -}}
+{{- $resolved := merge $action (dict "enquiry" (dict "intent" $intent "offer_id" $offerID) "lesson_format" $intent) -}}
+{{- $url := index $resolved "url" | default "" -}}
+{{- if and $url (or (hasPrefix $url "/") (hasPrefix $url "#")) -}}
+  {{- $fragment := printf "#enquiry-%s" $intent -}}
+  {{- if $offerID }}{{ $fragment = printf "%s-%s" $fragment $offerID }}{{ end -}}
+  {{- if not (strings.Contains $url "#") }}{{ $resolved = merge $resolved (dict "url" (printf "%s%s" $url $fragment)) }}{{ end -}}
+{{- end -}}
+{{- return $resolved -}}

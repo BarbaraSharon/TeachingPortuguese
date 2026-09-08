@@ -59,7 +59,7 @@ function ActionButton({action, defaultStyle, iconSvg}) {
   const showTextArrow = styleKey === "text" && !iconSvg;
 
   return (
-    <a href={url.href} {...(url.target && {target: url.target, rel: url.rel})} class={`inline-flex items-center gap-2 ${cls}`}>
+    <a href={url.href} {...(url.target && {target: url.target, rel: url.rel})} {...(action.enquiry?.intent && {"data-enquiry-intent": action.enquiry.intent})} {...(action.enquiry?.offer_id && {"data-enquiry-offer": action.enquiry.offer_id})} {...(action.lesson_format && {"data-lesson-format": action.lesson_format})} class={`inline-flex items-center gap-2 ${cls}`}>
       <span dangerouslySetInnerHTML={{__html: renderText(action.text)}} />
       {iconSvg && (
         <span class="inline-flex">

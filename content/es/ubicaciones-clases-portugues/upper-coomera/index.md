@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Upper Coomera"
 description: "Clases online de portugués brasileño en Upper Coomera, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/upper-coomera/upper-coomera-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Upper Coomera. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Upper Coomera forma parte de la zona horaria regional de Australia & New Zealand que se utiliza para organizar horarios. Upper Coomera está situada en Australia. Esta página mantiene la referencia local específica de Upper Coomera, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Upper Coomera forma parte de la región de Australia & New Zealand utilizada como referencia para organizar horarios. Upper Coomera está situada en Australia. Local goals: Barbara adapta las clases para Upper Coomera a objetivos de viaje, trabajo o familia; la disponibilidad en Upper Coomera se comprueba antes de reservar. Local focus: En Upper Coomera, define Upper Coomera viajes; practica Upper Coomera trabajo; explora Upper Coomera familia; mejora Upper Coomera pronunciación; confirma Upper Coomera horario."
 scheduling: "Horarios para Upper Coomera: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Upper Coomera: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

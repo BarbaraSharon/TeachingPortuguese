@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Reedy Creek"
 description: "Aulas online de português brasileiro em Reedy Creek, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/reedy-creek/reedy-creek-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Reedy Creek. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Reedy Creek faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Reedy Creek fica em Australia. Esta página mantém a referência local específica de Reedy Creek, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Reedy Creek faz parte da região de Australia & New Zealand usada como referência para organizar horários. Reedy Creek fica em Australia. Local goals: Em Reedy Creek, traga exemplos de mensagens familiares ou reuniões de trabalho; Barbara confirma como esses objetivos entram no plano. Local focus: Em Reedy Creek, defina Reedy Creek viagens; pratique Reedy Creek carreira; explore Reedy Creek família; melhore Reedy Creek pronúncia; treine Reedy Creek conversa; confirme Reedy Creek horário."
 scheduling: "Horários para Reedy Creek: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Reedy Creek: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Seville"
 description: "Aulas online de português brasileiro em Seville, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/seville/seville-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Seville. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Seville faz parte do fuso horário regional de Europe usado para organizar horários. Seville fica em Spain. Esta página mantém a referência local específica de Seville, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Seville faz parte da região de Europe usada como referência para organizar horários. Seville fica em Spain. Local goals: Para Seville, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Seville, defina Seville viagens; pratique Seville carreira; explore Seville família; melhore Seville pronúncia; treine Seville conversa; confirme Seville horário."
 scheduling: "Horários para Seville: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Madrid; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Seville: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

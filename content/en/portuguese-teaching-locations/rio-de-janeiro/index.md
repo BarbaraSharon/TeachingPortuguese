@@ -18,7 +18,7 @@ region_group: "South America"
 time_zone: "America/Sao_Paulo"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Rio De Janeiro. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Rio De Janeiro is grouped in the South America regional time zone used for scheduling. Rio De Janeiro is located in Brazil. This page keeps the local reference specific to Rio De Janeiro while the teaching service remains online-first."
+local_context: "Rio De Janeiro is in the South America scheduling region. Rio De Janeiro is located in Brazil. Local goals: Portuguese study in Rio De Janeiro can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Rio De Janeiro: ask Barbara about Rio De Janeiro pronunciation, Rio De Janeiro listening, Rio De Janeiro conversation, and Rio De Janeiro travel vocabulary goals."
 scheduling: "Scheduling from Rio De Janeiro: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Sao_Paulo; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Rio De Janeiro: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

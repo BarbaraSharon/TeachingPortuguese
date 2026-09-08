@@ -3,7 +3,7 @@ translationKey: portugues-para-criancas
 title: "Aulas de português para crianças em grupo"
 description: "Crianças na Gold Coast podem aprender português brasileiro em aulas presenciais de grupo, com conversação e atividades adequadas à idade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-for-children/portuguese-for-children-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Aulas presenciais de português brasileiro em grupo para crianças
   delivery: Gold Coast, Austrália
+  delivery_modes: [in_person]
   audience: Crianças; somente aulas em grupo
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Português para crianças · Gold Coast
     title: Ajude as crianças a desenvolver confiança em português em grupo
     text: As aulas de português para crianças são presenciais e realizadas em grupo na Gold Coast. A aprendizagem utiliza conversação e atividades envolventes, com conteúdo adequado ao grupo.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Pergunte sobre os grupos infantis
       url: /pt-br/contato-professora-portugues/

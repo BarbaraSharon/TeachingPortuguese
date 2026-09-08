@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Geneva. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Geneva is grouped in the Europe regional time zone used for scheduling. Geneva is located in Switzerland. This page keeps the local reference specific to Geneva while the teaching service remains online-first."
+local_context: "Geneva is in the Europe scheduling region. Geneva is located in Switzerland. Local goals: For Geneva, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Geneva: ask Barbara about Geneva pronunciation, Geneva listening, Geneva conversation, and Geneva travel vocabulary goals."
 scheduling: "Scheduling from Geneva: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Geneva: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Madrid"
 description: "Aulas online de português brasileiro em Madrid, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/madrid/madrid-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Madri | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Madrid. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Madrid faz parte do fuso horário regional de Europe usado para organizar horários. Madrid fica em Spain. Esta página mantém a referência local específica de Madrid, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Madrid faz parte da região de Europe usada como referência para organizar horários. Madrid fica em Spain. Local goals: Estudar português em Madrid pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Madrid, defina Madrid viagens; pratique Madrid carreira; explore Madrid família; melhore Madrid pronúncia; treine Madrid conversa; confirme Madrid horário."
 scheduling: "Horários para Madrid: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Madrid; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Madrid: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -64,10 +64,10 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Nossas aulas online utilizam ferramentas interativas e recursos multimídia para tornar o aprendizado envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem. Se você procura uma [tutora de português brasileiro em Madri](/pt-br/aulas-de-portugues/) ou uma professora geral de português em Madri, nossa abordagem se adapta às suas necessidades.
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Madri? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
+Tem interesse em aprender português em Madri? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Para mais informações sobre [aulas de português em Madri](/pt-br/aulas-de-portugues/), [entre em contato com Barbara Sharon](/pt-br/contato-professora-portugues/) hoje e comece sua aventura de aprendizagem com uma experiência personalizada para estudantes em Madri.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

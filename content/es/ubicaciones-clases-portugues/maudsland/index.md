@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Maudsland: Presenciales y Online"
 description: "Clases de portugués brasileño en Maudsland, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/maudsland/maudsland-brazilian-portuguese-tutor.png
   alt_text: "Clases de portugués brasileño en Maudsland: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Maudsland con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Maudsland forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Maudsland está situada en Australia. Esta página mantiene la referencia local específica de Maudsland, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Maudsland forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Maudsland está situada en Australia. Local goals: Barbara adapta las clases para Maudsland a objetivos de viaje, trabajo o familia; la disponibilidad en Maudsland se comprueba antes de reservar. Local focus: En Maudsland, define Maudsland viajes; practica Maudsland trabajo; explora Maudsland familia; mejora Maudsland pronunciación; confirma Maudsland horario."
 scheduling: "Horarios para Maudsland: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Maudsland: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -66,6 +66,6 @@ El alumnado de Maudsland puede beneficiarse de horarios flexibles y métodos de 
 
 Las clases en línea utilizan herramientas interactivas y recursos multimedia. Recibirás materiales adaptados a tus intereses y objetivos. Tanto si empiezas como si aspiras a la fluidez, el enfoque garantiza una experiencia personalizada y dinámica. Explora las [clases de portugués cerca de Maudsland](/es/servicios-clases-portugues/) o encuentra una [profesora de portugués cerca de ti](/es/contacto-profesora-portugues/) mediante los servicios.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Maudsland? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte. Aprende con una [profesora de portugués cualificada](/es/contacto-profesora-portugues/) o consulta las [clases de portugués disponibles](/es/servicios-clases-portugues/).
+¿Te interesa aprender portugués en Maudsland? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres principiante absoluto como si deseas avanzar, está aquí para acompañarte. Aprende con una [profesora de portugués cualificada](/es/contacto-profesora-portugues/) o consulta las [clases de portugués disponibles](/es/servicios-clases-portugues/).

@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Aulas de português avançado para progredir"
 description: "Aperfeiçoe o português brasileiro avançado com conversação, pronúncia, gramática, vocabulário e nuances culturais adaptados aos seus objetivos."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Aulas avançadas de português brasileiro
   delivery: Online para todo o mundo; presenciais na Gold Coast
+  delivery_modes: [online, in_person]
   audience: Alunos adultos avançados
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Português avançado
     title: Aulas de português avançado com Barbara Sharon
     text: Desenvolva uma conversação avançada mais confiante com trabalho direcionado em pronúncia, gramática complexa, vocabulário, escuta e nuances culturais. Escolha entre as opções disponíveis de aulas particulares, em grupo, online ou na Gold Coast.
+    trust:
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Pergunte sobre aulas avançadas
       url: /pt-br/contato-professora-portugues/

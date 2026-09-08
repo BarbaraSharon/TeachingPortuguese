@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Kingscliff: Presenciais e Online"
 description: "Aulas de português brasileiro em Kingscliff, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/kingscliff/kingscliff-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Kingscliff: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Kingscliff com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Kingscliff faz parte do fuso horário regional de Gold Coast usado para organizar horários. Kingscliff fica em Australia. Esta página mantém a referência local específica de Kingscliff, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Kingscliff faz parte da região de Gold Coast usada como referência para organizar horários. Kingscliff fica em Australia. Local goals: Para Kingscliff, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Kingscliff, defina Kingscliff viagens; pratique Kingscliff carreira; explore Kingscliff família; melhore Kingscliff pronúncia; treine Kingscliff conversa; confirme Kingscliff horário."
 scheduling: "Horários para Kingscliff: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kingscliff: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -67,8 +67,8 @@ Suas aulas têm foco em habilidades práticas de conversação, contexto cultura
 
 ## Comece hoje sua jornada no português - aulas de português
 
-Está pronto para iniciar sua jornada no português? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode apoiar sua jornada linguística. Quer você seja iniciante completo ou queira avançar suas habilidades, ela oferece ensino personalizado para ajudar você a ter sucesso.
+Está pronto para iniciar sua jornada no português? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode apoiar sua jornada linguística. Quer você seja iniciante completo ou queira avançar suas habilidades, ela oferece ensino personalizado para ajudar você a ter sucesso.
 
 Para saber mais sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/).
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

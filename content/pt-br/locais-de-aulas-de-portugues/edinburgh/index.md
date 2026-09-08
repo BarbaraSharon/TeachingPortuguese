@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Edinburgh"
 description: "Aulas online de português brasileiro em Edinburgh, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/edinburgh/edinburgh-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Edinburgh | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Edinburgh. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Edinburgh faz parte do fuso horário regional de Europe usado para organizar horários. Edinburgh fica em United Kingdom. Esta página mantém a referência local específica de Edinburgh, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Edinburgh faz parte da região de Europe usada como referência para organizar horários. Edinburgh fica em United Kingdom. Local goals: Quem estuda em Edinburgh pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Edinburgh é confirmado antes da matrícula. Local focus: Em Edinburgh, defina Edinburgh viagens; pratique Edinburgh carreira; explore Edinburgh família; melhore Edinburgh pronúncia; treine Edinburgh conversa; confirme Edinburgh horário."
 scheduling: "Horários para Edinburgh: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Edinburgh: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Como professora dedicada de português em Edinburgh, Barbara garante que cada se
 
 ## Comece hoje sua jornada no português
 
-Está pronto para começar a aprender português em Edinburgh? Entre em contato com Barbara Sharon para uma aulas de português e inicie sua jornada rumo ao domínio do português brasileiro. Quer você tenha interesse em aulas de conversação, aulas para iniciantes ou ensino avançado, ela oferece horários flexíveis e apoio personalizado para ajudar você a alcançar seus objetivos linguísticos.
+Está pronto para começar a aprender português em Edinburgh? Entre em contato com Barbara Sharon para uma aula de português e inicie sua jornada rumo ao domínio do português brasileiro. Quer você tenha interesse em aulas de conversação, aulas para iniciantes ou ensino avançado, ela oferece horários flexíveis e apoio personalizado para ajudar você a alcançar seus objetivos linguísticos.

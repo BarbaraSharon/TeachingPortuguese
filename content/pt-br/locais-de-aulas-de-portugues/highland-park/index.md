@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Highland Park: Presenciais e Online"
 description: "Aulas de português brasileiro em Highland Park, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/highland-park/highland-park-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Highland Park: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Highland Park com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Highland Park faz parte do fuso horário regional de Gold Coast usado para organizar horários. Highland Park fica em Australia. Esta página mantém a referência local específica de Highland Park, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Highland Park faz parte da região de Gold Coast usada como referência para organizar horários. Highland Park fica em Australia. Local goals: Para Highland Park, Barbara pode organizar prática de aeroporto, trabalho ou família e confirmar o próximo horário disponível. Local focus: Em Highland Park, defina Highland Park viagens; pratique Highland Park carreira; explore Highland Park família; melhore Highland Park pronúncia; treine Highland Park conversa; confirme Highland Park horário."
 scheduling: "Horários para Highland Park: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Highland Park: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,6 +55,6 @@ As aulas presenciais de português são realizadas em Surfers Paradise, o que é
 
 ## Comece hoje sua jornada no português
 
-Está pronto para começar a aprender português em Highland Park? Agende uma aulas de português com Barbara Sharon e descubra como é fácil começar a falar português brasileiro. Quer você queira aulas de português para iniciantes em Highland Park ou orientação avançada de conversação, sua abordagem personalizada ajuda você a alcançar seus objetivos.
+Está pronto para começar a aprender português em Highland Park? Agende uma aula de português com Barbara Sharon e descubra como é fácil começar a falar português brasileiro. Quer você queira aulas de português para iniciantes em Highland Park ou orientação avançada de conversação, sua abordagem personalizada ajuda você a alcançar seus objetivos.
 
 Para saber mais sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/). Encontre uma professora de português perto de você em Highland Park que possa conduzir você rumo à fluência e à compreensão cultural.

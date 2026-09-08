@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Leipzig. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Leipzig is grouped in the Europe regional time zone used for scheduling. Leipzig is located in Germany. This page keeps the local reference specific to Leipzig while the teaching service remains online-first."
+local_context: "Leipzig is in the Europe scheduling region. Leipzig is located in Germany. Local goals: For Leipzig, Barbara can organise airport, workplace, or family practice and confirm the next available time. Local focus: Reference for Leipzig: ask Barbara about Leipzig pronunciation, Leipzig listening, Leipzig conversation, and Leipzig travel vocabulary goals."
 scheduling: "Scheduling from Leipzig: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Berlin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Leipzig: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Brisbane. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Brisbane is grouped in the Australia & New Zealand regional time zone used for scheduling. Brisbane is located in Australia. This page keeps the local reference specific to Brisbane while the teaching service remains online-first."
+local_context: "Brisbane is in the Australia & New Zealand scheduling region. Brisbane is located in Australia. Local goals: In Brisbane, turn travel, work, and family situations into Portuguese goals and agree a time with Barbara. Local focus: Reference for Brisbane: ask Barbara about Brisbane pronunciation, Brisbane listening, Brisbane conversation, and Brisbane travel vocabulary goals."
 scheduling: "Scheduling from Brisbane: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Brisbane: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

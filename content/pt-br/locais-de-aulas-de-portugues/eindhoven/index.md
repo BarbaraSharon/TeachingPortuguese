@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Eindhoven"
 description: "Aulas online de português brasileiro em Eindhoven, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/eindhoven/eindhoven-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Eindhoven | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Eindhoven. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Eindhoven faz parte do fuso horário regional de Europe usado para organizar horários. Eindhoven fica em Netherlands. Esta página mantém a referência local específica de Eindhoven, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Eindhoven faz parte da região de Europe usada como referência para organizar horários. Eindhoven fica em Netherlands. Local goals: Em Eindhoven, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Eindhoven, defina Eindhoven viagens; pratique Eindhoven carreira; explore Eindhoven família; melhore Eindhoven pronúncia; treine Eindhoven conversa; confirme Eindhoven horário."
 scheduling: "Horários para Eindhoven: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Amsterdam; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Eindhoven: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,4 +57,4 @@ Barbara Sharon oferece aulas de português individuais e para pequenos grupos po
 
 ## Comece hoje sua jornada rumo à fluência
 
-Tem interesse em aprender português em Eindhoven? Barbara Sharon oferece aulas de português online tanto para iniciantes quanto para alunos avançados. Entre em contato hoje para agendar uma aulas de português e começar sua jornada rumo à fluência com uma professora nativa de português em Eindhoven.
+Tem interesse em aprender português em Eindhoven? Barbara Sharon oferece aulas de português online tanto para iniciantes quanto para alunos avançados. Entre em contato hoje para agendar uma aula de português e começar sua jornada rumo à fluência com uma professora nativa de português em Eindhoven.

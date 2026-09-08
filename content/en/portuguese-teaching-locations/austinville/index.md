@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Austinville with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Austinville is grouped in the Gold Coast regional time zone used for scheduling. Austinville is located in Australia. This page keeps the local reference specific to Austinville while the teaching service remains online-first."
+local_context: "Austinville is in the Gold Coast scheduling region. Austinville is located in Australia. Local goals: For Austinville, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Austinville: ask Barbara about Austinville pronunciation, Austinville listening, Austinville conversation, and Austinville travel vocabulary goals."
 scheduling: "Scheduling from Austinville: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Austinville: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

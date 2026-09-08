@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Gothenburg"
 description: "Clases online de portugués brasileño en Gothenburg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/gothenburg/gothenburg-portuguese-lesson.png
   alt_text: Aprende portugués en Gotemburgo | Clases de portugués brasileño - clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Stockholm"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Gothenburg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Gothenburg forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Gothenburg está situada en Sweden. Esta página mantiene la referencia local específica de Gothenburg, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Gothenburg forma parte de la región de Europe utilizada como referencia para organizar horarios. Gothenburg está situada en Sweden. Local goals: Quienes estudian en Gothenburg pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Gothenburg, define Gothenburg viajes; practica Gothenburg trabajo; explora Gothenburg familia; mejora Gothenburg pronunciación; confirma Gothenburg horario."
 scheduling: "Horarios para Gothenburg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Stockholm; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Gothenburg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -59,4 +59,4 @@ Barbara Sharon ofrece clases de portugués para Gotemburgo completamente en lín
 
 ## Empieza hoy tu recorrido con el portugués
 
-¿Te interesa aprender portugués en Gotemburgo? Contacta con Barbara Sharon para una clases de portugués y comienza hoy tu recorrido lingüístico. Puedes explorar más sobre sus servicios de enseñanza en la página de [servicios](/es/servicios-clases-portugues/) o contacta directamente mediante la sección de [contacto](/es/contacto-profesora-portugues/).
+¿Te interesa aprender portugués en Gotemburgo? Contacta con Barbara Sharon para una clase de portugués y comienza hoy tu recorrido lingüístico. Puedes explorar más sobre sus servicios de enseñanza en la página de [servicios](/es/servicios-clases-portugues/) o contacta directamente mediante la sección de [contacto](/es/contacto-profesora-portugues/).

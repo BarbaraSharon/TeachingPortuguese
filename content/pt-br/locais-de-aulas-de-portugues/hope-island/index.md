@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Hope Island: Presenciais e Online"
 description: "Aulas de português brasileiro em Hope Island, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/hope-island/hope-island-location-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Hope Island: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Hope Island com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Hope Island faz parte do fuso horário regional de Gold Coast usado para organizar horários. Hope Island fica em Australia. Esta página mantém a referência local específica de Hope Island, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Hope Island faz parte da região de Gold Coast usada como referência para organizar horários. Hope Island fica em Australia. Local goals: Em Hope Island, transforme situações de viagem, trabalho e família em metas de português e combine o horário com Barbara. Local focus: Em Hope Island, defina Hope Island viagens; pratique Hope Island carreira; explore Hope Island família; melhore Hope Island pronúncia; treine Hope Island conversa; confirme Hope Island horário."
 scheduling: "Horários para Hope Island: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Hope Island: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,6 +57,6 @@ As aulas presenciais de português estão disponíveis em Surfers Paradise para 
 
 ## Comece hoje sua jornada no português em Hope Island
 
-Está pronto para começar a aprender português em Hope Island? Entre em contato com Barbara Sharon para uma aulas de português e descubra como é fácil começar a falar português brasileiro com confiança. Se você tem interesse em uma professora de português brasileiro em Hope Island, aulas de conversação em português em Hope Island ou apenas quer explorar suas opções linguísticas, Barbara oferece ensino especializado, adaptado aos seus objetivos.
+Está pronto para começar a aprender português em Hope Island? Entre em contato com Barbara Sharon para uma aula de português e descubra como é fácil começar a falar português brasileiro com confiança. Se você tem interesse em uma professora de português brasileiro em Hope Island, aulas de conversação em português em Hope Island ou apenas quer explorar suas opções linguísticas, Barbara oferece ensino especializado, adaptado aos seus objetivos.
 
 Conheça nossos [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para começar sua jornada hoje. Fala português? (Você fala português?) Deixe Barbara ajudar você a descobrir a beleza e a riqueza deste lindo idioma!

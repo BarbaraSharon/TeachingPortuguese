@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Abbotsford. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Abbotsford is grouped in the North America regional time zone used for scheduling. Abbotsford is located in Canada. This page keeps the local reference specific to Abbotsford while the teaching service remains online-first."
+local_context: "Abbotsford is in the North America scheduling region. Abbotsford is located in Canada. Local goals: Learners in Abbotsford can start with travel dialogues, then practise work and family; the Abbotsford time is confirmed before enrolment. Local focus: Reference for Abbotsford: ask Barbara about Abbotsford pronunciation, Abbotsford listening, Abbotsford conversation, and Abbotsford travel vocabulary goals."
 scheduling: "Scheduling from Abbotsford: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Abbotsford: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

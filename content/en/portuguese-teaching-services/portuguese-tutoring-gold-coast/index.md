@@ -3,7 +3,7 @@ translationKey: aulas-particulares-portugues-gold-coast
 title: "Private Portuguese Lessons on the Gold Coast"
 description: "Choose private Brazilian Portuguese lessons online worldwide or on the Gold Coast, with focused support for your level, interests, and learning goals."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 aliases:
 - /portuguese-teaching-services/portuguese-tutoring-gold-coast/
@@ -16,7 +16,7 @@ categories:
 service:
   service_type: Private Brazilian Portuguese lessons online and in person
   delivery: Online worldwide; in person on the Gold Coast
-  delivery_modes: [online, in_person]
+  delivery_modes: [in_person]
   audience: Adult beginner, intermediate, and advanced learners; business and travel goals
   available_language: [pt-BR, en, es, it, fr]
 sections:
@@ -25,6 +25,8 @@ sections:
     eyebrow: Private lessons · online and Gold Coast
     title: Private Brazilian Portuguese Lessons Online and on the Gold Coast
     text: Build confidence with focused one-to-one Brazilian Portuguese lessons online worldwide or on the Gold Coast. Your level, pace, and goals guide every session.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about private lessons
       url: https://wa.me/61493837828?text=Hi%20Barbara%2C%20I%27m%20interested%20in%20private%20Brazilian%20Portuguese%20lessons.%20My%20level%20is%2C%20my%20goal%20is%2C%20and%20my%20preferred%20format%20is%2E

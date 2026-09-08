@@ -1,0 +1,10 @@
+{{- $matches := where .Site.RegularPages "Params.translationKey" "sobre-aprendizagem-portuguesa" -}}
+{{- if ne (len $matches) 1 -}}
+  {{- errorf "Expected exactly one indexed teacher page for %s; found %d" .Site.Language.Lang (len $matches) -}}
+{{- end -}}
+{{- $teacherPage := index $matches 0 -}}
+{{- $robots := lower (printf "%v" ($teacherPage.Params.robots | default "")) -}}
+{{- if or (not $teacherPage.RelPermalink) (strings.Contains $robots "noindex") -}}
+  {{- errorf "Teacher page for %s must be published, permalinked, and indexable" .Site.Language.Lang -}}
+{{- end -}}
+{{- return $teacherPage -}}

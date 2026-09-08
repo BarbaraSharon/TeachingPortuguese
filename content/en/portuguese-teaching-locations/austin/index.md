@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Austin. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Austin is grouped in the North America regional time zone used for scheduling. Austin is located in United States. This page keeps the local reference specific to Austin while the teaching service remains online-first."
+local_context: "Austin is in the North America scheduling region. Austin is located in United States. Local goals: For Austin, define travel goals; Barbara can also practise work and family situations before confirming a time. Local focus: Reference for Austin: ask Barbara about Austin pronunciation, Austin listening, Austin conversation, and Austin travel vocabulary goals."
 scheduling: "Scheduling from Austin: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Chicago; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Austin: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

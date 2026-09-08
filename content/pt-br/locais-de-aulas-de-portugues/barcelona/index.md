@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Barcelona"
 description: "Aulas online de português brasileiro em Barcelona, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/barcelona/barcelona-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Barcelona | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Barcelona. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Barcelona faz parte do fuso horário regional de Europe usado para organizar horários. Barcelona fica em Spain. Esta página mantém a referência local específica de Barcelona, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Barcelona faz parte da região de Europe usada como referência para organizar horários. Barcelona fica em Spain. Local goals: Estudar português em Barcelona pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Barcelona, defina Barcelona viagens; pratique Barcelona carreira; explore Barcelona família; melhore Barcelona pronúncia; treine Barcelona conversa; confirme Barcelona horário."
 scheduling: "Horários para Barcelona: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Madrid; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Barcelona: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -55,4 +55,4 @@ Quer você prefira ensino individual ou aprendizagem colaborativa, os serviços 
 
 ## Comece hoje sua jornada no português
 
-Pronto para começar sua jornada de aprendizagem do português em Barcelona? Fale com Barbara Sharon para uma aulas de português e dê o primeiro passo para dominar o português brasileiro. Com opções de tutoria online de português em Barcelona, tutoria particular de português em Barcelona ou aulas de português em grupo em Barcelona, ela oferece apoio abrangente de acordo com suas necessidades. Se você procura aulas de conversação, aulas de português para iniciantes em Barcelona ou treinamento avançado, sua experiência garante uma aprendizagem gratificante pela [página de contato](/pt-br/contato-professora-portugues/).
+Pronto para começar sua jornada de aprendizagem do português em Barcelona? Fale com Barbara Sharon para uma aula de português e dê o primeiro passo para dominar o português brasileiro. Com opções de tutoria online de português em Barcelona, tutoria particular de português em Barcelona ou aulas de português em grupo em Barcelona, ela oferece apoio abrangente de acordo com suas necessidades. Se você procura aulas de conversação, aulas de português para iniciantes em Barcelona ou treinamento avançado, sua experiência garante uma aprendizagem gratificante pela [página de contato](/pt-br/contato-professora-portugues/).

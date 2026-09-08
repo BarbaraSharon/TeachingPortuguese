@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Online Brazilian Portuguese Lessons Worldwide"
 description: "Take Brazilian Portuguese lessons online from anywhere, choosing private or group formats for beginner, intermediate, advanced, business, or travel goals."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 type: landing
 aliases:
 - /portuguese-teaching-services/online-portuguese-lessons/
@@ -24,6 +24,8 @@ sections:
     eyebrow: Online Portuguese lessons worldwide
     title: Online Portuguese Lessons Worldwide
     text: Choose private or group lessons online, with practical teaching tailored to your level and goals. Online children’s lessons are not available.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about online lessons
       url: https://wa.me/61493837828?text=Hi%20Barbara%2C%20I%27m%20interested%20in%20online%20Brazilian%20Portuguese%20lessons.%20My%20level%20is%2C%20my%20goal%20is%2C%20and%20my%20time%20zone%20is%2E

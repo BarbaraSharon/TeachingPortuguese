@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Arundel with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Arundel is grouped in the Gold Coast regional time zone used for scheduling. Arundel is located in Australia. This page keeps the local reference specific to Arundel while the teaching service remains online-first."
+local_context: "Arundel is in the Gold Coast scheduling region. Arundel is located in Australia. Local goals: Learners in Arundel can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Arundel: ask Barbara about Arundel pronunciation, Arundel listening, Arundel conversation, and Arundel travel vocabulary goals."
 scheduling: "Scheduling from Arundel: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Arundel: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

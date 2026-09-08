@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lisbon"
 description: "Aulas online de português brasileiro em Lisbon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/lisbon/lisbon-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lisbon. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Lisbon faz parte do fuso horário regional de Europe usado para organizar horários. Lisbon fica em Portugal. Esta página mantém a referência local específica de Lisbon, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Lisbon faz parte da região de Europe usada como referência para organizar horários. Lisbon fica em Portugal. Local goals: Alunos de Lisbon podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Lisbon, defina Lisbon viagens; pratique Lisbon carreira; explore Lisbon família; melhore Lisbon pronúncia; treine Lisbon conversa; confirme Lisbon horário."
 scheduling: "Horários para Lisbon: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Lisbon; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lisbon: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,8 +59,8 @@ Barbara Sharon oferece aulas online de português para estudantes em Lisboa, com
 
 Os alunos recebem materiais personalizados, alinhados aos seus interesses e objetivos de aprendizagem. Se você procura aulas de português para iniciantes ou aulas avançadas de conversação, sua plataforma online garante uma experiência de aprendizagem acolhedora e dinâmica. Para conhecer os serviços disponíveis, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela seção de [contato](/pt-br/contato-professora-portugues/).
 
-## Entre em contato para uma aulas de português
+## Entre em contato para uma aula de português
 
-Tem interesse em aprender português em Lisboa? Entre em contato com Barbara Sharon para uma aulas de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Aprenda português com uma professora qualificada perto de você por meio de sessões online adequadas à sua agenda e necessidades.
+Tem interesse em aprender português em Lisboa? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada. Aprenda português com uma professora qualificada perto de você por meio de sessões online adequadas à sua agenda e necessidades.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

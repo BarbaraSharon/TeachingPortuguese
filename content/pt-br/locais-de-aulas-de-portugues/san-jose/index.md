@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em San Jose"
 description: "Aulas online de português brasileiro em San Jose, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/san-jose/san-jose-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de San Jose. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "San Jose faz parte do fuso horário regional de North America usado para organizar horários. San Jose fica em United States. Esta página mantém a referência local específica de San Jose, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "San Jose faz parte da região de North America usada como referência para organizar horários. San Jose fica em United States. Local goals: Em San Jose, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em San Jose, defina San Jose viagens; pratique San Jose carreira; explore San Jose família; melhore San Jose pronúncia; treine San Jose conversa; confirme San Jose horário."
 scheduling: "Horários para San Jose: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Los_Angeles; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em San Jose: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

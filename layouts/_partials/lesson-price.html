@@ -1,8 +1,8 @@
 {{- $offerID := .offer_id -}}
 {{- $pricing := site.Data.lesson_pricing -}}
 {{- with index $pricing.offers $offerID -}}
-  {{- if isset . "display_price" -}}
-    {{- .display_price -}}
+  {{- if isset . "display_price_key" -}}
+    {{- i18n .display_price_key -}}
   {{- else -}}
     {{- printf "%s%d" $pricing.currency_symbol .starting_price -}}
   {{- end -}}

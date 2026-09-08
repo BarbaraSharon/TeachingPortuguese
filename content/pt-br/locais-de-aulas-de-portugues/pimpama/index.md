@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Pimpama"
 description: "Aulas online de português brasileiro em Pimpama, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/pimpama/pimpama-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Pimpama. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Pimpama faz parte do fuso horário regional de Australia & New Zealand usado para organizar horários. Pimpama fica em Australia. Esta página mantém a referência local específica de Pimpama, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Pimpama faz parte da região de Australia & New Zealand usada como referência para organizar horários. Pimpama fica em Australia. Local goals: Quem aprende em Pimpama pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Pimpama, defina Pimpama viagens; pratique Pimpama carreira; explore Pimpama família; melhore Pimpama pronúncia; treine Pimpama conversa; confirme Pimpama horário."
 scheduling: "Horários para Pimpama: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Pimpama: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

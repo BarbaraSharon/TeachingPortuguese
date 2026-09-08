@@ -41,7 +41,7 @@ offers:
       - in_person
   speaking_club_enrolled:
     format: speaking_club
-    display_price: FREE
+    display_price_key: price_free
     price_basis: per_session
     audience: enrolled_students
     delivery_modes:

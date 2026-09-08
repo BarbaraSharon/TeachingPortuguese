@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Currumbin Waters: Presenciais e Online"
 description: "Aulas de português em Currumbin Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/currumbin-waters/currumbin-waters-location-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Currumbin Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Currumbin Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Currumbin Waters faz parte do fuso horário regional de Gold Coast usado para organizar horários. Currumbin Waters fica em Australia. Esta página mantém a referência local específica de Currumbin Waters, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Currumbin Waters faz parte da região de Gold Coast usada como referência para organizar horários. Currumbin Waters fica em Australia. Local goals: Em Currumbin Waters, defina metas de viagem; Barbara também pode praticar situações de trabalho e família antes de confirmar um horário. Local focus: Em Currumbin Waters, defina Currumbin Waters viagens; pratique Currumbin Waters carreira; explore Currumbin Waters família; melhore Currumbin Waters pronúncia; treine Currumbin Waters conversa; confirme Currumbin Waters horário."
 scheduling: "Horários para Currumbin Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Currumbin Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -63,6 +63,6 @@ As aulas presenciais de português de Barbara Sharon para Currumbin Waters acont
 
 ## Comece hoje sua jornada no português brasileiro!
 
-Pronto para começar sua jornada de aprendizagem de português brasileiro em Currumbin Waters? Agende uma aulas de português com Barbara Sharon e descubra como o ensino personalizado pode ajudar você a alcançar seus objetivos mais rapidamente. Quer você procure uma professora de português perto de você ou queira explorar o que as aulas de português brasileiro têm a oferecer, ela está aqui para orientar você em cada etapa do caminho.
+Pronto para começar sua jornada de aprendizagem de português brasileiro em Currumbin Waters? Agende uma aula de português com Barbara Sharon e descubra como o ensino personalizado pode ajudar você a alcançar seus objetivos mais rapidamente. Quer você procure uma professora de português perto de você ou queira explorar o que as aulas de português brasileiro têm a oferecer, ela está aqui para orientar você em cada etapa do caminho.
 
 Com acesso a eventos culturais locais e uma abordagem de ensino criada para desenvolver confiança, dominar o português nesta região oferece vantagens únicas. Para saber mais sobre seu estilo de ensino e serviços, visite a página de [contato](/pt-br/contato-professora-portugues/) ou ligue hoje para uma consulta.

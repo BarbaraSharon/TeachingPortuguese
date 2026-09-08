@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Brussels"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Brussels. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Brussels is grouped in the Europe regional time zone used for scheduling. Brussels is located in Belgium. This page keeps the local reference specific to Brussels while the teaching service remains online-first."
+local_context: "Brussels is in the Europe scheduling region. Brussels is located in Belgium. Local goals: Barbara adapts lessons for Brussels to travel, work, or family goals; Brussels availability is checked before booking. Local focus: Reference for Brussels: ask Barbara about Brussels pronunciation, Brussels listening, Brussels conversation, and Brussels travel vocabulary goals."
 scheduling: "Scheduling from Brussels: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Brussels; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Brussels: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

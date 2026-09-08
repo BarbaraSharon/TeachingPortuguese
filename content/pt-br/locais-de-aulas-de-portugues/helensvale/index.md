@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Helensvale: Presenciais e Online"
 description: "Aulas de português brasileiro em Helensvale, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/helensvale/helensvale-brazilian-portuguese-tutor.png
   alt_text: "Aulas de português brasileiro em Helensvale: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Helensvale com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Helensvale faz parte do fuso horário regional de Gold Coast usado para organizar horários. Helensvale fica em Australia. Esta página mantém a referência local específica de Helensvale, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Helensvale faz parte da região de Gold Coast usada como referência para organizar horários. Helensvale fica em Australia. Local goals: Barbara adapta as aulas para Helensvale a objetivos de viagem, trabalho ou família; a disponibilidade de Helensvale é consultada antes da reserva. Local focus: Em Helensvale, defina Helensvale viagens; pratique Helensvale carreira; explore Helensvale família; melhore Helensvale pronúncia; treine Helensvale conversa; confirme Helensvale horário."
 scheduling: "Horários para Helensvale: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Helensvale: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -57,6 +57,6 @@ As aulas presenciais são realizadas em Surfers Paradise para estudantes de Hele
 
 ## Comece hoje sua jornada com Barbara Sharon!
 
-Está pronto para começar a aprender português brasileiro em Helensvale? Agende uma aulas de português com Barbara Sharon e conheça de perto sua abordagem envolvente e centrada no aluno. Para obter mais informações sobre os serviços oferecidos, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
+Está pronto para começar a aprender português brasileiro em Helensvale? Agende uma aula de português com Barbara Sharon e conheça de perto sua abordagem envolvente e centrada no aluno. Para obter mais informações sobre os serviços oferecidos, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
 
 "Aprender português é uma jornada emocionante!" (Aprender português é uma jornada emocionante!)

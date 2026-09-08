@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Mumbai. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Mumbai is grouped in the Asia regional time zone used for scheduling. Mumbai is located in India. This page keeps the local reference specific to Mumbai while the teaching service remains online-first."
+local_context: "Mumbai is in the Asia scheduling region. Mumbai is located in India. Local goals: Portuguese study in Mumbai can support travel, career, and family relationships; ask Barbara about an available time. Local focus: Reference for Mumbai: ask Barbara about Mumbai pronunciation, Mumbai listening, Mumbai conversation, and Mumbai travel vocabulary goals."
 scheduling: "Scheduling from Mumbai: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Kolkata; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Mumbai: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

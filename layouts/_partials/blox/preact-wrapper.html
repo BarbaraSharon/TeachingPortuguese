@@ -3,9 +3,22 @@
 {{ $block := .wcBlock }}
 {{ $block_type := .wcBlockType }}
 {{ $block_id := .wcIdentifier | default (printf "%s-%d" $block_type (now.Unix)) }}
+{{ $content := $block.content }}
+{{ with $block.content.primary_action }}
+  {{ $resolved := partial "resolve-enquiry-action.html" (dict "action" . "page" $page) }}
+  {{ $content = merge $content (dict "primary_action" $resolved) }}
+{{ end }}
+{{ with $block.content.secondary_action }}
+  {{ $resolved := partial "resolve-enquiry-action.html" (dict "action" . "page" $page) }}
+  {{ $content = merge $content (dict "secondary_action" $resolved) }}
+{{ end }}
+{{ with $block.content.button }}
+  {{ $resolved := partial "resolve-enquiry-action.html" (dict "action" . "page" $page) }}
+  {{ $content = merge $content (dict "button" $resolved) }}
+{{ end }}
 
 {{ $props := dict
-  "content" $block.content
+  "content" $content
   "design" $block.design
   "id" $block_id
   "type" $block_type
@@ -116,7 +129,6 @@
 
 {{ $propsJSON := $props | jsonify }}
 {{ $reviewURL := index $props "review_url" }}
-{{ $content := $block.content }}
 <div
   class="{{ $block_type }}-block-container preact-block"
   data-block-type="{{ $block_type }}"
@@ -130,8 +142,8 @@
           <h1 class="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">{{ $content.title | markdownify }}</h1>
           {{ with $content.text }}<div class="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">{{ . | markdownify }}</div>{{ end }}
           <div class="mt-8 flex flex-wrap gap-4">
-            {{ with $content.primary_action }}<a class="rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white" href="{{ .url }}">{{ .text }}</a>{{ end }}
-            {{ with $content.secondary_action }}<a class="rounded-lg border border-gray-300 px-5 py-3 font-semibold text-gray-900 dark:text-white" href="{{ .url }}">{{ .text }}</a>{{ end }}
+            {{ with $content.primary_action }}<a class="rounded-lg bg-primary-600 px-5 py-3 font-semibold text-white" href="{{ .url }}" data-enquiry-intent="{{ .enquiry.intent }}" data-enquiry-offer="{{ .enquiry.offer_id }}" data-lesson-format="{{ .lesson_format }}">{{ .text }}</a>{{ end }}
+            {{ with $content.secondary_action }}<a class="rounded-lg border border-gray-300 px-5 py-3 font-semibold text-gray-900 dark:text-white" href="{{ .url }}" data-enquiry-intent="{{ .enquiry.intent }}" data-enquiry-offer="{{ .enquiry.offer_id }}" data-lesson-format="{{ .lesson_format }}">{{ .text }}</a>{{ end }}
           </div>
           {{ with $content.trust.text }}<div class="mt-6 text-sm text-gray-600 dark:text-gray-300">{{ . | safeHTML }}</div>{{ end }}
         </div>

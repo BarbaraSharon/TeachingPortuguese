@@ -3,7 +3,7 @@ translationKey: ensino-de-portugues-gold-coast
 title: "Clases presenciales de portugués en Gold Coast"
 description: "Aprende portugués brasileño en clases particulares o grupales, con enseñanza presencial en Gold Coast y opciones online para estudiantes de otros lugares."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-teaching-services/teaching-portuguese-gold-coast/teaching-portuguese-gold-coast-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases presenciales de portugués brasileño
   delivery: Gold Coast, Australia
+  delivery_modes: [in_person]
   audience: Principiantes, estudiantes intermedios y avanzados, negocios, viajes y niños
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Enseñanza presencial de portugués · Gold Coast
     title: Aprende portugués presencialmente en Gold Coast
     text: Elige tutoría particular o una clase grupal local para aprender portugués brasileño práctico, desde las primeras conversaciones hasta la fluidez avanzada.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Contacta con Barbara
       url: /es/contacto-profesora-portugues/

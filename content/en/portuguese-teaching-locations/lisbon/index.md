@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Lisbon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Lisbon is grouped in the Europe regional time zone used for scheduling. Lisbon is located in Portugal. This page keeps the local reference specific to Lisbon while the teaching service remains online-first."
+local_context: "Lisbon is in the Europe scheduling region. Lisbon is located in Portugal. Local goals: Learners in Lisbon can choose travel, work, or family goals; each request is confirmed against the current schedule. Local focus: Reference for Lisbon: ask Barbara about Lisbon pronunciation, Lisbon listening, Lisbon conversation, and Lisbon travel vocabulary goals."
 scheduling: "Scheduling from Lisbon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Lisbon; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Lisbon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

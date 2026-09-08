@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Seattle"
 description: "Clases online de portugués brasileño en Seattle, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/seattle/seattle-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Los_Angeles"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Seattle. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Seattle forma parte de la zona horaria regional de North America que se utiliza para organizar horarios. Seattle está situada en United States. Esta página mantiene la referencia local específica de Seattle, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Seattle forma parte de la región de North America utilizada como referencia para organizar horarios. Seattle está situada en United States. Local goals: En Seattle, trae ejemplos de mensajes familiares o reuniones de trabajo; Barbara puede confirmar cómo encajan en el plan. Local focus: En Seattle, define Seattle viajes; practica Seattle trabajo; explora Seattle familia; mejora Seattle pronunciación; confirma Seattle horario."
 scheduling: "Horarios para Seattle: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Los_Angeles; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Seattle: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

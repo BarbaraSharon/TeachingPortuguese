@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Burleigh Waters: Presenciais e Online"
 description: "Aulas de português em Burleigh Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/burleigh-waters/burleigh-waters-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Burleigh Waters: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Burleigh Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Burleigh Waters faz parte do fuso horário regional de Gold Coast usado para organizar horários. Burleigh Waters fica em Australia. Esta página mantém a referência local específica de Burleigh Waters, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Burleigh Waters faz parte da região de Gold Coast usada como referência para organizar horários. Burleigh Waters fica em Australia. Local goals: Alunos de Burleigh Waters podem escolher objetivos de viagem, trabalho ou família; cada pedido é confirmado conforme a agenda atual. Local focus: Em Burleigh Waters, defina Burleigh Waters viagens; pratique Burleigh Waters carreira; explore Burleigh Waters família; melhore Burleigh Waters pronúncia; treine Burleigh Waters conversa; confirme Burleigh Waters horário."
 scheduling: "Horários para Burleigh Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Burleigh Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -49,7 +49,7 @@ Sua combinação singular de gramática, vocabulário, prática de conversação
 
 Além de sua formação acadêmica, Barbara é conselheira formada e atualmente cursa um mestrado em Estudos Educacionais e Gestão Comportamental. Essa formação permite que ela crie um ambiente acolhedor e encorajador, no qual os alunos podem crescer com confiança em sua jornada de aprendizagem do idioma.
 
-Ela oferece aulas de português tanto em grupo quanto particulares, incluindo clubes de conversação para quem deseja prática regular de fala. As aulas estão disponíveis presencialmente em Surfers Paradise ou online - perfeitas para alunos em Burleigh Waters e além. Para mais informações ou para agendar uma aulas de português, visite nossa página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pelo formulário de [contato](/pt-br/contato-professora-portugues/).
+Ela oferece aulas de português tanto em grupo quanto particulares, incluindo clubes de conversação para quem deseja prática regular de fala. As aulas estão disponíveis presencialmente em Surfers Paradise ou online - perfeitas para alunos em Burleigh Waters e além. Para mais informações ou para agendar uma aula de português, visite nossa página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pelo formulário de [contato](/pt-br/contato-professora-portugues/).
 
 ## Aulas de português em Burleigh Waters: opções online e presenciais
 
@@ -61,4 +61,4 @@ As sessões particulares com professora de português oferecem atenção persona
 
 Quer você tenha interesse em aulas de português brasileiro em Burleigh Waters, tutoria particular de português ou queira explorar o que está disponível na sua região, Barbara Sharon está aqui para orientar você. Com foco na comunicação prática e na consciência cultural, seu estilo de ensino torna o aprendizado de idiomas eficaz e agradável.
 
-Entre em contato com Barbara hoje mesmo para uma aulas de português e comece a dominar o português brasileiro em Burleigh Waters - ou onde quer que você esteja. Aprenda com uma instrutora qualificada e apaixonada, que entende não apenas o idioma, mas também suas ricas raízes culturais. Encontre uma professora nativa de português em Burleigh Waters, uma professora de português brasileiro em Burleigh Waters ou aulas de conversação adaptadas às suas necessidades.
+Entre em contato com Barbara hoje mesmo para uma aula de português e comece a dominar o português brasileiro em Burleigh Waters - ou onde quer que você esteja. Aprenda com uma instrutora qualificada e apaixonada, que entende não apenas o idioma, mas também suas ricas raízes culturais. Encontre uma professora nativa de português em Burleigh Waters, uma professora de português brasileiro em Burleigh Waters ou aulas de conversação adaptadas às suas necessidades.

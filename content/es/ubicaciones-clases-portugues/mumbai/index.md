@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Mumbai"
 description: "Clases online de portugués brasileño en Mumbai, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/mumbai/mumbai-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Mumbai | Clases en línea de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Mumbai. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Mumbai forma parte de la zona horaria regional de Asia que se utiliza para organizar horarios. Mumbai está situada en India. Esta página mantiene la referencia local específica de Mumbai, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Mumbai forma parte de la región de Asia utilizada como referencia para organizar horarios. Mumbai está situada en India. Local goals: Estudiar portugués en Mumbai puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Mumbai, define Mumbai viajes; practica Mumbai trabajo; explora Mumbai familia; mejora Mumbai pronunciación; confirma Mumbai horario."
 scheduling: "Horarios para Mumbai: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Kolkata; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Mumbai: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,6 +63,6 @@ El alumnado de Mumbai puede disfrutar de horarios flexibles y métodos interacti
 Utilizamos herramientas multimedia y materiales personalizados según tus intereses y objetivos. Tanto si buscas una tutora de portugués brasileño en Mumbai como clases de conversación cerca de Mumbai, la plataforma acompaña a estudiantes de todos los niveles. Con la experiencia de Barbara Sharon, puedes acceder a clases particulares de portugués en Mumbai o participar en clases grupales para practicar colaborativamente.
 ## Contacta para tu clases de portugués
 
-¿Quieres empezar a aprender portugués en Mumbai? Programa una clases de portugués con Barbara Sharon y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres nuevo en portugués como si deseas avanzar, está aquí para acompañarte.
+¿Quieres empezar a aprender portugués en Mumbai? Programa una clase de portugués con Barbara Sharon y descubre cómo su enfoque puede ayudarte a alcanzar tus metas lingüísticas. Tanto si eres nuevo en portugués como si deseas avanzar, está aquí para acompañarte.
 
 Conoce más sobre nuestros [servicios](/es/servicios-clases-portugues/) o contacta con Barbara directamente mediante la página de [contacto](/es/contacto-profesora-portugues/) si quieres consultar sobre clases de portugués brasileño, tutorías particulares o clases de portugués en línea en Mumbai.

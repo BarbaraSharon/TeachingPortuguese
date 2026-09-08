@@ -18,7 +18,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Learn Brazilian Portuguese from Mermaid Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Mermaid Waters is grouped in the Gold Coast regional time zone used for scheduling. Mermaid Waters is located in Australia. This page keeps the local reference specific to Mermaid Waters while the teaching service remains online-first."
+local_context: "Mermaid Waters is in the Gold Coast scheduling region. Mermaid Waters is located in Australia. Local goals: Learners in Mermaid Waters can start with travel dialogues, then practise work and family; the Mermaid Waters time is confirmed before enrolment. Local focus: Reference for Mermaid Waters: ask Barbara about Mermaid Waters pronunciation, Mermaid Waters listening, Mermaid Waters conversation, and Mermaid Waters travel vocabulary goals."
 scheduling: "Scheduling from Mermaid Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Mermaid Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

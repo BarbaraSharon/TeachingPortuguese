@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Surrey"
 description: "Aulas online de português brasileiro em Surrey, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/surrey/surrey-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Surrey. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Surrey faz parte do fuso horário regional de North America usado para organizar horários. Surrey fica em Canada. Esta página mantém a referência local específica de Surrey, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Surrey faz parte da região de North America usada como referência para organizar horários. Surrey fica em Canada. Local goals: Quem estuda em Surrey pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Surrey é confirmado antes da matrícula. Local focus: Em Surrey, defina Surrey viagens; pratique Surrey carreira; explore Surrey família; melhore Surrey pronúncia; treine Surrey conversa; confirme Surrey horário."
 scheduling: "Horários para Surrey: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Surrey: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,6 +59,6 @@ Com sua plataforma de ensino online, você pode desfrutar da conveniência de es
 
 ## Comece sua jornada em português hoje
 
-Pronto para aprender português brasileiro em Surrey? Agende uma aulas de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Surrey, aulas de português conversacional em Surrey ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
+Pronto para aprender português brasileiro em Surrey? Agende uma aula de português com Barbara Sharon e dê o primeiro passo rumo à fluência! Quer você esteja procurando uma professora particular de português perto de você em Surrey, aulas de português conversacional em Surrey ou aulas estruturadas de português online, sua abordagem foi concebida para atender às suas necessidades individuais.
 
 “Fala comigo em português!” (Converse comigo em português!)

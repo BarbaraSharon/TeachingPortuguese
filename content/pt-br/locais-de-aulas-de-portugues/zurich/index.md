@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Zurich"
 description: "Aulas online de português brasileiro em Zurich, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/zurich/zurich-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Zurique | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Zurich. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Zurich faz parte do fuso horário regional de Europe usado para organizar horários. Zurich fica em Switzerland. Esta página mantém a referência local específica de Zurich, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Zurich faz parte da região de Europe usada como referência para organizar horários. Zurich fica em Switzerland. Local goals: Quem aprende em Zurich pode focar em viagens, conversas profissionais ou comunicação familiar; consulte a disponibilidade com Barbara. Local focus: Em Zurich, defina Zurich viagens; pratique Zurich carreira; explore Zurich família; melhore Zurich pronúncia; treine Zurich conversa; confirme Zurich horário."
 scheduling: "Horários para Zurich: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Zurich: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

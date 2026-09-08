@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Nuremberg"
 description: "Clases online de portugués brasileño en Nuremberg, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/nuremberg/nuremberg-portuguese-lesson.png
   alt_text: Aprende portugués en Núremberg | Clases de portugués brasileño con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Berlin"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Nuremberg. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Nuremberg forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Nuremberg está situada en Germany. Esta página mantiene la referencia local específica de Nuremberg, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Nuremberg forma parte de la región de Europe utilizada como referencia para organizar horarios. Nuremberg está situada en Germany. Local goals: Quienes estudian en Nuremberg pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Nuremberg, define Nuremberg viajes; practica Nuremberg trabajo; explora Nuremberg familia; mejora Nuremberg pronunciación; confirma Nuremberg horario."
 scheduling: "Horarios para Nuremberg: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Berlin; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Nuremberg: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -65,8 +65,8 @@ Aprender portugués en Núremberg te da acceso a una rica tradición lingüísti
 
 Barbara Sharon ofrece clases particulares y grupales de portugués en línea en Núremberg. Estas sesiones utilizan herramientas interactivas y recursos multimedia para que aprender resulte atractivo y eficaz. Recibirás materiales adaptados a tus intereses y objetivos específicos, tanto si empiezas desde cero como si quieres mejorar conversación. Su plataforma ofrece servicios de tutora de portugués brasileño y de tutora particular de portugués en Núremberg para estudiantes de todos los niveles.
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Núremberg? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido.
+¿Te interesa aprender portugués en Núremberg? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido.
 
 Conoce más sobre los [servicios](/es/servicios-clases-portugues/) que ofrece o comunícate mediante la página de [contacto](/es/contacto-profesora-portugues/) para empezar hoy.

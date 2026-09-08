@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lausanne"
 description: "Aulas online de português brasileiro em Lausanne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/lausanne/lausanne-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lausanne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Lausanne faz parte do fuso horário regional de Europe usado para organizar horários. Lausanne fica em Switzerland. Esta página mantém a referência local específica de Lausanne, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Lausanne faz parte da região de Europe usada como referência para organizar horários. Lausanne fica em Switzerland. Local goals: Estudar português em Lausanne pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Lausanne, defina Lausanne viagens; pratique Lausanne carreira; explore Lausanne família; melhore Lausanne pronúncia; treine Lausanne conversa; confirme Lausanne horário."
 scheduling: "Horários para Lausanne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lausanne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -65,4 +65,4 @@ Aulas online particulares e em grupo de português estão disponíveis no mundo 
 
 Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, seja para aulas de conversação em português em Lausanne ou instrução adequada a iniciantes. Essas sessões são ideais para profissionais ocupados ou estudantes que preferem a flexibilidade da aprendizagem a distância. Explore mais sobre aulas de português brasileiro em Lausanne e entre em contato pela nossa página de contato para começar.
 
-Agende uma aulas de português e dê o primeiro passo para aprender português brasileiro.
+Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.

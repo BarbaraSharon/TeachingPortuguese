@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Carrara: Presenciais e Online"
 description: "Aulas de português brasileiro em Carrara, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/carrara/carrara-brazilian-portuguese-lesson.png
   alt_text: "Aulas de português brasileiro em Carrara: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Carrara com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Carrara faz parte do fuso horário regional de Gold Coast usado para organizar horários. Carrara fica em Australia. Esta página mantém a referência local específica de Carrara, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Carrara faz parte da região de Gold Coast usada como referência para organizar horários. Carrara fica em Australia. Local goals: Quem estuda em Carrara pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Carrara é confirmado antes da matrícula. Local focus: Em Carrara, defina Carrara viagens; pratique Carrara carreira; explore Carrara família; melhore Carrara pronúncia; treine Carrara conversa; confirme Carrara horário."
 scheduling: "Horários para Carrara: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Carrara: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -59,10 +59,10 @@ Ela oferece:
 - Aulas em grupo: sessões colaborativas que desenvolvem confiança por meio da conversação
 - Tutoria online: aulas remotas interativas, de qualquer lugar do mundo
 
-Para mais informações ou para agendar uma aulas de português, visite nossa página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).
+Para mais informações ou para agendar uma aula de português, visite nossa página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).
 
 ## Comece hoje sua jornada para dominar o português brasileiro
 
 Se você está pronto para aprender português brasileiro em Carrara, Barbara Sharon está aqui para orientar você. Com ensino personalizado e paixão pelo intercâmbio cultural, ela ajuda os alunos a desenvolver habilidades práticas de comunicação em um ambiente acolhedor.
 
-“Vamos aprender!” (“Vamos aprender!”) - é o que ela diz aos alunos ao iniciar sua aventura no português. Quer você esteja planejando uma viagem ao Brasil ou simplesmente queira se conectar com uma cultura vibrante, agora é o momento perfeito para começar sua jornada. Entre em contato com ela hoje mesmo para uma aulas de português e dê o primeiro passo rumo à fluência!
+“Vamos aprender!” (“Vamos aprender!”) - é o que ela diz aos alunos ao iniciar sua aventura no português. Quer você esteja planejando uma viagem ao Brasil ou simplesmente queira se conectar com uma cultura vibrante, agora é o momento perfeito para começar sua jornada. Entre em contato com ela hoje mesmo para uma aula de português e dê o primeiro passo rumo à fluência!

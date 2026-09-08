@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Clases de portugués para principiantes"
 description: "Empieza portugués brasileño con conversación práctica, pronunciación, vocabulario, gramática y contexto cultural en clases particulares o grupales."
 date: 2026-08-05
-lastmod: 2026-08-26
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Clases de portugués brasileño para principiantes
   delivery: En línea en todo el mundo; presenciales en Gold Coast
+  delivery_modes: [online, in_person]
   audience: Adultos principiantes
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Portugués para principiantes
     title: Clases de portugués para principiantes con Barbara Sharon
     text: Gana confianza desde tus primeras palabras mediante conversación práctica, pronunciación, vocabulario, gramática y contexto cultural. Las clases para principiantes pueden ser particulares o grupales, en línea en todo el mundo o presenciales en Gold Coast.
+    trust:
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Consulta sobre las clases para principiantes
       url: /es/contacto-profesora-portugues/

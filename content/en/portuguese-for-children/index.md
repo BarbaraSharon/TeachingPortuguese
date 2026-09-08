@@ -3,7 +3,7 @@ translationKey: portugues-para-criancas
 title: "Brazilian Portuguese Lessons for Children"
 description: "Gold Coast children learn Brazilian Portuguese in age-appropriate group lessons using conversation and engaging activities for participation."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/portuguese-for-children/portuguese-for-children-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: In-person group Brazilian Portuguese lessons for children
   delivery: Gold Coast, Australia
+  delivery_modes: [in_person]
   audience: Children; group lessons only
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Portuguese for children · Gold Coast
     title: Help children build confidence in Portuguese together
     text: Children’s Portuguese lessons are offered as in-person group classes on the Gold Coast. Learning uses conversation and engaging activities, with content matched to the group.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about children’s groups
       url: /en/contact-portuguese-teacher/

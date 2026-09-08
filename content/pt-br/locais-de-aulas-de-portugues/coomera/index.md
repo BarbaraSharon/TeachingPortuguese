@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Português em Coomera: Presenciais e Online"
 description: "Aulas de português brasileiro em Coomera, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/coomera/coomera-online-brazilian-portuguese.png
   alt_text: "Aulas de português brasileiro em Coomera: opções online e presenciais na Gold Coast com Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprenda português brasileiro a partir de Coomera com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Coomera faz parte do fuso horário regional de Gold Coast usado para organizar horários. Coomera fica em Australia. Esta página mantém a referência local específica de Coomera, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Coomera faz parte da região de Gold Coast usada como referência para organizar horários. Coomera fica em Australia. Local goals: Quem estuda em Coomera pode começar por diálogos de viagem e depois praticar trabalho e família; o horário de Coomera é confirmado antes da matrícula. Local focus: Em Coomera, defina Coomera viagens; pratique Coomera carreira; explore Coomera família; melhore Coomera pronúncia; treine Coomera conversa; confirme Coomera horário."
 scheduling: "Horários para Coomera: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Coomera: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -61,6 +61,6 @@ Para alunos que desejam melhorar suas habilidades de fala, Barbara também ofere
 
 ## Comece hoje sua jornada - aprenda português em Coomera
 
-Se você tem interesse em aprender português em Coomera ou regiões próximas, Barbara Sharon está pronta para orientar seu caminho para dominar o português brasileiro. Agende hoje uma aulas de português e experimente a alegria de aprender idiomas com ensino especializado.
+Se você tem interesse em aprender português em Coomera ou regiões próximas, Barbara Sharon está pronta para orientar seu caminho para dominar o português brasileiro. Agende hoje uma aula de português e experimente a alegria de aprender idiomas com ensino especializado.
 
 Para saber mais sobre serviços como professora de português em Coomera, aulas de português brasileiro em Coomera ou professora online de português em Coomera, visite nossa página de [aulas](/pt-br/aulas-de-portugues/). Para dúvidas ou para agendar uma sessão, use o formulário de [contato](/pt-br/contato-professora-portugues/).

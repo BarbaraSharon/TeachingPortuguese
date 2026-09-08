@@ -3,7 +3,7 @@ translationKey: portugues-para-viagens
 title: "Portugués para viajar: habla con confianza"
 description: "Prepárate para viajar con portugués brasileño práctico para saludar, pedir comida, orientarte y comunicarte en situaciones cotidianas."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-for-travel/portuguese-for-travel-brazilian-portuguese-lessons.jpg
   alt_text: Curso de portugués brasileño para viajar
@@ -167,7 +167,7 @@ Sí. Antes de empezar hablaremos de tu itinerario, actividades previstas y dudas
 
 Sí. Las clases grupales pueden ser una opción agradable y rentable para familias que viajan juntas. Contacta con Barbara para hablar de las necesidades y horarios del grupo.
 
-[Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva una opciones de clases](/es/contacto-profesora-portugues/)
+[Explora todos los servicios de portugués](/es/servicios-clases-portugues/) [Reserva unas opciones de clases](/es/contacto-profesora-portugues/)
 
 ## «Aprender é viver!» (¡Aprender es vivir!)
 

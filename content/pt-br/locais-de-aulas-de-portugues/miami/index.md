@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Miami"
 description: "Aulas online de português brasileiro em Miami, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/miami/miami-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -17,7 +17,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Miami. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Miami faz parte do fuso horário regional de North America usado para organizar horários. Miami fica em United States. Esta página mantém a referência local específica de Miami, enquanto o serviço de ensino continua priorizando o formato online."
+local_context: "Miami faz parte da região de North America usada como referência para organizar horários. Miami fica em United States. Local goals: Estudar português em Miami pode apoiar viagens, carreira e relações familiares; fale com Barbara sobre um horário disponível. Local focus: Em Miami, defina Miami viagens; pratique Miami carreira; explore Miami família; melhore Miami pronúncia; treine Miami conversa; confirme Miami horário."
 scheduling: "Horários para Miami: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/New_York; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Miami: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:
@@ -71,6 +71,6 @@ Quer você seja iniciante começando do zero ou alguém que queira aperfeiçoar 
 
 ## Comece sua jornada hoje - aulas de português disponível!
 
-Você está pronto para iniciar sua jornada de aprendizagem de português? Entre em contato com Barbara Sharon hoje para uma aulas de português e descubra como sua abordagem personalizada pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja novo no idioma ou esteja avançando suas habilidades, ela oferece apoio adaptado a estudantes de todos os níveis.
+Você está pronto para iniciar sua jornada de aprendizagem de português? Entre em contato com Barbara Sharon hoje para uma aula de português e descubra como sua abordagem personalizada pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja novo no idioma ou esteja avançando suas habilidades, ela oferece apoio adaptado a estudantes de todos os níveis.
 
 [Entre em contato com Barbara Sharon agora](/pt-br/contato-professora-portugues/)

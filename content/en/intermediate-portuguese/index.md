@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Intermediate Brazilian Portuguese Lessons"
 description: "Build on the basics with intermediate Brazilian Portuguese lessons for conversation, pronunciation, vocabulary, grammar, and everyday communication."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png
@@ -14,6 +14,7 @@ categories:
 service:
   service_type: Intermediate Brazilian Portuguese lessons
   delivery: Online worldwide; in person on the Gold Coast
+  delivery_modes: [online, in_person]
   audience: Intermediate adult learners
 sections:
 - block: hero
@@ -21,6 +22,8 @@ sections:
     eyebrow: Intermediate Portuguese
     title: Intermediate Portuguese Lessons with Barbara Sharon
     text: Expand your vocabulary, improve accuracy, and turn the Portuguese you already know into more natural conversation. Intermediate learning is available through private and group options online worldwide and on the Gold Coast.
+    trust:
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about intermediate lessons
       url: /en/contact-portuguese-teacher/

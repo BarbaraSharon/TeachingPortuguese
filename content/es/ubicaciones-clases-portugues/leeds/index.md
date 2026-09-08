@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Leeds"
 description: "Clases online de portugués brasileño en Leeds, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/leeds/leeds-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Leeds | Clases particulares y grupales en línea con Barbara Sharon
@@ -17,7 +17,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Leeds. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Leeds forma parte de la zona horaria regional de Europe que se utiliza para organizar horarios. Leeds está situada en United Kingdom. Esta página mantiene la referencia local específica de Leeds, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Leeds forma parte de la región de Europe utilizada como referencia para organizar horarios. Leeds está situada en United Kingdom. Local goals: Estudiar portugués en Leeds puede apoyar viajes, carrera y relaciones familiares; pregunta a Barbara por un horario disponible. Local focus: En Leeds, define Leeds viajes; practica Leeds trabajo; explora Leeds familia; mejora Leeds pronunciación; confirma Leeds horario."
 scheduling: "Horarios para Leeds: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/London; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Leeds: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -63,6 +63,6 @@ Hay clases particulares y grupales de portugués en línea en todo el mundo. Com
 
 Barbara ofrece sesiones grupales y particulares mediante su plataforma en línea, para encontrar un horario adecuado. Con clases de portugués brasileño y enseñanza general de portugués, garantiza un enfoque personalizado para todos los niveles. Consulta los [servicios](/es/servicios-clases-portugues/) o contacta desde la página de [contacto](/es/contacto-profesora-portugues/).
 
-## Contacta para una clases de portugués
+## Contacta para una clase de portugués
 
-¿Te interesa aprender portugués en Leeds? Contacta con Barbara Sharon para una clases de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante como si buscas avanzar, está aquí para acompañarte. Con opciones de profesora de portugués brasileño y enseñanza general, encuentra la alternativa adecuada para tus metas.
+¿Te interesa aprender portugués en Leeds? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus objetivos. Tanto si eres principiante como si buscas avanzar, está aquí para acompañarte. Con opciones de profesora de portugués brasileño y enseñanza general, encuentra la alternativa adecuada para tus metas.

@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Brisbane"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Parkside. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Parkside is grouped in the Australia & New Zealand regional time zone used for scheduling. Parkside is located in Australia. This page keeps the local reference specific to Parkside while the teaching service remains online-first."
+local_context: "Parkside is in the Australia & New Zealand scheduling region. Parkside is located in Australia. Local goals: Learners in Parkside can focus on travel, workplace conversations, or family communication; check availability with Barbara. Local focus: Reference for Parkside: ask Barbara about Parkside pronunciation, Parkside listening, Parkside conversation, and Parkside travel vocabulary goals."
 scheduling: "Scheduling from Parkside: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Parkside: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

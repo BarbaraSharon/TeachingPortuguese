@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Burleigh Waters: Presenciales y Online"
 description: "Clases de portugués en Burleigh Waters: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: 2026-09-08
 image:
   filename: pages/portuguese-teaching-locations/burleigh-waters/burleigh-waters-brazilian-portuguese-lesson.png
   alt_text: "Clases de portugués brasileño en Burleigh Waters: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -17,7 +17,7 @@ region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
 local_intro: "Aprende portugués brasileño desde Burleigh Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Burleigh Waters forma parte de la zona horaria regional de Gold Coast que se utiliza para organizar horarios. Burleigh Waters está situada en Australia. Esta página mantiene la referencia local específica de Burleigh Waters, mientras que el servicio de enseñanza sigue priorizando el formato online."
+local_context: "Burleigh Waters forma parte de la región de Gold Coast utilizada como referencia para organizar horarios. Burleigh Waters está situada en Australia. Local goals: Quienes estudian en Burleigh Waters pueden elegir objetivos de viaje, trabajo o familia; cada solicitud se confirma según la agenda actual. Local focus: En Burleigh Waters, define Burleigh Waters viajes; practica Burleigh Waters trabajo; explora Burleigh Waters familia; mejora Burleigh Waters pronunciación; confirma Burleigh Waters horario."
 scheduling: "Horarios para Burleigh Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Burleigh Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:
@@ -47,7 +47,7 @@ Su combinación singular de gramática, vocabulario, práctica de conversación 
 
 Además de su formación académica, Barbara es orientadora formada y cursa un máster en Estudios Educativos y Gestión del Comportamiento. Este recorrido le permite crear un ambiente de apoyo y ánimo donde el alumnado avanza con confianza.
 
-Ofrece clases grupales y particulares, incluidos clubes de conversación para quienes desean practicar regularmente. Las clases están disponibles presencialmente en Surfers Paradise o en línea, una opción perfecta para estudiantes de Burleigh Waters y más allá. Para más información o reservar una clases de portugués, visita [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde el formulario de [contacto](/es/contacto-profesora-portugues/).
+Ofrece clases grupales y particulares, incluidos clubes de conversación para quienes desean practicar regularmente. Las clases están disponibles presencialmente en Surfers Paradise o en línea, una opción perfecta para estudiantes de Burleigh Waters y más allá. Para más información o reservar una clase de portugués, visita [servicios](/es/servicios-clases-portugues/) o contacta con Barbara desde el formulario de [contacto](/es/contacto-profesora-portugues/).
 ## Clases de portugués en Burleigh Waters: opciones online y presenciales
 
 Barbara Sharon ofrece opciones flexibles adaptadas a tu estilo de vida y horario. Las clases presenciales se realizan en Surfers Paradise, a pocos minutos de Burleigh Waters, y permiten interacción directa práctica. Para mayor flexibilidad, las clases en línea permiten aprender desde cualquier lugar.
@@ -57,4 +57,4 @@ Las tutorías particulares brindan atención personalizada según metas y ritmo 
 
 Tanto si te interesan clases de portugués brasileño, tutoría particular o explorar lo disponible en tu zona, Barbara Sharon está aquí para guiarte. Con énfasis en comunicación práctica y conciencia cultural, su estilo hace que aprender sea eficaz y agradable.
 
-Contacta con Barbara hoy para una clases de portugués y comienza a dominar portugués brasileño en Burleigh Waters, o donde estés. Aprende con una instructora cualificada y apasionada que comprende no solo el idioma, sino también sus profundas raíces culturales. Encuentra una profesora nativa de portugués, una tutora de portugués brasileño o clases de conversación adaptadas a tus necesidades.
+Contacta con Barbara hoy para una clase de portugués y comienza a dominar portugués brasileño en Burleigh Waters, o donde estés. Aprende con una instructora cualificada y apasionada que comprende no solo el idioma, sino también sus profundas raíces culturales. Encuentra una profesora nativa de portugués, una tutora de portugués brasileño o clases de conversación adaptadas a tus necesidades.
