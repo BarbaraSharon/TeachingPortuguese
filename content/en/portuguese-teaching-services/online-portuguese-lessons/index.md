@@ -1,7 +1,7 @@
 ---
 translationKey: aulas-online
 title: "Online Brazilian Portuguese Lessons Worldwide"
-description: "Take Brazilian Portuguese lessons online from anywhere, choosing private or group formats for beginner, intermediate, advanced, business, or travel goals."
+description: "Live Brazilian Portuguese lessons online worldwide in private or group formats for beginner, intermediate, advanced, business, or travel goals."
 date: 2026-08-05
 lastmod: "2026-10-08"
 type: landing
@@ -23,12 +23,12 @@ sections:
   content:
     eyebrow: Online Portuguese lessons worldwide
     title: Online Portuguese Lessons Worldwide
-    text: Choose private or group lessons online, with practical teaching tailored to your level and goals. Online children’s lessons are not available.
+    text: Choose live private or group online Portuguese lessons, with practical teaching tailored to your level and goals. Barbara teaches adults worldwide and you can discuss the lesson format and terms directly with her, without a tutor-marketplace commission deduction. Normal business or payment costs may still apply. Online children’s lessons are not available.
     trust:
-      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
+      text: Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification in teaching English to speakers of other languages. <a href="/en/about-learning-portuguese/">Read about Barbara</a>.
     primary_action:
       text: Ask about online lessons
-      url: https://wa.me/61493837828?text=Hi%20Barbara%2C%20I%27m%20interested%20in%20online%20Brazilian%20Portuguese%20lessons.%20My%20level%20is%2C%20my%20goal%20is%2C%20and%20my%20time%20zone%20is%2E
+      url: https://wa.me/61493837828?text=Hi%20Barbara%2C%20I%27m%20interested%20in%20online%20Brazilian%20Portuguese%20lessons.%20My%20level%20is%2C%20my%20goal%20is%2C%20I%20prefer%20private%20or%20group%20lessons%2C%20my%20time%20zone%20is%2C%20and%20my%20preferred%20days%20and%20times%20are%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -74,6 +74,23 @@ sections:
       url: /en/portuguese-for-children/
   design:
     layout: bento
+- block: steps
+  content:
+    title: How online lessons work
+    items:
+    - title: Share your goal and schedule
+      text: Tell Barbara your level, learning goal, time zone, preferred private or group format, and available days.
+      icon: hero/chat-bubble-left-right
+    - title: Prepare and practise
+      text: Lessons combine explanations, conversation, pronunciation, grammar, and vocabulary around your purpose.
+      icon: hero/academic-cap
+    - title: Use feedback in your next lesson
+      text: Barbara corrects useful patterns and uses what you practise to shape the next learning step.
+      icon: hero/sparkles
+  design:
+    layout: horizontal
+    marker_style: icon
+    connector: line
 - block: faq
   content:
     subtitle: Before you book

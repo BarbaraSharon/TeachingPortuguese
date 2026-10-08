@@ -53,6 +53,16 @@ Nenhuma opção é a melhor para todas as pessoas. Avalie:
 
 Depoimentos e avaliações externas ajudam, mas não substituem uma conversa sobre seu objetivo.
 
+## Compare as opções de aprendizagem
+
+| Opção | Pode ser adequada se você... | O que deve verificar |
+|---|---|---|
+| Aulas diretas com Barbara | Quer aulas ao vivo particulares ou em grupo para adultos, com uma professora identificável e acesso de qualquer lugar. | Formação, nível, objetivo, formato, fuso horário, disponibilidade, condições e custo total. A contratação direta não inclui comissão de um marketplace de professores. |
+| Marketplace de professores | Quer comparar muitos perfis, horários, preços e ferramentas de reserva em um só lugar. | Formação e experiência do professor, variedade de português, preparação, feedback, comissões e condições atuais. |
+| Aplicativos e cursos gravados | Quer estudar no próprio ritmo ou acrescentar prática curta a outras aulas. | Quanto de conversação ao vivo, correção personalizada e continuidade o produto oferece. |
+
+Não existe uma opção melhor para todos os alunos. Escolha de acordo com a quantidade de conversação ao vivo, feedback e estrutura de que você precisa.
+
 ## Como as aulas de Barbara se encaixam
 
 As [aulas online de português brasileiro](/pt-br/aulas-de-portugues/aulas-online/) de Barbara são ao vivo e estão disponíveis para adultos no mundo todo. A página de [serviços](/pt-br/aulas-de-portugues/) descreve opções particulares e em grupo. As aulas podem combinar conversação, pronúncia, vocabulário, gramática e contexto cultural.

@@ -1,7 +1,7 @@
 ---
 translationKey: aulas-online
 title: "Aulas online de português brasileiro"
-description: "Estude português brasileiro online de qualquer lugar, em aulas particulares ou em grupo para vários níveis, negócios ou viagens."
+description: "Estude português brasileiro online de qualquer lugar, em aulas particulares ou em grupo ao vivo para adultos de vários níveis, negócios ou viagens."
 date: 2026-08-05
 lastmod: "2026-10-08"
 type: landing
@@ -21,12 +21,12 @@ sections:
   content:
     eyebrow: Aulas de português online para todo o mundo
     title: Aulas de português online para todo o mundo
-    text: Escolha aulas particulares ou em grupo online, com ensino prático adaptado ao seu nível e objetivos. Aulas online para crianças não estão disponíveis.
+    text: Escolha aulas particulares ou em grupo ao vivo para adultos, com ensino prático adaptado ao seu nível e objetivos. Você pode contratar diretamente a Barbara, sem comissão de uma plataforma de professores; a disponibilidade atual é confirmada antes da reserva. Aulas online para crianças não estão disponíveis.
     trust:
-      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
+      text: Barbara tem licenciatura em Letras e Literatura pela UFRJ e certificação TESOL para ensinar inglês a falantes de outras línguas. <a href="/pt-br/sobre-aprendizagem-portuguesa/">Conheça a Barbara</a>.
     primary_action:
       text: Pergunte sobre aulas online
-      url: https://wa.me/61493837828?text=Oi%20Barbara%2C%20tenho%20interesse%20em%20aulas%20online%20de%20portugu%C3%AAs%20brasileiro.%20Meu%20n%C3%ADvel%20%C3%A9%2C%20meu%20objetivo%20%C3%A9%20e%20meu%20fuso%20hor%C3%A1rio%20%C3%A9%2E
+      url: https://wa.me/61493837828?text=Oi%20Barbara%2C%20tenho%20interesse%20em%20aulas%20online%20de%20portugu%C3%AAs%20brasileiro.%20Meu%20n%C3%ADvel%20%C3%A9%2C%20meu%20objetivo%20%C3%A9%2C%20prefiro%20aulas%20particulares%20ou%20em%20grupo%2C%20meu%20fuso%20hor%C3%A1rio%20%C3%A9%20e%20minha%20disponibilidade%20%C3%A9%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -72,6 +72,23 @@ sections:
       url: /pt-br/portugues-para-criancas/
   design:
     layout: bento
+- block: steps
+  content:
+    title: Como funcionam as aulas online
+    items:
+    - title: Compartilhe seu objetivo e horário
+      text: Informe seu nível, objetivo, fuso horário, formato particular ou em grupo e os dias disponíveis.
+      icon: hero/chat-bubble-left-right
+    - title: Prepare-se e pratique
+      text: As aulas combinam explicações, conversação, pronúncia, gramática e vocabulário de acordo com seu objetivo.
+      icon: hero/academic-cap
+    - title: Use o feedback na próxima aula
+      text: Barbara corrige padrões úteis e usa o que você praticou para orientar o próximo passo.
+      icon: hero/sparkles
+  design:
+    layout: horizontal
+    marker_style: icon
+    connector: line
 - block: faq
   content:
     subtitle: Antes de reservar

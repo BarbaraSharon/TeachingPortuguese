@@ -38,25 +38,29 @@ Sin embargo, la plataforma es una intermediaria, no la clase. Sus reglas de sele
 
 ## Comparación sencilla: ¿plataforma o docente directo?
 
-Cinco estrellas significa que esa vía ofrece más del aspecto indicado. **No es una puntuación global de calidad**. La tabla compara el modelo habitual de las plataformas con el trabajo directo con un docente independiente; cada plataforma y cada docente pueden ser diferentes.
+La siguiente tabla describe características habituales y preguntas prácticas. No es un ranking de calidad: cada plataforma y cada docente pueden ser diferentes.
 
-<p class="comparison-swipe-hint">Desliza la tabla hacia un lado para comparar ambas opciones.</p>
+<p class="comparison-swipe-hint">Desliza la tabla hacia un lado para comparar las opciones.</p>
 
-| Lo que comparas | Plataforma de tutores | Trato directo con un docente independiente |
+| Opción | Qué ofrece | Qué debes comprobar |
 |---|---|---|
-| Encontrar muchos docentes rápidamente | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>Muchos perfiles buscables en un solo lugar.</small> | <span class="comparison-stars"><span aria-hidden="true">★☆☆☆☆</span> <strong>1/5</strong></span><br><small>Evalúas a una persona en vez de explorar una plataforma.</small> |
-| Reservas, pagos y asistencia integrados | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>Estas herramientas son una ventaja principal de las plataformas.</small> | <span class="comparison-stars"><span aria-hidden="true">★★☆☆☆</span> <strong>2/5</strong></span><br><small>El docente organiza sus propios sistemas, que pueden variar.</small> |
-| Sin una capa de cargos de plataforma entre estudiante y docente | <span class="comparison-stars"><span aria-hidden="true">★☆☆☆☆</span> <strong>1/5</strong></span><br><small>La plataforma puede descontar cargos al docente, cobrar al estudiante o ambas cosas.</small> | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>No hay descuento de una plataforma; aún puede haber gastos normales del negocio y del pago.</small> |
-| Control directo de condiciones y comunicación | <span class="comparison-stars"><span aria-hidden="true">★★★☆☆</span> <strong>3/5</strong></span><br><small>Te comunicas con el docente dentro de las reglas y sistemas de la plataforma.</small> | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>Tú y el docente acordáis directamente el servicio y la comunicación.</small> |
-| Formación, preparación, plan personal y continuidad | <span class="comparison-depends"><strong>Depende del docente - sin estrellas</strong></span><br><small>Comprueba a la persona y lo que se compromete a ofrecer.</small> | <span class="comparison-depends"><strong>Depende del docente - sin estrellas</strong></span><br><small>Ser independiente no garantiza por sí solo ninguno de estos aspectos.</small> |
+| [Barbara Sharon](/es/sobre-aprender-portugues/) | Clases online en vivo, particulares y grupales, para adultos de todo el mundo. Formación en UFRJ y certificación TESOL. Reserva directa sin comisión de un marketplace de tutores. | Nivel, objetivo, formato, zona horaria, disponibilidad, condiciones y coste total. |
+| [Preply](https://preply.com/en/teach) | Perfiles, filtros, horarios, reservas y herramientas de plataforma para comparar tutores. | Formación del tutor, variedad de portugués, condiciones actuales y cómo afectan las comisiones a sus ingresos. |
+| [Superprof](https://www.superprof.com.au/gtu.html) | Listados de profesores y herramientas para buscar y contactar docentes de distintas materias. | Que la información del anuncio y las cualificaciones estén verificadas, además de las condiciones de acceso y pago. |
+| [italki](https://play.google.com/store/apps/details?id=com.italki.app) | Perfiles de docentes, reservas y clases individuales online. | Estudios, experiencia, categoría del docente, preparación, feedback y continuidad. |
+| [Verbling](https://www.verbling.com/teach/get-started) | Enseñanza de idiomas online con perfiles y aula integrada. | Experiencia docente, certificados, variedad de portugués y método de enseñanza. |
+| [Classgap](https://www.classgap.com/) | Búsqueda de tutores, calendario, mensajes y aula virtual. | Materiales, feedback entre reservas, plan de aprendizaje y coste completo. |
+| [AmazingTalker](https://en.amazingtalker.com/apply-to-teach/portuguese) | Emparejamiento, perfiles y clases individuales online. | Evidencias de experiencia o certificación, materiales, método y cargos de plataforma. |
 
-El dato clave sobre el coste es que una plataforma necesita ingresos para ofrecer herramientas, promoción y asistencia. El trato directo elimina esa capa de cargos, por lo que una parte mayor del pago de la clase puede quedarse con el docente. Esto **no** demuestra que todas las clases directas tengan un precio anunciado menor ni que todo docente independiente enseñe mejor. Compara el coste final y lo que incluye.
+El dato clave sobre el coste es que una plataforma necesita ingresos para ofrecer tecnología, promoción y asistencia. Reservar directamente con Barbara elimina la comisión de un marketplace de tutores; aún pueden existir gastos normales del negocio y del pago. Esto no demuestra que todas las clases directas tengan un precio anunciado menor ni que todo docente independiente enseñe mejor. Compara el coste final y lo que incluye.
 
 ## Qué dice cada plataforma
 
 ### Preply
 
 La [página de Preply para tutores](https://preply.com/en/teach) explica su sistema de perfiles, horarios, tarifas y cargos de plataforma, e indica que no se exige una certificación concreta ni experiencia docente previa para solicitar el alta. Su [guía de evaluación de tutores](https://help.preply.com/en/articles/4179411-evaluation-of-tutors) describe la revisión de certificados académicos y los indicadores de credenciales. Estos indicadores pueden ser útiles, pero conviene leer la credencial y preguntar cómo se relaciona con la enseñanza del portugués.
+
+La [política de comisiones de Preply](https://help.preply.com/en/articles/4171383-preply-commission-model) indica una comisión del 100 % de los ingresos del tutor en las clases de prueba y del 18 % al 33 % en las clases posteriores, según el total de horas impartidas. Son descuentos de los ingresos del tutor y no equivalen automáticamente a un cargo adicional para el estudiante. Información revisada el 8 de octubre de 2026.
 
 ### Superprof
 
@@ -122,4 +126,4 @@ Barbara Sharon tiene una **licenciatura en Lenguas y Literatura de la Universida
 
 Barbara ofrece [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/) para adultos de todo el mundo, sujetas a disponibilidad, dentro de sus [servicios de clases de portugués](/es/servicios-clases-portugues/). Puedes comparar los [factores del precio](/es/respuestas/cuanto-cuestan-clases-portugues-australia/) y la [guía para elegir profesor](/es/respuestas/mejor-profesor-portugues-gold-coast/), y después [contactar con Barbara](/es/contacto-profesora-portugues/) indicando tu nivel, objetivo, zona horaria y formato preferido.
 
-**Información de las plataformas revisada el 26 de agosto de 2026. Próxima revisión factual prevista para el 26 de febrero de 2027.** Las reglas y los cargos pueden cambiar; consulta las fuentes oficiales enlazadas antes de decidir.
+**Información de las plataformas revisada el 8 de octubre de 2026. Próxima revisión factual prevista para el 8 de abril de 2027.** Las reglas y los cargos pueden cambiar; consulta las fuentes oficiales enlazadas antes de decidir.

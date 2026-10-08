@@ -57,6 +57,16 @@ Student testimonials and current external reviews can support a decision, but th
 
 Private lessons can concentrate on one learner’s pronunciation, pace and purpose. Group lessons add interaction with other learners and shared activities. A conversation group may suit learners who already have enough foundation to practise speaking regularly. Review the [Portuguese Speaking Club](/en/portuguese-speaking-club/) separately from a structured level-based course.
 
+## Compare the main online learning options
+
+| Route | What it offers | Check before choosing |
+|---|---|---|
+| [Barbara’s direct online lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) | Live Brazilian Portuguese teaching for adults worldwide, with private and group formats and direct communication with the teacher. | Confirm the current format, time-zone fit, availability, materials and complete price. |
+| [Tutor marketplaces](/en/answers/tutor-marketplaces-vs-independent-portuguese-teacher/) | Many tutor profiles, search filters, scheduling, payment tools and, on some platforms, a virtual classroom. | Check the individual teacher’s qualifications, Portuguese variety, lesson plan, feedback, platform fees and cancellation terms. |
+| Self-study apps and recorded courses | Flexible review, vocabulary practice and recorded explanations that can fit around a busy schedule. | Check how you will practise speaking, receive correction and adapt the material to your own level and goals. |
+
+Many learners combine a live lesson with independent review. Choose the route that gives you enough active speaking, useful feedback and a routine you can maintain.
+
 ## How Barbara’s online lessons fit
 
 Barbara’s [online Brazilian Portuguese lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) are live and available to adults worldwide. Private and group options are described in the [Portuguese teaching services overview](/en/portuguese-teaching-services/). Lessons can combine conversation, pronunciation, vocabulary, grammar and cultural context around the learner’s level and objective.

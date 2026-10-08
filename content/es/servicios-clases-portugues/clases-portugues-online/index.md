@@ -1,7 +1,7 @@
 ---
 translationKey: aulas-online
 title: "Clases de portugués brasileño online"
-description: "Estudia portugués brasileño online desde cualquier lugar, en clases particulares o grupales para distintos niveles, negocios o viajes."
+description: "Estudia portugués brasileño online desde cualquier lugar, en clases particulares o grupales para adultos, negocios y viajes."
 date: 2026-08-05
 lastmod: "2026-10-08"
 type: landing
@@ -21,12 +21,12 @@ sections:
   content:
     eyebrow: Clases de portugués en línea en todo el mundo
     title: Clases de portugués en línea en todo el mundo
-    text: Elige clases particulares o grupales en línea, con enseñanza práctica adaptada a tu nivel y objetivos. No hay clases infantiles en línea.
+    text: Elige clases particulares o grupales en directo para adultos, con enseñanza práctica adaptada a tu nivel y objetivos. Puedes reservar directamente con Barbara, sin comisión de una plataforma de tutores; la disponibilidad actual se confirma antes de reservar. No hay clases infantiles en línea.
     trust:
-      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
+      text: Barbara tiene una licenciatura en Lenguas y Literatura por la UFRJ y certificación TESOL para enseñar inglés a hablantes de otras lenguas. <a href="/es/sobre-aprender-portugues/">Conoce a Barbara</a>.
     primary_action:
       text: Consulta sobre las clases en línea
-      url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesan%20las%20clases%20online%20de%20portugu%C3%A9s%20brasile%C3%B1o.%20Mi%20nivel%20es%2C%20mi%20objetivo%20es%20y%20mi%20zona%20horaria%20es%2E
+      url: https://wa.me/61493837828?text=Hola%20Barbara%2C%20me%20interesan%20las%20clases%20online%20de%20portugu%C3%A9s%20brasile%C3%B1o.%20Mi%20nivel%20es%2C%20mi%20objetivo%20es%2C%20prefiero%20clases%20particulares%20o%20grupales%2C%20mi%20zona%20horaria%20es%20y%20mi%20disponibilidad%20es%2E
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
@@ -72,6 +72,23 @@ sections:
       url: /es/portugues-para-ninos/
   design:
     layout: bento
+- block: steps
+  content:
+    title: Cómo funcionan las clases online
+    items:
+    - title: Comparte tu objetivo y horario
+      text: Indica tu nivel, objetivo, zona horaria, formato particular o grupal y días disponibles.
+      icon: hero/chat-bubble-left-right
+    - title: Prepárate y practica
+      text: Las clases combinan explicaciones, conversación, pronunciación, gramática y vocabulario según tu objetivo.
+      icon: hero/academic-cap
+    - title: Usa el feedback en la próxima clase
+      text: Barbara corrige patrones útiles y utiliza lo practicado para orientar el siguiente paso.
+      icon: hero/sparkles
+  design:
+    layout: horizontal
+    marker_style: icon
+    connector: line
 - block: faq
   content:
     subtitle: Antes de reservar

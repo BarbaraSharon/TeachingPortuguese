@@ -13,22 +13,22 @@ toc: false
 
 ## Tutoría y aprendizaje de idiomas portugueses
 
-Te doy la bienvenida a la tutoría y el aprendizaje del portugués con Barbara Sharon, tu experta local para aprender portugués en Gold Coast, Queensland, Australia. Ofrezco cursos de portugués dinámicos y bien estructurados, tutoría particular y clases grupales diseñadas para ayudarte a alcanzar la fluidez con confianza.
+Doy clases de portugués brasileño en vivo a adultos de cualquier lugar del mundo, además de clases presenciales en Gold Coast, Queensland, Australia. Las opciones incluyen clases particulares y grupales, según tus objetivos y la disponibilidad actual.
 
-Tengo una licenciatura en Lenguas y Literatura de la Universidade Federal do Rio de Janeiro (UFRJ) y soy instructora certificada por TESOL. Además de portugués e inglés, hablo italiano y español, lo que me permite anticipar dificultades, aclarar diferencias y facilitar el aprendizaje a mis estudiantes.
+Tengo una licenciatura en Lenguas y Literatura de la Universidade Federal do Rio de Janeiro (UFRJ) y certificación TESOL para enseñar inglés a hablantes de otras lenguas. Además de portugués e inglés, hablo italiano y español, lo que me permite anticipar dificultades, aclarar diferencias y facilitar el aprendizaje a mis estudiantes.
 
 También soy consejera y actualmente curso un máster en Estudios Educativos y Gestión del Comportamiento. Esta combinación de experiencias me ayuda a crear un entorno de apoyo y motivación en el que cada estudiante puede progresar.
 
-Mis clases están cuidadosamente estructuradas para combinar gramática, vocabulario, conversación y conocimientos culturales, de modo que aprendas no solo el idioma, sino también a usarlo con naturalidad en la vida real. Tanto si estás en Gold Coast, Queensland, como en cualquier lugar del mundo, estoy aquí para ayudarte a avanzar en tu camino con el portugués.
+Mis clases están estructuradas para combinar gramática, vocabulario, conversación y conocimientos culturales, de modo que puedas practicar el idioma y usarlo con naturalidad en la vida real. Antes de reservar, puedes compartir tu nivel, objetivo, zona horaria y formato preferido. Durante las clases trabajamos con práctica guiada y correcciones que ayudan a decidir el siguiente paso.
 ## Sobre Barbara Sharon
 
-Creo que el aprendizaje intensivo del portugués debe ser una experiencia inmersiva y agradable, con resultados demostrados de mejora rápida. Me comprometo a ayudarte a alcanzar la fluidez mientras adquieres conocimientos culturales que amplíen tus horizontes y aceleren tu progreso.
+Creo que aprender portugués debe ser una experiencia práctica y agradable, con objetivos claros y espacio para usar el idioma. Mi trabajo combina la enseñanza de la lengua con conocimientos culturales que ayudan a entender cómo se comunica la gente en situaciones reales.
 
-Mis cursos están diseñados para estudiantes de todos los niveles, desde principiantes hasta hablantes avanzados, y cuentan con un historial de mejora rápida. Ofrezco distintas clases intensivas, como lecciones grupales, tutoría particular y cursos en línea. El entorno dinámico y vibrante te inspirará a alcanzar todo tu potencial como estudiante de idiomas.
+Mis cursos están diseñados para estudiantes de todos los niveles, desde principiantes hasta hablantes avanzados. Ofrezco clases grupales, tutoría particular y clases online para adultos, con contenidos que pueden centrarse en conversación, viajes, trabajo, familia, pronunciación o gramática.
 
-Como tutora dedicada en Gold Coast, proporciono clases intensivas de portugués personalizadas según los objetivos de cada estudiante, con resultados de mejora rápida. Mi método destaca las habilidades de comunicación práctica y la conciencia cultural, haciendo que aprender sea eficaz y atractivo. Tanto si te preparas para viajar, trabajar o enriquecerte personalmente, mi experiencia como profesora de portugués brasileño garantiza que cada clase apoye tu camino.
+Como tutora en Gold Coast, proporciono clases de portugués personalizadas según los objetivos de cada estudiante. Mi método destaca las habilidades de comunicación práctica y la conciencia cultural. Tanto si te preparas para viajar, trabajar o aprender por interés personal, puedo adaptar la conversación, el vocabulario y las explicaciones a tu punto de partida.
 
-Descubre más sobre cómo apoyo las clases intensivas de portugués en línea, las clases particulares y los cursos de idiomas para estudiantes de Gold Coast, Queensland y otros lugares, con una metodología orientada a mejorar rápidamente.
+Descubre más sobre las [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/), las clases particulares y los cursos de idiomas para estudiantes de Gold Coast, Queensland y otros lugares. La [página de servicios](/es/servicios-clases-portugues/) explica los formatos disponibles y sus condiciones actuales.
 
 ## Cómo valorar si una profesora encaja contigo
 

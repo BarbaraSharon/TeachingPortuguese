@@ -18,9 +18,9 @@ const languages = {
     reviewLabel: 'current Google reviews',
     contactLabel: 'Contact Barbara',
     homeId: 'popular-portuguese-questions',
-    homeCopy: 'Private and group Brazilian Portuguese lessons online worldwide',
+    homeCopy: 'Live private and group Brazilian Portuguese lessons online worldwide',
     onlinePath: 'portuguese-teaching-services/online-portuguese-lessons',
-    onlineCopy: 'Choose private or group lessons online',
+    onlineCopy: 'Choose live private or group online Portuguese lessons',
     privatePath: 'portuguese-teaching-services/portuguese-tutoring-gold-coast',
     privateCopy: 'Build confidence with focused one-to-one Brazilian Portuguese lessons',
     ordinaryPath: 'howto-learn-portuguese',
@@ -68,9 +68,9 @@ const languages = {
     reviewLabel: 'opiniones actuales en Google',
     contactLabel: 'Contacta con Barbara',
     homeId: 'preguntas-populares-portugues',
-    homeCopy: 'Clases particulares y grupales de portugués brasileño en línea en todo el mundo',
+    homeCopy: 'Clases particulares y grupales de portugués brasileño en línea en todo el mundo y presenciales en Gold Coast',
     onlinePath: 'servicios-clases-portugues/clases-portugues-online',
-    onlineCopy: 'Elige clases particulares o grupales en línea',
+    onlineCopy: 'Elige clases particulares o grupales en directo',
     privatePath: 'servicios-clases-portugues/clases-particulares-portugues-gold-coast',
     privateCopy: 'Gana confianza con clases individuales y concentradas de portugués brasileño',
     ordinaryPath: 'como-aprender-portugues',
@@ -118,9 +118,9 @@ const languages = {
     reviewLabel: 'avaliações atuais no Google',
     contactLabel: 'Fale com a Barbara',
     homeId: 'perguntas-populares-portugues',
-    homeCopy: 'Aulas particulares e em grupo de português brasileiro, online para todo o mundo',
+    homeCopy: 'Aulas particulares e em grupo de português brasileiro, online para todo o mundo e presenciais na Gold Coast',
     onlinePath: 'aulas-de-portugues/aulas-online',
-    onlineCopy: 'Escolha aulas particulares ou em grupo online',
+    onlineCopy: 'Escolha aulas particulares ou em grupo ao vivo',
     privatePath: 'aulas-de-portugues/aulas-particulares-portugues-gold-coast',
     privateCopy: 'Desenvolva confiança com aulas individuais e direcionadas de português brasileiro',
     ordinaryPath: 'como-aprender-portugues',
@@ -167,21 +167,21 @@ for (const [language, config] of Object.entries(languages)) {
 
 const comparisonPageChecks = {
   en: {
-    costLabel: 'No marketplace fee layer between learner and teacher',
-    dependsLabel: 'Teacher-dependent - not star-rated',
-    costSummary: 'Working directly removes that marketplace fee layer',
+    headers: ['Option', 'What it offers', 'What to check'],
+    reviewPattern: /Platform information reviewed\s*:\s*\d{1,2}\s+[A-Za-z]+\s+\d{4}/i,
   },
   es: {
-    costLabel: 'Sin una capa de cargos de plataforma entre estudiante y docente',
-    dependsLabel: 'Depende del docente - sin estrellas',
-    costSummary: 'El trato directo elimina esa capa de cargos',
+    headers: ['Opción', 'Qué ofrece', 'Qué debes comprobar'],
+    reviewPattern: /Informaci[oó]n de las plataformas revisada(?:\s+el)?\s+\d{1,2}\s+de\s+[A-Za-zÁÉÍÓÚáéíóú]+\s+de\s+\d{4}/i,
   },
   'pt-br': {
-    costLabel: 'Sem uma camada de cobrança da plataforma entre aluno e professor',
-    dependsLabel: 'Depende do professor - sem estrelas',
-    costSummary: 'A contratação direta elimina essa camada de cobrança',
+    headers: ['Opção', 'O que oferece', 'O que você deve verificar'],
+    reviewPattern: /Informa[cç][oõ]es das plataformas revisadas em\s+\d{1,2}\s+de\s+[A-Za-zÀ-ÖØ-öø-ÿ]+\s+de\s+\d{4}/i,
   },
 };
+
+const comparisonPlatforms = ['Preply', 'Superprof', 'italki', 'Verbling', 'Classgap', 'AmazingTalker'];
+const comparisonSourceUrl = 'https://help.preply.com/en/articles/4171383-preply-commission-model';
 
 function read(relative) {
   return fs.readFileSync(path.join(projectRoot, relative), 'utf8');
@@ -321,15 +321,19 @@ for (const [language, config] of Object.entries(languages)) {
 
     if (translationKey === 'answer-tutor-marketplaces-vs-independent-portuguese-teacher') {
       const check = comparisonPageChecks[language];
-      const comparisonTable = html.match(/<table\b[^>]*>[\s\S]*?comparison-stars[\s\S]*?<\/table>/i)?.[0] ?? '';
-      assert.ok(comparisonTable, `${outputPath}: star comparison table is missing`);
-      assert.equal((comparisonTable.match(/class=comparison-stars|class="comparison-stars"/g) ?? []).length, 8, `${outputPath}: expected eight star ratings`);
-      assert.equal((comparisonTable.match(/class=comparison-depends|class="comparison-depends"/g) ?? []).length, 2, `${outputPath}: both teacher-quality cells must be unranked`);
-      assert.equal((comparisonTable.match(/<strong>[1-5]\/5<\/strong>/g) ?? []).length, 8, `${outputPath}: every star rating needs a visible numeric score`);
-      assert.equal((comparisonTable.match(/<tr\b/g) ?? []).length, 6, `${outputPath}: comparison table must have one header and five criteria rows`);
-      assert.ok(normalize(comparisonTable).includes(check.costLabel), `${outputPath}: marketplace fee comparison is missing`);
-      assert.equal(normalize(comparisonTable).split(check.dependsLabel).length - 1, 2, `${outputPath}: teacher-dependent caveat must appear in both routes`);
-      assert.ok(normalize(html).includes(check.costSummary), `${outputPath}: plain-language cost summary is missing`);
+      const tables = [...html.matchAll(/<table\b[^>]*>[\s\S]*?<\/table>/gi)].map((match) => match[0]);
+      const comparisonTable = tables.find((table) => check.headers.every((header) => normalize(table).includes(header))) ?? '';
+      assert.ok(comparisonTable, `${outputPath}: factual comparison table with the required columns is missing`);
+      assert.equal((comparisonTable.match(/<tr\b/g) ?? []).length, 8, `${outputPath}: factual comparison table must have one header and seven option rows`);
+      assert.ok(normalize(comparisonTable).includes('Barbara Sharon'), `${outputPath}: factual comparison table must include Barbara Sharon`);
+      for (const platform of comparisonPlatforms) {
+        assert.ok(normalize(comparisonTable).includes(platform), `${outputPath}: factual comparison table is missing ${platform}`);
+      }
+      assert.ok(html.includes(comparisonSourceUrl), `${outputPath}: comparison must link to the official Preply commission source`);
+      assert.match(normalize(html), check.reviewPattern, `${outputPath}: comparison must show a dated platform-information review`);
+      assert.ok(!html.includes('comparison-stars'), `${outputPath}: obsolete star-ranking markup is still present`);
+      assert.ok(!html.includes('comparison-depends'), `${outputPath}: obsolete teacher-ranking markup is still present`);
+      assert.ok(!/[★☆]/u.test(html), `${outputPath}: obsolete star characters are still present`);
     }
 
     for (const relatedUrl of relatedUrls) {

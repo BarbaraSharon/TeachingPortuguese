@@ -205,6 +205,9 @@ sections:
     - title: ¿Cómo elijo clases de portugués brasileño online?
       text: Busca conversación en directo, correcciones concretas, formación y un formato viable.
       url: /es/respuestas/mejores-clases-portugues-online/
+    - title: ¿Plataforma de tutores o profesora independiente?
+      text: Compara perfiles de plataformas con formación, preparación, continuidad y contratación directa.
+      url: /es/respuestas/plataformas-tutores-vs-profesora-portugues-independiente/
     - title: ¿Cómo aprendo portugués para viajes y conversación?
       text: Practica situaciones probables, respuestas realistas, pronunciación y contexto cultural.
       url: /es/respuestas/aprender-portugues-viajes-conversacion/

@@ -207,6 +207,9 @@ sections:
     - title: Como escolher aulas de português brasileiro online?
       text: Procure conversação ao vivo, correções específicas, formação e um formato viável.
       url: /pt-br/respostas/melhores-aulas-portugues-online/
+    - title: Plataforma de professores ou professora independente?
+      text: Compare perfis de plataformas com formação, preparação, continuidade e contratação direta.
+      url: /pt-br/respostas/plataformas-professores-vs-professora-portugues-independente/
     - title: Como aprender português para viagens e conversação?
       text: Pratique situações prováveis, respostas realistas, pronúncia e contexto cultural.
       url: /pt-br/respostas/aprender-portugues-viagens-conversacao/

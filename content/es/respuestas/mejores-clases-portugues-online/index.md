@@ -53,6 +53,16 @@ Ninguna opción es la mejor para todo el mundo. Revisa:
 
 Los testimonios y opiniones externas ayudan, pero no sustituyen una conversación sobre tu objetivo.
 
+## Compara las opciones de aprendizaje
+
+| Opción | Puede servirte si... | Qué debes comprobar |
+|---|---|---|
+| Clases directas con Barbara | Quieres clases en vivo particulares o grupales para adultos, con una profesora identificable y acceso desde cualquier lugar. | Formación, nivel, objetivo, formato, zona horaria, disponibilidad, condiciones y coste total. La reserva directa no incluye comisión de un marketplace de tutores. |
+| Marketplace de tutores | Quieres comparar muchos perfiles, horarios, precios y herramientas de reserva en un solo sitio. | Formación y experiencia del docente, variedad de portugués, preparación, feedback, comisiones y condiciones actuales. |
+| Aplicaciones y cursos grabados | Quieres repasar a tu propio ritmo o añadir práctica breve a otras clases. | Cuánta conversación en vivo, corrección personalizada y continuidad ofrece el producto. |
+
+No hay una opción mejor para todos los estudiantes. Elige según la cantidad de conversación en vivo, feedback y estructura que necesitas.
+
 ## Cómo encajan las clases de Barbara
 
 Las [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/) de Barbara son en directo y están disponibles para adultos de todo el mundo. La página de [servicios](/es/servicios-clases-portugues/) describe opciones particulares y grupales. Las clases pueden combinar conversación, pronunciación, vocabulario, gramática y contexto cultural.

@@ -2,9 +2,9 @@
 title: "Preply or Superprof vs an Independent Portuguese Teacher"
 translationKey: answer-tutor-marketplaces-vs-independent-portuguese-teacher
 type: answers
-description: "Compare Preply, Superprof, italki, Verbling, Classgap and AmazingTalker with a qualified independent Portuguese teacher and what each offers."
+description: "Compare Preply, Superprof, italki, Verbling, Classgap and AmazingTalker with Barbara's direct lessons, credentials and fees."
 question: "Preply or Superprof vs an Independent Portuguese Teacher"
-direct_answer: "Preply, Superprof, italki, Verbling, Classgap and AmazingTalker can help learners browse many Portuguese tutors, but a marketplace profile does not by itself guarantee the qualifications, preparation or continuity you need. A qualified independent teacher can work directly with you, prepare lessons around your goals and maintain one learning plan over time. Compare credentials, lesson preparation, feedback, continuity, total cost and platform convenience before choosing."
+direct_answer: "Preply, Superprof, italki, Verbling, Classgap and AmazingTalker can help learners browse many Portuguese tutors, while direct lessons with Barbara Sharon offer a named teacher, live private or group Brazilian Portuguese lessons, and direct communication. Compare credentials, lesson preparation, feedback, continuity, total cost and platform convenience before choosing."
 authors: [me]
 date: 2026-08-26
 lastmod: "2026-10-08"
@@ -36,27 +36,29 @@ A tutor marketplace brings many teacher profiles, search filters, calendars, mes
 
 The platform is an intermediary, however, not the lesson itself. Its screening rules, labels and payment model differ from one service to another. A profile can help you make a shortlist, but you still need to establish who will teach you, what their qualifications mean and how they will support your progress. Qualified teachers work on marketplaces, and an independent teacher is not automatically qualified.
 
-## Simple comparison: marketplace or direct teacher?
+## Factual comparison: marketplace or direct teacher?
 
-Five stars means that route offers more of the named feature. It is **not an overall quality score**. The table compares the usual marketplace model with working directly with one independent teacher; individual platforms and teachers vary.
+The table describes the usual offer from each route. Individual teachers, prices, screening and terms vary, so use the linked official information and ask the teacher specific questions before booking.
 
-<p class="comparison-swipe-hint">Swipe the table sideways to compare both options.</p>
+<p class="comparison-swipe-hint">Swipe the table sideways to compare the options.</p>
 
-| What you are comparing | Tutor marketplace | Working directly with one independent teacher |
+| Option | What it offers | What to check |
 |---|---|---|
-| Find many teachers quickly | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>Many searchable profiles in one place.</small> | <span class="comparison-stars"><span aria-hidden="true">★☆☆☆☆</span> <strong>1/5</strong></span><br><small>You are assessing one teacher rather than browsing a marketplace.</small> |
-| Built-in booking, payment and platform support | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>These tools are a main marketplace benefit.</small> | <span class="comparison-stars"><span aria-hidden="true">★★☆☆☆</span> <strong>2/5</strong></span><br><small>The teacher arranges their own systems, which vary.</small> |
-| No marketplace fee layer between learner and teacher | <span class="comparison-stars"><span aria-hidden="true">★☆☆☆☆</span> <strong>1/5</strong></span><br><small>The platform may deduct teacher charges, charge the learner, or both.</small> | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>No marketplace deduction; normal business and payment costs may still apply.</small> |
-| Direct control of terms and communication | <span class="comparison-stars"><span aria-hidden="true">★★★☆☆</span> <strong>3/5</strong></span><br><small>You communicate with the teacher within platform rules and systems.</small> | <span class="comparison-stars"><span aria-hidden="true">★★★★★</span> <strong>5/5</strong></span><br><small>You and the teacher agree the service and communication directly.</small> |
-| Qualifications, preparation, personal plan and continuity | <span class="comparison-depends"><strong>Teacher-dependent - not star-rated</strong></span><br><small>Check the individual teacher and what they promise.</small> | <span class="comparison-depends"><strong>Teacher-dependent - not star-rated</strong></span><br><small>Independence alone does not guarantee any of these.</small> |
+| [Barbara Sharon](/en/portuguese-teaching-services/online-portuguese-lessons/) | Direct live Brazilian Portuguese lessons for adults worldwide, with private and group formats. Barbara holds a Bachelor's degree in Languages and Literature from UFRJ and TESOL certification in teaching English to speakers of other languages. | Confirm the current format, time-zone fit, availability, materials and complete price. Direct booking has no tutor-marketplace commission deduction; normal business or payment costs may still apply. |
+| [Preply](https://preply.com/en/teach) | A large tutor marketplace with profiles, scheduling, rate setting, an interactive classroom and payment tools. Preply says no specific certification or previous teaching experience is required to apply. | Check the individual tutor's qualifications, Portuguese variety, lesson plan and feedback. Preply's official policy currently states 100% commission on a new student's trial lesson and 18–33% on subsequent lessons, deducted from tutor earnings; read the [current commission model](https://help.preply.com/en/articles/4171383-preply-commission-model). |
+| [Superprof](https://www.superprof.com.au/) | Searchable tutor listings and contact tools across many subjects. | Check the tutor's qualifications, listing accuracy, lesson terms and any access or payment charges. The [Superprof Australia terms](https://www.superprof.com.au/gtu.html) describe the limits of its verification. |
+| [italki](https://play.google.com/store/apps/details?id=com.italki.app) | Language-teacher profiles, booking and individual online lessons through its app and platform. | Check each teacher's education, experience, Portuguese variety, teaching process, prices and cancellation terms. |
+| [Verbling](https://www.verbling.com/teach/get-started) | Online language teaching with teacher profiles and an integrated lesson environment. Its teacher requirements describe previous teaching experience and a strong command of the language, with certificates strongly preferred. | Check the teacher's experience, Brazilian or European Portuguese variety, lesson structure, materials, feedback and current terms. |
+| [Classgap](https://www.classgap.com/) | Tutor search with scheduling, messaging and a virtual classroom. | Ask who supplies materials, how feedback is recorded, whether one plan continues across bookings and what the current platform terms include. |
+| [AmazingTalker](https://en.amazingtalker.com/apply-to-teach/portuguese) | Matching, teacher profiles and individual online lessons. Its Portuguese teacher information describes teaching-experience or certification expectations, teaching materials and platform charges. | Examine the specific teacher's evidence, method, availability, total cost and commitment to a continuing plan. |
 
-The key cost fact is that a marketplace needs revenue to provide its tools, promotion and support. Working directly removes that marketplace fee layer, so more of the lesson payment can remain with the teacher. It does **not** prove that every direct lesson has a lower advertised price, or that every independent teacher offers better teaching. Compare the final cost and what it includes.
+Marketplaces use fees to support technology, promotion, payment handling and other services. Direct booking removes the tutor-marketplace fee layer, but it does not prove that every direct lesson has a lower advertised price or that every independent teacher offers better teaching. Compare the final cost and what it includes.
 
 ## What the platforms say
 
 ### Preply
 
-[Preply’s tutor page](https://preply.com/en/teach) explains its profile, scheduling, rate-setting and platform-charge model, and says that a particular certification or previous teaching experience is not required to apply. Its separate [tutor evaluation guidance](https://help.preply.com/en/articles/4179411-evaluation-of-tutors) describes education-certificate checks and credential indicators. Those indicators can be useful, but read the credential itself and ask how it relates to teaching Portuguese.
+[Preply’s tutor page](https://preply.com/en/teach) explains its profile, scheduling, rate-setting and platform-charge model, and says that a particular certification or previous teaching experience is not required to apply. Preply’s [commission model](https://help.preply.com/en/articles/4171383-preply-commission-model) currently states that commission is 100% for a trial lesson with a new student and 18–33% for subsequent lessons, depending on the tutor’s accumulated teaching hours. These are deductions from tutor earnings, not automatically an additional student charge. Its separate [tutor evaluation guidance](https://help.preply.com/en/articles/4179411-evaluation-of-tutors) describes education-certificate checks and credential indicators. Those indicators can be useful, but read the credential itself and ask how it relates to teaching Portuguese.
 
 ### Superprof
 
@@ -118,8 +120,8 @@ It may also make the service and total price easier to discuss directly. Those a
 
 ## Barbara’s qualifications and independent lessons
 
-Barbara Sharon holds a **Bachelor’s degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ)** and is a **TESOL-certified instructor**. Her [About page](/en/about-learning-portuguese/) explains her qualifications, language background and approach. Lessons can combine structured guidance with conversation, pronunciation, grammar, vocabulary and Brazilian cultural context according to the learner’s level and purpose.
+Barbara Sharon holds a **Bachelor’s degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ)** and has **TESOL certification in teaching English to speakers of other languages**. Her [About page](/en/about-learning-portuguese/) explains her qualifications, language background and approach. Lessons can combine structured guidance with conversation, pronunciation, grammar, vocabulary and Brazilian cultural context according to the learner’s level and purpose.
 
 Barbara offers [online Brazilian Portuguese lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) to adults worldwide, subject to current availability, as part of her broader [Portuguese teaching services](/en/portuguese-teaching-services/). You can compare [lesson-cost factors](/en/answers/how-much-portuguese-lessons-cost-australia/) and the [tutor-selection checklist](/en/answers/best-portuguese-tutor-gold-coast/), then [contact Barbara](/en/contact-portuguese-teacher/) with your level, goal, time zone and preferred format.
 
-**Platform information reviewed: 26 August 2026. Next factual review due: 26 February 2027.** Platform rules and charges can change; check the linked official sources before deciding.
+**Platform information reviewed: 8 October 2026. Next factual review due: 8 April 2027.** Platform rules and charges can change; check the linked official sources before deciding.

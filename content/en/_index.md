@@ -16,8 +16,8 @@ sections:
   content:
     eyebrow: Brazilian Portuguese tutor
     title: Brazilian Portuguese Lessons with Barbara Sharon
-    text: Private and group Brazilian Portuguese lessons online worldwide and in-person on the Gold Coast with a qualified
-      teacher.
+    text: Live private and group Brazilian Portuguese lessons online worldwide and in-person on the Gold Coast, with practical
+      guidance from a qualified teacher.
     primary_action:
       text: Online lessons worldwide
       url: /en/portuguese-teaching-services/online-portuguese-lessons/
@@ -223,6 +223,9 @@ sections:
     - title: How do I choose online Brazilian Portuguese lessons?
       text: Look for live speaking, specific feedback, sound teaching credentials and practical fit.
       url: /en/answers/best-online-brazilian-portuguese-lessons/
+    - title: Should I choose a tutor marketplace or an independent teacher?
+      text: Compare platform convenience, tutor evidence, lesson continuity, direct booking and current fees.
+      url: /en/answers/tutor-marketplaces-vs-independent-portuguese-teacher/
     - title: How can I learn Portuguese for travel and conversation?
       text: Practise likely situations, realistic replies, pronunciation and cultural context.
       url: /en/answers/learn-portuguese-for-travel-and-conversation/
