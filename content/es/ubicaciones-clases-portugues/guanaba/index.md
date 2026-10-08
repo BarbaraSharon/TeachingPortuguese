@@ -1,8 +1,7 @@
 ---
 translationKey: location-guanaba
-type: portuguese-teaching-locations
-title: "Clases online de portugués brasileño en Guanaba"
-description: "Clases online de portugués brasileño en Guanaba, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+title: "Portugués en Guanaba: Presenciales y Online"
+description: "Clases de portugués en Guanaba: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Ubicaciones para aprender portugués
 city: "Guanaba"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprende portugués brasileño online desde Guanaba. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Guanaba; confirma un horario para Guanaba usando Australia/Brisbane."
-scheduling: "Horarios para Guanaba: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Guanaba: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Guanaba. Las clases online están disponibles en todo el mundo. Para estudiantes en Guanaba, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "La programación usa el grupo horario Gold Coast como referencia de planificación. Los estudiantes de Guanaba pueden hacer las clases online desde Australia. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal."
+scheduling: "Horarios para Guanaba: Las clases online están disponibles en todo el mundo. Para estudiantes en Guanaba, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Guanaba: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Guanaba"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Guanaba?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Guanaba. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -54,3 +53,7 @@ Barbara Sharon ofrece formatos de aprendizaje flexibles, incluidas clases en lí
 ## Empieza hoy tu recorrido de portugués
 
 ¿Te interesa aprender portugués en Guanaba? Contacta con Barbara Sharon para una clase de portugués y empieza hoy tu recorrido lingüístico. Tanto si buscas clases de portugués brasileño en Guanaba, clases de conversación en portugués en Guanaba o servicios de tutoría particular de portugués en Guanaba, ella está lista para ayudarte a alcanzar tus metas.
+
+## Opción presencial para Guanaba
+
+Quienes están en Guanaba pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

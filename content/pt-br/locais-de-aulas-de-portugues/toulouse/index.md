@@ -1,6 +1,5 @@
 ---
 translationKey: location-toulouse
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Toulouse"
 description: "Aulas online de português brasileiro em Toulouse, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Toulouse. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Toulouse; confirme um horário para Toulouse usando Europe/Paris."
+local_context: "Estudantes em Toulouse podem fazer as aulas online a partir de France. O agendamento usa o grupo de fuso horário Europe como referência de planejamento. Esta página mantém a referência local específica de Toulouse, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Toulouse: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Paris; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Toulouse: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

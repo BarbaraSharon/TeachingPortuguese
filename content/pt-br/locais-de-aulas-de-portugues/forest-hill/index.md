@@ -1,8 +1,7 @@
 ---
 translationKey: location-forest-hill
-type: portuguese-teaching-locations
 title: "Português em Forest Hill: Presenciais e Online"
-description: "Aulas de português brasileiro em Forest Hill, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Forest Hill: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Forest Hill com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Forest Hill; opções presenciais em Gold Coast podem ser confirmadas para Forest Hill usando Australia/Brisbane."
-scheduling: "Horários para Forest Hill: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Forest Hill: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Forest Hill. As aulas online estão disponíveis em todo o mundo. Para estudantes em Forest Hill, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Forest Hill podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Forest Hill: As aulas online estão disponíveis em todo o mundo. Para estudantes em Forest Hill, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Forest Hill: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Forest Hill"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Forest Hill?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -72,3 +71,7 @@ Está pronto para começar sua aventura no português em Forest Hill? Agende uma
 - Aulas de conversação em português em Forest Hill
 
 Barbara oferece orientação especializada e adaptada às suas necessidades. Conheça mais sobre suas opções ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/).
+
+## Opção presencial para Forest Hill
+
+Quem está em Forest Hill pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

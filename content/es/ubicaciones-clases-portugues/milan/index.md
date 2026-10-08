@@ -1,6 +1,5 @@
 ---
 translationKey: location-milan
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Milan"
 description: "Clases online de portugués brasileño en Milan, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Milan. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Milan; confirma un horario para Milan usando Europe/Rome."
+local_context: "La programación usa el grupo horario Europe como referencia de planificación. Los estudiantes de Milan pueden hacer las clases online desde Italy. Esta página mantiene la referencia local específica de Milan, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Milan: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Rome; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Milan: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

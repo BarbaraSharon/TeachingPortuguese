@@ -7,7 +7,7 @@ question: "Native Speaker or Qualified Portuguese Teacher?"
 direct_answer: "A native Portuguese speaker can provide natural language and cultural knowledge, but native ability alone does not establish teaching skill. A qualified teacher should be able to diagnose needs, explain patterns, plan practice and give useful feedback. The strongest choice is the person whose Portuguese variety, teaching preparation, communication style and experience match your goal, whether native or non-native."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 200
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "Which Portuguese Class Suits a Complete Beginner?"
 direct_answer: "A complete beginner needs a clear sequence, understandable explanations, early pronunciation and listening support, regular speaking, useful feedback and manageable practice. Private lessons offer individual pacing; groups add interaction; live online classes provide flexible access; self-paced courses support review. Choose the format you can attend consistently and check that it teaches communication rather than requiring you to memorise rules before speaking."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 230
 robots: index, follow, max-image-preview:large
 image:

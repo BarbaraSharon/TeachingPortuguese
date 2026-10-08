@@ -7,7 +7,7 @@ question: "¿Hablante nativo o profesor de portugués?"
 direct_answer: "Un hablante nativo puede aportar lengua natural y contexto cultural, pero hablar portugués desde la infancia no demuestra por sí solo capacidad docente. Un profesor cualificado debe saber diagnosticar necesidades, explicar patrones, organizar la práctica y dar correcciones útiles. Elige a la persona cuya variedad de portugués, preparación, comunicación y experiencia encajen con tu objetivo, sea nativa o no."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 200
 robots: index, follow, max-image-preview:large
 image:

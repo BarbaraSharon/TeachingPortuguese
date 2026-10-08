@@ -7,7 +7,7 @@ question: "Portuguese Conversation Class or Structured Course?"
 direct_answer: "Choose a structured Portuguese course when you need new language, an ordered progression and systematic feedback. Choose a conversation class when you already have enough vocabulary and sentence patterns to benefit from extended speaking and listening. Many learners use both: structured lessons build the foundation, while guided conversation helps retrieve, adapt and use that language with other people."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 240
 robots: index, follow, max-image-preview:large
 image:

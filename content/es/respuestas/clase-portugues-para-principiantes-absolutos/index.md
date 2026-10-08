@@ -7,7 +7,7 @@ question: "¿Qué clase de portugués conviene al principiante?"
 direct_answer: "Un principiante absoluto necesita una secuencia clara, explicaciones comprensibles, apoyo inicial de pronunciación y escucha, conversación regular, correcciones útiles y práctica manejable. Las clases privadas adaptan el ritmo; los grupos añaden interacción; las clases online facilitan el acceso; los cursos autónomos ayudan a repasar. Elige un formato sostenible que enseñe a comunicarse sin exigir memorizar todas las reglas antes de hablar."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 230
 robots: index, follow, max-image-preview:large
 image:

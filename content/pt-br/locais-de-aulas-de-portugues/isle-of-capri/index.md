@@ -1,8 +1,7 @@
 ---
 translationKey: location-isle-of-capri
-type: portuguese-teaching-locations
 title: "Português em Isle Of Capri: Presenciais e Online"
-description: "Aulas de português brasileiro em Isle Of Capri, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Isle Of Capri: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Isle Of Capri com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Isle Of Capri; opções presenciais em Gold Coast podem ser confirmadas para Isle Of Capri usando Australia/Brisbane."
-scheduling: "Horários para Isle Of Capri: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Isle Of Capri: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Isle Of Capri. As aulas online estão disponíveis em todo o mundo. Para estudantes em Isle Of Capri, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Isle Of Capri podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Isle Of Capri: As aulas online estão disponíveis em todo o mundo. Para estudantes em Isle Of Capri, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Isle Of Capri: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Isle Of Capri"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Isle Of Capri?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -72,3 +71,7 @@ Tem interesse em aprender português em Isle of Capri? Entre em contato com Barb
 Para saber mais sobre seus serviços, visite a página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato diretamente pela página de [contato](/pt-br/contato-professora-portugues/). Barbara oferece sessões particulares e em grupo, incluindo clubes de conversação para prática imersiva. Encontre uma professora de português em Isle of Capri, uma professora de português brasileiro em Isle of Capri ou aulas de português perto de Isle of Capri com ensino especializado, adaptado às suas necessidades.
 
 Agende uma aula de português e dê o primeiro passo para aprender português brasileiro.
+
+## Opção presencial para Isle Of Capri
+
+Quem está em Isle Of Capri pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

@@ -7,7 +7,7 @@ question: "Preply or Superprof vs an Independent Portuguese Teacher"
 direct_answer: "Preply, Superprof, italki, Verbling, Classgap and AmazingTalker can help learners browse many Portuguese tutors, but a marketplace profile does not by itself guarantee the qualifications, preparation or continuity you need. A qualified independent teacher can work directly with you, prepare lessons around your goals and maintain one learning plan over time. Compare credentials, lesson preparation, feedback, continuity, total cost and platform convenience before choosing."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 55
 robots: index, follow, max-image-preview:large
 image:

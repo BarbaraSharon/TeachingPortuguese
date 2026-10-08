@@ -1,8 +1,7 @@
 ---
 translationKey: location-pimpama
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Pimpama"
-description: "Aulas online de português brasileiro em Pimpama, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Pimpama: Presenciais e Online"
+description: "Aulas de português em Pimpama: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Pimpama"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Pimpama. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Pimpama; confirme um horário para Pimpama usando Australia/Brisbane."
-scheduling: "Horários para Pimpama: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Pimpama: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Pimpama. As aulas online estão disponíveis em todo o mundo. Para estudantes em Pimpama, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Pimpama podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Pimpama: As aulas online estão disponíveis em todo o mundo. Para estudantes em Pimpama, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Pimpama: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Pimpama"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Pimpama?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Pimpama. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -65,3 +64,7 @@ Aprender português em Pimpama dá a você acesso a uma rica tradição linguís
 Há aulas de português online disponíveis em Pimpama. Nossas aulas online usam ferramentas interativas e recursos multimídia para tornar o aprendizado envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, permitindo explorar a cultura portuguesa por meio de conteúdo autêntico.
 
 Quer você seja iniciante em busca de aulas de português para iniciantes em Pimpama ou aluno avançado interessado em aulas de português conversacional em Pimpama, nosso formato online oferece flexibilidade e conveniência. Com opções de ensino individual e em grupo, aprender português com uma professora nativa de português em Pimpama nunca foi tão fácil.
+
+## Opção presencial para Pimpama
+
+Quem está em Pimpama pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Vernon. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Vernon; flexible scheduling can be confirmed for Vernon using America/Vancouver."
+local_context: "Learners in Vernon can use the online lessons from Canada. Scheduling uses the North America time-zone group as a planning reference. This page keeps the local reference specific to Vernon while the teaching service remains online-first."
 scheduling: "Scheduling from Vernon: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Vancouver; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Vernon: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

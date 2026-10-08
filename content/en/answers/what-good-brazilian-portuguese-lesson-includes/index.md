@@ -7,7 +7,7 @@ question: "What Should a Good Brazilian Portuguese Lesson Include?"
 direct_answer: "A good Brazilian Portuguese lesson should connect a clear communication goal with understandable input, active speaking, listening, pronunciation, useful vocabulary and grammar in context. It should also include specific feedback and a realistic next step for practice. The balance changes by level and purpose, but the learner should know what they are practising, why it matters and how to reuse it."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 210
 robots: index, follow, max-image-preview:large
 image:

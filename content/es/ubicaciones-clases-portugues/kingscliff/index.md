@@ -1,8 +1,7 @@
 ---
 translationKey: location-kingscliff
-type: portuguese-teaching-locations
 title: "Portugués en Kingscliff: Presenciales y Online"
-description: "Clases de portugués brasileño en Kingscliff, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+description: "Clases de portugués en Kingscliff: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Sydney"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño desde Kingscliff con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clases online de portugués brasileño para Kingscliff; las opciones presenciales en Gold Coast se confirman para Kingscliff usando Australia/Sydney."
-scheduling: "Horarios para Kingscliff: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Sydney; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Kingscliff: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño online desde Kingscliff. Las clases online están disponibles en todo el mundo. Para estudiantes en Kingscliff, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Kingscliff pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal."
+scheduling: "Horarios para Kingscliff: Las clases online están disponibles en todo el mundo. Para estudiantes en Kingscliff, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Sydney; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Kingscliff: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Kingscliff"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Kingscliff?"
-    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Sydney. Contacta con Barbara para elegir el mejor formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Sydney; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -65,3 +64,7 @@ Sus clases se centran en habilidades prácticas de conversación, contexto cultu
 ¿Quieres iniciar tu camino con el portugués? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede apoyar tu aprendizaje. Tanto si eres principiante absoluto como si deseas avanzar tus habilidades, ofrece enseñanza personalizada para ayudarte a tener éxito.
 
 Para conocer más sobre sus [servicios](/es/servicios-clases-portugues/), contacta con Barbara mediante la página de [contacto](/es/contacto-profesora-portugues/).
+
+## Opción presencial para Kingscliff
+
+Quienes están en Kingscliff pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

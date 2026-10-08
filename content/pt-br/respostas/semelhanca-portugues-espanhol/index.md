@@ -7,7 +7,7 @@ question: "Qual é a semelhança entre português e espanhol?"
 direct_answer: "Português e espanhol são línguas românicas relacionadas, por isso compartilham muito vocabulário e algumas estruturas gramaticais. Não são intercambiáveis. Pronúncia, compreensão oral, expressões, uso verbal e falsos cognatos podem causar confusão. Um falante de espanhol pode reconhecer rapidamente o português escrito, mas ainda precisa praticar escuta e fala para comunicar com clareza sem transferir automaticamente sons e estruturas do espanhol."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 170
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "¿Dónde aprender portugués en Gold Coast?"
 direct_answer: "En Gold Coast puedes aprender portugués brasileño con clases particulares o grupales presenciales, sujetas a disponibilidad, y también con clases online. Elige según tu nivel, objetivo, ritmo y necesidad de practicar conversación. Barbara Sharon ofrece opciones presenciales en Gold Coast y clases online para adultos de todo el mundo; conviene confirmar horarios y plazas antes de decidir."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 10
 robots: index, follow, max-image-preview:large
 image:

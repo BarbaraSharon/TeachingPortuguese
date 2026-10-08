@@ -7,7 +7,7 @@ question: "¿Es difícil el portugués brasileño para anglohablantes?"
 direct_answer: "Los anglohablantes pueden aprender portugués brasileño, aunque algunas características requieren práctica intencional. La pronunciación, las vocales nasales, el habla enlazada, los verbos, el género y ciertas palabras de enlace pueden resultar poco familiares. El proceso se vuelve más manejable al estudiar estas formas dentro de frases útiles, escuchar con regularidad, hablar desde el principio y recibir correcciones sin intentar dominar antes todas las reglas."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 100
 robots: index, follow, max-image-preview:large
 image:

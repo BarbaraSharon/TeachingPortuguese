@@ -7,7 +7,7 @@ question: "Perguntas para um professor de português online"
 direct_answer: "Antes de contratar, pergunte qual variedade do português é ensinada, para quem são as aulas, como funcionam a conversação e o feedback, o que acontece entre as sessões e qual tecnologia é necessária. Confirme horários, cancelamento, duração, faixa de preço atual e o que está incluído. Um bom primeiro contato deve esclarecer sua meta e mostrar como o professor pode apoiá-la."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 250
 robots: index, follow, max-image-preview:large
 image:

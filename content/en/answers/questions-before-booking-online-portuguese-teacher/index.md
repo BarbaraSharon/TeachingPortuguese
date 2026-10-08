@@ -7,7 +7,7 @@ question: "Questions Before Booking an Online Portuguese Teacher"
 direct_answer: "Before booking, ask which Portuguese variety the teacher teaches, who the lessons suit, how live speaking and feedback work, what happens between sessions, and which technology is required. Also confirm scheduling, cancellation terms, lesson length, current price range and what it includes. A useful first conversation should clarify your goal and show how the teacher would support it."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 250
 robots: index, follow, max-image-preview:large
 image:

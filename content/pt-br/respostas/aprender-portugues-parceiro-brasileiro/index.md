@@ -7,7 +7,7 @@ question: "Como aprender português para um parceiro brasileiro?"
 direct_answer: "Aprenda português para um parceiro brasileiro concentrando-se nas conversas que vocês realmente querem compartilhar: cumprimentos em família, rotinas, refeições, histórias, planos e expressões carinhosas cotidianas. Peça exemplos naturais ao parceiro, mas reserve a prática estruturada e as correções para outros momentos. Escuta regular, pronúncia e simulações ajudam você a participar com confiança sem transformar seu parceiro em professor permanente."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 180
 robots: index, follow, max-image-preview:large
 image:

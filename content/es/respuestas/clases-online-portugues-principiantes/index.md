@@ -7,7 +7,7 @@ question: "Clases online de portugués para principiantes: ¿funcionan?"
 direct_answer: "Las clases online de portugués pueden funcionar para principiantes cuando incluyen interacción en directo, una secuencia clara, práctica oral regular, explicaciones comprensibles y correcciones concretas. El alumno también necesita prácticas breves entre sesiones y audio y vídeo fiables. Una profesora puede modelar la pronunciación brasileña, detectar errores recurrentes y adaptar actividades; un curso grabado pasivo no ofrece la misma respuesta inmediata."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 110
 robots: index, follow, max-image-preview:large
 image:

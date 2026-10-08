@@ -1,6 +1,5 @@
 ---
 translationKey: location-burleigh-waters
-type: portuguese-teaching-locations
 title: "Português em Burleigh Waters: Presenciais e Online"
 description: "Aulas de português em Burleigh Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Burleigh Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Burleigh Waters; opções presenciais em Gold Coast podem ser confirmadas para Burleigh Waters usando Australia/Brisbane."
-scheduling: "Horários para Burleigh Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Burleigh Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Burleigh Waters. As aulas online estão disponíveis em todo o mundo. Para estudantes em Burleigh Waters, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Burleigh Waters podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Burleigh Waters: As aulas online estão disponíveis em todo o mundo. Para estudantes em Burleigh Waters, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Burleigh Waters: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Burleigh Waters"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Burleigh Waters?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -62,3 +61,7 @@ As sessões particulares com professora de português oferecem atenção persona
 Quer você tenha interesse em aulas de português brasileiro em Burleigh Waters, tutoria particular de português ou queira explorar o que está disponível na sua região, Barbara Sharon está aqui para orientar você. Com foco na comunicação prática e na consciência cultural, seu estilo de ensino torna o aprendizado de idiomas eficaz e agradável.
 
 Entre em contato com Barbara hoje mesmo para uma aula de português e comece a dominar o português brasileiro em Burleigh Waters - ou onde quer que você esteja. Aprenda com uma instrutora qualificada e apaixonada, que entende não apenas o idioma, mas também suas ricas raízes culturais. Encontre uma professora nativa de português em Burleigh Waters, uma professora de português brasileiro em Burleigh Waters ou aulas de conversação adaptadas às suas necessidades.
+
+## Opção presencial para Burleigh Waters
+
+Quem está em Burleigh Waters pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

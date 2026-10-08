@@ -1,6 +1,5 @@
 ---
 translationKey: location-the-hague
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en The Hague"
 description: "Clases online de portugués brasileño en The Hague, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde The Hague. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para The Hague; confirma un horario para The Hague usando Europe/Amsterdam."
+local_context: "La programación usa el grupo horario Europe como referencia de planificación. Los estudiantes de The Hague pueden hacer las clases online desde Netherlands. Esta página mantiene la referencia local específica de The Hague, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para The Hague: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Europe/Amsterdam; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en The Hague: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

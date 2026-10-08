@@ -7,7 +7,7 @@ question: "How Can I Learn Portuguese for Travel and Conversation?"
 direct_answer: "Learn Portuguese for travel and conversation by practising the situations you expect to face: greetings, transport, accommodation, food, directions, emergencies and friendly small talk. Build a small set of useful phrases, train your listening and pronunciation, then rehearse two-way conversations with feedback. Focus on clear, flexible communication rather than memorising a long phrase list without context."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 60
 robots: index, follow, max-image-preview:large
 image:

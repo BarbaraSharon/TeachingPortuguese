@@ -1,8 +1,7 @@
 ---
 translationKey: location-labrador
-type: portuguese-teaching-locations
 title: "Portugués en Labrador: Presenciales y Online"
-description: "Clases de portugués brasileño en Labrador, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+description: "Clases de portugués en Labrador: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño desde Labrador con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clases online de portugués brasileño para Labrador; las opciones presenciales en Gold Coast se confirman para Labrador usando Australia/Brisbane."
-scheduling: "Horarios para Labrador: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Labrador: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño online desde Labrador. Las clases online están disponibles en todo el mundo. Para estudiantes en Labrador, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Labrador pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal."
+scheduling: "Horarios para Labrador: Las clases online están disponibles en todo el mundo. Para estudiantes en Labrador, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Labrador: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Labrador"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Labrador?"
-    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -66,3 +65,7 @@ Hay clases presenciales de portugués disponibles en Surfers Paradise, una opci�
 Las clases presenciales proporcionan un entorno estructurado en el que puedes practicar la expresión oral con otros estudiantes en una atmósfera de apoyo. Recibirás materiales adaptados a tus intereses y metas de aprendizaje. Barbara también ofrece sesiones grupales, clases particulares y sesiones de club de conversación para el alumnado avanzado.
 
 Para conocer más sobre los [servicios](/es/servicios-clases-portugues/), contacta con Barbara desde la página de [contacto](/es/contacto-profesora-portugues/). Tanto si buscas una profesora de portugués como una profesora nativa de portugués en Labrador, Barbara Sharon está preparada para acompañarte en el dominio del idioma.
+
+## Opción presencial para Labrador
+
+Quienes están en Labrador pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

@@ -1,6 +1,5 @@
 ---
 translationKey: location-ikaluit
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Iqaluit"
 description: "Clases online de portugués brasileño en Iqaluit, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Iqaluit"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Iqaluit. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Iqaluit; confirma un horario para Iqaluit usando America/Iqaluit."
+local_context: "La programación usa el grupo horario North America como referencia de planificación. Los estudiantes de Iqaluit pueden hacer las clases online desde Canada. Esta página mantiene la referencia local específica de Iqaluit, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Iqaluit: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Iqaluit; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Iqaluit: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

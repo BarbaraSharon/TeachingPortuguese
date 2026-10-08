@@ -7,7 +7,7 @@ question: "Como aprender português para viagens e conversação?"
 direct_answer: "Aprenda português para viagens praticando as situações que provavelmente encontrará: cumprimentos, transporte, hospedagem, alimentação, direções, emergências e conversa informal. Crie um pequeno conjunto de frases úteis, treine compreensão oral e pronúncia e simule diálogos com correções. Busque comunicação clara e flexível, em vez de memorizar longas listas de frases sem contexto."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 60
 robots: index, follow, max-image-preview:large
 image:

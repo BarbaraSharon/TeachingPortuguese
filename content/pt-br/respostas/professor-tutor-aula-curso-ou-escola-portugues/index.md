@@ -7,7 +7,7 @@ question: "Professor, tutor, curso ou escola de português?"
 direct_answer: "Escolha o formato de acordo com o apoio de que você precisa. Um professor particular oferece feedback individual, uma aula em grupo inclui outros alunos, um curso fornece uma sequência e uma escola pode coordenar vários níveis e docentes. Compare o professor específico, o tempo de conversação, o feedback, o programa e a adequação prática, pois nenhum rótulo garante qualidade sozinho."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 190
 robots: index, follow, max-image-preview:large
 image:

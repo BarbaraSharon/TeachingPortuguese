@@ -1,8 +1,7 @@
 ---
 translationKey: location-coolangatta
-type: portuguese-teaching-locations
 title: "Português em Coolangatta: Presenciais e Online"
-description: "Aulas de português brasileiro em Coolangatta, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Coolangatta: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Coolangatta com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Coolangatta; opções presenciais em Gold Coast podem ser confirmadas para Coolangatta usando Australia/Brisbane."
-scheduling: "Horários para Coolangatta: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Coolangatta: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Coolangatta. As aulas online estão disponíveis em todo o mundo. Para estudantes em Coolangatta, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Coolangatta podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Coolangatta: As aulas online estão disponíveis em todo o mundo. Para estudantes em Coolangatta, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Coolangatta: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Coolangatta"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Coolangatta?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -60,3 +59,7 @@ Os alunos de Coolangatta podem frequentar aulas presenciais de português em Sur
 ## Comece hoje sua jornada
 
 Pronto para aprender português em Coolangatta? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma. Aprenda português brasileiro com uma falante nativa que entende o contexto cultural. Explore opções como aulas de conversação em português em Coolangatta ou aulas para iniciantes perto de Coolangatta nas [aulas](/pt-br/aulas-de-portugues/) e entre em [contato](/pt-br/contato-professora-portugues/) diretamente com ela.
+
+## Opção presencial para Coolangatta
+
+Quem está em Coolangatta pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

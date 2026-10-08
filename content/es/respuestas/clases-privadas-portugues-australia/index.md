@@ -7,7 +7,7 @@ question: "¿Dónde buscar clases privadas de portugués en Australia?"
 direct_answer: "Los adultos de cualquier lugar de Australia pueden tomar clases privadas de portugués brasileño online, mientras que en Gold Coast también puede haber opciones presenciales sujetas a disponibilidad. Compara formación, variedad lingüística, método y correcciones. Barbara Sharon ofrece clases personalizadas online para todo el mundo y tutoría presencial en Gold Coast cuando hay horarios y plazas disponibles."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 40
 robots: index, follow, max-image-preview:large
 image:

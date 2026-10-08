@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Lausanne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Lausanne; flexible scheduling can be confirmed for Lausanne using Europe/Zurich."
+local_context: "Learners in Lausanne can use the online lessons from Switzerland. Scheduling uses the Europe time-zone group as a planning reference. This page keeps the local reference specific to Lausanne while the teaching service remains online-first."
 scheduling: "Scheduling from Lausanne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Lausanne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

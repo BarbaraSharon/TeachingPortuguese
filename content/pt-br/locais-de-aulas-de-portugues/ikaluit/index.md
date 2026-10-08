@@ -1,6 +1,5 @@
 ---
 translationKey: location-ikaluit
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Iqaluit"
 description: "Aulas online de português brasileiro em Iqaluit, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Iqaluit"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Iqaluit. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Iqaluit; confirme um horário para Iqaluit usando America/Iqaluit."
+local_context: "O agendamento usa o grupo de fuso horário North America como referência de planejamento. Estudantes em Iqaluit podem fazer as aulas online a partir de Canada. Esta página mantém a referência local específica de Iqaluit, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Iqaluit: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Iqaluit; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Iqaluit: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

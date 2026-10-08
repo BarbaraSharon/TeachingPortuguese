@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-09-08
+lastmod: "2026-10-08"
 translationKey: home
 title: "Aprende portugués con Barbara Sharon"
 summary: "Aprende portugués brasileño con Barbara Sharon en clases particulares y grupales online en todo el mundo, y presenciales en Gold Coast."

@@ -7,7 +7,7 @@ question: "How to Choose the Best Portuguese Tutor on the Gold Coast"
 direct_answer: "The best Portuguese tutor for you is the teacher whose language variety, qualifications, lesson format and teaching approach match your goal. Compare verifiable credentials, how much guided speaking you will do, the quality of feedback, and genuine student evidence. Barbara Sharon may suit learners seeking Brazilian Portuguese, personalised guidance, online flexibility or in-person Gold Coast lessons, subject to current availability."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 20
 robots: index, follow, max-image-preview:large
 image:

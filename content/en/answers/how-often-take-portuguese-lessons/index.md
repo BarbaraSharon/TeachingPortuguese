@@ -7,7 +7,7 @@ question: "How Often Should I Take Portuguese Lessons?"
 direct_answer: "Take Portuguese lessons often enough to receive regular feedback and maintain momentum, but not so often that you cannot review or practise between sessions. The right frequency depends on your goal, deadline, starting level and schedule. One consistent lesson supported by several short practice periods can be more useful than an intensive timetable that you quickly abandon. Review the plan as your needs change."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 120
 robots: index, follow, max-image-preview:large
 image:

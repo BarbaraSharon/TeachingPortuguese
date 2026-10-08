@@ -1,7 +1,7 @@
 ---
 translationKey: location-palm-beach
-title: "Online Brazilian Portuguese Lessons in Palm Beach"
-description: "Online Brazilian Portuguese lessons in Palm Beach, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Portuguese in Palm Beach: In-Person & Online"
+description: "Portuguese lessons in Palm Beach: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -14,19 +14,19 @@ categories:
 - Portuguese teaching locations
 city: "Palm Beach"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Learn Brazilian Portuguese online from Palm Beach. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Palm Beach; flexible scheduling can be confirmed for Palm Beach using Australia/Brisbane."
-scheduling: "Scheduling from Palm Beach: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Palm Beach: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Palm Beach. Online lessons are available worldwide. Learners in Palm Beach can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Learners in Palm Beach can use the online lessons from Australia. Scheduling uses the Gold Coast time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Palm Beach: Online lessons are available worldwide. Learners in Palm Beach can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Palm Beach: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Palm Beach"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Palm Beach?"
-    answer: "Yes. Lessons are online, so you can study from Palm Beach. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -71,3 +71,7 @@ These vibrant festivals feature live music, traditional cuisine, folk dancing, a
 Ready to begin your Portuguese learning journey in Palm Beach? Contact Barbara Sharon for a Portuguese lesson and discover how her unique teaching approach can help you reach your language goals. Whether you're a complete beginner or aiming to advance your fluency, she'll tailor her lessons to suit your needs.
 
 Find out more about her services at [Services](/en/portuguese-teaching-services/) or reach out directly via the [Contact](/en/contact-portuguese-teacher/) page. Start speaking Portuguese like a native today!
+
+## In-person option for Palm Beach
+
+Learners in Palm Beach can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

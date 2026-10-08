@@ -1,8 +1,7 @@
 ---
 translationKey: location-oxenford
-type: portuguese-teaching-locations
-title: "Clases online de portugués brasileño en Oxenford"
-description: "Clases online de portugués brasileño en Oxenford, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+title: "Portugués en Oxenford: Presenciales y Online"
+description: "Clases de portugués en Oxenford: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Ubicaciones para aprender portugués
 city: "Oxenford"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprende portugués brasileño online desde Oxenford. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Oxenford; confirma un horario para Oxenford usando Australia/Brisbane."
-scheduling: "Horarios para Oxenford: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Oxenford: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Oxenford. Las clases online están disponibles en todo el mundo. Para estudiantes en Oxenford, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Oxenford pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal."
+scheduling: "Horarios para Oxenford: Las clases online están disponibles en todo el mundo. Para estudiantes en Oxenford, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Oxenford: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Oxenford"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Oxenford?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Oxenford. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -66,3 +65,7 @@ Explora clases de portugués brasileño mediante plataformas digitales que dan v
 ¿Lista o listo para aprender portugués en Oxenford? Reserva una clase de portugués con Barbara Sharon y conoce de primera mano su estilo atractivo. Tanto si te interesan las [clases de portugués para principiantes](/es/servicios-clases-portugues/), las [clases de conversación](/es/servicios-clases-portugues/) o conectar con una [profesora nativa de portugués](/es/contacto-profesora-portugues/), está aquí para acompañarte.
 
 Para más información, visita la página de [contacto](/es/contacto-profesora-portugues/) o explora todos los [servicios](/es/servicios-clases-portugues/).
+
+## Opción presencial para Oxenford
+
+Quienes están en Oxenford pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Canberra. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Canberra; flexible scheduling can be confirmed for Canberra using Australia/Sydney."
+local_context: "Learners in Canberra can use the online lessons from Australia. Scheduling uses the Australia & New Zealand time-zone group as a planning reference. This page keeps the local reference specific to Canberra while the teaching service remains online-first."
 scheduling: "Scheduling from Canberra: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Canberra: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

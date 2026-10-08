@@ -1,6 +1,5 @@
 ---
 translationKey: location-perth
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Perth"
 description: "Aulas online de português brasileiro em Perth, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Perth"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Perth. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Perth; confirme um horário para Perth usando Australia/Perth."
+local_context: "O agendamento usa o grupo de fuso horário Australia & New Zealand como referência de planejamento. Estudantes em Perth podem fazer as aulas online a partir de Australia. Esta página mantém a referência local específica de Perth, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Perth: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Perth; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Perth: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

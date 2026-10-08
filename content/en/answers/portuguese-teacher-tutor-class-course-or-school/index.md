@@ -7,7 +7,7 @@ question: "Portuguese Teacher, Tutor, Course or School?"
 direct_answer: "Choose the format that matches the support you need. A private teacher or tutor offers individual feedback, a class adds other learners, a structured course provides a sequence, and a language school may coordinate several teachers and levels. Compare the actual teacher, live speaking time, feedback, curriculum and practical fit rather than assuming one label guarantees quality."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 190
 robots: index, follow, max-image-preview:large
 image:

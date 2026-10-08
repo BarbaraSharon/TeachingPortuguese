@@ -1,8 +1,7 @@
 ---
 translationKey: location-broadbeach
-type: portuguese-teaching-locations
 title: "Portugués en Broadbeach: Presenciales y Online"
-description: "Clases de portugués brasileño en Broadbeach, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+description: "Clases de portugués en Broadbeach: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño desde Broadbeach con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clases online de portugués brasileño para Broadbeach; las opciones presenciales en Gold Coast se confirman para Broadbeach usando Australia/Brisbane."
-scheduling: "Horarios para Broadbeach: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Broadbeach: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño online desde Broadbeach. Las clases online están disponibles en todo el mundo. Para estudiantes en Broadbeach, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Broadbeach pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal."
+scheduling: "Horarios para Broadbeach: Las clases online están disponibles en todo el mundo. Para estudiantes en Broadbeach, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Broadbeach: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Broadbeach"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Broadbeach?"
-    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -60,3 +59,7 @@ Las clases particulares proporcionan atención individual adaptada a objetivos e
 ¿Listo para iniciar tu recorrido de aprendizaje de portugués en Broadbeach? Contacta con Barbara Sharon para una clase de portugués y da el primer paso para dominar portugués brasileño. Tanto si te interesan una profesora de portugués brasileño, clases de conversación o clases generales de portugués en Broadbeach, ofrece enseñanza personalizada para tu estilo de vida y objetivos.
 
 Con una creciente comunidad brasileña y emocionantes eventos culturales frecuentes en la zona, ahora es un excelente momento para comenzar tu aventura lingüística. Visita hoy [Contacto](/es/contacto-profesora-portugues/) para reservar tu sesión o conocer más sobre cómo Barbara puede ayudarte a lograr fluidez en portugués.
+
+## Opción presencial para Broadbeach
+
+Quienes están en Broadbeach pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

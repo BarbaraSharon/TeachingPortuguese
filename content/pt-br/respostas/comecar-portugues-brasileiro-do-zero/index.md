@@ -7,7 +7,7 @@ question: "Como começar a aprender português brasileiro do zero?"
 direct_answer: "Comece com os sons do português brasileiro, cumprimentos e poucos padrões de frases que possa usar imediatamente. Escute e fale desde o início, aprenda vocabulário dentro de expressões e acrescente gramática quando ela ajudar a comunicar um significado real. Pratique pouco e com frequência, e busque feedback. Sua primeira meta deve ser uma conversa simples, não memorizar todas as regras básicas."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 270
 robots: index, follow, max-image-preview:large
 image:

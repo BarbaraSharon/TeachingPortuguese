@@ -1,6 +1,5 @@
 ---
 translationKey: location-quebec-city
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Cidade de Quebec"
 description: "Aulas online de português brasileiro em Cidade de Quebec, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Cidade de Quebec. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Cidade de Quebec; confirme um horário para Cidade de Quebec usando America/Toronto."
+local_context: "O agendamento usa o grupo de fuso horário North America como referência de planejamento. Estudantes em Cidade de Quebec podem fazer as aulas online a partir de Canada. Esta página mantém a referência local específica de Cidade de Quebec, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Cidade de Quebec: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Toronto; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Cidade de Quebec: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

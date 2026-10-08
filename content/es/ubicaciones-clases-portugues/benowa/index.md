@@ -1,8 +1,7 @@
 ---
 translationKey: location-benowa
-type: portuguese-teaching-locations
 title: "Portugués en Benowa: Presenciales y Online"
-description: "Clases de portugués brasileño en Benowa, con opciones online y presenciales en Gold Coast. Hay formatos individuales y grupales sujetos a confirmación."
+description: "Clases de portugués en Benowa: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño desde Benowa con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clases online de portugués brasileño para Benowa; las opciones presenciales en Gold Coast se confirman para Benowa usando Australia/Brisbane."
-scheduling: "Horarios para Benowa: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Benowa: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño online desde Benowa. Las clases online están disponibles en todo el mundo. Para estudiantes en Benowa, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Benowa pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal."
+scheduling: "Horarios para Benowa: Las clases online están disponibles en todo el mundo. Para estudiantes en Benowa, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Benowa: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Benowa"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Benowa?"
-    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -68,3 +67,7 @@ Si buscas una tutora de portugués brasileño cerca de ti, Barbara ofrece sesion
 ¿Listo para empezar a aprender portugués en Benowa? Aprovecha una clase de portugués con Barbara Sharon y conoce su enfoque único de primera mano. Tanto si te interesan clases para principiantes como clases avanzadas de conversación, su orientación experta te ayudará a alcanzar tus objetivos lingüísticos.
 
 No pierdas la oportunidad de aprender portugués brasileño en un entorno de apoyo y culturalmente rico: ¡reserva hoy tu clases de portugués!
+
+## Opción presencial para Benowa
+
+Quienes están en Benowa pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

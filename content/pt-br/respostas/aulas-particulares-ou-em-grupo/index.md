@@ -7,7 +7,7 @@ question: "Aulas particulares ou em grupo: qual escolher?"
 direct_answer: "Aulas particulares de português costumam funcionar melhor para objetivos individuais, ritmo flexível e feedback concentrado. Aulas em grupo permitem interagir com várias pessoas, praticar turnos e compartilhar a aprendizagem. Nenhum formato é sempre superior. Escolha conforme a especificidade do seu objetivo, a atenção individual necessária, o ambiente social preferido, seus horários e a disponibilidade atual."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 80
 robots: index, follow, max-image-preview:large
 image:

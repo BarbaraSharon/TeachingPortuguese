@@ -7,7 +7,7 @@ question: "Cómo elegir al mejor profesor de portugués en Gold Coast"
 direct_answer: "El mejor profesor de portugués para ti es quien enseña la variedad que necesitas, cuenta con formación verificable y adapta el método a tu objetivo. Compara cuánto hablarás, la calidad de las correcciones, el formato y opiniones identificables. Barbara Sharon puede encajar si buscas portugués brasileño, orientación personalizada, clases online u opciones presenciales en Gold Coast sujetas a disponibilidad."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 20
 robots: index, follow, max-image-preview:large
 image:

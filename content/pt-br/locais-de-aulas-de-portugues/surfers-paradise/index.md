@@ -1,6 +1,5 @@
 ---
 translationKey: location-surfers-paradise
-type: portuguese-teaching-locations
 title: "Português em Surfers Paradise: Presenciais e Online"
 description: "Aulas de português em Surfers Paradise: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Surfers Paradise com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Surfers Paradise; opções presenciais em Gold Coast podem ser confirmadas para Surfers Paradise usando Australia/Brisbane."
-scheduling: "Horários para Surfers Paradise: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Surfers Paradise: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Surfers Paradise. As aulas online estão disponíveis em todo o mundo. Para estudantes em Surfers Paradise, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Surfers Paradise podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Surfers Paradise: As aulas online estão disponíveis em todo o mundo. Para estudantes em Surfers Paradise, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Surfers Paradise: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Surfers Paradise"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Surfers Paradise?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -80,3 +79,7 @@ Seu ensino de português online inclui:
 - Feedback em tempo real e apoio personalizado
 
 Quer você esteja procurando uma professora particular de português brasileiro em Surfers Paradise, aulas de português conversacional ou ensino avançado, sua plataforma online garante que educação de qualidade esteja sempre ao seu alcance. Com ferramentas concebidas para aprimorar habilidades de compreensão oral, fala, leitura e escrita, os alunos podem progredir no próprio ritmo enquanto se mantêm motivados.
+
+## Opção presencial para Surfers Paradise
+
+Quem está em Surfers Paradise pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

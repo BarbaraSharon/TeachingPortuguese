@@ -7,7 +7,7 @@ question: "What Is the Best Way to Learn Brazilian Portuguese?"
 direct_answer: "The most effective way to learn Brazilian Portuguese is to combine regular speaking with listening, pronunciation, useful vocabulary, grammar in context and specific feedback. Set a concrete goal, practise several times each week and review what you actually need to say. A qualified teacher can organise that practice, correct recurring errors and adapt lessons as your confidence grows."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 30
 robots: index, follow, max-image-preview:large
 image:

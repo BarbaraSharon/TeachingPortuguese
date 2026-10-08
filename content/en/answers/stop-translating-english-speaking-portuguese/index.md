@@ -7,7 +7,7 @@ question: "How to Stop Translating When Speaking Portuguese"
 direct_answer: "Stop translating word by word by connecting Portuguese directly with meanings, situations and complete phrases. Practise retrieving useful sentence chunks, answering familiar questions without a script and describing simple images or actions in Portuguese. Translation can still help you check meaning, but repeated listening, speaking and feedback gradually make common language available without building every sentence through English first."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 300
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "How Do I Start Learning Brazilian Portuguese from Zero?"
 direct_answer: "Start with Brazilian Portuguese sounds, greetings and a small set of sentence patterns you can use immediately. Listen and speak from the beginning, learn vocabulary inside phrases, and add grammar when it helps you express a real meaning. Use short, frequent practice and regular feedback. Your first goal should be a simple two-way conversation, not memorising every basic rule."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 270
 robots: index, follow, max-image-preview:large
 image:

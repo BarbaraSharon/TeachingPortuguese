@@ -1,8 +1,7 @@
 ---
 translationKey: location-benowa
-type: portuguese-teaching-locations
 title: "Português em Benowa: Presenciais e Online"
-description: "Aulas de português brasileiro em Benowa, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Benowa: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Benowa com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Benowa; opções presenciais em Gold Coast podem ser confirmadas para Benowa usando Australia/Brisbane."
-scheduling: "Horários para Benowa: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Benowa: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Benowa. As aulas online estão disponíveis em todo o mundo. Para estudantes em Benowa, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Benowa podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Benowa: As aulas online estão disponíveis em todo o mundo. Para estudantes em Benowa, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Benowa: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Benowa"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Benowa?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -68,3 +67,7 @@ Se você procura uma tutora de português brasileiro perto de você, Barbara ofe
 Pronto para começar a aprender português em Benowa? Aproveite uma aula de português com Barbara Sharon e experimente sua abordagem singular em primeira mão. Se você tem interesse em aulas de português para iniciantes em Benowa ou aulas de conversação avançada, sua orientação especializada ajudará você a alcançar suas metas linguísticas.
 
 Não perca a oportunidade de aprender português brasileiro em um ambiente acolhedor e culturalmente rico - agende hoje suas aulas de português!
+
+## Opção presencial para Benowa
+
+Quem está em Benowa pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

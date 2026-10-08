@@ -1,6 +1,5 @@
 ---
 translationKey: location-lisbon
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lisbon"
 description: "Aulas online de português brasileiro em Lisbon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/Lisbon"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lisbon. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Lisbon; confirme um horário para Lisbon usando Europe/Lisbon."
+local_context: "Estudantes em Lisbon podem fazer as aulas online a partir de Portugal. O agendamento usa o grupo de fuso horário Europe como referência de planejamento. Esta página mantém a referência local específica de Lisbon, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Lisbon: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Lisbon; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lisbon: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

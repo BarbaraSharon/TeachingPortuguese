@@ -1,8 +1,7 @@
 ---
 translationKey: location-mudgeeraba
-type: portuguese-teaching-locations
 title: "Português em Mudgeeraba: Presenciais e Online"
-description: "Aulas de português brasileiro em Mudgeeraba, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Mudgeeraba: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Mudgeeraba com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Mudgeeraba; opções presenciais em Gold Coast podem ser confirmadas para Mudgeeraba usando Australia/Brisbane."
-scheduling: "Horários para Mudgeeraba: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Mudgeeraba: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Mudgeeraba. As aulas online estão disponíveis em todo o mundo. Para estudantes em Mudgeeraba, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Mudgeeraba podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Mudgeeraba: As aulas online estão disponíveis em todo o mundo. Para estudantes em Mudgeeraba, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Mudgeeraba: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Mudgeeraba"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Mudgeeraba?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -69,3 +68,7 @@ Nossas aulas interativas incorporam ferramentas multimídia e conteúdo envolven
 Você está pronto para começar a aprender português em Mudgeeraba? Entre em contato com Barbara Sharon para uma aula de português e descubra como seus métodos de ensino podem apoiar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira melhorar suas habilidades de conversação, ela está aqui para orientar você a cada passo do caminho.
 
 Saiba mais sobre [aulas de português perto de Mudgeeraba](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão.
+
+## Opção presencial para Mudgeeraba
+
+Quem está em Mudgeeraba pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

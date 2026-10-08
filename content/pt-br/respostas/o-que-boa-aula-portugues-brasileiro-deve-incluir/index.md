@@ -7,7 +7,7 @@ question: "O que uma boa aula de português brasileiro deve incluir?"
 direct_answer: "Uma boa aula de português brasileiro conecta um objetivo comunicativo claro a material compreensível, conversação ativa, escuta, pronúncia, vocabulário útil e gramática em contexto. Também inclui feedback específico e um próximo passo realista. O equilíbrio muda conforme o nível, mas o aluno deve saber o que pratica, por que isso importa e como voltará a usar o conteúdo."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 210
 robots: index, follow, max-image-preview:large
 image:

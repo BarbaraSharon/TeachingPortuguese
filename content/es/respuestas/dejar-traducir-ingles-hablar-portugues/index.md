@@ -7,7 +7,7 @@ question: "¿Cómo dejar de traducir del inglés al hablar portugués?"
 direct_answer: "Deja de traducir palabra por palabra conectando el portugués directamente con significados, situaciones y frases completas. Practica expresiones útiles, responde preguntas conocidas sin guion y describe imágenes o acciones sencillas en portugués. La traducción todavía puede ayudarte a comprobar el sentido, pero la escucha, la conversación y las correcciones repetidas vuelven accesible el lenguaje frecuente sin construir primero cada frase en inglés."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 300
 robots: index, follow, max-image-preview:large
 image:

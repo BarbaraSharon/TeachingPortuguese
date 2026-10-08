@@ -7,7 +7,7 @@ question: "What Should I Practise Between Portuguese Lessons?"
 direct_answer: "Between Portuguese lessons, revisit a small amount of corrected language and use it actively. Recall phrases without looking, listen to a short recording, copy its rhythm, create personal sentences and speak for a minute on the lesson topic. Several brief practice periods are usually easier to sustain than one long session. Bring recurring questions and errors to the next lesson."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 280
 robots: index, follow, max-image-preview:large
 image:

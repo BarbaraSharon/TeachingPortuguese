@@ -1,8 +1,7 @@
 ---
 translationKey: location-guanaba
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Guanaba"
-description: "Aulas online de português brasileiro em Guanaba, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Guanaba: Presenciais e Online"
+description: "Aulas de português em Guanaba: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Guanaba"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Guanaba. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Guanaba; confirme um horário para Guanaba usando Australia/Brisbane."
-scheduling: "Horários para Guanaba: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Guanaba: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Guanaba. As aulas online estão disponíveis em todo o mundo. Para estudantes em Guanaba, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Guanaba podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Guanaba: As aulas online estão disponíveis em todo o mundo. Para estudantes em Guanaba, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Guanaba: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Guanaba"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Guanaba?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Guanaba. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -54,3 +53,7 @@ Barbara Sharon oferece formatos flexíveis de aprendizagem, incluindo aulas onli
 ## Comece hoje sua jornada no português
 
 Tem interesse em aprender português em Guanaba? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada no idioma. Quer você procure aulas de português brasileiro em Guanaba, aulas de conversação em português na localidade ou os serviços de uma professora particular de português, ela está pronta para ajudar você a alcançar seus objetivos.
+
+## Opção presencial para Guanaba
+
+Quem está em Guanaba pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

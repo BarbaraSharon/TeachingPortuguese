@@ -1,7 +1,7 @@
 ---
 translationKey: location-oxenford
-title: "Online Brazilian Portuguese Lessons in Oxenford"
-description: "Online Brazilian Portuguese lessons in Oxenford, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Portuguese in Oxenford: In-Person & Online"
+description: "Portuguese lessons in Oxenford: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -14,19 +14,19 @@ categories:
 - Portuguese teaching locations
 city: "Oxenford"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Learn Brazilian Portuguese online from Oxenford. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Oxenford; flexible scheduling can be confirmed for Oxenford using Australia/Brisbane."
-scheduling: "Scheduling from Oxenford: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Oxenford: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Oxenford. Online lessons are available worldwide. Learners in Oxenford can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Learners in Oxenford can use the online lessons from Australia. Scheduling uses the Gold Coast time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Oxenford: Online lessons are available worldwide. Learners in Oxenford can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Oxenford: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Oxenford"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Oxenford?"
-    answer: "Yes. Lessons are online, so you can study from Oxenford. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -63,3 +63,7 @@ Explore Brazilian Portuguese lessons Oxenford or comparisons with European Portu
 Ready to begin learning Portuguese in Oxenford? Book a Portuguese lesson with Barbara Sharon and experience her engaging teaching style firsthand. Whether you're interested in [Portuguese lessons for beginners Oxenford](/en/portuguese-teaching-services/), [Conversational Portuguese classes Oxenford](/en/portuguese-teaching-services/), or connecting with a [Native Portuguese teacher Oxenford](/en/contact-portuguese-teacher/), she’s here to support your language journey.
 
 For more information, visit the [Contact](/en/contact-portuguese-teacher/) page or explore our full range of services on the [Services](/en/portuguese-teaching-services/) page.
+
+## In-person option for Oxenford
+
+Learners in Oxenford can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

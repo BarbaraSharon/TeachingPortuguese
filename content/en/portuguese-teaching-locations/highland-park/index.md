@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Highland Park with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Highland Park; Gold Coast in-person options can be confirmed for Highland Park using Australia/Brisbane."
-scheduling: "Scheduling from Highland Park: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Highland Park: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Highland Park. Online lessons are available worldwide. Learners in Highland Park can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Highland Park can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic."
+scheduling: "Scheduling from Highland Park: Online lessons are available worldwide. Learners in Highland Park can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Highland Park: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Highland Park"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Highland Park?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -55,3 +55,7 @@ In-person Portuguese lessons are held in Surfers Paradise, making it convenient 
 Ready to begin learning Portuguese in Highland Park? Book a Portuguese lesson with Barbara Sharon and discover how easy it is to start speaking Brazilian Portuguese. Whether you want beginner Portuguese lessons Highland Park or advanced conversation coaching, her personalized approach helps you reach your goals.
 
 To learn more about her services, visit the [Services](/en/portuguese-teaching-services/) page or contact her directly through the [Contact](/en/contact-portuguese-teacher/) page. Find a Portuguese tutor near me Highland Park who can guide you toward fluency and cultural understanding.
+
+## In-person option for Highland Park
+
+Learners in Highland Park can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

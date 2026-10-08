@@ -1,6 +1,5 @@
 ---
 translationKey: location-mumbai
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Mumbai"
 description: "Aulas online de português brasileiro em Mumbai, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Asia"
 time_zone: "Asia/Kolkata"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Mumbai. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Mumbai; confirme um horário para Mumbai usando Asia/Kolkata."
+local_context: "Estudantes em Mumbai podem fazer as aulas online a partir de India. O agendamento usa o grupo de fuso horário Asia como referência de planejamento. Esta página mantém a referência local específica de Mumbai, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Mumbai: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Kolkata; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Mumbai: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

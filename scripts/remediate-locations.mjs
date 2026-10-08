@@ -8,8 +8,11 @@ const languages = [
   { code: 'pt-br', dir: 'content/pt-br/locais-de-aulas-de-portugues', service: '/pt-br/aulas-de-portugues/aulas-online/' },
   { code: 'es', dir: 'content/es/ubicaciones-clases-portugues', service: '/es/servicios-clases-portugues/clases-portugues-online/' },
 ];
-
-const goldCoast = new Set('advancetown alberton arundel ashmore austinville benowa biggera-waters bilinga bonogin broadbeach broadbeach-waters bundall burleigh-heads burleigh-waters carrara cedar-creek clagiraba clear-island-waters coolangatta coombabah coomera coomera-waters currumbin currumbin-valley currumbin-waters elanora ernest forest-hill foxwell gaven gilston gold-coast helensvale highland-park hollywell hope-island isle-of-capri jacobs-well kingscliff kingsholme labrador lower-beechmont maudsland mermaid-beach mermaid-waters merrimac mudgeeraba surfers-paradise'.split(' '));
+const cityFacts = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-aeo-repair/city-facts.json'), 'utf8'));
+const cityFactsBySlug = new Map(cityFacts.records.map((record) => [record.slug, record]));
+const delivery = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-aeo-repair/gold-coast-delivery.json'), 'utf8'));
+const deliveryBySlug = new Map(Object.entries(delivery.locations).flatMap(([band, slugs]) => slugs.map((slug) => [slug, { band, ...delivery.travel_bands[band] }])));
+if (deliveryBySlug.size !== 60) throw new Error(`Expected 60 Gold Coast driving-distance locations, found ${deliveryBySlug.size}`);
 const regionSets = {
   'Australia & New Zealand': new Set('adelaide auckland brisbane canberra guanaba melbourne nerang ormeau oxenford palm-beach parkside perth pimpama reedy-creek robina southport sydney tweed-heads upper-coomera varsity-lakes'.split(' ')),
   Asia: new Set('abu-dhabi bangalore dubai mumbai osaka seoul singapore tel-aviv tokyo'.split(' ')),
@@ -40,7 +43,7 @@ const labels = {
 
 function humanize(slug) { return slug.split('-').map((part) => part[0].toUpperCase() + part.slice(1)).join(' '); }
 function displayCity(slug, language) {
-  const overrides = { muenster: { en: 'Münster', 'pt-br': 'Münster', es: 'Münster' }, 'quebec-city': { en: 'Quebec City', 'pt-br': 'Cidade de Quebec', es: 'Ciudad de Quebec' } };
+  const overrides = { ikaluit: { en: 'Iqaluit', 'pt-br': 'Iqaluit', es: 'Iqaluit' }, muenster: { en: 'Münster', 'pt-br': 'Münster', es: 'Münster' }, 'quebec-city': { en: 'Quebec City', 'pt-br': 'Cidade de Quebec', es: 'Ciudad de Quebec' } };
   return overrides[slug]?.[language] ?? humanize(slug);
 }
 function yaml(value) { return JSON.stringify(value); }
@@ -55,8 +58,13 @@ function originalSource(relativePath) {
 }
 function originalBody(source) { return source.match(/^---[\s\S]*?---\n([\s\S]*)$/)?.[1]?.trim() ?? ''; }
 function quoted(value) { return value.replace(/^['"]|['"]$/g, ''); }
-function regionFor(slug) { if (goldCoast.has(slug)) return 'Gold Coast'; return Object.entries(regionSets).find(([, values]) => values.has(slug))?.[0] ?? 'International'; }
-function metadata(slug) { const region = regionFor(slug); const [country, zone] = locations[slug] ?? fallbackByRegion[region] ?? ['International', 'UTC']; return { region, country, zone }; }
+function regionFor(slug) { if (deliveryBySlug.has(slug)) return 'Gold Coast'; return Object.entries(regionSets).find(([, values]) => values.has(slug))?.[0] ?? 'International'; }
+function metadata(slug) {
+  const region = regionFor(slug);
+  const record = cityFactsBySlug.get(slug);
+  const [country, zone] = record ? [record.country, record.time_zone] : locations[slug] ?? fallbackByRegion[region] ?? ['International', 'UTC'];
+  return { region, country, zone };
+}
 function descriptionFor(language, city, isGoldCoast) {
   if (isGoldCoast) {
     return language.code === 'en'
@@ -74,22 +82,48 @@ function descriptionFor(language, city, isGoldCoast) {
   return `${base}${language.code === 'en' ? ' Start at your pace.' : language.code === 'pt-br' ? ' Comece no seu ritmo.' : ' A tu ritmo.'}`;
 }
 
+function deliveryCopy(language, city, travel) {
+  const venues = delivery.venue_names.join(', ').replace(/, ([^,]+)$/, ' or $1');
+  if (language.code === 'pt-br') {
+    return `As aulas online estão disponíveis em todo o mundo. Para estudantes em ${city}, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como ${venues}. O local mais próximo costuma ser ${travel.nearest}, a aproximadamente ${travel.drive_time} de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva.`;
+  }
+  if (language.code === 'es') {
+    return `Las clases online están disponibles en todo el mundo. Para estudiantes en ${city}, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como ${venues}. El lugar más cercano suele ser ${travel.nearest}, a unos ${travel.drive_time} en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar.`;
+  }
+  return `Online lessons are available worldwide. Learners in ${city} can also request an in-person lesson at a confirmed Gold Coast venue such as ${venues}. The nearest practical option is usually ${travel.nearest}, approximately ${travel.drive_time} by car in typical traffic. The venue and availability are confirmed before booking.`;
+}
+
+function deliverySection(language, city, travel) {
+  const venues = delivery.venue_names.join(', ').replace(/, ([^,]+)$/, ' or $1');
+  if (language.code === 'pt-br') return `## Opção presencial para ${city}\n\nQuem está em ${city} pode solicitar uma aula presencial em um local confirmado na Gold Coast, como ${venues}. O local mais próximo costuma ser ${travel.nearest}, a aproximadamente ${travel.drive_time} de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.`;
+  if (language.code === 'es') return `## Opción presencial para ${city}\n\nQuienes están en ${city} pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como ${venues}. El lugar más cercano suele ser ${travel.nearest}, a unos ${travel.drive_time} en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.`;
+  return `## In-person option for ${city}\n\nLearners in ${city} can request an in-person lesson at a confirmed Gold Coast venue such as ${venues}. The nearest practical option is usually ${travel.nearest}, approximately ${travel.drive_time} by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.`;
+}
+
 function render(slug, language, old) {
-  const city = displayCity(slug, language.code); const meta = metadata(slug); const l = { ...labels[language.code], code: language.code };
+  const city = displayCity(slug, language.code); const meta = metadata(slug); const l = { ...labels[language.code], code: language.code }; const travel = deliveryBySlug.get(slug);
   const isGoldCoast = meta.region === 'Gold Coast';
-  const scope = isGoldCoast ? 'online_plus_confirmed_gold_coast_venue' : 'online_only';
-  const serviceText = isGoldCoast ? l.venue : l.online;
+  const scope = travel ? 'online_plus_confirmed_gold_coast_venue' : 'online_only';
+  const serviceText = travel ? deliveryCopy(language, city, travel) : l.online;
   const parity = slug.length % 2 === 0;
   const facts = language.code === 'en'
-    ? [`${city} is located in ${meta.country}.`, `${city} is grouped in the ${meta.region} location set used for local scheduling and learner guidance.`]
+    ? [`Learners in ${city} can use the online lessons from ${meta.country === city ? 'the listed country' : meta.country}.`, `Scheduling uses the ${meta.region === city ? 'local' : meta.region} time-zone group as a planning reference.`]
     : language.code === 'pt-br'
-      ? [`${city} está localizada em ${meta.country}.`, `${city} faz parte do conjunto regional ${meta.region} usado para orientar horários e objetivos de aprendizagem.`]
-      : [`${city} está situada en ${meta.country}.`, `${city} forma parte del conjunto regional ${meta.region}, que se utiliza para orientar horarios y objetivos de aprendizaje.`];
+      ? [`Estudantes em ${city} podem fazer as aulas online a partir de ${meta.country === city ? 'o país indicado' : meta.country}.`, `O agendamento usa o grupo de fuso horário ${meta.region === city ? 'local' : meta.region} como referência de planejamento.`]
+      : [`Los estudiantes de ${city} pueden hacer las clases online desde ${meta.country === city ? 'el país indicado' : meta.country}.`, `La programación usa el grupo horario ${meta.region === city ? 'local' : meta.region} como referencia de planificación.`];
   const intro = language.code === 'en' ? `${l.intro} ${city}. ${serviceText}` : language.code === 'pt-br' ? `${l.intro} ${city}. ${serviceText}` : `${l.intro} ${city}. ${serviceText}`;
-  const context = language.code === 'en' ? `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} This page keeps the local reference specific to ${city} while the teaching service remains online-first.` : language.code === 'pt-br' ? `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} Esta página mantém a referência local específica de ${city}, enquanto o serviço de ensino continua priorizando o formato online.` : `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} Esta página mantiene la referencia local específica de ${city}, mientras que el servicio de enseñanza sigue priorizando el formato online.`;
+  const context = travel
+    ? language.code === 'en' ? `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually ${travel.nearest}, approximately ${travel.drive_time} by car in typical traffic.`
+      : language.code === 'pt-br' ? `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser ${travel.nearest}, a aproximadamente ${travel.drive_time} de carro em condições normais de trânsito.`
+        : `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser ${travel.nearest}, a unos ${travel.drive_time} en coche con tráfico normal.`
+    : language.code === 'en' ? `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} This page keeps the local reference specific to ${city} while the teaching service remains online-first.` : language.code === 'pt-br' ? `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} Esta página mantém a referência local específica de ${city}, enquanto o serviço de ensino continua priorizando o formato online.` : `${facts[parity ? 0 : 1]} ${facts[parity ? 1 : 0]} Esta página mantiene la referencia local específica de ${city}, mientras que el servicio de enseñanza sigue priorizando el formato online.`;
   const scheduling = language.code === 'en' ? `${l.scheduling} ${city}: ${serviceText} The IANA time zone is ${meta.zone}; use it as a planning reference rather than a promise of a particular class time.` : language.code === 'pt-br' ? `${l.scheduling} ${city}: ${serviceText} O fuso horário IANA é ${meta.zone}; use-o como referência de planejamento, não como promessa de um horário específico.` : `${l.scheduling} ${city}: ${serviceText} La zona horaria IANA es ${meta.zone}; úsala como referencia de planificación, no como promesa de una hora concreta.`;
-  const useCase = language.code === 'en' ? `${l.useCase} ${city}: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese.` : language.code === 'pt-br' ? `${l.useCase} ${city}: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro.` : `${l.useCase} ${city}: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño.`;
-  const faqA = l.faqA.replaceAll('{city}', city).replaceAll('{zone}', meta.zone);
+  const useCase = travel
+    ? language.code === 'en' ? `${l.useCase} ${city}: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability.` : language.code === 'pt-br' ? `${l.useCase} ${city}: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade.` : `${l.useCase} ${city}: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad.`
+    : language.code === 'en' ? `${l.useCase} ${city}: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese.` : language.code === 'pt-br' ? `${l.useCase} ${city}: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro.` : `${l.useCase} ${city}: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño.`;
+  const faqA = travel
+    ? language.code === 'en' ? `Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as ${delivery.venue_names.join(', ')}. The venue and timing are agreed in advance using ${meta.zone}; contact Barbara to confirm current availability.` : language.code === 'pt-br' ? `Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como ${delivery.venue_names.join(', ')}. O local e o horário são combinados com antecedência usando ${meta.zone}; fale com Barbara para confirmar a disponibilidade atual.` : `Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como ${delivery.venue_names.join(', ')}. El lugar y el horario se acuerdan con antelación usando ${meta.zone}; contacta con Barbara para confirmar la disponibilidad actual.`
+    : l.faqA.replaceAll('{city}', city).replaceAll('{zone}', meta.zone);
   const preserved = frontMatter(old);
   const image = field(preserved, 'filename') || field(preserved, 'image.filename');
   const alt = field(preserved, 'alt_text') || field(preserved, 'image.alt_text') || yaml(`Barbara Sharon teaching Brazilian Portuguese online for learners in ${city}`);
@@ -97,12 +131,12 @@ function render(slug, language, old) {
   const aliasLine = block(preserved, 'aliases');
   const onlineTitle = `${l.title} ${city}`;
   if (onlineTitle.length > 58) l.title = language.code === 'en' ? 'Online Portuguese Lessons in' : language.code === 'pt-br' ? 'Aulas online de português em' : 'Clases online de portugués en';
-  const title = isGoldCoast
+  const title = travel
     ? language.code === 'en' ? `Portuguese in ${city}: In-Person & Online`
       : language.code === 'pt-br' ? `Português em ${city}: Presenciais e Online`
         : `Portugués en ${city}: Presenciales y Online`
     : `${l.title} ${city}`;
-  return `---\ntranslationKey: ${key}\ntitle: ${yaml(title)}\ndescription: ${yaml(`${l.description} ${city}, with Barbara Sharon. Online private and group formats are arranged around goals and availability.`)}\ndate: 2026-08-05\nlastmod: 2026-08-10\n${aliasLine ? `${aliasLine}\n` : ''}image:\n  filename: ${image}\n  alt_text: ${alt}\nrobots: index, follow, max-image-preview:large\ncategories:\n- ${language.code === 'en' ? 'Portuguese teaching locations' : language.code === 'pt-br' ? 'Locais de aulas de português' : 'Ubicaciones para aprender portugués'}\ncity: ${yaml(city)}\ncountry: ${yaml(meta.country)}\nregion_group: ${yaml(meta.region)}\ntime_zone: ${yaml(meta.zone)}\nservice_scope: ${scope}\nlocal_intro: ${yaml(intro)}\nlocal_context: ${yaml(context)}\nscheduling: ${yaml(scheduling)}\nlearner_use_case: ${yaml(useCase)}\ncta:\n  label: ${yaml(`${l.cta} ${city}`)}\n  url: ${l.code === 'en' ? '/en/contact-portuguese-teacher/' : l.code === 'pt-br' ? '/pt-br/contato-professora-portugues/' : '/es/contacto-profesora-portugues/'}\nfaq:\n  - question: ${yaml(`${l.faqQ} ${city}?`)}\n    answer: ${yaml(faqA)}\neditorial_reviewed: true\n---\n`;
+  return `---\ntranslationKey: ${key}\ntitle: ${yaml(title)}\ndescription: ${yaml(`${l.description} ${city}, with Barbara Sharon. Online private and group formats are arranged around goals and availability.`)}\ndate: 2026-08-05\nlastmod: "2026-10-08"\n${aliasLine ? `${aliasLine}\n` : ''}image:\n  filename: ${image}\n  alt_text: ${alt}\nrobots: index, follow, max-image-preview:large\ncategories:\n- ${language.code === 'en' ? 'Portuguese teaching locations' : language.code === 'pt-br' ? 'Locais de aulas de português' : 'Ubicaciones para aprender portugués'}\ncity: ${yaml(city)}\ncountry: ${yaml(meta.country)}\nregion_group: ${yaml(meta.region)}\ntime_zone: ${yaml(meta.zone)}\nservice_scope: ${scope}\nlocal_intro: ${yaml(intro)}\nlocal_context: ${yaml(context)}\nscheduling: ${yaml(scheduling)}\nlearner_use_case: ${yaml(useCase)}\ncta:\n  label: ${yaml(`${l.cta} ${city}`)}\n  url: ${l.code === 'en' ? '/en/contact-portuguese-teacher/' : l.code === 'pt-br' ? '/pt-br/contato-professora-portugues/' : '/es/contacto-profesora-portugues/'}\nfaq:\n  - question: ${yaml(`${l.faqQ} ${city}?`)}\n    answer: ${yaml(faqA)}\neditorial_reviewed: true\n---\n`;
 }
 
 for (const language of languages) {
@@ -113,11 +147,13 @@ for (const language of languages) {
     const file = path.join(directory, slug, 'index.md');
     const old = originalSource(path.relative(root, file)) || fs.readFileSync(file, 'utf8');
     const city = displayCity(slug, language.code);
+    const travel = deliveryBySlug.get(slug);
     const rendered = render(slug, language, old)
       .replace(/^description:.*$/m, `description: ${yaml(descriptionFor(language, city, metadata(slug).region === 'Gold Coast'))}`)
       .replace('robots: noindex, follow, max-image-preview:large', 'robots: index, follow, max-image-preview:large')
       .replace('editorial_reviewed: false', 'editorial_reviewed: true');
-    fs.writeFileSync(file, `${rendered}\n${originalBody(old)}\n`);
+    const body = originalBody(old);
+    fs.writeFileSync(file, `${rendered}\n${travel ? `${body}\n\n${deliverySection(language, city, deliveryBySlug.get(slug))}` : body}\n`);
   }
 }
 console.log('Remediated 573 location pages across 3 languages.');

@@ -1,7 +1,7 @@
 ---
 translationKey: location-currumbin
 title: "Portuguese in Currumbin: In-Person & Online"
-description: "Brazilian Portuguese lessons in Currumbin, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+description: "Portuguese lessons in Currumbin: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Currumbin with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Currumbin; Gold Coast in-person options can be confirmed for Currumbin using Australia/Brisbane."
-scheduling: "Scheduling from Currumbin: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Currumbin: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Currumbin. Online lessons are available worldwide. Learners in Currumbin can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Currumbin can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Currumbin: Online lessons are available worldwide. Learners in Currumbin can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Currumbin: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Currumbin"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Currumbin?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -55,3 +55,7 @@ Students in Currumbin can attend in-person Portuguese lessons in Surfers Paradis
 ## Start Your Portuguese Journey Today!
 
 Ready to learn Brazilian Portuguese in Currumbin? Contact Barbara Sharon for a Portuguese lesson and begin your language journey today. Whether you're looking for Brazilian Portuguese tutor in Currumbin, online Portuguese lessons near me, or beginner Portuguese classes in Currumbin, she is here to support your goals.
+
+## In-person option for Currumbin
+
+Learners in Currumbin can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

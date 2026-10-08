@@ -1,8 +1,7 @@
 ---
 translationKey: location-reedy-creek
-type: portuguese-teaching-locations
-title: "Clases online de portugués brasileño en Reedy Creek"
-description: "Clases online de portugués brasileño en Reedy Creek, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
+title: "Portugués en Reedy Creek: Presenciales y Online"
+description: "Clases de portugués en Reedy Creek: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Ubicaciones para aprender portugués
 city: "Reedy Creek"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprende portugués brasileño online desde Reedy Creek. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Reedy Creek; confirma un horario para Reedy Creek usando Australia/Brisbane."
-scheduling: "Horarios para Reedy Creek: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Reedy Creek: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Reedy Creek. Las clases online están disponibles en todo el mundo. Para estudiantes en Reedy Creek, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "La programación usa el grupo horario Gold Coast como referencia de planificación. Los estudiantes de Reedy Creek pueden hacer las clases online desde Australia. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal."
+scheduling: "Horarios para Reedy Creek: Las clases online están disponibles en todo el mundo. Para estudiantes en Reedy Creek, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Reedy Creek: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Reedy Creek"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Reedy Creek?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Reedy Creek. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -61,3 +60,7 @@ Estudiar portugués en Reedy Creek te permite explorar no solo Brasil, sino tamb
 Hay clases de portugués en línea disponibles en Reedy Creek, con horarios flexibles que se adaptan a tu estilo de vida. Estas sesiones interactivas usan herramientas multimedia y recursos interesantes para que aprender sea agradable y eficaz.
 
 Recibirás materiales personalizados según tus intereses y objetivos concretos, tanto si deseas dominar frases básicas como profundizar tu comprensión de la cultura brasileña con contenido auténtico. Tanto si empiezas desde cero como si estás lista o listo para una conversación avanzada, las tutorías de portugués en línea te ayudan a desarrollar confianza y fluidez desde cualquier lugar del mundo.
+
+## Opción presencial para Reedy Creek
+
+Quienes están en Reedy Creek pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Broadbeach or Kirra, a unos 15–45 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

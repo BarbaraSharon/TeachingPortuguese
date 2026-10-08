@@ -7,7 +7,7 @@ question: "Aulas, aplicativos, cursos ou tutores de IA?"
 direct_answer: "Nenhuma ferramenta é a melhor para todas as partes do português. Aplicativos e cursos gravados facilitam repetição e explicações; a IA pode criar atividades, mas também errar; aulas ao vivo oferecem escuta humana, explicação adaptada, contexto cultural e feedback. Um bom plano costuma combinar ferramentas independentes para revisão com conversação ao vivo para comunicação e aplicação das correções."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 220
 robots: index, follow, max-image-preview:large
 image:

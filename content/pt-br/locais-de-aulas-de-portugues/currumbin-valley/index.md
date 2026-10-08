@@ -1,6 +1,5 @@
 ---
 translationKey: location-currumbin-valley
-type: portuguese-teaching-locations
 title: "Português em Currumbin Valley: Presenciais e Online"
 description: "Aulas de português em Currumbin Valley: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Currumbin Valley com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Currumbin Valley, uma área de Gold Coast; confirme a modalidade para Currumbin Valley usando Australia/Brisbane."
-scheduling: "Horários para Currumbin Valley: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Currumbin Valley: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Currumbin Valley. As aulas online estão disponíveis em todo o mundo. Para estudantes em Currumbin Valley, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Currumbin Valley podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Currumbin Valley: As aulas online estão disponíveis em todo o mundo. Para estudantes em Currumbin Valley, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Currumbin Valley: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Currumbin Valley"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Currumbin Valley?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -66,3 +65,7 @@ Quer você procure serviços de professora de português brasileiro perto de Cur
 Pronto para aprender português brasileiro em Currumbin Valley? Entre em contato com Barbara Sharon hoje mesmo para conhecer os serviços de professora de português na Gold Coast, aulas em grupo ou ensino online. Você também pode saber mais sobre suas opções na página de [aulas](/pt-br/aulas-de-portugues/) e agendar uma aula de português pela seção de [contato](/pt-br/contato-professora-portugues/).
 
 Com aulas de português na Gold Coast disponíveis presencialmente e online, Barbara Sharon facilita o início da sua jornada de aprendizagem de idiomas. Quer você procure aulas de português adequadas para iniciantes ou habilidades avançadas de conversação, sua orientação especializada apoiará seu sucesso ao dominar o português brasileiro.
+
+## Opção presencial para Currumbin Valley
+
+Quem está em Currumbin Valley pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

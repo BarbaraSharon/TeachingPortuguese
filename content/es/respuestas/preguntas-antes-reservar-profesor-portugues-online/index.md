@@ -7,7 +7,7 @@ question: "Preguntas para un profesor de portugués online"
 direct_answer: "Antes de reservar, pregunta qué variedad de portugués enseña, para quién son las clases, cómo funcionan la conversación y las correcciones, qué se practica entre sesiones y qué tecnología necesitas. Confirma también horarios, cancelaciones, duración, rango de precios actual y qué incluye. Una primera conversación útil debe aclarar tu objetivo y mostrar cómo el profesor podría apoyarlo."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 250
 robots: index, follow, max-image-preview:large
 image:

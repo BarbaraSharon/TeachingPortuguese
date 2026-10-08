@@ -7,7 +7,7 @@ question: "Preciso de gramática para falar português?"
 direct_answer: "Você não precisa dominar todas as regras gramaticais antes de falar português, mas a gramática ajuda a comunicar com clareza e entender como as frases funcionam. Aprenda as estruturas necessárias para suas conversas atuais, use-as em exemplos significativos e revise-as depois do feedback. Falar sem nunca observar a estrutura pode fixar erros; estudar regras sem aplicá-las não desenvolve a conversação."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 150
 robots: index, follow, max-image-preview:large
 image:

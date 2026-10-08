@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Burleigh Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Burleigh Waters; Gold Coast in-person options can be confirmed for Burleigh Waters using Australia/Brisbane."
-scheduling: "Scheduling from Burleigh Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Burleigh Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Burleigh Waters. Online lessons are available worldwide. Learners in Burleigh Waters can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Burleigh Waters can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Burleigh Waters: Online lessons are available worldwide. Learners in Burleigh Waters can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Burleigh Waters: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Burleigh Waters"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Burleigh Waters?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -59,3 +59,7 @@ Private Portuguese tutor sessions provide personalized attention based on indivi
 Whether you're interested in Brazilian Portuguese lessons Burleigh Waters, private Portuguese tutoring, or want to explore what's available in your area, Barbara Sharon is here to guide you. With a focus on practical communication and cultural awareness, her teaching style makes language learning both effective and enjoyable.
 
 Contact Barbara today for a Portuguese lesson and begin mastering Brazilian Portuguese right in Burleigh Waters-or anywhere you are. Learn with a qualified and passionate instructor who understands not just the language but also its rich cultural roots. Find a native Portuguese teacher Burleigh Waters, a Brazilian Portuguese tutor Burleigh Waters, or conversational Portuguese classes tailored to your needs.
+
+## In-person option for Burleigh Waters
+
+Learners in Burleigh Waters can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

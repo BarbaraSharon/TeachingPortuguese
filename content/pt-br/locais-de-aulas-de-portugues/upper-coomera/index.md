@@ -1,8 +1,7 @@
 ---
 translationKey: location-upper-coomera
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Upper Coomera"
-description: "Aulas online de português brasileiro em Upper Coomera, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Upper Coomera: Presenciais e Online"
+description: "Aulas de português em Upper Coomera: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Upper Coomera"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Upper Coomera. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Upper Coomera; confirme um horário para Upper Coomera usando Australia/Brisbane."
-scheduling: "Horários para Upper Coomera: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Upper Coomera: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Upper Coomera. As aulas online estão disponíveis em todo o mundo. Para estudantes em Upper Coomera, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Upper Coomera podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Upper Coomera: As aulas online estão disponíveis em todo o mundo. Para estudantes em Upper Coomera, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Upper Coomera: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Upper Coomera"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Upper Coomera?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Upper Coomera. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -67,3 +66,7 @@ Para alunos em Upper Coomera que procuram opções flexíveis de aprendizagem, B
 Ferramentas interativas, recursos multimídia e materiais adaptados garantem que sua experiência de aprendizagem seja envolvente e impactante. Quer você tenha interesse em melhorar a pronúncia, ampliar o vocabulário ou dominar habilidades de conversação, essas aulas oferecem aplicação no mundo real por meio de conteúdo autêntico.
 
 Além das sessões particulares, aulas em grupo e um clube de conversação mensal estão disponíveis para quem prefere a aprendizagem colaborativa. Esses formatos proporcionam oportunidades de praticar a fala em um ambiente divertido e acolhedor, enquanto aprofundam sua conexão com o mundo de língua portuguesa.
+
+## Opção presencial para Upper Coomera
+
+Quem está em Upper Coomera pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

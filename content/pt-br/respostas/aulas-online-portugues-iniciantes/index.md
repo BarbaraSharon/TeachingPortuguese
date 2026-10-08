@@ -7,7 +7,7 @@ question: "Aulas online de português funcionam para iniciantes?"
 direct_answer: "Aulas online de português podem funcionar para iniciantes quando incluem interação ao vivo, sequência clara, prática oral regular, explicações compreensíveis e feedback específico. O aluno também precisa de práticas curtas entre as sessões e áudio e vídeo confiáveis. Uma professora pode modelar a pronúncia brasileira, perceber erros recorrentes e adaptar atividades; um curso gravado passivo não oferece a mesma resposta imediata."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 110
 robots: index, follow, max-image-preview:large
 image:

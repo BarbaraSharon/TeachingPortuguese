@@ -1,6 +1,6 @@
 ---
 title: "Brazilian Portuguese Lessons with Barbara Sharon"
-lastmod: 2026-08-27
+lastmod: "2026-10-08"
 type: language-home
 url: /en/
 translationKey: language-home

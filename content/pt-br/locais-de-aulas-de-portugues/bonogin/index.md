@@ -1,8 +1,7 @@
 ---
 translationKey: location-bonogin
-type: portuguese-teaching-locations
 title: "Português em Bonogin: Presenciais e Online"
-description: "Aulas de português brasileiro em Bonogin, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Bonogin: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Bonogin com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Bonogin; opções presenciais em Gold Coast podem ser confirmadas para Bonogin usando Australia/Brisbane."
-scheduling: "Horários para Bonogin: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Bonogin: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Bonogin. As aulas online estão disponíveis em todo o mundo. Para estudantes em Bonogin, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Bonogin podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Bonogin: As aulas online estão disponíveis em todo o mundo. Para estudantes em Bonogin, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Bonogin: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Bonogin"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Bonogin?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -66,3 +65,7 @@ A opção de clube de conversação oferece um ambiente relaxado para praticar p
 Se você procura uma tutora qualificada de português em Bonogin ou uma professora de português brasileiro nas proximidades, Barbara Sharon está pronta para ajudar. Ela oferece aulas flexíveis, incluindo opções de tutoria online de português em Bonogin e aulas presenciais de português em Surfers Paradise.
 
 Entre em contato hoje para agendar uma aula de português e dê o primeiro passo para dominar o português brasileiro. Vamos começar sua jornada rumo à fluência em um dos idiomas mais dinâmicos do mundo!
+
+## Opção presencial para Bonogin
+
+Quem está em Bonogin pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise or Broadbeach, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

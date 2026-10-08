@@ -3,7 +3,7 @@ translationKey: portugues-para-viagens
 title: "Brazilian Portuguese for Travel Confidence"
 description: "Prepare for travel with Brazilian Portuguese phrases for greetings, food, directions, and everyday interactions in Brazil or elsewhere."
 date: 2026-08-05
-lastmod: 2026-08-11
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-for-travel/
 image:

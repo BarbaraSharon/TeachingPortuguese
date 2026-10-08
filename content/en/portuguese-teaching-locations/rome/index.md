@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Rome"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Rome. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Rome; flexible scheduling can be confirmed for Rome using Europe/Rome."
+local_context: "Learners in Rome can use the online lessons from Italy. Scheduling uses the Europe time-zone group as a planning reference. This page keeps the local reference specific to Rome while the teaching service remains online-first."
 scheduling: "Scheduling from Rome: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Rome; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Rome: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

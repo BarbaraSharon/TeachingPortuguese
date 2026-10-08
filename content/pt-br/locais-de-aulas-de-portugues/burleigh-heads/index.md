@@ -1,8 +1,7 @@
 ---
 translationKey: location-burleigh-heads
-type: portuguese-teaching-locations
 title: "Português em Burleigh Heads: Presenciais e Online"
-description: "Aulas de português brasileiro em Burleigh Heads, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Burleigh Heads: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Burleigh Heads com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Burleigh Heads; opções presenciais em Gold Coast podem ser confirmadas para Burleigh Heads usando Australia/Brisbane."
-scheduling: "Horários para Burleigh Heads: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Burleigh Heads: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Burleigh Heads. As aulas online estão disponíveis em todo o mundo. Para estudantes em Burleigh Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Burleigh Heads podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Burleigh Heads: As aulas online estão disponíveis em todo o mundo. Para estudantes em Burleigh Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Burleigh Heads: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Burleigh Heads"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Burleigh Heads?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -62,3 +61,7 @@ Para quem busca conveniência, os serviços online com professora de português 
 ## Comece hoje sua jornada no português
 
 Você está pronto para começar a aprender ou melhorar suas habilidades em português em Burleigh Heads? Barbara Sharon oferece uma aula de português para que você possa conhecer seu estilo de ensino em primeira mão. Quer você tenha interesse em aulas de português brasileiro em Burleigh Heads, aulas de conversação ou simplesmente queira encontrar uma professora de português confiável perto de você em Burleigh Heads, ela está aqui para orientar sua jornada no idioma.
+
+## Opção presencial para Burleigh Heads
+
+Quem está em Burleigh Heads pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

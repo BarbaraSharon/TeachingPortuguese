@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Mermaid Waters with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Mermaid Waters; Gold Coast in-person options can be confirmed for Mermaid Waters using Australia/Brisbane."
-scheduling: "Scheduling from Mermaid Waters: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Mermaid Waters: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Mermaid Waters. Online lessons are available worldwide. Learners in Mermaid Waters can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Learners in Mermaid Waters can use the online lessons from Australia. Scheduling uses the Gold Coast time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic."
+scheduling: "Scheduling from Mermaid Waters: Online lessons are available worldwide. Learners in Mermaid Waters can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Mermaid Waters: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Mermaid Waters"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Mermaid Waters?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -60,3 +60,7 @@ Barbara Sharon's online Portuguese lessons are tailored to your specific interes
 Interested in learning Portuguese in Mermaid Waters? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 Find out more about [Portuguese lessons near Mermaid Waters](/en/portuguese-teaching-services/), including [private Portuguese tutor Mermaid Waters](/en/portuguese-teaching-services/portuguese-tutoring-gold-coast/)options and [conversational classes](/en/portuguese-speaking-club/). Get in touch today through the [Contact](/en/contact-portuguese-teacher/) page to start your Portuguese learning journey.
+
+## In-person option for Mermaid Waters
+
+Learners in Mermaid Waters can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

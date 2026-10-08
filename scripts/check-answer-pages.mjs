@@ -289,7 +289,7 @@ for (const [language, config] of Object.entries(languages)) {
     assert.ok(wordCount >= 40 && wordCount <= 80, `${sourcePath}: direct answer has ${wordCount} words; expected 40–80`);
     assert.match(raw, /^authors:\s*\[me\]$/m, `${sourcePath}: authors must be [me]`);
     assert.match(raw, /^date:\s*\d{4}-\d{2}-\d{2}$/m, `${sourcePath}: date is required`);
-    assert.match(raw, /^lastmod:\s*\d{4}-\d{2}-\d{2}$/m, `${sourcePath}: lastmod is required`);
+    assert.match(raw, /^lastmod:\s*["']?\d{4}-\d{2}-\d{2}["']?$/m, `${sourcePath}: lastmod is required`);
     assert.match(raw, /^robots:\s*index, follow, max-image-preview:large$/m, `${sourcePath}: robots directive is incorrect`);
     assert.match(raw, /^image:\n\s+filename:/m, `${sourcePath}: image is required`);
     assert.match(raw, /^related_pages:\n/m, `${sourcePath}: related pages are required`);

@@ -1,8 +1,7 @@
 ---
 translationKey: location-nerang
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Nerang"
-description: "Aulas online de português brasileiro em Nerang, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Nerang: Presenciais e Online"
+description: "Aulas de português em Nerang: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Nerang"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Nerang. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Nerang; confirme um horário para Nerang usando Australia/Brisbane."
-scheduling: "Horários para Nerang: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Nerang: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Nerang. As aulas online estão disponíveis em todo o mundo. Para estudantes em Nerang, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Nerang podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Nerang: As aulas online estão disponíveis em todo o mundo. Para estudantes em Nerang, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Nerang: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Nerang"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Nerang?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Nerang. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -71,3 +70,7 @@ Quer você seja iniciante absoluto ou queira aperfeiçoar sua fluência, nossas 
 Você está pronto para começar sua jornada de aprendizagem de português? Entre em contato com Barbara Sharon hoje para uma aula de português e conheça de perto sua abordagem de ensino única. Quer você esteja começando do zero ou tenha como objetivo avançar suas habilidades, ela está aqui para orientar você.
 
 Descubra mais sobre a variedade de [aulas de português perto de Nerang](/pt-br/aulas-de-portugues/), incluindo ensino adequado para iniciantes e aulas focadas em conversação. Entre em contato agora pela página de [contato](/pt-br/contato-professora-portugues/) para agendar sua sessão.
+
+## Opção presencial para Nerang
+
+Quem está em Nerang pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

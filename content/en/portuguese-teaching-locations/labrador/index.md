@@ -1,7 +1,7 @@
 ---
 translationKey: location-labrador
 title: "Portuguese in Labrador: In-Person & Online"
-description: "Brazilian Portuguese lessons in Labrador, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+description: "Portuguese lessons in Labrador: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Labrador with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Labrador; Gold Coast in-person options can be confirmed for Labrador using Australia/Brisbane."
-scheduling: "Scheduling from Labrador: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Labrador: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Labrador. Online lessons are available worldwide. Learners in Labrador can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Learners in Labrador can use the online lessons from Australia. Scheduling uses the Gold Coast time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic."
+scheduling: "Scheduling from Labrador: Online lessons are available worldwide. Learners in Labrador can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Labrador: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Labrador"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Labrador?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -66,3 +66,7 @@ In-person Portuguese lessons are available in Surfers Paradise, which is conveni
 Our in-person lessons provide a structured learning environment where you can practice speaking with other students in a supportive atmosphere. You'll receive materials tailored to your specific interests and learning goals. Barbara also offers group sessions and private Portuguese tutor labrador options, as well as speaking club sessions for advanced learners.
 
 To learn more about our services, visit our [Services](/en/portuguese-teaching-services/) page or contact us via our [Contact](/en/contact-portuguese-teacher/) page. Whether you are searching for a Portuguese teacher labrador or a native Portuguese teacher labrador, Barbara Sharon is ready to assist your journey in mastering the language.
+
+## In-person option for Labrador
+
+Learners in Labrador can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

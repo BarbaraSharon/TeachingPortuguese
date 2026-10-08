@@ -5,7 +5,7 @@ seo:
   title: "Portugués para viajar a Lisboa | Aprende frases de portugués europeo"
 description: "Prepárate para Lisboa con frases útiles de portugués europeo, orientación de pronunciación y contexto cultural para situaciones cotidianas de viaje."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-for-lisbon-travel/portuguese-for-lisbon-travel-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño

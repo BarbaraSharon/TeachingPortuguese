@@ -1,8 +1,7 @@
 ---
 translationKey: location-varsity-lakes
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Varsity Lakes"
-description: "Aulas online de português brasileiro em Varsity Lakes, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Varsity Lakes: Presenciais e Online"
+description: "Aulas de português em Varsity Lakes: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Varsity Lakes"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Varsity Lakes. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Varsity Lakes; confirme um horário para Varsity Lakes usando Australia/Brisbane."
-scheduling: "Horários para Varsity Lakes: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Varsity Lakes: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Varsity Lakes. As aulas online estão disponíveis em todo o mundo. Para estudantes em Varsity Lakes, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Varsity Lakes podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Varsity Lakes: As aulas online estão disponíveis em todo o mundo. Para estudantes em Varsity Lakes, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Varsity Lakes: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Varsity Lakes"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Varsity Lakes?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Varsity Lakes. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -65,3 +64,7 @@ Aproveite aulas flexíveis de português online no conforto da sua casa. Barbara
 Ferramentas multimídia interativas, materiais adaptados e conteúdo imersivo asseguram uma experiência de aprendizagem dinâmica que faz o português parecer vivo e relevante. Os alunos se beneficiam de aplicações do mundo real, incluindo música, filmes e conversas do dia a dia, tudo criado para acelerar a aquisição do idioma.
 
 Barbara também oferece aulas de português acessíveis para iniciantes, estabelecendo uma base sólida em gramática, vocabulário e pronúncia. Para alunos que desejam aprimorar as habilidades de fala, ela oferece sessões especializadas de conversação em português, focadas na comunicação natural. Quer você procure uma tutora particular de português em Varsity Lakes ou uma opção de aprendizagem em grupo, seu estilo de ensino adaptável apoia todos os estilos de aprendizagem.
+
+## Opção presencial para Varsity Lakes
+
+Quem está em Varsity Lakes pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

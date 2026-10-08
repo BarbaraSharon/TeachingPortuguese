@@ -7,7 +7,7 @@ question: "Should I Learn Brazilian or European Portuguese?"
 direct_answer: "Learn Brazilian Portuguese if your main relationships, travel, work or cultural interests are connected with Brazil; learn European Portuguese if Portugal is your main destination or community. Both are Portuguese and share a substantial foundation, but pronunciation, listening and everyday usage differ. Choose one primary variety for consistent practice, while learning to recognise important differences in the other."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 260
 robots: index, follow, max-image-preview:large
 image:

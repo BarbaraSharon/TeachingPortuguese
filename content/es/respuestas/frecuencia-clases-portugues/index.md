@@ -7,7 +7,7 @@ question: "¿Con qué frecuencia debo tomar clases de portugués?"
 direct_answer: "Toma clases de portugués con suficiente regularidad para recibir correcciones y mantener el impulso, pero no tantas que no puedas repasar ni practicar entre sesiones. La frecuencia adecuada depende de tu objetivo, fecha límite, nivel y horario. Una clase constante acompañada de varias prácticas breves puede ser más útil que un programa intensivo que abandonas pronto. Revisa el plan cuando cambien tus necesidades."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 120
 robots: index, follow, max-image-preview:large
 image:

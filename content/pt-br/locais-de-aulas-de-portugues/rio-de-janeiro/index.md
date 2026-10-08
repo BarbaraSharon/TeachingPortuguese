@@ -1,6 +1,5 @@
 ---
 translationKey: location-rio-de-janeiro
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Rio De Janeiro"
 description: "Aulas online de português brasileiro em Rio De Janeiro, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "South America"
 time_zone: "America/Sao_Paulo"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Rio De Janeiro. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Rio De Janeiro; confirme um horário para Rio De Janeiro usando America/Sao_Paulo."
+local_context: "Estudantes em Rio De Janeiro podem fazer as aulas online a partir de Brazil. O agendamento usa o grupo de fuso horário South America como referência de planejamento. Esta página mantém a referência local específica de Rio De Janeiro, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Rio De Janeiro: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Sao_Paulo; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Rio De Janeiro: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -1,8 +1,7 @@
 ---
 translationKey: location-gaven
-type: portuguese-teaching-locations
 title: "Português em Gaven: Presenciais e Online"
-description: "Aulas de português brasileiro em Gaven, com opções online e presenciais na Gold Coast. Há formatos particulares e em grupo sujeitos a confirmação."
+description: "Aulas de português em Gaven: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Gaven com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Gaven; opções presenciais em Gold Coast podem ser confirmadas para Gaven usando Australia/Brisbane."
-scheduling: "Horários para Gaven: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Gaven: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Gaven. As aulas online estão disponíveis em todo o mundo. Para estudantes em Gaven, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Gaven podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Gaven: As aulas online estão disponíveis em todo o mundo. Para estudantes em Gaven, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Gaven: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Gaven"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Gaven?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -66,3 +65,7 @@ Quer você procure aulas de português perto de Gaven ou uma professora nativa d
 Se você tem interesse em aprender português em Gaven, Barbara Sharon oferece uma aula de português para ajudar você a começar. Quer você procure uma professora de português brasileiro em Gaven ou uma professora de português online na localidade, ela oferece ensino flexível e eficaz.
 
 Comece hoje sua jornada entrando em contato com ela pela página de [contato](/pt-br/contato-professora-portugues/). Suas aulas de português para iniciantes em Gaven e aulas de conversação em português na localidade foram planejadas para ajudar você a atingir seus objetivos linguísticos com eficiência - seja viajando, estudando ou construindo conexões de negócios.
+
+## Opção presencial para Gaven
+
+Quem está em Gaven pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

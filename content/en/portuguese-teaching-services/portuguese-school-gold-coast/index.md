@@ -3,7 +3,7 @@ translationKey: escola-de-portugues-gold-coast
 title: "Group Portuguese Classes on the Gold Coast"
 description: "Join Gold Coast Brazilian Portuguese group classes for conversation, guided practice, and structured learning across different levels."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-10-08"
 type: landing
 aliases:
 - /portuguese-teaching-services/portuguese-school-gold-coast/

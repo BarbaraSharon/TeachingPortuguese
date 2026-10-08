@@ -1,8 +1,7 @@
 ---
 translationKey: location-ormeau
-type: portuguese-teaching-locations
-title: "Clases online de portugués brasileño en Ormeau"
-description: "Clases online de portugués brasileño en Ormeau, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+title: "Portugués en Ormeau: Presenciales y Online"
+description: "Clases de portugués en Ormeau: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Ubicaciones para aprender portugués
 city: "Ormeau"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprende portugués brasileño online desde Ormeau. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Ormeau; confirma un horario para Ormeau usando Australia/Brisbane."
-scheduling: "Horarios para Ormeau: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Ormeau: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Ormeau. Las clases online están disponibles en todo el mundo. Para estudiantes en Ormeau, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Ormeau pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal."
+scheduling: "Horarios para Ormeau: Las clases online están disponibles en todo el mundo. Para estudiantes en Ormeau, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Ormeau: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Ormeau"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Ormeau?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Ormeau. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -68,3 +67,7 @@ Recibirás materiales adaptados a tus intereses y objetivos específicos, para q
 ## Contacta para una clase de portugués
 
 ¿Te interesa aprender portugués en Ormeau? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque de enseñanza puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido. Aprende hoy portugués en Ormeau con una profesora nativa cualificada de portugués en Ormeau.
+
+## Opción presencial para Ormeau
+
+Quienes están en Ormeau pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 20–45 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

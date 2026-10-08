@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Lower Beechmont with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Lower Beechmont; Gold Coast in-person options can be confirmed for Lower Beechmont using Australia/Brisbane."
-scheduling: "Scheduling from Lower Beechmont: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Lower Beechmont: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Lower Beechmont. Online lessons are available worldwide. Learners in Lower Beechmont can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise or Broadbeach, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Lower Beechmont can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise or Broadbeach, approximately 20–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Lower Beechmont: Online lessons are available worldwide. Learners in Lower Beechmont can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise or Broadbeach, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Lower Beechmont: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Lower Beechmont"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Lower Beechmont?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -69,3 +69,7 @@ You'll receive materials tailored to your specific interests and learning goals,
 Interested in learning Portuguese in Lower Beechmont? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 [Contact](/en/contact-portuguese-teacher/)today to book your session and start learning with a professional Portuguese tutor near you. For those searching for Portuguese lessons Lower Beechmont or Portuguese classes Lower Beechmont, Barbara offers flexible options including both in-person and online instruction. Her services cater to learners of all levels, from beginners to advanced speakers, with specialized focus on Brazilian Portuguese lessons Lower Beechmont and conversational Portuguese classes Lower Beechmont.
+
+## In-person option for Lower Beechmont
+
+Learners in Lower Beechmont can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise or Broadbeach, approximately 20–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

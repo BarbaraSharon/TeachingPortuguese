@@ -1,8 +1,7 @@
 ---
 translationKey: location-robina
-type: portuguese-teaching-locations
-title: "Clases online de portugués brasileño en Robina"
-description: "Clases online de portugués brasileño en Robina, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
+title: "Portugués en Robina: Presenciales y Online"
+description: "Clases de portugués en Robina: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Ubicaciones para aprender portugués
 city: "Robina"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprende portugués brasileño online desde Robina. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Robina; confirma un horario para Robina usando Australia/Brisbane."
-scheduling: "Horarios para Robina: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Robina: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprende portugués brasileño online desde Robina. Las clases online están disponibles en todo el mundo. Para estudiantes en Robina, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "Los estudiantes de Robina pueden hacer las clases online desde Australia. La programación usa el grupo horario Gold Coast como referencia de planificación. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal."
+scheduling: "Horarios para Robina: Las clases online están disponibles en todo el mundo. Para estudiantes en Robina, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Robina: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Robina"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Robina?"
-    answer: "Sí. Las clases son online, por lo que puedes estudiar desde Robina. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -61,3 +60,7 @@ Al aprender portugués en Robina, accedes a una rica tradición lingüística qu
 Lleva tu recorrido con el portugués desde cualquier lugar mediante nuestras clases interactivas en línea adaptadas a tus necesidades. Tanto si eres principiante absoluto como si buscas mejorar fluidez conversacional, nuestro currículo estructurado te ayuda a avanzar con confianza.
 
 Nuestros métodos de enseñanza atractivos incluyen recursos multimedia, diálogos de la vida real y materiales personalizados que reflejan tus intereses. Explorarás la cultura brasileña mediante contenido auténtico como música, noticias y literatura. Las clases particulares brindan atención individual, mientras que las sesiones grupales ofrecen una experiencia colaborativa de aprendizaje.
+
+## Opción presencial para Robina
+
+Quienes están en Robina pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

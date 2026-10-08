@@ -1,5 +1,5 @@
 ---
-lastmod: 2026-09-08
+lastmod: "2026-10-08"
 translationKey: home
 title: "Aprenda português com Barbara Sharon"
 summary: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."

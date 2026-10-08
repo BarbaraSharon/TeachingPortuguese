@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Burleigh Heads with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Burleigh Heads; Gold Coast in-person options can be confirmed for Burleigh Heads using Australia/Brisbane."
-scheduling: "Scheduling from Burleigh Heads: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Burleigh Heads: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Burleigh Heads. Online lessons are available worldwide. Learners in Burleigh Heads can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Learners in Burleigh Heads can use the online lessons from Australia. Scheduling uses the Gold Coast time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Burleigh Heads: Online lessons are available worldwide. Learners in Burleigh Heads can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Burleigh Heads: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Burleigh Heads"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Burleigh Heads?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -59,3 +59,7 @@ For those seeking convenience, online Portuguese tutor services are fully availa
 ## Start Your Portuguese Journey Today
 
 Are you ready to begin learning or improving your Portuguese skills in Burleigh Heads? Barbara Sharon offers a Portuguese lesson so you can experience her teaching style firsthand. Whether you're interested in Brazilian Portuguese lessons burleigh-heads, conversational classes, or simply want to find a reliable Portuguese tutor near me burleigh-heads, she is here to guide you on your language journey.
+
+## In-person option for Burleigh Heads
+
+Learners in Burleigh Heads can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

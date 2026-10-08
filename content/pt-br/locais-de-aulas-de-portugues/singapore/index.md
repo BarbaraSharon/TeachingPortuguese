@@ -1,6 +1,5 @@
 ---
 translationKey: location-singapore
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Singapore"
 description: "Aulas online de português brasileiro em Singapore, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Asia"
 time_zone: "Asia/Singapore"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Singapore. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Singapore; confirme um horário para Singapore usando Asia/Singapore."
+local_context: "O agendamento usa o grupo de fuso horário Asia como referência de planejamento. Estudantes em Singapore podem fazer as aulas online a partir de o país indicado. Esta página mantém a referência local específica de Singapore, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Singapore: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Singapore; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Singapore: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

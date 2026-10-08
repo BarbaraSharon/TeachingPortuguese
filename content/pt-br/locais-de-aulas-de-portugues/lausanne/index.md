@@ -1,6 +1,5 @@
 ---
 translationKey: location-lausanne
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lausanne"
 description: "Aulas online de português brasileiro em Lausanne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Lausanne. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Lausanne; confirme um horário para Lausanne usando Europe/Zurich."
+local_context: "Estudantes em Lausanne podem fazer as aulas online a partir de Switzerland. O agendamento usa o grupo de fuso horário Europe como referência de planejamento. Esta página mantém a referência local específica de Lausanne, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Lausanne: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Zurich; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Lausanne: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

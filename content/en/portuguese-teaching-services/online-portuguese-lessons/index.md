@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Online Brazilian Portuguese Lessons Worldwide"
 description: "Take Brazilian Portuguese lessons online from anywhere, choosing private or group formats for beginner, intermediate, advanced, business, or travel goals."
 date: 2026-08-05
-lastmod: 2026-09-08
+lastmod: "2026-10-08"
 type: landing
 aliases:
 - /portuguese-teaching-services/online-portuguese-lessons/

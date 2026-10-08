@@ -7,7 +7,7 @@ question: "How Can I Learn Portuguese for a Brazilian Partner?"
 direct_answer: "Learn Portuguese for a Brazilian partner by focusing on the conversations you genuinely want to share: greetings with family, daily routines, meals, stories, plans and affectionate everyday language. Ask your partner for natural examples, but keep structured practice and correction outside every personal conversation. Regular listening, pronunciation work and role-play can help you participate more confidently without expecting your partner to become your full-time teacher."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 180
 robots: index, follow, max-image-preview:large
 image:

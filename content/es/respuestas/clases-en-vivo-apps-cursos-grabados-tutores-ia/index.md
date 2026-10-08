@@ -7,7 +7,7 @@ question: "¿Clases, aplicaciones, cursos o tutores de IA?"
 direct_answer: "Ninguna herramienta es la mejor para todas las partes del portugués. Las aplicaciones y los cursos grabados facilitan la repetición; la IA puede crear actividades, pero también equivocarse; las clases en vivo aportan escucha humana, explicaciones adaptadas, contexto cultural y correcciones. Un buen plan suele combinar herramientas independientes para repasar con conversación en vivo para comunicarse y aplicar feedback."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 220
 robots: index, follow, max-image-preview:large
 image:

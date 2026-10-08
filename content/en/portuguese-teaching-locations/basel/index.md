@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Zurich"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Basel. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Basel; flexible scheduling can be confirmed for Basel using Europe/Zurich."
+local_context: "Scheduling uses the Europe time-zone group as a planning reference. Learners in Basel can use the online lessons from Switzerland. This page keeps the local reference specific to Basel while the teaching service remains online-first."
 scheduling: "Scheduling from Basel: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Zurich; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Basel: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

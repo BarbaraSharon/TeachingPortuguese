@@ -7,7 +7,7 @@ question: "¿Cuánto se parecen el portugués y el español?"
 direct_answer: "El portugués y el español son lenguas romances relacionadas, por lo que comparten mucho vocabulario y algunas estructuras gramaticales. No son intercambiables. La pronunciación, la comprensión oral, las expresiones, el uso verbal y los falsos amigos pueden causar confusión. Un hispanohablante puede reconocer pronto el portugués escrito, pero necesita practicar escucha y habla para comunicarse con claridad sin trasladar automáticamente sonidos y estructuras del español."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 170
 robots: index, follow, max-image-preview:large
 image:

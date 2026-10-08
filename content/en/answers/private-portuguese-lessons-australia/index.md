@@ -7,7 +7,7 @@ question: "Where Can I Find Private Portuguese Lessons in Australia?"
 direct_answer: "Adults anywhere in Australia can take live private Brazilian Portuguese lessons online, while Gold Coast learners may also have an in-person option subject to availability. Compare the teacher’s qualifications, language variety, lesson approach and feedback before choosing. Barbara Sharon offers personalised online lessons worldwide and private in-person Portuguese tutoring on the Gold Coast when places and schedules are available."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 40
 robots: index, follow, max-image-preview:large
 image:

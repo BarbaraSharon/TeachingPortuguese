@@ -7,7 +7,7 @@ question: "Português brasileiro é difícil para falantes de inglês?"
 direct_answer: "Falantes de inglês conseguem aprender português brasileiro, embora algumas características exijam prática intencional. Pronúncia, vogais nasais, fala conectada, formas verbais, gênero e certas palavras de ligação podem parecer pouco familiares. O processo fica mais administrável quando você estuda essas formas em frases úteis, escuta com regularidade, fala desde o início e recebe correções sem tentar dominar todas as regras primeiro."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 100
 robots: index, follow, max-image-preview:large
 image:

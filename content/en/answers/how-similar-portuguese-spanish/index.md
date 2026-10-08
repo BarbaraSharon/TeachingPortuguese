@@ -7,7 +7,7 @@ question: "How Similar Are Portuguese and Spanish?"
 direct_answer: "Portuguese and Spanish are related Romance languages, so they share considerable vocabulary and some grammatical patterns. They are not interchangeable. Pronunciation, listening, common expressions, verb use and false friends can cause misunderstandings. Spanish speakers may recognise written Portuguese quickly, but they still need focused listening and speaking practice to communicate clearly instead of applying Spanish sounds and structures automatically."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 170
 robots: index, follow, max-image-preview:large
 image:

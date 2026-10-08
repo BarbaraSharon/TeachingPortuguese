@@ -1,6 +1,5 @@
 ---
 translationKey: location-singapore
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Singapore"
 description: "Clases online de portugués brasileño en Singapore, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Asia"
 time_zone: "Asia/Singapore"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Singapore. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Singapore; confirma un horario para Singapore usando Asia/Singapore."
+local_context: "La programación usa el grupo horario Asia como referencia de planificación. Los estudiantes de Singapore pueden hacer las clases online desde el país indicado. Esta página mantiene la referencia local específica de Singapore, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Singapore: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Asia/Singapore; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Singapore: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

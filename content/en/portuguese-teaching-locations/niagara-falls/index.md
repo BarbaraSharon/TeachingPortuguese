@@ -18,7 +18,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Niagara Falls. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Niagara Falls; flexible scheduling can be confirmed for Niagara Falls using America/Toronto."
+local_context: "Scheduling uses the North America time-zone group as a planning reference. Learners in Niagara Falls can use the online lessons from Canada. This page keeps the local reference specific to Niagara Falls while the teaching service remains online-first."
 scheduling: "Scheduling from Niagara Falls: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is America/Toronto; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Niagara Falls: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

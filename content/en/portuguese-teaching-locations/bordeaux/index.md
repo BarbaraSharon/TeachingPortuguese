@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Bordeaux. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Bordeaux; flexible scheduling can be confirmed for Bordeaux using Europe/Paris."
+local_context: "Learners in Bordeaux can use the online lessons from France. Scheduling uses the Europe time-zone group as a planning reference. This page keeps the local reference specific to Bordeaux while the teaching service remains online-first."
 scheduling: "Scheduling from Bordeaux: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Bordeaux: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

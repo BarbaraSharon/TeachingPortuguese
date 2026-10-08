@@ -7,7 +7,7 @@ question: "Qual aula de português serve para iniciantes?"
 direct_answer: "Um iniciante absoluto precisa de sequência clara, explicações compreensíveis, apoio inicial de pronúncia e escuta, conversação regular, feedback útil e prática possível. Aulas particulares adaptam o ritmo; grupos oferecem interação; aulas online facilitam o acesso; cursos autônomos apoiam a revisão. Escolha um formato sustentável que ensine comunicação sem exigir a memorização de todas as regras antes de falar."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 230
 robots: index, follow, max-image-preview:large
 image:

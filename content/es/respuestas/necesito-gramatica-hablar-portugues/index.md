@@ -7,7 +7,7 @@ question: "¿Necesito gramática para hablar portugués?"
 direct_answer: "No necesitas dominar todas las reglas gramaticales antes de hablar portugués, pero la gramática ayuda a comunicarte con claridad y entender cómo funcionan las frases. Aprende las estructuras necesarias para tus conversaciones actuales, úsalas en ejemplos significativos y revísalas después de recibir correcciones. Hablar sin atender nunca a la estructura puede fijar errores; estudiar reglas sin aplicarlas no desarrolla la conversación."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 150
 robots: index, follow, max-image-preview:large
 image:

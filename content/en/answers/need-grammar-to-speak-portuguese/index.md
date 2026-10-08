@@ -7,7 +7,7 @@ question: "Do I Need Grammar to Speak Portuguese?"
 direct_answer: "You do not need to master every Portuguese grammar rule before speaking, but grammar helps you communicate more clearly and understand how sentences work. Learn the patterns required for your current conversations, use them in meaningful examples and return to them after feedback. Speaking without any attention to structure can make errors persistent; studying rules without using them does not build conversation skills."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 150
 robots: index, follow, max-image-preview:large
 image:

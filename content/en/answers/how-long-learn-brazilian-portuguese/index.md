@@ -7,7 +7,7 @@ question: "How Long Does It Take to Learn Brazilian Portuguese?"
 direct_answer: "There is no single timetable for learning Brazilian Portuguese. Progress depends on your starting language, goal, lesson frequency, independent practice, speaking opportunities and the level you mean by “learn”. Measure useful milestones-handling an introduction, understanding a familiar topic or sustaining a short conversation-instead of expecting a guaranteed fluency date. Regular practice and specific feedback make progress easier to observe."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 90
 robots: index, follow, max-image-preview:large
 image:

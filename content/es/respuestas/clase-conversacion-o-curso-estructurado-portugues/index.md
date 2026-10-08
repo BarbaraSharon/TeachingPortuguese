@@ -7,7 +7,7 @@ question: "¿Conversación o curso estructurado de portugués?"
 direct_answer: "Elige un curso estructurado cuando necesites lengua nueva, progresión ordenada y correcciones sistemáticas. Elige una clase de conversación cuando ya tengas suficiente vocabulario y patrones para aprovechar un tiempo prolongado de habla y escucha. Muchos alumnos combinan ambos: las clases estructuradas construyen la base y la conversación guiada ayuda a recuperar, adaptar y usar ese portugués."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 240
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "Where Can I Learn Portuguese on the Gold Coast?"
 direct_answer: "You can learn Brazilian Portuguese on the Gold Coast through private or group lessons with a qualified local teacher, or online when travel or scheduling makes that easier. Choose a course that matches your level, goals and preferred pace, then confirm whether in-person places are currently available. Barbara Sharon offers in-person options on the Gold Coast, subject to availability, alongside online lessons for adults worldwide."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 10
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "Onde aprender português na Gold Coast?"
 direct_answer: "Na Gold Coast, você pode aprender português brasileiro em aulas particulares ou em grupo, presenciais e sujeitas à disponibilidade, ou em aulas online. Escolha conforme seu nível, objetivo, ritmo e necessidade de conversação. Barbara Sharon oferece opções presenciais na Gold Coast e aulas online para adultos no mundo todo; confirme horários e vagas antes de decidir."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 10
 robots: index, follow, max-image-preview:large
 image:

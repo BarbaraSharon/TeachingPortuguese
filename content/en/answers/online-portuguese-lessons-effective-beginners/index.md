@@ -7,7 +7,7 @@ question: "Are Online Portuguese Lessons Effective for Beginners?"
 direct_answer: "Online Portuguese lessons can be effective for beginners when they include live interaction, a clear learning sequence, regular speaking, understandable explanations and specific feedback. The learner also needs short practice between sessions and reliable audio and video. A live teacher can model Brazilian Portuguese pronunciation, notice recurring errors and adapt activities; a passive recorded course cannot provide the same immediate response."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 110
 robots: index, follow, max-image-preview:large
 image:

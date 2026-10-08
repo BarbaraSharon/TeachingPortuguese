@@ -1,6 +1,5 @@
 ---
 translationKey: location-broadbeach-waters
-type: portuguese-teaching-locations
 title: "Português em Broadbeach Waters: Presenciais e Online"
 description: "Aulas de português em Broadbeach Waters: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro a partir de Broadbeach Waters com aulas online e aulas presenciais na Gold Coast. As aulas presenciais são realizadas em um local adequado confirmado em Kirra, Broadbeach ou Surfers Paradise, conforme a disponibilidade atual."
-local_context: "Aulas online de português brasileiro para Broadbeach Waters, um subúrbio de Gold Coast; confirme a modalidade para Broadbeach Waters usando Australia/Brisbane."
-scheduling: "Horários para Broadbeach Waters: há aulas online e aulas presenciais na Gold Coast. O local presencial e a disponibilidade das aulas são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Broadbeach Waters: usar aulas online ou presenciais para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+local_intro: "Aprenda português brasileiro online a partir de Broadbeach Waters. As aulas online estão disponíveis em todo o mundo. Para estudantes em Broadbeach Waters, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Broadbeach Waters podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Broadbeach Waters: As aulas online estão disponíveis em todo o mundo. Para estudantes em Broadbeach Waters, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Broadbeach Waters: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Broadbeach Waters"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Broadbeach Waters?"
-    answer: "Sim. Você pode escolher aulas online ou aulas presenciais na Gold Coast em um local adequado confirmado. Os horários e a disponibilidade do local são combinados com antecedência usando Australia/Brisbane. Fale com Barbara para escolher o melhor formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -62,3 +61,7 @@ Os alunos de Broadbeach Waters podem frequentar aulas de português em Surfers P
 Aprender português em Broadbeach Waters dá acesso a uma comunidade acolhedora e a um ensino especializado. Quer você esteja considerando uma [professora de português na Gold Coast](/pt-br/aulas-de-portugues/), aulas de português online ou aulas locais de português perto de Broadbeach Waters, Barbara Sharon oferece experiências de aprendizagem de alta qualidade, adaptadas aos seus objetivos.
 
 Entre em contato com [Barbara Sharon](/pt-br/contato-professora-portugues/) hoje mesmo para uma aula de português e descubra como você pode começar a dominar o português brasileiro com confiança e fluência. Com opções como professora particular de português em Broadbeach Waters, aulas em grupo ou sessões online com professora de português, há um percurso de aprendizagem que atende às suas necessidades.
+
+## Opção presencial para Broadbeach Waters
+
+Quem está em Broadbeach Waters pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 5–20 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

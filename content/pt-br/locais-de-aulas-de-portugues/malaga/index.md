@@ -1,6 +1,5 @@
 ---
 translationKey: location-malaga
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Malaga"
 description: "Aulas online de português brasileiro em Malaga, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Malaga. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Malaga; confirme um horário para Malaga usando Europe/Madrid."
+local_context: "Estudantes em Malaga podem fazer as aulas online a partir de Spain. O agendamento usa o grupo de fuso horário Europe como referência de planejamento. Esta página mantém a referência local específica de Malaga, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Malaga: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/Madrid; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Malaga: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

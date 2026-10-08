@@ -18,7 +18,7 @@ region_group: "Asia"
 time_zone: "Asia/Seoul"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Seoul. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Seoul; flexible scheduling can be confirmed for Seoul using Asia/Seoul."
+local_context: "Scheduling uses the Asia time-zone group as a planning reference. Learners in Seoul can use the online lessons from South Korea. This page keeps the local reference specific to Seoul while the teaching service remains online-first."
 scheduling: "Scheduling from Seoul: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Asia/Seoul; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Seoul: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

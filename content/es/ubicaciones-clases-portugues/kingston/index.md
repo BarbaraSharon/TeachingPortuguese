@@ -1,6 +1,5 @@
 ---
 translationKey: location-kingston
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Kingston"
 description: "Clases online de portugués brasileño en Kingston, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Toronto"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Kingston. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Kingston; confirma un horario para Kingston usando America/Toronto."
+local_context: "Los estudiantes de Kingston pueden hacer las clases online desde Canada. La programación usa el grupo horario North America como referencia de planificación. Esta página mantiene la referencia local específica de Kingston, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Kingston: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Toronto; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Kingston: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

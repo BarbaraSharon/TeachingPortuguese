@@ -2,7 +2,7 @@
 title: "From Beginner to Conversation: Teaching Notes"
 url: /en/teaching-evidence/beginner-to-conversation-notes/
 date: 2026-08-09
-lastmod: 2026-08-11
+lastmod: "2026-10-08"
 description: "Review anonymised teaching notes about the path from beginner Brazilian Portuguese study to practical conversation and everyday language use."
 robots: noindex, follow
 ---

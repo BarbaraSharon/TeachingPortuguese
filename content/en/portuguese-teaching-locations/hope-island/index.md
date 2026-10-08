@@ -1,7 +1,7 @@
 ---
 translationKey: location-hope-island
 title: "Portuguese in Hope Island: In-Person & Online"
-description: "Brazilian Portuguese lessons in Hope Island, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+description: "Portuguese lessons in Hope Island: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Hope Island with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Hope Island; Gold Coast in-person options can be confirmed for Hope Island using Australia/Brisbane."
-scheduling: "Scheduling from Hope Island: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Hope Island: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Hope Island. Online lessons are available worldwide. Learners in Hope Island can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Hope Island can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Hope Island: Online lessons are available worldwide. Learners in Hope Island can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Hope Island: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Hope Island"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Hope Island?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -57,3 +57,7 @@ In-person Portuguese lessons are available in Surfers Paradise for students in H
 Ready to begin learning Portuguese in Hope Island? Contact Barbara Sharon for a Portuguese lesson and discover how easy it is to start speaking Brazilian Portuguese confidently. Whether you're interested in Brazilian Portuguese tutor Hope Island, conversational Portuguese classes Hope Island, or just want to explore your language options, Barbara provides expert instruction tailored to your goals.
 
 Explore our [Services](/en/portuguese-teaching-services/) or reach out via [Contact](/en/contact-portuguese-teacher/)to get started on your journey today. Fala português? (Do you speak Portuguese?) Let Barbara help you unlock the beauty and richness of this beautiful language!
+
+## In-person option for Hope Island
+
+Learners in Hope Island can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

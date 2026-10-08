@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Leeds. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Leeds; flexible scheduling can be confirmed for Leeds using Europe/London."
+local_context: "Scheduling uses the Europe time-zone group as a planning reference. Learners in Leeds can use the online lessons from United Kingdom. This page keeps the local reference specific to Leeds while the teaching service remains online-first."
 scheduling: "Scheduling from Leeds: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/London; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Leeds: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

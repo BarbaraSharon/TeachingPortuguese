@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Madrid"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Valencia. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Valencia; flexible scheduling can be confirmed for Valencia using Europe/Madrid."
+local_context: "Learners in Valencia can use the online lessons from Spain. Scheduling uses the Europe time-zone group as a planning reference. This page keeps the local reference specific to Valencia while the teaching service remains online-first."
 scheduling: "Scheduling from Valencia: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Madrid; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Valencia: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

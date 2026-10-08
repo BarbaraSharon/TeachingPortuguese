@@ -1,7 +1,7 @@
 ---
 translationKey: location-bilinga
 title: "Portuguese in Bilinga: In-Person & Online"
-description: "Brazilian Portuguese lessons in Bilinga, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+description: "Portuguese lessons in Bilinga: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Bilinga with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Bilinga; Gold Coast in-person options can be confirmed for Bilinga using Australia/Brisbane."
-scheduling: "Scheduling from Bilinga: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Bilinga: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Bilinga. Online lessons are available worldwide. Learners in Bilinga can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Bilinga can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Bilinga: Online lessons are available worldwide. Learners in Bilinga can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Bilinga: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Bilinga"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Bilinga?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -62,3 +62,7 @@ Her lessons are structured to combine grammar, vocabulary, conversation, and cul
 Ready to begin learning Portuguese in Bilinga? Book a Portuguese lesson today with Barbara Sharon and experience firsthand how her unique teaching style can help you achieve your language goals.
 
 No matter if you're interested in Brazilian Portuguese teacher services, conversational Portuguese classes, or simply want to improve your spoken skills, Barbara is here to guide you every step of the way. Find a local Portuguese teacher near Bilinga or connect with an online Portuguese tutor for flexible learning opportunities.
+
+## In-person option for Bilinga
+
+Learners in Bilinga can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

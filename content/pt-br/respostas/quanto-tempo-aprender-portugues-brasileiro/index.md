@@ -7,7 +7,7 @@ question: "Quanto tempo leva para aprender português brasileiro?"
 direct_answer: "Não existe um prazo único para aprender português brasileiro. O progresso depende do idioma inicial, objetivo, frequência das aulas, prática independente, oportunidades de fala e do que você chama de “aprender”. Meça conquistas úteis - apresentar-se, compreender um tema conhecido ou sustentar uma conversa curta - em vez de esperar uma data garantida de fluência. Prática regular e feedback específico tornam o avanço mais visível."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 90
 robots: index, follow, max-image-preview:large
 image:

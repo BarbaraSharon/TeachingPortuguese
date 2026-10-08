@@ -1,6 +1,5 @@
 ---
 translationKey: location-vernon
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Vernon"
 description: "Clases online de portugués brasileño en Vernon, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Vancouver"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Vernon. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Vernon; confirma un horario para Vernon usando America/Vancouver."
+local_context: "Los estudiantes de Vernon pueden hacer las clases online desde Canada. La programación usa el grupo horario North America como referencia de planificación. Esta página mantiene la referencia local específica de Vernon, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Vernon: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Vancouver; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Vernon: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

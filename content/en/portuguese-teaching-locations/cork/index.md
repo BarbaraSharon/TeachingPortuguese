@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Dublin"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Cork. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Cork; flexible scheduling can be confirmed for Cork using Europe/Dublin."
+local_context: "Learners in Cork can use the online lessons from Ireland. Scheduling uses the Europe time-zone group as a planning reference. This page keeps the local reference specific to Cork while the teaching service remains online-first."
 scheduling: "Scheduling from Cork: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Dublin; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Cork: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

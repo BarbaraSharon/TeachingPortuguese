@@ -7,7 +7,7 @@ question: "Com que frequência devo fazer aulas de português?"
 direct_answer: "Faça aulas de português com regularidade suficiente para receber feedback e manter o ritmo, mas não tantas que você não consiga revisar nem praticar entre as sessões. A frequência adequada depende do objetivo, prazo, nível e rotina. Uma aula constante acompanhada de várias práticas curtas pode ser mais útil do que um programa intensivo abandonado rapidamente. Revise o plano quando suas necessidades mudarem."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 120
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "Devo aprender português brasileiro ou europeu?"
 direct_answer: "Aprenda português brasileiro se seus relacionamentos, viagens, trabalho ou interesses culturais estiverem ligados principalmente ao Brasil; aprenda português europeu se Portugal for seu destino ou comunidade principal. Ambos compartilham uma base ampla, mas diferem em pronúncia, escuta e uso cotidiano. Escolha uma variedade principal para praticar com consistência e aprenda a reconhecer diferenças importantes da outra."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 260
 robots: index, follow, max-image-preview:large
 image:

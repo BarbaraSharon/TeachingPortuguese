@@ -7,7 +7,7 @@ question: "Adultos conseguem aprender português brasileiro?"
 direct_answer: "Sim. Adultos conseguem aprender português brasileiro e desenvolver habilidades úteis de fala, escuta, leitura e escrita. O progresso depende mais do contato regular com o idioma, metas significativas, prática ativa e bom feedback do que de tentar aprender como uma criança. Adultos podem aproveitar conhecimentos e capacidade de planejamento enquanto constroem novos hábitos de pronúncia e comunicação por meio de tarefas realistas e repetidas."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 130
 robots: index, follow, max-image-preview:large
 image:

@@ -1,8 +1,7 @@
 ---
 translationKey: location-tweed-heads
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Tweed Heads"
-description: "Aulas online de português brasileiro em Tweed Heads, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Tweed Heads: Presenciais e Online"
+description: "Aulas de português em Tweed Heads: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Tweed Heads"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Sydney"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Tweed Heads. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Tweed Heads; confirme um horário para Tweed Heads usando Australia/Sydney."
-scheduling: "Horários para Tweed Heads: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Tweed Heads: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Tweed Heads. As aulas online estão disponíveis em todo o mundo. Para estudantes em Tweed Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Tweed Heads podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Tweed Heads: As aulas online estão disponíveis em todo o mundo. Para estudantes em Tweed Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Tweed Heads: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Tweed Heads"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Tweed Heads?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Tweed Heads. Os horários são combinados com antecedência usando Australia/Sydney e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Sydney; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -54,3 +53,7 @@ Quer você procure aulas de português brasileiro perto de Tweed Heads ou esteja
 Aulas de português online, particulares e em grupo, estão disponíveis em Tweed Heads e atendem a alunos de todos os níveis - desde iniciantes em busca de aulas de português para iniciantes em Tweed Heads até estudantes avançados que procuram aulas de conversação. Essas opções flexíveis se adaptam à sua rotina e ao seu estilo de aprendizagem.
 
 O programa online utiliza ferramentas interativas e recursos multimídia para criar uma experiência de aprendizagem envolvente. Os estudantes recebem materiais adaptados aos seus interesses e objetivos específicos, permitindo explorar a cultura portuguesa por meio de conteúdo autêntico. Com horários práticos e a possibilidade de aprender de qualquer lugar, a tutoria de português online em Tweed Heads oferece uma solução prática para o desenvolvimento no idioma.
+
+## Opção presencial para Tweed Heads
+
+Quem está em Tweed Heads pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

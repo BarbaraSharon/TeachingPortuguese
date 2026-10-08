@@ -1,6 +1,5 @@
 ---
 translationKey: location-austin
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Austin"
 description: "Aulas online de português brasileiro em Austin, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Chicago"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Austin. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Austin; confirme um horário para Austin usando America/Chicago."
+local_context: "Estudantes em Austin podem fazer as aulas online a partir de United States. O agendamento usa o grupo de fuso horário North America como referência de planejamento. Esta página mantém a referência local específica de Austin, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Austin: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é America/Chicago; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Austin: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

@@ -1,6 +1,5 @@
 ---
 translationKey: location-bristol
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Bristol"
 description: "Aulas online de português brasileiro em Bristol, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Europe"
 time_zone: "Europe/London"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Bristol. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Bristol; confirme um horário para Bristol usando Europe/London."
+local_context: "O agendamento usa o grupo de fuso horário Europe como referência de planejamento. Estudantes em Bristol podem fazer as aulas online a partir de United Kingdom. Esta página mantém a referência local específica de Bristol, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Bristol: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Europe/London; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Bristol: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

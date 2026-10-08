@@ -7,7 +7,7 @@ question: "Portuguese Lessons, Apps, Courses or AI Tutors?"
 direct_answer: "No single tool is best for every part of learning Portuguese. Apps and recorded courses can provide convenient repetition and explanations; AI tools can create extra prompts but may be inaccurate; live lessons add human listening, responsive explanation, cultural context and accountable feedback. A strong plan often combines independent tools for repetition with live speaking and correction for communication."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 220
 robots: index, follow, max-image-preview:large
 image:

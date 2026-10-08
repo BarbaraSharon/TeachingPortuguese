@@ -1,6 +1,5 @@
 ---
 translationKey: location-advancetown
-type: portuguese-teaching-locations
 title: "Portugués en Advancetown: Presenciales y Online"
 description: "Clases de portugués en Advancetown: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño desde Advancetown con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clases online de portugués brasileño para Advancetown; las opciones presenciales en Gold Coast se confirman para Advancetown usando Australia/Brisbane."
-scheduling: "Horarios para Advancetown: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Advancetown: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño online desde Advancetown. Las clases online están disponibles en todo el mundo. Para estudiantes en Advancetown, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "La programación usa el grupo horario Gold Coast como referencia de planificación. Los estudiantes de Advancetown pueden hacer las clases online desde Australia. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal."
+scheduling: "Horarios para Advancetown: Las clases online están disponibles en todo el mundo. Para estudiantes en Advancetown, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Advancetown: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Advancetown"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Advancetown?"
-    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -56,3 +55,7 @@ Para los estudiantes de Advancetown, las clases presenciales se imparten en Surf
 ¿Listo para comenzar tu camino con el portugués brasileño? Contacta hoy con Barbara Sharon para una clase de portugués y descubre lo agradable y alcanzable que puede ser aprender un idioma. Con su experiencia, atención personalizada y estilo dinámico, ganarás confianza para hablar portugués con naturalidad.
 
 Tanto si buscas una [tutora de portugués](/es/servicios-clases-portugues/) como una [profesora de portugués brasileño en Advancetown](/es/contacto-profesora-portugues/), Barbara te acompañará en cada paso. ¡Vamos a aprender!
+
+## Opción presencial para Advancetown
+
+Quienes están en Advancetown pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise or Broadbeach, a unos 20–45 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

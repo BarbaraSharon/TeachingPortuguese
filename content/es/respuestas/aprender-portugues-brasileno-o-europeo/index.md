@@ -7,7 +7,7 @@ question: "¿Portugués de Brasil o de Portugal: cuál aprender?"
 direct_answer: "Aprende portugués brasileño si tus relaciones, viajes, trabajo o intereses culturales están conectados sobre todo con Brasil; aprende portugués europeo si Portugal es tu destino o comunidad principal. Ambos comparten una base amplia, pero difieren en pronunciación, escucha y uso cotidiano. Elige una variedad principal para practicar con coherencia y aprende a reconocer diferencias importantes de la otra."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 260
 robots: index, follow, max-image-preview:large
 image:

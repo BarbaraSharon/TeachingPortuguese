@@ -1,6 +1,5 @@
 ---
 translationKey: location-boston
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Boston"
 description: "Clases online de portugués brasileño en Boston, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/New_York"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Boston. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Boston; confirma un horario para Boston usando America/New_York."
+local_context: "Los estudiantes de Boston pueden hacer las clases online desde United States. La programación usa el grupo horario North America como referencia de planificación. Esta página mantiene la referencia local específica de Boston, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Boston: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/New_York; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Boston: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Melbourne"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Melbourne. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Melbourne; flexible scheduling can be confirmed for Melbourne using Australia/Melbourne."
+local_context: "Scheduling uses the Australia & New Zealand time-zone group as a planning reference. Learners in Melbourne can use the online lessons from Australia. This page keeps the local reference specific to Melbourne while the teaching service remains online-first."
 scheduling: "Scheduling from Melbourne: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Melbourne; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Melbourne: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

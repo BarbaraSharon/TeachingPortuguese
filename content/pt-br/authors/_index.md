@@ -5,7 +5,7 @@ robots: noindex, follow
 description: "Conheça Barbara Sharon, professora qualificada de português brasileiro e autora dos recursos práticos de aprendizagem deste site."
 translationKey: authors
 date: 2026-08-06
-lastmod: 2026-08-11
+lastmod: "2026-10-08"
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg

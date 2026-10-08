@@ -7,7 +7,7 @@ question: "Por que o português brasileiro parece tão rápido?"
 direct_answer: "O português brasileiro pode parecer rápido porque a fala natural conecta e reduz sons, enquanto o aluno tenta reconhecer cada palavra e decisão gramatical. A solução não é usar apenas áudio lento. Pratique frases naturais curtas, aprenda mudanças frequentes de som, preveja o significado pelo contexto e avance da escuta com apoio para novos falantes e situações em etapas possíveis."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 290
 robots: index, follow, max-image-preview:large
 image:

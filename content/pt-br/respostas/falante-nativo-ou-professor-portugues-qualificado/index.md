@@ -7,7 +7,7 @@ question: "Falante nativo ou professor de português?"
 direct_answer: "Um falante nativo pode oferecer linguagem natural e contexto cultural, mas falar português desde a infância não comprova habilidade para ensinar. Um professor qualificado deve diagnosticar necessidades, explicar padrões, organizar a prática e dar feedback útil. Escolha a pessoa cuja variedade de português, preparação, comunicação e experiência correspondam ao seu objetivo, seja ela nativa ou não."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 200
 robots: index, follow, max-image-preview:large
 image:

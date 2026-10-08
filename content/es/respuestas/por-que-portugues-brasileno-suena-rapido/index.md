@@ -7,7 +7,7 @@ question: "¿Por qué el portugués brasileño suena tan rápido?"
 direct_answer: "El portugués brasileño puede parecer rápido porque el habla natural enlaza y reduce sonidos, mientras el alumno intenta reconocer cada palabra y decisión gramatical. La solución no es usar únicamente audio lento. Practica frases naturales breves, aprende cambios frecuentes de sonido, predice el significado por el contexto y avanza desde escucha con apoyo hasta voces y situaciones nuevas."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 290
 robots: index, follow, max-image-preview:large
 image:

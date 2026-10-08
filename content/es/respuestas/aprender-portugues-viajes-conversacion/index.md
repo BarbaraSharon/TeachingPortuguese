@@ -7,7 +7,7 @@ question: "¿Cómo aprender portugués para viajes y conversación?"
 direct_answer: "Aprende portugués para viajes practicando las situaciones que probablemente vivirás: saludos, transporte, alojamiento, comida, direcciones, emergencias y conversación informal. Construye un grupo pequeño de frases útiles, entrena escucha y pronunciación y representa diálogos con correcciones. Busca una comunicación clara y flexible, en vez de memorizar listas largas de frases sin contexto."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 60
 robots: index, follow, max-image-preview:large
 image:

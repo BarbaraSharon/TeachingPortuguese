@@ -7,7 +7,7 @@ question: "¿Qué debe incluir una buena clase de portugués brasileño?"
 direct_answer: "Una buena clase de portugués brasileño conecta un objetivo comunicativo claro con material comprensible, conversación activa, escucha, pronunciación, vocabulario útil y gramática en contexto. También incluye correcciones específicas y un siguiente paso realista. El equilibrio cambia según el nivel, pero el alumno debe saber qué practica, por qué importa y cómo volverá a utilizarlo."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 210
 robots: index, follow, max-image-preview:large
 image:

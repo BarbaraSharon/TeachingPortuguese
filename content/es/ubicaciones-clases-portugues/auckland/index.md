@@ -1,6 +1,5 @@
 ---
 translationKey: location-auckland
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Auckland"
 description: "Clases online de portugués brasileño en Auckland, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Pacific/Auckland"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Auckland. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Auckland; confirma un horario para Auckland usando Pacific/Auckland."
+local_context: "Los estudiantes de Auckland pueden hacer las clases online desde New Zealand. La programación usa el grupo horario Australia & New Zealand como referencia de planificación. Esta página mantiene la referencia local específica de Auckland, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Auckland: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es Pacific/Auckland; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Auckland: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

@@ -5,7 +5,7 @@ robots: noindex, follow
 description: "Meet Barbara Sharon, the qualified Brazilian Portuguese teacher and author behind this site’s practical language-learning resources."
 translationKey: authors
 date: 2026-08-06
-lastmod: 2026-08-11
+lastmod: "2026-10-08"
 authors: ["me"]
 image:
   filename: barbara-sharon.jpg

@@ -7,7 +7,7 @@ question: "¿Qué practicar entre clases de portugués?"
 direct_answer: "Entre clases, vuelve a una pequeña cantidad de portugués corregido y úsalo activamente. Recuerda frases sin mirar, escucha un audio breve, copia su ritmo, crea ejemplos personales y habla un minuto sobre el tema. Varias prácticas cortas suelen ser más sostenibles que una sesión larga. Lleva las preguntas y los errores recurrentes a la siguiente clase."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 280
 robots: index, follow, max-image-preview:large
 image:

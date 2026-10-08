@@ -7,7 +7,7 @@ question: "¿Cuál es la mejor forma de aprender portugués brasileño?"
 direct_answer: "Una forma eficaz de aprender portugués brasileño combina conversación frecuente, escucha, pronunciación, vocabulario útil, gramática en contexto y correcciones específicas. Define un objetivo concreto, practica varias veces por semana y reutiliza lo aprendido en situaciones nuevas. Una profesora cualificada puede ordenar esa práctica, detectar errores recurrentes y adaptar las clases a medida que aumenta tu confianza."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 30
 robots: index, follow, max-image-preview:large
 image:

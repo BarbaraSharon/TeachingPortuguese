@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Paris"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Toulouse. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Toulouse; flexible scheduling can be confirmed for Toulouse using Europe/Paris."
+local_context: "Learners in Toulouse can use the online lessons from France. Scheduling uses the Europe time-zone group as a planning reference. This page keeps the local reference specific to Toulouse while the teaching service remains online-first."
 scheduling: "Scheduling from Toulouse: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Paris; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Toulouse: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

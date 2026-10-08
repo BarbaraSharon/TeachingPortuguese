@@ -7,7 +7,7 @@ question: "¿Pueden los adultos aprender portugués brasileño?"
 direct_answer: "Sí. Los adultos pueden aprender portugués brasileño y desarrollar destrezas útiles para hablar, escuchar, leer y escribir. El progreso depende más del contacto regular con el idioma, objetivos significativos, práctica activa y buenas correcciones que de intentar aprender como un niño. Los adultos pueden aprovechar sus conocimientos y capacidad de planificación mientras crean nuevos hábitos de pronunciación y comunicación mediante tareas realistas y repetidas."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 130
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "Preply, Superprof ou professora independente de português"
 direct_answer: "Preply, Superprof, italki, Verbling, Classgap e AmazingTalker ajudam alunos a explorar muitos perfis de professores de português, mas um perfil em uma plataforma não garante, por si só, a formação, a preparação ou a continuidade de que você precisa. Uma professora independente qualificada pode trabalhar diretamente com você, preparar aulas conforme seus objetivos e manter um único plano de aprendizagem ao longo do tempo. Antes de escolher, compare credenciais, preparação, feedback, continuidade, custo total e conveniência."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 55
 robots: index, follow, max-image-preview:large
 image:

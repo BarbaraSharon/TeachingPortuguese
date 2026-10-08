@@ -1,8 +1,7 @@
 ---
 translationKey: location-oxenford
-type: portuguese-teaching-locations
-title: "Aulas online de português brasileiro em Oxenford"
-description: "Aulas online de português brasileiro em Oxenford, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
+title: "Português em Oxenford: Presenciais e Online"
+description: "Aulas de português em Oxenford: opções presenciais na Gold Coast e online, particulares ou em grupo, sujeitas a confirmação."
 date: 2026-08-05
 lastmod: "2026-10-08"
 image:
@@ -13,19 +12,19 @@ categories:
 - Locais de aulas de português
 city: "Oxenford"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Aprenda português brasileiro online a partir de Oxenford. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Oxenford; confirme um horário para Oxenford usando Australia/Brisbane."
-scheduling: "Horários para Oxenford: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
-learner_use_case: "Um possível objetivo de estudante em Oxenford: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Aprenda português brasileiro online a partir de Oxenford. As aulas online estão disponíveis em todo o mundo. Para estudantes em Oxenford, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Oxenford podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito."
+scheduling: "Horários para Oxenford: As aulas online estão disponíveis em todo o mundo. Para estudantes em Oxenford, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Brisbane; use-o como referência de planejamento, não como promessa de um horário específico."
+learner_use_case: "Um possível objetivo de estudante em Oxenford: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Oxenford"
   url: /pt-br/contato-professora-portugues/
 faq:
   - question: "Posso estudar a partir de Oxenford?"
-    answer: "Sim. As aulas são online, então você pode estudar a partir de Oxenford. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
+    answer: "Sim. Você pode escolher aulas online ou solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach, Kirra. O local e o horário são combinados com antecedência usando Australia/Brisbane; fale com Barbara para confirmar a disponibilidade atual."
 editorial_reviewed: true
 ---
 
@@ -69,3 +68,7 @@ Explore aulas de português brasileiro em Oxenford ou comparações com o portug
 Você está pronto para começar a aprender português em Oxenford? Agende uma aula de português com Barbara Sharon e conheça de perto seu estilo de ensino envolvente. Quer você esteja interessado em [aulas de português para iniciantes em Oxenford](/pt-br/aulas-de-portugues/), [aulas de conversação em português em Oxenford](/pt-br/aulas-de-portugues/) ou em se conectar com uma [professora nativa de português em Oxenford](/pt-br/contato-professora-portugues/), ela está aqui para apoiar sua jornada no idioma.
 
 Para mais informações, visite a [página de contato](/pt-br/contato-professora-portugues/) ou explore nossa gama completa de serviços na página de [aulas de português](/pt-br/aulas-de-portugues/).
+
+## Opção presencial para Oxenford
+
+Quem está em Oxenford pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Surfers Paradise, a aproximadamente 20–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

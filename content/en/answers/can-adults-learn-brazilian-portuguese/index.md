@@ -7,7 +7,7 @@ question: "Can Adults Learn Brazilian Portuguese?"
 direct_answer: "Yes. Adults can learn Brazilian Portuguese and develop useful speaking, listening, reading and writing skills. Progress depends more on regular contact with the language, meaningful goals, active practice and useful feedback than on trying to learn like a child. Adults can use their existing knowledge and planning skills while building new pronunciation and communication habits through repeated, realistic tasks."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 130
 robots: index, follow, max-image-preview:large
 image:

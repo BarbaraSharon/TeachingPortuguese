@@ -1,7 +1,7 @@
 ---
 translationKey: location-foxwell
 title: "Portuguese in Foxwell: In-Person & Online"
-description: "Brazilian Portuguese lessons in Foxwell, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
+description: "Portuguese lessons in Foxwell: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -17,16 +17,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese from Foxwell with online lessons and in-person Gold Coast classes. In-person lessons are held at a suitable confirmed venue in Kirra, Broadbeach, or Surfers Paradise, subject to current availability."
-local_context: "Online Brazilian Portuguese lessons for Foxwell; Gold Coast in-person options can be confirmed for Foxwell using Australia/Brisbane."
-scheduling: "Scheduling from Foxwell: online lessons and in-person Gold Coast classes are available. In-person venue and class availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Foxwell: use online or in-person lessons to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+local_intro: "Learn Brazilian Portuguese online from Foxwell. Online lessons are available worldwide. Learners in Foxwell can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Foxwell can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Foxwell: Online lessons are available worldwide. Learners in Foxwell can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Foxwell: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Foxwell"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Foxwell?"
-    answer: "Yes. You can choose online lessons or in-person Gold Coast classes at a suitable confirmed venue. Times and venue availability are agreed in advance using Australia/Brisbane. Contact Barbara to discuss the best format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -55,3 +55,7 @@ In-person Portuguese classes near Foxwell are available in Surfers Paradise, mak
 If you're looking to learn Portuguese in Foxwell, Barbara Sharon offers a Portuguese lesson to help you get started. With in-person and online options available, including private Portuguese tutor services and group classes, she adapts her teaching to suit your lifestyle. Whether you're interested in Brazilian Portuguese teacher support or conversational Portuguese classes Foxwell, her approach ensures a rewarding learning experience.
 
 For more information or to book your session, visit the [Contact](/en/contact-portuguese-teacher/) page and take the first step toward fluency today.
+
+## In-person option for Foxwell
+
+Learners in Foxwell can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

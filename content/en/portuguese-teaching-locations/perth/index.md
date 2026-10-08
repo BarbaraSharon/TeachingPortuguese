@@ -18,7 +18,7 @@ region_group: "Australia & New Zealand"
 time_zone: "Australia/Perth"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Perth. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Perth; flexible scheduling can be confirmed for Perth using Australia/Perth."
+local_context: "Scheduling uses the Australia & New Zealand time-zone group as a planning reference. Learners in Perth can use the online lessons from Australia. This page keeps the local reference specific to Perth while the teaching service remains online-first."
 scheduling: "Scheduling from Perth: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Perth; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Perth: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

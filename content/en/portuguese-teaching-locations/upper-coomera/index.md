@@ -1,7 +1,7 @@
 ---
 translationKey: location-upper-coomera
-title: "Online Brazilian Portuguese Lessons in Upper Coomera"
-description: "Online Brazilian Portuguese lessons in Upper Coomera, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Portuguese in Upper Coomera: In-Person & Online"
+description: "Portuguese lessons in Upper Coomera: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -14,19 +14,19 @@ categories:
 - Portuguese teaching locations
 city: "Upper Coomera"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Learn Brazilian Portuguese online from Upper Coomera. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Upper Coomera; flexible scheduling can be confirmed for Upper Coomera using Australia/Brisbane."
-scheduling: "Scheduling from Upper Coomera: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Upper Coomera: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Upper Coomera. Online lessons are available worldwide. Learners in Upper Coomera can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Upper Coomera can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic."
+scheduling: "Scheduling from Upper Coomera: Online lessons are available worldwide. Learners in Upper Coomera can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Upper Coomera: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Upper Coomera"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Upper Coomera?"
-    answer: "Yes. Lessons are online, so you can study from Upper Coomera. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -61,3 +61,7 @@ For students in Upper Coomera seeking flexible learning options, Barbara Sharon 
 Interactive tools, multimedia resources, and tailored materials ensure your learning experience is engaging and impactful. Whether you're interested in improving pronunciation, building vocabulary, or mastering conversational skills, these lessons offer real-world application through authentic content.
 
 In addition to private sessions, group classes and a monthly speaking club are available for those who prefer collaborative learning. These formats provide opportunities to practice speaking in a fun, supportive setting while deepening your connection to the Portuguese-speaking world.
+
+## In-person option for Upper Coomera
+
+Learners in Upper Coomera can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 20–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

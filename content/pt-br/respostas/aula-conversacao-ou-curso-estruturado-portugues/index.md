@@ -7,7 +7,7 @@ question: "Conversação ou curso estruturado de português?"
 direct_answer: "Escolha um curso estruturado quando precisar de linguagem nova, progressão ordenada e feedback sistemático. Escolha uma aula de conversação quando já tiver vocabulário e padrões suficientes para aproveitar mais tempo de fala e escuta. Muitos alunos combinam ambos: aulas estruturadas constroem a base, enquanto a conversação guiada ajuda a recuperar, adaptar e usar esse português com outras pessoas."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 240
 robots: index, follow, max-image-preview:large
 image:

@@ -7,7 +7,7 @@ question: "¿Cómo empezar a aprender portugués brasileño desde cero?"
 direct_answer: "Empieza con los sonidos del portugués brasileño, saludos y pocos patrones de frases que puedas usar de inmediato. Escucha y habla desde el principio, aprende vocabulario dentro de expresiones y añade gramática cuando ayude a comunicar un significado real. Practica poco y con frecuencia, y busca correcciones. Tu primera meta debe ser una conversación sencilla, no memorizar todas las reglas básicas."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 270
 robots: index, follow, max-image-preview:large
 image:

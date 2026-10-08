@@ -7,7 +7,7 @@ question: "Como parar de traduzir do inglês ao falar português?"
 direct_answer: "Pare de traduzir palavra por palavra conectando o português diretamente a significados, situações e frases completas. Pratique expressões úteis, responda perguntas conhecidas sem roteiro e descreva imagens ou ações simples em português. A tradução ainda pode ajudar a conferir o sentido, mas escuta, fala e feedback repetidos tornam a linguagem frequente disponível sem construir primeiro cada frase em inglês."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 300
 robots: index, follow, max-image-preview:large
 image:

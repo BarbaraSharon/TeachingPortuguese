@@ -18,7 +18,7 @@ region_group: "Europe"
 time_zone: "Europe/Amsterdam"
 service_scope: online_only
 local_intro: "Learn Brazilian Portuguese online from Utrecht. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Utrecht; flexible scheduling can be confirmed for Utrecht using Europe/Amsterdam."
+local_context: "Scheduling uses the Europe time-zone group as a planning reference. Learners in Utrecht can use the online lessons from Netherlands. This page keeps the local reference specific to Utrecht while the teaching service remains online-first."
 scheduling: "Scheduling from Utrecht: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Europe/Amsterdam; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Utrecht: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
 cta:

@@ -1,6 +1,5 @@
 ---
 translationKey: location-seoul
-type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Seoul"
 description: "Aulas online de português brasileiro em Seoul, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "Asia"
 time_zone: "Asia/Seoul"
 service_scope: online_only
 local_intro: "Aprenda português brasileiro online a partir de Seoul. As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara."
-local_context: "Aulas online de português brasileiro para Seoul; confirme um horário para Seoul usando Asia/Seoul."
+local_context: "O agendamento usa o grupo de fuso horário Asia como referência de planejamento. Estudantes em Seoul podem fazer as aulas online a partir de South Korea. Esta página mantém a referência local específica de Seoul, enquanto o serviço de ensino continua priorizando o formato online."
 scheduling: "Horários para Seoul: As aulas são online. Escolha um horário no seu fuso local e confirme a disponibilidade com Barbara. O fuso horário IANA é Asia/Seoul; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Seoul: você pode usar uma aula online para se preparar para viagens, comunicação familiar, conversas de trabalho ou um interesse pessoal pelo português brasileiro."
 cta:

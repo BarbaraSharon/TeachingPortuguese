@@ -7,7 +7,7 @@ question: "¿Profesor, tutor, curso o escuela de portugués?"
 direct_answer: "Elige el formato según el apoyo que necesites. Un profesor particular ofrece correcciones individuales, una clase añade otros estudiantes, un curso aporta una secuencia y una escuela puede coordinar varios niveles y docentes. Compara al profesor concreto, el tiempo de conversación, las correcciones, el programa y el encaje práctico, porque ninguna etiqueta garantiza por sí sola la calidad."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 190
 robots: index, follow, max-image-preview:large
 image:

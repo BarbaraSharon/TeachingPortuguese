@@ -1,7 +1,7 @@
 ---
 translationKey: location-southport
-title: "Online Brazilian Portuguese Lessons in Southport"
-description: "Online Brazilian Portuguese lessons in Southport, with Barbara Sharon. Private and group formats available online. Start at your pace."
+title: "Portuguese in Southport: In-Person & Online"
+description: "Portuguese lessons in Southport: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
 lastmod: "2026-10-08"
 aliases:
@@ -14,19 +14,19 @@ categories:
 - Portuguese teaching locations
 city: "Southport"
 country: "Australia"
-region_group: "Australia & New Zealand"
+region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
-service_scope: online_only
-local_intro: "Learn Brazilian Portuguese online from Southport. Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara."
-local_context: "Online Brazilian Portuguese lessons for Southport; flexible scheduling can be confirmed for Southport using Australia/Brisbane."
-scheduling: "Scheduling from Southport: Lessons are delivered online. Choose a time that works in your local time zone, then confirm availability with Barbara. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
-learner_use_case: "A possible learner goal in Southport: you might use an online lesson to prepare for travel, family communication, work conversations, or a personal interest in Brazilian Portuguese."
+service_scope: online_plus_confirmed_gold_coast_venue
+local_intro: "Learn Brazilian Portuguese online from Southport. Online lessons are available worldwide. Learners in Southport can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Scheduling uses the Gold Coast time-zone group as a planning reference. Learners in Southport can use the online lessons from Australia. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic."
+scheduling: "Scheduling from Southport: Online lessons are available worldwide. Learners in Southport can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Brisbane; use it as a planning reference rather than a promise of a particular class time."
+learner_use_case: "A possible learner goal in Southport: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Southport"
   url: /en/contact-portuguese-teacher/
 faq:
   - question: "Can I study from Southport?"
-    answer: "Yes. Lessons are online, so you can study from Southport. Times are agreed in advance using Australia/Brisbane and current availability. Contact Barbara to discuss a suitable format."
+    answer: "Yes. You can choose online lessons or request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach, Kirra. The venue and timing are agreed in advance using Australia/Brisbane; contact Barbara to confirm current availability."
 editorial_reviewed: true
 ---
 
@@ -60,3 +60,7 @@ Learning Portuguese in Southport gives you access to a rich linguistic tradition
 Online private and group Portuguese lessons are available in Southport, offering flexibility for busy schedules. Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, allowing you to explore Portuguese culture through authentic content.
 
 Barbara Sharon provides a range of options including one-on-one tutoring, group classes, and speaking clubs. All sessions are adaptable to individual learning needs, whether you're preparing for travel, aiming to connect with Brazilian communities, or seeking to enhance professional communication skills. Find a native Portuguese teacher Southport who can accommodate your schedule through her online Portuguese tutor services.
+
+## In-person option for Southport
+
+Learners in Southport can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Surfers Paradise, approximately 5–20 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

@@ -1,6 +1,5 @@
 ---
 translationKey: location-clear-island-waters
-type: portuguese-teaching-locations
 title: "Portugués en Clear Island Waters: Presenciales y Online"
 description: "Clases de portugués en Clear Island Waters: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
@@ -16,16 +15,16 @@ country: "Australia"
 region_group: "Gold Coast"
 time_zone: "Australia/Brisbane"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprende portugués brasileño desde Clear Island Waters con clases online y clases presenciales en Gold Coast. Las clases presenciales se realizan en un lugar adecuado confirmado en Kirra, Broadbeach o Surfers Paradise, según la disponibilidad actual."
-local_context: "Clases online de portugués brasileño para Clear Island Waters; las opciones presenciales en Gold Coast se confirman para Clear Island Waters usando Australia/Brisbane."
-scheduling: "Horarios para Clear Island Waters: hay clases online y clases presenciales en Gold Coast. El lugar presencial y la disponibilidad de clases se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
-learner_use_case: "Un posible objetivo de aprendizaje en Clear Island Waters: usar clases online o presenciales para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
+local_intro: "Aprende portugués brasileño online desde Clear Island Waters. Las clases online están disponibles en todo el mundo. Para estudiantes en Clear Island Waters, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar."
+local_context: "La programación usa el grupo horario Gold Coast como referencia de planificación. Los estudiantes de Clear Island Waters pueden hacer las clases online desde Australia. Se puede solicitar una clase presencial en un lugar confirmado de Gold Coast; el lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal."
+scheduling: "Horarios para Clear Island Waters: Las clases online están disponibles en todo el mundo. Para estudiantes en Clear Island Waters, también se puede solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. El lugar y la disponibilidad se confirman antes de reservar. La zona horaria IANA es Australia/Brisbane; úsala como referencia de planificación, no como promesa de una hora concreta."
+learner_use_case: "Un posible objetivo de aprendizaje en Clear Island Waters: elige una clase online o solicita una clase presencial en un lugar confirmado de Gold Coast, según tu objetivo y la disponibilidad."
 cta:
   label: "Habla sobre clases para Clear Island Waters"
   url: /es/contacto-profesora-portugues/
 faq:
   - question: "¿Puedo estudiar desde Clear Island Waters?"
-    answer: "Sí. Puedes elegir clases online o clases presenciales en Gold Coast en un lugar adecuado confirmado. Los horarios y la disponibilidad del lugar se acuerdan con antelación usando Australia/Brisbane. Contacta con Barbara para elegir el mejor formato."
+    answer: "Sí. Puedes elegir clases online o solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach, Kirra. El lugar y el horario se acuerdan con antelación usando Australia/Brisbane; contacta con Barbara para confirmar la disponibilidad actual."
 editorial_reviewed: true
 ---
 
@@ -60,3 +59,7 @@ Quienes estudian desde Clear Island Waters pueden asistir a clases presenciales 
 ## Empieza hoy tu recorrido con el portugués brasileño
 
 Si deseas aprender portugués en Clear Island Waters, Barbara Sharon ofrece una clase de portugués para ayudarte a comenzar. Tanto si buscas una tutora de portugués brasileño como una profesora nativa cerca de ti, recibirás enseñanza personalizada para tus necesidades. Con tutorías particulares y clases de portugués brasileño, hay una opción para cada estudiante.
+
+## Opción presencial para Clear Island Waters
+
+Quienes están en Clear Island Waters pueden solicitar una clase presencial en un lugar confirmado de Gold Coast, como Surfers Paradise, Broadbeach or Kirra. El lugar más cercano suele ser Surfers Paradise, a unos 5–20 minutes en coche con tráfico normal. Contacta con Barbara antes de reservar para confirmar el lugar, el horario y la disponibilidad. Las clases online siguen disponibles.

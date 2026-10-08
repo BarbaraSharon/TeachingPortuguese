@@ -7,7 +7,7 @@ question: "O que praticar entre as aulas de português?"
 direct_answer: "Entre as aulas, retome uma pequena quantidade de português corrigido e use-a ativamente. Lembre frases sem olhar, escute um áudio curto, copie o ritmo, crie exemplos pessoais e fale por um minuto sobre o tema. Vários períodos breves costumam ser mais sustentáveis do que uma sessão longa. Leve dúvidas e erros recorrentes para a próxima aula."
 authors: [me]
 date: 2026-08-26
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 280
 robots: index, follow, max-image-preview:large
 image:

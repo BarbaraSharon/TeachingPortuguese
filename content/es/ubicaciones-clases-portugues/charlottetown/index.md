@@ -1,6 +1,5 @@
 ---
 translationKey: location-charlottetown
-type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Charlottetown"
 description: "Clases online de portugués brasileño en Charlottetown, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
@@ -17,7 +16,7 @@ region_group: "North America"
 time_zone: "America/Halifax"
 service_scope: online_only
 local_intro: "Aprende portugués brasileño online desde Charlottetown. Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara."
-local_context: "Clases online de portugués brasileño para Charlottetown; confirma un horario para Charlottetown usando America/Halifax."
+local_context: "La programación usa el grupo horario North America como referencia de planificación. Los estudiantes de Charlottetown pueden hacer las clases online desde Canada. Esta página mantiene la referencia local específica de Charlottetown, mientras que el servicio de enseñanza sigue priorizando el formato online."
 scheduling: "Horarios para Charlottetown: Las clases se imparten online. Elige un horario que funcione en tu zona horaria y confirma la disponibilidad con Barbara. La zona horaria IANA es America/Halifax; úsala como referencia de planificación, no como promesa de una hora concreta."
 learner_use_case: "Un posible objetivo de aprendizaje en Charlottetown: puedes usar una clase online para prepararte para viajes, comunicación familiar, conversaciones de trabajo o un interés personal por el portugués brasileño."
 cta:

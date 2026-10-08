@@ -7,7 +7,7 @@ question: "Is Brazilian Portuguese Hard for English Speakers?"
 direct_answer: "Brazilian Portuguese is learnable for English speakers, but some features require deliberate practice. Pronunciation, nasal vowels, connected speech, verb forms, grammatical gender and the use of small connecting words may feel unfamiliar. Progress becomes more manageable when you study these features through useful sentences, listen regularly, speak from the beginning and receive corrections instead of trying to master every rule first."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 100
 robots: index, follow, max-image-preview:large
 image:

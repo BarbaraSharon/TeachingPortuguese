@@ -7,7 +7,7 @@ question: "Private or Group Portuguese Lessons: Which Is Better?"
 direct_answer: "Private Portuguese lessons are usually better for individual goals, flexible pacing and concentrated feedback. Group lessons are useful for interacting with several learners, practising turn-taking and sharing the learning experience. Neither format is universally better. Choose according to how specific your goal is, how much individual correction you need, your preferred social setting, schedule and current availability."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: "2026-10-08"
 weight: 80
 robots: index, follow, max-image-preview:large
 image:

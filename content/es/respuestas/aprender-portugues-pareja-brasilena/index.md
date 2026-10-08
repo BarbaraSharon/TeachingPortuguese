@@ -7,7 +7,7 @@ question: "¿Cómo aprender portugués para una pareja brasileña?"
 direct_answer: "Aprende portugués para una pareja brasileña centrándote en las conversaciones que realmente quieres compartir: saludos familiares, rutinas, comidas, historias, planes y expresiones afectuosas cotidianas. Pide ejemplos naturales a tu pareja, pero reserva la práctica estructurada y las correcciones para otros momentos. La escucha regular, la pronunciación y los juegos de rol ayudan a participar con confianza sin convertir a tu pareja en profesora permanente."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-20
+lastmod: "2026-10-08"
 weight: 180
 robots: index, follow, max-image-preview:large
 image:
