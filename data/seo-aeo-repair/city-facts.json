@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "verified_on": "2026-09-08",
+  "verified_on": "2026-10-08",
   "time_zone_data_version": "2026c",
   "records": [
     {
@@ -3000,13 +3000,13 @@
         "content/pt-br/locais-de-aulas-de-portugues/kingscliff/index.md"
       ],
       "status": "verified",
-      "verification_date": "2026-09-08",
+      "verification_date": "2026-10-08",
       "time_zone_data_version": "2026c",
       "evidence_urls": [
         "https://www.iana.org/time-zones",
         "https://www.geonames.org/search.html?q=Kingscliff&country=AU"
       ],
-      "notes": "New South Wales locality uses Australia/Sydney.",
+      "notes": "New South Wales locality outside the Gold Coast; nearest confirmed venue is Kirra.",
       "city_display_names": {
         "en": "Kingscliff",
         "es": "Kingscliff",
@@ -5484,13 +5484,13 @@
         "content/pt-br/locais-de-aulas-de-portugues/tweed-heads/index.md"
       ],
       "status": "verified",
-      "verification_date": "2026-09-08",
+      "verification_date": "2026-10-08",
       "time_zone_data_version": "2026c",
       "evidence_urls": [
         "https://www.iana.org/time-zones",
         "https://www.geonames.org/search.html?q=Tweed+Heads&country=AU"
       ],
-      "notes": "New South Wales locality uses Australia/Sydney.",
+      "notes": "New South Wales locality outside the Gold Coast; nearest confirmed venue is Kirra.",
       "city_display_names": {
         "en": "Tweed Heads",
         "es": "Tweed Heads",

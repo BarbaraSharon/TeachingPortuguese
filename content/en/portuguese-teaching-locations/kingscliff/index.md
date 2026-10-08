@@ -14,12 +14,12 @@ categories:
 - Portuguese teaching locations
 city: "Kingscliff"
 country: "Australia"
-region_group: "Gold Coast"
+region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Learn Brazilian Portuguese online from Kingscliff. Online lessons are available worldwide. Learners in Kingscliff can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking."
-local_context: "Learners in Kingscliff can use the online lessons from Australia. Scheduling uses the Gold Coast time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic."
-scheduling: "Scheduling from Kingscliff: Online lessons are available worldwide. Learners in Kingscliff can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
+local_intro: "Learn Brazilian Portuguese online from Kingscliff. Online lessons are available worldwide. Learners in Kingscliff can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Kirra, approximately 10–25 minutes by car in typical traffic. The venue and availability are confirmed before booking."
+local_context: "Learners in Kingscliff can use the online lessons from Australia. Scheduling uses the Australia & New Zealand time-zone group as a planning reference. An in-person lesson can be requested at a confirmed Gold Coast venue; the nearest practical option is usually Kirra, approximately 10–25 minutes by car in typical traffic."
+scheduling: "Scheduling from Kingscliff: Online lessons are available worldwide. Learners in Kingscliff can also request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Kirra, approximately 10–25 minutes by car in typical traffic. The venue and availability are confirmed before booking. The IANA time zone is Australia/Sydney; use it as a planning reference rather than a promise of a particular class time."
 learner_use_case: "A possible learner goal in Kingscliff: choose an online lesson or request an in-person lesson at a confirmed Gold Coast venue, depending on your goal and availability."
 cta:
   label: "Discuss lessons for Kingscliff"
@@ -68,4 +68,4 @@ To learn more about her services, visit [Services](/en/portuguese-teaching-servi
 
 ## In-person option for Kingscliff
 
-Learners in Kingscliff can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Broadbeach or Kirra, approximately 15–45 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.
+Learners in Kingscliff can request an in-person lesson at a confirmed Gold Coast venue such as Surfers Paradise, Broadbeach or Kirra. The nearest practical option is usually Kirra, approximately 10–25 minutes by car in typical traffic. Contact Barbara before booking to confirm the venue, timing, and availability. Online lessons remain available.

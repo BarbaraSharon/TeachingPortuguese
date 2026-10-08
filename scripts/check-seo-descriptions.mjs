@@ -57,9 +57,8 @@ function readScalar(frontMatter, fieldName) {
   return frontMatter.match(new RegExp(`^${fieldName}:\\s*(.*)$`, 'm'))?.[1]?.trim() ?? '';
 }
 
-function hasVerifiedGoldCoastInPersonOption(frontMatter) {
-  return unquote(readScalar(frontMatter, 'region_group')) === 'Gold Coast'
-    && unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
+function hasVerifiedInPersonOption(frontMatter) {
+  return unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
 }
 
 function unquote(value) {
@@ -192,7 +191,7 @@ for (const filePath of walk(contentRoot).sort()) {
   if (isLocationPage(language, contentPath)) {
     const city = cityForLocation(language, contentPath, title, frontMatter);
     if (!/\bonline\b/i.test(description)) errors.push(`${relative}: location description must state the truthful online delivery mode`);
-    if (/\b(?:in-person|presencial(?:es|mente)?|face to face)\b/i.test(description) && !hasVerifiedGoldCoastInPersonOption(frontMatter)) {
+    if (/\b(?:in-person|presencial(?:es|mente)?|face to face)\b/i.test(description) && !hasVerifiedInPersonOption(frontMatter)) {
       errors.push(`${relative}: location description must not imply unverified in-person delivery`);
     }
     if (!city || !description.toLocaleLowerCase().includes(city.toLocaleLowerCase())) {

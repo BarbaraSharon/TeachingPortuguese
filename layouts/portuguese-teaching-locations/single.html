@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $l := .Params }}
-{{ $isGoldCoast := eq $l.service_scope "online_plus_confirmed_gold_coast_venue" }}
-{{ $formatKey := cond $isGoldCoast "location_format_online_in_person" "location_format_online" }}
+{{ $hasInPersonOption := eq $l.service_scope "online_plus_confirmed_gold_coast_venue" }}
+{{ $formatKey := cond $hasInPersonOption "location_format_online_in_person" "location_format_online" }}
 {{ $heroImage := "" }}
 {{ with .Params.image }}{{ $heroImage = resources.Get (printf "media/%s" .filename) }}{{ end }}
 <main class="mx-auto max-w-6xl px-6 py-12 sm:px-8 lg:py-20">

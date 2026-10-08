@@ -12,12 +12,12 @@ categories:
 - Locais de aulas de português
 city: "Kingscliff"
 country: "Australia"
-region_group: "Gold Coast"
+region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Kingscliff. As aulas online estão disponíveis em todo o mundo. Para estudantes em Kingscliff, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
-local_context: "Estudantes em Kingscliff podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
-scheduling: "Horários para Kingscliff: As aulas online estão disponíveis em todo o mundo. Para estudantes em Kingscliff, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
+local_intro: "Aprenda português brasileiro online a partir de Kingscliff. As aulas online estão disponíveis em todo o mundo. Para estudantes em Kingscliff, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach ou Kirra. O local mais próximo costuma ser Kirra, a aproximadamente 10–25 minutos de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "Estudantes em Kingscliff podem fazer as aulas online a partir de Australia. O agendamento usa o grupo de fuso horário Australia & New Zealand como referência de planejamento. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Kirra, a aproximadamente 10–25 minutos de carro em condições normais de trânsito."
+scheduling: "Horários para Kingscliff: As aulas online estão disponíveis em todo o mundo. Para estudantes em Kingscliff, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach ou Kirra. O local mais próximo costuma ser Kirra, a aproximadamente 10–25 minutos de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Kingscliff: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Kingscliff"
@@ -74,4 +74,4 @@ Agende uma aula de português e dê o primeiro passo para aprender português br
 
 ## Opção presencial para Kingscliff
 
-Quem está em Kingscliff pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.
+Quem está em Kingscliff pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach ou Kirra. O local mais próximo costuma ser Kirra, a aproximadamente 10–25 minutos de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

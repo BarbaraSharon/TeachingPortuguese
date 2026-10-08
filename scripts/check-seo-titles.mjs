@@ -55,9 +55,8 @@ function readNestedScalar(raw, sectionName, fieldName) {
   return '';
 }
 
-function hasVerifiedGoldCoastInPersonOption(frontMatter) {
-  return unquote(readScalar(frontMatter, 'region_group')) === 'Gold Coast'
-    && unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
+function hasVerifiedInPersonOption(frontMatter) {
+  return unquote(readScalar(frontMatter, 'service_scope')) === 'online_plus_confirmed_gold_coast_venue';
 }
 
 function unquote(value) {
@@ -162,7 +161,7 @@ for (const filePath of walk(contentRoot).sort()) {
     && ['answers/', 'respuestas/', 'respostas/'].some((section) => contentPath.startsWith(section));
   if (unsupportedClaimPattern.test(title) && !approvedAnswerFramework) errors.push(`${relative}: title contains an unsupported marketing claim`);
   if (contentPath.includes('teaching-locations') || contentPath.includes('ubicaciones-clases-portugues') || contentPath.includes('locais-de-aulas-de-portugues')) {
-    if (inPersonPattern.test(title) && !hasVerifiedGoldCoastInPersonOption(frontMatter)) {
+    if (inPersonPattern.test(title) && !hasVerifiedInPersonOption(frontMatter)) {
       errors.push(`${relative}: location-page title must not imply unverified in-person delivery`);
     }
   }

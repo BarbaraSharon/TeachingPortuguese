@@ -12,12 +12,12 @@ categories:
 - Locais de aulas de português
 city: "Tweed Heads"
 country: "Australia"
-region_group: "Gold Coast"
+region_group: "Australia & New Zealand"
 time_zone: "Australia/Sydney"
 service_scope: online_plus_confirmed_gold_coast_venue
-local_intro: "Aprenda português brasileiro online a partir de Tweed Heads. As aulas online estão disponíveis em todo o mundo. Para estudantes em Tweed Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
-local_context: "O agendamento usa o grupo de fuso horário Gold Coast como referência de planejamento. Estudantes em Tweed Heads podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito."
-scheduling: "Horários para Tweed Heads: As aulas online estão disponíveis em todo o mundo. Para estudantes em Tweed Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
+local_intro: "Aprenda português brasileiro online a partir de Tweed Heads. As aulas online estão disponíveis em todo o mundo. Para estudantes em Tweed Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach ou Kirra. O local mais próximo costuma ser Kirra, a aproximadamente 5–20 minutos de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva."
+local_context: "O agendamento usa o grupo de fuso horário Australia & New Zealand como referência de planejamento. Estudantes em Tweed Heads podem fazer as aulas online a partir de Australia. É possível solicitar uma aula presencial em um local confirmado na Gold Coast; o local mais próximo costuma ser Kirra, a aproximadamente 5–20 minutos de carro em condições normais de trânsito."
+scheduling: "Horários para Tweed Heads: As aulas online estão disponíveis em todo o mundo. Para estudantes em Tweed Heads, também é possível solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach ou Kirra. O local mais próximo costuma ser Kirra, a aproximadamente 5–20 minutos de carro em condições normais de trânsito. O local e a disponibilidade são confirmados antes da reserva. O fuso horário IANA é Australia/Sydney; use-o como referência de planejamento, não como promessa de um horário específico."
 learner_use_case: "Um possível objetivo de estudante em Tweed Heads: escolha uma aula online ou solicite uma aula presencial em um local confirmado na Gold Coast, conforme seu objetivo e a disponibilidade."
 cta:
   label: "Converse sobre aulas para Tweed Heads"
@@ -56,4 +56,4 @@ O programa online utiliza ferramentas interativas e recursos multimídia para cr
 
 ## Opção presencial para Tweed Heads
 
-Quem está em Tweed Heads pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach or Kirra. O local mais próximo costuma ser Broadbeach or Kirra, a aproximadamente 15–45 minutes de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.
+Quem está em Tweed Heads pode solicitar uma aula presencial em um local confirmado na Gold Coast, como Surfers Paradise, Broadbeach ou Kirra. O local mais próximo costuma ser Kirra, a aproximadamente 5–20 minutos de carro em condições normais de trânsito. Fale com Barbara antes de reservar para confirmar o local, o horário e a disponibilidade. As aulas online continuam disponíveis.

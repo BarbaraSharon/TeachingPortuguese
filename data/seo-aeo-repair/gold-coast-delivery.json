@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "verified_on": "2026-10-08",
   "venue_names": [
     "Surfers Paradise",
@@ -22,28 +22,103 @@
     "hinterland": {
       "nearest": "Surfers Paradise or Broadbeach",
       "drive_time": "20–45 minutes"
+    },
+    "nearby": {
+      "nearest": "Kirra",
+      "drive_time": "10–25 minutes"
     }
   },
   "locations": {
     "central": [
-      "ashmore", "benowa", "broadbeach", "broadbeach-waters", "bundall", "carrara",
-      "clear-island-waters", "ernest", "gold-coast", "highland-park", "isle-of-capri",
-      "labrador", "mermaid-beach", "mermaid-waters", "merrimac", "nerang", "robina",
-      "southport", "surfers-paradise", "varsity-lakes"
+      "ashmore",
+      "benowa",
+      "broadbeach",
+      "broadbeach-waters",
+      "bundall",
+      "carrara",
+      "clear-island-waters",
+      "ernest",
+      "gold-coast",
+      "highland-park",
+      "isle-of-capri",
+      "labrador",
+      "mermaid-beach",
+      "mermaid-waters",
+      "merrimac",
+      "nerang",
+      "robina",
+      "southport",
+      "surfers-paradise",
+      "varsity-lakes"
     ],
     "north": [
-      "alberton", "arundel", "biggera-waters", "coombabah", "coomera", "coomera-waters",
-      "foxwell", "gaven", "helensvale", "hollywell", "hope-island", "jacobs-well",
-      "kingsholme", "maudsland", "ormeau", "oxenford", "pimpama", "upper-coomera"
+      "alberton",
+      "arundel",
+      "biggera-waters",
+      "coombabah",
+      "coomera",
+      "coomera-waters",
+      "foxwell",
+      "gaven",
+      "helensvale",
+      "hollywell",
+      "hope-island",
+      "jacobs-well",
+      "kingsholme",
+      "maudsland",
+      "ormeau",
+      "oxenford",
+      "pimpama",
+      "upper-coomera"
     ],
     "south": [
-      "bilinga", "burleigh-heads", "burleigh-waters", "coolangatta", "currumbin",
-      "currumbin-valley", "currumbin-waters", "elanora", "kingscliff", "mudgeeraba",
-      "palm-beach", "reedy-creek", "tweed-heads"
+      "bilinga",
+      "burleigh-heads",
+      "burleigh-waters",
+      "coolangatta",
+      "currumbin",
+      "currumbin-valley",
+      "currumbin-waters",
+      "elanora",
+      "mudgeeraba",
+      "palm-beach",
+      "reedy-creek"
     ],
     "hinterland": [
-      "advancetown", "austinville", "bonogin", "cedar-creek", "clagiraba", "forest-hill",
-      "gilston", "guanaba", "lower-beechmont"
+      "advancetown",
+      "austinville",
+      "bonogin",
+      "cedar-creek",
+      "clagiraba",
+      "forest-hill",
+      "gilston",
+      "guanaba",
+      "lower-beechmont"
+    ],
+    "nearby": [
+      "kingscliff",
+      "tweed-heads"
     ]
-  }
+  },
+  "nearby_locations": [
+    "kingscliff",
+    "tweed-heads"
+  ],
+  "location_overrides": {
+    "kingscliff": {
+      "nearest": "Kirra",
+      "drive_time": "10–25 minutes"
+    },
+    "tweed-heads": {
+      "nearest": "Kirra",
+      "drive_time": "5–20 minutes"
+    }
+  },
+  "coverage_definition": "Gold Coast locations plus nearby New South Wales locations reachable by car in no more than approximately one hour from a confirmed venue; nearby locations are not represented as Gold Coast suburbs.",
+  "travel_time_basis": "Approximate normal-traffic ranges from the named location to the nearest confirmed venue; confirm the venue, route and availability before booking.",
+  "evidence_urls": [
+    "https://www.rome2rio.com/s/Kirra-QLD-Australia/Tweed-Heads",
+    "https://www.rome2rio.com/s/Kingscliff/Kirra-Beach-QLD-Australia"
+  ],
+  "maximum_drive_minutes": 60
 }
