@@ -3,8 +3,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
-const facts = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-aeo-repair/city-facts.json'), 'utf8'));
-const delivery = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-aeo-repair/gold-coast-delivery.json'), 'utf8'));
+const facts = JSON.parse(fs.readFileSync(path.join(root, 'data/seo-aeo-repair/city-facts.json'), 'utf8'));
+const delivery = JSON.parse(fs.readFileSync(path.join(root, 'data/seo-aeo-repair/gold-coast-delivery.json'), 'utf8'));
 const languages = [
   ['en', 'content/en/portuguese-teaching-locations', /## In-person option for /i],
   ['pt-br', 'content/pt-br/locais-de-aulas-de-portugues', /## Opção presencial para /i],

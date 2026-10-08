@@ -5,7 +5,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const root = path.resolve(import.meta.dirname, '..');
-const manifestPath = path.join(root, 'docs/seo-aeo-repair/city-facts.json');
+const manifestPath = path.join(root, 'data/seo-aeo-repair/city-facts.json');
 const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
 const languageDirs = {
   en: 'content/en/portuguese-teaching-locations',

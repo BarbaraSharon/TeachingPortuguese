@@ -1,0 +1,5936 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-09-08",
+  "time_zone_data_version": "2026c",
+  "records": [
+    {
+      "translationKey": "location-abbotsford",
+      "slug": "abbotsford",
+      "city": "Abbotsford",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/abbotsford/index.md",
+        "content/es/ubicaciones-clases-portugues/abbotsford/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/abbotsford/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Abbotsford&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Abbotsford",
+        "es": "Abbotsford",
+        "pt-br": "Abbotsford"
+      },
+      "administrative_area": "British Columbia, Canada"
+    },
+    {
+      "translationKey": "location-abu-dhabi",
+      "slug": "abu-dhabi",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "country_display_names": {
+        "en": "United Arab Emirates",
+        "es": "Emiratos Árabes Unidos",
+        "pt-br": "Emirados Árabes Unidos"
+      },
+      "time_zone": "Asia/Dubai",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/abu-dhabi/index.md",
+        "content/es/ubicaciones-clases-portugues/abu-dhabi/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/abu-dhabi/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Abu+Dhabi&country=AE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Abu Dhabi",
+        "es": "Abu Dhabi",
+        "pt-br": "Abu Dhabi"
+      }
+    },
+    {
+      "translationKey": "location-adelaide",
+      "slug": "adelaide",
+      "city": "Adelaide",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Adelaide",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/adelaide/index.md",
+        "content/es/ubicaciones-clases-portugues/adelaide/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/adelaide/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Adelaide&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Adelaide",
+        "es": "Adelaide",
+        "pt-br": "Adelaide"
+      }
+    },
+    {
+      "translationKey": "location-advancetown",
+      "slug": "advancetown",
+      "city": "Advancetown",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/advancetown/index.md",
+        "content/es/ubicaciones-clases-portugues/advancetown/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/advancetown/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Advancetown&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Advancetown",
+        "es": "Advancetown",
+        "pt-br": "Advancetown"
+      }
+    },
+    {
+      "translationKey": "location-alberton",
+      "slug": "alberton",
+      "city": "Alberton",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/alberton/index.md",
+        "content/es/ubicaciones-clases-portugues/alberton/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/alberton/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Alberton&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Alberton",
+        "es": "Alberton",
+        "pt-br": "Alberton"
+      }
+    },
+    {
+      "translationKey": "location-amsterdam",
+      "slug": "amsterdam",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "country_display_names": {
+        "en": "Netherlands",
+        "es": "Países Bajos",
+        "pt-br": "Países Baixos"
+      },
+      "time_zone": "Europe/Amsterdam",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/amsterdam/index.md",
+        "content/es/ubicaciones-clases-portugues/amsterdam/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/amsterdam/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Amsterdam&country=NL"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Amsterdam",
+        "es": "Amsterdam",
+        "pt-br": "Amsterdam"
+      }
+    },
+    {
+      "translationKey": "location-arundel",
+      "slug": "arundel",
+      "city": "Arundel",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/arundel/index.md",
+        "content/es/ubicaciones-clases-portugues/arundel/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/arundel/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Arundel&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Arundel",
+        "es": "Arundel",
+        "pt-br": "Arundel"
+      }
+    },
+    {
+      "translationKey": "location-ashmore",
+      "slug": "ashmore",
+      "city": "Ashmore",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/ashmore/index.md",
+        "content/es/ubicaciones-clases-portugues/ashmore/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/ashmore/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Ashmore&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Ashmore",
+        "es": "Ashmore",
+        "pt-br": "Ashmore"
+      }
+    },
+    {
+      "translationKey": "location-atlanta",
+      "slug": "atlanta",
+      "city": "Atlanta",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/atlanta/index.md",
+        "content/es/ubicaciones-clases-portugues/atlanta/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/atlanta/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Atlanta&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Atlanta",
+        "es": "Atlanta",
+        "pt-br": "Atlanta"
+      }
+    },
+    {
+      "translationKey": "location-auckland",
+      "slug": "auckland",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "country_display_names": {
+        "en": "New Zealand",
+        "es": "Nueva Zelanda",
+        "pt-br": "Nova Zelândia"
+      },
+      "time_zone": "Pacific/Auckland",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/auckland/index.md",
+        "content/es/ubicaciones-clases-portugues/auckland/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/auckland/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Auckland&country=NZ"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Auckland",
+        "es": "Auckland",
+        "pt-br": "Auckland"
+      }
+    },
+    {
+      "translationKey": "location-augsburg",
+      "slug": "augsburg",
+      "city": "Augsburg",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/augsburg/index.md",
+        "content/es/ubicaciones-clases-portugues/augsburg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/augsburg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Augsburg&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Augsburg",
+        "es": "Augsburg",
+        "pt-br": "Augsburg"
+      }
+    },
+    {
+      "translationKey": "location-austin",
+      "slug": "austin",
+      "city": "Austin",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Chicago",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/austin/index.md",
+        "content/es/ubicaciones-clases-portugues/austin/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/austin/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Austin&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Austin",
+        "es": "Austin",
+        "pt-br": "Austin"
+      },
+      "administrative_area": "Texas, United States"
+    },
+    {
+      "translationKey": "location-austinville",
+      "slug": "austinville",
+      "city": "Austinville",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/austinville/index.md",
+        "content/es/ubicaciones-clases-portugues/austinville/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/austinville/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Austinville&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Austinville",
+        "es": "Austinville",
+        "pt-br": "Austinville"
+      }
+    },
+    {
+      "translationKey": "location-bangalore",
+      "slug": "bangalore",
+      "city": "Bangalore",
+      "country": "India",
+      "country_display_names": {
+        "en": "India",
+        "es": "India",
+        "pt-br": "Índia"
+      },
+      "time_zone": "Asia/Kolkata",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bangalore/index.md",
+        "content/es/ubicaciones-clases-portugues/bangalore/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bangalore/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bangalore&country=IN"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bangalore",
+        "es": "Bangalore",
+        "pt-br": "Bangalore"
+      }
+    },
+    {
+      "translationKey": "location-barcelona",
+      "slug": "barcelona",
+      "city": "Barcelona",
+      "country": "Spain",
+      "country_display_names": {
+        "en": "Spain",
+        "es": "España",
+        "pt-br": "Espanha"
+      },
+      "time_zone": "Europe/Madrid",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/barcelona/index.md",
+        "content/es/ubicaciones-clases-portugues/barcelona/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/barcelona/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Barcelona&country=ES"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Barcelona",
+        "es": "Barcelona",
+        "pt-br": "Barcelona"
+      }
+    },
+    {
+      "translationKey": "location-basel",
+      "slug": "basel",
+      "city": "Basel",
+      "country": "Switzerland",
+      "country_display_names": {
+        "en": "Switzerland",
+        "es": "Suiza",
+        "pt-br": "Suíça"
+      },
+      "time_zone": "Europe/Zurich",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/basel/index.md",
+        "content/es/ubicaciones-clases-portugues/basel/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/basel/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Basel&country=CH"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Basel",
+        "es": "Basel",
+        "pt-br": "Basel"
+      }
+    },
+    {
+      "translationKey": "location-benowa",
+      "slug": "benowa",
+      "city": "Benowa",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/benowa/index.md",
+        "content/es/ubicaciones-clases-portugues/benowa/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/benowa/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Benowa&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Benowa",
+        "es": "Benowa",
+        "pt-br": "Benowa"
+      }
+    },
+    {
+      "translationKey": "location-berlin",
+      "slug": "berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/berlin/index.md",
+        "content/es/ubicaciones-clases-portugues/berlin/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/berlin/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Berlin&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Berlin",
+        "es": "Berlin",
+        "pt-br": "Berlin"
+      }
+    },
+    {
+      "translationKey": "location-biggera-waters",
+      "slug": "biggera-waters",
+      "city": "Biggera Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/biggera-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/biggera-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/biggera-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Biggera+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Biggera Waters",
+        "es": "Biggera Waters",
+        "pt-br": "Biggera Waters"
+      }
+    },
+    {
+      "translationKey": "location-bilinga",
+      "slug": "bilinga",
+      "city": "Bilinga",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bilinga/index.md",
+        "content/es/ubicaciones-clases-portugues/bilinga/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bilinga/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bilinga&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bilinga",
+        "es": "Bilinga",
+        "pt-br": "Bilinga"
+      }
+    },
+    {
+      "translationKey": "location-birmingham",
+      "slug": "birmingham",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/birmingham/index.md",
+        "content/es/ubicaciones-clases-portugues/birmingham/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/birmingham/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Birmingham&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Birmingham",
+        "es": "Birmingham",
+        "pt-br": "Birmingham"
+      }
+    },
+    {
+      "translationKey": "location-bologna",
+      "slug": "bologna",
+      "city": "Bologna",
+      "country": "Italy",
+      "country_display_names": {
+        "en": "Italy",
+        "es": "Italia",
+        "pt-br": "Itália"
+      },
+      "time_zone": "Europe/Rome",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bologna/index.md",
+        "content/es/ubicaciones-clases-portugues/bologna/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bologna/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bologna&country=IT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bologna",
+        "es": "Bologna",
+        "pt-br": "Bologna"
+      }
+    },
+    {
+      "translationKey": "location-bonn",
+      "slug": "bonn",
+      "city": "Bonn",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bonn/index.md",
+        "content/es/ubicaciones-clases-portugues/bonn/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bonn/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bonn&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bonn",
+        "es": "Bonn",
+        "pt-br": "Bonn"
+      }
+    },
+    {
+      "translationKey": "location-bonogin",
+      "slug": "bonogin",
+      "city": "Bonogin",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bonogin/index.md",
+        "content/es/ubicaciones-clases-portugues/bonogin/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bonogin/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bonogin&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bonogin",
+        "es": "Bonogin",
+        "pt-br": "Bonogin"
+      }
+    },
+    {
+      "translationKey": "location-bordeaux",
+      "slug": "bordeaux",
+      "city": "Bordeaux",
+      "country": "France",
+      "country_display_names": {
+        "en": "France",
+        "es": "Francia",
+        "pt-br": "França"
+      },
+      "time_zone": "Europe/Paris",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bordeaux/index.md",
+        "content/es/ubicaciones-clases-portugues/bordeaux/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bordeaux/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bordeaux&country=FR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bordeaux",
+        "es": "Bordeaux",
+        "pt-br": "Bordeaux"
+      }
+    },
+    {
+      "translationKey": "location-boston",
+      "slug": "boston",
+      "city": "Boston",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/boston/index.md",
+        "content/es/ubicaciones-clases-portugues/boston/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/boston/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Boston&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Boston",
+        "es": "Boston",
+        "pt-br": "Boston"
+      }
+    },
+    {
+      "translationKey": "location-bremen",
+      "slug": "bremen",
+      "city": "Bremen",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bremen/index.md",
+        "content/es/ubicaciones-clases-portugues/bremen/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bremen/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bremen&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bremen",
+        "es": "Bremen",
+        "pt-br": "Bremen"
+      }
+    },
+    {
+      "translationKey": "location-brisbane",
+      "slug": "brisbane",
+      "city": "Brisbane",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/brisbane/index.md",
+        "content/es/ubicaciones-clases-portugues/brisbane/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/brisbane/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Brisbane&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Brisbane",
+        "es": "Brisbane",
+        "pt-br": "Brisbane"
+      }
+    },
+    {
+      "translationKey": "location-bristol",
+      "slug": "bristol",
+      "city": "Bristol",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bristol/index.md",
+        "content/es/ubicaciones-clases-portugues/bristol/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bristol/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bristol&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bristol",
+        "es": "Bristol",
+        "pt-br": "Bristol"
+      }
+    },
+    {
+      "translationKey": "location-broadbeach",
+      "slug": "broadbeach",
+      "city": "Broadbeach",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/broadbeach/index.md",
+        "content/es/ubicaciones-clases-portugues/broadbeach/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/broadbeach/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Broadbeach&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Broadbeach",
+        "es": "Broadbeach",
+        "pt-br": "Broadbeach"
+      }
+    },
+    {
+      "translationKey": "location-broadbeach-waters",
+      "slug": "broadbeach-waters",
+      "city": "Broadbeach Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/broadbeach-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/broadbeach-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/broadbeach-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Broadbeach+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Broadbeach Waters",
+        "es": "Broadbeach Waters",
+        "pt-br": "Broadbeach Waters"
+      }
+    },
+    {
+      "translationKey": "location-brussels",
+      "slug": "brussels",
+      "city": "Brussels",
+      "country": "Belgium",
+      "country_display_names": {
+        "en": "Belgium",
+        "es": "Bélgica",
+        "pt-br": "Bélgica"
+      },
+      "time_zone": "Europe/Brussels",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/brussels/index.md",
+        "content/es/ubicaciones-clases-portugues/brussels/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/brussels/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Brussels&country=BE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Brussels",
+        "es": "Brussels",
+        "pt-br": "Brussels"
+      }
+    },
+    {
+      "translationKey": "location-bundall",
+      "slug": "bundall",
+      "city": "Bundall",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/bundall/index.md",
+        "content/es/ubicaciones-clases-portugues/bundall/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/bundall/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Bundall&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Bundall",
+        "es": "Bundall",
+        "pt-br": "Bundall"
+      }
+    },
+    {
+      "translationKey": "location-burleigh-heads",
+      "slug": "burleigh-heads",
+      "city": "Burleigh Heads",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/burleigh-heads/index.md",
+        "content/es/ubicaciones-clases-portugues/burleigh-heads/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/burleigh-heads/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Burleigh+Heads&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Burleigh Heads",
+        "es": "Burleigh Heads",
+        "pt-br": "Burleigh Heads"
+      }
+    },
+    {
+      "translationKey": "location-burleigh-waters",
+      "slug": "burleigh-waters",
+      "city": "Burleigh Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/burleigh-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/burleigh-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/burleigh-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Burleigh+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Burleigh Waters",
+        "es": "Burleigh Waters",
+        "pt-br": "Burleigh Waters"
+      }
+    },
+    {
+      "translationKey": "location-burnaby",
+      "slug": "burnaby",
+      "city": "Burnaby",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/burnaby/index.md",
+        "content/es/ubicaciones-clases-portugues/burnaby/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/burnaby/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Burnaby&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Burnaby",
+        "es": "Burnaby",
+        "pt-br": "Burnaby"
+      }
+    },
+    {
+      "translationKey": "location-calgary",
+      "slug": "calgary",
+      "city": "Calgary",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Edmonton",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/calgary/index.md",
+        "content/es/ubicaciones-clases-portugues/calgary/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/calgary/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Calgary&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Calgary",
+        "es": "Calgary",
+        "pt-br": "Calgary"
+      }
+    },
+    {
+      "translationKey": "location-canberra",
+      "slug": "canberra",
+      "city": "Canberra",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Sydney",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/canberra/index.md",
+        "content/es/ubicaciones-clases-portugues/canberra/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/canberra/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Canberra&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Canberra",
+        "es": "Canberra",
+        "pt-br": "Canberra"
+      }
+    },
+    {
+      "translationKey": "location-cape-town",
+      "slug": "cape-town",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "country_display_names": {
+        "en": "South Africa",
+        "es": "Sudáfrica",
+        "pt-br": "África do Sul"
+      },
+      "time_zone": "Africa/Johannesburg",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/cape-town/index.md",
+        "content/es/ubicaciones-clases-portugues/cape-town/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/cape-town/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Cape+Town&country=ZA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Cape Town",
+        "es": "Cape Town",
+        "pt-br": "Cape Town"
+      }
+    },
+    {
+      "translationKey": "location-carrara",
+      "slug": "carrara",
+      "city": "Carrara",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/carrara/index.md",
+        "content/es/ubicaciones-clases-portugues/carrara/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/carrara/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Carrara&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Carrara",
+        "es": "Carrara",
+        "pt-br": "Carrara"
+      }
+    },
+    {
+      "translationKey": "location-cedar-creek",
+      "slug": "cedar-creek",
+      "city": "Cedar Creek",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/cedar-creek/index.md",
+        "content/es/ubicaciones-clases-portugues/cedar-creek/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/cedar-creek/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Cedar+Creek&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Cedar Creek",
+        "es": "Cedar Creek",
+        "pt-br": "Cedar Creek"
+      }
+    },
+    {
+      "translationKey": "location-charlottetown",
+      "slug": "charlottetown",
+      "city": "Charlottetown",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Halifax",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/charlottetown/index.md",
+        "content/es/ubicaciones-clases-portugues/charlottetown/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/charlottetown/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Charlottetown&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Charlottetown",
+        "es": "Charlottetown",
+        "pt-br": "Charlottetown"
+      }
+    },
+    {
+      "translationKey": "location-chicago",
+      "slug": "chicago",
+      "city": "Chicago",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Chicago",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/chicago/index.md",
+        "content/es/ubicaciones-clases-portugues/chicago/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/chicago/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Chicago&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Chicago",
+        "es": "Chicago",
+        "pt-br": "Chicago"
+      }
+    },
+    {
+      "translationKey": "location-chilliwack",
+      "slug": "chilliwack",
+      "city": "Chilliwack",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/chilliwack/index.md",
+        "content/es/ubicaciones-clases-portugues/chilliwack/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/chilliwack/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Chilliwack&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Chilliwack",
+        "es": "Chilliwack",
+        "pt-br": "Chilliwack"
+      }
+    },
+    {
+      "translationKey": "location-clagiraba",
+      "slug": "clagiraba",
+      "city": "Clagiraba",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/clagiraba/index.md",
+        "content/es/ubicaciones-clases-portugues/clagiraba/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/clagiraba/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Clagiraba&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Clagiraba",
+        "es": "Clagiraba",
+        "pt-br": "Clagiraba"
+      }
+    },
+    {
+      "translationKey": "location-clear-island-waters",
+      "slug": "clear-island-waters",
+      "city": "Clear Island Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/clear-island-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/clear-island-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/clear-island-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Clear+Island+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Clear Island Waters",
+        "es": "Clear Island Waters",
+        "pt-br": "Clear Island Waters"
+      }
+    },
+    {
+      "translationKey": "location-cologne",
+      "slug": "cologne",
+      "city": "Cologne",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/cologne/index.md",
+        "content/es/ubicaciones-clases-portugues/cologne/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/cologne/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Cologne&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Cologne",
+        "es": "Cologne",
+        "pt-br": "Cologne"
+      }
+    },
+    {
+      "translationKey": "location-coolangatta",
+      "slug": "coolangatta",
+      "city": "Coolangatta",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/coolangatta/index.md",
+        "content/es/ubicaciones-clases-portugues/coolangatta/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/coolangatta/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Coolangatta&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Coolangatta",
+        "es": "Coolangatta",
+        "pt-br": "Coolangatta"
+      }
+    },
+    {
+      "translationKey": "location-coombabah",
+      "slug": "coombabah",
+      "city": "Coombabah",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/coombabah/index.md",
+        "content/es/ubicaciones-clases-portugues/coombabah/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/coombabah/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Coombabah&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Coombabah",
+        "es": "Coombabah",
+        "pt-br": "Coombabah"
+      }
+    },
+    {
+      "translationKey": "location-coomera",
+      "slug": "coomera",
+      "city": "Coomera",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/coomera/index.md",
+        "content/es/ubicaciones-clases-portugues/coomera/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/coomera/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Coomera&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Coomera",
+        "es": "Coomera",
+        "pt-br": "Coomera"
+      }
+    },
+    {
+      "translationKey": "location-coomera-waters",
+      "slug": "coomera-waters",
+      "city": "Coomera Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/coomera-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/coomera-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/coomera-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Coomera+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Coomera Waters",
+        "es": "Coomera Waters",
+        "pt-br": "Coomera Waters"
+      }
+    },
+    {
+      "translationKey": "location-copenhagen",
+      "slug": "copenhagen",
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "country_display_names": {
+        "en": "Denmark",
+        "es": "Dinamarca",
+        "pt-br": "Dinamarca"
+      },
+      "time_zone": "Europe/Copenhagen",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/copenhagen/index.md",
+        "content/es/ubicaciones-clases-portugues/copenhagen/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/copenhagen/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Copenhagen&country=DK"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Copenhagen",
+        "es": "Copenhagen",
+        "pt-br": "Copenhagen"
+      }
+    },
+    {
+      "translationKey": "location-cork",
+      "slug": "cork",
+      "city": "Cork",
+      "country": "Ireland",
+      "country_display_names": {
+        "en": "Ireland",
+        "es": "Irlanda",
+        "pt-br": "Irlanda"
+      },
+      "time_zone": "Europe/Dublin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/cork/index.md",
+        "content/es/ubicaciones-clases-portugues/cork/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/cork/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Cork&country=IE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Cork",
+        "es": "Cork",
+        "pt-br": "Cork"
+      }
+    },
+    {
+      "translationKey": "location-currumbin",
+      "slug": "currumbin",
+      "city": "Currumbin",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/currumbin/index.md",
+        "content/es/ubicaciones-clases-portugues/currumbin/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/currumbin/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Currumbin&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Currumbin",
+        "es": "Currumbin",
+        "pt-br": "Currumbin"
+      }
+    },
+    {
+      "translationKey": "location-currumbin-valley",
+      "slug": "currumbin-valley",
+      "city": "Currumbin Valley",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/currumbin-valley/index.md",
+        "content/es/ubicaciones-clases-portugues/currumbin-valley/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/currumbin-valley/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Currumbin+Valley&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Currumbin Valley",
+        "es": "Currumbin Valley",
+        "pt-br": "Currumbin Valley"
+      }
+    },
+    {
+      "translationKey": "location-currumbin-waters",
+      "slug": "currumbin-waters",
+      "city": "Currumbin Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/currumbin-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/currumbin-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/currumbin-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Currumbin+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Currumbin Waters",
+        "es": "Currumbin Waters",
+        "pt-br": "Currumbin Waters"
+      }
+    },
+    {
+      "translationKey": "location-denver",
+      "slug": "denver",
+      "city": "Denver",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Denver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/denver/index.md",
+        "content/es/ubicaciones-clases-portugues/denver/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/denver/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Denver&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Denver",
+        "es": "Denver",
+        "pt-br": "Denver"
+      }
+    },
+    {
+      "translationKey": "location-dresden",
+      "slug": "dresden",
+      "city": "Dresden",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/dresden/index.md",
+        "content/es/ubicaciones-clases-portugues/dresden/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/dresden/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Dresden&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Dresden",
+        "es": "Dresden",
+        "pt-br": "Dresden"
+      }
+    },
+    {
+      "translationKey": "location-dubai",
+      "slug": "dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "country_display_names": {
+        "en": "United Arab Emirates",
+        "es": "Emiratos Árabes Unidos",
+        "pt-br": "Emirados Árabes Unidos"
+      },
+      "time_zone": "Asia/Dubai",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/dubai/index.md",
+        "content/es/ubicaciones-clases-portugues/dubai/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/dubai/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Dubai&country=AE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Dubai",
+        "es": "Dubai",
+        "pt-br": "Dubai"
+      }
+    },
+    {
+      "translationKey": "location-dublin",
+      "slug": "dublin",
+      "city": "Dublin",
+      "country": "Ireland",
+      "country_display_names": {
+        "en": "Ireland",
+        "es": "Irlanda",
+        "pt-br": "Irlanda"
+      },
+      "time_zone": "Europe/Dublin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/dublin/index.md",
+        "content/es/ubicaciones-clases-portugues/dublin/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/dublin/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Dublin&country=IE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Dublin",
+        "es": "Dublin",
+        "pt-br": "Dublin"
+      }
+    },
+    {
+      "translationKey": "location-duesseldorf",
+      "slug": "duesseldorf",
+      "city": "Duesseldorf",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/duesseldorf/index.md",
+        "content/es/ubicaciones-clases-portugues/duesseldorf/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/duesseldorf/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Duesseldorf&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Duesseldorf",
+        "es": "Duesseldorf",
+        "pt-br": "Duesseldorf"
+      }
+    },
+    {
+      "translationKey": "location-edinburgh",
+      "slug": "edinburgh",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/edinburgh/index.md",
+        "content/es/ubicaciones-clases-portugues/edinburgh/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/edinburgh/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Edinburgh&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Edinburgh",
+        "es": "Edinburgh",
+        "pt-br": "Edinburgh"
+      }
+    },
+    {
+      "translationKey": "location-edmonton",
+      "slug": "edmonton",
+      "city": "Edmonton",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Edmonton",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/edmonton/index.md",
+        "content/es/ubicaciones-clases-portugues/edmonton/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/edmonton/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Edmonton&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Edmonton",
+        "es": "Edmonton",
+        "pt-br": "Edmonton"
+      }
+    },
+    {
+      "translationKey": "location-eindhoven",
+      "slug": "eindhoven",
+      "city": "Eindhoven",
+      "country": "Netherlands",
+      "country_display_names": {
+        "en": "Netherlands",
+        "es": "Países Bajos",
+        "pt-br": "Países Baixos"
+      },
+      "time_zone": "Europe/Amsterdam",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/eindhoven/index.md",
+        "content/es/ubicaciones-clases-portugues/eindhoven/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/eindhoven/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Eindhoven&country=NL"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Eindhoven",
+        "es": "Eindhoven",
+        "pt-br": "Eindhoven"
+      }
+    },
+    {
+      "translationKey": "location-elanora",
+      "slug": "elanora",
+      "city": "Elanora",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/elanora/index.md",
+        "content/es/ubicaciones-clases-portugues/elanora/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/elanora/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Elanora&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Elanora",
+        "es": "Elanora",
+        "pt-br": "Elanora"
+      }
+    },
+    {
+      "translationKey": "location-ernest",
+      "slug": "ernest",
+      "city": "Ernest",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/ernest/index.md",
+        "content/es/ubicaciones-clases-portugues/ernest/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/ernest/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Ernest&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Ernest",
+        "es": "Ernest",
+        "pt-br": "Ernest"
+      }
+    },
+    {
+      "translationKey": "location-florence",
+      "slug": "florence",
+      "city": "Florence",
+      "country": "Italy",
+      "country_display_names": {
+        "en": "Italy",
+        "es": "Italia",
+        "pt-br": "Itália"
+      },
+      "time_zone": "Europe/Rome",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/florence/index.md",
+        "content/es/ubicaciones-clases-portugues/florence/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/florence/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Florence&country=IT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Florence",
+        "es": "Florence",
+        "pt-br": "Florence"
+      }
+    },
+    {
+      "translationKey": "location-forest-hill",
+      "slug": "forest-hill",
+      "city": "Forest Hill",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/forest-hill/index.md",
+        "content/es/ubicaciones-clases-portugues/forest-hill/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/forest-hill/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Forest+Hill&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Forest Hill",
+        "es": "Forest Hill",
+        "pt-br": "Forest Hill"
+      }
+    },
+    {
+      "translationKey": "location-foxwell",
+      "slug": "foxwell",
+      "city": "Foxwell",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/foxwell/index.md",
+        "content/es/ubicaciones-clases-portugues/foxwell/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/foxwell/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Foxwell&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Foxwell",
+        "es": "Foxwell",
+        "pt-br": "Foxwell"
+      }
+    },
+    {
+      "translationKey": "location-frankfurt-am-main",
+      "slug": "frankfurt-am-main",
+      "city": "Frankfurt Am Main",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/frankfurt-am-main/index.md",
+        "content/es/ubicaciones-clases-portugues/frankfurt-am-main/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/frankfurt-am-main/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Frankfurt+Am+Main&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Frankfurt Am Main",
+        "es": "Frankfurt Am Main",
+        "pt-br": "Frankfurt Am Main"
+      }
+    },
+    {
+      "translationKey": "location-fredericton",
+      "slug": "fredericton",
+      "city": "Fredericton",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Halifax",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/fredericton/index.md",
+        "content/es/ubicaciones-clases-portugues/fredericton/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/fredericton/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Fredericton&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Fredericton",
+        "es": "Fredericton",
+        "pt-br": "Fredericton"
+      }
+    },
+    {
+      "translationKey": "location-freiburg-im-breisgau",
+      "slug": "freiburg-im-breisgau",
+      "city": "Freiburg Im Breisgau",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/freiburg-im-breisgau/index.md",
+        "content/es/ubicaciones-clases-portugues/freiburg-im-breisgau/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/freiburg-im-breisgau/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Freiburg+Im+Breisgau&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Freiburg Im Breisgau",
+        "es": "Freiburg Im Breisgau",
+        "pt-br": "Freiburg Im Breisgau"
+      }
+    },
+    {
+      "translationKey": "location-gaven",
+      "slug": "gaven",
+      "city": "Gaven",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/gaven/index.md",
+        "content/es/ubicaciones-clases-portugues/gaven/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/gaven/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Gaven&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Gaven",
+        "es": "Gaven",
+        "pt-br": "Gaven"
+      }
+    },
+    {
+      "translationKey": "location-geneva",
+      "slug": "geneva",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "country_display_names": {
+        "en": "Switzerland",
+        "es": "Suiza",
+        "pt-br": "Suíça"
+      },
+      "time_zone": "Europe/Zurich",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/geneva/index.md",
+        "content/es/ubicaciones-clases-portugues/geneva/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/geneva/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Geneva&country=CH"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Geneva",
+        "es": "Geneva",
+        "pt-br": "Geneva"
+      }
+    },
+    {
+      "translationKey": "location-gilston",
+      "slug": "gilston",
+      "city": "Gilston",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/gilston/index.md",
+        "content/es/ubicaciones-clases-portugues/gilston/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/gilston/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Gilston&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Gilston",
+        "es": "Gilston",
+        "pt-br": "Gilston"
+      }
+    },
+    {
+      "translationKey": "location-glasgow",
+      "slug": "glasgow",
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/glasgow/index.md",
+        "content/es/ubicaciones-clases-portugues/glasgow/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/glasgow/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Glasgow&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Glasgow",
+        "es": "Glasgow",
+        "pt-br": "Glasgow"
+      }
+    },
+    {
+      "translationKey": "location-gold-coast",
+      "slug": "gold-coast",
+      "city": "Gold Coast",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/gold-coast/index.md",
+        "content/es/ubicaciones-clases-portugues/gold-coast/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/gold-coast/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Gold+Coast&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Gold Coast",
+        "es": "Gold Coast",
+        "pt-br": "Gold Coast"
+      }
+    },
+    {
+      "translationKey": "location-gothenburg",
+      "slug": "gothenburg",
+      "city": "Gothenburg",
+      "country": "Sweden",
+      "country_display_names": {
+        "en": "Sweden",
+        "es": "Suecia",
+        "pt-br": "Suécia"
+      },
+      "time_zone": "Europe/Stockholm",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/gothenburg/index.md",
+        "content/es/ubicaciones-clases-portugues/gothenburg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/gothenburg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Gothenburg&country=SE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Gothenburg",
+        "es": "Gothenburg",
+        "pt-br": "Gothenburg"
+      }
+    },
+    {
+      "translationKey": "location-guanaba",
+      "slug": "guanaba",
+      "city": "Guanaba",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/guanaba/index.md",
+        "content/es/ubicaciones-clases-portugues/guanaba/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/guanaba/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Guanaba&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Guanaba",
+        "es": "Guanaba",
+        "pt-br": "Guanaba"
+      }
+    },
+    {
+      "translationKey": "location-halifax",
+      "slug": "halifax",
+      "city": "Halifax",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Halifax",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/halifax/index.md",
+        "content/es/ubicaciones-clases-portugues/halifax/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/halifax/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Halifax&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Halifax",
+        "es": "Halifax",
+        "pt-br": "Halifax"
+      }
+    },
+    {
+      "translationKey": "location-hamburg",
+      "slug": "hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/hamburg/index.md",
+        "content/es/ubicaciones-clases-portugues/hamburg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/hamburg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Hamburg&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Hamburg",
+        "es": "Hamburg",
+        "pt-br": "Hamburg"
+      }
+    },
+    {
+      "translationKey": "location-hamilton",
+      "slug": "hamilton",
+      "city": "Hamilton",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/hamilton/index.md",
+        "content/es/ubicaciones-clases-portugues/hamilton/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/hamilton/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Hamilton&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Hamilton",
+        "es": "Hamilton",
+        "pt-br": "Hamilton"
+      },
+      "administrative_area": "Ontario, Canada"
+    },
+    {
+      "translationKey": "location-hanover",
+      "slug": "hanover",
+      "city": "Hanover",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/hanover/index.md",
+        "content/es/ubicaciones-clases-portugues/hanover/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/hanover/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Hanover&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Hanover",
+        "es": "Hanover",
+        "pt-br": "Hanover"
+      }
+    },
+    {
+      "translationKey": "location-heidelberg",
+      "slug": "heidelberg",
+      "city": "Heidelberg",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/heidelberg/index.md",
+        "content/es/ubicaciones-clases-portugues/heidelberg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/heidelberg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Heidelberg&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Heidelberg",
+        "es": "Heidelberg",
+        "pt-br": "Heidelberg"
+      }
+    },
+    {
+      "translationKey": "location-helensvale",
+      "slug": "helensvale",
+      "city": "Helensvale",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/helensvale/index.md",
+        "content/es/ubicaciones-clases-portugues/helensvale/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/helensvale/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Helensvale&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Helensvale",
+        "es": "Helensvale",
+        "pt-br": "Helensvale"
+      }
+    },
+    {
+      "translationKey": "location-highland-park",
+      "slug": "highland-park",
+      "city": "Highland Park",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/highland-park/index.md",
+        "content/es/ubicaciones-clases-portugues/highland-park/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/highland-park/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Highland+Park&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Highland Park",
+        "es": "Highland Park",
+        "pt-br": "Highland Park"
+      }
+    },
+    {
+      "translationKey": "location-hollywell",
+      "slug": "hollywell",
+      "city": "Hollywell",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/hollywell/index.md",
+        "content/es/ubicaciones-clases-portugues/hollywell/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/hollywell/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Hollywell&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Hollywell",
+        "es": "Hollywell",
+        "pt-br": "Hollywell"
+      }
+    },
+    {
+      "translationKey": "location-hope-island",
+      "slug": "hope-island",
+      "city": "Hope Island",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/hope-island/index.md",
+        "content/es/ubicaciones-clases-portugues/hope-island/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/hope-island/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Hope+Island&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Hope Island",
+        "es": "Hope Island",
+        "pt-br": "Hope Island"
+      }
+    },
+    {
+      "translationKey": "location-houston",
+      "slug": "houston",
+      "city": "Houston",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Chicago",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/houston/index.md",
+        "content/es/ubicaciones-clases-portugues/houston/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/houston/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Houston&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Houston",
+        "es": "Houston",
+        "pt-br": "Houston"
+      }
+    },
+    {
+      "translationKey": "location-ikaluit",
+      "slug": "ikaluit",
+      "city": "Iqaluit",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Iqaluit",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/ikaluit/index.md",
+        "content/es/ubicaciones-clases-portugues/ikaluit/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/ikaluit/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Iqaluit&country=CA"
+      ],
+      "notes": "Locality spelling corrected from Ikaluit to Iqaluit; timezone corrected from America/Toronto to America/Iqaluit.",
+      "city_display_names": {
+        "en": "Iqaluit",
+        "es": "Iqaluit",
+        "pt-br": "Iqaluit"
+      }
+    },
+    {
+      "translationKey": "location-isle-of-capri",
+      "slug": "isle-of-capri",
+      "city": "Isle Of Capri",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/isle-of-capri/index.md",
+        "content/es/ubicaciones-clases-portugues/isle-of-capri/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/isle-of-capri/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Isle+Of+Capri&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Isle Of Capri",
+        "es": "Isle Of Capri",
+        "pt-br": "Isle Of Capri"
+      }
+    },
+    {
+      "translationKey": "location-jacobs-well",
+      "slug": "jacobs-well",
+      "city": "Jacobs Well",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/jacobs-well/index.md",
+        "content/es/ubicaciones-clases-portugues/jacobs-well/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/jacobs-well/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Jacobs+Well&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Jacobs Well",
+        "es": "Jacobs Well",
+        "pt-br": "Jacobs Well"
+      }
+    },
+    {
+      "translationKey": "location-johannesburg",
+      "slug": "johannesburg",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "country_display_names": {
+        "en": "South Africa",
+        "es": "Sudáfrica",
+        "pt-br": "África do Sul"
+      },
+      "time_zone": "Africa/Johannesburg",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/johannesburg/index.md",
+        "content/es/ubicaciones-clases-portugues/johannesburg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/johannesburg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Johannesburg&country=ZA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Johannesburg",
+        "es": "Johannesburg",
+        "pt-br": "Johannesburg"
+      }
+    },
+    {
+      "translationKey": "location-kamloops",
+      "slug": "kamloops",
+      "city": "Kamloops",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/kamloops/index.md",
+        "content/es/ubicaciones-clases-portugues/kamloops/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/kamloops/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Kamloops&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Kamloops",
+        "es": "Kamloops",
+        "pt-br": "Kamloops"
+      }
+    },
+    {
+      "translationKey": "location-karlsruhe",
+      "slug": "karlsruhe",
+      "city": "Karlsruhe",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/karlsruhe/index.md",
+        "content/es/ubicaciones-clases-portugues/karlsruhe/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/karlsruhe/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Karlsruhe&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Karlsruhe",
+        "es": "Karlsruhe",
+        "pt-br": "Karlsruhe"
+      }
+    },
+    {
+      "translationKey": "location-kelowna",
+      "slug": "kelowna",
+      "city": "Kelowna",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/kelowna/index.md",
+        "content/es/ubicaciones-clases-portugues/kelowna/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/kelowna/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Kelowna&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Kelowna",
+        "es": "Kelowna",
+        "pt-br": "Kelowna"
+      }
+    },
+    {
+      "translationKey": "location-kingscliff",
+      "slug": "kingscliff",
+      "city": "Kingscliff",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Sydney",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/kingscliff/index.md",
+        "content/es/ubicaciones-clases-portugues/kingscliff/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/kingscliff/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Kingscliff&country=AU"
+      ],
+      "notes": "New South Wales locality uses Australia/Sydney.",
+      "city_display_names": {
+        "en": "Kingscliff",
+        "es": "Kingscliff",
+        "pt-br": "Kingscliff"
+      }
+    },
+    {
+      "translationKey": "location-kingsholme",
+      "slug": "kingsholme",
+      "city": "Kingsholme",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/kingsholme/index.md",
+        "content/es/ubicaciones-clases-portugues/kingsholme/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/kingsholme/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Kingsholme&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Kingsholme",
+        "es": "Kingsholme",
+        "pt-br": "Kingsholme"
+      }
+    },
+    {
+      "translationKey": "location-kingston",
+      "slug": "kingston",
+      "city": "Kingston",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/kingston/index.md",
+        "content/es/ubicaciones-clases-portugues/kingston/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/kingston/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Kingston&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Kingston",
+        "es": "Kingston",
+        "pt-br": "Kingston"
+      },
+      "administrative_area": "Ontario, Canada"
+    },
+    {
+      "translationKey": "location-labrador",
+      "slug": "labrador",
+      "city": "Labrador",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/labrador/index.md",
+        "content/es/ubicaciones-clases-portugues/labrador/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/labrador/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Labrador&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Labrador",
+        "es": "Labrador",
+        "pt-br": "Labrador"
+      },
+      "administrative_area": "Queensland, Australia (Gold Coast)"
+    },
+    {
+      "translationKey": "location-lausanne",
+      "slug": "lausanne",
+      "city": "Lausanne",
+      "country": "Switzerland",
+      "country_display_names": {
+        "en": "Switzerland",
+        "es": "Suiza",
+        "pt-br": "Suíça"
+      },
+      "time_zone": "Europe/Zurich",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/lausanne/index.md",
+        "content/es/ubicaciones-clases-portugues/lausanne/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/lausanne/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Lausanne&country=CH"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Lausanne",
+        "es": "Lausanne",
+        "pt-br": "Lausanne"
+      }
+    },
+    {
+      "translationKey": "location-leeds",
+      "slug": "leeds",
+      "city": "Leeds",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/leeds/index.md",
+        "content/es/ubicaciones-clases-portugues/leeds/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/leeds/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Leeds&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Leeds",
+        "es": "Leeds",
+        "pt-br": "Leeds"
+      }
+    },
+    {
+      "translationKey": "location-leipzig",
+      "slug": "leipzig",
+      "city": "Leipzig",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/leipzig/index.md",
+        "content/es/ubicaciones-clases-portugues/leipzig/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/leipzig/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Leipzig&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Leipzig",
+        "es": "Leipzig",
+        "pt-br": "Leipzig"
+      }
+    },
+    {
+      "translationKey": "location-lisbon",
+      "slug": "lisbon",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "country_display_names": {
+        "en": "Portugal",
+        "es": "Portugal",
+        "pt-br": "Portugal"
+      },
+      "time_zone": "Europe/Lisbon",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/lisbon/index.md",
+        "content/es/ubicaciones-clases-portugues/lisbon/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/lisbon/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Lisbon&country=PT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Lisbon",
+        "es": "Lisbon",
+        "pt-br": "Lisbon"
+      }
+    },
+    {
+      "translationKey": "location-london",
+      "slug": "london",
+      "city": "London",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/london/index.md",
+        "content/es/ubicaciones-clases-portugues/london/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/london/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=London&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "London",
+        "es": "London",
+        "pt-br": "London"
+      }
+    },
+    {
+      "translationKey": "location-los-angeles",
+      "slug": "los-angeles",
+      "city": "Los Angeles",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Los_Angeles",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/los-angeles/index.md",
+        "content/es/ubicaciones-clases-portugues/los-angeles/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/los-angeles/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Los+Angeles&country=US"
+      ],
+      "notes": "Country corrected from Canada to United States; timezone corrected from America/Toronto to America/Los_Angeles.",
+      "city_display_names": {
+        "en": "Los Angeles",
+        "es": "Los Angeles",
+        "pt-br": "Los Angeles"
+      }
+    },
+    {
+      "translationKey": "location-lower-beechmont",
+      "slug": "lower-beechmont",
+      "city": "Lower Beechmont",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/lower-beechmont/index.md",
+        "content/es/ubicaciones-clases-portugues/lower-beechmont/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/lower-beechmont/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Lower+Beechmont&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Lower Beechmont",
+        "es": "Lower Beechmont",
+        "pt-br": "Lower Beechmont"
+      }
+    },
+    {
+      "translationKey": "location-lyon",
+      "slug": "lyon",
+      "city": "Lyon",
+      "country": "France",
+      "country_display_names": {
+        "en": "France",
+        "es": "Francia",
+        "pt-br": "França"
+      },
+      "time_zone": "Europe/Paris",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/lyon/index.md",
+        "content/es/ubicaciones-clases-portugues/lyon/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/lyon/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Lyon&country=FR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Lyon",
+        "es": "Lyon",
+        "pt-br": "Lyon"
+      }
+    },
+    {
+      "translationKey": "location-madrid",
+      "slug": "madrid",
+      "city": "Madrid",
+      "country": "Spain",
+      "country_display_names": {
+        "en": "Spain",
+        "es": "España",
+        "pt-br": "Espanha"
+      },
+      "time_zone": "Europe/Madrid",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/madrid/index.md",
+        "content/es/ubicaciones-clases-portugues/madrid/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/madrid/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Madrid&country=ES"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Madrid",
+        "es": "Madrid",
+        "pt-br": "Madrid"
+      }
+    },
+    {
+      "translationKey": "location-malaga",
+      "slug": "malaga",
+      "city": "Malaga",
+      "country": "Spain",
+      "country_display_names": {
+        "en": "Spain",
+        "es": "España",
+        "pt-br": "Espanha"
+      },
+      "time_zone": "Europe/Madrid",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/malaga/index.md",
+        "content/es/ubicaciones-clases-portugues/malaga/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/malaga/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Malaga&country=ES"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Malaga",
+        "es": "Malaga",
+        "pt-br": "Malaga"
+      }
+    },
+    {
+      "translationKey": "location-manchester",
+      "slug": "manchester",
+      "city": "Manchester",
+      "country": "United Kingdom",
+      "country_display_names": {
+        "en": "United Kingdom",
+        "es": "Reino Unido",
+        "pt-br": "Reino Unido"
+      },
+      "time_zone": "Europe/London",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/manchester/index.md",
+        "content/es/ubicaciones-clases-portugues/manchester/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/manchester/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Manchester&country=GB"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Manchester",
+        "es": "Manchester",
+        "pt-br": "Manchester"
+      }
+    },
+    {
+      "translationKey": "location-mannheim",
+      "slug": "mannheim",
+      "city": "Mannheim",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/mannheim/index.md",
+        "content/es/ubicaciones-clases-portugues/mannheim/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/mannheim/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Mannheim&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Mannheim",
+        "es": "Mannheim",
+        "pt-br": "Mannheim"
+      }
+    },
+    {
+      "translationKey": "location-maudsland",
+      "slug": "maudsland",
+      "city": "Maudsland",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/maudsland/index.md",
+        "content/es/ubicaciones-clases-portugues/maudsland/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/maudsland/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Maudsland&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Maudsland",
+        "es": "Maudsland",
+        "pt-br": "Maudsland"
+      }
+    },
+    {
+      "translationKey": "location-melbourne",
+      "slug": "melbourne",
+      "city": "Melbourne",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Melbourne",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/melbourne/index.md",
+        "content/es/ubicaciones-clases-portugues/melbourne/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/melbourne/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Melbourne&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Melbourne",
+        "es": "Melbourne",
+        "pt-br": "Melbourne"
+      }
+    },
+    {
+      "translationKey": "location-mermaid-beach",
+      "slug": "mermaid-beach",
+      "city": "Mermaid Beach",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/mermaid-beach/index.md",
+        "content/es/ubicaciones-clases-portugues/mermaid-beach/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/mermaid-beach/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Mermaid+Beach&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Mermaid Beach",
+        "es": "Mermaid Beach",
+        "pt-br": "Mermaid Beach"
+      }
+    },
+    {
+      "translationKey": "location-mermaid-waters",
+      "slug": "mermaid-waters",
+      "city": "Mermaid Waters",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/mermaid-waters/index.md",
+        "content/es/ubicaciones-clases-portugues/mermaid-waters/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/mermaid-waters/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Mermaid+Waters&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Mermaid Waters",
+        "es": "Mermaid Waters",
+        "pt-br": "Mermaid Waters"
+      }
+    },
+    {
+      "translationKey": "location-merrimac",
+      "slug": "merrimac",
+      "city": "Merrimac",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/merrimac/index.md",
+        "content/es/ubicaciones-clases-portugues/merrimac/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/merrimac/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Merrimac&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Merrimac",
+        "es": "Merrimac",
+        "pt-br": "Merrimac"
+      }
+    },
+    {
+      "translationKey": "location-miami",
+      "slug": "miami",
+      "city": "Miami",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/miami/index.md",
+        "content/es/ubicaciones-clases-portugues/miami/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/miami/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Miami&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Miami",
+        "es": "Miami",
+        "pt-br": "Miami"
+      }
+    },
+    {
+      "translationKey": "location-milan",
+      "slug": "milan",
+      "city": "Milan",
+      "country": "Italy",
+      "country_display_names": {
+        "en": "Italy",
+        "es": "Italia",
+        "pt-br": "Itália"
+      },
+      "time_zone": "Europe/Rome",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/milan/index.md",
+        "content/es/ubicaciones-clases-portugues/milan/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/milan/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Milan&country=IT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Milan",
+        "es": "Milan",
+        "pt-br": "Milan"
+      }
+    },
+    {
+      "translationKey": "location-moncton",
+      "slug": "moncton",
+      "city": "Moncton",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Halifax",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/moncton/index.md",
+        "content/es/ubicaciones-clases-portugues/moncton/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/moncton/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Moncton&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Moncton",
+        "es": "Moncton",
+        "pt-br": "Moncton"
+      }
+    },
+    {
+      "translationKey": "location-montreal",
+      "slug": "montreal",
+      "city": "Montreal",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/montreal/index.md",
+        "content/es/ubicaciones-clases-portugues/montreal/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/montreal/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Montreal&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Montreal",
+        "es": "Montreal",
+        "pt-br": "Montreal"
+      }
+    },
+    {
+      "translationKey": "location-mudgeeraba",
+      "slug": "mudgeeraba",
+      "city": "Mudgeeraba",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/mudgeeraba/index.md",
+        "content/es/ubicaciones-clases-portugues/mudgeeraba/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/mudgeeraba/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Mudgeeraba&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Mudgeeraba",
+        "es": "Mudgeeraba",
+        "pt-br": "Mudgeeraba"
+      }
+    },
+    {
+      "translationKey": "location-muenster",
+      "slug": "muenster",
+      "city": "Münster",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/muenster/index.md",
+        "content/es/ubicaciones-clases-portugues/muenster/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/muenster/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=M%C3%BCnster&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Münster",
+        "es": "Münster",
+        "pt-br": "Münster"
+      }
+    },
+    {
+      "translationKey": "location-mumbai",
+      "slug": "mumbai",
+      "city": "Mumbai",
+      "country": "India",
+      "country_display_names": {
+        "en": "India",
+        "es": "India",
+        "pt-br": "Índia"
+      },
+      "time_zone": "Asia/Kolkata",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/mumbai/index.md",
+        "content/es/ubicaciones-clases-portugues/mumbai/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/mumbai/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Mumbai&country=IN"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Mumbai",
+        "es": "Mumbai",
+        "pt-br": "Mumbai"
+      }
+    },
+    {
+      "translationKey": "location-munich",
+      "slug": "munich",
+      "city": "Munich",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/munich/index.md",
+        "content/es/ubicaciones-clases-portugues/munich/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/munich/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Munich&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Munich",
+        "es": "Munich",
+        "pt-br": "Munich"
+      }
+    },
+    {
+      "translationKey": "location-nanaimo",
+      "slug": "nanaimo",
+      "city": "Nanaimo",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/nanaimo/index.md",
+        "content/es/ubicaciones-clases-portugues/nanaimo/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/nanaimo/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Nanaimo&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Nanaimo",
+        "es": "Nanaimo",
+        "pt-br": "Nanaimo"
+      }
+    },
+    {
+      "translationKey": "location-naples",
+      "slug": "naples",
+      "city": "Naples",
+      "country": "Italy",
+      "country_display_names": {
+        "en": "Italy",
+        "es": "Italia",
+        "pt-br": "Itália"
+      },
+      "time_zone": "Europe/Rome",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/naples/index.md",
+        "content/es/ubicaciones-clases-portugues/naples/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/naples/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Naples&country=IT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Naples",
+        "es": "Naples",
+        "pt-br": "Naples"
+      }
+    },
+    {
+      "translationKey": "location-nerang",
+      "slug": "nerang",
+      "city": "Nerang",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/nerang/index.md",
+        "content/es/ubicaciones-clases-portugues/nerang/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/nerang/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Nerang&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Nerang",
+        "es": "Nerang",
+        "pt-br": "Nerang"
+      }
+    },
+    {
+      "translationKey": "location-new-york",
+      "slug": "new-york",
+      "city": "New York",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/new-york/index.md",
+        "content/es/ubicaciones-clases-portugues/new-york/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/new-york/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=New+York&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "New York",
+        "es": "New York",
+        "pt-br": "New York"
+      }
+    },
+    {
+      "translationKey": "location-niagara-falls",
+      "slug": "niagara-falls",
+      "city": "Niagara Falls",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/niagara-falls/index.md",
+        "content/es/ubicaciones-clases-portugues/niagara-falls/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/niagara-falls/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Niagara+Falls&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Niagara Falls",
+        "es": "Niagara Falls",
+        "pt-br": "Niagara Falls"
+      }
+    },
+    {
+      "translationKey": "location-nice",
+      "slug": "nice",
+      "city": "Nice",
+      "country": "France",
+      "country_display_names": {
+        "en": "France",
+        "es": "Francia",
+        "pt-br": "França"
+      },
+      "time_zone": "Europe/Paris",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/nice/index.md",
+        "content/es/ubicaciones-clases-portugues/nice/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/nice/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Nice&country=FR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Nice",
+        "es": "Nice",
+        "pt-br": "Nice"
+      }
+    },
+    {
+      "translationKey": "location-nuremberg",
+      "slug": "nuremberg",
+      "city": "Nuremberg",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/nuremberg/index.md",
+        "content/es/ubicaciones-clases-portugues/nuremberg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/nuremberg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Nuremberg&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Nuremberg",
+        "es": "Nuremberg",
+        "pt-br": "Nuremberg"
+      }
+    },
+    {
+      "translationKey": "location-orlando",
+      "slug": "orlando",
+      "city": "Orlando",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/orlando/index.md",
+        "content/es/ubicaciones-clases-portugues/orlando/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/orlando/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Orlando&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Orlando",
+        "es": "Orlando",
+        "pt-br": "Orlando"
+      }
+    },
+    {
+      "translationKey": "location-ormeau",
+      "slug": "ormeau",
+      "city": "Ormeau",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/ormeau/index.md",
+        "content/es/ubicaciones-clases-portugues/ormeau/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/ormeau/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Ormeau&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Ormeau",
+        "es": "Ormeau",
+        "pt-br": "Ormeau"
+      }
+    },
+    {
+      "translationKey": "location-osaka",
+      "slug": "osaka",
+      "city": "Osaka",
+      "country": "Japan",
+      "country_display_names": {
+        "en": "Japan",
+        "es": "Japón",
+        "pt-br": "Japão"
+      },
+      "time_zone": "Asia/Tokyo",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/osaka/index.md",
+        "content/es/ubicaciones-clases-portugues/osaka/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/osaka/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Osaka&country=JP"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Osaka",
+        "es": "Osaka",
+        "pt-br": "Osaka"
+      }
+    },
+    {
+      "translationKey": "location-oslo",
+      "slug": "oslo",
+      "city": "Oslo",
+      "country": "Norway",
+      "country_display_names": {
+        "en": "Norway",
+        "es": "Noruega",
+        "pt-br": "Noruega"
+      },
+      "time_zone": "Europe/Oslo",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/oslo/index.md",
+        "content/es/ubicaciones-clases-portugues/oslo/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/oslo/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Oslo&country=NO"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Oslo",
+        "es": "Oslo",
+        "pt-br": "Oslo"
+      }
+    },
+    {
+      "translationKey": "location-ottawa",
+      "slug": "ottawa",
+      "city": "Ottawa",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/ottawa/index.md",
+        "content/es/ubicaciones-clases-portugues/ottawa/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/ottawa/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Ottawa&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Ottawa",
+        "es": "Ottawa",
+        "pt-br": "Ottawa"
+      }
+    },
+    {
+      "translationKey": "location-oxenford",
+      "slug": "oxenford",
+      "city": "Oxenford",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/oxenford/index.md",
+        "content/es/ubicaciones-clases-portugues/oxenford/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/oxenford/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Oxenford&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Oxenford",
+        "es": "Oxenford",
+        "pt-br": "Oxenford"
+      }
+    },
+    {
+      "translationKey": "location-palm-beach",
+      "slug": "palm-beach",
+      "city": "Palm Beach",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/palm-beach/index.md",
+        "content/es/ubicaciones-clases-portugues/palm-beach/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/palm-beach/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Palm+Beach&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Palm Beach",
+        "es": "Palm Beach",
+        "pt-br": "Palm Beach"
+      }
+    },
+    {
+      "translationKey": "location-paris",
+      "slug": "paris",
+      "city": "Paris",
+      "country": "France",
+      "country_display_names": {
+        "en": "France",
+        "es": "Francia",
+        "pt-br": "França"
+      },
+      "time_zone": "Europe/Paris",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/paris/index.md",
+        "content/es/ubicaciones-clases-portugues/paris/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/paris/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Paris&country=FR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Paris",
+        "es": "Paris",
+        "pt-br": "Paris"
+      }
+    },
+    {
+      "translationKey": "location-parkside",
+      "slug": "parkside",
+      "city": "Parkside",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/parkside/index.md",
+        "content/es/ubicaciones-clases-portugues/parkside/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/parkside/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Parkside&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Parkside",
+        "es": "Parkside",
+        "pt-br": "Parkside"
+      }
+    },
+    {
+      "translationKey": "location-perth",
+      "slug": "perth",
+      "city": "Perth",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Perth",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/perth/index.md",
+        "content/es/ubicaciones-clases-portugues/perth/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/perth/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Perth&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Perth",
+        "es": "Perth",
+        "pt-br": "Perth"
+      }
+    },
+    {
+      "translationKey": "location-philadelphia",
+      "slug": "philadelphia",
+      "city": "Philadelphia",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/philadelphia/index.md",
+        "content/es/ubicaciones-clases-portugues/philadelphia/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/philadelphia/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Philadelphia&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Philadelphia",
+        "es": "Philadelphia",
+        "pt-br": "Philadelphia"
+      }
+    },
+    {
+      "translationKey": "location-pimpama",
+      "slug": "pimpama",
+      "city": "Pimpama",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/pimpama/index.md",
+        "content/es/ubicaciones-clases-portugues/pimpama/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/pimpama/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Pimpama&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Pimpama",
+        "es": "Pimpama",
+        "pt-br": "Pimpama"
+      }
+    },
+    {
+      "translationKey": "location-porto",
+      "slug": "porto",
+      "city": "Porto",
+      "country": "Portugal",
+      "country_display_names": {
+        "en": "Portugal",
+        "es": "Portugal",
+        "pt-br": "Portugal"
+      },
+      "time_zone": "Europe/Lisbon",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/porto/index.md",
+        "content/es/ubicaciones-clases-portugues/porto/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/porto/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Porto&country=PT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Porto",
+        "es": "Porto",
+        "pt-br": "Porto"
+      }
+    },
+    {
+      "translationKey": "location-prince-george",
+      "slug": "prince-george",
+      "city": "Prince George",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/prince-george/index.md",
+        "content/es/ubicaciones-clases-portugues/prince-george/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/prince-george/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Prince+George&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Prince George",
+        "es": "Prince George",
+        "pt-br": "Prince George"
+      }
+    },
+    {
+      "translationKey": "location-quebec-city",
+      "slug": "quebec-city",
+      "city": "Quebec City",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/quebec-city/index.md",
+        "content/es/ubicaciones-clases-portugues/quebec-city/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/quebec-city/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Quebec+City&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Quebec City",
+        "es": "Ciudad de Quebec",
+        "pt-br": "Cidade de Quebec"
+      }
+    },
+    {
+      "translationKey": "location-reedy-creek",
+      "slug": "reedy-creek",
+      "city": "Reedy Creek",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/reedy-creek/index.md",
+        "content/es/ubicaciones-clases-portugues/reedy-creek/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/reedy-creek/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Reedy+Creek&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Reedy Creek",
+        "es": "Reedy Creek",
+        "pt-br": "Reedy Creek"
+      }
+    },
+    {
+      "translationKey": "location-regina",
+      "slug": "regina",
+      "city": "Regina",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Regina",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/regina/index.md",
+        "content/es/ubicaciones-clases-portugues/regina/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/regina/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Regina&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Regina",
+        "es": "Regina",
+        "pt-br": "Regina"
+      }
+    },
+    {
+      "translationKey": "location-richmond",
+      "slug": "richmond",
+      "city": "Richmond",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/richmond/index.md",
+        "content/es/ubicaciones-clases-portugues/richmond/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/richmond/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Richmond&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Richmond",
+        "es": "Richmond",
+        "pt-br": "Richmond"
+      },
+      "administrative_area": "British Columbia, Canada"
+    },
+    {
+      "translationKey": "location-rio-de-janeiro",
+      "slug": "rio-de-janeiro",
+      "city": "Rio De Janeiro",
+      "country": "Brazil",
+      "country_display_names": {
+        "en": "Brazil",
+        "es": "Brasil",
+        "pt-br": "Brasil"
+      },
+      "time_zone": "America/Sao_Paulo",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/rio-de-janeiro/index.md",
+        "content/es/ubicaciones-clases-portugues/rio-de-janeiro/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/rio-de-janeiro/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Rio+De+Janeiro&country=BR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Rio De Janeiro",
+        "es": "Rio De Janeiro",
+        "pt-br": "Rio De Janeiro"
+      }
+    },
+    {
+      "translationKey": "location-robina",
+      "slug": "robina",
+      "city": "Robina",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/robina/index.md",
+        "content/es/ubicaciones-clases-portugues/robina/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/robina/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Robina&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Robina",
+        "es": "Robina",
+        "pt-br": "Robina"
+      }
+    },
+    {
+      "translationKey": "location-rome",
+      "slug": "rome",
+      "city": "Rome",
+      "country": "Italy",
+      "country_display_names": {
+        "en": "Italy",
+        "es": "Italia",
+        "pt-br": "Itália"
+      },
+      "time_zone": "Europe/Rome",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/rome/index.md",
+        "content/es/ubicaciones-clases-portugues/rome/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/rome/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Rome&country=IT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Rome",
+        "es": "Rome",
+        "pt-br": "Rome"
+      }
+    },
+    {
+      "translationKey": "location-rotterdam",
+      "slug": "rotterdam",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "country_display_names": {
+        "en": "Netherlands",
+        "es": "Países Bajos",
+        "pt-br": "Países Baixos"
+      },
+      "time_zone": "Europe/Amsterdam",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/rotterdam/index.md",
+        "content/es/ubicaciones-clases-portugues/rotterdam/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/rotterdam/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Rotterdam&country=NL"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Rotterdam",
+        "es": "Rotterdam",
+        "pt-br": "Rotterdam"
+      }
+    },
+    {
+      "translationKey": "location-saint-john",
+      "slug": "saint-john",
+      "city": "Saint John",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Moncton",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/saint-john/index.md",
+        "content/es/ubicaciones-clases-portugues/saint-john/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/saint-john/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Saint+John&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Saint John",
+        "es": "Saint John",
+        "pt-br": "Saint John"
+      },
+      "administrative_area": "New Brunswick, Canada"
+    },
+    {
+      "translationKey": "location-salzburg",
+      "slug": "salzburg",
+      "city": "Salzburg",
+      "country": "Austria",
+      "country_display_names": {
+        "en": "Austria",
+        "es": "Austria",
+        "pt-br": "Áustria"
+      },
+      "time_zone": "Europe/Vienna",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/salzburg/index.md",
+        "content/es/ubicaciones-clases-portugues/salzburg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/salzburg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Salzburg&country=AT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Salzburg",
+        "es": "Salzburg",
+        "pt-br": "Salzburg"
+      }
+    },
+    {
+      "translationKey": "location-san-diego",
+      "slug": "san-diego",
+      "city": "San Diego",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Los_Angeles",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/san-diego/index.md",
+        "content/es/ubicaciones-clases-portugues/san-diego/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/san-diego/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=San+Diego&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "San Diego",
+        "es": "San Diego",
+        "pt-br": "San Diego"
+      }
+    },
+    {
+      "translationKey": "location-san-francisco",
+      "slug": "san-francisco",
+      "city": "San Francisco",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Los_Angeles",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/san-francisco/index.md",
+        "content/es/ubicaciones-clases-portugues/san-francisco/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/san-francisco/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=San+Francisco&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "San Francisco",
+        "es": "San Francisco",
+        "pt-br": "San Francisco"
+      }
+    },
+    {
+      "translationKey": "location-san-jose",
+      "slug": "san-jose",
+      "city": "San Jose",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Los_Angeles",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/san-jose/index.md",
+        "content/es/ubicaciones-clases-portugues/san-jose/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/san-jose/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=San+Jose&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "San Jose",
+        "es": "San Jose",
+        "pt-br": "San Jose"
+      }
+    },
+    {
+      "translationKey": "location-saskatoon",
+      "slug": "saskatoon",
+      "city": "Saskatoon",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Regina",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/saskatoon/index.md",
+        "content/es/ubicaciones-clases-portugues/saskatoon/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/saskatoon/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Saskatoon&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Saskatoon",
+        "es": "Saskatoon",
+        "pt-br": "Saskatoon"
+      }
+    },
+    {
+      "translationKey": "location-seattle",
+      "slug": "seattle",
+      "city": "Seattle",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/Los_Angeles",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/seattle/index.md",
+        "content/es/ubicaciones-clases-portugues/seattle/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/seattle/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Seattle&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Seattle",
+        "es": "Seattle",
+        "pt-br": "Seattle"
+      }
+    },
+    {
+      "translationKey": "location-seoul",
+      "slug": "seoul",
+      "city": "Seoul",
+      "country": "South Korea",
+      "country_display_names": {
+        "en": "South Korea",
+        "es": "Corea del Sur",
+        "pt-br": "Coreia do Sul"
+      },
+      "time_zone": "Asia/Seoul",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/seoul/index.md",
+        "content/es/ubicaciones-clases-portugues/seoul/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/seoul/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Seoul&country=KR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Seoul",
+        "es": "Seoul",
+        "pt-br": "Seoul"
+      }
+    },
+    {
+      "translationKey": "location-seville",
+      "slug": "seville",
+      "city": "Seville",
+      "country": "Spain",
+      "country_display_names": {
+        "en": "Spain",
+        "es": "España",
+        "pt-br": "Espanha"
+      },
+      "time_zone": "Europe/Madrid",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/seville/index.md",
+        "content/es/ubicaciones-clases-portugues/seville/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/seville/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Seville&country=ES"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Seville",
+        "es": "Seville",
+        "pt-br": "Seville"
+      }
+    },
+    {
+      "translationKey": "location-singapore",
+      "slug": "singapore",
+      "city": "Singapore",
+      "country": "Singapore",
+      "country_display_names": {
+        "en": "Singapore",
+        "es": "Singapur",
+        "pt-br": "Singapura"
+      },
+      "time_zone": "Asia/Singapore",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/singapore/index.md",
+        "content/es/ubicaciones-clases-portugues/singapore/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/singapore/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Singapore&country=SG"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Singapore",
+        "es": "Singapore",
+        "pt-br": "Singapore"
+      }
+    },
+    {
+      "translationKey": "location-southport",
+      "slug": "southport",
+      "city": "Southport",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/southport/index.md",
+        "content/es/ubicaciones-clases-portugues/southport/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/southport/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Southport&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Southport",
+        "es": "Southport",
+        "pt-br": "Southport"
+      }
+    },
+    {
+      "translationKey": "location-stockholm",
+      "slug": "stockholm",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "country_display_names": {
+        "en": "Sweden",
+        "es": "Suecia",
+        "pt-br": "Suécia"
+      },
+      "time_zone": "Europe/Stockholm",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/stockholm/index.md",
+        "content/es/ubicaciones-clases-portugues/stockholm/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/stockholm/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Stockholm&country=SE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Stockholm",
+        "es": "Stockholm",
+        "pt-br": "Stockholm"
+      }
+    },
+    {
+      "translationKey": "location-stuttgart",
+      "slug": "stuttgart",
+      "city": "Stuttgart",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/stuttgart/index.md",
+        "content/es/ubicaciones-clases-portugues/stuttgart/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/stuttgart/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Stuttgart&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Stuttgart",
+        "es": "Stuttgart",
+        "pt-br": "Stuttgart"
+      }
+    },
+    {
+      "translationKey": "location-surfers-paradise",
+      "slug": "surfers-paradise",
+      "city": "Surfers Paradise",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/surfers-paradise/index.md",
+        "content/es/ubicaciones-clases-portugues/surfers-paradise/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/surfers-paradise/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Surfers+Paradise&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Surfers Paradise",
+        "es": "Surfers Paradise",
+        "pt-br": "Surfers Paradise"
+      }
+    },
+    {
+      "translationKey": "location-surrey",
+      "slug": "surrey",
+      "city": "Surrey",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/surrey/index.md",
+        "content/es/ubicaciones-clases-portugues/surrey/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/surrey/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Surrey&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Surrey",
+        "es": "Surrey",
+        "pt-br": "Surrey"
+      }
+    },
+    {
+      "translationKey": "location-sydney",
+      "slug": "sydney",
+      "city": "Sydney",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Sydney",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/sydney/index.md",
+        "content/es/ubicaciones-clases-portugues/sydney/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/sydney/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Sydney&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Sydney",
+        "es": "Sydney",
+        "pt-br": "Sydney"
+      }
+    },
+    {
+      "translationKey": "location-tel-aviv",
+      "slug": "tel-aviv",
+      "city": "Tel Aviv",
+      "country": "Israel",
+      "country_display_names": {
+        "en": "Israel",
+        "es": "Israel",
+        "pt-br": "Israel"
+      },
+      "time_zone": "Asia/Jerusalem",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/tel-aviv/index.md",
+        "content/es/ubicaciones-clases-portugues/tel-aviv/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/tel-aviv/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Tel+Aviv&country=IL"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Tel Aviv",
+        "es": "Tel Aviv",
+        "pt-br": "Tel Aviv"
+      }
+    },
+    {
+      "translationKey": "location-the-hague",
+      "slug": "the-hague",
+      "city": "The Hague",
+      "country": "Netherlands",
+      "country_display_names": {
+        "en": "Netherlands",
+        "es": "Países Bajos",
+        "pt-br": "Países Baixos"
+      },
+      "time_zone": "Europe/Amsterdam",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/the-hague/index.md",
+        "content/es/ubicaciones-clases-portugues/the-hague/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/the-hague/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=The+Hague&country=NL"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "The Hague",
+        "es": "The Hague",
+        "pt-br": "The Hague"
+      }
+    },
+    {
+      "translationKey": "location-tokyo",
+      "slug": "tokyo",
+      "city": "Tokyo",
+      "country": "Japan",
+      "country_display_names": {
+        "en": "Japan",
+        "es": "Japón",
+        "pt-br": "Japão"
+      },
+      "time_zone": "Asia/Tokyo",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/tokyo/index.md",
+        "content/es/ubicaciones-clases-portugues/tokyo/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/tokyo/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Tokyo&country=JP"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Tokyo",
+        "es": "Tokyo",
+        "pt-br": "Tokyo"
+      }
+    },
+    {
+      "translationKey": "location-toronto",
+      "slug": "toronto",
+      "city": "Toronto",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Toronto",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/toronto/index.md",
+        "content/es/ubicaciones-clases-portugues/toronto/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/toronto/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Toronto&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Toronto",
+        "es": "Toronto",
+        "pt-br": "Toronto"
+      }
+    },
+    {
+      "translationKey": "location-toulouse",
+      "slug": "toulouse",
+      "city": "Toulouse",
+      "country": "France",
+      "country_display_names": {
+        "en": "France",
+        "es": "Francia",
+        "pt-br": "França"
+      },
+      "time_zone": "Europe/Paris",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/toulouse/index.md",
+        "content/es/ubicaciones-clases-portugues/toulouse/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/toulouse/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Toulouse&country=FR"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Toulouse",
+        "es": "Toulouse",
+        "pt-br": "Toulouse"
+      }
+    },
+    {
+      "translationKey": "location-turin",
+      "slug": "turin",
+      "city": "Turin",
+      "country": "Italy",
+      "country_display_names": {
+        "en": "Italy",
+        "es": "Italia",
+        "pt-br": "Itália"
+      },
+      "time_zone": "Europe/Rome",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/turin/index.md",
+        "content/es/ubicaciones-clases-portugues/turin/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/turin/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Turin&country=IT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Turin",
+        "es": "Turin",
+        "pt-br": "Turin"
+      }
+    },
+    {
+      "translationKey": "location-tweed-heads",
+      "slug": "tweed-heads",
+      "city": "Tweed Heads",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Sydney",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/tweed-heads/index.md",
+        "content/es/ubicaciones-clases-portugues/tweed-heads/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/tweed-heads/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Tweed+Heads&country=AU"
+      ],
+      "notes": "New South Wales locality uses Australia/Sydney.",
+      "city_display_names": {
+        "en": "Tweed Heads",
+        "es": "Tweed Heads",
+        "pt-br": "Tweed Heads"
+      }
+    },
+    {
+      "translationKey": "location-upper-coomera",
+      "slug": "upper-coomera",
+      "city": "Upper Coomera",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/upper-coomera/index.md",
+        "content/es/ubicaciones-clases-portugues/upper-coomera/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/upper-coomera/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Upper+Coomera&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Upper Coomera",
+        "es": "Upper Coomera",
+        "pt-br": "Upper Coomera"
+      }
+    },
+    {
+      "translationKey": "location-utrecht",
+      "slug": "utrecht",
+      "city": "Utrecht",
+      "country": "Netherlands",
+      "country_display_names": {
+        "en": "Netherlands",
+        "es": "Países Bajos",
+        "pt-br": "Países Baixos"
+      },
+      "time_zone": "Europe/Amsterdam",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/utrecht/index.md",
+        "content/es/ubicaciones-clases-portugues/utrecht/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/utrecht/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Utrecht&country=NL"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Utrecht",
+        "es": "Utrecht",
+        "pt-br": "Utrecht"
+      }
+    },
+    {
+      "translationKey": "location-valencia",
+      "slug": "valencia",
+      "city": "Valencia",
+      "country": "Spain",
+      "country_display_names": {
+        "en": "Spain",
+        "es": "España",
+        "pt-br": "Espanha"
+      },
+      "time_zone": "Europe/Madrid",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/valencia/index.md",
+        "content/es/ubicaciones-clases-portugues/valencia/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/valencia/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Valencia&country=ES"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Valencia",
+        "es": "Valencia",
+        "pt-br": "Valencia"
+      }
+    },
+    {
+      "translationKey": "location-vancouver",
+      "slug": "vancouver",
+      "city": "Vancouver",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/vancouver/index.md",
+        "content/es/ubicaciones-clases-portugues/vancouver/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/vancouver/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Vancouver&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Vancouver",
+        "es": "Vancouver",
+        "pt-br": "Vancouver"
+      }
+    },
+    {
+      "translationKey": "location-varsity-lakes",
+      "slug": "varsity-lakes",
+      "city": "Varsity Lakes",
+      "country": "Australia",
+      "country_display_names": {
+        "en": "Australia",
+        "es": "Australia",
+        "pt-br": "Austrália"
+      },
+      "time_zone": "Australia/Brisbane",
+      "service_scope": "online_plus_confirmed_gold_coast_venue",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/varsity-lakes/index.md",
+        "content/es/ubicaciones-clases-portugues/varsity-lakes/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/varsity-lakes/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Varsity+Lakes&country=AU"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Varsity Lakes",
+        "es": "Varsity Lakes",
+        "pt-br": "Varsity Lakes"
+      }
+    },
+    {
+      "translationKey": "location-vernon",
+      "slug": "vernon",
+      "city": "Vernon",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/vernon/index.md",
+        "content/es/ubicaciones-clases-portugues/vernon/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/vernon/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Vernon&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Vernon",
+        "es": "Vernon",
+        "pt-br": "Vernon"
+      }
+    },
+    {
+      "translationKey": "location-victoria",
+      "slug": "victoria",
+      "city": "Victoria",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Vancouver",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/victoria/index.md",
+        "content/es/ubicaciones-clases-portugues/victoria/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/victoria/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Victoria&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Victoria",
+        "es": "Victoria",
+        "pt-br": "Victoria"
+      },
+      "administrative_area": "British Columbia, Canada"
+    },
+    {
+      "translationKey": "location-vienna",
+      "slug": "vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "country_display_names": {
+        "en": "Austria",
+        "es": "Austria",
+        "pt-br": "Áustria"
+      },
+      "time_zone": "Europe/Vienna",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/vienna/index.md",
+        "content/es/ubicaciones-clases-portugues/vienna/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/vienna/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Vienna&country=AT"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Vienna",
+        "es": "Vienna",
+        "pt-br": "Vienna"
+      }
+    },
+    {
+      "translationKey": "location-washington-dc",
+      "slug": "washington-dc",
+      "city": "Washington Dc",
+      "country": "United States",
+      "country_display_names": {
+        "en": "United States",
+        "es": "Estados Unidos",
+        "pt-br": "Estados Unidos"
+      },
+      "time_zone": "America/New_York",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/washington-dc/index.md",
+        "content/es/ubicaciones-clases-portugues/washington-dc/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/washington-dc/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Washington+Dc&country=US"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Washington Dc",
+        "es": "Washington Dc",
+        "pt-br": "Washington Dc"
+      }
+    },
+    {
+      "translationKey": "location-whitehorse",
+      "slug": "whitehorse",
+      "city": "Whitehorse",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Whitehorse",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/whitehorse/index.md",
+        "content/es/ubicaciones-clases-portugues/whitehorse/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/whitehorse/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Whitehorse&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Whitehorse",
+        "es": "Whitehorse",
+        "pt-br": "Whitehorse"
+      }
+    },
+    {
+      "translationKey": "location-wiesbaden",
+      "slug": "wiesbaden",
+      "city": "Wiesbaden",
+      "country": "Germany",
+      "country_display_names": {
+        "en": "Germany",
+        "es": "Alemania",
+        "pt-br": "Alemanha"
+      },
+      "time_zone": "Europe/Berlin",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/wiesbaden/index.md",
+        "content/es/ubicaciones-clases-portugues/wiesbaden/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/wiesbaden/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Wiesbaden&country=DE"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Wiesbaden",
+        "es": "Wiesbaden",
+        "pt-br": "Wiesbaden"
+      }
+    },
+    {
+      "translationKey": "location-winnipeg",
+      "slug": "winnipeg",
+      "city": "Winnipeg",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Winnipeg",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/winnipeg/index.md",
+        "content/es/ubicaciones-clases-portugues/winnipeg/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/winnipeg/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Winnipeg&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Winnipeg",
+        "es": "Winnipeg",
+        "pt-br": "Winnipeg"
+      }
+    },
+    {
+      "translationKey": "location-yellowknife",
+      "slug": "yellowknife",
+      "city": "Yellowknife",
+      "country": "Canada",
+      "country_display_names": {
+        "en": "Canada",
+        "es": "Canadá",
+        "pt-br": "Canadá"
+      },
+      "time_zone": "America/Yellowknife",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/yellowknife/index.md",
+        "content/es/ubicaciones-clases-portugues/yellowknife/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/yellowknife/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Yellowknife&country=CA"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Yellowknife",
+        "es": "Yellowknife",
+        "pt-br": "Yellowknife"
+      }
+    },
+    {
+      "translationKey": "location-zurich",
+      "slug": "zurich",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "country_display_names": {
+        "en": "Switzerland",
+        "es": "Suiza",
+        "pt-br": "Suíça"
+      },
+      "time_zone": "Europe/Zurich",
+      "service_scope": "online_only",
+      "source_paths": [
+        "content/en/portuguese-teaching-locations/zurich/index.md",
+        "content/es/ubicaciones-clases-portugues/zurich/index.md",
+        "content/pt-br/locais-de-aulas-de-portugues/zurich/index.md"
+      ],
+      "status": "verified",
+      "verification_date": "2026-09-08",
+      "time_zone_data_version": "2026c",
+      "evidence_urls": [
+        "https://www.iana.org/time-zones",
+        "https://www.geonames.org/search.html?q=Zurich&country=CH"
+      ],
+      "notes": "",
+      "city_display_names": {
+        "en": "Zurich",
+        "es": "Zurich",
+        "pt-br": "Zurich"
+      }
+    }
+  ]
+}

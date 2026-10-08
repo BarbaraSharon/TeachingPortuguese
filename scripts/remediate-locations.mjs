@@ -8,9 +8,9 @@ const languages = [
   { code: 'pt-br', dir: 'content/pt-br/locais-de-aulas-de-portugues', service: '/pt-br/aulas-de-portugues/aulas-online/' },
   { code: 'es', dir: 'content/es/ubicaciones-clases-portugues', service: '/es/servicios-clases-portugues/clases-portugues-online/' },
 ];
-const cityFacts = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-aeo-repair/city-facts.json'), 'utf8'));
+const cityFacts = JSON.parse(fs.readFileSync(path.join(root, 'data/seo-aeo-repair/city-facts.json'), 'utf8'));
 const cityFactsBySlug = new Map(cityFacts.records.map((record) => [record.slug, record]));
-const delivery = JSON.parse(fs.readFileSync(path.join(root, 'docs/seo-aeo-repair/gold-coast-delivery.json'), 'utf8'));
+const delivery = JSON.parse(fs.readFileSync(path.join(root, 'data/seo-aeo-repair/gold-coast-delivery.json'), 'utf8'));
 const deliveryBySlug = new Map(Object.entries(delivery.locations).flatMap(([band, slugs]) => slugs.map((slug) => [slug, { band, ...delivery.travel_bands[band] }])));
 if (deliveryBySlug.size !== 60) throw new Error(`Expected 60 Gold Coast driving-distance locations, found ${deliveryBySlug.size}`);
 const regionSets = {

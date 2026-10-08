@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-08",
+  "venue_names": [
+    "Surfers Paradise",
+    "Broadbeach",
+    "Kirra"
+  ],
+  "travel_bands": {
+    "central": {
+      "nearest": "Surfers Paradise",
+      "drive_time": "5–20 minutes"
+    },
+    "north": {
+      "nearest": "Surfers Paradise",
+      "drive_time": "20–45 minutes"
+    },
+    "south": {
+      "nearest": "Broadbeach or Kirra",
+      "drive_time": "15–45 minutes"
+    },
+    "hinterland": {
+      "nearest": "Surfers Paradise or Broadbeach",
+      "drive_time": "20–45 minutes"
+    }
+  },
+  "locations": {
+    "central": [
+      "ashmore", "benowa", "broadbeach", "broadbeach-waters", "bundall", "carrara",
+      "clear-island-waters", "ernest", "gold-coast", "highland-park", "isle-of-capri",
+      "labrador", "mermaid-beach", "mermaid-waters", "merrimac", "nerang", "robina",
+      "southport", "surfers-paradise", "varsity-lakes"
+    ],
+    "north": [
+      "alberton", "arundel", "biggera-waters", "coombabah", "coomera", "coomera-waters",
+      "foxwell", "gaven", "helensvale", "hollywell", "hope-island", "jacobs-well",
+      "kingsholme", "maudsland", "ormeau", "oxenford", "pimpama", "upper-coomera"
+    ],
+    "south": [
+      "bilinga", "burleigh-heads", "burleigh-waters", "coolangatta", "currumbin",
+      "currumbin-valley", "currumbin-waters", "elanora", "kingscliff", "mudgeeraba",
+      "palm-beach", "reedy-creek", "tweed-heads"
+    ],
+    "hinterland": [
+      "advancetown", "austinville", "bonogin", "cedar-creek", "clagiraba", "forest-hill",
+      "gilston", "guanaba", "lower-beechmont"
+    ]
+  }
+}
