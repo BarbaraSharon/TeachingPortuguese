@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Singapore"
 description: "Clases online de portugués brasileño en Singapore, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/singapore/singapore-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Singapur | Clases en línea - clases de portugués brasileño con Barbara Sharon
@@ -51,8 +51,6 @@ Barbara Sharon es una instructora certificada de lengua portuguesa con amplia ex
 - Orientadora profesional
 
 El enfoque de Barbara ayuda al alumnado a entender las diferencias entre portugués brasileño mientras gana confianza para hablar, escuchar, leer y escribir. Tanto si tu objetivo es establecer contactos de negocios con Brasil como profundizar la apreciación cultural, sus clases están diseñadas para ser atractivas y eficaces.
-
-Como tutora de portugués en línea radicada en Singapur, Barbara ofrece clases individuales y grupales adaptadas a tus necesidades específicas. Explora todos los servicios en [Servicios](/es/servicios-clases-portugues/) o contacta directamente desde [Contacto](/es/contacto-profesora-portugues/).
 
 ## El portugués como idioma global
 

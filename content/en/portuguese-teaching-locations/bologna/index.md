@@ -3,7 +3,7 @@ translationKey: location-bologna
 title: "Online Brazilian Portuguese Lessons in Bologna"
 description: "Online Brazilian Portuguese lessons in Bologna, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/bologna/
 image:
@@ -57,7 +57,4 @@ Choose from flexible online formats including private tutoring and group classes
 
 Private lessons offer personalized attention, helping you progress at your own pace. Group sessions provide an interactive environment where students can practice speaking together.
 
-Online Portuguese lessons in Bologna are available through [Services](/en/portuguese-teaching-services/). Barbara Sharon offers both Brazilian Portuguese and general Portuguese instruction tailored to your schedule. From conversational classes to grammar drills, her teaching style is adaptable and effective.
-## Start Your Portuguese Journey Today
-
-Ready to learn Portuguese in Bologna? Book a Portuguese lesson with Barbara Sharon and take the first step toward mastering Brazilian Portuguese! Find out more about her teaching services on the [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.
+Ready to learn Portuguese in Bologna? Book a Portuguese lesson with Barbara Sharon and take the first step toward mastering Brazilian Portuguese! Find out more about her teaching services on the [Services](/en/portuguese-teaching-services/) page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.

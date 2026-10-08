@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Leipzig"
 description: "Clases online de portugués brasileño en Leipzig, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/leipzig/leipzig-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -49,8 +49,6 @@ Barbara Sharon es una profesora de portugués muy cualificada, con amplia experi
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora, con una maestría en Estudios Educativos y Gestión del Comportamiento en curso
-
-Con su profundo conocimiento de ambos dialectos, Barbara ayuda al alumnado a desenvolverse en las diferencias entre portugués brasileño, comprender el contexto cultural y desarrollar habilidades de conversación para relacionarse auténticamente con hablantes nativos. Ofrece sesiones grupales y particulares de portugués en Leipzig mediante plataformas interactivas en línea.
 
 Para obtener más información, visita nuestra página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/) para reservar hoy tu sesión personalizada de tutoría de portugués.
 

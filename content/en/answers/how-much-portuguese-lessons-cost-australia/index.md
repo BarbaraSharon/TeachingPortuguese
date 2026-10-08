@@ -7,7 +7,7 @@ question: "How Much Do Portuguese Lessons Cost in Australia?"
 direct_answer: "Barbara's current prices start at [[term_10_week_price]] per student for a 10-week group term and [[private_4_week_price]] for a private 4-week package. Both options are available online worldwide and subject to current availability on the Gold Coast. All prices are in Australian dollars; confirm the applicable package and details with Barbara before booking."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: 2026-09-09
 weight: 70
 robots: index, follow, max-image-preview:large
 image:

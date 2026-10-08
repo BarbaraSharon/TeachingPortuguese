@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Madrid"
 description: "Aulas online de português brasileiro em Madrid, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/madrid/madrid-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Madri | Aulas particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -38,8 +38,6 @@ Aulas online particulares e em grupo de português estão disponíveis em Madri.
 ## Por que aprender português em Madri?
 
 Madri tem uma crescente comunidade brasileira, com muitos residentes de várias regiões do Brasil, tornando-se um excelente lugar para se conectar à cultura e à língua brasileiras. O caráter internacional da cidade apoia a integração de elementos culturais brasileiros por meio de eventos, festivais e encontros sociais organizados por grupos de expatriados como Brazilians in Madrid. Eventos culturais como a exposição Amazônia no Fernan Gómez Cultural Center apresentam temas brasileiros por meio da fotografia e de comunidades indígenas.
-
-Aprender português em Madri dá acesso a uma rica tradição linguística que vai além do Brasil. O idioma influenciou e foi influenciado por várias culturas na África, Ásia e Américas, tornando-se um tema fascinante de estudo. Além disso, a proximidade de Madri com Portugal e os fortes laços comerciais entre Espanha e Portugal criam oportunidades para explorar os dois dialetos e nuances culturais. Conexões comerciais importantes incluem o papel da Espanha como segunda maior investidora estrangeira do Brasil e a posição de Madri como centro logístico para o sul da Europa.
 
 ## Como Barbara Sharon pode ajudar
 

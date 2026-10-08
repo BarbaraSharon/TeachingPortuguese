@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en San Jose"
 description: "Clases online de portugués brasileño en San Jose, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/san-jose/san-jose-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -51,8 +51,6 @@ Barbara Sharon es una profesora cualificada de portugués, con amplia experienci
 - Orientadora
 
 Con su experiencia, Barbara puede ayudarte a comprender las diferencias entre portugués brasileño, el contexto cultural y las habilidades de conversación que te permitirán relacionarte auténticamente con hablantes nativos. Tanto si te interesan conexiones de negocios con Brasil como si simplemente quieres apreciar la cultura portuguesa, su enfoque hace que aprender sea agradable y eficaz.
-
-Como tutora dedicada de portugués en línea radicada en San José, ofrece clases grupales y particulares, con atención personalizada y horarios flexibles. Explora toda su gama de clases en la página de [servicios](/es/servicios-clases-portugues/) o comunícate directamente mediante [contacto](/es/contacto-profesora-portugues/).
 
 ## El portugués como lengua global
 

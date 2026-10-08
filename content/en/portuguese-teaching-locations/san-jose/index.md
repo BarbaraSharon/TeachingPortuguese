@@ -3,7 +3,7 @@ translationKey: location-san-jose
 title: "Online Brazilian Portuguese Lessons in San Jose"
 description: "Online Brazilian Portuguese lessons in San Jose, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/san-jose/
 image:
@@ -32,14 +32,14 @@ editorial_reviewed: true
 
 ## Learn Portuguese in San Jose: Brazilian Portuguese Classes
 
-San Jose is a vibrant city in California, home to a diverse population of over 997,368 residents. With a significant Portuguese-speaking community of around 4,172 individuals, it offers unique opportunities for language learners to immerse themselves in the rich cultural traditions of both Brazil and Portugal. Whether you're interested in Brazilian Portuguese lessons or exploring the linguistic heritage of Portugal , San Jose provides an ideal environment for Portuguese learning.
+San Jose is a vibrant city in California, home to a diverse population of over 997,368 residents. With a significant Portuguese-speaking community of around 4,172 individuals, it offers unique opportunities for language learners to immerse themselves in the rich cultural traditions of both Brazil and Portugal. Whether you're interested in Brazilian Portuguese lessons or exploring the linguistic heritage of Portugal, San Jose provides an ideal environment for Portuguese learning.
 
 Online private and group Portuguese lessons are available in San Jose through expert instructor Barbara Sharon. These sessions provide flexible learning options tailored to your schedule and goals, whether you're a beginner or looking to improve conversational skills. Find qualified Portuguese tutor San Jose or Brazilian Portuguese teacher San Jose with personalized instruction that adapts to your needs.
 ## Why Learn Portuguese in San Jose?
 
 San Jose's multicultural environment makes it an excellent place to study Portuguese. The city hosts numerous cultural events and organizations that celebrate both Brazilian and Portuguese heritage, including the Dia de Portugal Festival and various Brazilian festivals like those organized by Brasarte. These celebrations offer real-world contexts for practicing your language skills.
 
-The presence of Portuguese and Brazilian community groups such as the Portuguese Heritage Society of California , POSSO , and the Bay Area Brazilian Club provides additional resources for learners to connect with native speakers and gain deeper insights into cultural nuances. For those interested in business or professional communication, San Jose’s international connections make learning Portuguese especially valuable. Discover Portuguese lessons near San Jose through local organizations and community hubs.
+The presence of Portuguese and Brazilian community groups such as the Portuguese Heritage Society of California, POSSO, and the Bay Area Brazilian Club provides additional resources for learners to connect with native speakers and gain deeper insights into cultural nuances. For those interested in business or professional communication, San Jose’s international connections make learning Portuguese especially valuable. Discover Portuguese lessons near San Jose through local organizations and community hubs.
 ## How Barbara Sharon Can Help
 
 Barbara Sharon is a qualified Portuguese language instructor with extensive experience teaching Brazilian Portuguese. Her educational background includes:
@@ -49,9 +49,6 @@ Barbara Sharon is a qualified Portuguese language instructor with extensive expe
 - Counsellor
 
 With her expertise, Barbara can help you navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that will allow you to engage authentically with native speakers. Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
-
-As a dedicated online Portuguese tutor based in San Jose, she offers both group and private lessons, allowing for personalized attention and flexible scheduling. Explore her full range of services on the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.
-## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally.
 

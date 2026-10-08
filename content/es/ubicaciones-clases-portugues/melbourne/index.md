@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Melbourne"
 description: "Clases online de portugués brasileño en Melbourne, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/melbourne/melbourne-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Melbourne | Clases de portugués brasileño con Barbara Sharon

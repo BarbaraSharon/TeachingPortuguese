@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Robina"
 description: "Aulas online de português brasileiro em Robina, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/robina/robina-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -33,8 +33,6 @@ editorial_reviewed: true
 
 Robina é uma próspera área residencial e comercial na Gold Coast, com uma população diversificada de 25.659 pessoas, conforme o censo de 2021. Com mais de um terço dos residentes nascidos no exterior, esse subúrbio multicultural proporciona um ambiente ideal para o aprendizado de idiomas e o intercâmbio entre culturas. Eventos como Brazil Week Gold Coast 2024 no TAFE Robina, iniciativas da ABRASSO e atividades organizadas pela Latin Community Hub Inc. mostram a crescente presença e influência da cultura brasileira em Robina.
 
-Quer você seja iniciante ou queira aperfeiçoar suas habilidades, aprender português em Robina abre portas para compreender as vibrantes tradições linguísticas do Brasil e seu impacto global. Aulas presenciais são oferecidas em Surfers Paradise - a poucos minutos de Robina -, o que é conveniente para os alunos da região. Para quem prefere flexibilidade, as [aulas de português online com Barbara Sharon](/pt-br/aulas-de-portugues/aulas-online/) proporcionam uma forma dinâmica de estudar de qualquer lugar.
-
 ## Por que escolher Robina para aprender português?
 
 A atmosfera multicultural de Robina cria uma oportunidade única para os alunos mergulharem na rica tapeçaria de idiomas e culturas globais. Como um dos subúrbios mais conectados internacionalmente na Gold Coast, Robina oferece acesso a eventos culturais que celebram a herança brasileira - de festivais de música e gastronomia a encontros comunitários.
@@ -51,8 +49,6 @@ Barbara Sharon é uma professora experiente de língua portuguesa, com sólida f
 - Orientadora apaixonada pela educação em idiomas
 
 A abordagem de Barbara combina imersão cultural com aprendizagem estruturada para ajudar você a compreender não só gramática e vocabulário, mas também as nuances da comunicação autêntica. Quer você tenha interesse em conexões profissionais com o Brasil ou simplesmente queira apreciar suas ricas tradições literárias e cinematográficas, ela torna o aprendizado agradável e eficaz.
-
-Ela oferece [aulas presenciais](/pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/) e [aulas de português online em Robina](/pt-br/aulas-de-portugues/aulas-online/). As sessões presenciais ocorrem em Surfers Paradise, enquanto as opções remotas permitem horários flexíveis. Barbara também conduz um clube de conversação no qual os alunos podem praticar suas habilidades de fala em um ambiente de grupo acolhedor. Saiba mais sobre seus serviços na página de [Serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página [Contato](/pt-br/contato-professora-portugues/).
 
 ## A importância global do português
 

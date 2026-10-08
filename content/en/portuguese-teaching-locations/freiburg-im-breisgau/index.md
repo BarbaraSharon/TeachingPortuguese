@@ -3,7 +3,7 @@ translationKey: location-freiburg-im-breisgau
 title: "Online Portuguese Lessons in Freiburg Im Breisgau"
 description: "Online Brazilian Portuguese lessons in Freiburg Im Breisgau, with Barbara Sharon. Private and group formats available online."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/freiburg-im-breisgau/
 image:
@@ -54,4 +54,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Her services include conversational Portuguese classes and structured lessons for beginners, with a focus on real-world communication skills. Whether you're seeking a native Portuguese teacher or looking for online Portuguese tutor options, Barbara's approach ensures practical language development tailored to your goals. “Falar é fácil, mas falar bem é difícil” - speaking is easy, but speaking well is difficult.
 ## Start Your Portuguese Journey Today
 
-Ready to begin learning Brazilian Portuguese in Freiburg im Breisgau? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Learn more about her services by visiting the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section.
+Ready to begin learning Brazilian Portuguese in Freiburg im Breisgau? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Learn more about her services by visiting the [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/)section.

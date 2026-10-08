@@ -3,7 +3,7 @@ translationKey: location-osaka
 title: "Online Brazilian Portuguese Lessons in Osaka"
 description: "Online Brazilian Portuguese lessons in Osaka, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/osaka/
 image:
@@ -42,15 +42,9 @@ Osaka's diverse international community creates an ideal setting for studying Po
 Notable events such as the Brazil Pavilion at Expo 2025 Osaka and the Portugal Pavilion under the theme “Ocean: The Blue Dialogue” provide unique opportunities to engage with native speakers and explore Portuguese culture firsthand. Cultural organizations like the Sociedade Luso-Nipónica de Osaka also host events including the FADO concert series, further enriching your learning experience.
 ## How Barbara Sharon Can Help You Learn Portuguese in Osaka
 
-Barbara Sharon is an experienced Brazilian Portuguese teacher based in Osaka, offering both private and group lessons for learners of all levels. Her educational background includes:
-- Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
-- TESOL certified
-- Fluent in Portuguese, English, Italian, and Spanish
-- Counselor with a deep understanding of cultural nuances
-
 Barbara specializes in teaching Brazilian Portuguese, helping students understand the subtle differences between dialects while developing real-world communication skills. Her approach combines structured learning with interactive materials that make Portuguese learning enjoyable and effective.
 
-Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara’s lessons offer a supportive and immersive environment. Explore more about her services on the [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.
+Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara’s lessons offer a supportive and immersive environment. Explore more about her services on the [Services](/en/portuguese-teaching-services/) page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language: Opportunities in Osaka
 
 As the fifth-most spoken language globally, Portuguese is an essential global lingua franca. With its roots in Brazil but enriched by influences from Africa, Asia, and the Americas, learning Portuguese in Osaka gives you access to a diverse cultural and linguistic landscape.
@@ -65,4 +59,4 @@ Barbara Sharon offers both private and group lessons tailored to your proficienc
 
 Ready to begin your Portuguese journey in Osaka? Contact Barbara Sharon for a Portuguese lesson and experience her unique teaching approach firsthand. Whether you're a complete beginner or looking to advance your skills, she’s here to support your language goals.
 
-To learn more about our offerings, visit the [Services](/en/portuguese-teaching-services/)page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section. ¡Vamos a aprender portugués! (Let's learn Portuguese!)
+To learn more about our offerings, visit the [Services](/en/portuguese-teaching-services/) page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section. ¡Vamos a aprender portugués! (Let's learn Portuguese!)

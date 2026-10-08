@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Reedy Creek"
 description: "Aulas online de português brasileiro em Reedy Creek, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/reedy-creek/reedy-creek-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -29,11 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Reedy Creek, Austrália | Aulas online e presenciais de Barbara Sharon
-
 Reedy Creek é um tranquilo subúrbio localizado no interior da Gold Coast, ao norte de Burleigh Heads e Varsity Lakes. Com uma população de 7.412 residentes segundo o censo de 2021, essa encantadora área reflete uma comunidade diversificada, em que 31,2% das pessoas nasceram no exterior. Aprender português em Reedy Creek dá a você acesso à rica herança linguística e cultural do Brasil, enquanto faz parte de um ambiente internacional em crescimento.
-
-Quer você seja iniciante ou queira avançar suas habilidades, Barbara Sharon oferece aulas de português presenciais e online, adaptadas às suas necessidades. As aulas presenciais são realizadas em Surfers Paradise, o que as torna convenientes para alunos que moram em Reedy Creek. As aulas online oferecem flexibilidade para alunos de toda a região, permitindo que você estude no seu ritmo, de casa.
 
 ## Por que aprender português em Reedy Creek?
 

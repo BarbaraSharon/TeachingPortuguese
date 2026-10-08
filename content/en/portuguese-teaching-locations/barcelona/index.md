@@ -3,7 +3,7 @@ translationKey: location-barcelona
 title: "Online Brazilian Portuguese Lessons in Barcelona"
 description: "Online Brazilian Portuguese lessons in Barcelona, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/barcelona/
 image:
@@ -49,7 +49,7 @@ As a trained counsellor pursuing a Master’s degree in Educational Studies and 
 
 Flexible online formats are available including private tutoring and group sessions. All levels are welcome, from complete beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice. Barbara Sharon delivers private and group Portuguese lessons online for students in Barcelona through [Services](/en/portuguese-teaching-services/).
 
-Whether you prefer one-on-one instruction or collaborative learning, Barbara's online Portuguese tutor Barcelona services ensure a customized experience. Explore her offerings through [Services](/en/portuguese-teaching-services/)or reach out via [Contact](/en/contact-portuguese-teacher/)to find the perfect fit for your goals, whether it's beginner Portuguese lessons Barcelona or professional development in Brazilian Portuguese.
+Whether you prefer one-on-one instruction or collaborative learning, Barbara's online Portuguese tutor Barcelona services ensure a customized experience. Explore her offerings through [Services](/en/portuguese-teaching-services/) or reach out via [Contact](/en/contact-portuguese-teacher/)to find the perfect fit for your goals, whether it's beginner Portuguese lessons Barcelona or professional development in Brazilian Portuguese.
 ## Start Your Portuguese Journey Today
 
 Ready to begin your journey in learning Portuguese in Barcelona? Contact Barbara Sharon for a Portuguese lesson and take the first step toward mastering Brazilian Portuguese. With options for online Portuguese tutor Barcelona, private Portuguese tutor Barcelona, or group Portuguese lessons Barcelona, she offers comprehensive support tailored to your needs. Whether you're looking for conversational classes, beginner Portuguese lessons Barcelona, or advanced training, her expertise ensures a rewarding learning experience through [Contact](/en/contact-portuguese-teacher/).

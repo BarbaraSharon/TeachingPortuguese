@@ -3,7 +3,7 @@ translationKey: location-turin
 title: "Online Brazilian Portuguese Lessons in Turin"
 description: "Online Brazilian Portuguese lessons in Turin, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/turin/
 image:
@@ -50,7 +50,7 @@ Barbara Sharon is an experienced Portuguese language instructor specializing in 
 
 She offers personalized online lessons tailored to individual goals-whether you're focusing on Brazilian slang, formal grammar, or conversational fluency. With flexible scheduling and engaging teaching methods, Barbara helps students understand the differences between regional varieties of Portuguese and confidently express themselves with native speakers.
 
-[Learn more about our services](/en/portuguese-teaching-services/)or [get in touch](/en/contact-portuguese-teacher/)to start your journey today.
+[Learn more about our services](/en/portuguese-teaching-services/) or [get in touch](/en/contact-portuguese-teacher/)to start your journey today.
 ## The Global Significance of Portuguese
 
 As the fifth most spoken language globally, Portuguese connects learners to a linguistic tradition that spans across continents-Africa, Asia, and the Americas. It’s not just a language; it's a bridge to diverse cultures and perspectives.
@@ -59,5 +59,3 @@ By learning Portuguese in Turin, you gain valuable insights into Brazilian cultu
 ## Online Portuguese Lessons in Turin - Flexible & Effective
 
 Barbara Sharon provides both individual and group online Portuguese lessons designed for busy schedules and learning preferences. Using modern teaching tools, multimedia resources, and real-life content, these classes offer an immersive and effective way to develop your language skills.
-
-Whether you’re starting from scratch or improving advanced communication, our curriculum adapts to meet your needs. We provide both Brazilian Portuguese Turin and European Portuguese instruction depending on your focus-so whether you dream of traveling to São Paulo or communicating in Lisbon, we’ll guide you there.

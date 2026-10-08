@@ -3,7 +3,7 @@ translationKey: location-frankfurt-am-main
 title: "Online Brazilian Portuguese Lessons in Frankfurt Am Main"
 description: "Online Brazilian Portuguese lessons in Frankfurt Am Main, with Barbara Sharon. Private and group formats available online."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/frankfurt-am-main/
 image:
@@ -64,4 +64,4 @@ Barbara Sharon specializes in Brazilian Portuguese lessons Frankfurt am Main and
 
 Interested in learning Portuguese in Frankfurt am Main? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
 
-For more information on services offered, visit our [Services](/en/portuguese-teaching-services/)page. To get in touch, use the [Contact](/en/contact-portuguese-teacher/)form to book your first lesson.
+For more information on services offered, visit our [Services](/en/portuguese-teaching-services/) page. To get in touch, use the [Contact](/en/contact-portuguese-teacher/)form to book your first lesson.

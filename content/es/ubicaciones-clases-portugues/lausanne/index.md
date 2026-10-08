@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Lausanne"
 description: "Clases online de portugués brasileño en Lausanne, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/lausanne/lausanne-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -28,8 +28,6 @@ faq:
     answer: "Sí. Las clases son online, por lo que puedes estudiar desde Lausanne. Los horarios se acuerdan con antelación usando Europe/Zurich y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
-
-## Aprende portugués en Lausanne, Australia | Clases particulares y grupales en línea
 
 Lausanne, una ciudad dinámica de Suiza con más de 150.000 habitantes, ofrece un entorno excelente para aprender portugués. Como uno de los idiomas más hablados del mundo, el portugués proporciona valiosos vínculos con la rica cultura y economía de Brasil. Barbara Sharon aporta su experiencia en enseñanza de idiomas para ayudarte a dominar esta lengua dinámica mediante clases particulares y grupales en línea adaptadas a tus necesidades.
 

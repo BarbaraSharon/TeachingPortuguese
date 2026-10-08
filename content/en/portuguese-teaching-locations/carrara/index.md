@@ -3,7 +3,7 @@ translationKey: location-carrara
 title: "Portuguese in Carrara: In-Person & Online"
 description: "Brazilian Portuguese lessons in Carrara, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/carrara/
 image:
@@ -52,11 +52,11 @@ Barbara's lessons combine grammar, vocabulary, pronunciation, and conversational
 Barbara Sharon offers flexible Portuguese instruction tailored to all levels - from beginners to advanced speakers. In-person lessons are held in Surfers Paradise, close to Carrara, while remote options provide convenience for busy schedules.
 
 She provides:
-- Private lessons : One-on-one attention for personalized learning goals
-- Group classes : Collaborative sessions that build confidence through conversation
-- Online tutoring : Interactive remote lessons from anywhere in the world
+- Private lessons: One-on-one attention for personalized learning goals
+- Group classes: Collaborative sessions that build confidence through conversation
+- Online tutoring: Interactive remote lessons from anywhere in the world
 
-For more information or to book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact us via the [Contact](/en/contact-portuguese-teacher/)section.
+For more information or to book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/) page or contact us via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Journey to Mastering Brazilian Portuguese Today
 
 If you're ready to learn Brazilian Portuguese in Carrara, Barbara Sharon is here to guide you. With personalized instruction and a passion for cultural exchange, she helps students develop practical communication skills in a supportive environment.

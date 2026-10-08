@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Reedy Creek"
 description: "Clases online de portugués brasileño en Reedy Creek, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/reedy-creek/reedy-creek-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -29,11 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués en Reedy Creek, Australia | Clases en línea y presenciales con Barbara Sharon
-
 Reedy Creek es un tranquilo suburbio situado en el interior de la Gold Coast, justo al norte de Burleigh Heads y Varsity Lakes. Con 7.412 habitantes según el censo de 2021, esta encantadora zona refleja una comunidad diversa donde el 31,2 % de las personas nació en el extranjero. Aprender portugués en Reedy Creek te da acceso al rico patrimonio lingüístico y cultural de Brasil mientras formas parte de un entorno internacional en crecimiento.
-
-Tanto si eres principiante como si buscas avanzar tus habilidades, Barbara Sharon ofrece clases de portugués presenciales y en línea, adaptadas a tus necesidades. Las clases presenciales se realizan en Surfers Paradise, una opción práctica para estudiantes que viven en Reedy Creek. Las clases en línea aportan flexibilidad al alumnado de toda la región y te permiten estudiar a tu propio ritmo desde casa.
 
 ## ¿Por qué aprender portugués en Reedy Creek?
 

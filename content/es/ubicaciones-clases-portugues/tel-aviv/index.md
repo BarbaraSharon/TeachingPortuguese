@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Tel Aviv"
 description: "Clases online de portugués brasileño en Tel Aviv, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/tel-aviv/tel-aviv-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -44,8 +44,6 @@ Brasil, hogar de la mayor población lusófona del mundo, permite conocer tanto 
 Tel Aviv también se beneficia de sólidos vínculos comerciales y empresariales con Brasil y Portugal. Estas conexiones crean oportunidades para que profesionales se relacionen con mercados lusófonos, por lo que las competencias lingüísticas aportan valor al desarrollo profesional. La Cámara de Comercio Israel-Portugal y otras organizaciones subrayan además el papel de la ciudad en el fomento de relaciones económicas con países de habla portuguesa.
 
 ## Cómo puede ayudarte Barbara Sharon a aprender portugués en Tel Aviv
-
-Barbara Sharon es una profesora cualificada de portugués radicada en Tel Aviv y especializada en clases de portugués en línea. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

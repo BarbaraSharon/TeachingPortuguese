@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Brisbane"
 description: "Clases online de portugués brasileño en Brisbane, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/brisbane/brisbane-brazilian-portuguese-lesson.png
   alt_text: Clases de portugués brasileño en línea para estudiantes de Brisbane con Barbara Sharon
@@ -28,10 +28,6 @@ faq:
     answer: "Sí. Las clases son online, por lo que puedes estudiar desde Brisbane. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
-
-## Clases de portugués brasileño en línea para estudiantes de Brisbane
-
-Barbara Sharon ofrece clases de portugués brasileño en línea a estudiantes de Brisbane. Las clases presenciales están limitadas a zonas verificadas de Gold Coast; esta página es de servicio en línea y no demuestra que exista un local de enseñanza en Brisbane.
 
 ## Clases particulares y grupales en línea
 

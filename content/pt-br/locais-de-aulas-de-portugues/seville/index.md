@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Seville"
 description: "Aulas online de português brasileiro em Seville, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/seville/seville-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -29,11 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprenda português em Sevilha, Austrália - aulas online com Barbara Sharon
-
 Sevilha é uma cidade vibrante na Espanha, conhecida por sua rica herança cultural e fortes conexões internacionais. Com uma população de 687.488 residentes em 2024, incluindo uma comunidade significativa de 48,5% de pessoas nascidas no exterior, a cidade oferece um ambiente acolhedor para quem aprende idiomas.
-
-Como porto interior com profundos laços históricos com Portugal, Sevilha oferece oportunidades únicas para explorar a cultura e o idioma portugueses. Quer você tenha interesse em português brasileiro, nossas aulas online ajudam você a se conectar de forma autêntica com falantes nativos enquanto desfruta de aprendizagem flexível de qualquer lugar na Austrália.
 
 ## Por que aprender português em Sevilha?
 

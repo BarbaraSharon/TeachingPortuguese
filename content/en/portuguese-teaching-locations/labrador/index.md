@@ -3,7 +3,7 @@ translationKey: location-labrador
 title: "Portuguese in Labrador: In-Person & Online"
 description: "Brazilian Portuguese lessons in Labrador, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/labrador/
 image:
@@ -34,7 +34,7 @@ editorial_reviewed: true
 
 Labrador is a vibrant suburb of the Gold Coast, located in Queensland, Australia. With a population of approximately 26,650 as of 2021, Labrador offers a unique environment for language learners. According to recent data, there are 1,215 Portuguese-born residents and 165 Portuguese language speakers in the area, highlighting a growing cultural connection. Barbara Sharon provides Portuguese lessons in Labrador tailored for all ages and backgrounds, whether you want to connect with family, travel, or expand your business opportunities.
 
-Whether you're looking for Brazilian Portuguese teacher Labrador , a Portuguese tutor labrador , or a conversational Portuguese classes labrador , Barbara Sharon offers flexible online and in-person lessons designed to meet your specific needs. All levels are welcome, from complete beginners to those seeking to refine their conversational skills.
+Whether you're looking for Brazilian Portuguese teacher Labrador, a Portuguese tutor labrador, or a conversational Portuguese classes labrador, Barbara Sharon offers flexible online and in-person lessons designed to meet your specific needs. All levels are welcome, from complete beginners to those seeking to refine their conversational skills.
 ## Why Learn Portuguese in Labrador?
 
 Labrador’s community includes a growing number of residents with connections to Portugal and Brazil. While specific data on the Brazilian-born population in Labrador is not available, there are Portuguese language speakers and cultural ties that make Labrador an ideal place for Portuguese learning. The area also provides opportunities for those interested in business or travel connections between Australia and Portugal or Brazil.
@@ -65,4 +65,4 @@ In-person Portuguese lessons are available in Surfers Paradise, which is conveni
 
 Our in-person lessons provide a structured learning environment where you can practice speaking with other students in a supportive atmosphere. You'll receive materials tailored to your specific interests and learning goals. Barbara also offers group sessions and private Portuguese tutor labrador options, as well as speaking club sessions for advanced learners.
 
-To learn more about our services, visit our [Services](/en/portuguese-teaching-services/)page or contact us via our [Contact](/en/contact-portuguese-teacher/)page. Whether you are searching for a Portuguese teacher labrador or a native Portuguese teacher labrador, Barbara Sharon is ready to assist your journey in mastering the language.
+To learn more about our services, visit our [Services](/en/portuguese-teaching-services/) page or contact us via our [Contact](/en/contact-portuguese-teacher/) page. Whether you are searching for a Portuguese teacher labrador or a native Portuguese teacher labrador, Barbara Sharon is ready to assist your journey in mastering the language.

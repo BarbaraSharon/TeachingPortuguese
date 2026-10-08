@@ -3,7 +3,7 @@ translationKey: location-elanora
 title: "Portuguese in Elanora: In-Person & Online"
 description: "Brazilian Portuguese lessons in Elanora, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/elanora/
 image:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 In-person Portuguese lessons are available in Surfers Paradise and surrounding Gold Coast suburbs. Online lessons are also available through [Services](/en/portuguese-teaching-services/).
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Elanora? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Find more information about her services or reach out directly through the [Contact](/en/contact-portuguese-teacher/)page.
+Interested in learning Portuguese in Elanora? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Find more information about her services or reach out directly through the [Contact](/en/contact-portuguese-teacher/) page.

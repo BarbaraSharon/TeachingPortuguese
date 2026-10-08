@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Oslo"
 description: "Aulas online de português brasileiro em Oslo, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/oslo/oslo-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -68,8 +68,6 @@ Estudar o idioma também abre portas para as ricas tradições literárias, musi
 ## Conexões de viagens e negócios com o Brasil
 
 A comunidade brasileira em Oslo vem construindo sua presença nas últimas décadas. Empresas sediadas na Noruega colaboram cada vez mais com parceiros brasileiros, tornando as habilidades em português valiosas para o desenvolvimento profissional.
-
-O status de Oslo como cidade regional-chave faz dela uma excelente porta de entrada para viagens a outros países de língua portuguesa na América do Sul, incluindo Brasil e Portugal. Empresas norueguesas mantêm fortes vínculos com o Brasil por meio de acordos comerciais e câmaras de comércio, oferecendo motivação adicional para aprender o idioma para crescimento profissional ou pessoal.
 
 ## Aulas de português online em Oslo
 

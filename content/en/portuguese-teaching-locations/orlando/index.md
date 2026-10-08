@@ -3,7 +3,7 @@ translationKey: location-orlando
 title: "Online Brazilian Portuguese Lessons in Orlando"
 description: "Online Brazilian Portuguese lessons in Orlando, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/orlando/
 image:
@@ -64,4 +64,4 @@ Barbara offers both one-on-one and small group sessions that are ideal for pract
 
 Interested in learning Portuguese in Orlando? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey with personalized instruction.
 
-For more details about services offered, visit our [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section to schedule a session. Explore options like Brazilian Portuguese lessons Orlando or online Portuguese tutor Orlando and take the first step toward fluency today.
+For more details about services offered, visit our [Services](/en/portuguese-teaching-services/) page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)section to schedule a session. Explore options like Brazilian Portuguese lessons Orlando or online Portuguese tutor Orlando and take the first step toward fluency today.

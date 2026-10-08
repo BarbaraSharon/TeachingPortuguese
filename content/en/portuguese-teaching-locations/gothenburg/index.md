@@ -3,7 +3,7 @@ translationKey: location-gothenburg
 title: "Online Brazilian Portuguese Lessons in Gothenburg"
 description: "Online Brazilian Portuguese lessons in Gothenburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/gothenburg/
 image:
@@ -56,4 +56,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon provides Portuguese lessons Gothenburg through fully online instruction, making it easy for students to access quality language education regardless of their location within the city or region. Whether you're looking for a Brazilian Portuguese teacher Gothenburg or conversational Portuguese classes Gothenburg, she offers both individual and group learning options. Her services cater to learners seeking beginner Portuguese lessons Gothenburg as well as those aiming to refine their skills.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Gothenburg? Contact Barbara Sharon for a Portuguese lesson and start your language journey today. You can explore more about her teaching services by visiting the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.
+Interested in learning Portuguese in Gothenburg? Contact Barbara Sharon for a Portuguese lesson and start your language journey today. You can explore more about her teaching services by visiting the [Services](/en/portuguese-teaching-services/) page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.

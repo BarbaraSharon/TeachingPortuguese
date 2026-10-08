@@ -3,7 +3,7 @@ translationKey: location-helensvale
 title: "Portuguese in Helensvale: In-Person & Online"
 description: "Brazilian Portuguese lessons in Helensvale, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/helensvale/
 image:
@@ -54,6 +54,6 @@ Barbara Sharon provides flexible learning options including online classes, priv
 In-person lessons are held in Surfers Paradise for students in Helensvale, while remote options allow busy professionals or families to learn at their own pace. Whether you're seeking a private Portuguese tutor in Helensvale or looking for group classes that promote interaction and confidence, Barbara's personalized instruction fits your schedule and objectives.
 ## Start Your Journey with Barbara Sharon Today!
 
-Ready to begin learning Brazilian Portuguese in Helensvale? Book a Portuguese lesson with Barbara Sharon and experience her engaging, student-focused approach firsthand. For more information on services offered, visit the [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)page.
+Ready to begin learning Brazilian Portuguese in Helensvale? Book a Portuguese lesson with Barbara Sharon and experience her engaging, student-focused approach firsthand. For more information on services offered, visit the [Services](/en/portuguese-teaching-services/) page or contact her directly via the [Contact](/en/contact-portuguese-teacher/) page.
 
 "Aprender português é uma jornada emocionante!" (Learning Portuguese is an exciting journey!)

@@ -3,7 +3,7 @@ translationKey: location-porto
 title: "Online Brazilian Portuguese Lessons in Porto"
 description: "Online Brazilian Portuguese lessons in Porto, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/porto/
 image:
@@ -50,7 +50,7 @@ Barbara Sharon is an experienced Portuguese language instructor who specializes 
 
 With her expertise, Barbara can help you navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that will allow you to engage authentically with native speakers. Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
 
-As a dedicated Portuguese tutor in Porto, Barbara offers both private and group sessions online, ensuring personalized attention and flexible scheduling for learners across the region. For more details on her teaching services, visit our [Services](/en/portuguese-teaching-services/)page or reach out via our [Contact](/en/contact-portuguese-teacher/)section.
+As a dedicated Portuguese tutor in Porto, Barbara offers both private and group sessions online, ensuring personalized attention and flexible scheduling for learners across the region. For more details on her teaching services, visit our [Services](/en/portuguese-teaching-services/) page or reach out via our [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally. Learning Portuguese in Porto gives you access to a rich linguistic tradition that extends beyond Brazil.
@@ -62,4 +62,4 @@ Online Portuguese lessons in Porto provide flexibility and convenience for stude
 
 Our lessons use multimedia resources and real-life content to make learning meaningful and effective. You'll also get access to materials designed specifically for your learning goals, whether that’s mastering grammar, improving pronunciation, or understanding colloquial expressions used in daily life.
 
-If you're searching for a Portuguese teacher in Porto or looking to enroll in Brazilian Portuguese lessons in Porto, we offer both individual and group sessions online. For more information about our offerings, check out our [Services](/en/portuguese-teaching-services/)page or get in touch with us through the [Contact](/en/contact-portuguese-teacher/)section.
+If you're searching for a Portuguese teacher in Porto or looking to enroll in Brazilian Portuguese lessons in Porto, we offer both individual and group sessions online. For more information about our offerings, check out our [Services](/en/portuguese-teaching-services/) page or get in touch with us through the [Contact](/en/contact-portuguese-teacher/)section.

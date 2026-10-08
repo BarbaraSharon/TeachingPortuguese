@@ -3,7 +3,7 @@ translationKey: location-nice
 title: "Online Brazilian Portuguese Lessons in Nice"
 description: "Online Brazilian Portuguese lessons in Nice, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/nice/
 image:
@@ -49,7 +49,7 @@ Barbara Sharon is a dedicated Portuguese language instructor with extensive expe
 - Counsellor
 - Master's in Educational Studies & Behaviour Management (in progress)
 
-As a qualified Brazilian Portuguese teacher , Barbara helps students navigate the differences between regional dialects and cultural nuances. She offers both private and group sessions online, making it easy for learners in Nice to access high-quality instruction from anywhere. Explore Brazilian Portuguese lessons nice or find online Portuguese tutor nice options that fit your schedule and learning style.
+As a qualified Brazilian Portuguese teacher, Barbara helps students navigate the differences between regional dialects and cultural nuances. She offers both private and group sessions online, making it easy for learners in Nice to access high-quality instruction from anywhere. Explore Brazilian Portuguese lessons nice or find online Portuguese tutor nice options that fit your schedule and learning style.
 ## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally.
@@ -64,4 +64,4 @@ Learn Portuguese in Nice with a native Portuguese teacher who understands the nu
 
 Interested in learning Portuguese in Nice? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
-To learn more about her services, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section for a personalized consultation.
+To learn more about her services, visit the [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/)section for a personalized consultation.

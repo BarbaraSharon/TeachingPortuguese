@@ -3,7 +3,7 @@ translationKey: location-lausanne
 title: "Online Brazilian Portuguese Lessons in Lausanne"
 description: "Online Brazilian Portuguese lessons in Lausanne, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/lausanne/
 image:
@@ -29,8 +29,6 @@ faq:
     answer: "Yes. Lessons are online, so you can study from Lausanne. Times are agreed in advance using Europe/Zurich and current availability. Contact Barbara to discuss a suitable format."
 editorial_reviewed: true
 ---
-
-## Learn Portuguese in Lausanne, Australia | Online Private & Group Lessons
 
 Lausanne, a vibrant city in Switzerland with a population of over 150,000 residents, offers an excellent environment for learning Portuguese. As one of the most widely spoken languages globally, Portuguese provides valuable connections to Brazil's rich culture and economy. Barbara Sharon brings her expertise in language instruction to help you master this dynamic language through online private and group lessons tailored to your needs.
 

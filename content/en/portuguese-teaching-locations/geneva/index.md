@@ -3,7 +3,7 @@ translationKey: location-geneva
 title: "Online Brazilian Portuguese Lessons in Geneva"
 description: "Online Brazilian Portuguese lessons in Geneva, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/geneva/
 image:
@@ -50,7 +50,7 @@ As a TESOL-certified teacher, Barbara employs proven methodologies that adapt to
 
 In addition to her teaching credentials, Barbara is a trained counselor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This gives her the tools to create a supportive, encouraging learning environment where every student feels motivated and empowered.
 
-Her carefully designed curriculum integrates grammar, vocabulary, speaking practice, and cultural insights-ensuring you not only learn the language but also understand how to use it naturally in real-world situations. Whether you're seeking private Portuguese tutor Geneva or group classes, her online sessions accommodate all levels of proficiency. Explore her [Services](/en/portuguese-teaching-services/)or reach out directly via her [Contact](/en/contact-portuguese-teacher/)page.
+Her carefully designed curriculum integrates grammar, vocabulary, speaking practice, and cultural insights-ensuring you not only learn the language but also understand how to use it naturally in real-world situations. Whether you're seeking private Portuguese tutor Geneva or group classes, her online sessions accommodate all levels of proficiency. Explore her [Services](/en/portuguese-teaching-services/) or reach out directly via her [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Portuguese Lessons in Geneva
 
 Barbara Sharon offers flexible, high-quality Portuguese instruction through online private and group lessons. Whether you're a beginner or advanced learner, she tailors each session to your specific needs and goals.

@@ -3,7 +3,7 @@ translationKey: location-edinburgh
 title: "Online Brazilian Portuguese Lessons in Edinburgh"
 description: "Online Brazilian Portuguese lessons in Edinburgh, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/edinburgh/
 image:
@@ -51,7 +51,5 @@ Her lessons are designed to combine grammar, vocabulary, conversation, and cultu
 
 Barbara Sharon provides both online private and group Portuguese lessons in Edinburgh. These sessions are suitable for all levels, from beginners to advanced learners. Private lessons offer personalized attention tailored to your specific goals, while group sessions allow for interactive practice and social interaction.
 
-As a dedicated Portuguese teacher in Edinburgh, Barbara ensures that each session is structured to build confidence and fluency. For more information on her services, visit the [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
+As a dedicated Portuguese teacher in Edinburgh, Barbara ensures that each session is structured to build confidence and fluency. For more information on her services, visit the [Services](/en/portuguese-teaching-services/) page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Portuguese Journey Today
-
-Ready to start learning Portuguese in Edinburgh? Contact Barbara Sharon for a Portuguese lesson and begin your journey toward mastering Brazilian or European Portuguese. Whether you're interested in conversational classes, beginner lessons, or advanced instruction, she offers flexible scheduling and personalized support to help you achieve your language goals.

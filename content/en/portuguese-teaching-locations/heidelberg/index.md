@@ -3,7 +3,7 @@ translationKey: location-heidelberg
 title: "Online Brazilian Portuguese Lessons in Heidelberg"
 description: "Online Brazilian Portuguese lessons in Heidelberg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/heidelberg/
 image:
@@ -51,7 +51,7 @@ Each lesson is carefully structured to include grammar, vocabulary, conversation
 
 Barbara Sharon provides flexible learning options including online classes, private tutoring, and small group sessions. All levels are welcome-from absolute beginners to advanced learners. Private lessons give you personalized attention, while group sessions offer a fun way to practice with others.
 
-All instruction is delivered through reliable online platforms, making it easy for students in Heidelberg to access quality Portuguese teaching without leaving their homes. Explore her full range of [Services](/en/portuguese-teaching-services/)or reach out directly via the [Contact](/en/contact-portuguese-teacher/)page to book a Portuguese lesson and start your journey today.
+All instruction is delivered through reliable online platforms, making it easy for students in Heidelberg to access quality Portuguese teaching without leaving their homes. Explore her full range of [Services](/en/portuguese-teaching-services/) or reach out directly via the [Contact](/en/contact-portuguese-teacher/) page to book a Portuguese lesson and start your journey today.
 ## Start Your Portuguese Journey in Heidelberg
 
 Ready to begin learning Brazilian Portuguese in Heidelberg? Contact Barbara Sharon for a Portuguese lesson and discover how expert guidance can transform your language skills. Whether you're searching for a Portuguese tutor near me in Heidelberg or looking for conversational Portuguese classes, she offers customized support tailored to your needs. Her online Portuguese tutor services cater to both individual learners and small groups, ensuring a personalized and engaging experience.

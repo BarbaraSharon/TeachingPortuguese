@@ -3,7 +3,7 @@ translationKey: location-isle-of-capri
 title: "Portuguese in Isle Of Capri: In-Person & Online"
 description: "Portuguese lessons in Isle Of Capri: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/isle-of-capri/
 image:
@@ -64,4 +64,4 @@ She also provides online Portuguese lessons for those who prefer remote learning
 
 Interested in learning Portuguese in Isle of Capri? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
-To learn more about her services, visit [Services](/en/portuguese-teaching-services/)or reach out directly through the [Contact](/en/contact-portuguese-teacher/)page. Barbara offers both private and group sessions, including speaking clubs for immersive practice. Find a Portuguese tutor isle-of-capri, a Brazilian Portuguese teacher isle-of-capri, or a Portuguese lessons near isle-of-capri with expert instruction tailored to your needs.
+To learn more about her services, visit [Services](/en/portuguese-teaching-services/) or reach out directly through the [Contact](/en/contact-portuguese-teacher/) page. Barbara offers both private and group sessions, including speaking clubs for immersive practice. Find a Portuguese tutor isle-of-capri, a Brazilian Portuguese teacher isle-of-capri, or a Portuguese lessons near isle-of-capri with expert instruction tailored to your needs.

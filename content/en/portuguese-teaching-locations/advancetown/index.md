@@ -3,7 +3,7 @@ translationKey: location-advancetown
 title: "Portuguese in Advancetown: In-Person & Online"
 description: "Brazilian Portuguese lessons in Advancetown, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/advancetown/
 image:
@@ -51,7 +51,7 @@ Her lessons are carefully structured to blend grammar, vocabulary, conversation,
 
 Barbara Sharon offers versatile learning formats including online classes, private tutoring, and group sessions. All levels-from absolute beginners to advanced speakers-are welcome. Private lessons allow for one-on-one attention, while group classes provide interactive practice and peer support.
 
-For students in Advancetown, in-person Portuguese lessons are held in Surfers Paradise, just a short distance away. Alternatively, online lessons are available for those who prefer remote learning. Visit her [Services](/en/portuguese-teaching-services/)page to explore both group and individual tutoring options. Whether you're looking for a "Brazilian Portuguese teacher near me Advancetown" or want to book "Portuguese lessons in Surfers Paradise", Barbara has something for everyone.
+For students in Advancetown, in-person Portuguese lessons are held in Surfers Paradise, just a short distance away. Alternatively, online lessons are available for those who prefer remote learning. Visit her [Services](/en/portuguese-teaching-services/) page to explore both group and individual tutoring options. Whether you're looking for a "Brazilian Portuguese teacher near me Advancetown" or want to book "Portuguese lessons in Surfers Paradise", Barbara has something for everyone.
 ## Start Your Journey Today - Portuguese Lesson Available
 
 Ready to begin your journey in learning Brazilian Portuguese? Contact Barbara Sharon today for a lesson options and discover how enjoyable and achievable language learning can be. With her expertise, personalized attention, and engaging teaching style, you'll quickly gain confidence in speaking Portuguese naturally.

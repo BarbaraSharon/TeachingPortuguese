@@ -3,7 +3,7 @@ translationKey: location-chicago
 title: "Online Brazilian Portuguese Lessons in Chicago"
 description: "Online Brazilian Portuguese lessons in Chicago, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/chicago/
 image:
@@ -46,7 +46,7 @@ Barbara Sharon brings a wealth of knowledge to every lesson. With a Bachelor's d
 
 Beyond her academic background, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This unique combination allows her to create a supportive, motivating environment where every student can thrive. Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language but how to use it naturally in real-life situations.
 
-Barbara Sharon offers online Portuguese lessons chicago through private tutoring or group sessions. Whether you need Brazilian Portuguese lessons chicago or conversational Portuguese classes chicago, her flexible learning options accommodate your schedule and level. Explore more about her services on the [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)page.
+Barbara Sharon offers online Portuguese lessons chicago through private tutoring or group sessions. Whether you need Brazilian Portuguese lessons chicago or conversational Portuguese classes chicago, her flexible learning options accommodate your schedule and level. Explore more about her services on the [Services](/en/portuguese-teaching-services/) page or contact her directly via the [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Lessons
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice. Barbara Sharon provides both individual and small group Portuguese lessons chicago via online platforms.

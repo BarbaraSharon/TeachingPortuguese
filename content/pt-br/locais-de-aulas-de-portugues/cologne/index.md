@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Cologne"
 description: "Aulas online de português brasileiro em Cologne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/cologne/cologne-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Colônia | Aulas online particulares e em grupo - aulas de português brasileiro com Barbara Sharon
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprenda português brasileiro em Colônia - aulas particulares e em grupo com Barbara Sharon
 
 Colônia, uma cidade vibrante da Alemanha com mais de 1 milhão de residentes, é conhecida por sua diversidade e rica trama cultural. Com 19% da população nascida no exterior, é um ambiente ideal para aprender idiomas. Embora o português não seja amplamente falado como língua nativa em Colônia, estudar português brasileiro aqui abre portas para se conectar com a dinâmica herança linguística e cultural do Brasil. Há aproximadamente 1.290 falantes de português na região, oferecendo oportunidades crescentes para praticar e mergulhar no idioma.
-
-Há aulas online de português particulares e em grupo em Colônia. Barbara Sharon oferece ensino personalizado e adaptado aos seus objetivos, combinando gramática, conversação e conhecimentos culturais. Quer você seja iniciante ou busque aprimorar suas habilidades de conversação, suas opções flexíveis de aprendizagem se adaptam à sua agenda e estilo de aprendizagem. Como professora online de português baseada em Colônia, ela oferece aulas de português brasileiro de alta qualidade de qualquer lugar da cidade.
 
 ## Por que aprender português em Colônia?
 

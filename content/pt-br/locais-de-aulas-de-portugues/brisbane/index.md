@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Brisbane"
 description: "Aulas online de português brasileiro em Brisbane, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/brisbane/brisbane-brazilian-portuguese-lesson.png
   alt_text: Aulas online de português brasileiro para alunos em Brisbane com Barbara Sharon
@@ -28,10 +28,6 @@ faq:
     answer: "Sim. As aulas são online, então você pode estudar a partir de Brisbane. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
-
-## Aulas online de português brasileiro para alunos em Brisbane
-
-Barbara Sharon oferece aulas online de português brasileiro para alunos em Brisbane. As aulas presenciais são restritas a áreas verificadas de atendimento na Gold Coast; esta página é uma página de serviço online, não uma indicação de local de ensino em Brisbane.
 
 ## Aulas online particulares e em grupo
 

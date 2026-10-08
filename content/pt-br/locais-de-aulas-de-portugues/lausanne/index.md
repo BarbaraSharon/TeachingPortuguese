@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lausanne"
 description: "Aulas online de português brasileiro em Lausanne, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/lausanne/lausanne-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -28,8 +28,6 @@ faq:
     answer: "Sim. As aulas são online, então você pode estudar a partir de Lausanne. Os horários são combinados com antecedência usando Europe/Zurich e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
-
-## Aprenda português em Lausanne, Austrália | Aulas online particulares e em grupo
 
 Lausanne, uma cidade vibrante na Suíça com uma população de mais de 150.000 residentes, oferece um excelente ambiente para aprender português. Como uma das línguas mais faladas globalmente, o português proporciona conexões valiosas com a rica cultura e economia do Brasil. Barbara Sharon traz sua experiência no ensino de idiomas para ajudar você a dominar esse idioma dinâmico por meio de aulas online particulares e em grupo, adaptadas às suas necessidades.
 

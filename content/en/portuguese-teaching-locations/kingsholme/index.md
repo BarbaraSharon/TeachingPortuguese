@@ -3,7 +3,7 @@ translationKey: location-kingsholme
 title: "Portuguese in Kingsholme: In-Person & Online"
 description: "Brazilian Portuguese lessons in Kingsholme, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/kingsholme/
 image:
@@ -51,7 +51,7 @@ Barbara Sharon is a qualified and passionate Portuguese language instructor with
 
 With her expertise, Barbara helps students navigate the nuances between Brazilian and European Portuguese, understand cultural context, and develop real-world communication skills. She offers both private and group sessions, including a speaking club for those seeking conversational fluency.
 
-Lessons are available in-person at Surfers Paradise (close to Kingsholme) or online, allowing flexibility for busy schedules. For more information or to book your session, visit our [Services](/en/portuguese-teaching-services/)page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section.
+Lessons are available in-person at Surfers Paradise (close to Kingsholme) or online, allowing flexibility for busy schedules. For more information or to book your session, visit our [Services](/en/portuguese-teaching-services/) page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese: A Global Language Worth Learning
 
 As one of the world’s most widely spoken Romance languages, Portuguese ranks as the fifth-most spoken globally, with over 267 million native speakers. It is a bridge language connecting cultures across Africa, Asia, and the Americas.

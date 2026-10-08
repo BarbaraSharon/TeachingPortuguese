@@ -3,7 +3,7 @@ translationKey: location-singapore
 title: "Online Brazilian Portuguese Lessons in Singapore"
 description: "Online Brazilian Portuguese lessons in Singapore, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/singapore/
 image:
@@ -49,9 +49,6 @@ Barbara Sharon is a certified Portuguese language instructor with extensive expe
 - Professional counselor
 
 Barbara’s approach focuses on helping students understand the differences between Brazilian and European Portuguese while building confidence in speaking, listening, reading, and writing. Whether your goal is business networking with Brazil or deepening cultural appreciation, her lessons are designed to be engaging and effective.
-
-As an online Portuguese tutor based in Singapore, Barbara offers both individual and group lessons tailored to your specific needs. Explore all services on the [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)section.
-## Portuguese as a Global Language
 
 Portuguese is the world's fifth-most spoken language and one of the most widely used Romance languages globally. With over 267 million native speakers, it connects learners to a vibrant Lusophone world that spans across Africa, Asia, and the Americas.
 

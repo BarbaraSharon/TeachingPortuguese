@@ -3,7 +3,7 @@ translationKey: location-atlanta
 title: "Online Brazilian Portuguese Lessons in Atlanta"
 description: "Online Brazilian Portuguese lessons in Atlanta, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/atlanta/
 image:
@@ -62,4 +62,4 @@ If you're searching for an effective way to learn Brazilian Portuguese in Atlant
 
 Ready to take the next step? Contact Barbara today to book a Portuguese lesson and experience firsthand how her personalized approach can transform your learning journey. You’ll feel confident speaking in Portuguese - from “ Oi, tudo bem? ” to full conversations about culture and life in Brazil!
 
-For more information or to schedule your first session, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)page.
+For more information or to schedule your first session, visit the [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/) page.

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Ormeau"
 description: "Aulas online de português brasileiro em Ormeau, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/ormeau/ormeau-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprenda português em Ormeau, Austrália - aulas particulares e online
 
 Ormeau é um vibrante bairro do norte da Gold Coast, lar de uma comunidade diversa de mais de 15.938 residentes. Com quase 29,7% da população nascida no exterior, a região oferece um rico ambiente multicultural que apoia a aprendizagem de idiomas e o intercâmbio cultural. O número crescente de famílias brasileiras e de língua portuguesa em Ormeau faz dela um local ideal para explorar a língua portuguesa e se conectar com sua cultura vibrante.
-
-Barbara Sharon oferece aulas presenciais de português em Surfers Paradise, tornando suas aulas convenientes para estudantes que moram em Ormeau. Além disso, aulas de português online estão disponíveis para quem prefere aprendizagem remota, oferecendo flexibilidade para agendas ocupadas. Quer você esteja procurando uma tutora de português na Gold Coast, aulas de português em grupo em Ormeau ou aulas de conversação em português em Ormeau, a abordagem personalizada de Barbara garante uma aprendizagem eficaz e envolvente.
 
 ## Por que aprender português em Ormeau?
 

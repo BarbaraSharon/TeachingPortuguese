@@ -3,7 +3,7 @@ translationKey: location-dubai
 title: "Online Brazilian Portuguese Lessons in Dubai"
 description: "Online Brazilian Portuguese lessons in Dubai, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/dubai/
 image:
@@ -53,7 +53,7 @@ Her lessons are carefully structured to combine grammar, vocabulary, conversatio
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.
 
-Barbara Sharon offers both individual and small group Portuguese lessons in Dubai through online platforms. You can explore her services via the [Services](/en/portuguese-teaching-services/)page or get in touch directly using the [Contact](/en/contact-portuguese-teacher/)form to schedule your first session.
+Barbara Sharon offers both individual and small group Portuguese lessons in Dubai through online platforms. You can explore her services via the [Services](/en/portuguese-teaching-services/) page or get in touch directly using the [Contact](/en/contact-portuguese-teacher/)form to schedule your first session.
 ## Start Your Portuguese Journey Today
 
 Interested in learning Portuguese in Dubai? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're looking for a Brazilian Portuguese teacher in Dubai or an online Portuguese tutor, she provides high-quality instruction tailored to your needs. Discover how Portuguese classes in Dubai can help you connect with the rich culture and global opportunities of the Lusophone world.

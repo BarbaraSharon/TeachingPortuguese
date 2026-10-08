@@ -3,7 +3,7 @@ translationKey: location-berlin
 title: "Online Brazilian Portuguese Lessons in Berlin"
 description: "Online Brazilian Portuguese lessons in Berlin, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/berlin/
 image:
@@ -46,7 +46,7 @@ Barbara Sharon brings a wealth of experience and qualifications to every lesson.
 
 Additionally, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This unique combination allows her to create a supportive, motivating environment where every student can thrive. Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language, but how to use it naturally in real-life situations. As a Portuguese teacher Berlin, she offers both individual and shared learning experiences tailored to your needs.
 
-Barbara offers online Portuguese lessons near Berlin through group and private sessions. Whether you're a beginner or advanced learner, she adapts her teaching style to meet your goals. For more information on her services, visit [Services](/en/portuguese-teaching-services/), or get in touch through our [Contact](/en/contact-portuguese-teacher/)page.
+Barbara offers online Portuguese lessons near Berlin through group and private sessions. Whether you're a beginner or advanced learner, she adapts her teaching style to meet your goals. For more information on her services, visit [Services](/en/portuguese-teaching-services/), or get in touch through our [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Lessons
 
 Flexible lesson formats include online private Portuguese tutoring and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice. Whether you're interested in learning conversational Portuguese or preparing for a trip to Brazil or Portugal, Barbara's tailored approach ensures your progress.

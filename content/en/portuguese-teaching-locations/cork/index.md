@@ -3,7 +3,7 @@ translationKey: location-cork
 title: "Online Brazilian Portuguese Lessons in Cork"
 description: "Online Brazilian Portuguese lessons in Cork, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/cork/
 image:
@@ -48,7 +48,7 @@ Barbara Sharon brings a unique blend of academic and professional qualifications
 
 Furthermore, her background as a trained counsellor, currently pursuing a Master's in Educational Studies and Behaviour Management, ensures that each student feels supported and motivated throughout their learning journey. Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping students not only learn the language but also use it naturally in real-life situations. Whether you're interested in Brazilian Portuguese lessons for beginners or conversational Portuguese classes cork, Barbara’s approach adapts to your level and goals.
 
-Barbara Sharon offers both group and private sessions online, making her Portuguese tutor services accessible to students across Cork and beyond. For more information about her teaching offerings, visit the [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)page.
+Barbara Sharon offers both group and private sessions online, making her Portuguese tutor services accessible to students across Cork and beyond. For more information about her teaching offerings, visit the [Services](/en/portuguese-teaching-services/) page or get in touch via the [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Lessons
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice. Whether you're looking for a Portuguese teacher cork or want to explore how to learn Portuguese in cork through structured lessons, Barbara Sharon provides both individual and small group instruction online.

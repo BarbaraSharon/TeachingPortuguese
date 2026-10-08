@@ -3,7 +3,7 @@ translationKey: location-johannesburg
 title: "Online Brazilian Portuguese Lessons in Johannesburg"
 description: "Online Brazilian Portuguese lessons in Johannesburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/johannesburg/
 image:
@@ -32,7 +32,7 @@ editorial_reviewed: true
 
 ## Learn Portuguese in Johannesburg | Online Classes with Barbara Sharon
 
-Johannesburg, South Africa’s largest city with a population of over 5.5 million within the city limits and more than 6.6 million in the broader metropolitan area, is a vibrant and diverse hub that makes it an ideal place to study Brazilian Portuguese . The city’s multicultural environment offers learners access to a rich cultural tapestry, with growing communities of Brazilian and Portuguese speakers creating opportunities for language exchange and cultural immersion.
+Johannesburg, South Africa’s largest city with a population of over 5.5 million within the city limits and more than 6.6 million in the broader metropolitan area, is a vibrant and diverse hub that makes it an ideal place to study Brazilian Portuguese. The city’s multicultural environment offers learners access to a rich cultural tapestry, with growing communities of Brazilian and Portuguese speakers creating opportunities for language exchange and cultural immersion.
 
 Barbara Sharon provides flexible online Portuguese lessons tailored to students in Johannesburg. Whether you're interested in private or group instruction, her personalized approach supports all levels of proficiency-from complete beginners to those aiming to enhance their conversational skills. Discover why learning Portuguese in Johannesburg is both engaging and effective through her online platform.
 ## Why Learn Portuguese in Johannesburg?
@@ -61,7 +61,7 @@ Learning Portuguese in Johannesburg gives you access to not only Brazilian cultu
 
 Online private and group Portuguese lessons are available worldwide, including for residents of Johannesburg. Barbara Sharon delivers interactive and engaging sessions using multimedia resources tailored to each student’s interests and goals.
 
-Students benefit from personalized learning experiences designed to support their language development journey. For more information about her services, visit the [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)page to schedule a lesson.
+Students benefit from personalized learning experiences designed to support their language development journey. For more information about her services, visit the [Services](/en/portuguese-teaching-services/) page or get in touch via the [Contact](/en/contact-portuguese-teacher/) page to schedule a lesson.
 ## Contact for a Portuguese Lesson
 
 Ready to start learning Portuguese in Johannesburg? Contact Barbara Sharon for a Portuguese lesson and discover how her unique teaching approach can help you achieve your language goals. Whether you’re a complete beginner or looking to advance your skills, she’s here to support your journey.

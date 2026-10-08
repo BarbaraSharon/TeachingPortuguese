@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Toulouse"
 description: "Clases online de portugués brasileño en Toulouse, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/toulouse/toulouse-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en línea con Barbara Sharon en Toulouse | Clases de portugués brasileño con Barbara Sharon
@@ -49,8 +49,6 @@ Barbara Sharon es una profesora cualificada de portugués, con amplia experienci
 - Certificación TESOL
 - Habla portugués, inglés, italiano y español
 - Orientadora
-
-Como profesora dedicada de portugués brasileño radicada en Toulouse, Barbara ofrece clases en línea flexibles y adaptadas a tus necesidades. Imparte sesiones grupales y particulares, garantizando atención personalizada para cada estudiante. Tanto si buscas mejorar conversación como prepararte para comunicarte profesionalmente con hablantes brasileños o portugueses, el enfoque de Barbara combina diversión, practicidad y conciencia cultural.
 
 Para saber más sobre sus clases, visita la página de [servicios](/es/servicios-clases-portugues/) o comunícate mediante [contacto](/es/contacto-profesora-portugues/).
 

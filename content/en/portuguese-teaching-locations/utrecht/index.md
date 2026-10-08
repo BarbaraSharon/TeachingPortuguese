@@ -3,7 +3,7 @@ translationKey: location-utrecht
 title: "Online Brazilian Portuguese Lessons in Utrecht"
 description: "Online Brazilian Portuguese lessons in Utrecht, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/utrecht/
 image:
@@ -50,7 +50,7 @@ Barbara Sharon is an experienced Portuguese language instructor with a strong ed
 
 Barbara helps students navigate the differences between Brazilian and European Portuguese, understand cultural nuances, and develop conversational skills that allow for authentic communication with native speakers. Whether you're interested in business connections with Brazil or simply want to enjoy the richness of Portuguese culture, Barbara makes learning engaging and effective.
 
-Barbara offers online Portuguese lessons for students in Utrecht, including both individual and group sessions. To learn more about her services, visit our [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
+Barbara offers online Portuguese lessons for students in Utrecht, including both individual and group sessions. To learn more about her services, visit our [Services](/en/portuguese-teaching-services/) page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language
 
 As one of the most widely spoken Romance languages globally, Portuguese is an important international lingua franca. With over 267 million native speakers, it connects people across Africa, Asia, and the Americas.
@@ -62,4 +62,4 @@ Barbara Sharon delivers high-quality online Portuguese lessons designed specific
 
 Our interactive online lessons use multimedia resources, real-life content, and personalized materials to make learning engaging and effective. You'll explore Portuguese culture through authentic texts, audio clips, videos, and more - all tailored to your interests and goals.
 
-To find out more about Portuguese tutoring in Utrecht or to schedule a session, visit our [Services](/en/portuguese-teaching-services/)page or reach out directly using the [Contact](/en/contact-portuguese-teacher/)section. ¡Vamos a aprender português!
+To find out more about Portuguese tutoring in Utrecht or to schedule a session, visit our [Services](/en/portuguese-teaching-services/) page or reach out directly using the [Contact](/en/contact-portuguese-teacher/)section. ¡Vamos a aprender português!

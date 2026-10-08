@@ -1,0 +1,3 @@
+# Pagefind emits significant trailing whitespace inside JavaScript template literals.
+# Keep the generated bundle intact while checking authored source normally.
+public/pagefind/pagefind-component-ui.js -whitespace

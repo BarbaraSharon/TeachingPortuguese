@@ -3,7 +3,7 @@ translationKey: location-mermaid-beach
 title: "Portuguese in Mermaid Beach: In-Person & Online"
 description: "Portuguese lessons in Mermaid Beach: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/mermaid-beach/
 image:
@@ -42,12 +42,6 @@ Mermaid Beach's multicultural vibe, combined with its proximity to the bustling 
 The area's international character makes it an excellent place to immerse yourself in the study of Brazilian Portuguese, which extends beyond Brazil to include influences from Africa, Asia, and the Americas. Learning Portuguese in Mermaid Beach allows you to connect with a rich linguistic tradition that's both globally relevant and culturally diverse. "Aprender português é como abrir um livro de histórias" - learning Portuguese is like opening a book of stories.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
-Barbara Sharon is a qualified Brazilian Portuguese teacher based in Mermaid Beach, with extensive experience teaching Brazilian Portuguese. Her educational background includes:
-- Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
-- TESOL certified
-- Speaks Portuguese, English, Italian, Spanish
-- Counsellor
-
 With her expertise, Barbara can guide you through the nuances between Brazilian and European Portuguese, provide cultural context, and help develop conversational skills that enable authentic communication. She offers both private and group instruction as well as a speaking club for those who want to practice in a supportive setting. Whether you're starting with beginner Portuguese lessons or advancing your skills, her personalized approach ensures meaningful progress.
 ## Portuguese: A Global Language
 
@@ -59,4 +53,4 @@ Barbara Sharon offers online Portuguese tutor services right from Mermaid Beach.
 Barbara caters to diverse learning needs with group Portuguese lessons in Mermaid Beach and private tutoring sessions. Her flexible scheduling allows students to choose between online Portuguese tutor options or in-person classes near Mermaid Beach. For those looking to practice conversation, her speaking club provides a casual environment to build confidence and fluency.
 ## Contact for a Portuguese Lesson
 
-Interested in learning Portuguese in Mermaid Beach? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can learn more about her services or reach out directly through the [services](/en/portuguese-teaching-services/)page or the [contact page](/en/contact-portuguese-teacher/).
+Interested in learning Portuguese in Mermaid Beach? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can learn more about her services or reach out directly through the [services](/en/portuguese-teaching-services/) page or the [contact page](/en/contact-portuguese-teacher/).

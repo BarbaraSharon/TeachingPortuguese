@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Oslo"
 description: "Clases online de portugués brasileño en Oslo, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/oslo/oslo-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Oslo | Clases particulares y grupales en línea con Barbara Sharon
@@ -66,8 +66,6 @@ Estudiar el idioma también abre la puerta a las ricas tradiciones literarias, m
 ## Viajes y vínculos comerciales con Brasil
 
 La comunidad brasileña de Oslo ha aumentado su presencia durante las últimas décadas. Las empresas noruegas colaboran cada vez más con socios brasileños, por lo que saber portugués es valioso para el desarrollo profesional.
-
-El estatus de Oslo como ciudad regional clave la convierte en una excelente puerta de entrada para viajar a otros países lusófonos de Sudamérica, incluidos Brasil y Portugal. Los vínculos empresariales de Noruega con Brasil mediante acuerdos comerciales y cámaras de comercio aportan un motivo adicional para aprender por crecimiento profesional o personal.
 
 ## Clases de portugués en línea en Oslo
 

@@ -3,7 +3,7 @@ translationKey: location-montreal
 title: "Online Brazilian Portuguese Lessons in Montreal"
 description: "Online Brazilian Portuguese lessons in Montreal, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/montreal/
 image:
@@ -52,7 +52,7 @@ Barbara Sharon is a qualified Portuguese language instructor with extensive expe
 
 With her expertise, Barbara can help you navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that will allow you to engage authentically with native speakers. As a dedicated Portuguese teacher Montreal, she provides both private and group sessions online, making it easy for students from around the city to access quality instruction.
 
-For more information on her teaching services, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly through our [Contact](/en/contact-portuguese-teacher/)form to schedule a Portuguese lesson and discover how her approach can support your language goals.
+For more information on her teaching services, visit our [Services](/en/portuguese-teaching-services/) page or contact her directly through our [Contact](/en/contact-portuguese-teacher/)form to schedule a Portuguese lesson and discover how her approach can support your language goals.
 ## The Global Importance of Portuguese
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally. Montreal's growing Portuguese-speaking community, with approximately 51,580 residents, reflects this significance.
@@ -65,4 +65,4 @@ Students in Montreal can benefit from flexible scheduling and interactive learni
 Our online lessons use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals. Whether you're seeking conversational Portuguese classes Montreal or beginner Portuguese lessons, our platform supports personalized instruction that adapts to your needs. With options for private Portuguese tutor Montreal sessions or group Portuguese lessons Montreal, students can choose the format that best suits their lifestyle.
 ## Start Your Journey with a Portuguese Lesson
 
-Interested in learning Portuguese in Montreal? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can reach out via our [Contact](/en/contact-portuguese-teacher/)page to book your session today.
+Interested in learning Portuguese in Montreal? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey. You can reach out via our [Contact](/en/contact-portuguese-teacher/) page to book your session today.

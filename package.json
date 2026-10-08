@@ -6,10 +6,11 @@
   "description": "Landing page starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
     "dev": "hugo server --disableFastRender",
-    "check": "npm run locations:check && npm run city:repair:check && npm run language:routing:check && npm run metadata:check && npm run answers:check && npm run enquiry:check && npm run reviews:check && npm run content:check && npm run titles:check && npm run descriptions:check && npm run redirects:check",
-    "build": "hugo --minify --cleanDestinationDir && npm run locations:check && npm run city:repair:check && npm run language:routing:check && npm run titles:check && npm run descriptions:check && npm run pagefind && npm run redirects && npm run redirects:check && npm run metadata:check && npm run answers:check && npm run enquiry:check && npm run reviews:check && npm run content:check",
+    "check": "npm run locations:check && npm run city:repair:check && npm run location:claims:check && npm run language:routing:check && npm run metadata:check && npm run answers:check && npm run enquiry:check && npm run reviews:check && npm run content:check && npm run titles:check && npm run descriptions:check && npm run redirects:check",
+    "build": "hugo --minify --cleanDestinationDir && npm run locations:check && npm run city:repair:check && npm run location:claims:check && npm run language:routing:check && npm run titles:check && npm run descriptions:check && npm run pagefind && npm run redirects && npm run redirects:check && npm run metadata:check && npm run answers:check && npm run enquiry:check && npm run reviews:check && npm run content:check",
     "locations:check": "node scripts/check-locations.mjs",
     "city:repair:check": "node scripts/check-city-repair.mjs",
+    "location:claims:check": "node scripts/check-location-claims.mjs",
     "language:routing:check": "node scripts/check-language-routing.mjs",
     "metadata:check": "node scripts/check-generated-metadata.mjs",
     "answers:check": "node scripts/check-answer-pages.mjs",

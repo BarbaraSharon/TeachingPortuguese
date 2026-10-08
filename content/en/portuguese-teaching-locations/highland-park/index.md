@@ -3,7 +3,7 @@ translationKey: location-highland-park
 title: "Portuguese in Highland Park: In-Person & Online"
 description: "Portuguese lessons in Highland Park: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/highland-park/
 image:
@@ -54,4 +54,4 @@ In-person Portuguese lessons are held in Surfers Paradise, making it convenient 
 
 Ready to begin learning Portuguese in Highland Park? Book a Portuguese lesson with Barbara Sharon and discover how easy it is to start speaking Brazilian Portuguese. Whether you want beginner Portuguese lessons Highland Park or advanced conversation coaching, her personalized approach helps you reach your goals.
 
-To learn more about her services, visit the [Services](/en/portuguese-teaching-services/)page or contact her directly through the [Contact](/en/contact-portuguese-teacher/)page. Find a Portuguese tutor near me Highland Park who can guide you toward fluency and cultural understanding.
+To learn more about her services, visit the [Services](/en/portuguese-teaching-services/) page or contact her directly through the [Contact](/en/contact-portuguese-teacher/) page. Find a Portuguese tutor near me Highland Park who can guide you toward fluency and cultural understanding.

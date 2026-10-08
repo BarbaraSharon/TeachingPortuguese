@@ -25,9 +25,9 @@ const expectedIntents = new Set([
   "unspecified",
 ]);
 const languagePages = [
-  {code: "en", path: "en/contact-portuguese-teacher/index.html"},
-  {code: "es", path: "es/contacto-profesora-portugues/index.html"},
-  {code: "pt-br", path: "pt-br/contato-professora-portugues/index.html"},
+  {code: "en", path: "en/contact-portuguese-teacher/index.html", privatePath: "en/portuguese-teaching-services/portuguese-tutoring-gold-coast/index.html"},
+  {code: "es", path: "es/contacto-profesora-portugues/index.html", privatePath: "es/servicios-clases-portugues/clases-particulares-portugues-gold-coast/index.html"},
+  {code: "pt-br", path: "pt-br/contato-professora-portugues/index.html", privatePath: "pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/index.html"},
 ];
 
 function decodeHtml(value) {
@@ -53,6 +53,35 @@ function attribute(tag, name) {
 
 function anchorTags(html) {
   return [...String(html).matchAll(/<a\b[^>]*>/gi)].map((match) => match[0]);
+}
+
+function mailtoFields(href) {
+  // Mail clients URI-decode fields; URLSearchParams would incorrectly treat
+  // unescaped '+' as a space and hide a broken mailto serialization.
+  return Object.fromEntries(new URL(href).search.slice(1).split("&").filter(Boolean).map((field) => {
+    const separator = field.indexOf("=");
+    assert.ok(separator >= 0, `mailto field has no value: ${field}`);
+    return [decodeURIComponent(field.slice(0, separator)), decodeURIComponent(field.slice(separator + 1))];
+  }));
+}
+
+function privatePricingJourneys(language, privatePath, contactPath) {
+  const htmlPath = path.join(publicDir, privatePath);
+  assert.ok(fs.existsSync(htmlPath), `generated ${language} private service page is missing`);
+  const html = fs.readFileSync(htmlPath, "utf8");
+  const privateOffers = ["private_4_week", "private_casual"];
+  const tags = anchorTags(html).filter((tag) => privateOffers.includes(attribute(tag, "data-enquiry-offer")));
+  assert.equal(tags.length, 2, `${language} private service must retain two private pricing journeys`);
+  assert.deepEqual(tags.map((tag) => attribute(tag, "data-enquiry-offer")).sort(), [...privateOffers].sort(), `${language} private pricing offers are incorrect`);
+  return tags.map((tag) => {
+    const offerId = attribute(tag, "data-enquiry-offer");
+    const url = new URL(attribute(tag, "href"), "https://barbarasharon.com.au/");
+    assert.equal(attribute(tag, "data-enquiry-intent"), "private", `${language} ${offerId} must allow online and in-person enquiries`);
+    assert.equal(attribute(tag, "data-lesson-format"), "private", `${language} ${offerId} analytics must allow both delivery modes`);
+    assert.equal(url.pathname, `/${contactPath.replace(/index\.html$/, "")}`, `${language} ${offerId} must lead to its localized Contact page`);
+    assert.equal(url.hash, `#enquiry-private-${offerId}`, `${language} ${offerId} must preserve the generic private context`);
+    return {offerId, hash: url.hash};
+  });
 }
 
 function channelForHref(href) {
@@ -156,7 +185,7 @@ function makeAnchorFromTag(tag) {
   return new SimAnchor(href, attribute(tag, "data-lesson-format") || "unspecified");
 }
 
-function makeSimulation({html, registry, enquirySource, analyticsSource, language, pagePath, rejected = false}) {
+function makeSimulation({html, registry, enquirySource, analyticsSource, language, pagePath, privateJourneys, rejected = false}) {
   const footerIndex = html.indexOf("<footer");
   assert.ok(footerIndex >= 0, `${language} generated Contact page is missing its footer`);
   const infoTags = anchorTags(html.slice(0, footerIndex)).filter((tag) => attribute(tag, "data-contact-action") && channelForHref(attribute(tag, "href")));
@@ -171,7 +200,7 @@ function makeSimulation({html, registry, enquirySource, analyticsSource, languag
   const anchors = [...infoAnchors, ...footerAnchors];
   const preservedParamAnchor = new SimAnchor("https://wa.me/61493837828?text=Original%20message&source=checker", "unspecified");
   const unsupportedWhatsappAnchor = new SimAnchor("https://example-wa.me/61493837828?text=Original%20message", "unspecified");
-  const explicitlyFormattedAnchor = new SimAnchor("mailto:info@barbarasharon.com.au", "private");
+  const explicitlyFormattedAnchor = new SimAnchor("mailto:info+lessons@barbarasharon.com.au?cc=assistant+lessons%40example.com&source=level%20A%2BB&subject=Original%20subject&body=Original+message", "private");
   anchors.push(preservedParamAnchor, unsupportedWhatsappAnchor, explicitlyFormattedAnchor);
   const originals = [...infoAnchors, ...footerAnchors, preservedParamAnchor, explicitlyFormattedAnchor].map((anchor) => ({
     anchor,
@@ -274,15 +303,16 @@ function makeSimulation({html, registry, enquirySource, analyticsSource, languag
   while (animationFrames.length) animationFrames.shift()();
 
   const assertContextApplied = (intent, offerId) => {
+    const expectedMessage = `${registry.greeting} ${registry.instructions[intent]} ${registry.selectedPrefix} ${registry.offers[offerId]}.`;
     for (const {anchor, href} of originals) {
       const channel = channelForHref(href);
       assert.equal(anchor.getAttribute("data-lesson-format"), intent, `${language} ${channel} did not receive ${intent}`);
       if (channel === "phone") {
         assert.equal(anchor.getAttribute("href"), href, `${language} phone href was changed`);
       } else if (channel === "email") {
-        const url = new URL(anchor.getAttribute("href"));
-        assert.equal(url.searchParams.get("subject"), registry.emailSubject, `${language} email subject is wrong`);
-        assert.match(url.searchParams.get("body") || "", new RegExp(escapeRegExp(registry.offers[offerId])));
+        const fields = mailtoFields(anchor.getAttribute("href"));
+        assert.equal(fields.subject, registry.emailSubject, `${language} URI-decoded email subject is wrong`);
+        assert.equal(fields.body, expectedMessage, `${language} URI-decoded email body is wrong`);
       } else if (channel === "whatsapp") {
         const url = new URL(anchor.getAttribute("href"));
         assert.match(url.searchParams.get("text") || "", new RegExp(escapeRegExp(registry.offers[offerId])));
@@ -290,6 +320,11 @@ function makeSimulation({html, registry, enquirySource, analyticsSource, languag
     }
     const preservedUrl = new URL(preservedParamAnchor.getAttribute("href"));
     assert.equal(preservedUrl.searchParams.get("source"), "checker", `${language} WhatsApp unrelated parameter was lost`);
+    const preservedEmail = new URL(explicitlyFormattedAnchor.getAttribute("href"));
+    const fields = mailtoFields(preservedEmail.href);
+    assert.equal(preservedEmail.pathname, "info+lessons@barbarasharon.com.au", `${language} email recipient plus was lost`);
+    assert.equal(fields.cc, "assistant+lessons@example.com", `${language} email cc literal plus was lost`);
+    assert.equal(fields.source, "level A+B", `${language} email unrelated parameter was changed`);
     assert.equal(unsupportedWhatsappAnchor.getAttribute("href"), "https://example-wa.me/61493837828?text=Original%20message", `${language} unsupported WhatsApp host was changed`);
     assert.equal(summary.hidden, false, `${language} selection summary was not shown`);
   };
@@ -315,6 +350,11 @@ function makeSimulation({html, registry, enquirySource, analyticsSource, languag
   assertRestored();
   setHash("#enquiry-private-term_10_week", "popstate");
   assertContextApplied("private", "term_10_week");
+  for (const {hash, offerId} of privateJourneys) {
+    setHash(hash);
+    assertContextApplied("private", offerId);
+    assert.equal(summary.textContent, `${registry.selectedPrefix} ${registry.offers[offerId]}. ${registry.instructions.private}`, `${language} private pricing journey must ask for a delivery preference`);
+  }
   setHash("#enquiry-group-term_10_week", "popstate");
   assertContextApplied("group", "term_10_week");
   setHash("#enquiry-group-term_10_week", "pageshow");
@@ -349,13 +389,14 @@ function escapeRegExp(value) {
   return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-const generated = languagePages.map(({code, path: relativePath}) => {
+const generated = languagePages.map(({code, path: relativePath, privatePath}) => {
   const htmlPath = path.join(publicDir, relativePath);
   assert.ok(fs.existsSync(htmlPath), `generated ${code} Contact page is missing`);
   const html = fs.readFileSync(htmlPath, "utf8");
   const enquiryAsset = readGeneratedAsset(html, "enquiry-context");
   const analyticsAsset = readGeneratedAsset(html, "analytics-consent");
   const registry = readRegistry(html);
+  const privateJourneys = privatePricingJourneys(code, privatePath, relativePath);
   assertRegistry(registry, code);
   assert.match(enquiryAsset.source, /WeakMap/, `${code} enquiry script does not preserve original anchor state with WeakMap`);
   assert.match(enquiryAsset.source, /pageshow/, `${code} enquiry script does not handle restored pages`);
@@ -364,8 +405,10 @@ const generated = languagePages.map(({code, path: relativePath}) => {
     assert.match(enquiryAsset.source, new RegExp(host.replace(".", "\\.")), `${code} enquiry script is missing the ${host} host`);
   }
   const pagePath = `/${relativePath.replace(/\/index\.html$/, "")}`;
-  makeSimulation({html, registry, enquirySource: enquiryAsset.source, analyticsSource: analyticsAsset.source, language: code, pagePath});
-  makeSimulation({html, registry, enquirySource: enquiryAsset.source, analyticsSource: analyticsAsset.source, language: code, pagePath, rejected: true});
+  const simulation = {html, registry, enquirySource: enquiryAsset.source, analyticsSource: analyticsAsset.source, language: code, pagePath, privateJourneys};
+  makeSimulation(simulation);
+  makeSimulation({...simulation, rejected: true});
+  makeSimulation({...simulation, registry: {...registry, greeting: `${registry.greeting} A+B`, emailSubject: `${registry.emailSubject} + A&B`}});
   return {code, html};
 });
 
@@ -398,4 +441,4 @@ for (const htmlPath of allHtml) {
 for (const [code, count] of journeyCounts) assert.equal(count, 4, `${code} must retain four A$290 journeys`);
 assert.equal([...journeyCounts.values()].reduce((sum, count) => sum + count, 0), 12, "all three languages must retain twelve A$290 journeys");
 
-console.log("Enquiry context checks passed: canonical registry, 12 A$290 journeys, all contact channels, deferred hero rendering, history restoration, and consent-gated analytics.");
+console.log("Enquiry context checks passed: canonical registry, 12 A$290 and six private pricing journeys, URI-encoded email text, all contact channels, deferred hero rendering, history restoration, and consent-gated analytics.");

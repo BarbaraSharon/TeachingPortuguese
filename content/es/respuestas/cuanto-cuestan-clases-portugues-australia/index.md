@@ -7,7 +7,7 @@ question: "¿Cuánto cuestan las clases de portugués en Australia?"
 direct_answer: "Los precios actuales de Barbara parten de [[term_10_week_price]] por estudiante para un curso grupal de 10 semanas y de [[private_4_week_price]] para un paquete privado de 4 semanas. Ambas opciones están disponibles online en todo el mundo y dependen de la disponibilidad actual en Gold Coast. Todos los precios están en dólares australianos; confirma el paquete y sus detalles con Barbara antes de reservar."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: 2026-09-09
 weight: 70
 robots: index, follow, max-image-preview:large
 image:

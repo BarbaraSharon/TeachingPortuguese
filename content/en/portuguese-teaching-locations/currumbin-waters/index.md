@@ -3,7 +3,7 @@ translationKey: location-currumbin-waters
 title: "Portuguese in Currumbin Waters: In-Person & Online"
 description: "Portuguese lessons in Currumbin Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/currumbin-waters/
 image:
@@ -43,7 +43,7 @@ Events such as those hosted by the Abrasso (Australia Brazil Association) take p
 
 Brazil, the world’s largest Portuguese-speaking country, offers rich cultural insights beyond grammar and vocabulary. From music and cinema to literature and social customs, learning Brazilian Portuguese gives you a deeper understanding of this vibrant culture. Whether you're planning travel, exploring career opportunities, or connecting with Brazilian heritage, mastering this dynamic language opens many doors.
 
-Additional cultural immersion can be found through events like Solstice Brazil: BaianaSystem at HOTA (Gold Coast) and Superordinary's Samba Brazilian Festival . The annual Brazilian Carnival Festival in Australia also creates a vibrant environment for learners to experience the joy of Portuguese-speaking culture firsthand. Whether you're seeking conversational classes or structured lessons, Currumbin Waters provides an ideal community setting for language acquisition.
+Additional cultural immersion can be found through events like Solstice Brazil: BaianaSystem at HOTA (Gold Coast) and Superordinary's Samba Brazilian Festival. The annual Brazilian Carnival Festival in Australia also creates a vibrant environment for learners to experience the joy of Portuguese-speaking culture firsthand. Whether you're seeking conversational classes or structured lessons, Currumbin Waters provides an ideal community setting for language acquisition.
 ## How Barbara Sharon Can Help You Learn Portuguese
 
 Barbara Sharon brings a strong academic background and practical teaching experience to your Portuguese learning journey. She holds a Bachelor’s degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ), giving her deep insight into Brazilian culture and language nuances.
@@ -62,4 +62,4 @@ Barbara Sharon’s in-person Portuguese lessons in Currumbin Waters take place i
 
 Ready to begin your journey in learning Brazilian Portuguese in Currumbin Waters? Book a Portuguese lesson with Barbara Sharon and discover how personalized instruction can help you reach your goals faster. Whether you're searching for a Portuguese tutor near you or want to explore what Brazilian Portuguese lessons have to offer, she’s here to guide you every step of the way.
 
-With access to local cultural events and a teaching approach designed to build confidence, mastering Portuguese in this area offers unique advantages. To learn more about her teaching style and services, visit the [Contact](/en/contact-portuguese-teacher/)page or call today for a consultation.
+With access to local cultural events and a teaching approach designed to build confidence, mastering Portuguese in this area offers unique advantages. To learn more about her teaching style and services, visit the [Contact](/en/contact-portuguese-teacher/) page or call today for a consultation.

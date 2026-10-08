@@ -3,7 +3,7 @@ translationKey: location-augsburg
 title: "Online Brazilian Portuguese Lessons in Augsburg"
 description: "Online Brazilian Portuguese lessons in Augsburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/augsburg/
 image:
@@ -49,7 +49,7 @@ As a trained counselor currently pursuing a Master’s degree in Educational Stu
 
 Barbara Sharon delivers engaging and effective Portuguese lessons through online private and group sessions. Private lessons offer one-on-one attention tailored to your specific goals, while group classes provide collaborative learning and peer interaction. Both formats include structured grammar, vocabulary building, and conversational practice designed to build confidence.
 
-If you're searching for a Portuguese teacher in Augsburg , Barbara Sharon delivers accessible, high-quality online instruction that fits around your schedule. Whether you want private Portuguese tutor sessions or group Portuguese classes , her expertise ensures a rewarding learning experience. Explore available options on the [Services](/en/portuguese-teaching-services/)page or reach out through the [Contact](/en/contact-portuguese-teacher/)page to get started.
+If you're searching for a Portuguese teacher in Augsburg, Barbara Sharon delivers accessible, high-quality online instruction that fits around your schedule. Whether you want private Portuguese tutor sessions or group Portuguese classes, her expertise ensures a rewarding learning experience. Explore available options on the [Services](/en/portuguese-teaching-services/) page or reach out through the [Contact](/en/contact-portuguese-teacher/) page to get started.
 ## Start Your Journey Today - Learn Brazilian Portuguese in Augsburg
 
-Ready to take your Portuguese journey forward? Book a Portuguese lesson with Barbara Sharon and experience how effective teaching can accelerate your language growth. With online Portuguese lessons in Augsburg , it’s never been easier to begin or continue learning. Visit our [Services](/en/portuguese-teaching-services/)page or contact us via the [Contact](/en/contact-portuguese-teacher/)page to start your journey today!
+Ready to take your Portuguese journey forward? Book a Portuguese lesson with Barbara Sharon and experience how effective teaching can accelerate your language growth. With online Portuguese lessons in Augsburg, it’s never been easier to begin or continue learning. Visit our [Services](/en/portuguese-teaching-services/) page or contact us via the [Contact](/en/contact-portuguese-teacher/) page to start your journey today!

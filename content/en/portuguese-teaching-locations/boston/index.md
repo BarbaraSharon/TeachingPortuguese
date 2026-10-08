@@ -3,7 +3,7 @@ translationKey: location-boston
 title: "Online Brazilian Portuguese Lessons in Boston"
 description: "Online Brazilian Portuguese lessons in Boston, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/boston/
 image:
@@ -50,14 +50,14 @@ A certified TESOL instructor, Barbara uses innovative teaching methods suited to
 
 As a trained counselor currently pursuing a Master's in Educational Studies and Behaviour Management, Barbara creates a supportive and motivating environment where students feel confident to express themselves in Portuguese. Her lessons blend grammar, vocabulary, conversation, and cultural insights-helping you not only speak but also understand the rhythm of Brazilian communication.
 
-Whether you're looking for a Brazilian Portuguese teacher or an online Portuguese tutor near Boston , Barbara's virtual classroom offers flexibility, convenience, and personalized attention that fits your schedule and learning goals.
+Whether you're looking for a Brazilian Portuguese teacher or an online Portuguese tutor near Boston, Barbara's virtual classroom offers flexibility, convenience, and personalized attention that fits your schedule and learning goals.
 ## Private & Group Lessons - Choose What Works Best for You
 
 Barbara Sharon provides flexible lesson formats to suit all learners. Whether you prefer one-on-one private tutoring or interactive group sessions, she adapts her approach to ensure maximum engagement and progress.
 
 Her online classes accommodate beginners through advanced learners, with personalized curricula designed around your interests and goals. Private lessons offer focused attention, while group sessions encourage peer interaction and real-life conversation practice.
 
-To explore services or schedule a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)section. Start your Brazilian Portuguese journey today!
+To explore services or schedule a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/) page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)section. Start your Brazilian Portuguese journey today!
 ## Begin Your Journey to Fluency in Boston Today
 
 Ready to learn or improve your Brazilian Portuguese? Contact Barbara Sharon for a Portuguese lesson and take the first step toward fluency with confidence. With expert instruction, engaging content, and a supportive learning environment, you'll be speaking naturally in no time!

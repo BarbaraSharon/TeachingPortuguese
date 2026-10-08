@@ -3,7 +3,7 @@ translationKey: location-currumbin-valley
 title: "Portuguese in Currumbin Valley: In-Person & Online"
 description: "Portuguese lessons in Currumbin Valley: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/currumbin-valley/
 image:
@@ -60,6 +60,6 @@ In-person lessons take place in Surfers Paradise, just a short drive from Currum
 Whether you're looking for Brazilian Portuguese teacher services near Currumbin Valley or conversational Portuguese classes, Barbara's dynamic approach ensures a rewarding and engaging experience. Her offerings include private lessons tailored to individual goals and group sessions that promote community and cultural exchange.
 ## Start Your Portuguese Journey Today!
 
-Ready to learn Brazilian Portuguese in Currumbin Valley? Reach out to Barbara Sharon today to explore Portuguese tutor Gold Coast services, group lessons, or online instruction. You can also discover more about her offerings on the [Services](/en/portuguese-teaching-services/)page and book a Portuguese lesson through the [Contact](/en/contact-portuguese-teacher/)section.
+Ready to learn Brazilian Portuguese in Currumbin Valley? Reach out to Barbara Sharon today to explore Portuguese tutor Gold Coast services, group lessons, or online instruction. You can also discover more about her offerings on the [Services](/en/portuguese-teaching-services/) page and book a Portuguese lesson through the [Contact](/en/contact-portuguese-teacher/)section.
 
 With Portuguese lessons Gold Coast available both in-person and online, Barbara Sharon makes it easy to begin your language learning journey. Whether you're looking for beginner-friendly Portuguese classes or advanced conversational skills, her expert guidance will support your success in mastering Brazilian Portuguese.

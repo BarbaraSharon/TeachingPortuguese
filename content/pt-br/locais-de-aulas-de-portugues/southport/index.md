@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Southport"
 description: "Aulas online de português brasileiro em Southport, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/southport/southport-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -33,8 +33,6 @@ editorial_reviewed: true
 
 Southport é um subúrbio vibrante na extremidade norte da Gold Coast, com mais de 36.786 residentes segundo o censo de 2021. Com 44,8% da população nascida no exterior, a área oferece uma atmosfera internacional que apoia o aprendizado de idiomas e o intercâmbio cultural. O ambiente multicultural faz dela um lugar ideal para alunos interessados em explorar a cultura e o idioma portugueses. Quer você esteja procurando aulas de português em Southport ou opções de professora particular de português online, Barbara Sharon oferece soluções flexíveis adaptadas às suas necessidades.
 
-Há aulas de português presenciais disponíveis em Surfers Paradise, o que as torna convenientes para alunos que moram em Southport. Também são oferecidas sessões online com professora particular de português, garantindo que você possa aprender no seu ritmo, de qualquer lugar. Com aulas de português particulares e em grupo, incluindo opções de clube de conversação, Barbara Sharon atende a todas as preferências de aprendizagem. Saiba mais sobre os serviços disponíveis na página de [Serviços](/pt-br/aulas-de-portugues/).
-
 ## Por que aprender português em Southport?
 
 O caráter internacional de Southport faz dela um lugar ideal para começar a aprender português. Embora localizada na Austrália, a cidade se beneficia de uma comunidade multicultural que apoia diversas iniciativas linguísticas. O crescente interesse pela cultura brasileira é evidente por meio de eventos locais como Brazilian Social Dance Workshops, eventos BBQ and Zouk Social, oficinas de fusão de dança Forrofieira e Rio Carnival Samba Dance Classes. Essas atividades proporcionam oportunidades únicas de vivenciar em primeira mão as tradições de língua portuguesa.
@@ -51,8 +49,6 @@ Barbara Sharon é uma professora qualificada de português brasileiro, com ampla
 - Orientadora
 
 Com sua experiência, Barbara pode ajudar você a compreender as diferenças entre o português brasileiro e o europeu, entender o contexto cultural e desenvolver habilidades de conversação que permitirão que você interaja de forma autêntica com falantes nativos. Quer você esteja interessado em conexões profissionais com o Brasil ou simplesmente queira apreciar a cultura portuguesa, a abordagem de Barbara torna o aprendizado agradável e eficaz.
-
-Barbara oferece aulas de português particulares e em grupo, incluindo sessões de clube de conversação para quem deseja praticar habilidades de fala. Suas aulas são concebidas para todos os níveis, de iniciantes a alunos avançados, e podem ser realizadas presencialmente em Surfers Paradise ou online. Encontre uma professora particular de português em Southport que compreende seus objetivos explorando seus serviços na página de [Serviços](/pt-br/aulas-de-portugues/).
 
 Para reservar uma sessão ou saber mais, visite a página [Contato](/pt-br/contato-professora-portugues/).
 

@@ -3,7 +3,7 @@ translationKey: location-the-hague
 title: "Online Brazilian Portuguese Lessons in The Hague"
 description: "Online Brazilian Portuguese lessons in The Hague, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/the-hague/
 image:
@@ -62,4 +62,4 @@ Take advantage of convenient online Portuguese lessons in The Hague, whether you
 
 Her courses use multimedia resources and real-life content to make learning effective and enjoyable. You'll receive personalized materials aligned with your specific interests, whether that's mastering business vocabulary, exploring popular Brazilian music, or preparing for cultural events.
 
-For those wondering "where can I find a Portuguese tutor near me in The Hague?", Barbara Sharon offers flexible scheduling and tailored lessons designed to meet your unique learning goals. Explore her offerings at [Services](/en/portuguese-teaching-services/)or get in touch directly through our [Contact](/en/contact-portuguese-teacher/)page.
+For those wondering "where can I find a Portuguese tutor near me in The Hague?", Barbara Sharon offers flexible scheduling and tailored lessons designed to meet your unique learning goals. Explore her offerings at [Services](/en/portuguese-teaching-services/) or get in touch directly through our [Contact](/en/contact-portuguese-teacher/) page.

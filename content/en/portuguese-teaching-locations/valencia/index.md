@@ -3,7 +3,7 @@ translationKey: location-valencia
 title: "Online Brazilian Portuguese Lessons in Valencia"
 description: "Online Brazilian Portuguese lessons in Valencia, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/valencia/
 image:
@@ -46,7 +46,7 @@ Barbara Sharon is a qualified Brazilian Portuguese teacher valencia who speciali
 
 Whether you're interested in Brazilian Portuguese lessons valencia or seeking a private Portuguese tutor valencia, Barbara offers both group and individual sessions online. She focuses on building confidence through authentic communication practices and real-life scenarios that reflect how native speakers use the language. With her expertise, you can develop the ability to engage authentically with native speakers, whether for personal interest, professional development, or travel.
 
-Learn more about her services by visiting our [Services](/en/portuguese-teaching-services/)page or get in touch directly through our [Contact](/en/contact-portuguese-teacher/)section to schedule your first lesson.
+Learn more about her services by visiting our [Services](/en/portuguese-teaching-services/) page or get in touch directly through our [Contact](/en/contact-portuguese-teacher/)section to schedule your first lesson.
 ## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca with over 267 million native speakers. It has been shaped by influences from Africa, Asia, and the Americas, making it a fascinating subject for study. In Valencia, where international connections are strong, learning Portuguese opens doors to business opportunities and cultural exchange.

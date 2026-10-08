@@ -3,7 +3,7 @@ translationKey: location-coombabah
 title: "Portuguese in Coombabah: In-Person & Online"
 description: "Brazilian Portuguese lessons in Coombabah, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/coombabah/
 image:
@@ -54,4 +54,4 @@ Barbara Sharon provides versatile learning solutions including online Portuguese
 Private lessons offer one-on-one guidance tailored to your specific goals, while group sessions foster interaction and peer learning in a fun, encouraging atmosphere. For those looking to improve conversational skills, our speaking clubs and interactive Portuguese classes Coombabah are ideal. Whether you’re searching for a Portuguese tutor near me or want flexible Brazilian Portuguese lessons Coombabah, we have the right solution for your schedule.
 ## Start Your Portuguese Journey Today
 
-Ready to begin learning Portuguese in Coombabah? Book a Portuguese lesson with Barbara Sharon and discover how our Portuguese classes can open doors to new opportunities. Explore our [Services](/en/portuguese-teaching-services/)or contact us directly through the [Contact](/en/contact-portuguese-teacher/)section.
+Ready to begin learning Portuguese in Coombabah? Book a Portuguese lesson with Barbara Sharon and discover how our Portuguese classes can open doors to new opportunities. Explore our [Services](/en/portuguese-teaching-services/) or contact us directly through the [Contact](/en/contact-portuguese-teacher/)section.

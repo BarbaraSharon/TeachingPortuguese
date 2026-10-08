@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Portugués en Mermaid Beach: Presenciales y Online"
 description: "Clases de portugués en Mermaid Beach: opciones presenciales en Gold Coast y online, privadas o en grupo, sujetas a confirmación."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/mermaid-beach/mermaid-beach-brazilian-portuguese-tutor.png
   alt_text: "Clases de portugués brasileño en Mermaid Beach: opciones online y presenciales en Gold Coast con Barbara Sharon"
@@ -40,8 +40,6 @@ La atmósfera multicultural de Mermaid Beach, combinada con su cercanía a la an
 
 El carácter internacional de la zona la convierte en un lugar excelente para sumergirse en el estudio del portugués brasileño, que va más allá de Brasil e incluye influencias de África, Asia y América. Aprender portugués en Mermaid Beach permite conectar con una tradición lingüística rica, globalmente relevante y culturalmente diversa. “Aprender português é como abrir um livro de histórias”: aprender portugués es como abrir un libro de historias.
 ## Cómo puede ayudarte Barbara Sharon
-
-Barbara Sharon es una profesora cualificada de portugués brasileño radicada en Mermaid Beach, con amplia experiencia en portugués brasileño. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

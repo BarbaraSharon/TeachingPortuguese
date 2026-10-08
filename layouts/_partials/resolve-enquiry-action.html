@@ -11,7 +11,7 @@
   {{- else if or (in $path "school") (in $path "group") (in $path "escola") (in $path "escuela") -}}
     {{- $intent = "gold_coast_group" -}}
   {{- else if or (in $path "tutoring") (in $path "private") (in $path "particular") (in $path "particulares") -}}
-    {{- $intent = "gold_coast_private" -}}
+    {{- $intent = "private" -}}
   {{- else if hasPrefix $offerID "term_" -}}
     {{- $intent = "group" -}}
   {{- else if hasPrefix $offerID "private_" -}}

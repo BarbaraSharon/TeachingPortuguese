@@ -3,7 +3,7 @@ translationKey: location-austinville
 title: "Portuguese in Austinville: In-Person & Online"
 description: "Brazilian Portuguese lessons in Austinville, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/austinville/
 image:
@@ -60,6 +60,6 @@ Her lessons are conveniently held in Surfers Paradise, making them accessible fo
 For additional speaking practice, Barbara also organizes a Brazilian Portuguese-speaking club that meets regularly. This informal setting helps build confidence and fluency through casual conversation and cultural exchange.
 ## Start Your Portuguese Journey Today
 
-Ready to learn Portuguese in Austinville? Contact Barbara Sharon for a Portuguese lesson and begin your language journey today! Explore her [services](/en/portuguese-teaching-services/)or reach out via the [contact page](/en/contact-portuguese-teacher/).
+Ready to learn Portuguese in Austinville? Contact Barbara Sharon for a Portuguese lesson and begin your language journey today! Explore her [services](/en/portuguese-teaching-services/) or reach out via the [contact page](/en/contact-portuguese-teacher/).
 
 “Aprender português é uma experiência transformadora. Comece hoje!”

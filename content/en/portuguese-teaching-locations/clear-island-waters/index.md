@@ -3,7 +3,7 @@ translationKey: location-clear-island-waters
 title: "Portuguese in Clear Island Waters: In-Person & Online"
 description: "Portuguese lessons in Clear Island Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/clear-island-waters/
 image:
@@ -53,7 +53,7 @@ Each lesson combines grammar, vocabulary, conversation, and cultural awareness t
 
 Barbara Sharon offers flexible lesson formats including in-person classes, online sessions, and group lessons. All levels are welcome-from absolute beginners to advanced speakers. Private lessons provide personalized attention, while group settings encourage social interaction and peer learning.
 
-Learners in Clear Island Waters can attend in-person Portuguese lessons in Surfers Paradise or opt for remote instruction via video call. For those seeking an immersive experience, she also hosts speaking clubs that promote natural conversation and cultural exchange. To learn more about her teaching services, visit the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.
+Learners in Clear Island Waters can attend in-person Portuguese lessons in Surfers Paradise or opt for remote instruction via video call. For those seeking an immersive experience, she also hosts speaking clubs that promote natural conversation and cultural exchange. To learn more about her teaching services, visit the [Services](/en/portuguese-teaching-services/) page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Brazilian Portuguese Journey Today
 
 If you're eager to learn Portuguese in Clear Island Waters, Barbara Sharon offers a Portuguese lesson to help you begin your journey. Whether you're searching for a Brazilian Portuguese tutor or seeking a native Portuguese teacher near you, she delivers personalized instruction tailored to your needs. With options such as private Portuguese tutoring and Brazilian Portuguese lessons, there's something for every learner.

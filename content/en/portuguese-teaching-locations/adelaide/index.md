@@ -3,7 +3,7 @@ translationKey: location-adelaide
 title: "Online Brazilian Portuguese Lessons in Adelaide"
 description: "Online Brazilian Portuguese lessons in Adelaide, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/adelaide/
 image:
@@ -46,12 +46,12 @@ Barbara Sharon is a TESOL-certified instructor with a Bachelor's degree in Langu
 
 Her multilingual skills in Italian and Spanish add valuable comparison elements to help students better understand the nuances of Portuguese grammar and vocabulary. Additionally, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This background allows her to provide a supportive and motivating learning environment where every student can thrive.
 
-Barbara’s structured curriculum integrates grammar, vocabulary, conversation, and cultural elements to help students not just learn Portuguese but use it naturally. Her online lessons are accessible for learners across Adelaide and beyond. Explore all her services at [Services](/en/portuguese-teaching-services/), or book a Portuguese lesson via the [Contact](/en/contact-portuguese-teacher/)page.
+Barbara’s structured curriculum integrates grammar, vocabulary, conversation, and cultural elements to help students not just learn Portuguese but use it naturally. Her online lessons are accessible for learners across Adelaide and beyond. Explore all her services at [Services](/en/portuguese-teaching-services/), or book a Portuguese lesson via the [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Portuguese Lessons in Adelaide
 
 Whether you prefer one-on-one attention or group interaction, Barbara Sharon offers flexible formats that fit your lifestyle. Private lessons offer customized learning paths, while group sessions provide a fun and interactive way to practice speaking and listening skills. All levels-from absolute beginners to fluent speakers-are welcome.
 
-With both online Portuguese lessons in Adelaide and Brazilian Portuguese classes near you, students can study from anywhere. Barbara's platform ensures easy access to high-quality instruction regardless of your location. For more information or to schedule a Portuguese lesson, visit [Services](/en/portuguese-teaching-services/)or contact her directly through the [Contact](/en/contact-portuguese-teacher/)page.
+With both online Portuguese lessons in Adelaide and Brazilian Portuguese classes near you, students can study from anywhere. Barbara's platform ensures easy access to high-quality instruction regardless of your location. For more information or to schedule a Portuguese lesson, visit [Services](/en/portuguese-teaching-services/) or contact her directly through the [Contact](/en/contact-portuguese-teacher/) page.
 ## Begin Your Portuguese Journey Today in Adelaide
 
 Ready to start learning Brazilian Portuguese in Adelaide? Book a Portuguese lesson with Barbara Sharon and experience how effective and enjoyable language learning can be. Whether you're seeking online Portuguese tutor Adelaide services or conversational classes, her approach is designed for real-life communication.

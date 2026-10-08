@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Cologne"
 description: "Clases online de portugués brasileño en Cologne, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/cologne/cologne-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Colonia | Clases particulares y grupales en línea de portugués brasileño con Barbara Sharon
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprende portugués brasileño en Colonia: clases particulares y grupales con Barbara Sharon
 
 Colonia, una ciudad vibrante de Alemania con más de 1 millón de residentes, es conocida por su diversidad y rico tejido cultural. Con un 19 % de población nacida en el extranjero, es un entorno ideal para aprender idiomas. Aunque el portugués no se hable ampliamente de forma nativa en Colonia, estudiar portugués brasileño abre puertas para conectar con el dinámico patrimonio lingüístico y cultural de Brasil. Hay aproximadamente 1.290 hablantes de portugués en la zona, lo que ofrece oportunidades crecientes para practicar y sumergirse en el idioma.
-
-Hay clases particulares y grupales de portugués en línea en Colonia. Barbara Sharon proporciona enseñanza personalizada adaptada a tus metas, combinando gramática, conversación y conocimientos culturales. Tanto si eres principiante como si buscas mejorar conversación, sus opciones flexibles se ajustan a tu horario y estilo de aprendizaje. Como tutora de portugués en línea radicada en Colonia, imparte clases de portugués brasileño de alta calidad desde cualquier lugar de la ciudad.
 
 ## ¿Por qué aprender portugués en Colonia?
 

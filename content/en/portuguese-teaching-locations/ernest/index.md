@@ -3,7 +3,7 @@ translationKey: location-ernest
 title: "Portuguese in Ernest: In-Person & Online"
 description: "Brazilian Portuguese lessons in Ernest, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/ernest/
 image:
@@ -55,9 +55,9 @@ Her lessons are carefully structured to combine grammar, vocabulary, conversatio
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.
 
-In-person Portuguese lessons are available in Surfers Paradise and surrounding Gold Coast suburbs. Online lessons are also available, making it easy for students in Ernest to access quality instruction. Barbara Sharon's teaching services include both individual and group formats, as well as a speaking club option to support conversation practice and community building among learners. Explore more about her Portuguese teacher ernest services on the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)page.
+In-person Portuguese lessons are available in Surfers Paradise and surrounding Gold Coast suburbs. Online lessons are also available, making it easy for students in Ernest to access quality instruction. Barbara Sharon's teaching services include both individual and group formats, as well as a speaking club option to support conversation practice and community building among learners. Explore more about her Portuguese teacher ernest services on the [Services](/en/portuguese-teaching-services/) page or reach out directly through the [Contact](/en/contact-portuguese-teacher/) page.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Ernest? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're seeking a Brazilian Portuguese tutor ernest, online Portuguese tutor ernest, or Brazilian Portuguese lessons ernest, Barbara's expertise ensures a rewarding experience. You can explore more about her teaching services on the [Services](/en/portuguese-teaching-services/)page or reach out directly through the [Contact](/en/contact-portuguese-teacher/)page.
+Interested in learning Portuguese in Ernest? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're seeking a Brazilian Portuguese tutor ernest, online Portuguese tutor ernest, or Brazilian Portuguese lessons ernest, Barbara's expertise ensures a rewarding experience. You can explore more about her teaching services on the [Services](/en/portuguese-teaching-services/) page or reach out directly through the [Contact](/en/contact-portuguese-teacher/) page.
 
 " Aprender é viver " - Learning is living!

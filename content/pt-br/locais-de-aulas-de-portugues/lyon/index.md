@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Lyon"
 description: "Aulas online de português brasileiro em Lyon, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/lyon/lyon-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprenda português em Lyon: aulas de português brasileiro
 
 Lyon, uma cidade vibrante na França com uma população de mais de 520.774 residentes, oferece um excelente ambiente para aprender português. Conhecida por sua rica herança cultural e atmosfera internacional, Lyon proporciona um espaço acolhedor para estudantes de idiomas. Com uma crescente comunidade brasileira e numerosos eventos culturais que celebram tradições latino-americanas, a cidade apoia experiências imersivas que aprimoram a aquisição do idioma. Os 13% de população nascida no exterior contribuem para a comunidade diversa de Lyon, tornando-a um lugar ideal para praticar português em situações reais.
-
-Aulas online particulares e em grupo de português estão disponíveis em Lyon. Barbara Sharon oferece aulas online flexíveis, adaptadas às suas necessidades e objetivos. Todos os níveis são bem-vindos, de iniciantes completos a quem deseja aperfeiçoar suas habilidades de conversação. Se você tem interesse em português brasileiro, ela pode ajudar você a desenvolver fluência e compreensão cultural por meio de ensino personalizado. Aprenda português em Lyon com uma professora qualificada de português em Lyon, especializada nos dois dialetos.
 
 ## Por que aprender português em Lyon?
 

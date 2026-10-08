@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Brussels"
 description: "Aulas online de português brasileiro em Brussels, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/brussels/brussels-brazilian-portuguese-lesson.png
   alt_text: Aprenda português em Bruxelas | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -48,8 +48,6 @@ Barbara Sharon traz uma vasta experiência como instrutora certificada em TESOL,
 Sua abordagem de ensino integra gramática, vocabulário, prática de conversação e contexto cultural para garantir que os alunos desenvolvam não apenas habilidades linguísticas, mas também confiança para se comunicar na vida real. A formação multilíngue de Barbara em italiano e espanhol agrega valor por meio da aprendizagem comparativa de idiomas, ajudando os alunos a compreender semelhanças e diferenças entre as línguas de forma mais eficaz.
 
 Com formação em aconselhamento e atualmente cursando um mestrado em Estudos Educacionais e Gestão Comportamental, ela cria um ambiente de aprendizagem acolhedor e motivador, no qual todos os alunos podem prosperar. Suas aulas são elaboradas para diferentes níveis - de iniciantes a alunos avançados - e podem ser adaptadas para atender a objetivos individuais.
-
-Como professora de português baseada em Bruxelas, Barbara oferece sessões online tanto particulares quanto em grupo, garantindo flexibilidade para agendas corridas sem abrir mão de um ensino de alta qualidade. Para mais informações sobre seus serviços de ensino, visite a página de [aulas](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/).
 
 ## Aulas particulares e em grupo de português em Bruxelas
 

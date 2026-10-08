@@ -3,7 +3,7 @@ translationKey: location-naples
 title: "Online Brazilian Portuguese Lessons in Naples"
 description: "Online Brazilian Portuguese lessons in Naples, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/naples/
 image:
@@ -61,7 +61,7 @@ Barbara Sharon offers flexible online private and group Portuguese lessons desig
 
 Using interactive tools, multimedia resources, and customized materials, each session is crafted to support your unique interests and objectives. Lessons are conducted via secure video platforms to ensure seamless interaction and full engagement.
 
-To learn more about the services offered or schedule a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact Barbara directly through the [Contact](/en/contact-portuguese-teacher/)page.
+To learn more about the services offered or schedule a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/) page or contact Barbara directly through the [Contact](/en/contact-portuguese-teacher/) page.
 ## Start Your Journey Today - Portuguese Lesson Available
 
 Ready to begin learning Brazilian Portuguese in Naples? Contact Barbara Sharon today for a lesson options and discover how her personalized approach can help you reach your language goals.

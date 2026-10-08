@@ -3,7 +3,7 @@ translationKey: location-varsity-lakes
 title: "Online Brazilian Portuguese Lessons in Varsity Lakes"
 description: "Online Brazilian Portuguese lessons in Varsity Lakes, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/varsity-lakes/
 image:
@@ -30,12 +30,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Learn Brazilian Portuguese in Varsity Lakes - Online & In-Person Classes
-
 Varsity Lakes is a vibrant and family-friendly suburb on the Gold Coast, known for its beautiful parks, excellent schools, and diverse community. With a population of over 16,493 residents, including 38.9% foreign-born individuals, Varsity Lakes offers an inclusive environment where language learners can thrive. Its proximity to the broader Gold Coast region allows students to explore Portuguese-speaking cultures through local events and organizations such as ABRASSO.
-
-Barbara Sharon provides engaging Portuguese lessons tailored for learners in Varsity Lakes, offering both online and in-person instruction. Whether you’re a complete beginner or aiming to improve your conversational skills, her personalized teaching approach ensures that each student achieves their language goals. As a qualified Brazilian Portuguese teacher , Barbara combines linguistic expertise with cultural insights to make learning both effective and enjoyable.
-## Why Learn Portuguese in Varsity Lakes?
 
 Varsity Lakes, nestled within the dynamic Gold Coast region, presents unique opportunities for language learners. While located in Australia, its cultural diversity provides access to global Portuguese-speaking communities and traditions. The weekly Brazilian Forro dancing sessions at the Varsity Lakes Community Resource Centre offer immersive experiences that complement formal lessons.
 
@@ -52,9 +47,7 @@ Barbara Sharon is an experienced Brazilian Portuguese teacher with a strong back
 
 Her teaching style focuses on building confidence, mastering pronunciation, and understanding cultural context. Barbara helps students navigate the differences between Brazilian and European Portuguese while developing practical communication skills essential for real-life interactions.
 
-Barbara offers flexible options including in-person lessons in Surfers Paradise (near Varsity Lakes) and fully interactive online Portuguese tutoring for students across the Gold Coast region. She also provides group classes and private sessions, along with a speaking club designed to enhance oral proficiency. As an expert Brazilian Portuguese teacher in Varsity Lakes, she tailors her lessons to meet individual needs and learning preferences.
-
-To discover more about her services or schedule a session, visit our [Services](/en/portuguese-teaching-services/)page or contact her via the [Contact](/en/contact-portuguese-teacher/)section.
+To discover more about her services or schedule a session, visit our [Services](/en/portuguese-teaching-services/) page or contact her via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Why Portuguese Matters - A Global Language
 
 Portuguese stands as one of the world’s most widely spoken Romance languages, with over 267 million native speakers. It's the fifth most commonly used language globally and plays a significant role in international communication, business, and culture.

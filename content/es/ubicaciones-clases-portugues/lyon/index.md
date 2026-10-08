@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Lyon"
 description: "Clases online de portugués brasileño en Lyon, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/lyon/lyon-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -32,9 +32,6 @@ editorial_reviewed: true
 ## Aprende portugués en Lyon: clases de portugués brasileño
 
 Lyon, una dinámica ciudad francesa con más de 520.774 habitantes, ofrece un excelente entorno para aprender portugués. Conocida por su rico patrimonio cultural y ambiente internacional, Lyon brinda un espacio acogedor para estudiantes de idiomas. Con una comunidad brasileña creciente y numerosos eventos que celebran tradiciones latinoamericanas, la ciudad favorece experiencias de inmersión que enriquecen la adquisición lingüística. El 13 % de población nacida en el extranjero contribuye a la diversidad de Lyon y la convierte en un lugar ideal para practicar portugués en situaciones reales.
-
-Hay clases particulares y grupales de portugués en línea disponibles en Lyon. Barbara Sharon ofrece clases flexibles adaptadas a tus necesidades y metas. Todos los niveles son bienvenidos, desde principiantes absolutos hasta quienes desean perfeccionar la conversación. Tanto si te interesa el portugués brasileño como el europeo, puede ayudarte a desarrollar fluidez y comprensión cultural mediante enseñanza personalizada. Aprende portugués en Lyon con una tutora cualificada que se especializa en ambas variedades.
-## ¿Por qué aprender portugués en Lyon?
 
 Lyon cuenta con una comunidad brasileña creciente, con residentes de distintas regiones de Brasil, por lo que es un lugar excelente para conectar con la cultura y el idioma brasileños. El carácter internacional de la ciudad favorece la integración de elementos culturales brasileños mediante eventos como Brazilian Dance Festival United Lyon France 2026 y la asociación Saudade Do Brasil. Estos encuentros dan oportunidades para relacionarse con hablantes nativos y experimentar el portugués en contextos auténticos.
 

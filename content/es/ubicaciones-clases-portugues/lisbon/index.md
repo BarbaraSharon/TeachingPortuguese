@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Lisbon"
 description: "Clases online de portugués brasileño en Lisbon, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/lisbon/lisbon-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Lisboa | Clases particulares y grupales en línea con Barbara Sharon
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprende portugués en Lisboa: variedades brasileña y europea con Barbara Sharon
 
 Lisboa, la dinámica capital de Portugal, es conocida por su rico patrimonio cultural e importancia histórica. Con más de 3 millones de habitantes en su área metropolitana, incluidos aproximadamente 80.000 residentes nacidos en Brasil en 2021, ofrece un entorno ideal para aprender portugués. La presencia de cultura brasileña, desde festivales hasta interacciones diarias, crea una oportunidad única para sumergirse en el idioma. Su atmósfera multicultural, con un 16,6 % de población nacida en el extranjero, permite practicar portugués en contextos diversos.
-
-Barbara Sharon ofrece clases particulares y grupales de portugués en línea en Lisboa. Como profesora cualificada, imparte enseñanza flexible según tus objetivos. Tanto si eres principiante total como si quieres perfeccionar tu conversación, las clases reciben a todos los niveles. Con atención al portugués brasileño, ayuda a comprender los matices de ambas variedades mediante una educación personalizada.
 
 ## ¿Por qué aprender portugués en Lisboa?
 

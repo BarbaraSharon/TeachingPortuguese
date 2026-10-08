@@ -3,7 +3,7 @@ translationKey: location-jacobs-well
 title: "Portuguese in Jacobs Well: In-Person & Online"
 description: "Brazilian Portuguese lessons in Jacobs Well, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/jacobs-well/
 image:
@@ -51,7 +51,7 @@ Barbara Sharon is an experienced Portuguese instructor with a strong educational
 
 With her expertise, Barbara helps students navigate the differences between Brazilian and European Portuguese, understand cultural nuances, and develop authentic conversational skills. Whether you’re seeking a Brazilian Portuguese tutor Jacobs Well or a private Portuguese teacher Jacobs Well, she offers individual and group lessons tailored to your learning style.
 
-Barbara also runs a speaking club for students who want to practice their Portuguese in a relaxed setting. For more information about her services, visit the [Services](/en/portuguese-teaching-services/)page or contact her directly through the [Contact](/en/contact-portuguese-teacher/)section.
+Barbara also runs a speaking club for students who want to practice their Portuguese in a relaxed setting. For more information about her services, visit the [Services](/en/portuguese-teaching-services/) page or contact her directly through the [Contact](/en/contact-portuguese-teacher/)section.
 ## The Global Importance of Portuguese
 
 As one of the world's most widely spoken Romance languages, Portuguese is the fifth most spoken language globally. With over 267 million native speakers, it’s a powerful tool for communication and cultural exchange.
@@ -66,4 +66,4 @@ Our in-person classes provide a structured yet engaging environment where you ca
 
 Ready to start learning Portuguese in Jacobs Well? Contact Barbara Sharon today for a Portuguese lesson and experience her unique teaching approach firsthand. Whether you’re a complete beginner or aiming to improve your fluency, she’s here to support your journey.
 
-Find out more about her [Portuguese tutor services](/en/portuguese-teaching-services/)and get in touch via the [Contact](/en/contact-portuguese-teacher/)page.
+Find out more about her [Portuguese tutor services](/en/portuguese-teaching-services/)and get in touch via the [Contact](/en/contact-portuguese-teacher/) page.

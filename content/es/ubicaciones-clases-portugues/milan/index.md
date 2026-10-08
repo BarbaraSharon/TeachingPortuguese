@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Milan"
 description: "Clases online de portugués brasileño en Milan, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/milan/milan-location-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Milán | Clases particulares y grupales en línea con Barbara Sharon
@@ -48,8 +48,6 @@ Barbara Sharon es una profesora de portugués apasionada y con experiencia, con 
 - Certificación TESOL
 - Dominio de portugués, inglés, italiano y español
 - Orientadora profesional con experiencia en comunicación intercultural
-
-Barbara ayuda a entender los matices entre ambas variedades, desenvolverse en contextos culturales y desarrollar conversación auténtica. Ofrece clases particulares y grupales con atención personalizada según metas individuales.
 
 Consulta los [servicios](/es/servicios-clases-portugues/) o contacta desde la página de [contacto](/es/contacto-profesora-portugues/). Explora las opciones de clases de portugués de Barbara para una enseñanza personalizada.
 

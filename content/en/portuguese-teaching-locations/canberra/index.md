@@ -3,7 +3,7 @@ translationKey: location-canberra
 title: "Online Brazilian Portuguese Lessons in Canberra"
 description: "Online Brazilian Portuguese lessons in Canberra, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/canberra/
 image:
@@ -52,7 +52,7 @@ In addition to her academic background, Barbara is a trained counsellor currentl
 
 Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language, but how to use it naturally in real-life situations. Barbara offers both group and private sessions through her online teaching platform, ensuring quality instruction whether you prefer one-on-one support or collaborative learning in a small group setting.
 
-You can explore her services on the [Services](/en/portuguese-teaching-services/)page or get in touch directly through the [Contact](/en/contact-portuguese-teacher/)section to begin your journey with a qualified Portuguese tutor Canberra or Brazilian Portuguese teacher Canberra.
+You can explore her services on the [Services](/en/portuguese-teaching-services/) page or get in touch directly through the [Contact](/en/contact-portuguese-teacher/)section to begin your journey with a qualified Portuguese tutor Canberra or Brazilian Portuguese teacher Canberra.
 ## Private & Group Lessons in Canberra
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.
@@ -60,4 +60,4 @@ Flexible lesson formats include online classes, private tutoring, and group sess
 Barbara Sharon provides both individual and group learning experiences through her online teaching platform, ensuring that you receive quality instruction whether you prefer one-on-one support or collaborative learning in a small group setting. Whether you're looking for a Brazilian Portuguese tutor Canberra or conversational Portuguese classes Canberra, she offers tailored solutions to meet your goals.
 ## Start Your Portuguese Journey Today in Canberra
 
-Interested in learning Portuguese in Canberra? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! With her expertise as a native Portuguese teacher Canberra, she ensures that every student receives engaging and effective instruction. Explore [services](/en/portuguese-teaching-services/)or reach out via the [contact page](/en/contact-portuguese-teacher/)to find the right Portuguese lessons Canberra for you.
+Interested in learning Portuguese in Canberra? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! With her expertise as a native Portuguese teacher Canberra, she ensures that every student receives engaging and effective instruction. Explore [services](/en/portuguese-teaching-services/) or reach out via the [contact page](/en/contact-portuguese-teacher/)to find the right Portuguese lessons Canberra for you.

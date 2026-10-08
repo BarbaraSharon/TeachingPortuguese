@@ -3,7 +3,7 @@ translationKey: location-bonogin
 title: "Portuguese in Bonogin: In-Person & Online"
 description: "Brazilian Portuguese lessons in Bonogin, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/bonogin/
 image:
@@ -57,7 +57,7 @@ Whether you prefer face-to-face instruction or remote learning, Barbara Sharon o
 
 Private Portuguese tutor Bonogin sessions ensure one-on-one attention tailored to your specific goals. Group sessions are also available for learners who enjoy interactive learning and want to practice speaking with others. For beginners or those looking for structured support, she provides Portuguese lessons for beginners Bonogin. Additionally, conversational Portuguese classes help students develop fluency and confidence in everyday communication.
 
-The speaking club option offers a relaxed environment to practice Brazilian Portuguese with peers. For more information on services and to book a session, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)page.
+The speaking club option offers a relaxed environment to practice Brazilian Portuguese with peers. For more information on services and to book a session, visit the [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/) page.
 ## Start Your Portuguese Journey Today in Bonogin
 
 If you're looking for a qualified Portuguese tutor in Bonogin or a Brazilian Portuguese teacher nearby, Barbara Sharon is ready to help. She offers flexible lessons including online Portuguese tutor Bonogin options and in-person Portuguese classes in Surfers Paradise.

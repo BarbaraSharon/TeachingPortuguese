@@ -3,7 +3,7 @@ translationKey: location-leipzig
 title: "Online Brazilian Portuguese Lessons in Leipzig"
 description: "Online Brazilian Portuguese lessons in Leipzig, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/leipzig/
 image:
@@ -48,9 +48,7 @@ Barbara Sharon is a highly qualified Portuguese language instructor with extensi
 - Fluent in Portuguese, English, Italian, and Spanish
 - Counselor with a Master’s in Educational Studies & Behaviour Management (in progress)
 
-With her deep understanding of both dialects, Barbara helps students navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that allow them to engage authentically with native speakers. She offers both group and private sessions for Portuguese lessons in Leipzig through interactive online platforms.
-
-For more information on her services, visit our [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section to book your personalized Portuguese tutoring session today.
+For more information on her services, visit our [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/)section to book your personalized Portuguese tutoring session today.
 ## The Value of Learning Portuguese as a Global Language
 
 Portuguese is the fifth-most spoken language in the world, with over 267 million native speakers. It’s not only a gateway to Brazil and Portugal but also connects learners to vibrant communities in Mozambique, Angola, Guinea-Bissau, and other countries where Portuguese is widely used.

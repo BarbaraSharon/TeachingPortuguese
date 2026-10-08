@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Ormeau"
 description: "Clases online de portugués brasileño en Ormeau, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/ormeau/ormeau-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprende portugués en Ormeau, Australia: clases particulares y en línea
 
 Ormeau es un vibrante suburbio del norte de Gold Coast, hogar de una comunidad diversa de más de 15.938 residentes. Con casi un 29,7 % de población nacida en el extranjero, la zona ofrece un rico entorno multicultural que favorece el aprendizaje de idiomas y el intercambio cultural. El creciente número de familias brasileñas y lusófonas en Ormeau la convierte en un lugar ideal para explorar el portugués y conectar con su cultura vibrante.
-
-Barbara Sharon ofrece clases presenciales de portugués en Surfers Paradise, lo que hace que sus clases sean convenientes para estudiantes que viven en Ormeau. Además, hay clases de portugués en línea para quienes prefieren estudiar a distancia, con flexibilidad para horarios ocupados. Tanto si buscas una tutora de portugués en Gold Coast, clases grupales de portugués en Ormeau o clases de conversación en portugués en Ormeau, el enfoque adaptado de Barbara garantiza un aprendizaje eficaz y atractivo.
 
 ## ¿Por qué aprender portugués en Ormeau?
 

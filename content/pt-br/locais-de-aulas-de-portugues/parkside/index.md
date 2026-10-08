@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Parkside"
 description: "Aulas online de português brasileiro em Parkside, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/parkside/parkside-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprenda português em Parkside, Austrália - aulas particulares e online com Barbara Sharon
 
 Parkside é um vibrante bairro do norte da Gold Coast, situado entre Helensvale e Coomera. Com uma população de aproximadamente 2.335 residentes, segundo o censo de 2021, essa região prospera com uma comunidade internacional que valoriza a diversidade cultural e a comunicação global. Aprender português em Parkside abre portas para a rica herança linguística e cultural do Brasil.
-
-Barbara Sharon oferece aulas presenciais de português em Surfers Paradise, tornando-as convenientes para estudantes que moram em Parkside. Aulas online também estão disponíveis, permitindo que você aprenda de qualquer lugar. Quer você procure ensino particular ou em grupo, Barbara oferece opções flexíveis adaptadas aos seus objetivos de aprendizagem. Para quem se interessa por habilidades de conversação, ela também mantém um clube de conversação para estudantes avançados.
 
 ## Por que aprender português em Parkside?
 
@@ -63,5 +61,3 @@ Aprender português em Parkside dá a você acesso a uma rica tradição linguí
 ## Aulas de português online em Parkside
 
 Aulas particulares e em grupo de português online estão disponíveis em Parkside. Nossas aulas online usam ferramentas interativas e recursos multimídia para tornar a aprendizagem envolvente e eficaz. Você receberá materiais adaptados aos seus interesses específicos e objetivos de aprendizagem, permitindo que explore a cultura portuguesa por meio de conteúdo autêntico.
-
-Se você está procurando uma tutora de português na Gold Coast ou uma professora de português brasileiro, Barbara Sharon oferece ensino personalizado, quer você prefira aulas presenciais perto de Parkside ou aulas remotas de casa. Sua abordagem flexível garante que os estudantes possam aprender no próprio ritmo, enquanto ainda desfrutam de orientação e apoio estruturados. Ela oferece sessões em grupo e particulares, bem como aulas de conversação e um clube de conversação para estudantes avançados.

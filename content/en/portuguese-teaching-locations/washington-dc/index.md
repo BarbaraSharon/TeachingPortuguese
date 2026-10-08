@@ -3,7 +3,7 @@ translationKey: location-washington-dc
 title: "Online Brazilian Portuguese Lessons in Washington Dc"
 description: "Online Brazilian Portuguese lessons in Washington Dc, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/washington-dc/
 image:
@@ -37,7 +37,7 @@ Washington DC is a vibrant city in the United States, home to 702,250 residents 
 Whether you're a beginner or looking to improve your conversational skills, our online private and group Portuguese lessons in Washington DC offer flexible learning options tailored to your goals. Find a Brazilian Portuguese tutor Washington DC who can guide you through the nuances of the language and immerse you in Brazilian culture.
 ## Why Learn Portuguese in Washington DC?
 
-Washington DC's status as a U.S. capital provides unique opportunities for language learners to connect with diverse communities. The presence of organizations like the Brazilian-American Cultural Center at the Kennedy Center , EducArte, Incorporated, and Levantamos offers immersive experiences that bring the rich culture of Brazil to life.
+Washington DC's status as a U.S. capital provides unique opportunities for language learners to connect with diverse communities. The presence of organizations like the Brazilian-American Cultural Center at the Kennedy Center, EducArte, Incorporated, and Levantamos offers immersive experiences that bring the rich culture of Brazil to life.
 
 With over 10,701 Portuguese speakers in the area, Washington DC hosts events such as BrasilFest and the Smithsonian Folklife Festival, where Brazilian traditions are celebrated. The Brazilian-American Cultural Center also provides capoeira classes and Afrobeats dance events, deepening your connection to the culture.
 
@@ -52,7 +52,7 @@ Barbara Sharon is a qualified Portuguese language instructor with extensive expe
 
 With her expertise, Barbara can help you navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that will allow you to engage authentically with native speakers. Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
 
-Barbara offers both group and private online Portuguese lessons for students in Washington DC. You can explore her teaching services on the [Services](/en/portuguese-teaching-services/)page or reach out through the [Contact](/en/contact-portuguese-teacher/)page to schedule your session. Find a Brazilian Portuguese tutor Washington DC or a native Portuguese teacher Washington DC who can tailor lessons to your needs.
+Barbara offers both group and private online Portuguese lessons for students in Washington DC. You can explore her teaching services on the [Services](/en/portuguese-teaching-services/) page or reach out through the [Contact](/en/contact-portuguese-teacher/) page to schedule your session. Find a Brazilian Portuguese tutor Washington DC or a native Portuguese teacher Washington DC who can tailor lessons to your needs.
 ## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca with over 267 million native speakers. Its influence spans Africa, Asia, and the Americas, making it a fascinating subject for study.

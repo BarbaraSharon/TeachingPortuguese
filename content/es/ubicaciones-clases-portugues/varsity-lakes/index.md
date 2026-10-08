@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Varsity Lakes"
 description: "Clases online de portugués brasileño en Varsity Lakes, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/varsity-lakes/varsity-lakes-brazilian-portuguese-tutor.png
   alt_text: Aprende portugués brasileño en Varsity Lakes | Clases particulares y grupales en línea con Barbara Sharon
@@ -29,12 +29,7 @@ faq:
 editorial_reviewed: true
 ---
 
-## Aprende portugués brasileño en Varsity Lakes: clases en línea y presenciales
-
 Varsity Lakes es un suburbio dinámico y familiar de Gold Coast, conocido por sus hermosos parques, excelentes escuelas y comunidad diversa. Con más de 16.493 habitantes, incluido un 38,9 % de personas nacidas en el extranjero, Varsity Lakes ofrece un entorno inclusivo donde quienes aprenden idiomas pueden progresar. Su cercanía al área más amplia de Gold Coast permite explorar culturas lusófonas en eventos y organizaciones locales como ABRASSO.
-
-Barbara Sharon imparte clases de portugués atractivas y adaptadas a quienes estudian desde Varsity Lakes, tanto en línea como presencialmente. Tanto si eres principiante absoluto como si quieres mejorar tu conversación, su enfoque personalizado ayuda a alcanzar las metas lingüísticas. Como profesora cualificada de portugués brasileño, combina conocimientos lingüísticos y culturales para que aprender sea eficaz y agradable.
-## ¿Por qué aprender portugués en Varsity Lakes?
 
 Varsity Lakes, dentro de la dinámica región de Gold Coast, ofrece oportunidades singulares para aprender idiomas. Aunque está en Australia, su diversidad cultural facilita el acceso a comunidades y tradiciones lusófonas de todo el mundo. Las sesiones semanales de baile Brazilian Forro en Varsity Lakes Community Resource Centre ofrecen experiencias inmersivas que complementan las clases formales.
 
@@ -51,8 +46,6 @@ Barbara Sharon es una profesora experimentada de portugués brasileño, con una 
 - Orientadora
 
 Su estilo se centra en desarrollar confianza, dominar la pronunciación y comprender el contexto cultural. Barbara ayuda a entender las diferencias entre el portugués brasileño y el europeo y a desarrollar destrezas prácticas para situaciones reales.
-
-Ofrece clases presenciales flexibles en Surfers Paradise, cerca de Varsity Lakes, además de tutorías de portugués en línea totalmente interactivas para estudiantes de Gold Coast. También hay clases grupales, sesiones particulares y un club de conversación para mejorar la expresión oral. Como profesora experta de portugués brasileño, adapta las clases a necesidades y formas de aprender individuales.
 
 Para conocer los servicios o programar una sesión, consulta los [servicios](/es/servicios-clases-portugues/) o contacta con Barbara en la página de [contacto](/es/contacto-profesora-portugues/).
 

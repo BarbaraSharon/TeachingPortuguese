@@ -3,7 +3,7 @@ translationKey: location-dresden
 title: "Online Brazilian Portuguese Lessons in Dresden"
 description: "Online Brazilian Portuguese lessons in Dresden, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/dresden/
 image:
@@ -46,7 +46,7 @@ Barbara Sharon's unique qualifications enhance your learning experience. With a 
 
 In addition to her academic background, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This unique combination allows her to create a supportive, motivating environment where every student can thrive. Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language, but how to use it naturally in real-life situations.
 
-Barbara Sharon provides online Portuguese lessons in Dresden through flexible formats that accommodate students across the region. Whether you're seeking a Brazilian Portuguese teacher in Dresden or native Portuguese teacher in Dresden, her services include both private and group sessions tailored to individual goals. Explore her [Services](/en/portuguese-teaching-services/)or reach out via [Contact](/en/contact-portuguese-teacher/)page to begin your journey.
+Barbara Sharon provides online Portuguese lessons in Dresden through flexible formats that accommodate students across the region. Whether you're seeking a Brazilian Portuguese teacher in Dresden or native Portuguese teacher in Dresden, her services include both private and group sessions tailored to individual goals. Explore her [Services](/en/portuguese-teaching-services/) or reach out via [Contact](/en/contact-portuguese-teacher/) page to begin your journey.
 ## Private & Group Lessons
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.

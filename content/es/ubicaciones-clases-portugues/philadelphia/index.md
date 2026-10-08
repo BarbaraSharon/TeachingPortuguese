@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Philadelphia"
 description: "Clases online de portugués brasileño en Philadelphia, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/philadelphia/philadelphia-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -32,9 +32,6 @@ editorial_reviewed: true
 ## Aprende portugués brasileño en Filadelfia
 
 Filadelfia, una activa ciudad estadounidense con más de 1,5 millones de residentes, ofrece un entorno estimulante para sumergirse en las ricas culturas de Brasil y Portugal. Con aproximadamente 5.360 residentes nacidos en Brasil y más de 3.093 personas nacidas en Portugal, Filadelfia alberga una de las mayores comunidades lusófonas de Pensilvania. Esta comunidad dinámica brinda una oportunidad única para conectar con experiencias auténticas de portugués brasileño.
-
-Tanto si quieres dominar el portugués brasileño como explorar los matices del portugués europeo, Barbara Sharon ofrece clases particulares y grupales en línea adaptadas a tus metas. Como profesora cualificada de portugués, aporta amplia experiencia en ambas variedades y ayuda a comprender los contextos culturales y estilos de comunicación que hacen que aprender sea significativo y atractivo.
-## ¿Por qué aprender portugués en Philadelphia?
 
 La población diversa y el carácter internacional de Filadelfia la convierten en un lugar ideal para estudiar portugués. Con más del 14 % de residentes nacidos en el extranjero, la ciudad favorece un entorno multicultural donde puedes relacionarte con hablantes nativos y participar en eventos culturales.
 

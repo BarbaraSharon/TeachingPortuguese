@@ -7,7 +7,7 @@ question: "Quanto custam as aulas de português na Austrália?"
 direct_answer: "Os preços atuais da Barbara começam em [[term_10_week_price]] por aluno para um curso em grupo de 10 semanas e em [[private_4_week_price]] para um pacote particular de 4 semanas. As duas opções estão disponíveis online no mundo todo e dependem da disponibilidade atual na Gold Coast. Todos os preços estão em dólares australianos; confirme o pacote e os detalhes com a Barbara antes da reserva."
 authors: [me]
 date: 2026-08-20
-lastmod: 2026-08-26
+lastmod: 2026-09-09
 weight: 70
 robots: index, follow, max-image-preview:large
 image:

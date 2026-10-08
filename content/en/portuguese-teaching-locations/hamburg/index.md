@@ -3,7 +3,7 @@ translationKey: location-hamburg
 title: "Online Brazilian Portuguese Lessons in Hamburg"
 description: "Online Brazilian Portuguese lessons in Hamburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/hamburg/
 image:
@@ -56,7 +56,7 @@ Her TESOL certification equips her with proven methods for addressing diverse le
 
 Whether you're interested in private Portuguese tutor Hamburg sessions or group Portuguese classes Hamburg, Barbara provides flexible, high-quality instruction suited for all levels-from complete beginners to those aiming for fluency.
 
-For more information about her services, visit the [Services](/en/portuguese-teaching-services/)page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
+For more information about her services, visit the [Services](/en/portuguese-teaching-services/) page or get in touch via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Private & Group Lessons
 
 Barbara offers both online private Portuguese tutor Hamburg and group classes designed for learners at every stage of their journey. Private lessons provide one-on-one attention, helping you focus on specific goals like pronunciation or business vocabulary. Group sessions foster a supportive learning atmosphere where students can practice speaking together and build friendships.
@@ -68,4 +68,4 @@ Each class emphasizes practical communication skills, making them perfect for th
 
 Ready to begin learning Portuguese in Hamburg? Connect with Barbara Sharon for a Portuguese lesson and take your first step toward mastering Brazilian Portuguese. Whether you're interested in conversational Portuguese classes Hamburg or structured language instruction, she is here to guide you every step of the way.
 
-To book your session or inquire about online Portuguese tutor Hamburg services, please reach out through our [Contact](/en/contact-portuguese-teacher/)page. Start exploring the beauty of the Portuguese language today!
+To book your session or inquire about online Portuguese tutor Hamburg services, please reach out through our [Contact](/en/contact-portuguese-teacher/) page. Start exploring the beauty of the Portuguese language today!

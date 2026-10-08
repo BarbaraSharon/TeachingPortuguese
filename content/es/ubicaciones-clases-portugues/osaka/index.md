@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Osaka"
 description: "Clases online de portugués brasileño en Osaka, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/osaka/osaka-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -40,8 +40,6 @@ La diversa comunidad internacional de Osaka crea un entorno ideal para estudiar 
 
 Eventos destacados como el pabellón de Brasil en Expo 2025 Osaka y el pabellón de Portugal, bajo el tema “Ocean: The Blue Dialogue”, ofrecen oportunidades únicas para relacionarse con hablantes nativos y explorar directamente la cultura portuguesa. Organizaciones culturales como Sociedade Luso-Nipónica de Osaka también organizan eventos, incluida la serie de conciertos FADO, que enriquecen aún más la experiencia de aprendizaje.
 ## Cómo puede ayudarte Barbara Sharon
-
-Barbara Sharon es una profesora experimentada de portugués brasileño radicada en Osaka, que ofrece clases particulares y grupales para alumnado de todos los niveles. Su formación incluye:
 
 - Licenciatura en Lenguas y Literatura, Universidad Federal de Río de Janeiro (UFRJ)
 - Certificación TESOL

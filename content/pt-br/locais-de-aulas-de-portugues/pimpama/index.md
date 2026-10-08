@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Pimpama"
 description: "Aulas online de português brasileiro em Pimpama, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/pimpama/pimpama-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -30,8 +30,6 @@ editorial_reviewed: true
 ---
 
 ## Aprenda português em Pimpama: aulas de português brasileiro perto de você
-
-Pimpama é um subúrbio em rápido crescimento no norte da Gold Coast, com uma população diversificada de 24.601 residentes, conforme o censo de 2021. Com 33,7% de seus habitantes nascidos no exterior, a área reflete um ambiente multicultural que apoia o aprendizado de idiomas e o intercâmbio cultural. A proximidade do subúrbio com Surfers Paradise é conveniente para alunos que procuram serviços de professor particular de português em Pimpama ou opções de professora de português brasileiro em Pimpama. Barbara Sharon oferece aulas de português presenciais e online na Gold Coast, com aulas presenciais realizadas em Surfers Paradise, a pouca distância de Pimpama, enquanto as sessões online proporcionam flexibilidade para alunos de toda a região.
 
 Suas aulas de português perto de Pimpama incluem sessões particulares e em grupo, com opções de clube de conversação para quem deseja praticar em um ambiente acolhedor. Quer você esteja procurando aulas de português em Pimpama ou aulas de português brasileiro em Pimpama, a abordagem de Barbara atende a todos os níveis de proficiência, de iniciantes que buscam aulas de português para iniciantes em Pimpama a alunos avançados interessados em aulas de português conversacional em Pimpama.
 

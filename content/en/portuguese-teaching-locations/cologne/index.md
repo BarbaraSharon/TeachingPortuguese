@@ -3,7 +3,7 @@ translationKey: location-cologne
 title: "Online Brazilian Portuguese Lessons in Cologne"
 description: "Online Brazilian Portuguese lessons in Cologne, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/cologne/
 image:
@@ -33,9 +33,6 @@ editorial_reviewed: true
 ## Learn Brazilian Portuguese in Cologne - Private & Group Lessons with Barbara Sharon
 
 Cologne, a vibrant city in Germany with over 1 million residents, is known for its diversity and rich cultural fabric. With 19% of the population being foreign-born, it's an ideal environment for language learning. While Portuguese isn't widely spoken natively in Cologne, studying Brazilian Portuguese here opens doors to connecting with Brazil's dynamic linguistic and cultural heritage. There are approximately 1,290 Portuguese speakers in the area, offering growing opportunities to practice and immerse yourself in the language.
-
-Online private and group Portuguese lessons are available in Cologne. Barbara Sharon offers personalized instruction tailored to your goals, blending grammar, conversation, and cultural insights. Whether you're a beginner or aiming to enhance conversational skills, her flexible learning options suit your schedule and learning style. As an online Portuguese tutor based in Cologne, she provides high-quality Brazilian Portuguese lessons from anywhere in the city.
-## Why Learn Portuguese in Cologne?
 
 Cologne's international character makes it a prime location for language education. The city regularly hosts celebrations of Brazilian and Portuguese cultures, such as the annual Brasilonia Festival, Brazilian Food Festival, Forró de Colônia events, and Samba Forro dance activities. These events provide excellent real-life opportunities to practice your Portuguese while immersing yourself in Brazilian traditions.
 

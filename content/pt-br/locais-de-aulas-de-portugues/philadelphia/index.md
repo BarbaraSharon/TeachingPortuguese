@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Philadelphia"
 description: "Aulas online de português brasileiro em Philadelphia, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/philadelphia/philadelphia-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -32,8 +32,6 @@ editorial_reviewed: true
 ## Aprenda português brasileiro em Philadelphia
 
 Philadelphia, uma movimentada cidade americana com mais de 1,5 milhão de residentes, oferece um ambiente estimulante para quem aprende idiomas mergulhar nas ricas culturas do Brasil e de Portugal. Com aproximadamente 5.360 residentes nascidos no Brasil e mais de 3.093 pessoas nascidas em Portugal, Philadelphia abriga uma das maiores comunidades de língua portuguesa da Pensilvânia. Essa comunidade próspera cria uma oportunidade única para os alunos se conectarem a experiências autênticas de português brasileiro.
-
-Quer você esteja interessado em dominar o português brasileiro ou em explorar as nuances do português europeu, Barbara Sharon oferece aulas online particulares e em grupo adaptadas aos seus objetivos específicos de aprendizagem. Como professora qualificada de língua portuguesa, ela traz ampla experiência nos dois dialetos, ajudando os alunos a compreender contextos culturais e estilos de comunicação que tornam o aprendizado significativo e envolvente.
 
 ## Por que aprender português em Philadelphia?
 

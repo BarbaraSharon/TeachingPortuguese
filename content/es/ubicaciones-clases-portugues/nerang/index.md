@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Nerang"
 description: "Clases online de portugués brasileño en Nerang, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/nerang/nerang-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -28,10 +28,6 @@ faq:
     answer: "Sí. Las clases son online, por lo que puedes estudiar desde Nerang. Los horarios se acuerdan con antelación usando Australia/Brisbane y la disponibilidad actual. Contacta con Barbara para hablar del formato."
 editorial_reviewed: true
 ---
-
-## Aprende portugués en Nerang: clases expertas de portugués brasileño
-
-Nerang, situada en Gold Coast, es un suburbio vibrante con más de 22.017 residentes y una rica diversidad de culturas, incluida una creciente comunidad brasileña. Tanto si buscas aprender portugués en Nerang, conectar con eventos locales como el Nerang Brazilian Festival anual o mejorar tus habilidades para negocios o viajes, nuestras clases de portugués están diseñadas para todos los niveles. Hay clases en línea disponibles mundialmente; las clases grupales presenciales se realizan en lugares adecuados de Gold Coast en Kirra, Broadbeach o Surfers Paradise.
 
 ## ¿Por qué elegir clases de portugués en Nerang?
 

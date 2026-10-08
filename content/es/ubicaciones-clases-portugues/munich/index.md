@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Munich"
 description: "Clases online de portugués brasileño en Munich, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/munich/munich-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -30,8 +30,6 @@ editorial_reviewed: true
 ---
 
 ## Aprende portugués en Múnich: clases de portugués brasileño
-
-Múnich es una ciudad dinámica de Alemania, con más de 1,6 millones de habitantes, incluido casi un 29 % de residentes nacidos en el extranjero. Esta comunidad diversa incluye un número creciente de familias brasileñas y lusófonas, lo que crea un entorno ideal para aprender portugués. La ciudad ofrece excelentes oportunidades de adquisición lingüística mediante clases estructuradas o intercambio cultural informal. Tanto si te interesa el portugués brasileño como el europeo, el ambiente multicultural de Múnich proporciona ventajas singulares.
 
 Hay clases particulares y grupales de portugués en línea disponibles en Múnich, lo que permite acceder a enseñanza de calidad desde casa. Barbara Sharon ofrece opciones flexibles según tu horario y metas, tanto si eres principiante como si deseas perfeccionar tus habilidades. Con su experiencia, puedes conectar con el idioma mediante conversaciones prácticas y conocimientos culturales.
 ## ¿Por qué aprender portugués en Munich?

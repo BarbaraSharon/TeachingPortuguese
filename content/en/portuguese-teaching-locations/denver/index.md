@@ -3,7 +3,7 @@ translationKey: location-denver
 title: "Online Brazilian Portuguese Lessons in Denver"
 description: "Online Brazilian Portuguese lessons in Denver, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/denver/
 image:
@@ -48,7 +48,7 @@ Barbara Sharon's unique qualifications enhance your learning experience. With a 
 
 In addition to her academic background, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This unique combination allows her to create a supportive, motivating environment where every student can thrive. Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language, but how to use it naturally in real-life situations.
 
-Barbara Sharon provides both private and group sessions for students at all levels, including beginners. She offers flexible online Portuguese tutor in Denver options that allow learners to study from anywhere in the city. For more information about her teaching services, visit our [Services](/en/portuguese-teaching-services/)page.
+Barbara Sharon provides both private and group sessions for students at all levels, including beginners. She offers flexible online Portuguese tutor in Denver options that allow learners to study from anywhere in the city. For more information about her teaching services, visit our [Services](/en/portuguese-teaching-services/) page.
 ## Private & Group Lessons
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.
@@ -58,4 +58,4 @@ Barbara Sharon delivers both individual and small group Portuguese lessons in De
 
 Interested in learning Portuguese in Denver? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're looking for Portuguese lessons near denver or need help with beginner-level Portuguese classes denver, she can guide you toward fluency.
 
-For more details about her services or to schedule a session, reach out via our [Contact](/en/contact-portuguese-teacher/)page. With native Portuguese teacher denver expertise and a commitment to student success, Barbara is your ideal choice for online Portuguese tutor denver services.
+For more details about her services or to schedule a session, reach out via our [Contact](/en/contact-portuguese-teacher/) page. With native Portuguese teacher denver expertise and a commitment to student success, Barbara is your ideal choice for online Portuguese tutor denver services.

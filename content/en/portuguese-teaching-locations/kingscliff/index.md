@@ -3,7 +3,7 @@ translationKey: location-kingscliff
 title: "Portuguese in Kingscliff: In-Person & Online"
 description: "Brazilian Portuguese lessons in Kingscliff, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/kingscliff/
 image:
@@ -64,4 +64,4 @@ Her classes focus on practical conversation skills, cultural context, and person
 
 Ready to begin your journey in Portuguese? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can support your language journey. Whether you're a complete beginner or aiming to advance your skills, she offers tailored instruction to help you succeed.
 
-To learn more about her services, visit [Services](/en/portuguese-teaching-services/)or get in touch through the [Contact](/en/contact-portuguese-teacher/)page.
+To learn more about her services, visit [Services](/en/portuguese-teaching-services/) or get in touch through the [Contact](/en/contact-portuguese-teacher/) page.

@@ -3,7 +3,7 @@ translationKey: location-wiesbaden
 title: "Online Brazilian Portuguese Lessons in Wiesbaden"
 description: "Online Brazilian Portuguese lessons in Wiesbaden, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/wiesbaden/
 image:
@@ -52,7 +52,7 @@ Barbara Sharon brings extensive experience as a certified Portuguese teacher wit
 
 She understands the subtle distinctions between Brazilian and European Portuguese and helps students navigate them confidently. Whether you're preparing for a trip to Brazil, aiming to communicate in professional settings, or simply want to appreciate Portuguese culture more deeply, Barbara makes learning enjoyable and effective.
 
-Barbara offers both group and private Portuguese lessons online, making it easy for students in Wiesbaden to access quality instruction from anywhere. Visit the [Services](/en/portuguese-teaching-services/)page to learn more or get in touch through the [Contact](/en/contact-portuguese-teacher/)page.
+Barbara offers both group and private Portuguese lessons online, making it easy for students in Wiesbaden to access quality instruction from anywhere. Visit the [Services](/en/portuguese-teaching-services/) page to learn more or get in touch through the [Contact](/en/contact-portuguese-teacher/) page.
 ## Why Portuguese Matters - A Global Language
 
 Portuguese is one of the world’s most spoken Romance languages, with over 267 million native speakers globally. It's not only the official language of Portugal and Brazil but also widely used in Angola, Mozambique, Cape Verde, and other countries across Africa and Asia.
@@ -64,4 +64,4 @@ Barbara Sharon offers flexible online Portuguese lessons for students in Wiesbad
 
 Whether you're looking for a Brazilian Portuguese tutor Wiesbaden or general Portuguese teacher Wiesbaden, Barbara delivers personalized learning experiences. Her classes cater to all levels-from beginners to advanced learners-covering everything from basic grammar to conversational skills and exam preparation.
 
-As a trusted Portuguese tutor near me Wiesbaden , Barbara adapts her teaching style to suit your schedule and learning preferences. Whether you're seeking beginner Portuguese lessons Wiesbaden or advanced training, her structured yet fun approach ensures steady progress. Find the right fit for your goals with her online Portuguese tutor services.
+As a trusted Portuguese tutor near me Wiesbaden, Barbara adapts her teaching style to suit your schedule and learning preferences. Whether you're seeking beginner Portuguese lessons Wiesbaden or advanced training, her structured yet fun approach ensures steady progress. Find the right fit for your goals with her online Portuguese tutor services.

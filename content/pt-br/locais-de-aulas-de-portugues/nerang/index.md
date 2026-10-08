@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Nerang"
 description: "Aulas online de português brasileiro em Nerang, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/nerang/nerang-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -28,10 +28,6 @@ faq:
     answer: "Sim. As aulas são online, então você pode estudar a partir de Nerang. Os horários são combinados com antecedência usando Australia/Brisbane e a disponibilidade atual. Fale com Barbara para escolher o formato."
 editorial_reviewed: true
 ---
-
-## Aprenda português em Nerang: aulas especializadas de português brasileiro
-
-Nerang, localizada na Gold Coast, é um bairro vibrante com mais de 22.017 residentes e uma rica diversidade de culturas, incluindo uma crescente comunidade brasileira. Quer você queira aprender português em Nerang, conectar-se com eventos locais como o Nerang Brazilian Festival anual ou melhorar suas habilidades no idioma para negócios ou viagens, nossas aulas de português são desenvolvidas para todos os níveis. Aulas online estão disponíveis no mundo todo; aulas presenciais em grupo são realizadas em locais adequados da Gold Coast, em Kirra, Broadbeach ou Surfers Paradise.
 
 ## Por que escolher aulas de português em Nerang?
 

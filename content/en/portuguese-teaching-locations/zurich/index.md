@@ -3,7 +3,7 @@ translationKey: location-zurich
 title: "Online Brazilian Portuguese Lessons in Zurich"
 description: "Online Brazilian Portuguese lessons in Zurich, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/zurich/
 image:
@@ -50,7 +50,7 @@ Barbara Sharon brings a wealth of experience as a certified TESOL instructor wit
 
 Barbara’s teaching approach focuses on making learning enjoyable while building confidence. She guides students through the complexities of Brazilian Portuguese - from pronunciation and grammar to cultural nuances that shape everyday speech. Whether you're aiming to make meaningful connections with native speakers or gain fluency for travel, Barbara ensures your lessons are interactive and tailored to your progress.
 
-Ready to start your journey? Explore her [teaching services](/en/portuguese-teaching-services/)or get in touch via our [Contact page](/en/contact-portuguese-teacher/).
+Ready to start your journey? Explore her [teaching services](/en/portuguese-teaching-services/) or get in touch via our [Contact page](/en/contact-portuguese-teacher/).
 ## The Global Importance of Portuguese
 
 Portuguese is one of the world’s most widely spoken Romance languages, ranking as the fifth most spoken globally with over 267 million native speakers. It’s not just a language - it's a bridge to diverse cultures across Africa, Asia, and the Americas.

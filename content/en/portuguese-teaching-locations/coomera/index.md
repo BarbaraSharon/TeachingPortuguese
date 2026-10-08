@@ -3,7 +3,7 @@ translationKey: location-coomera
 title: "Portuguese in Coomera: In-Person & Online"
 description: "Brazilian Portuguese lessons in Coomera, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/coomera/
 image:
@@ -34,7 +34,7 @@ editorial_reviewed: true
 
 Coomera is a thriving northern Gold Coast suburb, home to over 23,000 residents and a vibrant multicultural community. With nearly 30% of its population being foreign-born, Coomera offers the perfect environment for language learners seeking to study Portuguese. Whether you're interested in Brazilian Portuguese or want to explore the differences between European and Brazilian dialects, this dynamic area provides an ideal setting to begin your linguistic journey.
 
-Whether you're searching for a Portuguese tutor Coomera , Brazilian Portuguese lessons Coomera , or conversational Portuguese classes Coomera , Barbara Sharon offers personalized and engaging instruction tailored to your needs. Her flexible formats include in-person classes in Surfers Paradise and online lessons, making it easy for you to learn at your own pace.
+Whether you're searching for a Portuguese tutor Coomera, Brazilian Portuguese lessons Coomera, or conversational Portuguese classes Coomera, Barbara Sharon offers personalized and engaging instruction tailored to your needs. Her flexible formats include in-person classes in Surfers Paradise and online lessons, making it easy for you to learn at your own pace.
 ## Why Learn Portuguese in Coomera?
 
 Coomera's peaceful suburban atmosphere is ideal for focused language learning. As part of the Gold Coast region, students have access to cultural events and activities that support immersive language experiences. The diverse community means you'll meet people from various backgrounds, enhancing your understanding of global Portuguese-speaking cultures.
@@ -55,9 +55,9 @@ Barbara Sharon offers flexible lesson formats including online classes, private 
 
 Students in Coomera can attend in-person Portuguese lessons in Surfers Paradise, just a short distance away. Additionally, online Portuguese tutoring is available for those who prefer remote learning or have busy schedules. Group classes and individual sessions both offer unique benefits to suit your lifestyle and goals.
 
-For students looking to improve their speaking skills, Barbara also provides a speaking club , offering a relaxed yet engaging environment to practice conversations. Whether you're searching for a Portuguese teacher Coomera , online Portuguese tutor Coomera , or private Portuguese tutor Coomera , she delivers tailored support to help you achieve fluency.
+For students looking to improve their speaking skills, Barbara also provides a speaking club, offering a relaxed yet engaging environment to practice conversations. Whether you're searching for a Portuguese teacher Coomera, online Portuguese tutor Coomera, or private Portuguese tutor Coomera, she delivers tailored support to help you achieve fluency.
 ## Start Your Journey Today - Learn Portuguese in Coomera
 
 If you're interested in learning Portuguese in Coomera or nearby areas, Barbara Sharon is ready to guide you on your path to mastering Brazilian Portuguese. Book a Portuguese lesson today and experience the joy of language learning with expert instruction.
 
-To learn more about services such as Portuguese tutor Coomera , Brazilian Portuguese lessons Coomera , or online Portuguese tutor Coomera , visit our [Services](/en/portuguese-teaching-services/)page. For inquiries or to schedule a session, please use the [Contact](/en/contact-portuguese-teacher/)form.
+To learn more about services such as Portuguese tutor Coomera, Brazilian Portuguese lessons Coomera, or online Portuguese tutor Coomera, visit our [Services](/en/portuguese-teaching-services/) page. For inquiries or to schedule a session, please use the [Contact](/en/contact-portuguese-teacher/)form.

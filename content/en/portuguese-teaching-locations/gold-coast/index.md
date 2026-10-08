@@ -3,7 +3,7 @@ translationKey: location-gold-coast
 title: "Portuguese in Gold Coast: In-Person & Online"
 description: "Brazilian Portuguese lessons in Gold Coast, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/gold-coast/
 image:
@@ -48,7 +48,7 @@ Barbara Sharon’s unique qualifications make her a standout choice for your Por
 
 Beyond her academic credentials, Barbara is a trained counselor currently pursuing a Master’s degree in Educational Studies and Behaviour Management. This dual expertise allows her to create a supportive and motivating environment where every student can thrive. Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, ensuring you not only learn the language but also use it naturally in real-life situations.
 
-She also offers speaking club sessions designed to build confidence and fluency through engaging discussions on topics of interest. For more information about her services or to book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact her directly via the [Contact](/en/contact-portuguese-teacher/)page.
+She also offers speaking club sessions designed to build confidence and fluency through engaging discussions on topics of interest. For more information about her services or to book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/) page or contact her directly via the [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Portuguese Lessons in Gold Coast
 
 Flexible learning options include online classes, private tutoring, and group sessions-suitable for all levels from beginners to advanced learners. Private lessons offer one-on-one attention tailored to your specific goals, while group sessions encourage interaction and peer learning.
@@ -66,62 +66,3 @@ If you’re considering in-person Portuguese classes Gold Coast or searching for
 
 - [Where can I learn Portuguese on the Gold Coast?](/en/answers/where-to-learn-portuguese-gold-coast/)
 - [How should I compare Portuguese tutors on the Gold Coast?](/en/answers/best-portuguese-tutor-gold-coast/)
-
-## Portuguese Lessons in Other Gold Coast Locations
-- [Broadbeach](/en/portuguese-teaching-locations/broadbeach/)
-- [Broadbeach Waters](/en/portuguese-teaching-locations/broadbeach-waters/)
-- [Burleigh Heads](/en/portuguese-teaching-locations/burleigh-heads/)
-- [Burleigh Waters](/en/portuguese-teaching-locations/burleigh-waters/)
-- [Advancetown](/en/portuguese-teaching-locations/advancetown/)
-- [Alberton](/en/portuguese-teaching-locations/alberton/)
-- [Arundel](/en/portuguese-teaching-locations/arundel/)
-- [Ashmore](/en/portuguese-teaching-locations/ashmore/)
-- [Austinville](/en/portuguese-teaching-locations/austinville/)
-- [Benowa](/en/portuguese-teaching-locations/benowa/)
-- [Biggera Waters](/en/portuguese-teaching-locations/biggera-waters/)
-- [Bilinga](/en/portuguese-teaching-locations/bilinga/)
-- [Bonogin](/en/portuguese-teaching-locations/bonogin/)
-- [Bundall](/en/portuguese-teaching-locations/bundall/)
-- [Carrara](/en/portuguese-teaching-locations/carrara/)
-- [Cedar Creek](/en/portuguese-teaching-locations/cedar-creek/)
-- [Clagiraba](/en/portuguese-teaching-locations/clagiraba/)
-- [Clear Island Waters](/en/portuguese-teaching-locations/clear-island-waters/)
-- [Coolangatta](/en/portuguese-teaching-locations/coolangatta/)
-- [Coombabah](/en/portuguese-teaching-locations/coombabah/)
-- [Coomera](/en/portuguese-teaching-locations/coomera/)
-- [Coomera Waters](/en/portuguese-teaching-locations/coomera-waters/)
-- [Currumbin](/en/portuguese-teaching-locations/currumbin/)
-- [Currumbin Valley](/en/portuguese-teaching-locations/currumbin-valley/)
-- [Currumbin Waters](/en/portuguese-teaching-locations/currumbin-waters/)
-- [Elanora](/en/portuguese-teaching-locations/elanora/)
-- [Ernest](/en/portuguese-teaching-locations/ernest/)
-- [Forest Hill](/en/portuguese-teaching-locations/forest-hill/)
-- [Foxwell](/en/portuguese-teaching-locations/foxwell/)
-- [Gaven](/en/portuguese-teaching-locations/gaven/)
-- [Gilston](/en/portuguese-teaching-locations/gilston/)
-- [Helensvale](/en/portuguese-teaching-locations/helensvale/)
-- [Highland Park](/en/portuguese-teaching-locations/highland-park/)
-- [Hollywell](/en/portuguese-teaching-locations/hollywell/)
-- [Hope Island](/en/portuguese-teaching-locations/hope-island/)
-- [Isle of Capri](/en/portuguese-teaching-locations/isle-of-capri/)
-- [Jacobs Well](/en/portuguese-teaching-locations/jacobs-well/)
-- [Kingsholme](/en/portuguese-teaching-locations/kingsholme/)
-- [Labrador](/en/portuguese-teaching-locations/labrador/)
-- [Lower Beechmont](/en/portuguese-teaching-locations/lower-beechmont/)
-- [Maudsland](/en/portuguese-teaching-locations/maudsland/)
-- [Mermaid Beach](/en/portuguese-teaching-locations/mermaid-beach/)
-- [Mermaid Waters](/en/portuguese-teaching-locations/mermaid-waters/)
-- [Merrimac](/en/portuguese-teaching-locations/merrimac/)
-- [Mudgeeraba](/en/portuguese-teaching-locations/mudgeeraba/)
-- [Nerang](/en/portuguese-teaching-locations/nerang/)
-- [Ormeau](/en/portuguese-teaching-locations/ormeau/)
-- [Oxenford](/en/portuguese-teaching-locations/oxenford/)
-- [Palm Beach](/en/portuguese-teaching-locations/palm-beach/)
-- [Pimpama](/en/portuguese-teaching-locations/pimpama/)
-- [Reedy Creek](/en/portuguese-teaching-locations/reedy-creek/)
-- [Robina](/en/portuguese-teaching-locations/robina/)
-- [Southport](/en/portuguese-teaching-locations/southport/)
-- [Tweed Heads](/en/portuguese-teaching-locations/tweed-heads/)
-- [Upper Coomera](/en/portuguese-teaching-locations/upper-coomera/)
-- [Varsity Lakes](/en/portuguese-teaching-locations/varsity-lakes/)
-- [Surfers Paradise](/en/portuguese-teaching-locations/surfers-paradise/)

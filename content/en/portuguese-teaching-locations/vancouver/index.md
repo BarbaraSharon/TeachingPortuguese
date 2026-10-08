@@ -3,7 +3,7 @@ translationKey: location-vancouver
 title: "Online Brazilian Portuguese Lessons in Vancouver"
 description: "Online Brazilian Portuguese lessons in Vancouver, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/vancouver/
 image:
@@ -52,7 +52,7 @@ Barbara Sharon is a certified Portuguese teacher with extensive experience teach
 
 With her expertise, Barbara helps students navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop authentic conversational skills. She offers flexible online private and group lessons, making it easy to fit learning into your schedule. Whether you're starting from scratch or aiming for fluency, she adapts her teaching approach to meet your needs.
 
-For more information on services or to book a session, visit our [Services](/en/portuguese-teaching-services/)or [Contact](/en/contact-portuguese-teacher/)pages.
+For more information on services or to book a session, visit our [Services](/en/portuguese-teaching-services/) or [Contact](/en/contact-portuguese-teacher/) pages.
 ## Portuguese as a Global Language
 
 As the fifth-most spoken language worldwide, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely used Romance languages across continents.
@@ -61,5 +61,3 @@ Learning Portuguese in Vancouver opens doors to understanding how this language 
 ## Online Portuguese Lessons in Vancouver
 
 Take advantage of convenient online private and group Portuguese lessons from Barbara Sharon in Vancouver. These interactive sessions make learning engaging, effective, and adaptable to your schedule.
-
-You'll receive personalized materials aligned with your interests and goals - whether that's exploring Brazilian music, watching Portuguese films, or preparing for travel or business interactions. Whether you're interested in learning Brazilian Portuguese or European Portuguese, she offers specialized instruction tailored to each dialect. Start your journey today and experience the joy of communicating in Portuguese with confidence!

@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Aulas online de português brasileiro em Leipzig"
 description: "Aulas online de português brasileiro em Leipzig, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/leipzig/leipzig-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -49,8 +49,6 @@ Barbara Sharon é uma professora de língua portuguesa altamente qualificada, co
 - Certificação em TESOL
 - Fluente em português, inglês, italiano e espanhol
 - Conselheira, com mestrado em Estudos Educacionais e Gestão Comportamental (em andamento)
-
-Com sua compreensão profunda dos dois dialetos, Barbara ajuda os alunos a navegar pelas diferenças entre o português brasileiro, entender o contexto cultural e desenvolver habilidades de conversação que lhes permitam se relacionar de forma autêntica com falantes nativos. Ela oferece sessões em grupo e particulares para aulas de português em Leipzig por meio de plataformas online interativas.
 
 Para mais informações sobre seus serviços, visite nossa página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela seção de [contato](/pt-br/contato-professora-portugues/) para agendar hoje sua sessão personalizada de tutoria de português.
 

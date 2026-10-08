@@ -3,7 +3,7 @@ translationKey: location-sydney
 title: "Online Brazilian Portuguese Lessons in Sydney"
 description: "Online Brazilian Portuguese lessons in Sydney, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/sydney/
 image:
@@ -32,7 +32,7 @@ editorial_reviewed: true
 
 ## Learn Portuguese in Sydney with Barbara Sharon - Your Gateway to Lusophone Culture
 
-Sydney, home to over 5.5 million people, is a vibrant and multicultural city that offers unique opportunities for language learners. With a foreign-born population of 48.6%, the city's diverse community includes over 11,429 Brazilian-born residents and 20,459 Portuguese speakers recorded in the 2016 census. This makes Sydney an ideal place to explore Portuguese culture through language. Whether you're interested in [Brazilian Portuguese lessons](/en/portuguese-teaching-services/)or seeking to connect with Lusophone communities, learning Portuguese in Sydney can open doors to rich cultural and professional experiences.
+Sydney, home to over 5.5 million people, is a vibrant and multicultural city that offers unique opportunities for language learners. With a foreign-born population of 48.6%, the city's diverse community includes over 11,429 Brazilian-born residents and 20,459 Portuguese speakers recorded in the 2016 census. This makes Sydney an ideal place to explore Portuguese culture through language. Whether you're interested in [Brazilian Portuguese lessons](/en/portuguese-teaching-services/) or seeking to connect with Lusophone communities, learning Portuguese in Sydney can open doors to rich cultural and professional experiences.
 
 Barbara Sharon offers online Portuguese tutor services for students in Sydney. With her expertise in Brazilian Portuguese, she helps learners navigate the nuances of the language while building confidence in real-life communication. Her private Portuguese teacher Sydney and group classes cater to all proficiency levels, providing personalized attention and structured learning paths.
 ## Why Learn Portuguese in Sydney?
@@ -62,4 +62,4 @@ The language’s influence extends beyond Brazil and Portugal, particularly thro
 
 Barbara Sharon provides flexible online Portuguese tutor services for students based in Sydney. Whether you're looking for a [Brazilian Portuguese teacher Sydney](/en/portuguese-teaching-services/)support or general Portuguese classes, she offers both individual and group learning formats to suit your needs.
 
-These online sessions use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, allowing you to explore Portuguese culture through authentic content. Discover more about [Portuguese lessons near Sydney](/en/portuguese-teaching-services/)or reach out to learn how Barbara can help you achieve your language goals.
+These online sessions use interactive tools and multimedia resources to make learning engaging and effective. You'll receive materials tailored to your specific interests and learning goals, allowing you to explore Portuguese culture through authentic content. Discover more about [Portuguese lessons near Sydney](/en/portuguese-teaching-services/) or reach out to learn how Barbara can help you achieve your language goals.

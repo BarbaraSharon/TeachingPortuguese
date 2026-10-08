@@ -3,7 +3,7 @@ translationKey: location-toronto
 title: "Online Brazilian Portuguese Lessons in Toronto"
 description: "Online Brazilian Portuguese lessons in Toronto, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/toronto/
 image:
@@ -52,7 +52,7 @@ Barbara Sharon is a dedicated Portuguese language educator with an impressive ac
 
 Her expertise enables students to navigate the differences between Brazilian and European Portuguese, grasp cultural subtleties, and develop confidence in speaking naturally. Whether you're interested in business connections with Brazil or wish to enjoy Brazilian cinema and literature, Barbara's teaching style makes learning both effective and enjoyable.
 
-She offers individual and group lessons through her [Services](/en/portuguese-teaching-services/)page. You can schedule sessions using the [Contact](/en/contact-portuguese-teacher/)form tailored to your needs and availability.
+She offers individual and group lessons through her [Services](/en/portuguese-teaching-services/) page. You can schedule sessions using the [Contact](/en/contact-portuguese-teacher/)form tailored to your needs and availability.
 ## Portuguese as a Global Language
 
 Portuguese ranks as the fifth-most spoken language in the world, with more than 267 million native speakers. It is one of the most widely used Romance languages globally and serves as an official language in multiple countries including Brazil, Portugal, Angola, Mozambique, Cape Verde, and Guinea-Bissau.
@@ -64,4 +64,4 @@ Barbara Sharon delivers interactive and engaging online Portuguese lessons for s
 
 You’ll receive personalized materials aligned with your interests - from music and movies to current events and cultural topics - to make learning meaningful and relevant. Whether you want to learn Brazilian Portuguese in Toronto or explore comparisons with European Portuguese, she offers flexible options for private Portuguese tutor sessions or group lessons tailored to your lifestyle.
 
-With the ability to study anytime, anywhere, learning Portuguese with Barbara Sharon is convenient, effective, and culturally enriching. Start your journey today and discover how much more you can express in Portuguese - "Falar é fácil, entender é difícil" .
+With the ability to study anytime, anywhere, learning Portuguese with Barbara Sharon is convenient, effective, and culturally enriching. Start your journey today and discover how much more you can express in Portuguese - "Falar é fácil, entender é difícil".

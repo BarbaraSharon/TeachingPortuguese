@@ -3,7 +3,7 @@ translationKey: location-rio-de-janeiro
 title: "Online Brazilian Portuguese Lessons in Rio De Janeiro"
 description: "Online Brazilian Portuguese lessons in Rio De Janeiro, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/rio-de-janeiro/
 image:
@@ -50,7 +50,7 @@ Barbara Sharon is a certified Brazilian Portuguese teacher with a strong academi
 
 Her lessons are designed to meet your individual goals, whether you're a beginner or looking to improve conversational fluency. Barbara emphasizes real-life communication skills and helps students navigate the differences between Brazilian and European Portuguese, making her an excellent choice for anyone wanting to truly connect with the local culture.
 
-To discover more about her teaching services, visit our [Services](/en/portuguese-teaching-services/)page or contact her via our [Contact](/en/contact-portuguese-teacher/)form.
+To discover more about her teaching services, visit our [Services](/en/portuguese-teaching-services/) page or contact her via our [Contact](/en/contact-portuguese-teacher/)form.
 ## Portuguese as a Global Language
 
 Portuguese is the fifth most spoken language in the world, with over 267 million native speakers. It's not only Brazil's official language but also widely used in Portugal, Angola, Mozambique, and other parts of Africa and Asia.

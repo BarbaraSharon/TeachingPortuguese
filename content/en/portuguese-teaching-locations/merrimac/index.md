@@ -3,7 +3,7 @@ translationKey: location-merrimac
 title: "Portuguese in Merrimac: In-Person & Online"
 description: "Brazilian Portuguese lessons in Merrimac, with online and in-person Gold Coast options. Private and group formats are available subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/merrimac/
 image:
@@ -65,4 +65,4 @@ Students can choose from private or group sessions, depending on their needs and
 
 Interested in learning Portuguese in Merrimac? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
-To learn more about her services, visit the [Services](/en/portuguese-teaching-services/)page or reach out via the [Contact](/en/contact-portuguese-teacher/)section.
+To learn more about her services, visit the [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/)section.

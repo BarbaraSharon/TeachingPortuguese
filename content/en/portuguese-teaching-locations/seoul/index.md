@@ -3,7 +3,7 @@ translationKey: location-seoul
 title: "Online Brazilian Portuguese Lessons in Seoul"
 description: "Online Brazilian Portuguese lessons in Seoul, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/seoul/
 image:
@@ -48,7 +48,7 @@ Barbara Sharon is a highly qualified Portuguese language instructor based in Aus
 - Speaks Portuguese, English, Italian, Spanish
 - Counsellor
 
-Her teaching approach emphasizes practical communication and cultural context, making learning enjoyable and effective. Barbara helps students understand the differences between Brazilian and European Portuguese, navigate local customs, and build confidence in speaking with native speakers. Explore her services by visiting our [Services](/en/portuguese-teaching-services/)page or reach out through our [Contact](/en/contact-portuguese-teacher/)section.
+Her teaching approach emphasizes practical communication and cultural context, making learning enjoyable and effective. Barbara helps students understand the differences between Brazilian and European Portuguese, navigate local customs, and build confidence in speaking with native speakers. Explore her services by visiting our [Services](/en/portuguese-teaching-services/) page or reach out through our [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language
 
 Portuguese is the fifth-most spoken language globally, with over 267 million native speakers. As one of the most widely spoken Romance languages, it plays a significant role in international communication and has evolved through centuries of cross-cultural exchange.
@@ -70,4 +70,4 @@ Barbara Sharon is a trusted Portuguese teacher in Seoul offering personalized on
 
 Her courses emphasize conversational Portuguese classes Seoul and cultural insights, making it easier to connect with Brazilian and Portuguese communities in the city. For beginners, Barbara provides structured Portuguese lessons for beginners Seoul that build foundational skills. Advanced learners can focus on refining their fluency through interactive discussions and real-world applications.
 
-With flexible scheduling and a commitment to quality education, her online Portuguese tutor Seoul services are designed to meet your specific needs. Explore our [Services](/en/portuguese-teaching-services/)or contact her directly via the [Contact](/en/contact-portuguese-teacher/)page to start learning today.
+With flexible scheduling and a commitment to quality education, her online Portuguese tutor Seoul services are designed to meet your specific needs. Explore our [Services](/en/portuguese-teaching-services/) or contact her directly via the [Contact](/en/contact-portuguese-teacher/) page to start learning today.

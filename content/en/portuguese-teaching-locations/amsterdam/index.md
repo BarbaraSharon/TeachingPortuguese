@@ -3,7 +3,7 @@ translationKey: location-amsterdam
 title: "Online Brazilian Portuguese Lessons in Amsterdam"
 description: "Online Brazilian Portuguese lessons in Amsterdam, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/amsterdam/
 image:
@@ -50,12 +50,12 @@ As a TESOL-certified instructor, she employs effective teaching methodologies th
 
 In addition to her academic background, Barbara is a trained counsellor currently pursuing a Master's degree in Educational Studies and Behaviour Management. This unique combination allows her to create a supportive, motivating environment where every student can thrive.
 
-Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language, but how to use it naturally in real-life situations. You can find more details about her teaching services on the [Services](/en/portuguese-teaching-services/)page.
+Her lessons are carefully structured to combine grammar, vocabulary, conversation, and cultural insights, helping you learn not just the language, but how to use it naturally in real-life situations. You can find more details about her teaching services on the [Services](/en/portuguese-teaching-services/) page.
 ## Private & Group Lessons
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.
 
-Barbara Sharon offers both individual and group Portuguese lessons in Amsterdam, conducted entirely online. Whether you're looking for a [Portuguese tutor amsterdam](/en/contact-portuguese-teacher/), a [Brazilian Portuguese teacher amsterdam](/en/contact-portuguese-teacher/), or general [Portuguese lessons amsterdam](/en/portuguese-teaching-services/), she adapts her approach to meet your specific needs. You can explore her full range of offerings through the [Services](/en/portuguese-teaching-services/)page.
+Barbara Sharon offers both individual and group Portuguese lessons in Amsterdam, conducted entirely online. Whether you're looking for a [Portuguese tutor amsterdam](/en/contact-portuguese-teacher/), a [Brazilian Portuguese teacher amsterdam](/en/contact-portuguese-teacher/), or general [Portuguese lessons amsterdam](/en/portuguese-teaching-services/), she adapts her approach to meet your specific needs. You can explore her full range of offerings through the [Services](/en/portuguese-teaching-services/) page.
 ## Start Your Portuguese Journey Today
 
-Interested in learning Portuguese in Amsterdam? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! You can reach out via the [Contact](/en/contact-portuguese-teacher/)page to get started with either private or group instruction tailored to your goals.
+Interested in learning Portuguese in Amsterdam? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! You can reach out via the [Contact](/en/contact-portuguese-teacher/) page to get started with either private or group instruction tailored to your goals.

@@ -3,7 +3,7 @@ translationKey: location-seattle
 title: "Online Brazilian Portuguese Lessons in Seattle"
 description: "Online Brazilian Portuguese lessons in Seattle, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/seattle/
 image:
@@ -52,7 +52,7 @@ Barbara Sharon is a qualified Portuguese language instructor with extensive expe
 
 With her expertise, Barbara can help you navigate the differences between Brazilian and European Portuguese, understand cultural context, and develop conversational skills that will allow you to engage authentically with native speakers. Whether you're interested in business connections with Brazil or simply want to appreciate Portuguese culture, Barbara's approach makes learning enjoyable and effective.
 
-She offers online Portuguese lessons Seattle for students seeking a flexible option, including private Portuguese tutor Seattle sessions and group classes tailored to different proficiency levels. Learn more about her services by visiting the [Services](/en/portuguese-teaching-services/)page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section.
+She offers online Portuguese lessons Seattle for students seeking a flexible option, including private Portuguese tutor Seattle sessions and group classes tailored to different proficiency levels. Learn more about her services by visiting the [Services](/en/portuguese-teaching-services/) page or get in touch through the [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language
 
 As the world's fifth-most spoken language, Portuguese is an important global lingua franca. With over 267 million native speakers, it's one of the most widely spoken Romance languages globally.

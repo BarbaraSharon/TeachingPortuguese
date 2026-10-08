@@ -4,7 +4,7 @@ type: portuguese-teaching-locations
 title: "Clases online de portugués brasileño en Pimpama"
 description: "Clases online de portugués brasileño en Pimpama, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 image:
   filename: pages/portuguese-teaching-locations/pimpama/pimpama-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -30,8 +30,6 @@ editorial_reviewed: true
 ---
 
 ## Aprende portugués en Pimpama: clases de portugués brasileño cerca de ti
-
-Pimpama es un suburbio del norte de Gold Coast de rápido crecimiento, con una población diversa de 24.601 residentes según el censo de 2021. Con un 33,7 % de habitantes nacidos en el extranjero, la zona refleja un entorno multicultural que favorece el aprendizaje de idiomas y el intercambio cultural. La cercanía a Surfers Paradise resulta práctica para estudiantes que buscan una tutora de portugués o una profesora de portugués brasileño en Pimpama. Barbara Sharon ofrece clases de portugués presenciales y en línea en Gold Coast: las presenciales se realizan en Surfers Paradise, a poca distancia de Pimpama, y las sesiones en línea aportan flexibilidad al alumnado de toda la región.
 
 Sus clases cerca de Pimpama incluyen sesiones particulares y grupales, con opciones de club de conversación para quienes desean practicar en un entorno de apoyo. Tanto si buscas clases de portugués o de portugués brasileño en Pimpama, el enfoque de Barbara atiende todos los niveles, desde principiantes hasta alumnado avanzado interesado en conversación.
 ## ¿Por qué aprender portugués en Pimpama?

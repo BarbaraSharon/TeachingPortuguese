@@ -3,7 +3,7 @@ translationKey: location-coomera-waters
 title: "Portuguese in Coomera Waters: In-Person & Online"
 description: "Portuguese lessons in Coomera Waters: in-person Gold Coast classes and online options, in private or group formats subject to confirmation."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/coomera-waters/
 image:
@@ -53,7 +53,7 @@ Barbara Sharon offers both in-person and online Portuguese instruction in Coomer
 
 Private lessons in Coomera Waters provide personalized attention, helping you progress faster toward your language goals. For students located near Surfers Paradise, attending in-person sessions is simple-just a short drive away. Online options ensure that distance isn't a barrier to learning.
 
-To explore available services or book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/)page or contact us directly through the [Contact](/en/contact-portuguese-teacher/)section.
+To explore available services or book a Portuguese lesson, visit our [Services](/en/portuguese-teaching-services/) page or contact us directly through the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Portuguese Journey Today
 
 Whether you're searching for Brazilian Portuguese lessons in Coomera Waters or a native Portuguese teacher nearby, Barbara Sharon delivers high-quality instruction designed for all levels. From beginners to advanced speakers, her conversational classes help students develop fluency and cultural awareness.

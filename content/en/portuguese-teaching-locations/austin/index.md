@@ -3,7 +3,7 @@ translationKey: location-austin
 title: "Online Brazilian Portuguese Lessons in Austin"
 description: "Online Brazilian Portuguese lessons in Austin, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/austin/
 image:
@@ -53,7 +53,7 @@ Her lessons are carefully structured to combine grammar, vocabulary, conversatio
 
 Flexible lesson formats include online classes, private tutoring, and group sessions. All levels are welcome, from beginners to advanced learners. Private lessons offer personalized attention, while group sessions provide opportunities for social interaction and practice.
 
-Barbara Sharon teaches exclusively online to students in Austin, offering both individual and small-group Portuguese lessons. You can explore more details about her teaching services on the [Services](/en/portuguese-teaching-services/)page or get in touch directly through the [Contact](/en/contact-portuguese-teacher/)section.
+Barbara Sharon teaches exclusively online to students in Austin, offering both individual and small-group Portuguese lessons. You can explore more details about her teaching services on the [Services](/en/portuguese-teaching-services/) page or get in touch directly through the [Contact](/en/contact-portuguese-teacher/)section.
 ## Start Your Portuguese Journey Today
 
 Interested in learning Portuguese in Austin? Contact Barbara Sharon for a Portuguese lesson and start your language journey today! Whether you're seeking a Brazilian Portuguese teacher, a conversational Portuguese class, or beginner-friendly lessons, she offers personalized instruction tailored to your goals. With online Portuguese tutor options available, finding the right Portuguese lessons near you has never been easier.

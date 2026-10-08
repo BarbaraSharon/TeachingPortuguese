@@ -3,7 +3,7 @@ translationKey: location-bonn
 title: "Online Brazilian Portuguese Lessons in Bonn"
 description: "Online Brazilian Portuguese lessons in Bonn, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/bonn/
 image:
@@ -48,7 +48,7 @@ Barbara Sharon brings a wealth of experience as a native Brazilian with a Bachel
 
 As a trained counselor and currently pursuing a Master's in Educational Studies, she creates an engaging learning environment that supports personal and academic goals. Her lessons emphasize real-world application, helping students navigate cultural contexts and communication styles unique to Brazilian Portuguese.
 
-Barbara Sharon offers online Portuguese tutor services in Bonn for all levels, including private one-on-one classes and interactive group discussions. Students can explore her full range of services through the [Services](/en/portuguese-teaching-services/)page or reach out directly via the [Contact](/en/contact-portuguese-teacher/)page.
+Barbara Sharon offers online Portuguese tutor services in Bonn for all levels, including private one-on-one classes and interactive group discussions. Students can explore her full range of services through the [Services](/en/portuguese-teaching-services/) page or reach out directly via the [Contact](/en/contact-portuguese-teacher/) page.
 ## Private & Group Portuguese Lessons in Bonn
 
 All lessons are conducted online, offering flexibility for students living in Bonn. Private Portuguese tutor sessions provide personalized attention to meet individual learning objectives, while group classes offer a collaborative space for interaction and practice.

@@ -3,7 +3,7 @@ translationKey: location-abu-dhabi
 title: "Online Brazilian Portuguese Lessons in Abu Dhabi"
 description: "Online Brazilian Portuguese lessons in Abu Dhabi, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/abu-dhabi/
 image:
@@ -58,6 +58,6 @@ Private lessons provide one-on-one attention and personalized instruction, while
 From Brazilian Portuguese lessons to specialized conversational classes, Barbara's flexible approach makes it easy for anyone in Abu Dhabi to start or continue their journey toward fluency. Visit [Services](/en/portuguese-teaching-services/)to learn more about what she offers.
 ## Start Your Portuguese Journey Today in Abu Dhabi
 
-Ready to begin learning Portuguese in Abu Dhabi? Take advantage of a Portuguese lesson with Barbara Sharon and discover how easy it can be to gain confidence in speaking, listening, reading, and writing Portuguese. Contact her via the [Contact](/en/contact-portuguese-teacher/)page to book your session or ask any questions about her online Portuguese tutor services.
+Ready to begin learning Portuguese in Abu Dhabi? Take advantage of a Portuguese lesson with Barbara Sharon and discover how easy it can be to gain confidence in speaking, listening, reading, and writing Portuguese. Contact her via the [Contact](/en/contact-portuguese-teacher/) page to book your session or ask any questions about her online Portuguese tutor services.
 
 "Aprender é um caminho, não um destino." - Learning is a journey, not a destination.

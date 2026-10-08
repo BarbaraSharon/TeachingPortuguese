@@ -3,7 +3,7 @@ translationKey: location-salzburg
 title: "Online Brazilian Portuguese Lessons in Salzburg"
 description: "Online Brazilian Portuguese lessons in Salzburg, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/salzburg/
 image:
@@ -50,7 +50,7 @@ Barbara Sharon is an experienced Portuguese instructor who specializes in Brazil
 
 Barbara offers flexible online Portuguese lessons for students in Salzburg, providing both individual and group sessions. Her teaching approach focuses on real-life communication skills and cultural context, helping you feel confident engaging with native speakers. Whether you're learning Brazilian Portuguese or European Portuguese, she tailors her instruction to meet your specific needs.
 
-With Barbara's expertise, you'll gain a strong foundation in authentic communication, explore the differences between regional dialects, and connect more deeply with Lusophone cultures. Learn more about her services on the [Services](/en/portuguese-teaching-services/)page or contact her via the [Contact](/en/contact-portuguese-teacher/)section.
+With Barbara's expertise, you'll gain a strong foundation in authentic communication, explore the differences between regional dialects, and connect more deeply with Lusophone cultures. Learn more about her services on the [Services](/en/portuguese-teaching-services/) page or contact her via the [Contact](/en/contact-portuguese-teacher/)section.
 ## Portuguese as a Global Language
 
 Portuguese is one of the world’s most spoken languages, ranking fifth globally with over 267 million native speakers. It is not only the official language of Brazil, Portugal, Angola, Mozambique, and other countries but also serves as an important lingua franca in many parts of Africa, Asia, and the Americas.

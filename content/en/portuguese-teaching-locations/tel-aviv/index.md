@@ -3,7 +3,7 @@ translationKey: location-tel-aviv
 title: "Online Brazilian Portuguese Lessons in Tel Aviv"
 description: "Online Brazilian Portuguese lessons in Tel Aviv, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-09-08"
+lastmod: "2026-10-08"
 aliases:
 - /portuguese-teaching-locations/tel-aviv/
 image:
@@ -43,12 +43,6 @@ Brazil, home to the largest Portuguese-speaking population globally, offers insi
 
 Tel Aviv also benefits from strong trade and business links with both Brazil and Portugal. These connections create opportunities for professionals to engage with Portuguese-speaking markets, making language skills valuable for career growth. The Israel-Portugal Chamber of Commerce and other organizations further highlight the city's role in fostering economic ties with Portuguese-speaking countries.
 ## How Barbara Sharon Can Help You Learn Portuguese in Tel Aviv
-
-Barbara Sharon is a qualified Portuguese language instructor based in Tel Aviv who specializes in online Portuguese lessons. Her educational background includes:
-- Bachelor in Languages & Literature - Federal University of Rio de Janeiro (UFRJ)
-- TESOL certified
-- Speaks Portuguese, English, Italian, Spanish
-- Counsellor
 
 As a dedicated Portuguese teacher in Tel Aviv, Barbara offers online lessons tailored to your needs. She provides both private and group sessions, ensuring personalized attention for beginners and advanced learners alike. Whether you're preparing for travel or aiming to build professional connections with Portuguese-speaking countries, her approach makes learning enjoyable and effective.
 
