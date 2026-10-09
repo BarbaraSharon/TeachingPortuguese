@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Beginner Brazilian Portuguese Lessons"
 description: "Start Brazilian Portuguese with practical conversation, pronunciation, vocabulary, grammar, and cultural guidance in private or group lessons."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -30,9 +30,9 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: View all lesson options
-      url: /en/portuguese-teaching-services/
-      icon: hero/arrow-left
+      text: Explore online group classes
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
+      icon: hero/users
       style: ghost
     media:
       type: image
@@ -113,6 +113,19 @@ sections:
     - title: How do I start Brazilian Portuguese from zero?
       text: Follow a practical first-month sequence built around useful sounds, phrases and routines.
       url: /en/answers/start-learning-brazilian-portuguese-from-zero/
+- block: cta-card
+  id: beginner-lesson-example
+  content:
+    title: Example practice from the beginner video
+    text: >
+      Use the video’s beginner vocabulary and grammar fundamentals for a short practice cycle: pause, repeat one useful phrase aloud, then write a new sentence with the same pattern. This connects pronunciation, vocabulary, grammar, and a real situation before Barbara adapts the next step to your level.
+    button:
+      text: Ask about beginner group practice
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: Ready to start Portuguese?

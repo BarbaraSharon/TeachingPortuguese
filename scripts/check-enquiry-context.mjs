@@ -17,6 +17,7 @@ const expectedOffers = [
 ];
 const expectedIntents = new Set([
   "online",
+  "online_group",
   "gold_coast_group",
   "gold_coast_private",
   "group",
@@ -342,6 +343,8 @@ function makeSimulation({html, registry, enquirySource, analyticsSource, languag
     dispatchWindow(eventName);
   };
   assertContextApplied("online", "term_10_week");
+  setHash("#enquiry-online_group-term_10_week");
+  assertContextApplied("online_group", "term_10_week");
   setHash("#enquiry-gold_coast_group-term_10_week_1_5_hour");
   assertContextApplied("gold_coast_group", "term_10_week_1_5_hour");
   setHash("");
@@ -378,6 +381,8 @@ function makeSimulation({html, registry, enquirySource, analyticsSource, languag
     assert.equal(contactEvents.length, 1, `${language} repeated context changes emitted duplicate contact events`);
     const payload = contactEvents[0][2];
     assert.equal(payload.lesson_format, "group", `${language} analytics lesson format changed`);
+    assert.equal(payload.enquiry_intent, "group", `${language} analytics enquiry intent changed`);
+    assert.equal(payload.enquiry_offer, "term_10_week", `${language} analytics enquiry offer changed`);
     assert.equal(payload.language, language, `${language} analytics language changed`);
     assert.equal(payload.channel, "email", `${language} analytics channel changed`);
     assert.equal(payload.page_path, location.pathname, `${language} analytics page path changed`);
@@ -438,7 +443,7 @@ for (const htmlPath of allHtml) {
   }
   assert.equal((html.match(/data-enquiry-offer=term_10_week_1_hour/g) || []).length, 0, `${relative} still uses the obsolete A$290 offer ID`);
 }
-for (const [code, count] of journeyCounts) assert.equal(count, 4, `${code} must retain four A$290 journeys`);
-assert.equal([...journeyCounts.values()].reduce((sum, count) => sum + count, 0), 12, "all three languages must retain twelve A$290 journeys");
+for (const [code, count] of journeyCounts) assert.equal(count, 5, `${code} must retain five A$290 journeys including the online group offer`);
+assert.equal([...journeyCounts.values()].reduce((sum, count) => sum + count, 0), 15, "all three languages must retain fifteen A$290 journeys including the online group offer");
 
-console.log("Enquiry context checks passed: canonical registry, 12 A$290 and six private pricing journeys, URI-encoded email text, all contact channels, deferred hero rendering, history restoration, and consent-gated analytics.");
+console.log("Enquiry context checks passed: canonical registry, 15 A$290 and six private pricing journeys, URI-encoded email text, all contact channels, deferred hero rendering, history restoration, and consent-gated analytics.");

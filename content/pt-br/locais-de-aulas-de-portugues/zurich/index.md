@@ -3,7 +3,7 @@ translationKey: location-zurich
 title: "Aulas online de português brasileiro em Zurich"
 description: "Aulas online de português brasileiro em Zurich, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/zurich/zurich-location-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Zurique | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -64,3 +64,7 @@ Em Zurique, aprender português abre portas para compreender as ricas tradiçõe
 Barbara Sharon oferece aulas flexíveis de português online em Zurique, combinando formatos particulares e em grupo para atender às suas preferências. Cada sessão é cuidadosamente preparada com ferramentas multimídia interativas, assegurando uma experiência de aprendizagem envolvente e adaptada aos seus interesses.
 
 Quer você procure aulas acessíveis de português brasileiro para iniciantes ou queira aprimorar suas habilidades de conversação, essas sessões são criadas para melhorar a compreensão e a fluência cultural. De dominar saudações básicas como “Olá!” a entender expressões coloquiais usadas no cotidiano, Barbara ajuda você a progredir passo a passo.
+
+## Encontre uma turma online a partir de Zurique
+
+Quem aprende a partir de Zurique pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).

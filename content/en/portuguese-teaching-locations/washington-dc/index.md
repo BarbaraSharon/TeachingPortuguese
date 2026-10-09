@@ -3,7 +3,7 @@ translationKey: location-washington-dc
 title: "Online Brazilian Portuguese Lessons in Washington Dc"
 description: "Online Brazilian Portuguese lessons in Washington Dc, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/washington-dc/
 image:
@@ -67,3 +67,7 @@ Online private and group Portuguese lessons are available in Washington DC. Our 
 Whether you're seeking a Portuguese tutor near me Washington DC or looking for Brazilian Portuguese lessons Washington DC, our platform provides accessible and personalized instruction for learners of all levels. For those interested in beginner-friendly instruction, we also offer Portuguese lessons for beginners Washington DC to build a strong foundation in the language.
 
 Ready to start your Portuguese journey? Find an online Portuguese tutor Washington DC who can help you achieve fluency through flexible scheduling and personalized attention.
+
+## Find an online group from Washington DC
+
+Learners in Washington DC can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

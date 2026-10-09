@@ -3,7 +3,7 @@ translationKey: location-dublin
 title: "Aulas online de português brasileiro em Dublin"
 description: "Aulas online de português brasileiro em Dublin, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/dublin/dublin-location-portuguese-lesson.png
   alt_text: Aprenda português em Dublin | Aulas online com Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -59,3 +59,7 @@ Como professora de português em Dublin, ela oferece formatos individuais e em p
 Aprender português em Dublin dá acesso a uma comunidade crescente de falantes e eventos culturais que enriquecem sua experiência de aprendizagem. Quer você tenha interesse em aulas de português brasileiro em Dublin ou aulas gerais de português, Barbara Sharon está aqui para apoiar sua jornada.
 
 Pronto para começar? Entre em contato com Barbara Sharon para uma aula de português e descubra como a tutoria online eficaz de português em Dublin pode ampliar suas habilidades e confiança no idioma. Aprenda português em Dublin hoje com uma falante nativa qualificada e especialista em cultura!
+
+## Encontre uma turma online a partir de Dublin
+
+Quem aprende a partir de Dublin pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).

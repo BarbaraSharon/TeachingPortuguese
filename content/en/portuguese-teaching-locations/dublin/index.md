@@ -3,7 +3,7 @@ translationKey: location-dublin
 title: "Online Brazilian Portuguese Lessons in Dublin"
 description: "Online Brazilian Portuguese lessons in Dublin, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/dublin/
 image:
@@ -57,3 +57,7 @@ As a Portuguese teacher in Dublin, she offers both one-on-one and small group se
 Learning Portuguese in Dublin gives you access to a growing community of speakers and cultural events that enrich your learning experience. Whether you're interested in Brazilian Portuguese lessons in Dublin or general Portuguese classes, Barbara Sharon is here to support your journey.
 
 Ready to begin? Contact Barbara Sharon for a Portuguese lesson and discover how effective online Portuguese tutoring in Dublin can boost your language skills and confidence. Learn Portuguese in Dublin with a qualified native speaker and cultural expert today!
+
+## Find an online group from Dublin
+
+Learners in Dublin can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

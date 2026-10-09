@@ -3,7 +3,7 @@ translationKey: portugues-para-iniciantes
 title: "Aulas de português para quem inicia"
 description: "Comece português brasileiro com conversação prática, pronúncia, vocabulário, gramática e contexto cultural em aulas particulares ou em grupo."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/beginner-portuguese/beginner-portuguese-brazilian-portuguese-lessons.png
@@ -30,9 +30,9 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Veja todas as opções de aula
-      url: /pt-br/aulas-de-portugues/
-      icon: hero/arrow-left
+      text: Conheça as aulas online em grupo
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
+      icon: hero/users
       style: ghost
     media:
       type: image
@@ -113,6 +113,19 @@ sections:
     - title: Como começar português brasileiro do zero?
       text: Siga uma sequência prática para o primeiro mês com sons, frases e rotinas úteis.
       url: /pt-br/respostas/comecar-portugues-brasileiro-do-zero/
+- block: cta-card
+  id: beginner-lesson-example
+  content:
+    title: Exemplo de prática para iniciantes
+    text: >
+      Use o vocabulário e os fundamentos de gramática do vídeo em um ciclo breve: pause, repita em voz alta uma frase útil e escreva outra frase com o mesmo padrão. Assim você conecta pronúncia, vocabulário, gramática e uma situação real antes que Barbara adapte o próximo passo ao seu nível.
+    button:
+      text: Pergunte sobre a prática em grupo para iniciantes
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: Pronto para começar a aprender português?

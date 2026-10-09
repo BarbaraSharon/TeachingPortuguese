@@ -3,7 +3,7 @@ translationKey: location-washington-dc
 title: "Aulas online de português brasileiro em Washington Dc"
 description: "Aulas online de português brasileiro em Washington Dc, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/washington-dc/washington-dc-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -70,3 +70,7 @@ Aulas de português online, particulares e em grupo, estão disponíveis em Wash
 Quer você procure uma tutora de português perto de você em Washington, D.C. ou aulas de português brasileiro em Washington, D.C., nossa plataforma oferece ensino acessível e personalizado para alunos de todos os níveis. Para quem tem interesse em ensino acessível para iniciantes, também oferecemos aulas de português para iniciantes em Washington, D.C. para construir uma base sólida no idioma.
 
 Pronto para começar sua jornada de português? Encontre uma tutora de português online em Washington, D.C. que possa ajudar você a alcançar fluência com horários flexíveis e atenção personalizada.
+
+## Encontre uma turma online a partir de Washington, D.C.
+
+Quem aprende a partir de Washington, D.C. pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).

@@ -1,5 +1,5 @@
 ---
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 translationKey: home
 title: "Aprende portugués con Barbara Sharon"
 summary: "Aprende portugués brasileño con Barbara Sharon en clases particulares y grupales online en todo el mundo, y presenciales en Gold Coast."
@@ -71,6 +71,18 @@ sections:
       description: Formatos de clase flexibles
   design:
     layout: minimal
+- block: cta-card
+  id: video-lesson-notes
+  content:
+    title: Practica con la clase para principiantes
+    text: El vídeo presenta vocabulario esencial y fundamentos de gramática del portugués brasileño. Pausa después de cada sección, repite el idioma en voz alta y escribe una frase útil para una conversación real.
+    button:
+      text: Ver el camino para principiantes
+      url: /es/portugues-para-iniciantes/
+      icon: hero/academic-cap
+      style: outline
+  design:
+    alignment: center
 - block: features
   content:
     subtitle: Clases de portugués
@@ -89,6 +101,10 @@ sections:
       icon: hero/sparkles
       description: Desarrolla tu fluidez, perfecciona la pronunciación y explora la conversación, la gramática y los matices culturales avanzados.
       url: /es/portugues-avanzado/
+    - name: Clases grupales online
+      icon: hero/users
+      description: Únete a un grupo en directo para tu nivel y practica portugués brasileño con otras personas adultas de todo el mundo.
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
     - name: Portugués para negocios
       icon: hero/briefcase
       description: Desarrolla habilidades prácticas de comunicación en portugués para conversaciones laborales, relaciones profesionales y viajes de negocios.

@@ -79,7 +79,7 @@ const serviceObjects = outputFiles(fileURLToPath(new URL('../public/', import.me
   .flatMap((object) => object['@graph'] || [object])
   .filter((node) => hasType(node, 'Service'));
 
-assert.equal(serviceObjects.length, 603, 'Expected 603 rendered Service JSON-LD objects.');
+assert.equal(serviceObjects.length, 606, 'Expected 606 rendered Service JSON-LD objects.');
 for (const service of serviceObjects) {
   assert.ok(service['@id']?.endsWith('#service'), `Service ${service.name} must have a stable @id.`);
   assert.ok(service.url?.startsWith(`${origin}/`), `Service ${service.name} must have a canonical URL.`);
@@ -111,6 +111,15 @@ const serviceOfferCases = [
       en: '/en/portuguese-teaching-services/online-portuguese-lessons/index.html',
       es: '/es/servicios-clases-portugues/clases-portugues-online/index.html',
       'pt-br': '/pt-br/aulas-de-portugues/aulas-online/index.html',
+    },
+    modes: ['online'],
+  },
+  {
+    name: 'online group classes',
+    routes: {
+      en: '/en/portuguese-teaching-services/online-portuguese-group-classes/index.html',
+      es: '/es/servicios-clases-portugues/clases-grupales-portugues-online/index.html',
+      'pt-br': '/pt-br/aulas-de-portugues/aulas-grupais-portugues-online/index.html',
     },
     modes: ['online'],
   },
@@ -190,7 +199,7 @@ const countType = (type) => pageNodes.flatMap((page) => page.nodes).filter((node
 
 assert.equal(countType('Article'), 105, 'Expected 105 rendered Article nodes.');
 assert.equal(countType('Course'), 21, 'Expected six page Course nodes plus fifteen homepage review Course nodes.');
-assert.equal(countType('FAQPage'), 39, 'Expected thirty-nine rendered FAQPage nodes.');
+assert.equal(countType('FAQPage'), 42, 'Expected forty-two rendered FAQPage nodes.');
 assert.equal(countType('WebPage'), 93, 'Expected 93 rendered answer WebPage nodes.');
 assert.equal(countType('ProfilePage'), 3, 'Expected one localized ProfilePage node per language.');
 

@@ -3,7 +3,7 @@ translationKey: location-los-angeles
 title: "Online Brazilian Portuguese Lessons in Los Angeles"
 description: "Online Brazilian Portuguese lessons in Los Angeles, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/los-angeles/
 image:
@@ -69,3 +69,7 @@ Students receive materials tailored to their specific interests and learning goa
 Ready to start your journey toward fluency in Portuguese? Contact Barbara Sharon today for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey.
 
 Barbara offers both group and private lessons online, making it easy for students in Los Angeles to find the right fit for their learning needs. Explore her offerings through the [Services](/en/portuguese-teaching-services/) page or reach out via the [Contact](/en/contact-portuguese-teacher/) page today.
+
+## Find an online group from Los Angeles
+
+Learners in Los Angeles can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

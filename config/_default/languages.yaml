@@ -28,6 +28,10 @@ en:
       parent: Lessons
       url: /portuguese-teaching-services/online-portuguese-lessons/
       weight: 20
+    - name: Online group classes
+      parent: Lessons
+      url: /portuguese-teaching-services/online-portuguese-group-classes/
+      weight: 25
     - name: Private lessons
       parent: Lessons
       url: /portuguese-teaching-services/portuguese-tutoring-gold-coast/
@@ -193,6 +197,10 @@ pt-br:
       parent: Aulas
       url: /pt-br/aulas-de-portugues/aulas-online/
       weight: 20
+    - name: Aulas online em grupo
+      parent: Aulas
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
+      weight: 25
     - name: Aulas particulares
       parent: Aulas
       url: /pt-br/aulas-de-portugues/aulas-particulares-portugues-gold-coast/
@@ -350,6 +358,10 @@ es:
       parent: Servicios
       url: /es/servicios-clases-portugues/clases-portugues-online/
       weight: 10
+    - name: Clases grupales online
+      parent: Servicios
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
+      weight: 15
     - name: Clases particulares
       parent: Servicios
       url: /es/servicios-clases-portugues/clases-particulares-portugues-gold-coast/

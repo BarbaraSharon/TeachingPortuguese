@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Clases de portugués: opciones y formatos"
 description: "Explora clases de portugués brasileño para distintos niveles y objetivos, online en todo el mundo y privadas o grupales en Gold Coast."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: services
 image:
   filename: pages/portuguese-teaching-services/portuguese-teaching-services-brazilian-portuguese-lessons.png
@@ -102,6 +102,17 @@ sections:
       button:
         text: Explora las clases en línea
         url: /es/servicios-clases-portugues/clases-portugues-online/
+    - title: Clases grupales online en todo el mundo
+      text: Únete a un grupo en directo adecuado para tu nivel y practica portugués brasileño con otras personas adultas. Puede haber varios grupos cada semana; los horarios cambian cada trimestre.
+      feature_icon: check
+      features:
+      - Grupos principiantes, intermedios y avanzados
+      - Práctica semanal en directo
+      - Selección del trimestre y horario por consulta
+      image: services/group-classes-generated.png
+      button:
+        text: Explora las clases grupales online
+        url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
     - title: Clases particulares presenciales en Gold Coast
       text: Recibe orientación individual y concentrada en un entorno presencial en Gold Coast. Las clases pueden adaptarse a adultos, desde quienes empiezan portugués hasta quienes quieren perfeccionar la conversación avanzada.
       feature_icon: check

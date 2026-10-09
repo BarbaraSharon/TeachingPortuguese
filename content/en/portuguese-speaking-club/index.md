@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Brazilian Portuguese Conversation Club"
 description: "Practise Brazilian Portuguese conversation with Barbara Sharon in a supportive club format that encourages speaking, listening, and everyday communication."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-speaking-club/
 image:
@@ -27,6 +27,8 @@ service:
 Ready to take your Portuguese to the next level? The Portuguese Speaking Club is an engaging, supportive group environment where you can practise real conversation, build confidence, and develop your fluency with fellow Portuguese learners.
 
 The Portuguese Speaking Club helps beginner and advanced learners practise Brazilian Portuguese, improve pronunciation, and expand vocabulary. Sessions may be online or in person, depending on availability. Barbara Sharon is a qualified Brazilian Portuguese teacher and mental health counsellor who creates a supportive space for real conversation.
+
+The Speaking Club is conversation practice rather than a level-based 10-week course. If you want a structured weekly group with a shared progression, see the [online group classes](/en/portuguese-teaching-services/online-portuguese-group-classes/). Contact Barbara with your level and availability to compare the current options.
 
 ## Speaking Club fees
 

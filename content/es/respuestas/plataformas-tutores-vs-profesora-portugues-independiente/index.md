@@ -7,7 +7,7 @@ question: "Preply, Superprof o profesora independiente de portugués"
 direct_answer: "Preply, Superprof, italki, Verbling, Classgap y AmazingTalker permiten explorar perfiles de muchos profesores de portugués, pero un perfil en una plataforma no garantiza por sí solo la formación, preparación o continuidad que necesitas. Una profesora independiente y cualificada puede trabajar directamente contigo, preparar clases según tus objetivos y mantener un solo plan de aprendizaje a largo plazo. Antes de elegir, compara credenciales, preparación, correcciones, continuidad, coste total y comodidad."
 authors: [me]
 date: 2026-08-26
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 weight: 55
 robots: index, follow, max-image-preview:large
 image:
@@ -124,6 +124,6 @@ También puede ser más sencillo hablar directamente del servicio y del coste to
 
 Barbara Sharon tiene una **licenciatura en Lenguas y Literatura de la Universidade Federal do Rio de Janeiro (UFRJ)** y es **instructora certificada por TESOL**. Su [página sobre Barbara](/es/sobre-aprender-portugues/) explica su formación, sus idiomas y su enfoque. Las clases pueden combinar orientación estructurada, conversación, pronunciación, gramática, vocabulario y contexto cultural brasileño según el nivel y el propósito del estudiante.
 
-Barbara ofrece [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/) para adultos de todo el mundo, sujetas a disponibilidad, dentro de sus [servicios de clases de portugués](/es/servicios-clases-portugues/). Puedes comparar los [factores del precio](/es/respuestas/cuanto-cuestan-clases-portugues-australia/) y la [guía para elegir profesor](/es/respuestas/mejor-profesor-portugues-gold-coast/), y después [contactar con Barbara](/es/contacto-profesora-portugues/) indicando tu nivel, objetivo, zona horaria y formato preferido.
+Barbara ofrece [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/) para adultos de todo el mundo, sujetas a disponibilidad, dentro de sus [servicios de clases de portugués](/es/servicios-clases-portugues/). La opción estructurada por trimestres se describe en las [clases grupales online](/es/servicios-clases-portugues/clases-grupales-portugues-online/); los niveles y horarios cambian cada trimestre y se confirman por consulta. Puedes comparar los [factores del precio](/es/respuestas/cuanto-cuestan-clases-portugues-australia/) y la [guía para elegir profesor](/es/respuestas/mejor-profesor-portugues-gold-coast/), y después [contactar con Barbara](/es/contacto-profesora-portugues/) indicando tu nivel, objetivo, zona horaria y formato preferido.
 
 **Información de las plataformas revisada el 8 de octubre de 2026. Próxima revisión factual prevista para el 8 de abril de 2027.** Las reglas y los cargos pueden cambiar; consulta las fuentes oficiales enlazadas antes de decidir.

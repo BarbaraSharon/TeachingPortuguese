@@ -284,6 +284,8 @@
   translation: Club de conversación en portugués
 - id: enquiry_online_instruction
   translation: Indica tu nivel, objetivo, preferencia por clases particulares o grupales, zona horaria y disponibilidad.
+- id: enquiry_online_group_instruction
+  translation: Indica tu nivel, objetivo, país o zona horaria y los días y horarios que puedes asistir.
 - id: enquiry_gold_coast_group_instruction
   translation: Indica tu nivel, si es para una persona adulta o menor, tu suburbio y tu disponibilidad.
 - id: enquiry_gold_coast_private_instruction

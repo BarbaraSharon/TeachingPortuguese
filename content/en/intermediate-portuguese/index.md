@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Intermediate Brazilian Portuguese Lessons"
 description: "Build on the basics with intermediate Brazilian Portuguese lessons for conversation, pronunciation, vocabulary, grammar, and everyday communication."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png
@@ -30,8 +30,8 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Explore the speaking club
-      url: /en/portuguese-speaking-club/
+      text: Explore online group classes
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
       icon: hero/users
       style: ghost
     media:
@@ -91,6 +91,18 @@ sections:
     text: Contact Barbara about intermediate lessons
     url: /en/contact-portuguese-teacher/
     icon: hero/chat-bubble-left-right
+- block: cta-card
+  id: intermediate-lesson-example
+  content:
+    title: Example intermediate practice
+    text: Choose a familiar topic, speak for one minute, and then reformulate two sentences with more precise vocabulary or grammar. Barbara can use the attempt to give specific feedback and return the corrected language to a real conversation.
+    button:
+      text: Ask about intermediate group practice
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: Ready to move beyond the basics?

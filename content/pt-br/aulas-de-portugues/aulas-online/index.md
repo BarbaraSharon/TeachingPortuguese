@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Aulas online de português brasileiro"
 description: "Estude português brasileiro online de qualquer lugar, em aulas particulares ou em grupo ao vivo para adultos de vários níveis, negócios ou viagens."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png
@@ -53,7 +53,7 @@ sections:
     - name: Aulas online em grupo
       icon: hero/users
       description: Pratique fala, escuta e vocabulário com outros alunos em um grupo acolhedor.
-      url: /pt-br/contato-professora-portugues/
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
     - name: Do iniciante ao avançado
       icon: hero/academic-cap
       description: Construa fundamentos, fortaleça a conversação ou refine fluência e pronúncia avançadas.

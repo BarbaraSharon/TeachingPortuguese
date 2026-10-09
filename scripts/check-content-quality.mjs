@@ -34,6 +34,7 @@ const services = sourceFiles.filter((file) => /^service:\s*$/m.test(fs.readFileS
 const expectedModes = {
   "aulas-de-portugues": "online, in_person",
   "aulas-online": "online",
+  "online-group-portuguese-classes": "online",
   "aulas-particulares-portugues-gold-coast": "online, in_person",
   "escola-de-portugues-gold-coast": "in_person",
   "ensino-de-portugues-gold-coast": "in_person",
@@ -43,7 +44,7 @@ const expectedModes = {
   "portugues-para-criancas": "in_person",
   "clube-de-conversacao": "online, in_person",
 };
-assert.equal(services.length, 30, `Expected 30 service pages, found ${services.length}`);
+assert.equal(services.length, 33, `Expected 33 service pages, found ${services.length}`);
 for (const file of services) {
   const text = fs.readFileSync(file, "utf8");
   const key = text.match(/^translationKey:\s*([^\n]+)/m)?.[1]?.trim();

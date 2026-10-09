@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Clases de portugués brasileño online"
 description: "Estudia portugués brasileño online desde cualquier lugar, en clases particulares o grupales para adultos, negocios y viajes."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/portuguese-teaching-services/online-portuguese-lessons/online-portuguese-lessons-brazilian-portuguese-lessons.png
@@ -53,7 +53,7 @@ sections:
     - name: Clases grupales en línea
       icon: hero/users
       description: Practica conversación, comprensión auditiva y vocabulario con otros estudiantes en un grupo de apoyo.
-      url: /es/contacto-profesora-portugues/
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
     - name: De principiante a avanzado
       icon: hero/academic-cap
       description: Construye tus bases, refuerza la conversación o perfecciona la fluidez y la pronunciación avanzadas.

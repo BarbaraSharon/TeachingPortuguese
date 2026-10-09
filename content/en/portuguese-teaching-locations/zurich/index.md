@@ -3,7 +3,7 @@ translationKey: location-zurich
 title: "Online Brazilian Portuguese Lessons in Zurich"
 description: "Online Brazilian Portuguese lessons in Zurich, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/zurich/
 image:
@@ -61,3 +61,7 @@ In Zurich, learning Portuguese opens doors to understanding Brazil’s rich lite
 Barbara Sharon offers flexible online Portuguese lessons in Zurich that combine private and group formats to suit your preferences. Each session is carefully crafted using interactive multimedia tools, ensuring an engaging learning experience tailored to your interests.
 
 Whether you're seeking beginner-friendly Brazilian Portuguese classes or want to sharpen your conversational skills, these sessions are designed to enhance both comprehension and cultural fluency. From mastering basic greetings like “Olá!” to understanding colloquial expressions used in daily life, Barbara helps you progress step-by-step.
+
+## Find an online group from Zurich
+
+Learners in Zurich can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

@@ -3,7 +3,7 @@ translationKey: location-zurich
 title: "Clases online de portugués brasileño en Zurich"
 description: "Clases online de portugués brasileño en Zurich, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/zurich/zurich-location-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Zúrich | Clases de portugués brasileño con Barbara Sharon
@@ -64,3 +64,7 @@ En Zúrich, aprender portugués abre puertas a comprender las ricas tradiciones 
 Barbara Sharon ofrece clases de portugués en línea flexibles en Zúrich, que combinan formatos particulares y grupales para ajustarse a tus preferencias. Cada sesión se prepara cuidadosamente con herramientas multimedia interactivas, asegurando una experiencia atractiva adaptada a tus intereses.
 
 Tanto si buscas clases de portugués brasileño adecuadas para principiantes como desarrollar conversación, estas sesiones están diseñadas para mejorar comprensión y fluidez cultural. Desde dominar saludos básicos como “Olá!” hasta entender expresiones coloquiales de uso diario, Barbara te ayuda a avanzar paso a paso.
+
+## Encuentra un grupo online desde Zúrich
+
+Las personas que aprenden desde Zúrich pueden preguntar por un grupo online en directo según su nivel y objetivos. Los horarios cambian cada trimestre y pueden adaptarse a distintos horarios locales. Comparte tu zona horaria, nivel, objetivo y días disponibles cuando [contactes con Barbara](/es/contacto-profesora-portugues/).

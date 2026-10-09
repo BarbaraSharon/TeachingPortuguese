@@ -3,7 +3,7 @@ translationKey: location-singapore
 title: "Aulas online de português brasileiro em Singapore"
 description: "Aulas online de português brasileiro em Singapore, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/singapore/singapore-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Singapura | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -64,3 +64,7 @@ Em Singapura, aprender português abre portas para oportunidades de negócios in
 Barbara Sharon oferece aulas flexíveis de português online em Singapura, incluindo sessões particulares e em grupo. Essas aulas interativas usam ferramentas multimídia, exemplos da vida real e conteúdo culturalmente relevante para tornar o aprendizado agradável e prático.
 
 Quer você seja iniciante absoluto ou queira aperfeiçoar suas habilidades de conversação, nossas aulas são concebidas para todos os níveis. Você desenvolverá confiança para falar, ouvir, ler e escrever enquanto explora o fascinante mundo da cultura lusófona por meio de atividades envolventes e materiais autênticos.
+
+## Encontre uma turma online a partir de Singapura
+
+Quem aprende a partir de Singapura pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).

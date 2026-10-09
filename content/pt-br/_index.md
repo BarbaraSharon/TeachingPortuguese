@@ -1,5 +1,5 @@
 ---
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 translationKey: home
 title: "Aprenda português com Barbara Sharon"
 summary: "Aprenda português brasileiro com Barbara Sharon em aulas particulares e em grupo online no mundo todo, além de opções presenciais na Gold Coast."
@@ -73,6 +73,18 @@ sections:
       description: Formatos de aula flexíveis
   design:
     layout: minimal
+- block: cta-card
+  id: video-lesson-notes
+  content:
+    title: Pratique com a aula para iniciantes
+    text: O vídeo apresenta vocabulário essencial e fundamentos de gramática do português brasileiro. Pause depois de cada seção, repita o idioma em voz alta e escreva uma frase útil para uma conversa real.
+    button:
+      text: Veja o caminho para iniciantes
+      url: /pt-br/portugues-para-iniciantes/
+      icon: hero/academic-cap
+      style: outline
+  design:
+    alignment: center
 - block: features
   content:
     subtitle: Aulas de português
@@ -91,6 +103,10 @@ sections:
       icon: hero/sparkles
       description: Desenvolva a fluência, refine a pronúncia e explore conversação, gramática e nuances culturais avançadas.
       url: /pt-br/portugues-avancado/
+    - name: Aulas online em grupo
+      icon: hero/users
+      description: Participe de um grupo ao vivo para o seu nível e pratique português brasileiro com outros adultos do mundo todo.
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
     - name: Português para negócios
       icon: hero/briefcase
       description: Desenvolva habilidades práticas de comunicação em português para conversas no trabalho, relações profissionais e viagens de negócios.

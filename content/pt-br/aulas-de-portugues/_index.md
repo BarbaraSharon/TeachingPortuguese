@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Aulas de português: formatos e opções"
 description: "Explore aulas de português brasileiro para diferentes níveis e objetivos, online no mundo todo e particulares ou em grupo na Gold Coast."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: services
 image:
   filename: pages/portuguese-teaching-services/portuguese-teaching-services-brazilian-portuguese-lessons.png
@@ -102,6 +102,17 @@ sections:
       button:
         text: Conheça as aulas online
         url: /pt-br/aulas-de-portugues/aulas-online/
+    - title: Aulas online em grupo para todo o mundo
+      text: Participe de um grupo ao vivo adequado ao seu nível e pratique português brasileiro com outros adultos. Pode haver vários grupos por semana; os horários mudam a cada período.
+      feature_icon: check
+      features:
+      - Grupos iniciantes, intermediários e avançados
+      - Prática semanal ao vivo
+      - Escolha do período e horário por consulta
+      image: services/group-classes-generated.png
+      button:
+        text: Conheça as aulas online em grupo
+        url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
     - title: Aulas particulares presenciais na Gold Coast
       text: Receba orientação individual e direcionada em um ambiente presencial na Gold Coast. As aulas podem ser adaptadas para adultos, desde o início do português até o aperfeiçoamento da conversação avançada.
       feature_icon: check

@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Clases de portugués intermedio para avanzar"
 description: "Avanza desde lo básico con clases de portugués brasileño intermedio para conversación, pronunciación, vocabulario, gramática y comunicación cotidiana."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png
@@ -30,8 +30,8 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Explora el club de conversación
-      url: /es/club-conversacion-portugues/
+      text: Explora las clases grupales online
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
       icon: hero/users
       style: ghost
     media:
@@ -91,6 +91,18 @@ sections:
     text: Contacta con Barbara sobre las clases intermedias
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: cta-card
+  id: intermediate-lesson-example
+  content:
+    title: Ejemplo de práctica intermedia
+    text: Elige un tema conocido, habla durante un minuto y reformula después dos frases con vocabulario o gramática más precisos. Barbara puede usar el intento para darte comentarios concretos y llevar el lenguaje corregido a una conversación real.
+    button:
+      text: Pregunta por la práctica grupal intermedia
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: ¿Listo para ir más allá de lo básico?

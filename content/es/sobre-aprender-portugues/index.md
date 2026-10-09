@@ -3,7 +3,7 @@ translationKey: sobre-aprendizagem-portuguesa
 title: "Conoce a Barbara Sharon, profesora de portugués"
 description: "Conoce a Barbara Sharon y su enfoque para enseñar portugués brasileño, con opciones de clase para estudiantes online o en Gold Coast."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/about-learning-portuguese/about-learning-portuguese.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -28,7 +28,7 @@ Mis cursos están diseñados para estudiantes de todos los niveles, desde princi
 
 Como tutora en Gold Coast, proporciono clases de portugués personalizadas según los objetivos de cada estudiante. Mi método destaca las habilidades de comunicación práctica y la conciencia cultural. Tanto si te preparas para viajar, trabajar o aprender por interés personal, puedo adaptar la conversación, el vocabulario y las explicaciones a tu punto de partida.
 
-Descubre más sobre las [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/), las clases particulares y los cursos de idiomas para estudiantes de Gold Coast, Queensland y otros lugares. La [página de servicios](/es/servicios-clases-portugues/) explica los formatos disponibles y sus condiciones actuales.
+Descubre más sobre las [clases online de portugués brasileño](/es/servicios-clases-portugues/clases-portugues-online/), las clases particulares y los cursos de idiomas para estudiantes de Gold Coast, Queensland y otros lugares. Para una opción semanal estructurada, consulta las [clases grupales online](/es/servicios-clases-portugues/clases-grupales-portugues-online/). La [página de servicios](/es/servicios-clases-portugues/) explica los formatos disponibles y sus condiciones actuales.
 
 ## Cómo valorar si una profesora encaja contigo
 

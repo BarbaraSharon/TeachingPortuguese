@@ -3,7 +3,7 @@ translationKey: aulas-de-portugues
 title: "Brazilian Portuguese Lessons: Course Options"
 description: "Explore Brazilian Portuguese lesson options for different goals and levels, with online formats worldwide and private or group learning on the Gold Coast."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: services
 aliases:
 - /portuguese-teaching-services/
@@ -104,6 +104,17 @@ sections:
       button:
         text: Explore online lessons
         url: /en/portuguese-teaching-services/online-portuguese-lessons/
+    - title: Online group classes worldwide
+      text: Join a live group matched to your level and practise Brazilian Portuguese with other adult learners. Several groups may run each week; times change each term.
+      feature_icon: check
+      features:
+      - Beginner, intermediate, and advanced groups
+      - Weekly live practice with other learners
+      - Enquiry-based term and time matching
+      image: services/group-classes-generated.png
+      button:
+        text: Explore online group classes
+        url: /en/portuguese-teaching-services/online-portuguese-group-classes/
     - title: In-person private lessons on the Gold Coast
       text: Get focused one-to-one guidance in a face-to-face setting on the Gold Coast. Lessons can be tailored for adults, from starting Portuguese to refining advanced conversation.
       feature_icon: check

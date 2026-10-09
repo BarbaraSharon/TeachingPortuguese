@@ -3,7 +3,7 @@ translationKey: location-london
 title: "Clases online de portugués brasileño en London"
 description: "Clases online de portugués brasileño en London, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/london/london-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -64,3 +64,7 @@ Tanto si buscas una profesora de portugués brasileño en Londres como clases ge
 ¿Quieres comenzar tu recorrido con el portugués en Londres? Reserva una clase de portugués con Barbara Sharon y conoce de primera mano su enfoque único. Tanto si eres principiante absoluto como si aspiras a un nivel avanzado, está aquí para guiarte en cada etapa.
 
 “¡Aprender es vivir!”
+
+## Encuentra un grupo online desde Londres
+
+Las personas que aprenden desde Londres pueden preguntar por un grupo online en directo según su nivel y objetivos. Los horarios cambian cada trimestre y pueden adaptarse a distintos horarios locales. Comparte tu zona horaria, nivel, objetivo y días disponibles cuando [contactes con Barbara](/es/contacto-profesora-portugues/).

@@ -3,7 +3,7 @@ translationKey: location-singapore
 title: "Online Brazilian Portuguese Lessons in Singapore"
 description: "Online Brazilian Portuguese lessons in Singapore, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/singapore/
 image:
@@ -58,3 +58,7 @@ In Singapore, learning Portuguese opens doors to international business opportun
 Barbara Sharon offers flexible online Portuguese lessons in Singapore, including both private and group sessions. These interactive classes use multimedia tools, real-life examples, and culturally relevant content to make learning enjoyable and practical.
 
 Whether you're a complete beginner or looking to refine your conversational skills, our lessons are designed for all levels. You’ll gain confidence in speaking, listening, reading, and writing while exploring the fascinating world of Lusophone culture through engaging activities and authentic materials.
+
+## Find an online group from Singapore
+
+Learners in Singapore can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

@@ -3,7 +3,7 @@ translationKey: location-new-york
 title: "Online Brazilian Portuguese Lessons in New York"
 description: "Online Brazilian Portuguese lessons in New York, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/new-york/
 image:
@@ -63,3 +63,7 @@ Barbara offers flexible scheduling for her [Portuguese teaching services](/en/po
 ## Contact for a Portuguese Lesson
 
 Interested in learning Portuguese in New York? Contact Barbara Sharon for a Portuguese lesson and discover how her teaching approach can help you achieve your language goals. Whether you're a complete beginner or looking to advance your skills, she's here to support your journey with personalized Brazilian Portuguese lessons near you.
+
+## Find an online group from New York
+
+Learners in New York can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

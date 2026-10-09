@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Clases de portugués avanzado para progresar"
 description: "Perfecciona tu portugués brasileño avanzado con conversación, pronunciación, gramática, vocabulario y matices culturales adaptados a tus objetivos."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png
@@ -30,8 +30,8 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Explora el club de conversación
-      url: /es/club-conversacion-portugues/
+      text: Explora las clases grupales online
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
       icon: hero/users
       style: ghost
     media:
@@ -91,6 +91,18 @@ sections:
     text: Contacta con Barbara sobre las clases avanzadas
     url: /es/contacto-profesora-portugues/
     icon: hero/chat-bubble-left-right
+- block: cta-card
+  id: advanced-lesson-example
+  content:
+    title: Ejemplo de práctica avanzada
+    text: Explica una opinión, reformula una frase para añadir matices y responde a una pregunta de seguimiento sin cambiar al inglés. Barbara puede centrarse en la pronunciación, la expresión natural, la gramática y el significado cultural de tus palabras.
+    button:
+      text: Pregunta por la práctica grupal avanzada
+      url: /es/servicios-clases-portugues/clases-grupales-portugues-online/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: ¿Listo para perfeccionar tu portugués?

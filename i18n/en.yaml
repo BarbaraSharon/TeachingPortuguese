@@ -284,6 +284,8 @@
   translation: Portuguese speaking club
 - id: enquiry_online_instruction
   translation: Please share your level, goal, private or group preference, time zone and availability.
+- id: enquiry_online_group_instruction
+  translation: Please share your level, goal, country or time zone, and the days and times you can attend.
 - id: enquiry_gold_coast_group_instruction
   translation: Please share your level, adult or child preference, suburb and availability.
 - id: enquiry_gold_coast_private_instruction

@@ -3,7 +3,7 @@ translationKey: location-austin
 title: "Clases online de portugués brasileño en Austin"
 description: "Clases online de portugués brasileño en Austin, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/austin/austin-brazilian-portuguese-lesson.png
   alt_text: Aprende portugués brasileño en Austin | Clases particulares y grupales en línea con Barbara Sharon
@@ -51,3 +51,7 @@ Las clases particulares ofrecen atención personalizada y las clases grupales pe
 ## Empieza hoy tu camino
 
 ¿Te interesa aprender portugués en Austin? Contacta con Barbara Sharon para una clase de portugués y comienza tu recorrido. Tanto si buscas una profesora de portugués brasileño, una clase de conversación o clases adecuadas para principiantes, ofrece enseñanza personalizada según tus objetivos. Con opciones de profesora de portugués en línea, encontrar las clases adecuadas cerca de ti es más sencillo.
+
+## Encuentra un grupo online desde Austin
+
+Las personas que aprenden desde Austin pueden preguntar por un grupo online en directo según su nivel y objetivos. Los horarios cambian cada trimestre y pueden adaptarse a distintos horarios locales. Comparte tu zona horaria, nivel, objetivo y días disponibles cuando [contactes con Barbara](/es/contacto-profesora-portugues/).

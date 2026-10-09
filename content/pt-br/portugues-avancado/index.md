@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Aulas de português avançado para progredir"
 description: "Aperfeiçoe o português brasileiro avançado com conversação, pronúncia, gramática, vocabulário e nuances culturais adaptados aos seus objetivos."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png
@@ -30,8 +30,8 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Conheça o clube de conversação
-      url: /pt-br/clube-de-conversacao/
+      text: Conheça as aulas online em grupo
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
       icon: hero/users
       style: ghost
     media:
@@ -91,6 +91,18 @@ sections:
     text: Fale com a Barbara sobre aulas avançadas
     url: /pt-br/contato-professora-portugues/
     icon: hero/chat-bubble-left-right
+- block: cta-card
+  id: advanced-lesson-example
+  content:
+    title: Exemplo de prática avançada
+    text: Explique uma opinião, reformule uma frase para acrescentar nuances e responda a uma pergunta de acompanhamento sem mudar para o inglês. Barbara pode concentrar o feedback na pronúncia, na expressão natural, na gramática e no significado cultural das suas escolhas de palavras.
+    button:
+      text: Pergunte sobre a prática em grupo avançada
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: Pronto para refinar seu português?

@@ -3,7 +3,7 @@ translationKey: portugues-intermediario
 title: "Aulas de português intermediário para avançar"
 description: "Vá além do básico com aulas de português brasileiro intermediário para conversação, pronúncia, vocabulário, gramática e comunicação cotidiana."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/intermediate-portuguese/intermediate-portuguese-brazilian-portuguese-lessons.png
@@ -30,8 +30,8 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Conheça o clube de conversação
-      url: /pt-br/clube-de-conversacao/
+      text: Conheça as aulas online em grupo
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
       icon: hero/users
       style: ghost
     media:
@@ -91,6 +91,18 @@ sections:
     text: Fale com a Barbara sobre aulas intermediárias
     url: /pt-br/contato-professora-portugues/
     icon: hero/chat-bubble-left-right
+- block: cta-card
+  id: intermediate-lesson-example
+  content:
+    title: Exemplo de prática intermediária
+    text: Escolha um tema conhecido, fale por um minuto e depois reformule duas frases com vocabulário ou gramática mais precisos. Barbara pode usar a tentativa para oferecer feedback específico e levar a linguagem corrigida de volta para uma conversa real.
+    button:
+      text: Pergunte sobre a prática em grupo intermediária
+      url: /pt-br/aulas-de-portugues/aulas-grupais-portugues-online/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: Pronto para ir além do básico?

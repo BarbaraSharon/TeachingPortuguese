@@ -130,6 +130,8 @@
     const language = document.documentElement.lang || window.location.pathname.split("/").filter(Boolean)[0] || "unspecified";
     window.gtag("event", "contact_click", {
       lesson_format: getLessonFormat(window.location.pathname, anchor),
+      enquiry_intent: anchor?.dataset?.enquiryIntent || "unspecified",
+      enquiry_offer: anchor?.dataset?.enquiryOffer || "",
       language,
       channel,
       page_path: window.location.pathname

@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Clube de conversação em português brasileiro"
 description: "Pratique conversação em português brasileiro com Barbara Sharon em um clube acolhedor que incentiva a fala, a escuta e a comunicação natural."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-speaking-club/portuguese-speaking-club-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -25,6 +25,8 @@ service:
 Pronto para levar o seu português ao próximo nível? O Clube de Conversação em Português é um ambiente de grupo envolvente e acolhedor onde você pode praticar conversação de verdade, ganhar confiança e desenvolver a fluência com outros estudantes de português.
 
 O Clube de Conversação em Português ajuda alunos iniciantes e avançados a praticar português brasileiro, melhorar a pronúncia e ampliar o vocabulário. As sessões podem ser online ou presenciais, conforme a disponibilidade. Barbara Sharon é professora qualificada de português brasileiro e conselheira de saúde mental, e cria um espaço acolhedor para conversas reais.
+
+O Clube é uma prática de conversação, e não um curso estruturado de 10 semanas por nível. Se você procura uma turma semanal com uma progressão compartilhada, conheça as [aulas online em grupo](/pt-br/aulas-de-portugues/aulas-grupais-portugues-online/). Fale com a Barbara informando seu nível e disponibilidade para comparar as opções atuais.
 
 ## Preços do Clube de Conversação
 

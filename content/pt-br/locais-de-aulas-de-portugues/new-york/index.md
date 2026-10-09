@@ -3,7 +3,7 @@ translationKey: location-new-york
 title: "Aulas online de português brasileiro em New York"
 description: "Aulas online de português brasileiro em New York, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/new-york/new-york-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, professora e tutora de português brasileiro
@@ -67,3 +67,7 @@ Barbara oferece horários flexíveis para seus [serviços de aulas de português
 ## Entre em contato para uma aula de português
 
 Tem interesse em aprender português em Nova York? Entre em contato com Barbara Sharon para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante absoluto ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada com aulas personalizadas de português brasileiro perto de você.
+
+## Encontre uma turma online a partir de Nova York
+
+Quem aprende a partir de Nova York pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).

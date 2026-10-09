@@ -12,6 +12,7 @@
 
   const validIntents = new Set([
     "online",
+    "online_group",
     "gold_coast_group",
     "gold_coast_private",
     "group",
@@ -72,6 +73,8 @@
       originalAnchors.set(anchor, {
         href: anchor.getAttribute("href") || "",
         lessonFormat: anchor.getAttribute("data-lesson-format") || "unspecified",
+        enquiryIntent: anchor.getAttribute("data-enquiry-intent"),
+        enquiryOffer: anchor.getAttribute("data-enquiry-offer"),
       });
     }
     return originalAnchors.get(anchor);
@@ -80,6 +83,10 @@
   function restoreAnchor(anchor, original) {
     anchor.setAttribute("href", original.href);
     anchor.setAttribute("data-lesson-format", original.lessonFormat);
+    if (original.enquiryIntent === null) anchor.removeAttribute("data-enquiry-intent");
+    else anchor.setAttribute("data-enquiry-intent", original.enquiryIntent);
+    if (original.enquiryOffer === null) anchor.removeAttribute("data-enquiry-offer");
+    else anchor.setAttribute("data-enquiry-offer", original.enquiryOffer);
   }
 
   function applyToAnchor(anchor, context) {
@@ -93,6 +100,9 @@
     }
 
     anchor.setAttribute("data-lesson-format", context.intent);
+    anchor.setAttribute("data-enquiry-intent", context.intent);
+    if (context.offerId) anchor.setAttribute("data-enquiry-offer", context.offerId);
+    else anchor.removeAttribute("data-enquiry-offer");
     if (channel === "phone") return;
 
     let url;

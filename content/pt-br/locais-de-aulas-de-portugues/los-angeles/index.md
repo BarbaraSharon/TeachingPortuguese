@@ -3,7 +3,7 @@ translationKey: location-los-angeles
 title: "Aulas online de português brasileiro em Los Angeles"
 description: "Aulas online de português brasileiro em Los Angeles, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/los-angeles/los-angeles-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Los Angeles | Barbara Sharon - aulas de português brasileiro com Barbara Sharon
@@ -73,3 +73,7 @@ Os alunos recebem materiais adaptados aos seus interesses específicos e objetiv
 Está pronto para iniciar sua jornada rumo à fluência em português? Entre em contato com Barbara Sharon hoje para uma aula de português e descubra como sua abordagem de ensino pode ajudar você a alcançar seus objetivos linguísticos. Quer você seja iniciante completo ou queira avançar suas habilidades, ela está aqui para apoiar sua jornada.
 
 Barbara oferece aulas online particulares e em grupo, facilitando que estudantes em Los Angeles encontrem o formato ideal para suas necessidades de aprendizagem. Conheça suas opções pela página de [serviços](/pt-br/aulas-de-portugues/) ou entre em contato pela página de [contato](/pt-br/contato-professora-portugues/) hoje.
+
+## Encontre uma turma online a partir de Los Angeles
+
+Quem aprende a partir de Los Angeles pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).

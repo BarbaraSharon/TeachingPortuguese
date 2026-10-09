@@ -3,7 +3,7 @@ translationKey: location-washington-dc
 title: "Clases online de portugués brasileño en Washington Dc"
 description: "Clases online de portugués brasileño en Washington Dc, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/washington-dc/washington-dc-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -70,3 +70,7 @@ Hay clases particulares y grupales de portugués en línea en Washington DC. Nue
 Tanto si buscas una tutora de portugués cerca de ti en Washington DC como clases de portugués brasileño en Washington DC, nuestra plataforma ofrece enseñanza accesible y personalizada para estudiantes de todos los niveles. Para quienes desean una introducción apta para principiantes, también ofrecemos clases de portugués para principiantes en Washington DC que construyen una base sólida.
 
 ¿Listo para empezar tu recorrido con el portugués? Encuentra una tutora de portugués en línea en Washington DC que pueda ayudarte a alcanzar fluidez mediante horarios flexibles y atención personalizada.
+
+## Encuentra un grupo online desde Washington DC
+
+Las personas que aprenden desde Washington DC pueden preguntar por un grupo online en directo según su nivel y objetivos. Los horarios cambian cada trimestre y pueden adaptarse a distintos horarios locales. Comparte tu zona horaria, nivel, objetivo y días disponibles cuando [contactes con Barbara](/es/contacto-profesora-portugues/).

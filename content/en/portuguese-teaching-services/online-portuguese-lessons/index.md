@@ -3,7 +3,7 @@ translationKey: aulas-online
 title: "Online Brazilian Portuguese Lessons Worldwide"
 description: "Live Brazilian Portuguese lessons online worldwide in private or group formats for beginner, intermediate, advanced, business, or travel goals."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 aliases:
 - /portuguese-teaching-services/online-portuguese-lessons/
@@ -55,7 +55,7 @@ sections:
     - name: Online group lessons
       icon: hero/users
       description: Practise speaking, listening, and vocabulary with other learners in a supportive group.
-      url: /en/contact-portuguese-teacher/
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
     - name: Beginner to advanced
       icon: hero/academic-cap
       description: Build foundations, strengthen conversation, or refine advanced fluency and pronunciation.

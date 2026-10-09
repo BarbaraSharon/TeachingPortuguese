@@ -3,7 +3,7 @@ translationKey: location-dublin
 title: "Clases online de portugués brasileño en Dublin"
 description: "Clases online de portugués brasileño en Dublin, con Barbara Sharon. Formatos individual y grupal según disponibilidad. A tu ritmo."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/dublin/dublin-location-portuguese-lesson.png
   alt_text: Aprende portugués en Dublín | Clases en línea de portugués brasileño con Barbara Sharon
@@ -59,3 +59,7 @@ Como profesora de portugués en Dublín, proporciona clases individuales y en gr
 Aprender portugués en Dublín te conecta con una comunidad creciente de hablantes y eventos culturales que enriquecen tu experiencia de aprendizaje. Tanto si te interesan clases de portugués brasileño en Dublín como clases generales de portugués, Barbara Sharon está aquí para acompañar tu recorrido.
 
 ¿Listo para empezar? Contacta con Barbara Sharon para una clase de portugués y descubre cómo la tutoría de portugués en línea eficaz en Dublín puede mejorar tus habilidades y confianza. ¡Aprende hoy portugués en Dublín con una hablante nativa cualificada y experta cultural!
+
+## Encuentra un grupo online desde Dublín
+
+Las personas que aprenden desde Dublín pueden preguntar por un grupo online en directo según su nivel y objetivos. Los horarios cambian cada trimestre y pueden adaptarse a distintos horarios locales. Comparte tu zona horaria, nivel, objetivo y días disponibles cuando [contactes con Barbara](/es/contacto-profesora-portugues/).

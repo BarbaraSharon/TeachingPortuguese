@@ -3,7 +3,7 @@ translationKey: clube-de-conversacao
 title: "Club de conversación en portugués brasileño"
 description: "Practica conversación en portugués brasileño con Barbara Sharon en un club de apoyo que anima a hablar, escuchar y comunicarse con naturalidad."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-speaking-club/portuguese-speaking-club-brazilian-portuguese-lessons.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -25,6 +25,8 @@ service:
 ¿Listo para llevar tu portugués al siguiente nivel? El Club de conversación en portugués es un entorno grupal dinámico y acogedor donde puedes practicar conversaciones reales, ganar confianza y desarrollar tu fluidez junto a otros estudiantes.
 
 El Club ayuda a estudiantes principiantes y avanzados a practicar portugués brasileño, mejorar la pronunciación y ampliar el vocabulario. Las sesiones pueden ser en línea o presenciales, según la disponibilidad. Barbara Sharon es profesora cualificada de portugués brasileño y consejera de salud mental, y crea un espacio seguro para conversar de verdad.
+
+El Club es práctica de conversación, no un curso estructurado de 10 semanas por nivel. Si buscas un grupo semanal con una progresión compartida, consulta las [clases grupales online](/es/servicios-clases-portugues/clases-grupales-portugues-online/). Contacta con Barbara con tu nivel y disponibilidad para comparar las opciones actuales.
 
 ## Precios del Club de conversación
 

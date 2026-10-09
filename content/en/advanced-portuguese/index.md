@@ -3,7 +3,7 @@ translationKey: portugues-avancado
 title: "Advanced Brazilian Portuguese Lessons"
 description: "Refine advanced Brazilian Portuguese through conversation, pronunciation, grammar, vocabulary, and cultural nuance in lessons shaped around your goals."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 type: landing
 image:
   filename: pages/advanced-portuguese/advanced-portuguese-brazilian-portuguese-lessons.png
@@ -30,8 +30,8 @@ sections:
       icon: hero/chat-bubble-left-right
       style: gradient
     secondary_action:
-      text: Explore the speaking club
-      url: /en/portuguese-speaking-club/
+      text: Explore online group classes
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
       icon: hero/users
       style: ghost
     media:
@@ -91,6 +91,18 @@ sections:
     text: Contact Barbara about advanced lessons
     url: /en/contact-portuguese-teacher/
     icon: hero/chat-bubble-left-right
+- block: cta-card
+  id: advanced-lesson-example
+  content:
+    title: Example advanced practice
+    text: Explain an opinion, reformulate one sentence to add nuance, and respond to a follow-up question without switching to English. Barbara can focus feedback on pronunciation, natural expression, grammar, and the cultural meaning carried by your word choices.
+    button:
+      text: Ask about advanced group practice
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
+      icon: hero/users
+      style: outline
+  design:
+    alignment: center
 - block: cta-card
   content:
     title: Ready to refine your Portuguese?

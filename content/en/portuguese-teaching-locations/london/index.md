@@ -3,7 +3,7 @@ translationKey: location-london
 title: "Online Brazilian Portuguese Lessons in London"
 description: "Online Brazilian Portuguese lessons in London, with Barbara Sharon. Private and group formats available online. Start at your pace."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 aliases:
 - /portuguese-teaching-locations/london/
 image:
@@ -59,3 +59,7 @@ Whether you're looking for a Brazilian Portuguese teacher in London or general P
 Ready to begin your Portuguese learning journey in London? Book a Portuguese lesson with Barbara Sharon and experience her unique teaching approach firsthand. Whether you're a complete beginner or aiming for advanced proficiency, she's here to guide you every step of the way.
 
 "Aprender é viver!" (Learning is living!)
+
+## Find an online group from London
+
+Learners in London can ask about a live online group matched to their level and goals. Group times change each term and may suit different local schedules. Share your time zone, level, goal, and available days when you [contact Barbara](/en/contact-portuguese-teacher/).

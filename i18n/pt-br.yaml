@@ -284,6 +284,8 @@
   translation: Clube de conversação em português
 - id: enquiry_online_instruction
   translation: Informe seu nível, objetivo, preferência por aulas particulares ou em grupo, fuso horário e disponibilidade.
+- id: enquiry_online_group_instruction
+  translation: Informe seu nível, objetivo, país ou fuso horário e os dias e horários em que pode participar.
 - id: enquiry_gold_coast_group_instruction
   translation: Informe seu nível, se é para adulto ou criança, seu subúrbio e sua disponibilidade.
 - id: enquiry_gold_coast_private_instruction

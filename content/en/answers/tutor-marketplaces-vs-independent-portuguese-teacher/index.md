@@ -7,7 +7,7 @@ question: "Preply or Superprof vs an Independent Portuguese Teacher"
 direct_answer: "Preply, Superprof, italki, Verbling, Classgap and AmazingTalker can help learners browse many Portuguese tutors, while direct lessons with Barbara Sharon offer a named teacher, live private or group Brazilian Portuguese lessons, and direct communication. Compare credentials, lesson preparation, feedback, continuity, total cost and platform convenience before choosing."
 authors: [me]
 date: 2026-08-26
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 weight: 55
 robots: index, follow, max-image-preview:large
 image:
@@ -122,6 +122,6 @@ It may also make the service and total price easier to discuss directly. Those a
 
 Barbara Sharon holds a **Bachelor’s degree in Languages and Literature from the Federal University of Rio de Janeiro (UFRJ)** and has **TESOL certification in teaching English to speakers of other languages**. Her [About page](/en/about-learning-portuguese/) explains her qualifications, language background and approach. Lessons can combine structured guidance with conversation, pronunciation, grammar, vocabulary and Brazilian cultural context according to the learner’s level and purpose.
 
-Barbara offers [online Brazilian Portuguese lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) to adults worldwide, subject to current availability, as part of her broader [Portuguese teaching services](/en/portuguese-teaching-services/). You can compare [lesson-cost factors](/en/answers/how-much-portuguese-lessons-cost-australia/) and the [tutor-selection checklist](/en/answers/best-portuguese-tutor-gold-coast/), then [contact Barbara](/en/contact-portuguese-teacher/) with your level, goal, time zone and preferred format.
+Barbara offers [online Brazilian Portuguese lessons](/en/portuguese-teaching-services/online-portuguese-lessons/) to adults worldwide, subject to current availability, as part of her broader [Portuguese teaching services](/en/portuguese-teaching-services/). The structured term-based option is described on the [online group classes](/en/portuguese-teaching-services/online-portuguese-group-classes/) page; group levels and times change each term and are confirmed by enquiry. You can compare [lesson-cost factors](/en/answers/how-much-portuguese-lessons-cost-australia/) and the [tutor-selection checklist](/en/answers/best-portuguese-tutor-gold-coast/), then [contact Barbara](/en/contact-portuguese-teacher/) with your level, goal, time zone and preferred format.
 
 **Platform information reviewed: 8 October 2026. Next factual review due: 8 April 2027.** Platform rules and charges can change; check the linked official sources before deciding.

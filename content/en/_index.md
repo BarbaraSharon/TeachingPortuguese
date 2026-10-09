@@ -1,5 +1,5 @@
 ---
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 video_publication_date: 2024-01-15T00:00:00+00:00
 translationKey: home
 title: "Brazilian Portuguese Lessons with Barbara Sharon"
@@ -77,6 +77,18 @@ sections:
       description: Flexible lesson formats
   design:
     layout: minimal
+- block: cta-card
+  id: video-lesson-notes
+  content:
+    title: Practise with the beginner lesson
+    text: The featured video introduces essential Brazilian Portuguese vocabulary and grammar fundamentals. Pause after each section, repeat the language aloud, and write one useful sentence you could use in a real conversation.
+    button:
+      text: See the beginner learning path
+      url: /en/beginner-portuguese/
+      icon: hero/academic-cap
+      style: outline
+  design:
+    alignment: center
 - block: features
   content:
     subtitle: Portuguese lessons
@@ -95,6 +107,10 @@ sections:
       icon: hero/sparkles
       description: Develop fluency, refine pronunciation, and explore advanced conversation, grammar, and cultural nuances.
       url: /en/advanced-portuguese/
+    - name: Online group classes
+      icon: hero/users
+      description: Join a live group for your level and practise Brazilian Portuguese with other adult learners worldwide.
+      url: /en/portuguese-teaching-services/online-portuguese-group-classes/
     - name: Portuguese for business
       icon: hero/briefcase
       description: Build practical Portuguese communication skills for workplace conversations, professional relationships, and business travel.

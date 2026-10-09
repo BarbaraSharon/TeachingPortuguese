@@ -7,7 +7,7 @@ question: "Preply, Superprof ou professora independente de português"
 direct_answer: "Preply, Superprof, italki, Verbling, Classgap e AmazingTalker ajudam alunos a explorar muitos perfis de professores de português, mas um perfil em uma plataforma não garante, por si só, a formação, a preparação ou a continuidade de que você precisa. Uma professora independente qualificada pode trabalhar diretamente com você, preparar aulas conforme seus objetivos e manter um único plano de aprendizagem ao longo do tempo. Antes de escolher, compare credenciais, preparação, feedback, continuidade, custo total e conveniência."
 authors: [me]
 date: 2026-08-26
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 weight: 55
 robots: index, follow, max-image-preview:large
 image:
@@ -124,6 +124,6 @@ Também pode ser mais simples conversar diretamente sobre o serviço e o custo t
 
 Barbara Sharon é **bacharela em Letras pela Universidade Federal do Rio de Janeiro (UFRJ)** e **instrutora certificada em TESOL**. Sua [página sobre a Barbara](/pt-br/sobre-aprendizagem-portuguesa/) explica sua formação, os idiomas que fala e sua abordagem. As aulas podem combinar orientação estruturada, conversação, pronúncia, gramática, vocabulário e contexto cultural brasileiro conforme o nível e a finalidade do aluno.
 
-Barbara oferece [aulas online de português brasileiro](/pt-br/aulas-de-portugues/aulas-online/) para adultos no mundo todo, conforme a disponibilidade atual, dentro de seus [serviços de aulas de português](/pt-br/aulas-de-portugues/). Você pode comparar os [fatores de preço](/pt-br/respostas/quanto-custam-aulas-portugues-australia/) e o [guia para escolher professor](/pt-br/respostas/melhor-professor-portugues-gold-coast/) e depois [falar com a Barbara](/pt-br/contato-professora-portugues/) informando seu nível, objetivo, fuso horário e formato preferido.
+Barbara oferece [aulas online de português brasileiro](/pt-br/aulas-de-portugues/aulas-online/) para adultos no mundo todo, conforme a disponibilidade atual, dentro de seus [serviços de aulas de português](/pt-br/aulas-de-portugues/). A opção estruturada por períodos é descrita nas [aulas online em grupo](/pt-br/aulas-de-portugues/aulas-grupais-portugues-online/); os níveis e horários mudam a cada período e são confirmados por consulta. Você pode comparar os [fatores de preço](/pt-br/respostas/quanto-custam-aulas-portugues-australia/) e o [guia para escolher professor](/pt-br/respostas/melhor-professor-portugues-gold-coast/) e depois [falar com a Barbara](/pt-br/contato-professora-portugues/) informando seu nível, objetivo, fuso horário e formato preferido.
 
 **Informações das plataformas revisadas em 8 de outubro de 2026. Próxima revisão factual prevista para 8 de abril de 2027.** As regras e cobranças podem mudar; consulte as fontes oficiais indicadas antes de decidir.

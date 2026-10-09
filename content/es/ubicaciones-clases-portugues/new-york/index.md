@@ -3,7 +3,7 @@ translationKey: location-new-york
 title: "Clases online de portugués brasileño en New York"
 description: "Clases online de portugués brasileño en New York, con Barbara Sharon. Formatos individual y grupal según disponibilidad."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/new-york/new-york-brazilian-portuguese-tutor.png
   alt_text: Barbara Sharon, profesora y tutora de portugués brasileño
@@ -67,3 +67,7 @@ Barbara ofrece horarios flexibles en sus [servicios de enseñanza de portugués]
 ## Contacta para una clase de portugués
 
 ¿Te interesa aprender portugués en Nueva York? Contacta con Barbara Sharon para una clase de portugués y descubre cómo su enfoque puede ayudarte a alcanzar tus metas. Tanto si eres principiante absoluto como si quieres desarrollar tus habilidades, está aquí para acompañar tu recorrido con clases personalizadas de portugués brasileño cerca de ti.
+
+## Encuentra un grupo online desde Nueva York
+
+Las personas que aprenden desde Nueva York pueden preguntar por un grupo online en directo según su nivel y objetivos. Los horarios cambian cada trimestre y pueden adaptarse a distintos horarios locales. Comparte tu zona horaria, nivel, objetivo y días disponibles cuando [contactes con Barbara](/es/contacto-profesora-portugues/).

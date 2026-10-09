@@ -3,7 +3,7 @@ translationKey: location-austin
 title: "Aulas online de português brasileiro em Austin"
 description: "Aulas online de português brasileiro em Austin, com Barbara Sharon. Formatos particular e em grupo conforme disponibilidade."
 date: 2026-08-05
-lastmod: "2026-10-08"
+lastmod: "2026-10-09"
 image:
   filename: pages/portuguese-teaching-locations/austin/austin-brazilian-portuguese-lesson.png
   alt_text: Aprenda português brasileiro em Austin | Aulas online - aulas de português brasileiro com Barbara Sharon
@@ -59,3 +59,7 @@ Barbara Sharon ensina exclusivamente online para alunos em Austin, oferecendo au
 ## Comece hoje sua jornada no português
 
 Tem interesse em aprender português em Austin? Entre em contato com Barbara Sharon para uma aula de português e comece hoje sua jornada linguística! Se você procura uma professora de português brasileiro, uma aula de conversação em português ou aulas acolhedoras para iniciantes, ela oferece ensino personalizado de acordo com seus objetivos. Com opções de tutoria de português online disponíveis, encontrar as aulas de português certas perto de você nunca foi tão fácil.
+
+## Encontre uma turma online a partir de Austin
+
+Quem aprende a partir de Austin pode perguntar sobre uma turma online ao vivo adequada ao seu nível e objetivos. Os horários mudam a cada período e podem atender a diferentes horários locais. Informe seu fuso horário, nível, objetivo e dias disponíveis ao [entrar em contato com Barbara](/pt-br/contato-professora-portugues/).
